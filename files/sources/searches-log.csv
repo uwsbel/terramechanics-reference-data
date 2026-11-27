@@ -1,0 +1,96 @@
+agent,archive,query,date,result_count,useful,notes
+claude,web,NASA CR-121047 lunar surface engineering properties experiment definition Mitchell Berkeley,2026-10-07,9,yes,Four NTRS PDFs under the CR number (19720006167 68 72 75); Apollo 16 PSR soil mechanics chapter
+claude,web,GRC-1 lunar soil simulant cone penetration test data Oravec Zeng Asnani,2026-10-07,9,yes,GRC-1 design paper; reduced-gravity cone index paper; DEM cone penetration into JSC-1A
+claude,web,JSC-1A direct shear triaxial test data NASA technical report simulant geotechnical properties,2026-10-07,9,yes,JSC LASP geotech PDF on ares.jsc.nasa.gov; Zeng 2010; Alshibli 2009; Iai and Luna
+claude,web,Apollo lunar soil mechanics self-recording penetrometer data Mitchell Carrier Costes technical report,2026-10-07,10,yes,PDS Geosciences Apollo 15 and 16 LSRP bundles; S-200 final report NTRS 19740019219
+claude,web,PDS Geosciences Apollo 15 16 lunar self-recording penetrometer dataset raw readings reduced data,2026-10-07,10,yes,Confirmed PDS4 bundles with raw and reduced tables and microfilm scans
+claude,web,Surveyor soil mechanics surface sampler Scott Roberson bearing strength data report NASA,2026-10-07,10,yes,NTRS 19690074497 (JPL); Caltech records; 8 bearing and 14 impact tests on Surveyor 3
+claude,web,WES lunar soil mobility bevameter plate sinkage shear report Waterways Experiment Station 1970 1971 DTIC,2026-10-07,9,yes,M-70-2 (AD0702246); M-71-10 reports 1 and 2 on NTRS and nasa.gov history mirror
+claude,web,LHS-1 LMS-1 lunar simulant geotechnical characterization direct shear data open access Exolith,2026-10-07,9,yes,engrXiv 6408 CC BY; direct shear measurements paper; LSIC 2022 simulant assessment
+claude,web,lunar module landing gear footpad drop test soil penetration Langley Grumman technical note NASA TN,2026-10-07,9,yes,TN D-4711 (McCarty and Carden) single gear impacts on two sands; TN D-6850 experience report
+claude,web,bevameter test data open dataset granular soil sinkage shear ring Zenodo OR Dataverse OR figshare terramechanics,2026-10-07,9,partly,No repository datasets found; Kruger thesis (UP) and KRC bevameter paper
+claude,web,NTRS 19740019219 Apollo soil mechanics experiment S-200 final report,2026-10-07,9,yes,Confirmed record and PDF; Caltech Apollo 14 soil mechanics paper
+claude,web,Costes lunar soil simulant penetration resistance gravity Marshall Space Flight Center NASA TN D cone penetrometer,2026-10-07,9,partly,Costes Cohron Moss 1971 (NTRS 19710063054 citation record); NTRS 19710005729 PDF; no TN D number found
+claude,web,InSight HP3 mole penetration data OR Phoenix robotic arm soil mechanics PDS archived dataset regolith strength,2026-10-07,9,no,Mole penetration resistance values in papers; no raw record identified; out of scope for now
+claude,web,GRC-3 lunar simulant characterization NASA TM He Zeng Oravec geotechnical report triaxial direct shear,2026-10-07,9,yes,He 2013; UVM 2018; NASA TM 20250006761 (to confirm)
+claude,web,NASA Glenn SLOPE lab regolith bin wheel test data public release lunar simulant GRC-1 dataset,2026-10-07,9,no,No public dataset; GRC-1 at 1760 kg/m3 and 38.4 deg mentioned in simulation papers
+claude,web,Viking lander footpad penetration soil mechanics Moore Clow Hutton data report NASA Viking soil properties,2026-10-07,10,yes,USGS PP 1389 PDF
+claude,web,MM-67-2 Bendix lunar soil mechanics OR AM-68-3 Bendix footpad,2026-10-07,9,no,Only AM-68-1 found; MM-67-2 and AM-68-3 remain unlocated (Smithsonian Bellcomm lead stands)
+claude,web,Journal of Terramechanics data in brief OR supplementary dataset pressure-sinkage shear test sand CC BY open data,2026-10-07,9,no,Kruger Els Hamersma 2023 article; no open dataset found
+claude,web,Carrier Mitchell lunar soil returned sample oedometer direct shear Apollo 12 strength compressibility,2026-10-07,9,yes,Carrier Bromwell Martin 1973 ASCE; arXiv 2602.03829 open database (Gasteiner Murdoch D'Angelo)
+claude,web,NTRS 19750023910 OR 19720007590 OR 19730004536 lunar soil simulant report title,2026-10-07,10,partly,19720021195 Boeing LRV wheels report 1; 19720021172 Berkeley semiannual; USBM RI 7814 vacuum shear
+claude,web,Lunokhod penetrometer PrOP lunar soil mechanical properties data Leonovich OR Luna 13 penetrometer results,2026-10-07,10,partly,NTRS 19780005029 translation; summary statistics only
+claude,web,MGS-1 Mars simulant OR EAC-1A OR FJS-1 OR NU-LHT-2M geotechnical shear strength direct shear triaxial characterization open access data,2026-10-07,30,partly,MGS-1 Mendeley data (no mechanics); EAC-1A Sci Rep CC BY (parameters); NU-LHT-2M and FJS-1 papers (restricted)
+claude,web,University of Pretoria repository bevameter dataset Kruger Els Hamersma pressure sinkage shear data download,2026-10-07,20,partly,Thesis handle 2263/93185; data files not confirmed
+claude,web,Lunar Sourcebook chapter 9 physical properties lunar surface Carrier Olhoeft Mendell penetrometer compilation tables,2026-10-07,9,partly,Confirms the chapter compiles Luna Lunokhod Surveyor Apollo measurements; LPI hosts scans
+claude,web,DTIC AD0702246 Freitag Green Melzer performance evaluation wheels lunar vehicles WES M-70-2 soil data cone index,2026-10-07,10,yes,Confirmed M-70-2; further DTIC WES PDFs AD0621045 AD0723406 AD0759501 AD0751750 AD0688876 to screen
+claude,web,NASA Langley penetrometer impact lunar soil model drop tests Hanks Carden 1960s TN D sand penetration acceleration,2026-10-07,9,yes,Langley penetrometer TNs 19660005940 19660027055 19680010895; TN D-4711
+codex,NTRS via web,"site.ntrs.nasa.gov ""soil"" ""GRC-1""",2026-10-07,NA,partial,Malformed site restriction; discovery only.
+codex,NTRS via web,"site.ntrs.nasa.gov ""M-71-10""",2026-10-07,NA,partial,Malformed site restriction; registered WES series encountered.
+codex,Zenodo via web,site.zenodo.org lunar simulant shear data,2026-10-07,NA,no,Malformed site restriction; no verified raw shear archive obtained.
+codex,NTRS via web,"site.ntrs.nasa.gov ""lunar"" ""footpad"" tests",2026-10-07,NA,partial,Malformed site restriction; led toward Langley landing tests.
+codex,NTRS,"site.ntrs.nasa.gov ""mechanical properties"" ""JSC-1""",2026-10-07,NA,partial,Malformed site restriction; later exact-title searches used.
+codex,NTRS,site.ntrs.nasa.gov soil simulant triaxial direct shear,2026-10-07,NA,partial,Malformed site restriction; initial attempt; repeated below.
+codex,ERDC,"site.erdc-library.erdc.dren.mil ""M-71-10""",2026-10-07,NA,partial,Malformed site restriction; initial attempt; repeated below.
+codex,DTIC,site.apps.dtic.mil bevameter sand pressure sinkage,2026-10-07,NA,no,Malformed site restriction; not evidence of archive absence.
+codex,NTRS,site.ntrs.nasa.gov soil simulant triaxial direct shear,2026-10-07,20,yes,Repeated discovery query; NASA and journal characterization leads.
+codex,ERDC,"site.erdc-library.erdc.dren.mil ""M-71-10""",2026-10-07,15,partial,Repeated discovery query; no new independent campaign established.
+codex,DTIC,"site.apps.dtic.mil ""bevameter"" ""sand""",2026-10-07,17,partial,Malformed restriction returned cross-domain literature; corrected query later.
+codex,Zenodo,"site:zenodo.org ""simulant"" ""shear""",2026-10-07,2,partial,Sparse results; no verified reusable shear-displacement series.
+codex,Dataverse,site:dataverse.harvard.edu granular sand triaxial,2026-10-07,0,no,Explicit empty result; applies only to this query and indexed host.
+codex,Open web,"lunar simulant ""direct shear"" ""dataset""",2026-10-07,18,yes,Modern simulant papers and database leads.
+codex,NTRS,"site:ntrs.nasa.gov ""GRC-1"" characterization",2026-10-07,18,yes,GRC characterization and NASA mobility reports.
+codex,NTRS,"NASA soil ""penetration"" ""TN D"" sand",2026-10-07,18,yes,Langley penetrometer and landing-impact reports.
+codex,Open web,"""Design and characterization of GRC-1""",2026-10-07,18,yes,Confirmed Oravec 2010; publisher retrieval restricted.
+codex,NTRS,"""GRC-3"" ""triaxial""",2026-10-07,14,yes,Confirmed GRC-3 strength and stiffness paper.
+codex,Zenodo/PSJ,"""Cohesion and Shear Strength of Compacted Lunar and Martian Regolith Simulants""",2026-10-07,19,yes,Located arXiv paper; CC0 verified through license link.
+codex,NTRS,"""lunar"" ""footpad"" ""Grumman"" tests soil",2026-10-07,18,yes,Langley and Apollo landing-gear lineage; no standalone Grumman raw archive acquired.
+codex,NTRS,"""Apollo 16"" ""soil mechanics"" penetrometer",2026-10-07,17,yes,Located digitized PDS measurements and documentation.
+codex,Open web,"""Luna"" ""penetrometer"" ""soil"" report",2026-10-07,18,yes,NASA Luna 16 and Lunokhod 1 synthesis; original Soviet raw archive not established.
+codex,HathiTrust,"site:hathitrust.org ""soil"" ""Bekker""",2026-10-07,0,no,Explicit empty result; no full-view acquisition established.
+codex,NTRS,"""NASA"" ""TN D-7664""",2026-10-07,7,partial,Three-legged spacecraft model landing report confirmed; granular target not established; omitted from leads.
+codex,NTRS,"""Performance evaluation of wheels for lunar vehicles""",2026-10-07,18,yes,Confirmed M-70-2 full report and M-70-4 summary.
+codex,ERDC,"""Measuring soil properties"" ""Strength-density""",2026-10-07,14,yes,Confirmed WES TR 3-652 Report 1; large scan retrieval failed.
+codex,Open web,"""lunar simulant"" ""NU-LHT"" ""OB-1"" shear",2026-10-07,18,yes,Simulant guide and characterization leads; no separate open NU-LHT response archive verified.
+codex,Open web,"""FJS-1"" ""triaxial""",2026-10-07,14,yes,Author-hosted Matsushima and Ishikawa manuscript.
+codex,Open web,"""CAS-1"" ""mechanical"" soil tests",2026-10-07,20,yes,Chinese low-stress experimental paper confirmed.
+codex,Zenodo,"site:zenodo.org ""terramechanics""",2026-10-07,13,partial,Mixed software and data hits; no blanket experimental-data qualification.
+codex,Dataverse,"site:dataverse.org ""sand"" ""triaxial""",2026-10-07,0,no,Explicit empty result; domain query missed other Dataverse installations.
+codex,Smithsonian,"site:si.edu ""MM-67-2""",2026-10-07,4,yes,Bellcomm finding aid confirms already-registered report; box 63 folder 10; no new lead row.
+codex,NTRS,"""Bendix"" ""AM-68-3""",2026-10-07,6,partial,Citation confirms Surveyor landing-dynamics program report; already registered; standalone digital copy not acquired.
+codex,Google Scholar,"site:scholar.google.com lunar simulant ""data"" shear",2026-10-07,12,partial,Discovery results; no verified downloadable raw shear series obtained through Scholar.
+codex,PSJ,"site:iopscience.iop.org ""regolith"" ""penetration"" ""Data Availability""",2026-10-07,NA,no,Blocked by robots.txt; not an empty-result finding.
+codex,NTRS,"""NASA-CR-102963"" ""NASA-CR-121047""",2026-10-07,0,no,Combined exact-number query empty; both reports already in local register; no inference of nonexistence.
+codex,NTRS,"""M-71-10"" ""Report 2""",2026-10-07,15,yes,Confirmed identity of linked report in existing register; not re-registered.
+codex,NTRS/PDS,"""Apollo 15"" ""penetrometer"" ""data"" PDS",2026-10-07,20,yes,Located PDS raw and reduced tables. Legacy NSSDC route redirected to maintenance page.
+codex,Open web,"""lunar simulant"" ""triaxial"" ""dataset"" zenodo",2026-10-07,12,partial,Literature and property-database leads; no verified complete simulant triaxial raw archive.
+codex,Open web,"""Static Geotechnical Characterization of Lunar Soil Simulants""",2026-10-07,12,yes,Confirmed 2026 Joshi paper.
+codex,Open web,"""Geomechanical properties of lunar regolith simulants LHS-1 and LMS-1""",2026-10-07,17,yes,Confirmed Long-Fox 2023; publisher access blocked.
+codex,Open web,"""Experimental evaluation of cone index gradient""",2026-10-07,18,yes,Confirmed parabolic-flight cone and wheel experiments.
+codex,Open web,"""KLS-1"" ""pressure-sinkage"" ""2021""",2026-10-07,13,yes,Full JASS article found; CC BY-NC restriction recorded.
+codex,NTRS,"""The effect of vacuum"" ""penetration"" ""1519""",2026-10-07,16,partial,NASA TN D-1519 confirmed in bibliographies; standalone primary record not acquired; omitted from leads.
+codex,ASCE,"""Geotechnical properties of JSC-1A lunar soil simulant""",2026-10-07,18,yes,Confirmed Zeng 2010; publisher returned 403.
+codex,ASCE,"""Mechanical and load-settlement characteristics of two lunar soil simulants""",2026-10-07,18,yes,Confirmed Perkins and Madson 1996.
+codex,ERDC,"site:erdc-library.erdc.dren.mil ""Strength-density relations""",2026-10-07,0,no,Explicit empty direct-domain query despite independently confirmed WES report.
+codex,Dataverse,"""10.57745/NTSZ8G""",2026-10-07,10,yes,Public file inventory for Lunar Regolith Database; direct DOI retrieval failed.
+codex,MDPI,"""Static Geotechnical Characterization"" ""License""",2026-10-07,12,yes,License discovery; primary publisher confirmation obtained later.
+codex,MDPI,"""Static Geotechnical Characterization"" ""Authors""",2026-10-07,13,yes,Confirmed Joshi; Newson; Osinski and 2026 publication.
+codex,MDPI,"""Development and Performance Evaluation of a Bevameter"" ""Kim""",2026-10-07,18,yes,Confirmed experimental plate and shear-ring paper.
+codex,Zenodo,"site:zenodo.org ""sand"" ""triaxial""",2026-10-07,17,partial,Mixed records; no additional fully qualified planetary-simulant raw dataset.
+codex,Zenodo,site:zenodo.org granular intrusion experimental data,2026-10-07,17,yes,Located Ruck code-and-data release.
+codex,DesignSafe,Ottawa sand triaxial dataset DesignSafe license,2026-10-07,20,yes,Located LEAP Ottawa F65 datasets with explicit attribution license.
+codex,Open web,"""Bevameter testing on simulant Fillite""",2026-10-07,18,yes,Confirmed Edwards 2017 and DOI.
+codex,Zenodo,"""johnruck-sed/UnifiedGranularIntrusionDynamics"" license data",2026-10-07,1,partial,Versioned ZIP and DOI confirmed; license and experimental-file contents unresolved.
+codex,DesignSafe,"""10.17603/ds2-dyph-pf84"" authors",2026-10-07,5,yes,Confirmed authors; experiment hierarchy; related triaxial and nonuniform shear DOIs; Open Data Commons Attribution.
+codex,MDPI,"""10.3390/s21041541"" ""Creative Commons""",2026-10-07,5,yes,Primary publisher confirms CC BY 4.0 and explicitly withheld underlying data.
+codex,MDPI,"""Static Geotechnical Characterization of Lunar Soil Simulants"" tests license",2026-10-07,12,yes,Primary publisher confirms CC BY; test geometry and rate; raw data on request.
+codex,Nature,"""Granular piston-probing in microgravity""",2026-10-07,18,partial,Open 2022 compression study found; polystyrene-powder analog is peripheral to soil scope; omitted from leads.
+codex,Nature,"""Rheology of Lunar Regolith Simulant Under Varying Gravitational Conditions""",2026-10-07,14,partial,Located 2025 Behaviors of lunar regolith simulants paper; hopper-flow emphasis falls outside requested test classes; omitted.
+codex,GitHub/Zenodo,"""Unified Granular Intrusion Dynamics for Planetary Exploration"" experiments license",2026-10-07,13,partial,Confirmed intrusion experiments and paper-title variant; repository license still unresolved; GitHub timed out.
+codex,PDS,"site:pds.nasa.gov ""data"" ""public domain""",2026-10-07,18,partial,PDS mission-data policy and licensing documents located; search also returned irrelevant indexed URLs.
+codex,DTIC,"site:apps.dtic.mil ""bevameter"" ""sand""",2026-10-07,0,no,Corrected domain restriction; explicit empty search result; does not establish absence from DTIC.
+codex,ERDC,"site:erdc-library.erdc.dren.mil ""plate"" ""sand""",2026-10-07,6,yes,Located 2022 automatic DCP validation report. MP-N-70-2 sand appendix also surfaced but title unresolved; both PDF opens returned 403.
+codex,HathiTrust,"site:catalog.hathitrust.org ""lunar"" ""soil""",2026-10-07,0,no,Explicit empty result; no HathiTrust full-view source acquired.
+codex,NTRS,"site:ntrs.nasa.gov ""returned"" ""soil"" ""triaxial""",2026-10-07,6,yes,Located NASA TR R-401 and supporting WES references; no new returned-sample raw triaxial archive.
+codex,ERDC,"""ERDC/GSL TR-22-16""",2026-10-07,5,yes,Official Army notice confirms title; authors; DOI; July 2022 date; unlimited public release.
+codex,ERDC,"""MP-N-70-2""",2026-10-07,15,no,Unrelated results; report title and author unresolved. Do not confuse filename with WES M-70-2 lunar-wheel report.

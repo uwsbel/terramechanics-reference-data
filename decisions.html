@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Decisions – Terramechanics Reference Data</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="site.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Terramechanics Reference Data</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./experiments/index.html"> 
+<span class="menu-text">Find a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./materials/index.html"> 
+<span class="menu-text">Soils</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./simulate/index.html"> 
+<span class="menu-text">Simulate a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./glossary/index.html"> 
+<span class="menu-text">Glossary</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./downloads/index.html"> 
+<span class="menu-text">Download</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about/index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Decisions</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>The decisions that shaped the method, oldest first, under the numbers the data and the documents cite. Decisions about the people and the logistics of the review are summarized.</p>
+<div class="table-wrap" style="--table-min: 114ch; --table-min-phone: 114ch">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 10%">
+<col style="width: 25%">
+<col style="width: 24%">
+<col style="width: 32%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>id</th>
+<th>date</th>
+<th>question</th>
+<th>options</th>
+<th>decision</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>D-001</td>
+<td>2026-10-07</td>
+<td>Which Chrono soil model family is validated first?</td>
+<td>CRM first then DEM; DEM first; both at once</td>
+<td>CRM first; DEM later</td>
+</tr>
+<tr class="even">
+<td>D-002</td>
+<td>2026-10-07</td>
+<td>Which test families are in scope for the first benchmark?</td>
+<td>static only; static plus dynamic penetration; everything</td>
+<td>Static tests plus dynamic penetration (DPT and impacts); drag provisional</td>
+</tr>
+<tr class="odd">
+<td>D-003</td>
+<td>2026-10-07</td>
+<td>Which soil families are extracted?</td>
+<td>RS and SS only; all six families</td>
+<td>All six families (twelve soils of Table 2-3)</td>
+</tr>
+<tr class="even">
+<td>D-004</td>
+<td>2026-10-07</td>
+<td>Where does the work live and who sees it?</td>
+<td>public repo now; private until submission</td>
+<td>Private repository DanNegrut/terramech-appolo-data until the data paper is submitted; release-ready from day one</td>
+</tr>
+<tr class="odd">
+<td>D-005</td>
+<td>2026-10-07</td>
+<td>What does the student review?</td>
+<td>everything; disagreements only; disagreements plus an audit sample</td>
+<td>Disagreements only; plus a 5 to 10 percent audit of agreements (added after Codex’s plan review)</td>
+</tr>
+<tr class="even">
+<td>D-006</td>
+<td>2026-10-07</td>
+<td>Which CRM rheology is the baseline?</td>
+<td>mu(I); MCC; both</td>
+<td>mu(I) baseline; MCC enters only if a test demands history dependence</td>
+</tr>
+<tr class="odd">
+<td>D-007</td>
+<td>2026-10-07</td>
+<td>How is in_scope defined in the figures index?</td>
+<td>narrow (numbers to extract); broad (worth transcribing); two columns</td>
+<td>Two columns: in_scope narrow plus transcribe yes for all of Section II</td>
+</tr>
+<tr class="even">
+<td>D-008</td>
+<td>2026-10-07</td>
+<td>Which priority rule do the indexes use?</td>
+<td>protocol-based; Claude’s as filed; Codex’s as filed</td>
+<td>Protocol-based: 1 needed for the first calibration and prediction protocols; 2 setup and interpretation; 3 context</td>
+</tr>
+<tr class="odd">
+<td>D-009</td>
+<td>2026-10-07</td>
+<td>What does mcc_relevant mean?</td>
+<td>narrow (history dependence shown); broad (anything touching density or compaction); drop</td>
+<td>Narrow: same material after different histories with a different response; plus the state maps needed to read them</td>
+</tr>
+<tr class="even">
+<td>D-010</td>
+<td>2026-10-07</td>
+<td>What comes after the Section II indexes?</td>
+<td>Volume II Appendices A and C inventory; Section II transcription; Section IV inventory</td>
+<td>Appendix C and A inventory first; page-diff tool piloted on five Section II pages; then Section II transcription</td>
+</tr>
+<tr class="odd">
+<td>D-011</td>
+<td>2026-10-07</td>
+<td>Should the source hunt be broadened beyond the Bendix lineage?</td>
+<td>Bendix lineage only; all public-domain granular test records usable for simulator validation</td>
+<td>Broadened: Apollo era to today; declared scope per release; eligibility graded on rights; data form and setup recoverability</td>
+</tr>
+<tr class="even">
+<td>D-012</td>
+<td>2026-10-07</td>
+<td>Should the project have a website and how?</td>
+<td>one page; generated Quarto site; other generator; web app</td>
+<td>Generated Quarto website; pages written by tools/build_site.py from the repository; nothing hand-edited; provenance and status on every display</td>
+</tr>
+<tr class="odd">
+<td>D-013</td>
+<td>2026-10-07</td>
+<td>Are generated site pages committed?</td>
+<td>committed; build output only</td>
+<td>Committed; deterministic generator; byte-for-byte regeneration check; commit hash injected at render time</td>
+</tr>
+<tr class="even">
+<td>D-014</td>
+<td>2026-10-07</td>
+<td>What must accompany every reported result on the site?</td>
+<td>plot and CSV only; plot plus provenance; plus the full setup needed to run the experiment in a simulator</td>
+<td>Provenance to the page image (overlay of extracted points; pixel coordinates and anchors) and a Reproduce-this-experiment block with material; state; strength; geometry; loading; measurement and what is missing</td>
+</tr>
+<tr class="odd">
+<td>D-015</td>
+<td>2026-10-07</td>
+<td>Apollo-era sources only or also later simulant data?</td>
+<td>Apollo era only; also later simulant data (GRC-1 and JSC-1A and successors)</td>
+<td><em>open</em></td>
+</tr>
+<tr class="even">
+<td>D-016</td>
+<td>2026-10-07</td>
+<td>How are Volume II unnumbered tables and repeated figures indexed?</td>
+<td>one row per soil specification; one row per printed table with a page-locator id; repeats dropped</td>
+<td>One row per printed table with id TA-pNNN (PDF page); repeated figures and tables kept as rows with relation reproduces and in_scope no and priority 3; relations to Volume I recorded (derived-from and reproduces)</td>
+</tr>
+<tr class="odd">
+<td>D-017</td>
+<td>2026-10-08</td>
+<td>When does the first paper go out and how does the validation effort split?</td>
+<td>data paper after the simulations; data paper as soon as the harvest and website are done; one validation thread; CRM and DEM threads</td>
+<td>Data paper as soon as the harvest is reviewed and the website UX is iterated (no simulation result needed); validation then runs as two parallel threads with their own papers: CRM (mu(I) baseline per D-006) and DEM; framing is archaeology of half-century-old test data made public for sim2real</td>
+</tr>
+<tr class="even">
+<td>D-018</td>
+<td>2026-10-08</td>
+<td>How are two trace readings sampled at different displacements compared and how wide is a trace bound?</td>
+<td>nearest-x matching with x treated as a measurement; interpolate the other reading at the canonical sample and compare y with the slope-propagated x bounds; bound = full line thickness; bound = half the line thickness</td>
+<td>Interpolation rule with slope-propagated x bounds; trace bound is half the line thickness (center known to within half the width); one-sided points enter data only as one-sided-verified after the other agent checks the page or stay one-sided; interpolations across visible gaps are excluded</td>
+</tr>
+<tr class="odd">
+<td>D-019</td>
+<td>2026-10-08</td>
+<td>What does a record page show and where does the maintainers’ material go?</td>
+<td>one page with everything (status table, reconciliation record, agents’ notes, data); user-facing page with the process material collapsed; user-facing page with the process material on a separate provenance page</td>
+<td>Record pages carry only what a user of the data needs (summary, trust note, data in SI, reproduce table with as-printed values and per-test-type fields, family, source pages, citation); the reconciliation record, point statuses, calibration residuals, agents’ notes and audit status live on review/<record>; scan overlays once per figure on the figures page; persistent ambiguities that matter for reproduction are stated on the page and labeled as our observation; the pilot’s wide bounds stay until a re-read after the student audit</record></td>
+</tr>
+<tr class="even">
+<td>D-020</td>
+<td>2026-10-08</td>
+<td>How are student audits organized?</td>
+<td>one packet per student with announced checks; unannounced seeded mistakes; single or double review per point</td>
+<td>A light starter packet first (8 rows), identical for every student; seeded attention checks in every packet, whose answers are known, never announced and scored before any answer is recorded; every audited point reviewed by two students (four students, six pairs cycled); no time estimate given to students</td>
+</tr>
+<tr class="odd">
+<td>D-021</td>
+<td>2026-10-09</td>
+<td>How does a checklist row tell the student what to do, and how does the student look closer?</td>
+<td>guide only; a question per row in the checklist; value columns kept or dropped; an image viewer to install; a viewer page in the packet</td>
+<td>Each checklist row states its question in a ‘what to check’ column; the value columns (value read, other reading) are dropped because the answer comes from the picture; a compare row is answered in A with blue, orange or cannot tell; compare close-ups show a wider window (3x, 300 scan px) so both curves’ symbols are in view; every packet carries viewer.html (the scan in a browser page, offline: pick a row or type pixel x and y to place the crosshair, pixel under the mouse)</td>
+</tr>
+<tr class="even">
+<td>D-022</td>
+<td>2026-10-13</td>
+<td>How is the full audit of the digitized figures organized?</td>
+<td>one e-mail with everything once all data exists; weekly waves as the data is read; fixed pairs or rotating pairs; 2 or 5 hours a week</td>
+<td>Weekly waves, each with the figures read that week and due a week later; every chunk to one pair of reviewers, the pairs cycled so that each person gets about 4 chunks of about 60 rows a week and no fixed partner; seeded attention checks in every chunk; sampling per figure: compare rows (cap 6), all resolved and unverified one-sided points, one-sided-verified points (cap 10), then agreed points round-robin to a quota proportional to the square root of the figure’s point count; answer keys never in a packet; scoring chunk by chunk across runs, with a status board.</td>
+</tr>
+<tr class="odd">
+<td>D-023</td>
+<td>2026-10-13</td>
+<td>How are two curve readings reconciled when they differ in what they cover, and who settles disputed points?</td>
+<td>pair markers by sequence or by position; bridge gaps in the other trace under a pixel threshold or verify by eye; compare features by position or by role; keep or drop points only the non-canonical reader recorded; one adjudicator or two blind ones</td>
+<td>Markers paired by position on the page; features by role (first, peak, last) and a peak compared in y only with its x bound widened to the other reading; trace samples inside a gap of the other trace stay one-sided and are verified by eye, no bridging rule; points only the non-canonical reader recorded are kept as one-sided with their own source; a one-sided marker on another test’s marker in the other reading is an identity conflict; every disputed or one-sided point goes to a blind adjudication packet (neutral labels P and Q), answered independently by a Claude and a Codex adjudicator; agreement settles, the other agent’s adjudicator verifies one-sided points, splits go to a second round and then to the human audit</td>
+</tr>
+<tr class="even">
+<td>D-024</td>
+<td>2026-10-14</td>
+<td>Five method questions from batches curves-appc-b3 to -b5: calibration of gridless figures, triangle centers, envelope identity, a printed legend error, re-deriving values after a tool fix</td>
+<td>residual rule as is or limited to printed anchors; bounding-box center or centroid; line or legend shape for identity; keep or correct a printed legend; re-read or re-derive</td>
+<td>A calibration residual counts only against printed marks (detected grid lines or measured ticks); residuals over lines predicted from the frame show internal consistency and cannot win the canonical choice, so a batch may name the canonical reading with its reason (overlays.csv canonical, canonical_reason); a reader who saved a tick map is re-derived on it so both compete on printed marks. Triangle center: the centroid of the reconstructed triangle; until the 1968 registration point is established the bound in the apex direction includes the bounding-box midpoint (height/6); earlier readings with mixed conventions are to be normalized by a documented re-derivation (open). Envelope identity: neither line nor shape decides alone; the data-sheet peaks of the same tests, where they distinguish the candidates, settle it (corroboration from another depiction, not independent validation). A printed legend error is corrected by a canonical-stage series rename with its evidence (series-ids.csv), the submissions and *_printed fields faithful to the print. Values re-derived from a submission’s own pixels and calibration after a tool fix are sound and kept under qa/<batch>/rederived/.</batch></td>
+</tr>
+<tr class="odd">
+<td>D-025</td>
+<td>2026-10-14</td>
+<td>One affine map per panel, or a piecewise map between the drawn lines, on hand-drafted grids that are not uniform?</td>
+<td>affine over all lines; affine over the labelled lines only; piecewise linear between verified lines</td>
+<td>Piecewise linear between verified scale lines on every panel (no threshold: on a uniform grid it equals the affine map), in the axis’s transformed coordinates for log scales, keeping each line’s tilt. A frame is a knot only with a supported value (on FC-6B and FC-6D the left frame is x = 0, recorded as inferred: the first lower-panel symbols sit on it); predicted lines and misplaced text are never knots. Bounds propagate the point’s pixel interval and the position intervals of its two bracketing lines, with line-location error from independent checks; the global affine residual becomes a diagnostic of the drafting and is no longer added to every point. The two readings’ maps are compared at every knot and interval over the plot, not only at four corners, and the canonical reading is chosen by independent line-position validation (tie to the first submission). The affine-minus-piecewise difference is reported as a correlated calibration sensitivity (initial stiffness above all); slope changes at grid lines are not soil behaviour. Existing readings: pixels kept, values re-derived under qa/<batch>/rederived/, reconciliation rerun, ink and identity decisions carried by source and sequence. To be implemented in tools/calibrate_axes.py, diff_curves.py and build_observations.py as one step, then all batches re-derived (open).</batch></td>
+</tr>
+<tr class="even">
+<td>D-026</td>
+<td>2026-10-14</td>
+<td>D-025 as implemented: how is a reader’s line verified against the page, which reading is canonical when the ink cannot separate the maps, and what happens to earlier decisions when the canonical reading changes?</td>
+<td>tie: first submission, previous canonical reader, denser sampling, affine residual; decisions: re-adjudicate everything, carry by neighbourhood, carry through the pairing; line check: median distance, ink-line fit over the line’s length</td>
+<td>Tie: first submission (Claude), within 0.25 px of mean line distance from the ink; recomputable from the submissions, the page and the recovered lines, unlike the previous reader, and not a measure of sampling effort or of the retired residual. A reader’s line is a knot only when the ink supports its whole length (ink at a quarter of its positions, at least 3, over a third of its length, the ink’s fitted line within 2 px of it at both ends; a tick on its stubs); lines a reader left out or misplaced are recovered from that reading’s own neighbouring lines and recorded in qa/<batch>/knots.csv (29 lines and two frames). Coverage: equal lines, then the ink; a strict superset wins when its shared lines are as close; incomparable coverage goes to review. Bounds move the two bracketing lines to the ends of their intervals exactly. Exclusions are applied to both readings before matching and leave a break in a trace; a swap takes the other reading’s whole record (source <reader>-interp for an interpolated trace value); a resolution on a paired marker or feature follows the symbol when the canonical reading changes, a trace verification stays with its exact sample; the other reading’s samples in gaps of the canonical trace are kept as one-sided. Maps compared along every line of either reading and every interval midline. The new and newly exposed items go to the blind two-round adjudication.</reader></batch></td>
+</tr>
+<tr class="odd">
+<td>D-027</td>
+<td>2026-10-15</td>
+<td>How do the curve-reading tools handle log and reciprocal axes (Appendix A grain-size curves on log paper, density charts with unit weight on a reciprocal axis)?</td>
+<td>(a) readers pass logarithms or reciprocals as anchor values (the old rule 5); (b) the tool owns the transform: declared per axis, anchors keep printed values, every map works in the plotting coordinate q = T(value); (c) resample the scan into linear coordinates</td>
+<td>(b). calibrate_axes.py detect –x-transform/–y-transform (linear, log10, reciprocal) records the transform; detect predicts unlabelled lines at their place in q; the affine fit, the D-025 knots, line recovery and the interpolation of traces in diff_curves work in q; values, bounds and SI are in the printed unit; the read bound is the larger half of the interval mapped back from q (symmetric and conservative), and values whose halves differ by more than 10 percent are counted. Two readings with different transforms are not compared until the axis type is settled from the page. Minor lines of log paper are knots only when their identity is unambiguous.</td>
+</tr>
+<tr class="even">
+<td>D-028</td>
+<td>2026-10-15</td>
+<td>Should the data label experiments as calibration data or validation data?</td>
+<td>(a) label each experiment’s role (element tests for calibration, penetration tests for validation); (b) keep the data agnostic: record facts any split needs and leave the roles to each study</td>
+<td>(b). Almost any test can calibrate or validate; the role is a choice made in a particular study for a particular claim with a particular model. The data records, per experiment, what kind of test it is (element, boundary-value, derived series, summary), what was measured and how well (setup completeness, response, uncertainty, repeat-test scatter), and how tests depend on each other (same soil, state, laboratory; same-as, derived-from), plus notes on what a test can and cannot pin down for a given kind of model. Example splits are documented with the benchmark, not in the data.</td>
+</tr>
+<tr class="odd">
+<td>D-029</td>
+<td>2026-10-15</td>
+<td>Who reviews the audit packets, and at what weekly load?</td>
+<td>(a) five reviewers, the project lead included, 4 chunks each; (b) the four student reviewers only, the same 600-row wave sample, 5 chunks each; (c) the four student reviewers at 4 chunks each, a smaller sample</td>
+<td>(b). The project lead stays out of the checking. The four student reviewers each take 5 chunks of 60 rows a week. Wave 1 was re-planned before it went out (the sample follows the canonical points as they are now, which had moved since 10-14 for 263 of 600 rows): 10 chunks over the 6 pairs, four pairs twice and two once, 5 chunks per person.</td>
+</tr>
+<tr class="even">
+<td>D-030</td>
+<td>2026-10-27</td>
+<td>How are the outcomes of the audit re-check (qa/adjudication-2026-10-27) applied to the data?</td>
+<td>apply all (switches, exclusions, widened bounds); apply switches and widened bounds, hold the exclusions; apply nothing until the off-ink rule exists</td>
+<td>Switches as decisions with use <other reader=""> (11); points neither reading could be shown right on keep their value with bounds widened to both readings by a new decision value use span (8 pending-review, 2 resolved); the 48 off-ink trace exclusions are held: excluding a kept sample opens a break, and the other reader’s samples in it (3 to 5 per break, at the symbol, where the adjudicators found the other line off the ink too) would enter as about 180 unverified one-sided points. The exclusions wait for the off-ink rule (D-031), which judges both readings’ samples.</other></td>
+</tr>
+<tr class="odd">
+<td>D-031</td>
+<td>2026-10-27</td>
+<td>How is CURVE-READING rule 7 (a trace sample is on its line’s own ink, never on a symbol or in a dash/symbol gap) checked mechanically in every batch?</td>
+<td>(a) no ink within 2 px plus a symbol bounding-box footprint (Claude’s blind design); (b) ink ownership: fitted symbol-stroke, grid and curve-fragment masks reviewed on the page, distance to the series’ own ink normal to the stroke, a three-way gate (eligible, excluded, needs review) with a 1 px perturbation (Codex’s blind design)</td>
+<td>(b), as tools/check_trace_ink.py v1, applied as is on 2026-10-30 (D-032).</td>
+</tr>
+<tr class="even">
+<td>D-032</td>
+<td>2026-10-30</td>
+<td>Is the off-ink check (D-031 v1) applied as it is, improved first, or left in shadow mode?</td>
+<td>(a) apply v1 now and disclose what it misses; (b) build v2 for the two miss families first; (c) keep shadow mode</td>
+<td>(a). v1 is precise (98 percent of its exclusions are right) and incomplete (about half of the off-ink samples), and a sample it misses is no worse than before; waiting for v2 would hold the 48 adjudicated exclusions of D-030 and every batch after them. Applied: the 48 hand exclusions written (47 new rows, 1 updated, 21 already there), tools/reconcile_curves.py runs the check by default (–no-ink-checks reproduces the readings before it), all 16 curve batches re-derived and their records rebuilt. Effect: 822 trace samples excluded across the diffs, 40 hand decisions overridden (listed in the diff reports); canonical points 9,663 to 9,825 (agreed 8,318 to 7,892; one-sided 163 to 791, the other reading’s samples in the breaks, unverified); observation rows 9,589 to 9,751, 58 of 162 records changed; one wave 2 audit row lost its point. The miss families (curve ends at the frame or a grid line, symbol junctions) and the 301 review verdicts are listed in docs/OPEN-QUESTIONS.md.</td>
+</tr>
+<tr class="odd">
+<td>D-033</td>
+<td>2026-10-30</td>
+<td>How are the questions the project cannot settle now kept from stalling it?</td>
+<td>(a) settle each before moving on; (b) a public list of open questions with a disclaimer, in the repository and on the site, so that anyone can help; nothing waits on a single reviewer or a single question</td>
+<td>(b). docs/OPEN-QUESTIONS.md, rendered on the site as Open questions and linked from the overview, lists every known soft spot with its evidence file and how to help; the overview says the data set is a first step, not a finished product. A consequence for the audit: a point whose second reviewer has not returned stands as checked by one person (its row in qa/audits.csv says so), and no wave waits for it.</td>
+</tr>
+<tr class="even">
+<td>D-034</td>
+<td>2026-11-02</td>
+<td>When and how does the data set become public?</td>
+<td>(a) at the data paper’s submission, as planned (roadmap 7d); (b) now, as a versioned public preview updated as the work goes, open to scrutiny and use, with simulations started in parallel</td>
+<td>(b). Public repository uwsbel/terramechanics-reference-data, titled Terramechanics Reference Data, for simulation-to-reality gap analysis; no era in the name, so a physical test run today can join under the same provenance rules. Each release is a fresh tree without history, built by tools/make_public_release.py from a commit of this repository, because the history and the audit files hold the student reviewers’ names and e-mail addresses and the answer keys of waves still out: those files stay out, reviewer initials become R1 to R4, and the build fails if a name is left. The tracked source files go in (73 MB), so every page image a reading refers to can be rendered from the release alone. Data CC BY 4.0, code BSD-3-Clause; versioned snapshots (v0.1 first) with CHANGELOG.md and CITATION.cff; a Zenodo DOI later. No sponsor; nothing else gates the release.</td>
+</tr>
+<tr class="odd">
+<td>D-035</td>
+<td>2026-11-05</td>
+<td>Does the first journal paper carry a simulation, and which one?</td>
+<td>(a) a data paper with no simulation result (D-017); (b) one bounded demonstration in the data paper, CRM only; (c) one bounded demonstration with CRM and DEM side by side, each model gated on its own</td>
+<td>(c). The paper starts an open collection of traceable terramechanics tests for judging simulation tools and shows the data in use with an open-source simulator. Demonstration: dense RS, 4-inch cylinder, Fig. 2-42 (printed 2-77, PDF 102): calibrate on LPT 24, predict LPT 23, 25 and 22 with the parameters frozen; LPT 74 (Fig. 2-44) only if its setup gaps close in time. Both models in Chrono: CRM with mu(I) (D-006) from demo_<wbr>FSI-SPH_<wbr>PlateSinkage,<wbr> and Chrono::DEM spheres with rolling resistance. The protocol is frozen in benchmark/ before the first prediction run; the gap is split into reading, setup, calibration and numerical parts; every verified result is reported whichever way it falls, an unverified run is not. Claude prepares and runs the virtual experiments on amd-cluster at a pinned Chrono commit; Codex reviews each stage (specification, scripts, verification, calibration, predictions) before Dan sees it. Target: Journal of Terramechanics, submitted 2026-12-18, gates per model on 11-09, 11-18, 11-25 and 12-02 (roadmap 7c); a model that misses 12-02 goes to its own thread paper, and if both miss it the paper goes in by late January 2027. Calibration and validation roles belong to this study, not to the data (D-028).</td>
+</tr>
+<tr class="even">
+<td>D-036</td>
+<td>2026-11-05</td>
+<td>How does the audit continue with three reviewers, and what happens to a return that misses an attention check?</td>
+<td>Schedule: (a) re-deal the chunks without a return and raise the other reviewers’ load; (b) stretch the schedule at the same load. A return that misses a check: (a) accept it; (b) decline it and give its points a second reviewer</td>
+<td>Schedule (b): chunks without a return are not re-dealt, and their points stand as checked by one person (D-033). From wave 3 three reviewers take 4 chunks each, 6 chunks of 60 rows a wave; 5 each is not possible, because every chunk needs two reviewers and 3 x 5 is odd. The remaining audit takes longer instead. The return (b): a return that misses an attention check that no error of the packet explains is logged as declined and never recorded, and its points get a second reviewer in a later wave. Wave 3 carries the Section II load-penetration batches curves-s2-b1 and -b2 (no load-penetration figure had had a human check yet) and the 10 void identity questions (qa/audits/voided.csv); Figs. 2-42 and 2-44 follow in wave 4.</td>
+</tr>
+<tr class="odd">
+<td>D-037</td>
+<td>2026-11-06</td>
+<td>How does wave 3 give a second review to the points of packet 2 that have only one, and what changes in the packets?</td>
+<td>Second reviews: (a) one single-review chunk’s 60 points to one reviewer, leaving that reviewer a chunk short; (b) the points of the two single-review chunks W2-07 and W2-08 to two reviewers, each as one of the reviewer’s 4 chunks. Attention checks on curve rows: (a) keep them as they were; (b) revise them.</td>
+<td>(b) and (b). Wave 3: 5 chunks of new points from curves-s2-b1 and -b2 (Figs. 2-29 to 2-34, 2-45 to 2-48), dealt over the pairs of the three reviewers, plus the second-review chunks W3-06 (repeats W2-07) and W3-07 (repeats W2-08); 4 chunks each, due 2026-11-16. A second-review chunk has one reviewer and its own attention checks; a point’s outcome combines every reviewer of it. A void in qa/audits/voided.csv applies only to the chunk it was given in, so the second reviews ask the 10 void identity questions again, of another reviewer, on upright pictures. Compare rows take both for any symbol or line, not only a triangle. In W2-08 the identity answers on FC-7B and FC-7C, figures the packet showed upside down, are void (26 more rows in qa/audits/voided.csv, 32 in all for that chunk); its location answers and its FC-1A answers stand, and the second review W3-07 asks the identity questions again.</td>
+</tr>
+<tr class="even">
+<td>D-038</td>
+<td>2026-11-06</td>
+<td>Is the simulation specification approved, and which DEM code runs the demonstration?</td>
+<td>Specification: approve or revise. CRM interfaces: (a) accept CRM’s no-slip walls and bodies as a stated limitation; (b) add a friction boundary to CRM first. DEM: (a) Chrono::DEM, as planned; (b) DEM-Engine v2.4.2 on amd-cluster; (c) DEM-Engine 3 on the NVIDIA lab machines; (d) restore HIP in DEM-Engine 3 first.</td>
+<td>Specification approved (paper/notes/sim-spec.md): calibrate on LPT 22 to 25 together; hold out LPT 73 (same box) and LPT 74, 69, 64A (larger bins) as conditional predictions; compare total reaction against penetration over 5 to 50 mm with the admissibility rule and verdicts of its section 6; at most 200 node-hours. CRM (a), with the limitation filed as projectchrono/chrono#866 after a check by Codex (gpt-6-astra). DEM (b): DEM-Engine v2.4.2, the last release with the ROCm/HIP backend (DEM-Engine PRs 69 and 77), built on amd-cluster; a short DEM-Engine issue on DEME 3 lacking that backend is drafted for Dan. Replaces the test design of D-035 and Chrono::DEM in PLAN.md B2.4.1.</td>
+</tr>
+<tr class="odd">
+<td>D-039</td>
+<td>2026-11-07</td>
+<td>How are the adjudication decisions corrected that came from run answers of some, which the apply tool misread?</td>
+<td>(a) re-run every affected adjudication from round 1; (b) transcribe each some comment sample by sample (two independent transcriptions, diffed), recompute the affected items with the tool’s rules, and correct only the decision rows that came from them; (c) send the affected samples to a new adjudication round</td>
+<td>(b). apply_adjudication3.py and apply_adjudication4.py (and the older apply_adjudication.py and apply_adjudication2.py) took every pixel pair in a some comment as an off-line sample, including the samples the comment called on the line, so samples both adjudicators had accepted were excluded or split. First part, 2026-11-07: the 48 some answers of the 7 rounds applied with apply_adjudication3/4 (adjudications of 2026-10-15 and 2026-11-07); Claude and Codex transcribed all 99 samples independently and agreed on every one (48 off, 49 on, 2 unclear). correct_some_answers.py changed 29 rows in 16 decision files: 26 samples now verified (19 had been excluded, 7 left undecided) and 3 back to undecided (one adjudicator on, one off); a sample with no row gets a corrected decision only if no later round decided it. Affected batches reconciled and their records rebuilt (15 figures, 15 records with point changes). Second part, 2026-11-07: the 103 some answers of the six older rounds (curves-appc-b1 rounds 1 and 2, curves-appc-b3 round 1, curves-rederivation-d025 rounds 1 to 3). Claude and Codex transcribed the 261 samples independently and differed on 3, where one adjudicator wrote that a sample lay 1 px from a dash end at line height (Claude’s reading on, Codex’s unclear); the same adjudicator answered all yes for such samples in items 182 and 184, so on (no decision depends on it): 144 off, 116 on, 1 unclear. These second rounds re-asked only the samples the misread first round had split, and the rounds were merged with the first decision kept, so correct_some_older.py replays the eight rounds of the three chains in order with both readings and gives each affected sample the decision of the latest round that decides it. 58 samples change outcome in some round; 43 rows changed in 9 decision files, one for one the 43 discrepancies Codex had listed: 33 samples now verified (32 had been excluded, 1 left undecided) and 10 back to undecided. With this, all 151 some answers are corrected. Every apply tool (apply_adjudication.py to apply_adjudication4.py) now reads the round’s off-lists.csv and never the comment’s pixels: a some answer with no transcription leaves the item undecided, and an unclear sample leaves that sample split (until the second part, the whole item: the same decisions in the first part’s rounds, while in the older rounds the whole-item rule would also leave undecided the other four samples of curves-appc-b1 round 1 item 068, one verified and three excluded by both adjudicators). Records of the second part rebuilt: 23 records, 40 points added (32 verified, 8 back to one-sided; 2 more stay out by the off-ink check), 24 removed (the other reading’s samples that had filled the gaps the wrong exclusions left, one of them confirmed by the student audit), 1 agreed point now one-sided (FC-2C n1468, by the comparison’s segment rule); no value changed.</td>
+</tr>
+<tr class="even">
+<td>D-040</td>
+<td>2026-11-14</td>
+<td>After the 11-08 diagnostics, does DEM stay in the paper, and how is the CRM virtual experiment set up?</td>
+<td>DEM: (a) report the sphere shortfall as a negative result; (b) leave the paper and continue as its own thread with clumps of spheres. CRM: (a) keep mu_2 = mu_s, E 5 to 120 MPa, a physical-speed check with save-and-resume; (b) mu_2 = mu_s + 0.2 and I0 0.08, E about 1 to 20 MPa, a speed check at 10, 20 and 40 mm/s.</td>
+<td>DEM (b): DEM leaves the 12-18 paper and becomes its own thread (roadmap 8c) with clumps of spheres, starting from the lab’s plate-sinkage campaign and the GRC_DEM work; the sphere runs of 11-07 and 11-08 repeat those findings and are not results of this study. CRM (b): mu_2 = mu_s + 0.2, I0 = 0.08 (the validated example of Chrono’s mu(I) manual); E search range about 1 to 20 MPa; the speed check runs faster than 10 mm/s instead of at the physical speed, so no save-and-resume is written. Codex reviews the change before any run; chrono-rag is consulted for every Chrono behavior.</td>
+</tr>
+<tr class="odd">
+<td>D-041</td>
+<td>2026-11-14</td>
+<td>After the lessons of the lab’s KSC CRM study and plate-sinkage campaign, and the stage A screening, how is the CRM demonstration set up?</td>
+<td>(a) continue the D-040 design (E 1 to 20 MPa searched, 10 mm/s, 7.5 mm, fp32, comparison 5 to 50 mm); (b) the plan Claude negotiated with Codex in four rounds on 2026-11-14</td>
+<td>(b). Free-surface threshold 2.4 as the baseline, 0.8 reported as a treatment sensitivity. E calibrated jointly with mu_s as an effective stiffness on 5 to 52 MPa (exploratory bounds informed by AM-68-1 Vol. II App. B: the wave modulus with the report’s Poisson correction, Eq. 2, PDF 106, and its warning that static and wave moduli differ by about an order of magnitude, PDF 104). mu_s calibrated directly on 0.5 to 1.2 with the yield convention stated; mu_2 - mu_s 0.30 and I0 0.30 as an empirical baseline. Compared quantity: the loading branch and first peak (about 5 to 25 mm), interval and peak rule frozen from the measured curves before fitting, tolerance recomputed, post-peak reported as numerically sensitive. Speed ladder downward (5, 2.5, 1.25 mm/s) from saved beds. 5 mm spacing as the candidate reference with a finer check; three independent beds per condition. Bed prepared once, saved and reloaded, with a vertical-stress and force-balance gate. fp64 for anything quoted. Mid-push checkpoint and restart in lpt_crm, verified against uninterrupted runs, so 4 h partitions can serve; a longer job limit requested from the cluster administrators in parallel. Scope: 5 mu_s by 3 E (5, 16, 52 MPa) screening, then 18 curves (four calibration densities and LPT 73 at two densities, three beds each); larger bins deferred; production only after qualification. Paper date decided at the qualification gate (about 2026-11-20), fallback late January 2027.</td>
+</tr>
+<tr class="even">
+<td>D-042</td>
+<td>2026-11-15</td>
+<td>With the restart not verified (an early-loading shift of about 4 percent after Codex’s fixes), is the mid-push restart of D-041 still pursued?</td>
+<td>(a) diagnose the restart first (a fork test from one checkpoint, then a paired acceptance test); (b) run every push uninterrupted, in one job, and stop the restart work</td>
+<td>(b). Every push, qualification and quoted, runs uninterrupted in one job: me-dual-GPU (no time limit), the MI210 partition (24 h for this account), and the MI300X and MI350X partitions only for pushes that fit their 4 h limit. The restart code stays in lpt_crm, documented as not verified and not used for any curve; the fork test is dropped. The restart returns only if a push the plan needs cannot finish in one job on any of these machines, which the speed ladder, the resolution check and the double-precision cost will show; the request for a longer job limit stays with Dan. Replaces the restart part of D-041 item 9.</td>
+</tr>
+<tr class="odd">
+<td>D-043</td>
+<td>2026-11-16</td>
+<td>Should the website and data release wait for the Chrono (CRM) runs?</td>
+<td>(a) keep the coupling of D-035: release v1.0 and the paper together, the paper carrying the CRM demonstration; (b) the website and data release v1.0 on its own date, independent of CRM, with the CRM demonstration and the paper’s date decided at the qualification gate; (c) as (b), and the data paper submitted in December without a simulation result, CRM in its own paper</td>
+<td>(b). The 12-09 website and data release does not depend on CRM. The CRM demonstration and the paper’s date are decided at the qualification gate, about 2026-11-20: 12-18 if CRM qualifies; otherwise a choice between late January with the demonstration and December without it.</td>
+</tr>
+<tr class="even">
+<td>D-044</td>
+<td>2026-11-17</td>
+<td>When does the website and data release v1.0 go out?</td>
+<td>(a) 12-09, as set on 2026-11-16 (D-043); (b) 12-03</td>
+<td>(b). Release v1.0, with its DOI, goes out on 2026-12-03, still independent of CRM (D-043). The paper’s date is still decided at the qualification gate (about 2026-11-20).</td>
+</tr>
+<tr class="odd">
+<td>D-045</td>
+<td>2026-11-17</td>
+<td>After the 4 mm phase control, does the data paper carry the CRM demonstration?</td>
+<td>(a) 12-18 with CRM (not qualified); (b) late January 2027 with CRM; (c) December without CRM, CRM in its own paper</td>
+<td>(c). The data paper is submitted in December (target 12-18) without a simulation demonstration; it describes the collection and how to use it to judge a simulator, with no simulation results. CRM, with the apparatus, protocol and diagnostics built since 11-07, becomes its own paper (roadmap 8b), as DEM did under D-040 (8c). No CRM runs are planned before the release (12-03).</td>
+</tr>
+<tr class="even">
+<td>D-046</td>
+<td>2026-11-18</td>
+<td>Where does the simulation work live, now that the data paper carries no simulation (D-045)?</td>
+<td>(a) here, beside the data; (b) CRM inside an older CRM project (the KSC/NASA repository or the MU(I) vs MCC folder) and DEM inside dem-plate-sinkage; (c) new repositories for CRM and DEM</td>
+<td>(c). The CRM work moves to the crm-validation repository and the DEM work starts in dem-validation; this repository keeps the data, the website and the data paper. sims/, benchmark/ and paper/notes/sim-spec.md leave (tag pre-sim-split marks the last commit with them). The simulator repositories read the measured curves from a pinned commit of this repository and, after v1.0, from a release. D-001 to D-045 stay here as history.</td>
+</tr>
+<tr class="odd">
+<td>D-047</td>
+<td>2026-11-18</td>
+<td>How are the points of never-returned chunks asked again, and what happens to a return that misses an attention check?</td>
+<td>A return that misses a check: (a) accept it; (b) decline it and give its points a second reviewer. Never-returned chunks: (a) ask their points again a few chunks at a time; (b) six chunks a week; (c) all at once</td>
+<td>(b) and (b). When a return that misses an attention check is declined (the maintainers may also accept one), it is never recorded and its points get a second review. The points of never-returned chunks are asked again as second-review chunks, those whose single review marked the most points as a problem or cannot tell first. A never-returned assignment is withdrawn when its points are asked again: its packet predates the current guide and tools. A withdrawn assignment does not count as having seen its points, so they can come back to the same reviewer; a late return of one is reported and not recorded (amended by D-053).</td>
+</tr>
+<tr class="even">
+<td>D-048</td>
+<td>2026-11-18</td>
+<td>Where is the data paper submitted, now that it carries no simulation (D-045)?</td>
+<td>(a) Journal of Terramechanics, as planned since D-035 (a research article; open access optional, for a fee); (b) Scientific Data, as a Data Descriptor (open access, for a fee); (c) a lab white paper only</td>
+<td>(b). The data paper goes to Scientific Data as a Data Descriptor, submitted 2026-12-18 and posted on arXiv the same day. The manuscript is reorganized into the journal’s layout (Background and Summary, Methods, Data Records, Technical Validation, Usage Notes, Code Availability) in Nature’s template: the findings of section 7 move into Technical Validation and Usage Notes, and the simulator-neutral rules of section 8 into Usage Notes. The data set is cited by its repository DOI (release v1.0, D-044). Journal of Terramechanics is the fallback if Scientific Data declines the paper without review.</td>
+</tr>
+<tr class="odd">
+<td>D-049</td>
+<td>2026-11-18</td>
+<td>What does the 12-18 data paper describe, and which release does it cite?</td>
+<td>Scope: (a) everything now in data/, with the audit sample of every figure reviewed by two people; (b) also the 29 Section II figures not yet read; (c) the whole harvest (also Tables 1-1, 2-1, 2-2, the setup fields, Section IV and the new sources). Release: (a) the paper cites v1.0 (12-03) with the audit as recorded then; (b) a v1.1 about 12-10 carrying the completed audit, cited by the paper</td>
+<td>Scope (a): the curve batches not yet sampled are audited in the following waves, with the remaining second reviews; the remaining Section II figures, Tables 1-1, 2-1 and 2-2, the setup fields, Section IV and the new sources go to releases after the paper. Release (b): v1.0 stays on 12-03 (D-044), showing each point’s status as recorded by its cutoff; v1.1, about 12-10, carries the completed audit and is the version the paper describes and cites.</td>
+</tr>
+<tr class="even">
+<td>D-050</td>
+<td>2026-11-19</td>
+<td>Does the 12-18 paper describe only what was in data/ on 11-18 (D-049), or every test family the 1968 report prints, and how does it state who checked the points?</td>
+<td>(i) D-049’s scope, with a table of every test family in AM-68-1 and its status; the dynamic tests in release v1.2 (early 2027); (ii) breadth for 12-18: a slice of each dynamic family, paid for by one reviewer instead of two in the first audit of the grain-size curves and the new families, the second reviews later; (iii) (i) plus the three drop penetrometer traces of Fig. 2-54, if two reviewers beyond the four students commit by 11-20</td>
+<td>(ii). The paper also covers the dynamic families, each as a slice, in this order: vertical impact (Figs. 4-19 and 4-20, three runs on RS soil at Dr 0, 0.45 and 0.65 with the 6.17 in footpad, setup from Section 3.3 and Figs. 4-17, 4-18); drop penetrometer (the three measured traces of Fig. 2-54); subscale drag (Fig. 4-6a, Soil No.&nbsp;1, first, more soils as time allows); 1/6-scale LM model drops (NASA Tests 1 and 2: their rows of Table 5-T2, the scale factors of Table 5-T1, footpad penetration and strut load, Figs. 5-24, 5-25, 5-31, 5-32). The rules of AGENTS.md hold unchanged: two blind readings, a mechanical diff, SI, setup recorded. Cutoff 12-01: a family enters the paper only if its readings are reconciled by then; the rest moves to v1.2. The grain-size curves (full sampling rule kept) and the new families get one reviewer each in their first audit; their second reviews follow for release v1.2, which the paper’s revision cites; v1.1 (about 12-10) carries the new families and is the version the 12-18 paper cites. The paper states the checking as: ‘Every point was read independently by two AI agents and the readings compared mechanically; [X]% agree within the reading bound, and disagreements beyond it were settled by a blind re-reading on the scan. People then checked a sample of every figure: every disputed point plus a sample of agreed points sized by the square root of the figure’s point count. As of release v1.1, every figure’s sample has been checked by at least one person and [Y]% of sampled points by two; second checks of the rest are under way for v1.2.’ The numbers come from v1.1 at the freeze. Amends D-049.</td>
+</tr>
+<tr class="odd">
+<td>D-051</td>
+<td>2026-11-21</td>
+<td>Do the student reviewers who accepted co-authorship of the data set appear by name in the public release, where D-034 replaces every reviewer’s name with a code?</td>
+<td>(a) codes everywhere, with the authors named only in the paper; (b) named in the data set’s author list (CITATION.cff and the BibTeX the site builds from it), with the codes kept in the audit records</td>
+<td>(b). tools/make_public_release.py lets a reviewer’s name through only in CITATION.cff and the BibTeX built from it, in those citation forms. The build still fails on a name in any other form or file, on an e-mail address, on a reviewer’s ORCID iD outside CITATION.cff, and on a reviewer code within 80 characters of an authorship word (co-author, authorship, author list, ORCID), because a note naming a reviewer as an author comes out of the release as a code beside a named author list. Authors are added as their ORCID iDs arrive.</td>
+</tr>
+<tr class="even">
+<td>D-052</td>
+<td>2026-11-23</td>
+<td>How and when does the data set go public?</td>
+<td>(a) a quiet preview v0.1.0 on 11-30 and v1.0.0 with its DOI on 12-03; (b) one release, v1.0.0 with a reserved Zenodo DOI, public on Saturday 11-28; the partner email on 12-03 either way</td>
+<td>(b), with the plan Claude and Codex agreed on 2026-11-22 (items a to j, approved). The repository uwsbel/terramechanics-reference-data is created private and made public at release; the site goes on GitHub Pages from the rendered release, Pages switched on only then. The DOI comes from a manual Zenodo Dataset record under Dan’s account, reserved on 11-23 and written into CITATION.cff, the README and the site before the release. Data and review status are frozen on Friday 11-27 at noon; later audits go into v1.1 (about 12-10). Public: the data, indexes, methods and limitations, the reading briefs with local paths removed, the point and cell audit outcomes, and a curated decision log (method decisions under their numbers; people, logistics and private notes left out). Private: the reviewer roster and program files, the audit sample, keys and controls, the roadmap, the agent guide and the paper notes. The authors of CITATION.cff are also the Zenodo creators and appear in the site’s search metadata (extends D-051). Contact: negrut@wisc.edu and GitHub issues. Until 12-03 only site fixes; a data correction becomes v1.0.1.</td>
+</tr>
+<tr class="odd">
+<td>D-053</td>
+<td>2026-11-23</td>
+<td>Is a late return of a withdrawn chunk recorded (D-047)?</td>
+<td>(a) record a late return whose attention checks all pass, as its chunk’s second review, and withdraw a later chunk that asks the same points again; (b) keep D-047 as written: not recorded</td>
+<td>(a). A late return of a withdrawn chunk is recorded as its chunk’s second review when every attention check in it passes, and a later chunk that asks the same points again is withdrawn before any answer; a late return that misses a check is declined. D-047’s reason, that the old packets predate the current guide and tools, does not make such answers weaker than the first reviews they pair with, which were made with the same packets and guide.</td>
+</tr>
+<tr class="even">
+<td>D-054</td>
+<td>2026-11-23</td>
+<td>Does the public release copy the NASA reports (PDF files) or link to them?</td>
+<td>(a) link: leave the reports from NASA’s Technical Reports Server out of the public repository and the Zenodo deposit, each one’s NTRS link and SHA-256 in sources/register.csv; (b) copy them, as D-034 planned</td>
+<td>(a). The five reports from NASA’s Technical Reports Server (AM-68-1 Volumes I and II, NASA-CR-66914, WES M-71-10 Reports 1 and 2) stay out of the public release; sources/register.csv gives each one’s NTRS link, the file name the tools expect and the SHA-256 of the copy that was read, so a reader can fetch and verify it. NASA’s reuse page allows documents without a copyright notice to be reproduced and distributed, with NASA acknowledged, but its API terms ask that the citation link be used instead of a full-text copy whenever possible, and that copies of a record that becomes unavailable be removed, which a Zenodo deposit and a public history cannot do. The Planetary Data System bundles (public domain) stay in. The page images on the site, single pages shown as evidence, stay, credited to NASA. Amends D-034, under which the tracked sources went in so that every page image could be rendered from the release alone: that now takes one download per report.</td>
+</tr>
+<tr class="odd">
+<td>D-055</td>
+<td>2026-11-25</td>
+<td>Who are the data set’s authors (CITATION.cff and the Zenodo creators), and how are the people whose work enters a release credited as the data set grows?</td>
+<td>(a) every person whose work enters a release becomes an author of the data set (D-051); (b) the authors are the people responsible for the data set over time, the lab’s two co-leaders; everyone else whose work enters a release is named on that version’s Zenodo record as a contributor with a role, and each data paper, a snapshot, is authored by the people who did the work it describes</td>
+<td>(b), from v1.0.0. The authors are Dan Negrut and Radu Serban, co-leaders of SBEL, who share responsibility for the data set’s releases and upkeep; CITATION.cff and the Zenodo creators list them in that order. The student reviewers are named on the Zenodo record of each version that holds their work as contributors with the role data curator, and are co-authors of the data paper of 12-18 (D-048). The contributor list is cumulative: nobody is removed from a later version. As the data set grows, update papers describe it, each authored by the people who did the work since the paper before. A student reviewer who asks to stay an author of version 1.0.0 stays an author of that version only. Amends D-051 (reviewers named in the data set’s author list) and D-052 (the authors of CITATION.cff are the Zenodo creators; the contributors appear on the Zenodo record only).</td>
+</tr>
+<tr class="even">
+<td>D-056</td>
+<td>2026-11-25</td>
+<td>Where is the data paper submitted, and what question does it answer?</td>
+<td>(a) Scientific Data, as a Data Descriptor (D-048); (b) Journal of Terramechanics, as a research article on what the 1968 tests tell us and how far to trust them, with the data set as its deliverable, and Scientific Data as the fallback</td>
+<td>(b). The paper goes to the Journal of Terramechanics, submitted 2026-12-18 with an arXiv copy the same day. It is written as a research article whose question is what the 1968 tests tell us and how far to trust them: the test-to-test spread that the report’s repeated tests show (LPT 23 and LPT 24, run at the same rate and within 1 pcf, differ by about 20% in load), what each test’s recorded setup fixes and what it leaves open, what a study needs to know to choose its calibration and held-out tests (D-028), and how accurately the printed figures were recovered (two blind AI readings compared mechanically, people checking a sample of every figure, stated as in D-050). The data set, cited by its DOI, is the paper’s deliverable; the paper carries no simulation result (D-045). Elsevier’s template and a research article’s structure replace the Data Descriptor layout. Scientific Data, as a Data Descriptor, is the fallback if the Journal of Terramechanics declines the paper. Amends D-048.</td>
+</tr>
+<tr class="odd">
+<td>D-057</td>
+<td>2026-11-25</td>
+<td>How do the paper and the data set relate as the data set grows, and when do the WES wheel tests enter?</td>
+<td>(a) one schedule: new sources wait until after the paper (D-049); (b) the paper describes a frozen version and the data set keeps growing in versioned releases; the WES wheel tables enter now, before any human check, labeled as such</td>
+<td>(b). The paper describes the 1968 records of v1.2.0 and cites its version DOI; the website and the data set keep growing in releases, each with a Zenodo DOI. A new source enters under the rules of AGENTS.md: two independent readings, a mechanical diff, disagreements settled by a blind re-reading of the scan or left pending-review with the SI value empty; never a single reading. Its human checks follow; until then every page and download of the source says ‘Two independent AI transcriptions, compared. Human check pending. People have checked k of N values; K values unresolved’, with the counts generated from the records. Versions: v1.0.0 (11-28), the 1968 records; v1.1.0 (12-04 or 12-05), the first tables of the WES wheel tests (U.S. Army Waterways Experiment Station, M-71-10 Reports 1 and 2), the firm scope being Report 2 Tables 8, 4 and 1 with the wheel descriptions and test setup, Table 7 a stretch; v1.2.0 (12-08), the paper’s version, with the human checks and the WES tables finished by then; v1.3.0 (January), the second reviews and the human checks of the WES tables. Nothing new is public before 12-04 (D-052). The paper’s statement of human checks (D-050) is computed over the 1968 records of v1.2.0. The data record no calibration or held-out roles for the WES tests (D-028). Amends D-049 and D-050: the paper cites v1.2.0, frozen 12-08, not v1.1.</td>
+</tr>
+<tr class="even">
+<td>D-058</td>
+<td>2026-11-27</td>
+<td>Does v1.0.0 go public on Saturday 11-28, as planned (D-052), or a day early?</td>
+<td>(a) as planned: data and review status frozen Friday 11-27 at noon, public Saturday 11-28; (b) public Friday 11-27, with the freeze made that morning</td>
+<td>(b). Data and review status are frozen on the morning of Friday 11-27 and v1.0.0 is published that day; CITATION.cff gives 2026-11-27 as the release date. The rest of D-052 holds: the partner email on 12-03, nothing new public before 12-04, and a data correction before then becomes v1.0.1. Supersedes the dates of v1.0.0 in D-052 (public on Saturday 11-28, freeze at noon on 11-27) and in D-057.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="generated-note">
+<p>Generated view. Inputs: <code>docs/decisions.csv</code>. Regenerate with <code>python tools/build_site.py</code>; do not edit this file, fix the inputs.</p>
+</div>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<div class="build-footer container">Release 1.0.0 of Terramechanics Reference Data (maintainers' revision <code>fce68a8</code>), rendered 2026-11-27. Every value traces to a source page, and each test page says how much of it a person has checked.</div>
+
+<script>
+// Wide tables (2026-11-21, Dan: the sideways scrollbar sat below the last row of a long table, off the screen). A table
+// wider than its box gets the class scrolls-x on the box, and site.css then keeps the box no taller than the window, so
+// its sideways scrollbar is always in view, with the header row held at the top of the box. A table that fits is left
+// alone. Quarto's listing table (Find a test) first gets a box of its own, so the sort and filter controls above it and
+// the page buttons below it stay outside the scroll box; the listing script keeps working on the same table element.
+(function () {
+  function boxes() {
+    document.querySelectorAll(".quarto-listing-table").forEach(function (t) {
+      if (!t.parentElement.classList.contains("listing-table-box")) {
+        var box = document.createElement("div");
+        box.className = "listing-table-box";
+        t.parentNode.insertBefore(box, t);
+        box.appendChild(t);
+      }
+    });
+    return document.querySelectorAll(".table-wrap, .listing-table-box");
+  }
+  function mark() {
+    boxes().forEach(function (b) {
+      b.classList.toggle("scrolls-x", b.scrollWidth > b.clientWidth + 1);
+    });
+  }
+  window.addEventListener("load", mark);
+  window.addEventListener("resize", mark);
+  // the listing's filter, sort and page buttons change which rows show, and so the table's width
+  ["input", "change", "click"].forEach(function (e) {
+    document.addEventListener(e, function () { setTimeout(mark, 50); });
+  });
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Terramechanics Reference Data. Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. Contact: <a href="mailto:negrut@wisc.edu">negrut@wisc.edu</a>.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./about/index.html">
+<p>About</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./contribute/index.html">
+<p>Contribute</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="./records/index.html">
+<p>Project records</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -1,0 +1,109 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-ds-fc-6d-n147,n147,1,feature,1,0.000333047,555.841927,2.365e-06,1137.539193,13.1121,11.609,0.0931,23.758,mil,psf,831,2207.0,resolved,claude,"feature: first point of the drawn line (dash on the bottom frame, center estimated) | decision: the claude reading is on the feature; credit claude (blind adjudication item 073 (Claude's adjudicator: p; Codex's: p))"
+b68-ds-fc-6d-n147,n147,1,feature,2,0.005605277,6233.818198,0.000479542,1491.805229,220.6802,130.196,18.8796,31.157,mil,psf,2065,2159.5,agreed,claude,"feature: peak of the drawn line; flat at v 2159.5 to 2160.5 from u 1955 to 2190, so its x is not defined"
+b68-ds-fc-6d-n147,n147,1,marker,1,0.000255267,1432.86463,1.4252e-05,799.696085,10.0499,29.926,0.5611,16.702,mil,psf,811.5,2202.0,agreed,claude,centroid from apex and width; base merged with the bottom frame and curve ink
+b68-ds-fc-6d-n147,n147,1,marker,2,0.000503733,1603.078951,1.4244e-05,799.217283,19.832,33.481,0.5608,16.692,mil,psf,873.5,2200.3,agreed,claude,centroid from apex and width; base merged with the bottom frame and curve ink
+b68-ds-fc-6d-n147,n147,1,marker,3,0.000754377,2209.38667,1.0198e-05,711.500648,29.6999,46.144,0.4015,14.86,mil,psf,936.0,2196.0,agreed,claude,centroid; base touches the bottom frame
+b68-ds-fc-6d-n147,n147,1,marker,4,0.00096074,2281.39858,1.0193e-05,711.309127,37.8244,47.648,0.4013,14.856,mil,psf,987.5,2195.0,agreed,claude,centroid; base touches the bottom frame
+b68-ds-fc-6d-n147,n147,1,marker,5,0.001445219,1608.39366,1.5458e-05,798.977882,56.8984,33.592,0.6086,16.687,mil,psf,1105.0,2197.7,agreed,claude,centroid from apex and width; base merged with the bottom frame and curve ink
+b68-ds-fc-6d-n147,n147,1,marker,6,0.001713184,2031.559389,1.1064e-05,711.78793,67.4482,42.43,0.4356,14.866,mil,psf,1166.5,2194.5,agreed,claude,centroid; base touches the bottom frame
+b68-ds-fc-6d-n147,n147,1,marker,7,0.001954954,2297.773628,1.1064e-05,711.069726,76.9667,47.99,0.4356,14.851,mil,psf,1222.0,2192.3,agreed,claude,centroid; base touches the bottom frame
+b68-ds-fc-6d-n147,n147,1,marker,8,0.002218375,2285.755683,1.1062e-05,711.021846,87.3376,47.739,0.4355,14.85,mil,psf,1282.5,2191.7,agreed,claude,centroid; base touches the bottom frame
+b68-ds-fc-6d-n147,n147,1,marker,9,0.002455916,2856.296849,1.1024e-05,625.364063,96.6896,59.655,0.434,13.061,mil,psf,1337.0,2187.7,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,10,0.00271335,3030.916154,1.0952e-05,624.88526,106.8248,63.302,0.4312,13.051,mil,psf,1396.5,2186.0,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,11,0.002954965,3430.476915,1.1001e-05,623.879775,116.3372,71.647,0.4331,13.03,mil,psf,1452.5,2183.0,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,12,0.00321833,4324.640752,1.1054e-05,621.629402,126.7059,90.322,0.4352,12.983,mil,psf,1513.5,2177.0,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,13,0.0034706,4433.855622,1.1102e-05,621.294241,136.6378,92.603,0.4371,12.976,mil,psf,1572.0,2175.7,audited,claude,"centroid | audit: confirmed by R1 (W2-07), R3 (W3-06); was agreed"
+b68-ds-fc-6d-n147,n147,1,marker,14,0.00373124,3884.142369,1.5532e-05,792.897089,146.8992,81.122,0.6115,16.56,mil,psf,1632.5,2178.3,agreed,claude,centroid; right corner on the 150 gridline
+b68-ds-fc-6d-n147,n147,1,marker,15,0.003958308,4004.56122,1.1229e-05,622.299726,155.8389,83.637,0.4421,12.997,mil,psf,1685.0,2177.0,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,1,marker,16,0.004220566,4613.837516,1.1247e-05,620.719677,166.164,96.362,0.4428,12.964,mil,psf,1745.5,2172.7,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,1,marker,17,0.004475864,3999.916835,1.1262e-05,622.203965,176.2151,83.54,0.4434,12.995,mil,psf,1804.5,2175.7,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,18,0.004718385,3962.570233,1.1278e-05,622.251846,185.7632,82.76,0.444,12.996,mil,psf,1860.5,2175.3,agreed,claude,"centroid | audit: ok + cannot tell by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,1,marker,19,0.004993442,4062.400573,1.1298e-05,621.964564,196.5922,84.845,0.4448,12.99,mil,psf,1924.0,2174.0,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,20,0.005233782,3673.421349,1.127e-05,622.874289,206.0544,76.721,0.4437,13.009,mil,psf,1979.5,2175.7,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,21,0.005476456,3568.994504,1.1201e-05,623.11369,215.6085,74.54,0.441,13.014,mil,psf,2035.5,2175.7,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,22,0.005749671,4022.324796,1.1125e-05,621.916684,226.365,84.008,0.438,12.989,mil,psf,2098.5,2172.3,agreed,claude,centroid
+b68-ds-fc-6d-n147,n147,1,marker,23,0.00599692,4587.503373,1.1054e-05,620.528156,236.0992,95.812,0.4352,12.96,mil,psf,2155.5,2168.3,agreed,claude,"centroid | audit: ok + cannot tell by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,1,marker,24,0.006330335,3705.261721,1.5354e-05,792.753448,249.2258,77.386,0.6045,16.557,mil,psf,2232.5,2172.7,agreed,claude,"centroid from base and width; on the 250 gridline, apex hidden in it"
+b68-ds-fc-6d-n147,n147,1,trace,1,0.000333047,555.841927,2.365e-06,1137.539193,13.1121,11.609,0.0931,23.758,mil,psf,831,2207.0,confirmed,claude,"first dash rests on the bottom frame: only its upper edge (v 2204) is visible; center estimated as edge plus half a line width | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R2 (W2-06), R3 (W2-06); was one-sided-verified"
+b68-ds-fc-6d-n147,n147,1,trace,2,0.000389227,781.932509,2.362e-06,1135.288821,15.3239,16.331,0.093,23.711,mil,psf,845,2205.5,one-sided-verified,claude,"dash rests on the bottom frame: upper edge v 2201 visible, lower edge hidden in the frame | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6d-n147,n147,1,trace,3,0.000429283,763.307089,2.362e-06,1135.480342,16.9009,15.942,0.093,23.715,mil,psf,855,2205.5,agreed,claude,"dash rests on the bottom frame: upper edge v 2201 visible, lower edge hidden in the frame"
+b68-ds-fc-6d-n147,n147,1,trace,4,0.000581797,1449.000278,2.258e-06,878.21971,22.9054,30.263,0.0889,18.342,mil,psf,893,2201.0,agreed,claude,dash just above the bottom frame (separated from it by one pixel row)
+b68-ds-fc-6d-n147,n147,1,trace,5,0.000649961,1585.411135,2.324e-06,1046.42306,25.589,33.112,0.0915,21.855,mil,psf,910,2200.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,6,0.00067403,1658.28489,2.357e-06,1130.500795,26.5366,34.634,0.0928,23.611,mil,psf,916,2199.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,7,0.000834459,2088.010214,2.352e-06,1129.351669,32.8527,43.609,0.0926,23.587,mil,psf,956,2196.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,8,0.000870509,2071.252123,2.352e-06,1129.399549,34.272,43.259,0.0926,23.588,mil,psf,965,2196.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,9,0.001030872,2332.821978,2.416e-06,1297.219857,40.5855,48.722,0.0951,27.093,mil,psf,1005,2194.5,agreed,claude,just right of the fourth triangle
+b68-ds-fc-6d-n147,n147,1,trace,10,0.001070996,2482.256266,2.347e-06,1128.298303,42.1652,51.843,0.0924,23.565,mil,psf,1015,2193.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,11,0.001111087,2547.6607,2.314e-06,1043.885406,43.7436,53.209,0.0911,21.802,mil,psf,1025,2193.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,12,0.001171174,2519.650749,2.311e-06,1043.933287,46.1092,52.624,0.091,21.803,mil,psf,1040,2193.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,13,0.001231329,2659.748386,2.377e-06,1212.088756,48.4775,55.55,0.0936,25.315,mil,psf,1055,2192.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,14,0.001315149,2874.587108,2.545e-06,1127.292817,51.7775,60.037,0.1002,23.544,mil,psf,1075,2190.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,15,0.001358682,2855.913807,2.545e-06,1127.292817,53.4914,59.647,0.1002,23.544,mil,psf,1085,2190.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,16,0.001532959,3117.435782,2.616e-06,1295.113125,60.3527,65.109,0.103,27.049,mil,psf,1125,2188.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,17,0.001620096,3248.148889,2.54e-06,1126.239452,63.7833,67.839,0.1,23.522,mil,psf,1145,2187.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,18,0.00179437,3509.622983,2.611e-06,1294.059759,70.6445,73.3,0.1028,27.027,mil,psf,1185,2185.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,19,0.001859671,3481.613032,2.609e-06,1294.10764,73.2154,72.715,0.1027,27.028,mil,psf,1200,2185.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,20,0.002055744,3817.78033,2.57e-06,1208.976539,80.9348,79.736,0.1012,25.25,mil,psf,1245,2183.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,21,0.002121045,3789.770379,2.568e-06,1209.02442,83.5057,79.151,0.1011,25.251,mil,psf,1260,2183.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,22,0.002317046,3957.830088,2.53e-06,1124.276361,91.2223,82.661,0.0996,23.481,mil,psf,1305,2181.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,23,0.002360577,3939.156787,2.53e-06,1124.324241,92.9361,82.271,0.0996,23.482,mil,psf,1315,2181.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,24,0.002599525,4088.543195,2.548e-06,1208.114695,102.3435,85.391,0.1003,25.232,mil,psf,1370,2180.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,25,0.002621079,4079.206544,2.553e-06,1208.114695,103.1921,85.196,0.1005,25.232,mil,psf,1375,2180.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,26,0.002793614,4256.555023,2.55e-06,1123.414516,109.9848,88.9,0.1004,23.463,mil,psf,1415,2178.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,27,0.002858277,4228.545072,2.56e-06,1123.462397,112.5306,88.315,0.1008,23.464,mil,psf,1430,2178.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,28,0.003052364,4396.556901,2.631e-06,1207.20497,120.1718,91.824,0.1036,25.213,mil,psf,1475,2177.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,29,0.003138579,4359.210299,2.647e-06,1207.25285,123.5661,91.044,0.1042,25.214,mil,psf,1495,2177.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,30,0.00331121,4788.504701,2.68e-06,1206.151604,130.3626,100.01,0.1055,25.191,mil,psf,1535,2174.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,31,0.003375972,5012.488552,2.659e-06,1121.355665,132.9123,104.688,0.1047,23.42,mil,psf,1550,2172.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,32,0.003570087,5264.434475,2.758e-06,1289.080213,140.5546,109.95,0.1086,26.923,mil,psf,1595,2170.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,33,0.003634748,5236.376643,2.771e-06,1289.128093,143.1003,109.364,0.1091,26.924,mil,psf,1610,2170.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,34,0.00385066,5646.949864,2.817e-06,1288.026847,151.6008,117.939,0.1109,26.901,mil,psf,1660,2167.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,35,0.003872311,5637.565333,2.819e-06,1288.074727,152.4532,117.743,0.111,26.902,mil,psf,1665,2167.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,36,0.004045585,5730.836078,2.766e-06,1119.392575,159.275,119.691,0.1089,23.379,mil,psf,1705,2166.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,37,0.004132222,5777.42357,2.738e-06,1035.075439,162.6859,120.664,0.1078,21.618,mil,psf,1725,2166.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,38,0.004305526,5954.628408,2.845e-06,1287.117122,169.5089,124.365,0.112,26.882,mil,psf,1765,2164.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,39,0.004392193,6085.245755,2.786e-06,1118.43497,172.921,127.093,0.1097,23.359,mil,psf,1785,2163.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,40,0.004565498,6262.402713,2.827e-06,1202.081782,179.744,130.793,0.1113,25.106,mil,psf,1825,2162.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,41,0.00463045,6234.392761,2.832e-06,1202.129662,182.3012,130.208,0.1115,25.107,mil,psf,1840,2162.0,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,42,0.00482534,6234.249121,2.875e-06,1286.255277,189.974,130.205,0.1132,26.864,mil,psf,1885,2161.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,43,0.004911946,6196.902519,2.88e-06,1286.303158,193.3837,129.425,0.1134,26.865,mil,psf,1905,2161.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,44,0.005128616,6439.32027,2.878e-06,1285.632834,201.914,134.488,0.1133,26.851,mil,psf,1955,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,45,0.005323614,6355.242535,2.822e-06,1285.776475,209.5911,132.732,0.1111,26.854,mil,psf,2000,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,46,0.005388613,6327.232583,2.802e-06,1285.824355,212.1501,132.147,0.1103,26.855,mil,psf,2015,2159.5,audited,claude,"audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,1,trace,47,0.005561945,6252.491499,2.751e-06,1285.967996,218.9742,130.586,0.1083,26.858,mil,psf,2055,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,48,0.005583611,6243.154849,2.746e-06,1285.967996,219.8272,130.391,0.1081,26.858,mil,psf,2060,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,49,0.005626946,6224.481548,2.733e-06,1286.015876,221.5333,130.001,0.1076,26.859,mil,psf,2070,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,50,0.005670278,6205.808247,2.72e-06,1286.015876,223.2393,129.611,0.1071,26.859,mil,psf,2080,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,51,0.00584361,6131.115043,2.67e-06,1286.159517,230.0634,128.051,0.1051,26.862,mil,psf,2120,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,52,0.005908611,6103.057211,2.649e-06,1286.207397,232.6225,127.465,0.1043,26.863,mil,psf,2135,2159.5,audited,claude,"audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,1,trace,53,0.006081946,6028.364007,2.598e-06,1286.351038,239.4467,125.905,0.1023,26.866,mil,psf,2175,2159.5,agreed,claude,
+b68-ds-fc-6d-n147,n147,1,trace,54,0.006155553,5828.751207,2.517e-06,1118.53073,242.3446,121.736,0.0991,23.361,mil,psf,2192,2160.5,agreed,claude,last clean ink; to the right the dash runs into the left side of the triangle on the 250 gridline
+b68-ds-fc-6d-n147,n147,1,trace,78,0.006172705,5434.936077,6.949e-06,1470.354873,243.0199,113.511,0.2736,30.709,mil,psf,2196,2163.0,one-sided-verified,codex,"Column dark-run center; guide used only to select ink. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 217 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6d-n147,n147,1,trace,79,0.00620729,5084.548342,7.066e-06,1806.474291,244.3815,106.193,0.2782,37.729,mil,psf,2204,2165.0,one-sided-verified,codex,"Column dark-run center; guide used only to select ink. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 075 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6d-n147,n147,1,trace,80,0.006211628,5082.728892,6.888e-06,1302.726086,244.5523,106.155,0.2712,27.208,mil,psf,2205,2165,confirmed,codex,"Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 075 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R1 (W2-07), R3 (W3-06); was one-sided-verified"
+b68-ds-fc-6d-n147,n147,2,marker,1,-2.111e-06,-0.001838,1.5232e-05,3.1e-05,-0.0831,-72.3647,0.5997,1.2343,mil,mil,753.0,2567.0,audited,claude,"centroid; on the left frame (displacement 0), apex hidden in the frame line | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,2,0.000309021,-0.001927,1.1113e-05,2.3e-05,12.1662,-75.8516,0.4375,0.8894,mil,mil,831.0,2576.3,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,3,0.000546484,-0.001976,1.1128e-05,2.3e-05,21.5151,-77.7969,0.4381,0.8895,mil,mil,890.5,2581.3,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,4,0.000778624,-0.001939,1.1146e-05,2.3e-05,30.6545,-76.3265,0.4388,0.8893,mil,mil,948.5,2576.3,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,5,0.001010214,-0.001971,1.1161e-05,2.3e-05,39.7722,-77.5836,0.4394,0.8893,mil,mil,1006.5,2579.3,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,6,0.001250023,-0.001974,1.5248e-05,3.1e-05,49.2135,-77.7237,0.6003,1.2342,mil,mil,1066.5,2579.0,audited,claude,"centroid; on the 50 gridline | audit: confirmed by R1 (W2-07), R3 (W3-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,7,0.001500584,-0.001983,1.1976e-05,2.3e-05,59.0781,-78.0601,0.4715,0.8892,mil,mil,1124.5,2579.3,audited,claude,"centroid; a short stray stroke runs right from its base (u 1140 to 1158), not part of the symbol | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,8,0.001754906,-0.002012,1.1748e-05,2.3e-05,69.0908,-79.2165,0.4625,0.8892,mil,mil,1183.0,2582.0,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,9,0.002016201,-0.001992,1.1514e-05,2.3e-05,79.378,-78.4363,0.4533,0.8891,mil,mil,1243.0,2579.0,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,10,0.002253094,-0.002024,1.1303e-05,2.3e-05,88.7045,-79.6786,0.445,0.8891,mil,mil,1297.5,2582.0,agreed,claude,"centroid | audit: ok + cannot tell by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,2,marker,11,0.002523249,-0.001987,1.5494e-05,3.1e-05,99.3405,-78.225,0.61,1.2337,mil,mil,1359.5,2577.0,agreed,claude,centroid; on the 100 gridline | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,12,0.002761163,-0.001961,1.1519e-05,2.3e-05,108.7072,-77.1864,0.4535,0.8888,mil,mil,1414.5,2573.3,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,13,0.003007319,-0.001964,1.2118e-05,2.3e-05,118.3984,-77.3143,0.4771,0.8887,mil,mil,1471.5,2573.0,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,14,0.003270827,-0.001959,1.2761e-05,2.3e-05,128.7727,-77.1177,0.5024,0.8886,mil,mil,1532.5,2571.7,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,15,0.003512772,-0.00195,1.335e-05,2.3e-05,138.2981,-76.7647,0.5256,0.8885,mil,mil,1588.5,2570.0,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,16,0.003793894,-0.001905,1.8425e-05,3.1e-05,149.3659,-74.9836,0.7254,1.233,mil,mil,1653.5,2564.0,agreed,claude,centroid; on the 150 gridline | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,17,0.004016814,-0.001887,1.3792e-05,2.3e-05,158.1423,-74.2721,0.543,0.8882,mil,mil,1705.0,2561.3,audited,claude,"centroid | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,18,0.004283039,-0.001867,1.3416e-05,2.3e-05,168.6236,-73.4989,0.5282,0.888,mil,mil,1766.5,2558.3,agreed,claude,"centroid | audit: ok + cannot tell by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,2,marker,19,0.004555602,-0.001865,1.3068e-05,2.7e-05,179.3544,-73.4129,0.5145,1.0582,mil,mil,1829.5,2557.3,agreed,claude,"centroid; outline 32 px tall (others 29), a blob on the base | audit: split by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,2,marker,20,0.004780953,-0.001818,1.2751e-05,2.7e-05,188.2265,-71.5801,0.502,1.058,mil,mil,1881.5,2551.3,audited,claude,"centroid; outline 32 px tall (others 29) | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,21,0.005036094,-0.00183,1.4557e-05,2.7e-05,198.2714,-72.0569,0.5731,1.06,mil,mil,1940.5,2552.0,agreed,claude,"centroid; right corner touches the 200 gridline | audit: ok + cannot tell by R2 (W2-06), R3 (W2-06)"
+b68-ds-fc-6d-n147,n147,2,marker,22,0.005541317,-0.001819,1.1834e-05,2.3e-05,218.1621,-71.6086,0.4659,0.8875,mil,mil,2057.0,2549.3,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,23,0.005992261,-0.00183,1.1359e-05,2.3e-05,235.9158,-72.0289,0.4472,0.8874,mil,mil,2161.0,2549.3,agreed,claude,centroid | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6d-n147,n147,2,marker,24,0.00633299,-0.001792,1.5408e-05,3.1e-05,249.3303,-70.5424,0.6066,1.2316,mil,mil,2239.5,2544.0,audited,claude,"centroid; on the 250 gridline, apex hidden in it | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"
+b68-ds-fc-6d-n147,n147,2,marker,25,0.006635598,-0.001923,1.2296e-05,2.3e-05,261.244,-75.6913,0.4841,0.8875,mil,mil,2309.5,2558.3,audited,claude,"centroid; BEYOND THE AXIS: right of the 250 line (x about 260), printed under the word Rebound; probably the reading after the normal load was removed, its x is a placement, not a shear displacement | audit: confirmed by R2 (W2-06), R3 (W2-06); was agreed"

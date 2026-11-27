@@ -1,0 +1,1009 @@
+{
+  "experiment_id": "b68-dpt-r54025",
+  "source": "bendix-1968-vol1",
+  "figure_id": "F2-54",
+  "batch": "curves-s2-b4",
+  "reading_rules": "docs/CURVE-READING.md (2026-10-08)",
+  "method": "two independent readings (Claude, Codex gpt-6.2-sol high) with their own axis calibrations, compared by tools/diff_curves.py; values from each reading's pixels on a piecewise map between its verified lines (D-025); canonical reading chosen by the lines checked against the ink of the page (more verified lines, then closer to the ink, then the first submission), never averaged; status agreed where the two readings matched within the sum of their bounds, resolved where a page re-read settled a disagreement (qa/<batch>/decisions*.csv), one-sided-verified where only one reading holds the point and the other agent verified it on the page, one-sided where nobody has; `source` names the reading each point comes from and whose numbering `sequence` is",
+  "panels": {
+    "1": {
+      "figure_id": "F2-54",
+      "figure_panel": "2",
+      "x_quantity": "time",
+      "x_unit_native": "ms",
+      "x_unit_si": "s",
+      "x_factor": 0.001,
+      "y_quantity": "deceleration",
+      "y_unit_native": "g",
+      "y_unit_si": "m_s2",
+      "y_factor": 9.80665,
+      "note": "The figure prints no time origin: time is counted from the timing line that carries the three deceleration rulers (0 ms), so only differences of time are measured; the timing lines are 10 ms apart (the figure's 0.01 s bar). Deceleration is in g as printed (G's), positive upward, converted with standard gravity; 0 g is each ruler's printed zero, not the dashed line drawn about 0.7 to 1.0 g above it. Samples are in drawing order and may share a time on a steep flank"
+    }
+  },
+  "calibrations": {
+    "claude": {
+      "cal-p1": {
+        "x_per_px": 0.0642927688333008,
+        "y_per_px": 0.09745725210134608,
+        "rms_residual_x": 0.43854645075582005,
+        "rms_residual_y": 0.0530533826057333,
+        "max_residual_x": 0.712898860521932,
+        "max_residual_y": 0.09521808593574121,
+        "n_anchors": 205,
+        "box": [
+          290,
+          1300,
+          945,
+          3050
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-s2-b4/F2-54/cal-p1",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.58
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.62
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.67
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.73
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 1.32
+            },
+            {
+              "value": 2.0,
+              "location_error_px": 0.77
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 1.02
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.76
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 12.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 14.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 16.0,
+              "location_error_px": 0.86
+            },
+            {
+              "value": 18.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 1.16
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 3
+        }
+      },
+      "cal-p2": {
+        "x_per_px": 0.06434126127100429,
+        "y_per_px": 0.09100247387971136,
+        "rms_residual_x": 0.44369901750127383,
+        "rms_residual_y": 0.13394345866885518,
+        "max_residual_x": 0.7123246680688311,
+        "max_residual_y": 0.4225342907694625,
+        "n_anchors": 267,
+        "box": [
+          945,
+          1300,
+          1385,
+          3050
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-s2-b4/F2-54/cal-p2",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 0.68
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.62
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.52
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.61
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 3.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 5.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 7.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 9.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 12.0,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 13.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 14.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 15.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 16.0,
+              "location_error_px": 0.7
+            },
+            {
+              "value": 17.0,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 18.0,
+              "location_error_px": 0.78
+            },
+            {
+              "value": 19.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 21.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 22.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 23.0,
+              "location_error_px": 0.78
+            },
+            {
+              "value": 24.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 25.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 26.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 27.0,
+              "location_error_px": 0.91
+            },
+            {
+              "value": 28.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 1.68
+            }
+          ],
+          "lines_not_on_the_ink": [
+            {
+              "axis": "y",
+              "value": 2.0,
+              "reason": "misplaced: tick 5.46 px from the ink (median of its stubs)"
+            },
+            {
+              "axis": "y",
+              "value": 11.0,
+              "reason": "misplaced: tick 5.79 px from the ink (median of its stubs)"
+            },
+            {
+              "axis": "y",
+              "value": 29.0,
+              "reason": "misplaced: tick 5.62 px from the ink (median of its stubs)"
+            }
+          ],
+          "recovered_lines": 3
+        }
+      },
+      "cal-p3": {
+        "x_per_px": 0.0644336031114195,
+        "y_per_px": 0.08808085513153777,
+        "rms_residual_x": 0.4066108724287828,
+        "rms_residual_y": 0.10935053606747178,
+        "max_residual_x": 0.685137163960178,
+        "max_residual_y": 0.23112131721396167,
+        "n_anchors": 600,
+        "box": [
+          1385,
+          1300,
+          2450,
+          3050
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-s2-b4/F2-54/cal-p3",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.52
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 0.55
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.82
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.63
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.65
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.84
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.8
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.51
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 2.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 0.57
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 15.0,
+              "location_error_px": 1.49
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 25.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 35.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 45.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 55.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 65.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 72.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 74.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 76.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 78.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 2.22
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 3
+        }
+      }
+    },
+    "codex": {
+      "cal-p1": {
+        "x_per_px": 0.06428457468667478,
+        "y_per_px": 0.09929592875555794,
+        "rms_residual_x": 0.4340730704675732,
+        "rms_residual_y": 0.19845903076929738,
+        "max_residual_x": 0.6666092782456303,
+        "max_residual_y": 0.5380894839491503,
+        "n_anchors": 202,
+        "box": [
+          302,
+          1288,
+          878,
+          3060
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-s2-b4/F2-54/cal-p1",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.52
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.65
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.57
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 1.32
+            },
+            {
+              "value": 2.0,
+              "location_error_px": 0.91
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 1.11
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.75
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 12.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 14.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 16.0,
+              "location_error_px": 0.84
+            },
+            {
+              "value": 18.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 3
+        }
+      },
+      "cal-p2": {
+        "x_per_px": 0.06439994692519728,
+        "y_per_px": 0.09150878521150778,
+        "rms_residual_x": 0.4342837487072063,
+        "rms_residual_y": 0.25353212332018815,
+        "max_residual_x": 0.6837015964084827,
+        "max_residual_y": 1.1766817871076398,
+        "n_anchors": 198,
+        "box": [
+          870,
+          1288,
+          1350,
+          3060
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-s2-b4/F2-54/cal-p2",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 1.02
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 1.28
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.69
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.63
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.55
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 3.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 5.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 7.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 9.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 11.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 12.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 13.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 14.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 15.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 16.0,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 17.0,
+              "location_error_px": 0.55
+            },
+            {
+              "value": 18.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 19.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 21.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 22.0,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 23.0,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 24.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 25.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 26.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 27.0,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 28.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 29.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "lines_not_on_the_ink": [
+            {
+              "axis": "y",
+              "value": 2.0,
+              "reason": "misplaced: tick 5.56 px from the ink (median of its stubs)"
+            }
+          ],
+          "recovered_lines": 3
+        }
+      },
+      "cal-p3": {
+        "x_per_px": 0.06445097806151243,
+        "y_per_px": 0.08826325829422393,
+        "rms_residual_x": 0.4039935825489717,
+        "rms_residual_y": 0.22534299289806908,
+        "max_residual_x": 0.6262643808951509,
+        "max_residual_y": 0.8945254221089272,
+        "n_anchors": 406,
+        "box": [
+          1345,
+          1288,
+          2446,
+          3060
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-s2-b4/F2-54/cal-p3",
+          "x_lines": [
+            {
+              "value": -20.0,
+              "location_error_px": 0.53
+            },
+            {
+              "value": -10.0,
+              "location_error_px": 0.58
+            },
+            {
+              "value": 0.0,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.61
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.61
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.52
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.69
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.88
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.67
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 2.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4.0,
+              "location_error_px": 0.89
+            },
+            {
+              "value": 6.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 8.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 10.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 15.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 20.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 25.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 30.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 35.0,
+              "location_error_px": 0.62
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 45.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.53
+            },
+            {
+              "value": 55.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 65.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 72.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 74.0,
+              "location_error_px": 0.63
+            },
+            {
+              "value": 76.0,
+              "location_error_px": 0.61
+            },
+            {
+              "value": 78.0,
+              "location_error_px": 0.74
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 3
+        }
+      }
+    }
+  },
+  "points": {
+    "total": 100,
+    "by_status": {
+      "agreed": 91,
+      "resolved": 1,
+      "one-sided": 2,
+      "one-sided-verified": 6
+    },
+    "by_kind": {
+      "feature": 11,
+      "trace": 89
+    },
+    "by_panel": {
+      "1": 100
+    }
+  },
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "points_sampled": 0,
+    "by_pair_outcome": {},
+    "rule": "a point both reviewers answered ok has status audited (it was agreed) or confirmed (it rested on a rule, a re-read or one reading); the earlier status is in the note; any other outcome is noted and leaves the status as the readings left it; a verdict on a reading a decision has since replaced is kept as history (superseded) and not applied"
+  },
+  "bounds": "x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.",
+  "pixel_frame": "pixel_u, pixel_v refer to the unrotated 300 dpi rendering of PDF page of F2-54 (tools/render_pages.py), origin top-left, u right, v down."
+}

@@ -1,0 +1,38 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-dens-fa-23,lower,1,feature,1,7.4e-06,10882.6,0.0037898,12.8278,7.4e-06,69.27764,0.0037898,0.08166,none,pcf,851.2,2515.4,agreed,claude,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+b68-dens-fa-23,lower,1,feature,2,1.0000245,14810.7,0.0034698,21.81,1.0000245,94.28344,0.0034698,0.13884,none,pcf,2244.7,3543.8,agreed,claude,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+b68-dens-fa-23,lower,1,trace,2,0.0999757,11183.6,0.0034202,14.3311,0.0999757,71.19335,0.0034202,0.09123,none,pcf,986.4,2617.4,agreed,claude,
+b68-dens-fa-23,lower,1,trace,3,0.2081564,11519.8,0.0034118,14.54,0.2081564,73.33368,0.0034118,0.09256,none,pcf,1137.0,2729.4,agreed,claude,"Dr 0.2 falls in a gap (u 1115 to 1136): the two dash ends are equally near (u 1114 is 11.6 px away, u 1137 11.4 px); moved to the dash start at u 1137 (rule 7)"
+b68-dens-fa-23,lower,1,trace,4,0.2955852,11805.3,0.0034199,17.7933,0.2955852,75.15105,0.0034199,0.11327,none,pcf,1259.0,2819.6,agreed,claude,"Dr 0.3 falls in a gap (u 1260 to 1279): moved to the nearer dash end, u 1259 (rule 7)"
+b68-dens-fa-23,lower,1,trace,5,0.3999789,12169.6,0.0034579,15.6145,0.3999789,77.47005,0.0034579,0.0994,none,pcf,1401.2,2924.7,agreed,claude,
+b68-dens-fa-23,lower,1,trace,6,0.500018,12522.8,0.0033607,16.989,0.500018,79.71879,0.0033607,0.10815,none,pcf,1540.2,3025.8,agreed,claude,"the dash ends at the Dr 0.5 grid line (ink to its left edge, u 1538)"
+b68-dens-fa-23,lower,1,trace,7,0.6000151,12920.2,0.0033753,19.7647,0.6000151,82.24818,0.0033753,0.12582,none,pcf,1679.7,3128.3,agreed,claude,
+b68-dens-fa-23,lower,1,trace,8,0.7000201,13338.3,0.0033206,17.5215,0.7000201,84.91009,0.0033206,0.11154,none,pcf,1821.2,3233.1,agreed,claude,
+b68-dens-fa-23,lower,1,trace,9,0.8000274,13829.6,0.0034226,22.6049,0.8000274,88.03742,0.0034226,0.1439,none,pcf,1961.9,3337.1,agreed,claude,
+b68-dens-fa-23,lower,1,trace,10,0.9000296,14268.6,0.0038317,22.2122,0.9000296,90.83235,0.0038317,0.1414,none,pcf,2098.7,3437.6,agreed,claude,"the dash ends at the Dr 0.9 grid line (ink to its left edge, u 2097)"
+b68-dens-fa-23,mean,1,feature,1,8.9e-06,9654.49,0.0041749,11.5051,8.9e-06,61.45934,0.0041749,0.07324,none,pcf,843.9,2015.7,agreed,claude,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+b68-dens-fa-23,mean,1,trace,1,0.001628,9665.28,0.004225,12.4036,0.001628,61.52804,0.004225,0.07896,none,pcf,846.0,2018.79,one-sided-verified,codex,"first point; stroke meets plot frame | decision: second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 021 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-dens-fa-23,mean,1,trace,2,0.099997,9915.85,0.00379,11.725,0.099997,63.12312,0.00379,0.07464,none,pcf,979.21,2130.02,one-sided-verified,codex,"| decision: second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 021 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-dens-fa-23,mean,1,trace,2,0.100023,9910.13,0.0038014,12.146,0.100023,63.0867,0.0038014,0.07732,none,pcf,979.3,2130.6,agreed,claude,
+b68-dens-fa-23,mean,1,trace,3,0.2000125,10190.7,0.0037844,12.6691,0.2000125,64.87272,0.0037844,0.08065,none,pcf,1118.6,2245.9,agreed,claude,
+b68-dens-fa-23,mean,1,trace,4,0.3000284,10491.2,0.0039006,14.4112,0.3000284,66.78598,0.0039006,0.09174,none,pcf,1258.2,2360.8,agreed,claude,
+b68-dens-fa-23,mean,1,trace,5,0.3999929,10779.3,0.0038494,13.9399,0.3999929,68.61977,0.0038494,0.08874,none,pcf,1393.9,2471.9,agreed,claude,
+b68-dens-fa-23,mean,1,trace,6,0.4999986,11105.5,0.0037246,16.4282,0.4999986,70.69651,0.0037246,0.10458,none,pcf,1533.5,2585.4,agreed,claude,
+b68-dens-fa-23,mean,1,trace,7,0.6000285,11445.5,0.0037519,15.4935,0.6000285,72.8605,0.0037519,0.09863,none,pcf,1672.9,2699.7,agreed,claude,
+b68-dens-fa-23,mean,1,trace,8,0.700027,11817.0,0.0036838,19.6375,0.700027,75.22571,0.0036838,0.12501,none,pcf,1815.1,2817.2,agreed,claude,
+b68-dens-fa-23,mean,1,trace,9,0.8000195,12214.3,0.0037906,17.355,0.8000195,77.75481,0.0037906,0.11048,none,pcf,1956.0,2933.0,agreed,claude,
+b68-dens-fa-23,mean,1,trace,10,0.8999787,12615.1,0.0041976,19.2228,0.8999787,80.30641,0.0041976,0.12237,none,pcf,2093.2,3045.4,agreed,claude,
+b68-dens-fa-23,mean,1,trace,10,0.8999803,12598.2,0.0040996,20.8094,0.8999803,80.19837,0.0040996,0.13247,none,pcf,2093.49,3040.74,one-sided-verified,codex,"| decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 022 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)"
+b68-dens-fa-23,upper,1,feature,1,4.2e-06,8460.33,0.0041771,11.0008,4.2e-06,53.85742,0.0041771,0.07003,none,pcf,834.6,1379.7,agreed,claude,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+b68-dens-fa-23,upper,1,feature,2,0.9999952,11234.2,0.0038116,15.7527,0.9999952,71.51563,0.0038116,0.10028,none,pcf,2232.4,2622.1,agreed,claude,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+b68-dens-fa-23,upper,1,trace,1,0.0012717,8449.22,0.0034631,8.08529,0.0012717,53.78673,0.0034631,0.05147,none,pcf,836,1377,one-sided,codex,first point; stroke meets plot frame; endpoint checked by eye
+b68-dens-fa-23,upper,1,trace,2,0.0999804,8664.16,0.0038041,8.71207,0.0999804,55.155,0.0038041,0.05546,none,pcf,970.0,1502.6,agreed,claude,
+b68-dens-fa-23,upper,1,trace,3,0.1946725,8874.96,0.0037885,10.0646,0.1946725,56.49694,0.0037885,0.06407,none,pcf,1102.0,1621.2,agreed,claude,"Dr 0.2 falls in a gap (u 1103 to 1120): moved to the nearer dash end, u 1102 (rule 7)"
+b68-dens-fa-23,upper,1,trace,4,0.3000172,9127.32,0.0039194,10.649,0.3000172,58.1034,0.0039194,0.06779,none,pcf,1249.0,1752.8,agreed,claude,
+b68-dens-fa-23,upper,1,trace,5,0.3999807,9369.17,0.0038677,11.0213,0.3999807,59.64304,0.0038677,0.07016,none,pcf,1384.2,1872.8,agreed,claude,
+b68-dens-fa-23,upper,1,trace,6,0.5000057,9630.22,0.0037367,11.37,0.5000057,61.30481,0.0037367,0.07238,none,pcf,1524.6,1997.4,agreed,claude,
+b68-dens-fa-23,upper,1,trace,7,0.5945096,9887.07,0.0037653,11.6213,0.5945096,62.9399,0.0037653,0.07398,none,pcf,1656.0,2113.4,agreed,claude,"Dr 0.6 falls in a gap (u 1657 to 1679): moved to the nearer dash end, u 1656 (rule 7)"
+b68-dens-fa-23,upper,1,trace,8,0.7000183,10209.9,0.0036821,12.6927,0.7000183,64.99481,0.0036821,0.0808,none,pcf,1806.7,2246.2,agreed,claude,
+b68-dens-fa-23,upper,1,trace,9,0.8000072,10537.4,0.003779,13.2943,0.8000072,67.07968,0.003779,0.08463,none,pcf,1947.8,2371.5,agreed,claude,
+b68-dens-fa-23,upper,1,trace,10,0.9000067,10858.7,0.0041848,14.0499,0.9000067,69.12542,0.0041848,0.08944,none,pcf,2085.6,2493.5,agreed,claude,
+b68-dens-fa-23,upper,1,trace,11,0.9982911,11223.8,0.0040378,16.6481,0.9982911,71.44946,0.0040378,0.10598,none,pcf,2230.0,2620.64,one-sided-verified,codex,"last point; stroke meets plot frame | decision: second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 024 (Claude's adjudicator: all yes; Codex's: all yes)"

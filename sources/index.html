@@ -1,0 +1,1981 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Sources – Terramechanics Reference Data</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../site.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Terramechanics Reference Data</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../experiments/index.html"> 
+<span class="menu-text">Find a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../materials/index.html"> 
+<span class="menu-text">Soils</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../simulate/index.html"> 
+<span class="menu-text">Simulate a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../glossary/index.html"> 
+<span class="menu-text">Glossary</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../downloads/index.html"> 
+<span class="menu-text">Download</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about/index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#register" id="toc-register" class="nav-link active" data-scroll-target="#register">Register</a></li>
+  <li><a href="#leads-from-the-broadened-hunt" id="toc-leads-from-the-broadened-hunt" class="nav-link" data-scroll-target="#leads-from-the-broadened-hunt">Leads from the broadened hunt</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Sources</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="register" class="level2">
+<h2 class="anchored" data-anchor-id="register">Register</h2>
+<p>34 sources: 7 acquired (file in hand, checksummed), 19 located (identity confirmed against the archive record by the 2026-10-07 screening, file not yet downloaded; the screening verdict is in the notes), 8 leads not yet located. Status moves to <code>acquired</code> only with a file and a checksum.</p>
+<div class="table-wrap" style="--table-min: 296ch; --table-min-phone: 310ch">
+<table class="caption-top table">
+<caption>Source: <code>sources/register.csv</code>; the screening submission is <code>extractions/codex/leads-screen-b1/</code> and its review <code>qa/leads-screen-b1/review.md</code>.</caption>
+<colgroup>
+<col style="width: 8%">
+<col style="width: 3%">
+<col style="width: 8%">
+<col style="width: 11%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 13%">
+<col style="width: 8%">
+<col style="width: 27%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>id</th>
+<th>status</th>
+<th>title</th>
+<th>report numbers</th>
+<th>date</th>
+<th style="text-align: right;">pages</th>
+<th>rights evidence</th>
+<th>holds</th>
+<th>notes</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>apollo15-pds-lsrp</td>
+<td>acquired</td>
+<td>Apollo 15 Lunar Module Soil Mechanics Data Bundle</td>
+<td>A15L-L-LSRP-2/3-SOIL-MECHANICS-V1.0; urn:nasa:pds:a15lsrp_soil_mechanics</td>
+<td>2012 archive citation; measurements 1971</td>
+<td style="text-align: right;">document/a15_lsrp_data_report.pdf: 32 pages; document/a15_psr_ch7_sm.pdf: 29 pages</td>
+<td>Data sets archived in the PDS are in the public domain. (Archive explicitly states public domain)</td>
+<td>Drum readings; calibrated load; stress; penetration depth for cone and plate operations; data form: raw; tests: Six runs; four cone and two plate runs; data pages: Data directory; dataset_description.txt; instrument document a15l_lsrp.txt; six station-8 runs</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Plain ASCII table sampled successfully; includes transcribed instrument readings and reduced values. Caveat: hand transcription from microfilm; uncertain in situ density and operator-controlled rate; reference-pad movement affects depth. Archive describes corrections. Direct URL is one file; siblings in the data directory supply the other runs. Distinguish experiment year from archive publication. Download: https://pds-geosciences.wustl.edu/lunar/urn-nasa-pds-a15lsrp_soil_mechanics/data/a15_smss_71_m016935_011.tab Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>apollo16-pds-lsrp</td>
+<td>acquired</td>
+<td>APOLLO 16 LSRP SOIL MECHANICS DATA V1.0</td>
+<td>A16L-L-LSRP-2/3-SOIL-MECHANICS-V1.0</td>
+<td>2012 archive citation; measurements 1972</td>
+<td style="text-align: right;">document/a16_lsrp_data_report.pdf: 45 pages; document/a16_psr_ch8_sm.pdf: 30 pages</td>
+<td>Data sets archived in the PDS are in the public domain. (Archive explicitly states public domain)</td>
+<td>Drum readings; calibrated load and stress; penetration depth; data form: raw; tests: Ten recorded runs at stations 4 and 10; eleven table files include original and reconstructed versions of one run; data pages: Data directory; per-run LBL and TXT files; sampled label references source printed B-3/B-4</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Plain ASCII data and column definitions sampled successfully. Caveat: hand-transcribed records; one enumerated run absent; uncertain reference-plane offsets and in situ state. Original and reconstructed versions are the same test. Direct URL is a sample file; acquire sibling tables and labels together. Download: https://pds-geosciences.wustl.edu/lunar/a16l-l-lsrp-2_3-soil-mechanics-v1/a16sm_0001/data/a16_smss_72_m016936_017.tab Lead found by both.</td>
+</tr>
+<tr class="odd">
+<td>bendix-1968-vol1</td>
+<td>acquired</td>
+<td>Lunar Module (LM) Soil Mechanics Study, Volume I, Final Report, May 1966 - Feb 1968</td>
+<td>AM-68-1 V.1; NASA-CR-92208</td>
+<td>1968-05-01</td>
+<td style="text-align: right;">449</td>
+<td>NTRS: distribution PUBLIC, determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> no third-party restrictions (checked 2026-10-07); re-checked 2026-11-23 through the NTRS API: distribution PUBLIC, copyright determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> containsThirdPartyMaterial false, not a US Government work (belongsToUsGov false); the HTML record page shows U.S. Government wording (seen by Codex, 2026-11-23) where the API flags belongsToUsGov false; either reading permits public use</td>
+<td>Sections I to VII: soil selection and basic tests, apparatus, drag and impact tests, soil model, LM model drops, correlation; appendices A to E NOT included (Volume II)</td>
+<td>OCR layer (Pdf.Capture 5.2) unusable for numbers; printed-page map in corpus/1968/page-map.csv</td>
+</tr>
+<tr class="even">
+<td>bendix-1968-vol2</td>
+<td>acquired</td>
+<td>Lunar Module (LM) Soil Mechanics Study, Volume II, Final Report</td>
+<td>AM-68-1 V.2; NASA-CR-92215</td>
+<td>1968-05-01</td>
+<td style="text-align: right;">236</td>
+<td>NTRS: distribution PUBLIC, determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> no third-party restrictions (checked 2026-10-07); re-checked 2026-11-23 through the NTRS API: distribution PUBLIC, copyright determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> containsThirdPartyMaterial false, not a US Government work (belongsToUsGov false)</td>
+<td>Expected: Appendix A soil specimens, B determination of the tangent modulus, C direct shear test data, D full-scale drag test facility design, E vacuum/atmospheric impact tester and subgravity simulator (per Volume I contents); to be confirmed by inspection</td>
+<td>Located via NASA TN D-7664 reference to CR-92215 (lead from Codex, 2026-10-07); downloaded from NTRS the same day</td>
+</tr>
+<tr class="odd">
+<td>mdac-1970-cr66914</td>
+<td>acquired</td>
+<td>Master Agreement Task Order Two: Analyses and Limited Evaluations of Payload and Landing System Structures for the Survivable Soft Landing of Instrument Payloads</td>
+<td>NASA-CR-66914</td>
+<td>1970-04-01</td>
+<td style="text-align: right;">427</td>
+<td>NTRS: distribution PUBLIC, determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> no third-party restrictions (checked 2026-10-07); re-checked 2026-11-23 through the NTRS API: distribution PUBLIC, copyright determination GOV_<wbr>PUBLIC_<wbr>USE_<wbr>PERMITTED,<wbr> containsThirdPartyMaterial false, not a US Government work (belongsToUsGov false)</td>
+<td>Structural and landing-loads programs; semi-empirical soil model (Section 7.1.4, printed 120 to 139); almost no physical test data</td>
+<td>Other task orders under NAS 1-8137 not yet searched</td>
+</tr>
+<tr class="even">
+<td>wes-m71-10-rpt1</td>
+<td>acquired</td>
+<td>Performance of Boeing LRV wheels in a lunar soil simulant. Report 1: Effect of wheel design and soil</td>
+<td>M-71-10 Report 1; NASA-CR-127695; supersedes M-70-15</td>
+<td>1971</td>
+<td style="text-align: right;">86</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Wheel pull; torque; slip; sinkage; soil density; moisture; cone resistance; triaxial and plate-shear measurements; data form: tables; tests: Six wheel designs; four soil conditions; dozens of wheel runs; six vacuum-triaxial and eight plate-shear tests described; data pages: Part II printed 3-9/PDF 11-17; Part III printed 10-16/PDF 18-24; Tables 1-5; Table 3 sample PDF 66</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire; setup recoverability high; text layer: Prose OCR usable; Table 3 numerical OCR badly degraded. Detailed wheel geometry, crushed-basalt preparation, soil state and test procedures are documented. Numeric extraction must use original images. Legacy PDF URL failed; current NTRS download worked. Soil characterization and wheel tests must remain separate series. Download: https://ntrs.nasa.gov/api/citations/19720021195/downloads/19720021195.pdf Lead found by claude.</td>
+</tr>
+<tr class="odd">
+<td>wes-m71-10-rpt2</td>
+<td>acquired</td>
+<td>Performance of the Boeing LRV wheels in a lunar soil simulant. Report 2: Effects of speed, wheel load, and soil</td>
+<td>M-71-10 Report 2; NASA-CR-129612; correct NTRS 19730004536</td>
+<td>1971</td>
+<td style="text-align: right;">97</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Pull; torque; slip; sinkage; wheel speed and acceleration; load; cone gradient; density; moisture; data form: tables; tests: Two wheel designs and two phases; dozens of runs; seven ramped-slip and eight multi-programmed-slip runs explicitly described in Phase I; data pages: Part II printed 3-18/PDF 16-31; Part III printed 19-51/PDF 32-64; Tables 1-8 after text; Table 1 PDF 68 in 97-page copy</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire; setup recoverability high; text layer: OCR usable for prose and some tables; check numerical columns against images. Corrected identity: supplied 19720007590 is Mullis’s dust-profile report. Setup recovery depends partly on Report 1. Some soil strengths are inherited from earlier work. Keep page maps separate for the 97-page and 89-page files. Download: https://ntrs.nasa.gov/api/citations/19730004536/downloads/19730004536.pdf Lead found by claude.</td>
+</tr>
+<tr class="even">
+<td>apollo-s200-final-1974</td>
+<td>located</td>
+<td>Apollo soil mechanics experiment S-200</td>
+<td>NASA-CR-134306; SSL Series 15 Issue 7</td>
+<td>1974</td>
+<td style="text-align: right;">135 PDF pages</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Grain-size distributions; specific gravity; minimum and maximum density; core density; penetration and compression results; derived porosity and strength; data form: tables; tests: Multiple missions and laboratory samples; Table 3-9 summarizes 776 footprint observations, not 776 controlled tests; data pages: Chapter 3; Table 3-3 printed 31/PDF 40; Table 3-5 printed 38/PDF 47; Table 3-9 printed 56/PDF 65</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: OCR readable with substantial symbol and digit errors; sampled tables require image verification. Caveat: synthesis mixes direct measurements, correlations and inferred properties. Original tests may recur in mission reports and PDS. Setup varies by source; build explicit same-test and derived-from relations before calibration. Download: https://ntrs.nasa.gov/api/citations/19740019219/downloads/19740019219.pdf Lead found by claude.</td>
+</tr>
+<tr class="odd">
+<td>arslan-2007-lasp105525</td>
+<td>located</td>
+<td>JSC-1a Geotechnical Properties Experiments: Tons 1, 2, 3</td>
+<td>LASP 105525 Rev.&nbsp;A</td>
+<td>2007</td>
+<td style="text-align: right;">74 PDF pages</td>
+<td>no statement found; inspected cover and front matter and searched extracted text for copyright and permission (NASA hosting alone does not establish the report’s license)</td>
+<td>Sieve fractions; dry density; triaxial stress and strain; peak strength; tensile response; data form: tables; tests: Nine sieve tests; three triaxial density levels by three confinement levels with replicates; Tables 5-6 alone list 31 runs; data pages: Section 2 printed 14-24/PDF 16-26; Tables 1-3 printed 15/PDF 17; Tables 5-7 printed 19-21/PDF 21-23; Appendices A-C</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability high; text layer: Text layer usable; tables and prose sampled. Caveat: rights unclear. Strong setup description: specimen geometry, layered preparation, confinement and loading rate. Some reported specimens were reused after earlier loading, so material history must be preserved. Appendices contain individual test records and figure locators. Download: https://ares.jsc.nasa.gov/projects/simulants/attachments/JSC-1A_LASP_Geotech_Properties_Tons1-3.pdf Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>berkeley-cr-121047-vols</td>
+<td>located</td>
+<td>Lunar surface engineering properties experiment definition: Vol. 2 Mechanics of rolling sphere-soil slope interaction; Vol. 3 Borehole probes; Vol. 4 Fluid conductivity of lunar surface materials; Summary Technical Report</td>
+<td>Vol. 2 NASA-CR-121045; Vol. 3 NASA-CR-121046; Vol. 4 NASA-CR-121044; summary NASA-CR-121043</td>
+<td>1971</td>
+<td style="text-align: right;">Summary 47 PDF pages; Vol. 2 approximately 63.5 MB; Vol. 3 approximately 12.74 MB; Vol. 4 unverified</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (All four NTRS records identify government work and permit public use)</td>
+<td>Summary reports soil compression and strength reductions; rolling-sphere contact and motion experiments; conductivity studies; data form: parameters-only; tests: Vol. 2 abstract reports approximately 200 sphere runs; full inventory not inspected; data pages: Summary: soil studies printed 1-10/PDF 9-18; rolling spheres starts printed 17; probes 26; experimental conductivity 37</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability low; text layer: Summary OCR readable; other PDF interiors unavailable through size limits or 403. Caveat: only summary contents inspected; detailed measurements and setup remain unverified. Supplied 06172 is Vol. 4/CR-121044. CR-121047 is Vol. 1 at 19720006162, already a separate register lead. Split these records before promotion. Download: https://ntrs.nasa.gov/api/citations/19720006175/downloads/19720006175.pdf; https://ntrs.nasa.gov/api/citations/19720006167/downloads/19720006167.pdf; https://ntrs.nasa.gov/api/citations/19720006168/downloads/19720006168.pdf; https://ntrs.nasa.gov/api/citations/19720006172/downloads/19720006172.pdf Lead found by claude.</td>
+</tr>
+<tr class="odd">
+<td>berney-2022-dcp</td>
+<td>located</td>
+<td>Validation of the Automatic Dynamic Cone Penetrometer</td>
+<td>ERDC/GSL TR-22-16; 10.21079/11681/44704</td>
+<td>2022</td>
+<td style="text-align: right;">152 pages; approximately 20 MB per official notice</td>
+<td>Approved for Public Release; Distribution is Unlimited (Public release confirmed in indexed official notice; separate copyright determination not observed)</td>
+<td>Penetration and blow-count comparisons described in abstract; interior data uninspected; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; notice and PDF direct requests returned 403. Identity and release statement recovered from indexed official notice. No measurement pages or reproducible test inventory verified; DOI request also failed. Download: https://erdc-library.erdc.dren.mil/bitstreams/bc35dad8-1aa4-42ba-8b32-766c9bfab886/download Lead found by codex.</td>
+</tr>
+<tr class="even">
+<td>costes-1971-cone-gravity</td>
+<td>located</td>
+<td>Cone penetration resistance test - An approach to evaluating in-place strength and packing characteristics of lunar soils</td>
+<td>NTRS 19710063054; Proceedings of the Second Lunar Science Conference, Vol. 3, pp.&nbsp;1973-1987; DOI not verified</td>
+<td>1971</td>
+<td style="text-align: right;">Printed article span 15 pages per bibliographic reference; file not retrieved</td>
+<td>Distribution Limits: Public; Copyright: Other (Public distribution shown; reuse rights not established)</td>
+<td>Cone resistance and packing are identified by title; actual measurement records uninspected; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; NTRS has no download; ADS PDF did not load. Lead title is a paraphrase, not the publication title. Neither the varying-gravity series nor reproducible setup was verified from the article. Download: https://articles.adsabs.harvard.edu/pdf/1971LPSC….2.1973C Lead found by claude.</td>
+</tr>
+<tr class="odd">
+<td>daca-2022-reducedg</td>
+<td>located</td>
+<td>Experimental evaluation of cone index gradient as a metric for the prediction of wheel performance in reduced gravity</td>
+<td>10.1016/j.jterra.2021.09.003</td>
+<td>2022</td>
+<td style="text-align: right;">Not verified</td>
+<td>CC BY NC ND 4.0 appears in author-site footer; no article-specific license statement found (Footer license scope is the website; article reuse permission remains unconfirmed)</td>
+<td>Abstract describes cone index gradient and wheel performance; no actual data records inspected; data form: none; tests: Abstract: three densities at two gravity levels; wheel tests at one density and two slips; replicate counts unknown; data pages: Author abstract only; full-text pages not accessed</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; author page has no PDF link; publisher requests failed. Author landing page confirms identity and experimental design. Its DOI link is malformed; corrected publisher route also failed. Do not treat the site footer as an article license. Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>dotson-2024-shear</td>
+<td>located</td>
+<td>Cohesion and Shear Strength of Compacted Lunar and Martian Regolith Simulants</td>
+<td>arXiv:2403.11029; 10.48550/arXiv.2403.11029</td>
+<td>2024</td>
+<td style="text-align: right;">23 PDF pages; submission approximately 2287 KB</td>
+<td>CC0 1.0 Universal (arXiv license link resolves to CC0; do not substitute CC BY)</td>
+<td>Particle-size and shape measures; direct-shear peak stress; density; fitted cohesion and friction; data form: tables; tests: Eleven simulants plus two glass controls and an additional dried condition; multiple densities; at least four normal stresses per density; data pages: Methods Section 2; Results Section 3; Tables 2-3 printed/PDF 8-9; shear-data figure locators thereafter</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Usable PDF text layer; sampled methods and tables. Caveat: numerical shear rate was not recovered from inspected methods and ambient moisture was uncontrolled. Geometry and normal-load range are described. Much mechanical output is peak-strength reduction, not a downloadable full stress-displacement history. Download: https://arxiv.org/pdf/2403.11029 Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>gasteiner-2026-database</td>
+<td>located</td>
+<td>Dataset for the Lunar Regolith Database</td>
+<td>10.57745/NTSZ8G; Version 2</td>
+<td>2026</td>
+<td style="text-align: right;">Six listed files; original-format ZIP approximately 1023.3 KB</td>
+<td>Etalab Open License 2.0, compatible CC-BY 2.0 (Indexed repository explicitly lists Etalab Open License 2.0; not CC BY 4.0)</td>
+<td>Catalogue advertises compiled regolith and simulant properties plus particle-size data; file values uninspected; data form: parameters-only; tests: 24 observations listed for simulant table; this is not an independent-test count; data pages: Listed Dataset_All.csv; Dataset_Regolith.csv; Dataset_Samples.csv; Dataset_Samples_PSD.csv; Dataset_Simulants.tab; README.md</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability low; text layer: Files not retrieved; repository direct requests failed or timed out. Caveat: secondary compilation and inaccessible files. Grade is provisional from catalogue evidence; PSD file may contain measured distributions, so do not conclude parameters-only for the entire bundle. Use as a source crosswalk, not an independent validation set. Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>joshi-2026-static</td>
+<td>located</td>
+<td>Static Geotechnical Characterization of Lunar Soil Simulants</td>
+<td>10.3390/aerospace13060527</td>
+<td>2026</td>
+<td style="text-align: right;">Page count and file size not verified</td>
+<td>Creative Commons Attribution (CC BY) license (Article license line visible in indexed publisher text; live page and PDF blocked)</td>
+<td>Index properties; compression under loading and unloading; direct shear; fitted strength parameters; data form: tables; tests: Ten materials; two relative-density states for compression; direct-shear results include EAC-1 and LHS-1 at two density states; replicate total unknown; data pages: Section 2; Section 3.3; Tables 3-4; oedometer figure locators 9-10 and direct-shear figure locators 12-15; page map unavailable</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability high; text layer: Indexed publisher methods and numerical tables readable; PDF text layer untested. Caveat: live HTML/PDF returned 429 or retrieval errors; figure originals uninspected; raw data available only by request. Indexed methods specify shear-box geometry, 0.3 mm/min shear rate, loading schedule, density and laboratory environment. Download: https://www.mdpi.com/2226-4310/13/6/527/pdf Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>kim-2021-bevameter</td>
+<td>located</td>
+<td>Development and Performance Evaluation of a Bevameter for Measuring Soil Strength</td>
+<td>10.3390/s21041541</td>
+<td>2021</td>
+<td style="text-align: right;">16 printed pages; PDF endpoint not retrieved</td>
+<td>Creative Commons Attribution (CC BY) license; https://creativecommons.org/licenses/by/4.0/ (Article explicitly CC BY 4.0)</td>
+<td>Pressure and sinkage; shear stress and slip displacement; shear-induced sinkage; peak and residual shear stress; data form: tables; tests: Four plate diameters; three normal-pressure groups for ring shear; replicate count not established; data pages: Sections 3.1-3.2 printed 9-14; Tables 2-7; curve locators Figs. 11-15; PDF page map unverified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Article text and tables readable through PMC and hosted publisher-paper text; standalone PDF layer untested. Caveat: raw data explicitly withheld; original figures not visually checked. Methods state sand density and moisture, 2.11 mm/s plate speed and 0.044 rad/s ring speed. MDPI returned 429; PMC later presented a challenge. Download: https://www.mdpi.com/1424-8220/21/4/1541/pdf Lead found by codex.</td>
+</tr>
+<tr class="even">
+<td>kleinhenz-2012-vacuum</td>
+<td>located</td>
+<td>ISRU Soil Mechanics Vacuum Facility: Soil Bin Preparation and Simulant Strength Characterization</td>
+<td>E-18100; NTRS 20120002766</td>
+<td>2012</td>
+<td style="text-align: right;">8 PDF pages</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Chamber pressure versus time; cone tip resistance versus depth; residual-gas observations; derived strength and density estimates; data form: curves; tests: Three pump-down tests: two GRC-3 and one NU-LHT-3M; data pages: Section III printed/PDF 3-6; Table 1 p.&nbsp;3; Table 2 p.&nbsp;5; profile locators Figs. 6-7 pp.&nbsp;5-6</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Text layer usable; figure images not verified. Caveat: pump-down disturbed bed state; inferred density and strength are not direct measurements. Bin geometry, preparation and 1 cm/s cone rate are stated. Numeric resistance histories require figure inspection. Attachment endpoint succeeded after normal endpoint 403. Download: https://ntrs.nasa.gov/api/citations/20120002766/downloads/20120002766.pdf?attachment=true Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>leap2020-gwu-sand</td>
+<td>located</td>
+<td>LEAP-2020: Cyclic Triaxial and Direct Simple Shear Tests Performed at GWU</td>
+<td>10.17603/ds2-dyph-pf84</td>
+<td>2021 archive publication; experiments 2019</td>
+<td style="text-align: right;">Bundle size not verified; experiment and apparatus PDFs listed</td>
+<td>Open Data Commons Attribution (Open data license appears in indexed primary repository record)</td>
+<td>Cyclic response of Ottawa F65 sand advertised; individual measurement channels not inspected; data form: none; tests: At least three triaxial void-ratio groups and two simple-shear loading groups; physical test total unknown; data pages: Repository lists cyclic triaxial and direct-simple-shear experiment groups; files not retrieved</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability low; text layer: Untested; repository requests returned 403. Caveat: open-licensed measurement archive identified, but files and setup documents were not accessible. Grade reflects no sampled data bytes. Indexed repository text was readable. Verify DOI-to-experiment-group mapping for related DOIs before promotion. Lead found by codex.</td>
+</tr>
+<tr class="even">
+<td>mccarty-1968-d4711</td>
+<td>located</td>
+<td>Experimental study of vertical impacts of an LM-type landing gear assembly under simulated lunar gravity</td>
+<td>NASA-TN-D-4711</td>
+<td>1968</td>
+<td style="text-align: right;">Not verified</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Not verified from document interior; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; repeated PDF timeouts and attachment endpoint 403. Landing page loaded and confirms identity and rights. No landing-gear measurements or setup details were verified from the PDF. Download: https://ntrs.nasa.gov/api/citations/19680021033/downloads/19680021033.pdf Lead found by both.</td>
+</tr>
+<tr class="odd">
+<td>oravec-2010-grc1</td>
+<td>located</td>
+<td>Design and characterization of GRC-1: A soil for lunar terramechanics testing in Earth-ambient conditions</td>
+<td>10.1016/j.jterra.2010.04.006</td>
+<td>2010</td>
+<td style="text-align: right;">Journal of Terramechanics 47(6), 361-377; 17 printed pages</td>
+<td>no statement found; publisher request blocked and institutional bibliographic record has no article license (Article reuse rights unconfirmed)</td>
+<td>Characterization described in abstract; measurement tables and curves uninspected; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; no full-text file retrieved. Identity confirmed through publisher-indexed metadata and institutional record. Publisher returned an access error; I did not observe a functioning paywall or login page and do not infer one. Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>rame-2009-jsc1a</td>
+<td>located</td>
+<td>Flowability of JSC-1a</td>
+<td>NASA/TM-2009-215625; E-16938</td>
+<td>2009</td>
+<td style="text-align: right;">33 PDF pages</td>
+<td>Distribution Limits: Public; Copyright: Public Use Permitted. (NTRS permits public use; government-work determination not shown)</td>
+<td>Shear and normal stress; displacement and time records; bulk density; yield and wall-friction reductions; data form: tables; tests: Four consolidation-stress groups; approximately nine or ten replicates per group in sampled tables; multiple static/dynamic/vibration protocols; data pages: Tables 1-5 printed 17-18/PDF 21-22; time-trace locator Fig. 5 printed 11/PDF 15; Fig. 13 printed 19/PDF 23</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: Usable text layer; some mathematical symbols corrupted. Caveat: vibration described partly by apparatus setting rather than fully calibrated excitation; moisture not controlled. Standardized shear apparatus and cycles support reconstruction. Do not count fitted yield envelopes as independent tests. PDF succeeded after earlier timeout. Download: https://ntrs.nasa.gov/api/citations/20090023168/downloads/20090023168.pdf Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>surveyor-smss-1969</td>
+<td>located</td>
+<td>Surveyor 3 Preliminary Science Results</td>
+<td>JPL-PD-125; NASA-CR-106136; NTRS 19690074497; related chapter 19690074500</td>
+<td>1967</td>
+<td style="text-align: right;">Approximately 12.46 MB; page count unverified</td>
+<td>Distribution Limits: Public; Copyright: Public Use Permitted. (Public use permitted according to NTRS; no government-work determination shown)</td>
+<td>Not verified from full text; data form: none; tests: Unknown; data pages: Part 5: Soil mechanics surface sampler - Lunar surface tests and results; interior pages unverified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; PDF 403; attachment retrieval exceeded size limit. Identity correction: supplied document is the 1967 Surveyor 3 report, not a 1969 report with the lead title. Relevant chapter identity was recovered separately; measurements remain uninspected. Download: https://ntrs.nasa.gov/api/citations/19690074497/downloads/19690074497.pdf Lead found by claude.</td>
+</tr>
+<tr class="even">
+<td>wes-1964-3-652</td>
+<td>located</td>
+<td>Measuring soil properties in vehicle mobility research, report 1: strength-density relations of an air-dry sand</td>
+<td>WES TR 3-652 Report 1</td>
+<td>1964</td>
+<td style="text-align: right;">28 pages plus appendices per TRID; mirrored scan approximately 26.3 MB</td>
+<td>no statement found; inspected TRID record; report interior unavailable (Unconfirmed for the report; website copyright is not a report license)</td>
+<td>Not verified beyond title; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; PDF exceeded retrieval size limit. TRID confirms identity. Official USACE item did not load. Mirror was located but its interior could not be inspected; measurement content and setup remain unverified. Download: https://upload.wikimedia.org/wikipedia/commons/9/9b/Measuring_soil_properties_in_vehicle_mobility_research-_Report_1-<em>Strength-density_relations_of_an_air-dry_sand</em>-_USACE-p266001coll1-3141.pdf Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>wes-1970-m70-2</td>
+<td>located</td>
+<td>Performance evaluation of wheels for lunar vehicles</td>
+<td>M-70-2; NASA-CR-110252</td>
+<td>1970</td>
+<td style="text-align: right;">Approximately 18.75 MB; page count unverified</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Not verified from document interior; data form: none; tests: Unknown; data pages: Not verified</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict lead-only; setup recoverability low; text layer: Untested; PDF exceeded retrieval size limit. Landing page confirms identity and rights. Detailed measurements and reproducibility cannot be graded from the title or summary-report cross-reference. Download: https://ntrs.nasa.gov/api/citations/19700020218/downloads/19700020218.pdf Lead found by both.</td>
+</tr>
+<tr class="even">
+<td>wes-1970-m70-4</td>
+<td>located</td>
+<td>Performance evaluation of wheels for lunar vehicles (Summary Report)</td>
+<td>M-70-4; NASA-CR-112678; AD-705570</td>
+<td>1970</td>
+<td style="text-align: right;">85 PDF pages</td>
+<td>Distribution Limits: Public; Copyright: Work of the US Gov.&nbsp;Public Use Permitted. (NTRS explicitly identifies government work and permits public use)</td>
+<td>Before-traffic density; moisture; cone resistance gradient; shear properties; wheel pull; torque; slip; sinkage; data form: tables; tests: Five soil-condition groups S1/S2/C1/C2/C3; many component tests; no independent run total established; data pages: Parts II-III: printed 3-46/PDF 14-57; Table 1 sheets 1-5: PDF 65-69</td>
+<td>Screened 2026-10-07 by codex (gpt-6-astra), text and metadata only: verdict acquire-with-caveat; setup recoverability medium; text layer: OCR prose usable; numerical columns and symbols require image checking. Caveat: summary and aggregated data; detailed per-test setup needs M-70-2. Table 1 was sampled as extracted text. Do not count component soil measurements as wheel tests or duplicate the detailed report. Download: https://ntrs.nasa.gov/api/citations/19700027358/downloads/19700027358.pdf?attachment=true Lead found by codex.</td>
+</tr>
+<tr class="odd">
+<td>apollo12-returned-soil</td>
+<td>lead</td>
+<td>Oedometer and direct shear tests on Apollo 12 lunar soil</td>
+<td></td>
+<td>1973</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Actual lunar sample tests; keep distinct from simulants</td>
+<td>Lead from Codex, 2026-10-07</td>
+</tr>
+<tr class="even">
+<td>bendix-1967-mm67-2</td>
+<td>lead</td>
+<td>LM Soil Mechanics Study, midterm report</td>
+<td>MM-67-2</td>
+<td>1967-01-26</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Possibly earlier apparatus descriptions and data; contents not inspected</td>
+<td>Smithsonian NASM Bellcomm collection, Box 63 Folder 10 (lead from Codex, 2026-10-07); archival request needed</td>
+</tr>
+<tr class="odd">
+<td>bendix-am68-3</td>
+<td>lead</td>
+<td>Bendix AM-68-3 (Surveyor soil and footpad modeling lineage)</td>
+<td>AM-68-3</td>
+<td>1968</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Unknown; identified in references of JPL TM 33-443</td>
+<td>Lead from Codex, 2026-10-07; search NTRS by report number</td>
+</tr>
+<tr class="even">
+<td>berkeley-cr102963</td>
+<td>lead</td>
+<td>Lunar surface engineering properties experiment definition (Berkeley, 1970)</td>
+<td>NASA-CR-102963</td>
+<td>1970</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Candidate simulant characterization and penetration tests</td>
+<td>Lead from Codex, 2026-10-07</td>
+</tr>
+<tr class="odd">
+<td>berkeley-cr121047</td>
+<td>lead</td>
+<td>Lunar surface engineering properties experiment definition (Berkeley, 1971)</td>
+<td>NASA-CR-121047</td>
+<td>1971</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Candidate simulant characterization and penetration tests</td>
+<td>Lead from Codex, 2026-10-07</td>
+</tr>
+<tr class="even">
+<td>jpl-tm33-443</td>
+<td>lead</td>
+<td>JPL Technical Memorandum 33-443 (Surveyor footpad soil interaction)</td>
+<td>TM 33-443</td>
+<td>1970</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Surveyor footpad soil modeling and experiments</td>
+<td>Lead from Codex, 2026-10-07</td>
+</tr>
+<tr class="odd">
+<td>surveyor-scott-roberson</td>
+<td>lead</td>
+<td>Surveyor III and VII Mission Reports, Part II, Soil Mechanics Surface Sampler (Scott R. F., Roberson F. J.)</td>
+<td></td>
+<td>1967 to 1968</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Lunar soil properties the 1968 Bendix report relied on (cited at printed 7-2)</td>
+<td>Cited in Volume I conclusions</td>
+</tr>
+<tr class="even">
+<td>wes-m71-10</td>
+<td>lead</td>
+<td>USACE WES Technical Report M-71-10 series (lunar wheel and soil studies)</td>
+<td>M-71-10</td>
+<td>1971</td>
+<td style="text-align: right;"></td>
+<td>Not checked</td>
+<td>Wheel studies with supporting density and cone penetration measurements</td>
+<td>Lead from Codex, 2026-10-07; recover simple soil tests only</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="leads-from-the-broadened-hunt" class="level2">
+<h2 class="anchored" data-anchor-id="leads-from-the-broadened-hunt">Leads from the broadened hunt</h2>
+<p>64 candidate sources graded by two independent searches (Claude and Codex, 2026-10-07). <code>found_by</code> says who found it; where both did, both grades are kept and the lower priority number and the stricter rights reading stand until the document is screened. Rights: <code>public_domain</code>, <code>open_license</code>, <code>restricted</code>, <code>unknown</code>. Data form: <code>raw</code>, <code>tables</code>, <code>curves</code>, <code>parameters-only</code>.</p>
+<div class="table-wrap" style="--table-min: 227ch; --table-min-phone: 251ch">
+<table class="caption-top table">
+<caption>Source: <code>sources/leads.csv</code>; every search run is in <code>sources/searches-log.csv</code>.</caption>
+<colgroup>
+<col style="width: 11%">
+<col style="width: 2%">
+<col style="width: 13%">
+<col style="width: 13%">
+<col style="width: 5%">
+<col style="width: 8%">
+<col style="width: 5%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 2%">
+<col style="width: 3%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>lead</th>
+<th>year</th>
+<th>title</th>
+<th>report or DOI</th>
+<th>rights</th>
+<th>data form</th>
+<th>setup</th>
+<th>tests</th>
+<th>materials</th>
+<th>gravity</th>
+<th>pri</th>
+<th>found by</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>wes-1964-3-652</td>
+<td>1964</td>
+<td><a href="https://trid.trb.org/View/1169991">Measuring soil properties in vehicle mobility research. Report 1: Strength-density relations of an air-dry sand</a></td>
+<td>WES Technical Report 3-652; Report 1</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>triaxial; direct shear; ring shear; plate bearing; vane; cone penetration</td>
+<td>Yuma sand</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>mccarty-1968-d4711</td>
+<td>1968</td>
+<td><a href="https://ntrs.nasa.gov/citations/19680021033">Experimental study of vertical impacts of an LM-type landing gear assembly under simulated lunar gravity</a></td>
+<td>NASA TN D-4711</td>
+<td>public_domain</td>
+<td>curves</td>
+<td>high</td>
+<td>footpad impact; static penetration</td>
+<td>Nevada 60 sand; Nevada 120 sand</td>
+<td>1g</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>surveyor-smss-1969</td>
+<td>1969</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19690074497/downloads/19690074497.pdf">Soil mechanics surface sampler: lunar soil data from Surveyor surface sampler experiments</a></td>
+<td>NTRS 19690074497 (JPL)</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>medium</td>
+<td>bearing tests (8); impact tests (14); trenching</td>
+<td>lunar regolith (Surveyor 3 and 7 sites)</td>
+<td>lunar in situ</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>wes-1970-m70-2</td>
+<td>1970</td>
+<td><a href="https://ntrs.nasa.gov/citations/19700020218">Performance evaluation of wheels for lunar vehicles</a></td>
+<td>WES M-70-2; NASA CR-110252</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>high</td>
+<td>wheel traction; supporting soil characterization</td>
+<td>terrestrial lunar-analog sand</td>
+<td>1g</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>wes-1970-m70-4</td>
+<td>1970</td>
+<td><a href="https://ntrs.nasa.gov/citations/19700027358">Performance evaluation of wheels for lunar vehicles: summary report</a></td>
+<td>WES M-70-4; NASA CR-112678; AD-705570</td>
+<td>public_domain</td>
+<td>curves</td>
+<td>medium</td>
+<td>wheel traction; plate sinkage; ring shear; cone penetration</td>
+<td>lunar-analog sand</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>apollo15-pds-lsrp</td>
+<td>1971</td>
+<td><a href="https://pds-geosciences.wustl.edu/missions/apollo/a15lsrp.htm">Apollo 15 Lunar Module Soil Mechanics Data Bundle</a></td>
+<td>A15L-L-LSRP-2/3-SOIL-MECHANICS-V1.0</td>
+<td>public_domain</td>
+<td>raw</td>
+<td>medium</td>
+<td>self-recording penetrometer</td>
+<td>lunar regolith</td>
+<td>lunar in situ</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>berkeley-cr-121047-vols</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19720006172/downloads/19720006172.pdf">Lunar surface engineering properties experiment definition (final report volumes)</a></td>
+<td>NASA CR-121047 (NTRS 19720006167 19720006168 19720006172 19720006175)</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>medium</td>
+<td>penetrometer; direct shear; triaxial; lunar soil simulant tests; stabilization</td>
+<td>lunar soil simulants (basalt); terrestrial sands</td>
+<td>1g</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>costes-1971-cone-gravity</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/citations/19710063054">Cone penetration resistance tests on granular lunar soil simulants for in-place shear strength and packing under various gravity conditions</a></td>
+<td>Proc. 2nd Lunar Science Conf.</td>
+<td>unknown</td>
+<td>curves</td>
+<td>medium</td>
+<td>WES 30 deg cone penetration at 1g and reduced g (aircraft)</td>
+<td>basaltic lunar soil simulant (LSS)</td>
+<td>1g;reduced-g</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>wes-m71-10-rpt1</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19720021195.pdf">Performance of Boeing LRV wheels in a lunar soil simulant Report 1 (supersedes M-70-15)</a></td>
+<td>WES TR M-71-10 Rpt 1 (NTRS 19720021195)</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>high</td>
+<td>wheel performance; cone penetration; bevameter</td>
+<td>LSS crushed basalt (Apollo 11/12 gradation)</td>
+<td>1g</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>wes-m71-10-rpt2</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19720007590/downloads/19720007590.pdf">Performance of Boeing LRV wheels in a lunar soil simulant Report 2 effects of speed wheel load and soil</a></td>
+<td>WES TR M-71-10 Rpt 2 (NTRS 19720007590)</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>high</td>
+<td>wheel performance; cone penetration; bevameter</td>
+<td>LSS crushed basalt; LSS 4 cohesion 0.12 psi by bevameter</td>
+<td>1g</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>apollo-s200-final-1974</td>
+<td>1974</td>
+<td><a href="https://ntrs.nasa.gov/citations/19740019219">Apollo soil mechanics experiment S-200 final report</a></td>
+<td>NASA CR-134306 (NTRS 19740019219)</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>medium</td>
+<td>penetrometer; returned-sample shear and compression; trafficability</td>
+<td>lunar regolith (Apollo 11 to 17)</td>
+<td>lunar in situ;1g lab on returned soil</td>
+<td>1</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>arslan-2007-lasp105525</td>
+<td>2007</td>
+<td><a href="https://ares.jsc.nasa.gov/projects/simulants/attachments/JSC-1A_LASP_Geotech_Properties_Tons1-3.pdf">JSC-1a Geotechnical Properties Experiments: Tons 1, 2, 3</a></td>
+<td>LASP 105525 Rev.&nbsp;A</td>
+<td>unknown</td>
+<td>curves</td>
+<td>high</td>
+<td>triaxial; direct tension; index characterization</td>
+<td>JSC-1A production tons 1 through 3</td>
+<td>1g</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>rame-2009-jsc1a</td>
+<td>2009</td>
+<td><a href="https://ntrs.nasa.gov/citations/20090023168">Flowability of JSC-1a</a></td>
+<td>NASA TM-2009-215625</td>
+<td>unknown</td>
+<td>curves</td>
+<td>medium</td>
+<td>Schulze ring shear; consolidation-dependent yield tests</td>
+<td>JSC-1A</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>oravec-2010-grc1</td>
+<td>2010</td>
+<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022489810000388">Design and characterization of GRC-1: A soil for lunar terramechanics testing in Earth-ambient conditions</a></td>
+<td>10.1016/j.jterra.2010.04.006</td>
+<td>restricted</td>
+<td>tables;curves</td>
+<td>medium</td>
+<td>triaxial; cone penetration; normal and shear bevameter</td>
+<td>GRC-1</td>
+<td>1g</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>apollo16-pds-lsrp</td>
+<td>2012</td>
+<td><a href="https://pds.nasa.gov/ds-view/pds/viewProfile.jsp?dsid=A16L-L-LSRP-2%2F3-SOIL-MECHANICS-V1.0">Apollo 16 Lunar Self-Recording Penetrometer Soil Mechanics Data</a></td>
+<td>A16L-L-LSRP-2/3-SOIL-MECHANICS-V1.0</td>
+<td>public_domain</td>
+<td>raw</td>
+<td>medium</td>
+<td>self-recording penetrometer</td>
+<td>lunar regolith</td>
+<td>lunar in situ</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="even">
+<td>kleinhenz-2012-vacuum</td>
+<td>2012</td>
+<td><a href="https://ntrs.nasa.gov/citations/20120002766">ISRU Soil Mechanics Vacuum Facility: Soil Bin Preparation and Simulant Strength Characterization</a></td>
+<td>E-18100</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>medium</td>
+<td>cone penetration; vacuum soil-bed preparation</td>
+<td>GRC-3; LHT-3M</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>kim-2021-bevameter</td>
+<td>2021</td>
+<td><a href="https://www.mdpi.com/1424-8220/21/4/1541">Development and Performance Evaluation of a Bevameter for Measuring Soil Strength</a></td>
+<td>10.3390/s21041541</td>
+<td>open_license</td>
+<td>curves</td>
+<td>high</td>
+<td>plate sinkage; shear ring; slip sinkage</td>
+<td>terrestrial sand</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>leap2020-gwu-sand</td>
+<td>2021</td>
+<td><a href="https://doi.org/10.17603/ds2-dyph-pf84">LEAP-2020: Cyclic Triaxial and Direct Simple Shear Tests Performed at GWU</a></td>
+<td>10.17603/ds2-dyph-pf84; 10.17603/ds2-92c9-t496; 10.17603/ds2-dwt9-ke80</td>
+<td>open_license</td>
+<td>raw</td>
+<td>high</td>
+<td>cyclic triaxial; cyclic direct simple shear</td>
+<td>Ottawa F65 sand</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>berney-2022-dcp</td>
+<td>2022</td>
+<td><a href="https://www.erdc.usace.army.mil/Media/Publication-Notices/Article/3087851/validation-of-the-automatic-dynamic-cone-penetrometer/">Validation of the Automatic Dynamic Cone Penetrometer</a></td>
+<td>ERDC/GSL TR-22-16; 10.21079/11681/44704</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>medium</td>
+<td>automatic and conventional dynamic cone penetration</td>
+<td>sand test section; other soils outside granular subset</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>daca-2022-reducedg</td>
+<td>2022</td>
+<td><a href="https://users.encs.concordia.ca/~kskoniec/publication/daca2022experimental/">Experimental evaluation of cone index gradient as a metric for the prediction of wheel performance in reduced gravity</a></td>
+<td>10.1016/j.jterra.2021.09.003</td>
+<td>restricted</td>
+<td>curves</td>
+<td>medium</td>
+<td>cone penetration; wheel performance</td>
+<td>GRC-1</td>
+<td>reduced-g</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>dotson-2024-shear</td>
+<td>2024</td>
+<td><a href="https://arxiv.org/abs/2403.11029">Cohesion and Shear Strength of Compacted Lunar and Martian Regolith Simulants</a></td>
+<td>arXiv:2403.11029; 10.1016/j.icarus.2024.115943</td>
+<td>open_license</td>
+<td>curves</td>
+<td>medium</td>
+<td>direct shear failure tests</td>
+<td>LHS-1; LHS-1D; LHS-1-25A; LMS-1; LMS-1D; JSC-1A; BP-1; JEZ-1; MGS-1; MGS-1S; MGS-1C; glass beads</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>gasteiner-2026-database</td>
+<td>2026</td>
+<td><a href="https://doi.org/10.57745/NTSZ8G">Dataset for the Lunar Regolith Database</a></td>
+<td>10.57745/NTSZ8G; related paper 10.1002/nag.70432</td>
+<td>open_license</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>compiled mechanical properties; particle-size distributions</td>
+<td>returned lunar soil; multiple simulants</td>
+<td>not applicable</td>
+<td>1</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>joshi-2026-static</td>
+<td>2026</td>
+<td><a href="https://www.mdpi.com/2226-4310/13/6/527">Static Geotechnical Characterization of Lunar Soil Simulants</a></td>
+<td>10.3390/aerospace13060527</td>
+<td>open_license</td>
+<td>curves</td>
+<td>high</td>
+<td>direct shear; oedometer</td>
+<td>CAS-1; EAC-1; OPRL2N; OPRH2N; LHS-1; LMS-1; OB-1A; MMS-MG; Toyoura sand; artificial mixture</td>
+<td>1g</td>
+<td>1</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>hanks-1966-d3200</td>
+<td>1966</td>
+<td><a href="https://ntrs.nasa.gov/citations/19660005940">Investigation of the use of penetrometers to determine the capability of dust materials to support bearing loads</a></td>
+<td>NASA TN D-3200</td>
+<td>public_domain</td>
+<td>curves</td>
+<td>medium</td>
+<td>dynamic penetration; bearing-load tests</td>
+<td>granular dust analogs; exact materials require full-text screening</td>
+<td>1g</td>
+<td>2</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>surveyor-jpl-tm-33-443</td>
+<td>1968</td>
+<td><a href="https://ntrs.nasa.gov/">Surveyor project final report part II science results (soil mechanics chapter)</a></td>
+<td>JPL TR 32-1265 / TM 33-443 (lead)</td>
+<td>unknown</td>
+<td>curves</td>
+<td>low</td>
+<td>footpad penetration from landing; surface sampler</td>
+<td>lunar regolith</td>
+<td>lunar in situ</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>berkeley-cr-102963</td>
+<td>1970</td>
+<td><a href="https://ntrs.nasa.gov/">Lunar surface engineering properties experiment definition (first year report)</a></td>
+<td>NASA CR-102963</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>penetrometer; simulant characterization</td>
+<td>lunar soil simulants</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>costes-1970-msfc-tn</td>
+<td>1970</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19710005729/downloads/19710005729.pdf">Apollo 11 soil mechanics investigation / lunar soil simulant penetration at MSFC</a></td>
+<td>NTRS 19710005729</td>
+<td>public_domain</td>
+<td>curves</td>
+<td>medium</td>
+<td>penetrometer; simulant calibration</td>
+<td>Apollo 11 soil; basalt simulant</td>
+<td>1g;lunar in situ</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>johnson-1971-luna</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/citations/19720007196">Soil mechanics results of Luna 16 and Lunokhod 1: A preliminary report</a></td>
+<td>NASA TM-X-67566; MSC-SM-71-3</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>low</td>
+<td>penetration; wheel interaction; returned-soil compression and shear</td>
+<td>Luna 16 returned soil; Lunokhod 1 regolith</td>
+<td>lunar in situ</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>costes-1972-r401</td>
+<td>1972</td>
+<td><a href="https://ntrs.nasa.gov/citations/19730008090">Mobility performance of the lunar roving vehicle: Terrestrial studies: Apollo 15 results</a></td>
+<td>NASA TR R-401</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>medium</td>
+<td>wheel tests; triaxial; plate shear; cone; bevameter</td>
+<td>Yuma sand; WES lunar soil simulant</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>rogers-1972-d6850</td>
+<td>1972</td>
+<td><a href="https://ntrs.nasa.gov/citations/19720018253">Apollo experience report: Lunar module landing gear subsystem</a></td>
+<td>NASA TN D-6850</td>
+<td>public_domain</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>landing-gear drop and qualification tests</td>
+<td>soil targets require confirmation</td>
+<td>1g</td>
+<td>2</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>carrier-1973-apollo12-vacuum</td>
+<td>1973</td>
+<td><a href="https://ascelibrary.com/doi/10.1061/JSFEAQ.0001966">Strength and compressibility of returned lunar soil (Apollo 12 sample 12001,119) tested in vacuum</a></td>
+<td>10.1061/JSFEAQ.0001966 (J. Soil Mech. Found. Div. ASCE)</td>
+<td>restricted</td>
+<td>curves</td>
+<td>medium</td>
+<td>oedometer (2); direct shear (3)</td>
+<td>lunar regolith Apollo 12; ground basalt simulant</td>
+<td>1g vacuum</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>johnson-1973-vacuum-shear</td>
+<td>1973</td>
+<td><a href="https://ntrs.nasa.gov/">Shear testing of simulated lunar soil in ultrahigh vacuum</a></td>
+<td>USBM Report of Investigations 7814</td>
+<td>public_domain</td>
+<td>curves</td>
+<td>medium</td>
+<td>direct shear in ultrahigh vacuum</td>
+<td>simulated lunar soil</td>
+<td>1g vacuum</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>wes-1973-lrv-followup</td>
+<td>1973</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19730004536/downloads/19730004536.pdf">WES lunar soil simulant mobility report (1973)</a></td>
+<td>NTRS 19730004536; see also 19730008090</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>wheel and soil tests</td>
+<td>LSS</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>lunar-sourcebook-ch9</td>
+<td>1991</td>
+<td><a href="https://www.lpi.usra.edu/publications/books/lunar_sourcebook/">Lunar Sourcebook chapter 9 physical properties of the lunar surface</a></td>
+<td>Cambridge University Press</td>
+<td>restricted</td>
+<td>tables;parameters-only</td>
+<td>low</td>
+<td>compilation of Luna Lunokhod Surveyor Apollo penetrometer and density measurements</td>
+<td>lunar regolith</td>
+<td>lunar in situ</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>desai-1992-vacuum</td>
+<td>1992</td>
+<td><a href="https://ntrs.nasa.gov/citations/19930058086">Mechanical properties of compacted lunar simulants using new vacuum triaxial equipment</a></td>
+<td>NTRS 19930058086</td>
+<td>restricted</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>vacuum triaxial; cyclic loading; constrained compression</td>
+<td>Arizona lunar simulant</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>perkins-1996-loadsettlement</td>
+<td>1996</td>
+<td><a href="https://ascelibrary.com/doi/10.1061/%28ASCE%290893-1321%281996%299%3A1%281%29">Mechanical and Load-Settlement Characteristics of Two Lunar Soil Simulants</a></td>
+<td>10.1061/(ASCE)0893-1321(1996)9:1(1)</td>
+<td>restricted</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>triaxial; load-settlement</td>
+<td>MLS-1; JSC-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>alshibli-2009-jsc1a-triaxial</td>
+<td>2009</td>
+<td><a href="https://ascelibrary.com/doi/10.1061/%28ASCE%29GT.1943-5606.0000068">Strength properties of JSC-1A lunar regolith simulant</a></td>
+<td>10.1061/(ASCE)GT.1943-5606.0000068</td>
+<td>restricted</td>
+<td>curves</td>
+<td>medium</td>
+<td>triaxial at two densities and several confining pressures</td>
+<td>JSC-1A</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>zeng-2010-jsc1a</td>
+<td>2010</td>
+<td><a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29AS.1943-5525.0000014">Geotechnical properties of JSC-1A lunar soil simulant</a></td>
+<td>10.1061/(ASCE)AS.1943-5525.0000014</td>
+<td>restricted</td>
+<td>curves;parameters-only</td>
+<td>medium</td>
+<td>geotechnical strength and compressibility characterization</td>
+<td>JSC-1A</td>
+<td>1g</td>
+<td>2</td>
+<td>both</td>
+</tr>
+<tr class="odd">
+<td>iai-luna-jsc1a-ds</td>
+<td>2011</td>
+<td><a href="https://scholarsmine.mst.edu/civarc_enveng_facwork/3086">Direct shear tests on JSC-1A lunar regolith simulant</a></td>
+<td>Scholars’ Mine (Missouri S&amp;T) record 3086</td>
+<td>restricted</td>
+<td>curves</td>
+<td>high</td>
+<td>direct shear (101.6 mm box) at varied Dr and normal load</td>
+<td>JSC-1A</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>he-zeng-grc3</td>
+<td>2013</td>
+<td><a href="https://ascelibrary.com/doi/10.1061/%28ASCE%29AS.1943-5525.0000162">Geotechnical properties of GRC-3 lunar simulant</a></td>
+<td>10.1061/(ASCE)AS.1943-5525.0000162</td>
+<td>restricted</td>
+<td>curves;parameters-only</td>
+<td>medium</td>
+<td>gradation; density; direct shear; triaxial</td>
+<td>GRC-3</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>creager-2014-pushpull</td>
+<td>2014</td>
+<td><a href="https://ntrs.nasa.gov/citations/20150000897">Push-Pull Locomotion for Vehicle Extrication</a></td>
+<td>NASA TM-2014-218431</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>medium</td>
+<td>wheel-soil interaction; vehicle extrication</td>
+<td>Fillite</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>matsushima-2015-fjs1</td>
+<td>2015</td>
+<td><a href="https://www.kz.tsukuba.ac.jp/~tmatsu/pdfs/EarthSpace2014_tmatsu_i_head.pdf">Particle Grading Effect on Mechanical Properties of Lunar Soil Simulant FJS-1</a></td>
+<td>10.1061/9780784479179.008</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>medium</td>
+<td>triaxial; self-standing tests</td>
+<td>FJS-1; size-fraction variants</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>zhang-2015-cas1</td>
+<td>2015</td>
+<td><a href="https://rockmech.whrsm.ac.cn/EN/Y2015/V34/I1/174">Experimental study of mechanical properties of lunar soil simulant CAS-1 under low stress</a></td>
+<td>10.13722/j.cnki.jrme.2015.01.019</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>direct shear; compression; triaxial</td>
+<td>CAS-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>creager-2017-drawbar</td>
+<td>2017</td>
+<td><a href="https://ntrs.nasa.gov/citations/20170010706">Drawbar Pull (DP) Procedures for Off-Road Vehicle Testing</a></td>
+<td>NASA TP-2017-219384</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>medium</td>
+<td>vehicle drawbar pull; cone penetration; preparation-sensitivity tests</td>
+<td>GRC-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>creager-2017-slope</td>
+<td>2017</td>
+<td><a href="https://ntrs.nasa.gov/citations/20180000349">Effect of Angle of Attack on Slope Climbing Performance</a></td>
+<td>NASA TM-2017-219549</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>medium</td>
+<td>rover slope climbing; soil-strength characterization</td>
+<td>GRC-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>edwards-2017-fillite</td>
+<td>2017</td>
+<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022489816300635">Bevameter testing on simulant Fillite for planetary rover mobility applications</a></td>
+<td>10.1016/j.jterra.2016.10.004</td>
+<td>restricted</td>
+<td>unknown</td>
+<td>medium</td>
+<td>plate sinkage; shear bevameter</td>
+<td>Fillite</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>dewoolkar-2018-grc3</td>
+<td>2018</td>
+<td><a href="https://ascelibrary.org/doi/10.1061/%28ASCE%29AS.1943-5525.0000848">Shear Strength and Stiffness Characterization of Lunar Simulant GRC-3</a></td>
+<td>10.1061/(ASCE)AS.1943-5525.0000848</td>
+<td>restricted</td>
+<td>curves</td>
+<td>medium</td>
+<td>triaxial; bender-element stiffness</td>
+<td>GRC-3</td>
+<td>1g</td>
+<td>2</td>
+<td>both</td>
+</tr>
+<tr class="even">
+<td>lim-2021-kls1</td>
+<td>2021</td>
+<td><a href="https://www.janss.kr/archive/view_article_pubreader?pid=jass-38-4-237">Development of a New Pressure-Sinkage Model for Rover Wheel-Lunar Soil Interaction based on Dimensional Analysis and Bevameter Tests</a></td>
+<td>10.5140/jass.2021.38.4.237</td>
+<td>restricted</td>
+<td>curves</td>
+<td>high</td>
+<td>bevameter plate sinkage</td>
+<td>KLS-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>exolith-lhs1-ds-openaccess</td>
+<td>2022</td>
+<td><a href="https://engrxiv.org/preprint/view/6408">Direct shear measurements of lunar regolith simulants LHS-1 LHS-1D LMS-1 and LMS-1D</a></td>
+<td>open access (CC BY 4.0) per search result</td>
+<td>open_license</td>
+<td>curves</td>
+<td>medium</td>
+<td>direct shear; compressibility</td>
+<td>LHS-1; LMS-1; MAB-1</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>kruger-2023-bevameter-up</td>
+<td>2022</td>
+<td><a href="https://repository.up.ac.za/handle/2263/93185">Experimental investigation of factors affecting bevameter characterisation (thesis and data)</a></td>
+<td>hdl 2263/93185; 10.1016/j.jterra.2023.06.002</td>
+<td>unknown</td>
+<td>raw</td>
+<td>high</td>
+<td>bevameter pressure-sinkage and shear (torsional and translational) on sandy soil</td>
+<td>partially saturated sandy soil</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>longfox-2023-lhs-lms</td>
+<td>2023</td>
+<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S027311772300162X">Geomechanical properties of lunar regolith simulants LHS-1 and LMS-1</a></td>
+<td>10.1016/j.asr.2023.02.034</td>
+<td>restricted</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>geomechanical characterization</td>
+<td>LHS-1; LMS-1</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>jehn-2025-csm</td>
+<td>2025</td>
+<td><a href="https://link.springer.com/article/10.1007/s44461-025-00002-7">Implications of lunar simulant geotechnical properties on testbed experimentation and engineering analysis and reported properties of Colorado School of Mines highland simulant</a></td>
+<td>10.1007/s44461-025-00002-7</td>
+<td>restricted</td>
+<td>curves</td>
+<td>medium</td>
+<td>direct shear; triaxial; consolidation</td>
+<td>Colorado School of Mines highland simulant variants</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>nasa-tm-20250006761</td>
+<td>2025</td>
+<td><a href="https://ntrs.nasa.gov/citations/20250006761">NASA TM 20250006761 (lunar simulant geotechnical characterization)</a></td>
+<td>NASA TM 20250006761</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>to confirm</td>
+<td>to confirm</td>
+<td>1g</td>
+<td>2</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>ruck-2025-intrusion</td>
+<td>2025</td>
+<td><a href="https://zenodo.org/records/15610745">UnifiedGranularIntrusionDynamics: Ruck2025GranularIntrusionDynamics_1</a></td>
+<td>10.5281/zenodo.15610745</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>quasi-static penetration</td>
+<td>silica sand; glass beads; lunar simulant</td>
+<td>1g</td>
+<td>2</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>spencer-1967-footpad</td>
+<td>1967</td>
+<td><a href="https://ntrs.nasa.gov/citations/19680002139">Determination of footpad penetration depth from Surveyor spacecraft shadows</a></td>
+<td>NASA CR-90512; JPL TR 32-1180</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>low</td>
+<td>photogrammetric footpad sinkage</td>
+<td>Surveyor landing-site regolith</td>
+<td>lunar in situ</td>
+<td>3</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>lunokhod-penetrometer</td>
+<td>1971</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19780005029/downloads/19780005029.pdf">Lunokhod 1 and 2 PrOP cone penetrometer measurements (about 1000 points)</a></td>
+<td>Soviet literature; summarized in NTRS 19780005029</td>
+<td>unknown</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>cone penetration to 44 mm; bearing capacity</td>
+<td>lunar regolith (Mare Imbrium; Le Monnier)</td>
+<td>lunar in situ</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>berkeley-semiannual-1972</td>
+<td>1972</td>
+<td><a href="https://ntrs.nasa.gov/api/citations/19720021172/downloads/19720021172.pdf">Lunar soil properties and soil mechanics semiannual status report Dec 1971 to Jun 1972</a></td>
+<td>NTRS 19720021172</td>
+<td>public_domain</td>
+<td>unknown</td>
+<td>unknown</td>
+<td>various soil mechanics</td>
+<td>lunar soil and simulants</td>
+<td>1g</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>viking-usgs-pp1389</td>
+<td>1987</td>
+<td><a href="https://pubs.usgs.gov/pp/1389/report.pdf">Physical properties of the surface materials at the Viking landing sites on Mars</a></td>
+<td>USGS Professional Paper 1389</td>
+<td>public_domain</td>
+<td>tables;curves</td>
+<td>low</td>
+<td>footpad penetration; trenching; sample arm forces</td>
+<td>Martian drift and blocky material</td>
+<td>Mars in situ</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>mgs1-mendeley</td>
+<td>2019</td>
+<td><a href="https://data.mendeley.com/datasets/8vhmgcczwr">Data for Mars Global Simulant MGS-1</a></td>
+<td>10.17632/8vhmgcczwr.1</td>
+<td>open_license</td>
+<td>raw</td>
+<td>not applicable</td>
+<td>gradation; spectra; thermogravimetry</td>
+<td>MGS-1</td>
+<td>not applicable</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>eac1a-2020</td>
+<td>2020</td>
+<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7096503/">EAC-1A: a novel large-volume lunar regolith simulant</a></td>
+<td>10.1038/s41598-020-62312-4 (Sci. Rep.)</td>
+<td>open_license</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>direct shear (Mohr-Coulomb)</td>
+<td>EAC-1A</td>
+<td>1g</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="odd">
+<td>lhs1-dem-characterization</td>
+<td>2022</td>
+<td><a href="https://ascelibrary.com/doi/10.1061/9780784484692.008">Characterization and DEM modeling of LHS-1 lunar highlands simulant</a></td>
+<td>10.1061/9780784484692.008</td>
+<td>restricted</td>
+<td>curves;parameters-only</td>
+<td>medium</td>
+<td>sieve; hydrometer; direct shear</td>
+<td>LHS-1</td>
+<td>1g</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+<tr class="even">
+<td>slabic-2024-guide</td>
+<td>2024</td>
+<td><a href="https://ntrs.nasa.gov/citations/20240011783">Lunar Regolith Simulant User’s Guide: Revision A</a></td>
+<td>NASA TM-20240011783</td>
+<td>unknown</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>compiled simulant characterization</td>
+<td>multiple lunar simulants</td>
+<td>not applicable</td>
+<td>3</td>
+<td>codex</td>
+</tr>
+<tr class="odd">
+<td>gasteiner-2025-eac1a</td>
+<td>2025</td>
+<td><a href="https://arxiv.org/abs/2510.23680">Rheological Lunar Regolith Simulants</a></td>
+<td>arXiv:2510.23680; IAC-25-A3-IP-151-x97770</td>
+<td>unknown</td>
+<td>parameters-only</td>
+<td>medium</td>
+<td>direct shear</td>
+<td>EAC-1A; polymer-coated EAC-1A</td>
+<td>1g</td>
+<td>3</td>
+<td>codex</td>
+</tr>
+<tr class="even">
+<td>krc-bevameter-dataset</td>
+<td>2025</td>
+<td><a href="https://2025.istvs.org/submissions/papers/6540">KRC bevameter development and mobility data collection</a></td>
+<td>ISTVS 2025 paper 6540</td>
+<td>unknown</td>
+<td>parameters-only</td>
+<td>low</td>
+<td>automated bevameter; derived strength parameters</td>
+<td>various terrains</td>
+<td>1g</td>
+<td>3</td>
+<td>claude</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="generated-note">
+<p>Generated view. Inputs: <code>sources/register.csv</code>, <code>sources/leads.csv</code>. Regenerate with <code>python tools/build_site.py</code>; do not edit this file, fix the inputs.</p>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<div class="build-footer container">Release 1.0.0 of Terramechanics Reference Data (maintainers' revision <code>fce68a8</code>), rendered 2026-11-27. Every value traces to a source page, and each test page says how much of it a person has checked.</div>
+
+<script>
+// Wide tables (2026-11-21, Dan: the sideways scrollbar sat below the last row of a long table, off the screen). A table
+// wider than its box gets the class scrolls-x on the box, and site.css then keeps the box no taller than the window, so
+// its sideways scrollbar is always in view, with the header row held at the top of the box. A table that fits is left
+// alone. Quarto's listing table (Find a test) first gets a box of its own, so the sort and filter controls above it and
+// the page buttons below it stay outside the scroll box; the listing script keeps working on the same table element.
+(function () {
+  function boxes() {
+    document.querySelectorAll(".quarto-listing-table").forEach(function (t) {
+      if (!t.parentElement.classList.contains("listing-table-box")) {
+        var box = document.createElement("div");
+        box.className = "listing-table-box";
+        t.parentNode.insertBefore(box, t);
+        box.appendChild(t);
+      }
+    });
+    return document.querySelectorAll(".table-wrap, .listing-table-box");
+  }
+  function mark() {
+    boxes().forEach(function (b) {
+      b.classList.toggle("scrolls-x", b.scrollWidth > b.clientWidth + 1);
+    });
+  }
+  window.addEventListener("load", mark);
+  window.addEventListener("resize", mark);
+  // the listing's filter, sort and page buttons change which rows show, and so the table's width
+  ["input", "change", "click"].forEach(function (e) {
+    document.addEventListener(e, function () { setTimeout(mark, 50); });
+  });
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Terramechanics Reference Data. Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. Contact: <a href="mailto:negrut@wisc.edu">negrut@wisc.edu</a>.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../about/index.html">
+<p>About</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../contribute/index.html">
+<p>Contribute</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../records/index.html">
+<p>Project records</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

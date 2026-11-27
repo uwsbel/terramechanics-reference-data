@@ -1,0 +1,203 @@
+{
+  "experiment_id": "b68-mdrop-t5-3-rs",
+  "source": "bendix-1968-vol1",
+  "figure_id": "T5-3",
+  "batch": "tables-s5-b1",
+  "kind": "run-table",
+  "method": "two independent transcriptions of the printed table (Claude; Codex gpt-6.2-sol high), compared cell by cell by tools/diff_tables.py, every number exactly as printed; a cell enters only when both agree (status agreed)",
+  "runs": 6,
+  "by_status": {
+    "agreed": 6
+  },
+  "columns": [
+    {
+      "printed": "VV_in_s",
+      "quantity": "vertical velocity V_v at touchdown, sign as printed",
+      "unit_native": "in_s",
+      "unit_si": "m_s",
+      "column_si": "VV_m_s",
+      "factor": 0.0254
+    },
+    {
+      "printed": "Vh_in_s",
+      "quantity": "horizontal velocity V_h at touchdown",
+      "unit_native": "in_s",
+      "unit_si": "m_s",
+      "column_si": "Vh_m_s",
+      "factor": 0.0254
+    },
+    {
+      "printed": "tau_s",
+      "quantity": "time interval tau between model release and touchdown",
+      "unit_native": "s",
+      "unit_si": "s",
+      "column_si": "tau_s",
+      "factor": 1.0
+    },
+    {
+      "printed": "Dr",
+      "quantity": "relative density D_r of the bed",
+      "unit_native": "none",
+      "unit_si": "none",
+      "column_si": "Dr",
+      "factor": 1.0
+    },
+    {
+      "printed": "gamma_pcf",
+      "quantity": "soil density gamma of the bed, printed in Lb./Ft.^3 (a unit weight)",
+      "unit_native": "pcf",
+      "unit_si": "N_m3",
+      "column_si": "unit_weight_N_m3",
+      "factor": 157.08746384624618
+    },
+    {
+      "printed": "phi_deg",
+      "quantity": "internal angle of friction phi of the bed",
+      "unit_native": "deg",
+      "unit_si": "deg",
+      "column_si": "phi_deg",
+      "factor": 1.0
+    },
+    {
+      "printed": "gamma_pcf",
+      "quantity": "bulk density (unit weight under standard gravity)",
+      "unit_native": "pcf",
+      "unit_si": "kg_m3",
+      "column_si": "bulk_density_kg_m3",
+      "factor": 16.018463373960138
+    }
+  ],
+  "selection": "the rows of the printed table whose Soil begins with RS",
+  "same_test_as": "the index record of the same drop (its time histories), a single mdrop row whose printed label is the run's NASA Test No.; empty when the index holds none",
+  "definitions": "The table's legend: V_v is the vertical velocity, V_h the horizontal velocity, tau the time interval between model release and touchdown, D_r the soil relative density, gamma the soil density (printed in Lb./Ft.^3, a unit weight) and phi the internal angle of friction (Table 5-T3, printed 5-45, PDF 325). The velocities \"were calculated based on the exact time interval between the instant of model release to the instant of ground contact\", measured from the readings of the accelerometer in the x direction (printed 5-44, PDF 324), into whose output a pulse was injected at release (printed 5-39, PDF 319); no formula is printed. Signs are as printed; the report's fixed axes point up from the ground and along the horizontal velocity (printed 5-18, PDF 298). Every drop had zero angular rates, zero pitch and roll and a 45-degree yaw (a 2-2 landing) (printed 5-44, PDF 324), on a level bed (printed 5-43, PDF 323). A new bed was prepared for every drop; dynamic penetrometer readings were taken on it after the drop, away from the footpads, and the report points to the correlation of D_r with those readings (Paragraph 2.7.1) and to Section II for the other properties (printed 5-44, PDF 324). Section V prints the time histories of NASA Tests No. 1 and 2 (Figs. 5-22 to 5-39); Section VI plots the measured histories of all eight drops against the report's computer simulation (Figs. 6-11 and 6-13 to 6-19, printed 6-17 to 6-53, PDF 375 to 411), with the drop conditions again in Fig. 6-10 (printed 6-15, PDF 373).",
+  "no_histories": "not yet extracted (the report plots them against its simulation in Section VI)",
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "cells": 48,
+    "cells_sampled": 0,
+    "cells_confirmed": 0,
+    "by_pair_outcome": {},
+    "rule": "the student reviewers check a sample of the printed cells against the scan, each cell for its row and column (A) and its value as printed (B); a cell is confirmed when two reviewers answered ok; `audit` in runs.csv lists each run's audited cells with their outcome; a run's status stays as the two transcriptions left it"
+  },
+  "precision": "each value carries the precision of its printing (half a unit of its last printed digit); no reading bound applies to a transcribed number. Printed values are in the columns named by their printed unit (VV_in_s, Vh_in_s, gamma_pcf); a column kept as printed (tau_s, Dr, phi_deg) is not repeated and keeps the printed digits, a leading decimal point included ('.298')",
+  "pending_cells": "a cell with an unreadable digit (`?`) keeps it in the printed column, its SI value is empty and its row is pending-review; a column kept as printed holds the printed text, `?` included",
+  "arithmetic": {
+    "table": "qa/tables-s5-b1/agreed.csv",
+    "drops": 8,
+    "g_in_s2": 386.4,
+    "g": "g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",
+    "vertical_fit": 3,
+    "vertical": 4,
+    "with_vh_fit": 0,
+    "with_vh": 4,
+    "drops_detail": [
+      {
+        "run": "1",
+        "g_tau_in_s": 115.15,
+        "VV_in_s": "-114.9",
+        "fits": false
+      },
+      {
+        "run": "4",
+        "g_tau_in_s": 117.47,
+        "VV_in_s": "-117.3",
+        "fits": true
+      },
+      {
+        "run": "6",
+        "g_tau_in_s": 117.08,
+        "VV_in_s": "-117.1",
+        "fits": true
+      },
+      {
+        "run": "8",
+        "g_tau_in_s": 118.24,
+        "VV_in_s": "-118.0",
+        "fits": true
+      },
+      {
+        "run": "2",
+        "g_tau_in_s": 68.39,
+        "VV_in_s": "-60.5",
+        "fits": false
+      },
+      {
+        "run": "3",
+        "g_tau_in_s": 60.28,
+        "VV_in_s": "-60.0",
+        "fits": false
+      },
+      {
+        "run": "5",
+        "g_tau_in_s": 56.41,
+        "VV_in_s": "-60.8",
+        "fits": false
+      },
+      {
+        "run": "7",
+        "g_tau_in_s": 59.51,
+        "VV_in_s": "-60.0",
+        "fits": false
+      }
+    ],
+    "standard": {
+      "g_in_s2": 386.0886,
+      "g": "g = standard gravity, 9.80665 m/s^2",
+      "vertical_fit": 4,
+      "vertical": 4,
+      "with_vh_fit": 1,
+      "with_vh": 4,
+      "drops_detail": [
+        {
+          "run": "1",
+          "g_tau_in_s": 115.05,
+          "VV_in_s": "-114.9",
+          "fits": true
+        },
+        {
+          "run": "4",
+          "g_tau_in_s": 117.37,
+          "VV_in_s": "-117.3",
+          "fits": true
+        },
+        {
+          "run": "6",
+          "g_tau_in_s": 116.98,
+          "VV_in_s": "-117.1",
+          "fits": true
+        },
+        {
+          "run": "8",
+          "g_tau_in_s": 118.14,
+          "VV_in_s": "-118.0",
+          "fits": true
+        },
+        {
+          "run": "2",
+          "g_tau_in_s": 68.34,
+          "VV_in_s": "-60.5",
+          "fits": false
+        },
+        {
+          "run": "3",
+          "g_tau_in_s": 60.23,
+          "VV_in_s": "-60.0",
+          "fits": true
+        },
+        {
+          "run": "5",
+          "g_tau_in_s": 56.37,
+          "VV_in_s": "-60.8",
+          "fits": false
+        },
+        {
+          "run": "7",
+          "g_tau_in_s": 59.46,
+          "VV_in_s": "-60.0",
+          "fits": false
+        }
+      ]
+    },
+    "report": "qa/tables-s5-b1/arithmetic.md"
+  }
+}

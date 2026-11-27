@@ -1,0 +1,117 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-ds-fc-2b-n2935,n2935,1,feature,1,0.000289933,51615.110702,2.4321e-05,931.175277,11.4147,1078.004,0.9575,19.448,mil,psf,826,2520,resolved,codex,"first visible curve / first symbol | decision: decision made on codex 1, carried to its pair claude 1; the codex reading is on the feature; credit codex (blind adjudication item 062 (Claude's adjudicator: p; Codex's: p))"
+b68-ds-fc-2b-n2935,n2935,1,feature,2,0.00570339,160472.315901,0.000424759,830.243691,224.5429,3351.534,16.7228,17.34,mil,psf,2060,1858.0,agreed,claude,peak of the drawn line (plateau within 3 px from u=1942 to u=2138); u bound is half the plateau width
+b68-ds-fc-2b-n2935,n2935,1,feature,3,0.00631348,159570.060301,1.9461e-05,1069.692866,248.5622,3332.69,0.7662,22.341,mil,psf,2202,1863.5,agreed,claude,last sampled point of the drawn line (line runs to the right frame)
+b68-ds-fc-2b-n2935,n2935,1,marker,1,0.000285074,51709.530573,1.14e-05,626.896231,11.2234,1079.976,0.4488,13.093,mil,psf,825,2520,agreed,claude,first point; just below the n4400/n3660 first markers
+b68-ds-fc-2b-n2935,n2935,1,marker,2,0.000542872,71090.932725,1.1311e-05,565.322218,21.3729,1484.765,0.4453,11.807,mil,psf,883,2403,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,marker,3,0.000808911,84843.627392,1.1222e-05,521.607541,31.8469,1771.996,0.4418,10.894,mil,psf,943,2320,audited,claude,"audit: confirmed by R1 (W1-05), R4 (W1-05); was agreed"
+b68-ds-fc-2b-n2935,n2935,1,marker,4,0.001039475,96601.821991,1.5573e-05,642.648836,40.9242,2017.571,0.6131,13.422,mil,psf,995,2249,agreed,claude,on the 2000 gridline
+b68-ds-fc-2b-n2935,n2935,1,marker,5,0.001296043,105112.777426,1.5395e-05,466.257962,51.0253,2195.326,0.6061,9.738,mil,psf,1053,2197,agreed,claude,"on the x=50 gridline | audit: ok + cannot tell by R2 (W1-04), R4 (W1-04)"
+b68-ds-fc-2b-n2935,n2935,1,marker,6,0.001547,113132.385644,1.1026e-05,454.527299,60.9055,2362.819,0.4341,9.493,mil,psf,1110,2148,agreed,claude,"audit: split by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,1,marker,7,0.00179767,118532.417012,1.1044e-05,446.627056,70.7744,2475.601,0.4348,9.328,mil,psf,1167,2115,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,marker,8,0.00205279,124587.067281,1.1064e-05,437.769208,80.8185,2602.055,0.4356,9.143,mil,psf,1225,2078,agreed,claude,"audit: split by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,1,marker,9,0.002312101,128840.797369,1.1082e-05,431.544774,91.0276,2690.896,0.4363,9.013,mil,psf,1284,2052,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,marker,10,0.002571466,133585.443753,1.5489e-05,424.650017,101.2388,2789.99,0.6098,8.869,mil,psf,1343,2023,agreed,claude,"on the x=100 gridline | audit: ok + cannot tell by R2 (W1-04), R4 (W1-04)"
+b68-ds-fc-2b-n2935,n2935,1,marker,11,0.002830812,137347.778743,1.1082e-05,419.143787,111.4493,2868.568,0.4363,8.754,mil,psf,1402,2000,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,marker,12,0.003318822,144377.462606,1.1069e-05,570.876328,130.6623,3015.386,0.4358,11.923,mil,psf,1513,1957,agreed,claude,on the 3000 gridline
+b68-ds-fc-2b-n2935,n2935,1,marker,13,0.004087147,153976.209645,2.0295e-05,1389.006313,160.9113,3215.86,0.799,29.010,mil,psf,1688,1898,pending-review,claude,"decision: neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 071, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 problem); bounds widened to cover the other reading (use span) | audit: split by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,1,marker,14,0.005088933,160153.241856,1.6939e-05,418.234062,200.3517,3344.87,0.6669,8.735,mil,psf,1917,1860,agreed,claude,"on the x=200 gridline | audit: split by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,1,marker,15,0.005626049,160473.129866,1.1775e-05,418.425583,221.498,3351.551,0.4636,8.739,mil,psf,2042,1858,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,marker,16,0.006090074,160142.420917,1.1133e-05,418.186182,239.7667,3344.644,0.4383,8.734,mil,psf,2150,1860,audited,claude,"audit: confirmed by R1 (W1-05), R4 (W1-05); was agreed"
+b68-ds-fc-2b-n2935,n2935,1,marker,17,0.006416601,159487.562615,3.7038e-05,580.979062,252.6221,3330.967,1.4582,12.134,mil,psf,2226,1864,agreed,claude,symbol beyond the right frame (x about 253); doubles as legend key
+b68-ds-fc-2b-n2935,n2935,1,trace,1,0.000338475,56347.403978,7.066e-06,1526.374776,13.3258,1176.84,0.2782,31.879,mil,psf,837,2492.0,confirmed,claude,"decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 062 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R1 (W1-05), R4 (W1-05); was one-sided-verified"
+b68-ds-fc-2b-n2935,n2935,1,trace,2,0.000387383,60157.188305,7.102e-06,2013.077609,15.2513,1256.409,0.2796,42.044,mil,psf,848,2469.0,agreed,claude,thick run: curve merged with a gridline or another curve
+b68-ds-fc-2b-n2935,n2935,1,trace,3,0.000476194,66037.745953,7.046e-06,1745.091799,18.7478,1379.227,0.2774,36.447,mil,psf,868,2433.5,agreed,claude,thick run: curve merged with a gridline or another curve
+b68-ds-fc-2b-n2935,n2935,1,trace,4,0.000604975,74570.103863,6.975e-06,1468.679064,23.8179,1557.429,0.2746,30.674,mil,psf,897,2382.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,5,0.000653796,77552.613076,6.96e-06,1459.246653,25.74,1619.72,0.274,30.477,mil,psf,908,2364.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,6,0.000742465,82026.544475,6.929e-06,1445.121977,29.2309,1713.16,0.2728,30.182,mil,psf,928,2337.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,7,0.000871045,88572.925004,6.876e-06,1341.269695,34.2931,1849.884,0.2707,28.013,mil,psf,957,2297.5,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,8,0.00091981,90976.322483,6.868e-06,1416.824743,36.213,1900.08,0.2704,29.591,mil,psf,968,2283.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,9,0.000981822,93545.625061,6.84e-06,1325.56497,38.6544,1953.741,0.2693,27.685,mil,psf,982,2267.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,10,0.001110264,98729.57282,6.769e-06,1049.343756,43.7112,2062.01,0.2665,21.916,mil,psf,1011,2236.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,11,0.001185525,101430.210948,6.769e-06,1291.330585,46.6742,2118.414,0.2665,26.97,mil,psf,1028,2219.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,12,0.001234214,103066.90184,6.736e-06,1124.994565,48.5911,2152.597,0.2652,23.496,mil,psf,1039,2209.5,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,13,0.001362095,107322.307737,6.678e-06,954.828125,53.6258,2241.473,0.2629,19.942,mil,psf,1068,2183.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,14,0.001450111,109777.224376,6.718e-06,1279.121119,57.091,2292.745,0.2645,26.715,mil,psf,1088,2168.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,15,0.001485311,110677.325364,6.678e-06,867.925455,58.4768,2311.544,0.2629,18.127,mil,psf,1096,2163.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,16,0.001626126,114523.211407,6.713e-06,1108.236474,64.0207,2391.867,0.2643,23.146,mil,psf,1128,2139.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,17,0.001714104,116650.579193,6.703e-06,941.182251,67.4844,2436.298,0.2639,19.657,mil,psf,1148,2126.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,18,0.001868089,120578.101077,6.713e-06,935.43662,73.5468,2518.326,0.2643,19.537,mil,psf,1183,2102.5,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,19,0.001890052,120823.439524,6.741e-06,1181.014468,74.4115,2523.45,0.2654,24.666,mil,psf,1188,2101.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,20,0.001978002,122705.229462,6.739e-06,1096.26641,77.8741,2562.752,0.2653,22.896,mil,psf,1208,2089.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,21,0.002131936,126223.327251,6.69e-06,517.298318,83.9345,2636.229,0.2634,10.804,mil,psf,1243,2068.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,22,0.0021539,126468.665698,6.734e-06,926.818173,84.7992,2641.353,0.2651,19.357,mil,psf,1248,2066.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,23,0.002241796,127859.29994,6.734e-06,842.788319,88.2597,2670.397,0.2651,17.602,mil,psf,1268,2058.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,24,0.002382505,130804.510431,6.726e-06,674.537089,93.7994,2731.909,0.2648,14.088,mil,psf,1300,2040.0,one-sided,claude,"audit: problem + cannot tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,1,trace,25,0.002417666,131377.062568,6.754e-06,919.636134,95.1837,2743.867,0.2659,19.207,mil,psf,1308,2036.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,26,0.002505535,132522.071081,6.744e-06,754.018318,98.6431,2767.781,0.2655,15.748,mil,psf,1328,2029.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,27,0.002633055,134976.221635,6.741e-06,750.427299,103.6636,2819.037,0.2654,15.673,mil,psf,1357,2014.5,one-sided,claude,"audit: ok + cannot tell by R2 (W1-04), R4 (W1-04)"
+b68-ds-fc-2b-n2935,n2935,1,trace,28,0.002681402,135630.553254,6.774e-06,1077.353707,105.567,2832.703,0.2667,22.501,mil,psf,1368,2010.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,29,0.002742926,136366.520715,6.744e-06,830.339451,107.9892,2848.074,0.2655,17.342,mil,psf,1382,2006.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,30,0.002910022,139229.42504,6.706e-06,580.260859,114.5678,2907.867,0.264,12.119,mil,psf,1420,1988.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,31,0.002945163,139474.619847,6.731e-06,825.790827,115.9513,2912.988,0.265,17.247,mil,psf,1428,1987.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,32,0.003033085,140701.359962,6.754e-06,1069.932267,119.4128,2938.609,0.2659,22.346,mil,psf,1448,1979.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,33,0.00312102,142009.97532,6.749e-06,1067.969177,122.8748,2965.94,0.2657,22.305,mil,psf,1468,1971.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,34,0.003208942,143154.840193,6.744e-06,1066.293367,126.3363,2989.851,0.2655,22.27,mil,psf,1488,1964.5,agreed,claude,on a horizontal gridline
+b68-ds-fc-2b-n2935,n2935,1,trace,35,0.003411172,145760.483886,6.713e-06,897.563335,134.2981,3044.271,0.2643,18.746,mil,psf,1534,1948.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,36,0.003472706,146411.128726,6.731e-06,1060.930778,136.7207,3057.86,0.265,22.158,mil,psf,1548,1944.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,37,0.003560641,147550.008566,6.726e-06,1061.696863,140.1827,3081.646,0.2648,22.174,mil,psf,1568,1937.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,38,0.003648547,148444.651205,6.67e-06,654.906182,143.6436,3100.331,0.2626,13.678,mil,psf,1588,1932.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,39,0.00373648,149502.086724,6.716e-06,1062.941749,147.1055,3122.416,0.2644,22.2,mil,psf,1608,1925.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,40,0.003863764,150966.217164,6.767e-06,1063.899355,152.1167,3152.995,0.2664,22.22,mil,psf,1637,1916.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,41,0.003911928,151454.212763,6.833e-06,1064.234516,154.0129,3163.187,0.269,22.227,mil,psf,1648,1913.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,42,0.003999525,152593.092603,6.934e-06,902.016199,157.4616,3186.973,0.273,18.839,mil,psf,1668,1906.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,72,0.004043177,153083.721617,7.145e-06,2695.46706,159.1802,3197.22,0.2813,56.296,mil,psf,1678,1903.5,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain
+b68-ds-fc-2b-n2935,n2935,1,trace,44,0.004187795,154626.471442,7.135e-06,414.547282,164.8738,3229.441,0.2809,8.658,mil,psf,1711,1894.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,45,0.004262214,155358.416961,7.315e-06,1066.77217,167.8037,3244.728,0.288,22.28,mil,psf,1728,1889.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,46,0.004349755,156171.66316,7.435e-06,1067.298853,171.2502,3261.713,0.2927,22.291,mil,psf,1748,1884.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,47,0.004437129,155519.390391,7.48e-06,415.121845,174.6901,3248.09,0.2945,8.67,mil,psf,1768,1888.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,48,0.004524779,157309.633275,7.676e-06,1068.064937,178.1409,3285.48,0.3022,22.307,mil,psf,1788,1877.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,49,0.004612279,157797.197952,7.798e-06,1068.400099,181.5858,3295.663,0.307,22.314,mil,psf,1808,1874.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,50,0.004699777,158284.762629,7.917e-06,1068.68738,185.0306,3305.846,0.3117,22.32,mil,psf,1828,1871.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,51,0.004787273,158772.375187,8.037e-06,1069.022542,188.4753,3316.03,0.3164,22.327,mil,psf,1848,1868.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,52,0.00487475,159097.099103,8.158e-06,1069.214063,191.9193,3322.812,0.3212,22.331,mil,psf,1868,1866.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,53,0.004962208,159258.982259,8.278e-06,1069.357704,195.3625,3326.193,0.3259,22.334,mil,psf,1888,1865.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,54,0.005023416,159258.359815,8.362e-06,1069.357704,197.7723,3326.18,0.3292,22.334,mil,psf,1902,1865.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,91,0.005036523,159670.082162,8.092e-06,2700.111445,198.2883,3334.779,0.3186,56.393,mil,psf,1905,1863.0,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain
+b68-ds-fc-2b-n2935,n2935,1,trace,94,0.005196289,159994.327276,7.729e-06,826.46115,204.5783,3341.551,0.3043,17.261,mil,psf,1942,1861.0,one-sided,codex,visible author-line ink; column displaced from vertical grid
+b68-ds-fc-2b-n2935,n2935,1,trace,56,0.005222108,159907.568247,8.11e-06,1232.725148,205.5948,3339.739,0.3193,25.746,mil,psf,1948,1861.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,57,0.005308067,160150.895723,7.965e-06,988.440066,208.979,3344.821,0.3136,20.644,mil,psf,1968,1860.0,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,58,0.005394008,160231.382438,7.851e-06,1069.980147,212.3625,3346.502,0.3091,22.347,mil,psf,1988,1859.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,59,0.005479943,160230.472713,7.729e-06,1069.980147,215.7458,3346.483,0.3043,22.347,mil,psf,2008,1859.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,60,0.005540111,160392.64315,7.633e-06,907.139387,218.1146,3349.87,0.3005,18.946,mil,psf,2022,1858.5,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,61,0.00570339,160472.315901,7.396e-06,825.742946,224.5429,3351.534,0.2912,17.246,mil,psf,2060,1858.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,62,0.005737758,160390.488539,7.353e-06,907.139387,225.896,3349.825,0.2895,18.946,mil,psf,2068,1858.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,63,0.005823682,160226.738053,7.244e-06,1069.980147,229.2788,3346.405,0.2852,22.347,mil,psf,2088,1859.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,64,0.005909615,160225.828328,7.122e-06,1069.980147,232.662,3346.386,0.2804,22.347,mil,psf,2108,1859.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,65,0.005995551,160224.870723,7e-06,1069.980147,236.0453,3346.366,0.2756,22.347,mil,psf,2128,1859.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,66,0.006029909,159980.25048,6.914e-06,418.042541,237.398,3341.257,0.2722,8.731,mil,psf,2136,1861.0,one-sided,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,113,0.006197468,159659.979428,7e-06,255.919984,243.9948,3334.568,0.2756,5.345,mil,psf,2175,1863.0,one-sided,codex,visible author-line ink; column displaced from vertical grid
+b68-ds-fc-2b-n2935,n2935,1,trace,114,0.006231857,159903.881467,7.008e-06,907.857591,245.3487,3339.662,0.2759,18.961,mil,psf,2183,1861.5,one-sided,codex,visible author-line ink; column displaced from vertical grid
+b68-ds-fc-2b-n2935,n2935,1,trace,68,0.00625334,159896.412146,6.629e-06,906.852105,246.1945,3339.506,0.261,18.94,mil,psf,2188,1861.5,agreed,claude,
+b68-ds-fc-2b-n2935,n2935,1,trace,69,0.00631348,159570.060301,6.553e-06,1069.549225,248.5622,3332.69,0.258,22.338,mil,psf,2202,1863.5,confirmed,claude,"decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 063 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R2 (W1-04), R4 (W1-04); was one-sided-verified"
+b68-ds-fc-2b-n2935,n2935,1,trace,116,0.006322083,159658.878182,6.947e-06,989.11039,248.9009,3334.545,0.2735,20.658,mil,psf,2204,1863.0,one-sided-verified,codex,"visible author-line ink; column displaced from vertical grid | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 064 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)"
+b68-ds-fc-2b-n2935,n2935,2,marker,1,0.000474662,-0.000317,2.141e-05,5.7e-05,18.6875,-12.473,0.8429,2.2375,mil,mil,871,3305,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable | audit: cannot-tell by R2 (W1-04), R4 (W1-04)"
+b68-ds-fc-2b-n2935,n2935,2,marker,2,0.000737969,-0.000316,2.1369e-05,5.7e-05,29.0539,-12.4517,0.8413,2.2381,mil,mil,930,3305,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable | audit: cannot-tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,2,marker,3,0.000983267,-0.000367,2.1328e-05,5.7e-05,38.7113,-14.4581,0.8397,2.233,mil,mil,985,3311,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable"
+b68-ds-fc-2b-n2935,n2935,2,marker,4,0.001237597,-0.000375,2.129e-05,5.7e-05,48.7243,-14.7757,0.8382,2.2326,mil,mil,1042,3312,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable | audit: cannot-tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,2,marker,5,0.001509197,-0.000409,2.1003e-05,5.7e-05,59.4172,-16.1054,0.8269,2.2295,mil,mil,1104,3316,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable | audit: cannot-tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,2,marker,6,0.001762844,-0.000383,2.1151e-05,5.7e-05,69.4033,-15.0715,0.8327,2.2329,mil,mil,1162,3313,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable | audit: cannot-tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,2,marker,7,0.002016338,-0.000408,2.1298e-05,5.7e-05,79.3834,-16.0652,0.8385,2.2307,mil,mil,1220,3316,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable"
+b68-ds-fc-2b-n2935,n2935,2,marker,8,0.002261166,-0.000408,2.1443e-05,5.7e-05,89.0223,-16.0458,0.8442,2.2312,mil,mil,1276,3316,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable"
+b68-ds-fc-2b-n2935,n2935,2,marker,9,0.002514951,-0.000321,2.161e-05,6.6e-05,99.0138,-12.6437,0.8508,2.5804,mil,mil,1334,3306,agreed,claude,"stack of symbols merged at this displacement; identity assigned by vertical order (dot, circle, triangle, square, x, asterisk from the top), shape not resolvable"
+b68-ds-fc-2b-n2935,n2935,2,marker,10,0.002760431,-0.000398,2.1478e-05,5.7e-05,108.6784,-15.668,0.8456,2.2333,mil,mil,1390,3315,agreed,claude,"square with hole | audit: ok + cannot tell by R2 (W1-04), R4 (W1-04)"
+b68-ds-fc-2b-n2935,n2935,2,marker,11,0.003023827,-0.000372,2.1219e-05,5.7e-05,119.0483,-14.632,0.8354,2.2368,mil,mil,1450,3312,agreed,claude,square with hole
+b68-ds-fc-2b-n2935,n2935,2,marker,12,0.003274057,-0.000345,2.0973e-05,5.7e-05,128.8999,-13.5966,0.8257,2.2402,mil,mil,1507,3309,agreed,claude,square with hole
+b68-ds-fc-2b-n2935,n2935,2,marker,13,0.003533023,-0.000336,2.0716e-05,5.7e-05,139.0954,-13.237,0.8156,2.2418,mil,mil,1566,3308,agreed,claude,square with hole
+b68-ds-fc-2b-n2935,n2935,2,marker,14,0.003792245,-0.000241,2.046e-05,5.7e-05,149.301,-9.4912,0.8055,2.2528,mil,mil,1625,3297,agreed,claude,square
+b68-ds-fc-2b-n2935,n2935,2,marker,15,0.004048867,-0.000301,2.0223e-05,5.7e-05,159.4042,-11.8399,0.7962,2.2468,mil,mil,1684,3304,agreed,claude,square
+b68-ds-fc-2b-n2935,n2935,2,marker,16,0.004292481,-0.000292,2.0206e-05,5.7e-05,168.9953,-11.4807,0.7955,2.2483,mil,mil,1740,3303,agreed,claude,square
+b68-ds-fc-2b-n2935,n2935,2,marker,17,0.004557842,-0.000282,2.0185e-05,5.7e-05,179.4426,-11.1195,0.7947,2.2499,mil,mil,1801,3302,agreed,claude,square
+b68-ds-fc-2b-n2935,n2935,2,marker,18,0.00481457,-0.000239,2.0165e-05,5.7e-05,189.55,-9.4031,0.7939,2.2552,mil,mil,1860,3297,agreed,claude,square
+b68-ds-fc-2b-n2935,n2935,2,marker,19,0.005040848,-0.000187,2.0147e-05,5.7e-05,198.4586,-7.3495,0.7932,2.2615,mil,mil,1912,3291,agreed,claude,square with hole
+b68-ds-fc-2b-n2935,n2935,2,marker,20,0.005314429,-0.000152,1.5657e-05,4e-05,209.2295,-5.969,0.6164,1.5854,mil,mil,1975,3287,agreed,claude,"square, clean"
+b68-ds-fc-2b-n2935,n2935,2,marker,21,0.005570499,-0.000151,1.5573e-05,4e-05,219.311,-5.946,0.6131,1.5859,mil,mil,2034,3287,agreed,claude,"square, clean"
+b68-ds-fc-2b-n2935,n2935,2,marker,22,0.005818,-9.9e-05,1.5491e-05,4e-05,229.0551,-3.8882,0.6099,1.592,mil,mil,2091,3281,agreed,claude,"square, clean | audit: ok + cannot tell by R1 (W1-05), R4 (W1-05)"
+b68-ds-fc-2b-n2935,n2935,2,marker,23,0.006060996,-0.000124,1.5413e-05,4e-05,238.6219,-4.8839,0.6068,1.5896,mil,mil,2147,3284,agreed,claude,"square, clean"
+b68-ds-fc-2b-n2935,n2935,2,marker,24,0.006304087,-0.000106,2.4036e-05,4.9e-05,248.1924,-4.183,0.9463,1.9331,mil,mil,2203,3282,agreed,claude,square overlapping the right frame

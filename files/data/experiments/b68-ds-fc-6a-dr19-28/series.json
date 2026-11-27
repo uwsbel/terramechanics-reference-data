@@ -1,0 +1,206 @@
+{
+  "experiment_id": "b68-ds-fc-6a-dr19-28",
+  "source": "bendix-1968-vol2",
+  "figure_id": "FC-6A",
+  "batch": "curves-appc-b6",
+  "reading_rules": "docs/CURVE-READING.md (2026-10-08)",
+  "method": "two independent readings (Claude, Codex gpt-6.1-sol high) with their own axis calibrations, compared by tools/diff_curves.py; values from each reading's pixels on a piecewise map between its verified lines (D-025); canonical reading chosen by the lines checked against the ink of the page (more verified lines, then closer to the ink, then the first submission), never averaged; status agreed where the two readings matched within the sum of their bounds, resolved where a page re-read settled a disagreement (qa/<batch>/decisions*.csv), one-sided-verified where only one reading holds the point and the other agent verified it on the page, one-sided where nobody has; `source` names the reading each point comes from and whose numbering `sequence` is",
+  "panels": {
+    "1": {
+      "x_quantity": "normal stress",
+      "x_unit_native": "psf",
+      "x_unit_si": "Pa",
+      "x_factor": 47.880258980336,
+      "y_quantity": "maximum shear stress",
+      "y_unit_native": "psf",
+      "y_unit_si": "Pa",
+      "y_factor": 47.880258980336
+    }
+  },
+  "calibrations": {
+    "claude": {
+      "cal-p1": {
+        "x_per_px": 3.4100209681857856,
+        "y_per_px": 3.3998556244337585,
+        "rms_residual_x": 3.3956041790063196,
+        "rms_residual_y": 6.091782504790993,
+        "max_residual_x": 7.343287239863912,
+        "max_residual_y": 12.15977987037968,
+        "n_anchors": 42,
+        "box": [
+          895,
+          1215,
+          2425,
+          3025
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-appc-b6/FC-6A/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 0.99
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 0.81
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 1.31
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.74
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.96
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.95
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 0.93
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 1.02
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 0.95
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.82
+            },
+            {
+              "value": 6000.0,
+              "location_error_px": 0.86
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 9
+        }
+      }
+    },
+    "codex": {
+      "cal-p1": {
+        "x_per_px": 3.4093809827667103,
+        "y_per_px": 3.399573813476451,
+        "rms_residual_x": 3.0396419963866115,
+        "rms_residual_y": 6.327674075920113,
+        "max_residual_x": 6.527846764047808,
+        "max_residual_y": 12.39233071970557,
+        "n_anchors": 42,
+        "box": [
+          900,
+          1220,
+          2420,
+          3020
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-appc-b6/FC-6A/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.93
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 0.85
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 1.24
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.98
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 1.26
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.58
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.96
+            },
+            {
+              "value": 6000.0,
+              "location_error_px": 0.89
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 9
+        }
+      }
+    }
+  },
+  "points": {
+    "total": 27,
+    "by_status": {
+      "agreed": 24,
+      "one-sided-verified": 3
+    },
+    "by_kind": {
+      "feature": 1,
+      "marker": 5,
+      "trace": 21
+    },
+    "by_panel": {
+      "1": 27
+    }
+  },
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "points_sampled": 9,
+    "by_pair_outcome": {
+      "single (ok)": 8,
+      "single (cannot tell)": 1
+    },
+    "rule": "a point both reviewers answered ok has status audited (it was agreed) or confirmed (it rested on a rule, a re-read or one reading); the earlier status is in the note; any other outcome is noted and leaves the status as the readings left it; a verdict on a reading a decision has since replaced is kept as history (superseded) and not applied"
+  },
+  "bounds": "x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.",
+  "pixel_frame": "pixel_u, pixel_v refer to the unrotated 300 dpi rendering of PDF page of FC-6A (tools/render_pages.py), origin top-left, u right, v down."
+}

@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.38">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Data organization and conventions – Terramechanics Reference Data</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../site.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Terramechanics Reference Data</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../experiments/index.html"> 
+<span class="menu-text">Find a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../materials/index.html"> 
+<span class="menu-text">Soils</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../simulate/index.html"> 
+<span class="menu-text">Simulate a test</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../glossary/index.html"> 
+<span class="menu-text">Glossary</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../downloads/index.html"> 
+<span class="menu-text">Download</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about/index.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#purpose-in-one-paragraph" id="toc-purpose-in-one-paragraph" class="nav-link active" data-scroll-target="#purpose-in-one-paragraph">Purpose, in one paragraph</a>
+  <ul class="collapse">
+  <li><a href="#calibration-and-validation-are-the-users-choice-not-a-property-of-the-data-d-028" id="toc-calibration-and-validation-are-the-users-choice-not-a-property-of-the-data-d-028" class="nav-link" data-scroll-target="#calibration-and-validation-are-the-users-choice-not-a-property-of-the-data-d-028">Calibration and validation are the user’s choice, not a property of the data (D-028)</a></li>
+  </ul></li>
+  <li><a href="#folder-layout" id="toc-folder-layout" class="nav-link" data-scroll-target="#folder-layout">Folder layout</a></li>
+  <li><a href="#source-identifiers" id="toc-source-identifiers" class="nav-link" data-scroll-target="#source-identifiers">Source identifiers</a></li>
+  <li><a href="#page-identity" id="toc-page-identity" class="nav-link" data-scroll-target="#page-identity">Page identity</a></li>
+  <li><a href="#units" id="toc-units" class="nav-link" data-scroll-target="#units">Units</a></li>
+  <li><a href="#materials-datamaterials" id="toc-materials-datamaterials" class="nav-link" data-scroll-target="#materials-datamaterials">Materials (<code>data/materials/</code>)</a></li>
+  <li><a href="#experiments-dataexperiments" id="toc-experiments-dataexperiments" class="nav-link" data-scroll-target="#experiments-dataexperiments">Experiments (<code>data/experiments/</code>)</a></li>
+  <li><a href="#figures-index-corpussourcefigures.csv" id="toc-figures-index-corpussourcefigures.csv" class="nav-link" data-scroll-target="#figures-index-corpussourcefigures.csv">Figures index (<code>corpus/&lt;source&gt;/figures.csv</code>)</a></li>
+  <li><a href="#reading-bounds-and-agreement" id="toc-reading-bounds-and-agreement" class="nav-link" data-scroll-target="#reading-bounds-and-agreement">Reading bounds and agreement</a>
+  <ul class="collapse">
+  <li><a href="#reviewer-audits-qaaudits.csv-and-qaaudits" id="toc-reviewer-audits-qaaudits.csv-and-qaaudits" class="nav-link" data-scroll-target="#reviewer-audits-qaaudits.csv-and-qaaudits">Reviewer audits (<code>qa/audits.csv</code> and <code>qa/audits/</code>)</a></li>
+  <li><a href="#typography-rule-for-text-cells" id="toc-typography-rule-for-text-cells" class="nav-link" data-scroll-target="#typography-rule-for-text-cells">Typography rule for text cells</a></li>
+  <li><a href="#cell-and-row-status-vocabulary" id="toc-cell-and-row-status-vocabulary" class="nav-link" data-scroll-target="#cell-and-row-status-vocabulary">Cell and row status vocabulary</a></li>
+  </ul></li>
+  <li><a href="#corpus-pages-corpussourcepagespnnnn.md" id="toc-corpus-pages-corpussourcepagespnnnn.md" class="nav-link" data-scroll-target="#corpus-pages-corpussourcepagespnnnn.md">Corpus pages (<code>corpus/&lt;source&gt;/pages/pNNNN.md</code>)</a>
+  <ul class="collapse">
+  <li><a href="#corpus-indexes-corpussourcecontentsequationssymbolsglossary.csv" id="toc-corpus-indexes-corpussourcecontentsequationssymbolsglossary.csv" class="nav-link" data-scroll-target="#corpus-indexes-corpussourcecontentsequationssymbolsglossary.csv">Corpus indexes (<code>corpus/&lt;source&gt;/{contents,equations,symbols,glossary}.csv</code>)</a></li>
+  </ul></li>
+  <li><a href="#insights-insights" id="toc-insights-insights" class="nav-link" data-scroll-target="#insights-insights">Insights (<code>insights/</code>)</a></li>
+  <li><a href="#site-site" id="toc-site-site" class="nav-link" data-scroll-target="#site-site">Site (<code>site/</code>)</a>
+  <ul class="collapse">
+  <li><a href="#virtual-experiment-card" id="toc-virtual-experiment-card" class="nav-link" data-scroll-target="#virtual-experiment-card">Virtual experiment card</a></li>
+  </ul></li>
+  <li><a href="#regeneration" id="toc-regeneration" class="nav-link" data-scroll-target="#regeneration">Regeneration</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Data organization and conventions</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>This is the data dictionary for the repository. It is updated in the same commit as any change to the layout, file formats or vocabularies, so it never lags the data. Version 1, 2026-10-07.</p>
+<section id="purpose-in-one-paragraph" class="level2">
+<h2 class="anchored" data-anchor-id="purpose-in-one-paragraph">Purpose, in one paragraph</h2>
+<p>Physical soil-test data from Apollo-era NASA contractor reports is recovered from scanned pages into machine-readable files (SI units), with the test setup, the provenance of every number and the uncertainty of reading it from the page recorded (the experimental uncertainty is known only where repeat tests show it), so that anyone with a simulator can set up these experiments as virtual experiments, as far as the recorded setup allows, and judge the simulator against them (Project Chrono’s soil models are our own first use, in separate repositories since 2026-11-18, D-046). The same organized corpus lets an agent answer questions from the source material with page citations.</p>
+<section id="calibration-and-validation-are-the-users-choice-not-a-property-of-the-data-d-028" class="level3">
+<h3 class="anchored" data-anchor-id="calibration-and-validation-are-the-users-choice-not-a-property-of-the-data-d-028">Calibration and validation are the user’s choice, not a property of the data (D-028)</h3>
+<p>Almost any test can serve to calibrate a model or to validate it; which one is a choice made in a particular study, for a particular claim, with a particular model, and others may choose otherwise. The data therefore carries no such roles. It records, for every experiment, the facts any split needs:</p>
+<ol type="1">
+<li><strong>What kind of test it is</strong>: an element test, in which the soil is in a nearly uniform, known state (direct shear, density limits, grain size), or a boundary-value test, whose response mixes many properties (static load-penetration, dynamic penetrometer); a derived series (an envelope, a friction-angle chart) is a reduction of other tests, not an experiment of its own.</li>
+<li><strong>What was measured and how well</strong>: the setup and how complete it is (<code>setup_status</code>), the response, and its uncertainty (reading bounds; the scatter of repeat tests where they exist).</li>
+<li><strong>How tests depend on each other</strong>: same soil, same bed state, same laboratory, and the hard dependencies (<code>relation</code>: <code>same-as</code>, <code>derived-from</code>) that any split must respect so that no data is used on both sides of it.</li>
+</ol>
+<p>Notes on what a given test can and cannot pin down for a given kind of model (for example, a direct shear peak constrains a continuum model’s friction coefficient, through a model-specific conversion, but not its stiffness, while a push test mixes friction, density, stiffness and dilation) are documented beside the data, so whoever chooses a split knows what each choice can show. Example splits, with their reasons, belong to studies and to the benchmark’s documentation, never to the data files.</p>
+</section>
+</section>
+<section id="folder-layout" class="level2">
+<h2 class="anchored" data-anchor-id="folder-layout">Folder layout</h2>
+<div class="table-wrap" style="--table-min: 64ch; --table-min-phone: 75ch">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 37%">
+<col style="width: 36%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Folder</th>
+<th>Holds</th>
+<th>Tracked</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>AGENTS.md</code></td>
+<td>How an agent navigates, answers and cites from this repo</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>docs/</code></td>
+<td>This document, <code>KNOWN-LIMITATIONS.md</code>, release notes</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>sources/</code></td>
+<td><code>register.csv</code> (acquired and screened sources, rights evidence, checksums); <code>leads.csv</code> (the broad hunt: every candidate source graded for rights, data form and setup recoverability, with both agents’ grades and <code>found_by</code>); <code>searches-log.csv</code> (every search run, including the ones that found nothing)</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>nasa-reports/</code></td>
+<td>The source reports and data sets, each with its rights evidence in <code>sources/register.csv</code> (public use permitted), and the project lead’s planning note; the public release keeps only the Planetary Data System bundles and links the NTRS reports by their records (D-054)</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>corpus/&lt;source&gt;/</code></td>
+<td><code>page-map.csv</code>, <code>pages/pNNNN.md</code> transcriptions, <code>contents.csv</code>, <code>symbols.csv</code>, <code>figures.csv</code>, <code>equations.csv</code>, <code>glossary.csv</code>; <code>images/</code> rendered pages (regenerable)</td>
+<td>yes, except <code>images/</code></td>
+</tr>
+<tr class="even">
+<td><code>insights/</code></td>
+<td>Short cited notes capturing judgment, caveats and recommendations found in the text</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>extractions/&lt;agent&gt;/&lt;batch&gt;/</code></td>
+<td>Immutable independent submissions from each agent, exactly as produced</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>data/materials/</code></td>
+<td>Soils: families, mixtures, batches, density states</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>data/experiments/&lt;id&gt;/</code></td>
+<td>One physical test: <code>setup.json</code>, <code>observations.csv</code>, <code>series.json</code>; <code>index.csv</code> at the folder root</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>data/derived/</code></td>
+<td>Reductions and conversions computed from <code>data/experiments</code> by scripts in <code>tools/</code></td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>qa/&lt;batch&gt;/</code></td>
+<td>Review packets: overlays, discrepancies, decisions, canonical points, <code>audit-meta.json</code> (what a reviewer is told about each figure)</td>
+<td>yes, except images</td>
+</tr>
+<tr class="even">
+<td><code>qa/audits/</code></td>
+<td>The reviewer audit program: <code>reviewers.csv</code>, <code>assignments.csv</code> (chunks, pairs, deadlines), <code>sample.csv</code>, <code>keys/</code> (answer keys, never sent), <code>table-controls.csv</code> (the controls <code>plan</code> chose for chunks of table cells, never sent), <code>returns/</code>, <code>returns-log.csv</code>, <code>voided.csv</code>, <code>withdrawn.csv</code>, <code>status.md</code>, <code>reports/</code>, <code>digests/</code>; the audit rows themselves are in <code>qa/audits.csv</code>. The public release keeps <code>qa/audits.csv</code> and <code>voided.csv</code> only</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>schemas/</code></td>
+<td>JSON Schema for every sidecar and the CSV column contracts</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>paper/notes/</code></td>
+<td>Findings written for the manuscripts, one topic per file, each paragraph cited</td>
+<td>yes</td>
+</tr>
+<tr class="odd">
+<td><code>tools/</code></td>
+<td>All scripts; nothing in <code>data/</code> is produced by hand</td>
+<td>yes</td>
+</tr>
+<tr class="even">
+<td><code>.agent-related/</code></td>
+<td>Agent working records (plans, run folders, consultation records)</td>
+<td>no</td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="source-identifiers" class="level2">
+<h2 class="anchored" data-anchor-id="source-identifiers">Source identifiers</h2>
+<p><code>source_id</code> in <code>sources/register.csv</code> is a short slug: <code>bendix-1968-vol1</code>, <code>bendix-1968-vol2</code>, <code>mdac-1970-cr66914</code>. The corpus folder for a source is named by year and volume where that is unambiguous (<code>corpus/1968/</code> for Volume I; Volume II will be <code>corpus/1968-vol2/</code>).</p>
+<p>Register statuses: <code>lead</code> (identified, not located), <code>located</code> (found, not in hand), <code>acquired</code> (file in <code>nasa-reports/</code>, checksummed), <code>screened</code> (contents inspected and summarized), <code>eligible</code> (holds data in scope), <code>extracted</code>. Dead ends are kept with status <code>not-located</code> and a note of where was searched.</p>
+<p>Leads move from <code>sources/leads.csv</code> into the register through a screening batch: <code>tools/promote_leads.py &lt;screened.csv&gt; &lt;leads.csv&gt; &lt;register.csv&gt; --agent &lt;who&gt; --date &lt;when&gt;</code> writes one <code>located</code> row per screened lead (identity fields as the screen confirmed or corrected them against the archive record, the lead’s relation to the Bendix study, and the screening verdict <code>acquire | acquire-with-caveat | lead-only</code> with the setup and text-layer assessment in <code>notes</code>). A row becomes <code>acquired</code> only when the file is downloaded and checksummed: <code>tools/acquire_source.py &lt;source_id&gt; &lt;url&gt;... [--crawl] --date &lt;when&gt;</code> saves the files under <code>nasa-reports/&lt;source_id&gt;/</code> (a PDS bundle is crawled from its directory listing and kept with its relative paths), writes the SHA-256 digests, page counts and local path into the row and sets the status; a re-run of <code>promote_leads.py</code> keeps those acquisition fields. A single file’s digest goes in the row; a bundle gets <code>nasa-reports/&lt;source_id&gt;/SHA256SUMS.txt</code> (one line per file) and the row holds the digest of that manifest. Videos and high-resolution scans inside a bundle are not tracked by git (<code>.gitignore</code>) but are in the manifest, so the acquisition is reproducible and checkable. The screening submission lives under <code>extractions/&lt;agent&gt;/leads-screen-b&lt;n&gt;/</code> with its review in <code>qa/leads-screen-b&lt;n&gt;/review.md</code>.</p>
+</section>
+<section id="page-identity" class="level2">
+<h2 class="anchored" data-anchor-id="page-identity">Page identity</h2>
+<p>Every page has two identities: <code>pdf_page</code> (1-based page in the file we hold) and <code>printed_label</code> (the label printed on the page, for example <code>2-35</code>). Both are always given together. The map is <code>corpus/&lt;source&gt;/page-map.csv</code> (<code>pdf_page, printed_label, label_source, inferred_label, appendix_heading</code>); <code>inferred_label</code> is the authoritative printed label (OCR misreads are outvoted by the per-section offset). A citation reads: <code>AM-68-1 Vol. I, Fig. 2-21, printed 2-43, PDF 68</code>.</p>
+</section>
+<section id="units" class="level2">
+<h2 class="anchored" data-anchor-id="units">Units</h2>
+<p>SI is canonical. Every quantity in <code>data/</code> has an SI column; the value as printed is kept in a <code>*_native</code> column with its unit named in the sidecar, for traceability only, and is never used downstream. Conversions are done by <code>tools/to_si.py</code> from this table (exact or CODATA values):</p>
+<div class="table-wrap" style="--table-min: 47ch; --table-min-phone: 59ch">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 44%">
+<col style="width: 28%">
+<col style="width: 26%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>From</th>
+<th>To</th>
+<th>Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>inch</td>
+<td>m</td>
+<td>0.0254</td>
+</tr>
+<tr class="even">
+<td>ft</td>
+<td>m</td>
+<td>0.3048</td>
+</tr>
+<tr class="odd">
+<td>lbf</td>
+<td>N</td>
+<td>4.4482216152605</td>
+</tr>
+<tr class="even">
+<td>lb (mass)</td>
+<td>kg</td>
+<td>0.45359237</td>
+</tr>
+<tr class="odd">
+<td>psi</td>
+<td>Pa</td>
+<td>6894.757293168</td>
+</tr>
+<tr class="even">
+<td>ksi (kips/in.^2)</td>
+<td>Pa</td>
+<td>6894757.293168</td>
+</tr>
+<tr class="odd">
+<td>psf</td>
+<td>Pa</td>
+<td>47.880258980336</td>
+</tr>
+<tr class="even">
+<td>pcf (unit weight)</td>
+<td>N/m^3</td>
+<td>157.08746</td>
+</tr>
+<tr class="odd">
+<td>pcf (as mass density, dividing by g = 9.80665)</td>
+<td>kg/m^3</td>
+<td>16.018463</td>
+</tr>
+<tr class="even">
+<td>in/min</td>
+<td>m/s</td>
+<td>0.0254 / 60</td>
+</tr>
+<tr class="odd">
+<td>in/s</td>
+<td>m/s</td>
+<td>0.0254</td>
+</tr>
+<tr class="even">
+<td>ft/s</td>
+<td>m/s</td>
+<td>0.3048</td>
+</tr>
+<tr class="odd">
+<td>in/s^2</td>
+<td>m/s^2</td>
+<td>0.0254</td>
+</tr>
+<tr class="even">
+<td>g (acceleration)</td>
+<td>m/s^2</td>
+<td>9.80665</td>
+</tr>
+<tr class="odd">
+<td>ms</td>
+<td>s</td>
+<td>0.001</td>
+</tr>
+<tr class="even">
+<td>s</td>
+<td>s</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>mm</td>
+<td>m</td>
+<td>0.001</td>
+</tr>
+<tr class="even">
+<td>mil (thousandths of an inch)</td>
+<td>m</td>
+<td>0.0000254</td>
+</tr>
+<tr class="odd">
+<td>deg (angle)</td>
+<td>deg</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>deg/s (angular rate)</td>
+<td>deg/s</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>none (dimensionless, e.g.&nbsp;relative density Dr)</td>
+<td>none</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>percent (e.g.&nbsp;percent finer)</td>
+<td>none (a fraction)</td>
+<td>0.01</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Unit weight and mass density are distinct quantities and both are reported; the report’s “unit weight gamma, pcf” is converted to N/m^3 and, under standard gravity, to kg/m^3 with the column name saying which. Normalized quantities (pressure parameter, relative depth) keep the report’s definition, recorded in <code>glossary.csv</code>, together with every quantity needed to undo the normalization.</p>
+</section>
+<section id="materials-datamaterials" class="level2">
+<h2 class="anchored" data-anchor-id="materials-datamaterials">Materials (<code>data/materials/</code>)</h2>
+<p><code>materials.csv</code>: one row per soil number as the report defines it (a material in a density state). Columns: <code>soil_no, bendix_designation, description_verbatim, family, state, relative_density, unit_weight_native, unit_weight_unit, unit_weight_N_m3, bulk_density_kg_m3, friction_angle_deg, elastic_modulus_native, elastic_modulus_unit, elastic_modulus_Pa, mean_grain_size_mm, uniformity_coeff, percent_passing_200, d95_mm, read_flags, source_locator, status</code>. Families are the report’s: RS, PS, RSM (a and b are different mixtures and stay separate), RC2, SS, LSM. <code>source_locator</code> names table, printed page, PDF page and row.</p>
+<p><code>specifications.csv</code>: the Appendix A soil specifications (Vol. II, PDF 2 to 98) in long form, one row per soil and quantity, built by <code>tools/build_specifications.py</code> from the canonical page files. Columns: <code>soil_no, quantity, qualifier, value_native, unit_native, value_si, unit_si, printed_text, source_locator, status</code>. Quantities: <code>bendix_designation</code>, <code>relative_density</code>, <code>friction_angle</code> (and <code>friction_angle_band_low/high</code> for LSM), <code>elastic_modulus</code> (qualifier <code>about</code>, <code>as printed</code> or <code>estimated, not measured</code>), <code>modulus_confining_pressure</code>, <code>placement</code> (the printed sentence), <code>roller_count</code> (qualifier <code>passes</code> or <code>rollings</code>, as printed), <code>mix_ratio_by_weight</code>, <code>d50/d10/cu/d95_average</code> and <code>_range</code> (grain size chart inset), <code>gamma_min_label_k</code> and <code>gamma_max_label_k</code> (density chart end labels, pcf and kg/m^3). Each soil’s values come from its own sheet. <code>qa/specifications/table23-vs-appendix-a.md</code> is generated with it and compares every Table 2-3 cell; <code>--check</code> rebuilds both and compares.</p>
+</section>
+<section id="experiments-dataexperiments" class="level2">
+<h2 class="anchored" data-anchor-id="experiments-dataexperiments">Experiments (<code>data/experiments/</code>)</h2>
+<p><code>index.csv</code>: one row per physical test, test series or derived series. Columns: <code>experiment_id, source_id, kind, test_type, test_label_printed, soil_family, soil_no, soil_no_status, state_printed, dr_printed, unit_weight_printed_pcf, gp_printed_g, apparatus, penetrator_printed, bin_printed_in, loading, rate_printed, start_depth_printed_in, measured_channels, evidence (figure and table ids, semicolon separated, or</code>text <printed page=""> (PDF <n>)<code>), setup_status (complete | setup_incomplete | pending), mcc_relevant, priority, relation, relation_target, status, notes</code>. <code>bin_printed_in</code> is the bin or bed as printed, normalized for comparison to <code>A by B</code> in inches, or to <code>A by B [by C] ft</code> when the report gives feet (the model-drop bed and the full-scale pit; until 2026-11-19 the unit was dropped and the site read 18 by 12 ft as inches). <code>relation</code> is <code>same-as | derived-from</code> or empty and <code>relation_target</code> the semicolon-separated ids it points to (from the Volume II batch on; Section II rows leave them empty). The index is built by <code>tools/build_experiments.py</code> from one or more batches of two blind inventories, stacked in order (Section II, <code>experiments-s2-b1</code>; Volume II Appendix C, <code>experiments-vol2c-b1</code>; Volume II Appendices A and B, <code>experiments-vol2ab-b1</code>: grain-size and density charts, friction-angle charts and the sonic moduli; the chemical analyses of Appendix A are material composition, not experiments, and belong in <code>data/materials/</code>; Volume I Sections IV and V, <code>experiments-s3s5-b1</code>: the footpad impact runs with plotted histories and the two model drops with histories, NASA Tests 1 and 2, D-050; Volume I Section IV, <code>experiments-drag-b1</code>: the 13 subscale drag tables, Figs. 4-6a to 4-16, kind <code>run-table</code>, D-050; Volume I Section V, <code>experiments-t5-3-b1</code>: Table 5-T3, the detail correlation drops of the LM model, kind <code>run-table</code>, read in the same blind pass as the table’s cells, 2026-11-20); a later batch’s row with an id already in the index (a test or series printed again) merges into the earlier row: its evidence is added, the earlier cells stand, and the printed facts that differ are noted on the row and listed in <code>index.json</code> (<code>merged_rows</code>). Volume II rows keep the <code>b68</code> alias with <code>source_id</code> <code>bendix-1968-vol2</code>; envelopes are named by their printed Dr range in hundredths (<code>b68-ds-fc-1a-dr50-57</code>) and stresses in psi with <code>p</code> for the point (<code>b68-ds-fc-7b-n27p1psi</code>). The <code>*_printed</code> columns hold the value exactly as printed beside the test (caption, legend, inset, or the paragraph describing the figure) and are never inferred from another test; they are index fields for finding and matching experiments, and <code>setup.json</code> is where the reconciled SI setup lives. <code>kind</code> is <code>single</code> (one physical test), <code>averaged-series</code> (a curve the report says is averaged from several tests), <code>derived-series</code> (a reduction the authors drew from identified tests, such as a failure envelope), <code>correlation</code> (a fit drawn without the underlying points), <code>summary</code> (a number that exists only in the text), <code>sample</code> (a bin sample analyzed for grain size and min/max density), <code>run-table</code> (a printed table of separate runs of one test type, one physical test per row: the subscale drag tables of Figs. 4-6a to 4-16, one row per printed table page, from 2026-11-19, D-050; Table 5-T3, the eight detail correlation drops, one row per soil family of its beds, <code>b68-mdrop-t5-3-rs</code> and <code>b68-mdrop-t5-3-ss</code>, from 2026-11-20, because the index and the site group records by soil family and the table mixes RS and SS beds; its runs are in <code>runs.csv</code>, below). A run-table whose runs include a drop that has its own record (NASA Tests No.&nbsp;1 and 2, <code>b68-mdrop-10</code>, <code>b68-mdrop-11</code>) carries <code>relation</code> <code>same-as</code> with those ids, so a split keeps them together. The descriptive columns (<code>apparatus</code>, <code>loading</code>, <code>measured_channels</code> from the first reading, <code>state_printed</code> and <code>test_label_printed</code> from the second) take a value from <code>qa/&lt;batch&gt;/resolutions.csv</code> when one is recorded there, checked on the page (from 2026-11-20, batch <code>experiments-t5-3-b1</code>). <code>soil_no_status</code> is <code>reported | inferred | conflict | unknown</code>; <code>conflict</code> marks a test two figures label with different states (LPT 26 and LPT 27 in Volume I).</n></printed></p>
+<p><code>experiment_id</code> scheme: <code>&lt;source alias&gt;-&lt;test_type&gt;-&lt;label&gt;</code>, lower case, hyphens only. The alias <code>b68</code> stands for <code>bendix-1968-vol1</code>. The label is the report’s own test number when one is printed (<code>b68-lpt-027</code>, <code>b68-lpt-064A</code>, <code>b68-dpt-r53958</code>, <code>b68-smp-ssd-4-18</code>), the normal stress for a direct shear test (<code>b68-ds-f2-21-n3520</code>), or, for series without a printed number, the figure id plus a sequence number in legend order or the legend label (<code>b68-lpt-f2-36-s01</code>, <code>b68-dpt-f2-55-rs</code>). Test types: <code>gs</code> grain size, <code>dens</code> min/max, compaction and in-place density, <code>ds</code> direct shear, <code>tx</code> triaxial, <code>lpt</code> static load-penetration, <code>spt</code> static penetrometer, <code>dpt</code> dynamic penetrometer, <code>imp</code> footpad impact, <code>drag</code> footpad drag, <code>mdrop</code> 1/6-scale LM model drop (Section V; id <code>b68-mdrop-&lt;Bendix drop number&gt;</code>, D-050; Table 5-T3’s drops, a run-table, are <code>b68-mdrop-t5-3-&lt;soil family&gt;</code>), <code>sonic</code> sonic modulus, <code>smp</code> bin sample (<code>gs;dens</code>). Impact runs are <code>b68-imp-&lt;run&gt;</code> (subscale, <code>b68-imp-ii-1</code> for run II-1) and <code>b68-imp-fs&lt;n&gt;</code> (full scale).</p>
+<p>Per experiment folder:</p>
+<ul>
+<li><code>setup.json</code>: material and state; preparation (placement method, compaction, waiting time, bed reuse); geometry (bin dimensions and fill depth, penetrator profile and dimensions, specimen dimensions); boundaries (wall and tool materials, applied loads); loading (control, rate history, impact velocity, moving mass, drop height, gravity level); measurement (sensor type and location, filtering, sampling, zero definition); data meaning per series (measurement markers, recorded trace, author fit, computed, derived). Every field is an object <code>{value, unit, status, source}</code> with <code>status</code> in <code>reported | derived | inferred | unknown</code> and <code>source</code> a page locator.</li>
+<li><code>observations.csv</code>: the points, written by <code>tools/build_observations.py</code> from the canonical reading that <code>tools/diff_curves.py</code> selects (see <code>docs/CURVE-READING.md</code>). Columns <code>experiment_id, series_id, panel, point_kind, sequence, x_si, y_si, x_bound_si, y_bound_si, x_native, y_native, x_read_bound, y_read_bound, x_unit_native, y_unit_native, pixel_u, pixel_v, status, source, note</code>. <code>point_kind</code> in <code>marker | trace | gridline | feature</code>; <code>sequence</code> is the point’s number in the reading named by <code>source</code> (its drawing order along the trace in that reading, never sorted by x); <code>pixel_u, pixel_v</code> locate the point on the unrotated 300 dpi page image; the bounds are reading bounds, not standard deviations: from 2026-10-14 (D-025) the largest change of value over the point’s pixel interval on the piecewise map plus the location error of the two lines around it (before: pixel bound times the local scale plus the calibration residual); <code>status</code> in <code>agreed</code> (the two readings matched within the sum of their bounds; for trace samples the other reading is interpolated at the canonical sample’s displacement) <code>| resolved</code> (a page re-read settled a disagreement; the decision row says which reading was right) <code>| one-sided-verified</code> (only one reading holds the point and the other agent verified it on the page image) <code>| one-sided</code> (held by one reading, not verified by anyone) <code>| pending-review | confirmed | audited</code> (from 2026-10-30, roadmap 4c: two student reviewers answered <code>ok</code> on the point in <code>qa/audits.csv</code>, the pair outcome <code>confirmed</code> of <code>tools/ingest_review.py</code>; <code>audited</code> when the two readings had agreed on the point, <code>confirmed</code> when it rested on a rule, a re-read or one reading; the status the readings gave it is kept in the note after <code>audit:</code>; any other pair outcome is noted and changes nothing; a verdict on a reading a decision has since replaced at that sample is noted as superseded and not applied; <code>tools/build_observations.py --audits</code>); <code>source</code> names the reading whose value is kept (<code>&lt;reader&gt;-interp</code>: a value interpolated on that reader’s trace at the displacement of the canonical sample numbered <code>sequence</code>, where a decision kept the other trace). Points of both readings can be in one series (a marker or a curve end only the non-canonical reader recorded), so rows keep the order of the canonical file within a panel and series, which is drawing order. The per-point decisions of a batch live in <code>qa/&lt;batch&gt;/decisions-&lt;figure&gt;-p&lt;n&gt;.csv</code> (the pilot’s were renamed to this pattern on 2026-10-14; columns panel, series_id, point_kind, sequence, source, status, use, note; no <code>source</code> means the canonical reading); <code>use</code> names the reading whose value replaces the canonical one (<code>span</code> instead keeps the value and widens its read bounds to take in the other reading’s value and bound, for a point neither reading could be shown right on, or a peak whose time is a locator on a flat top; 2026-10-27, D-030; the widened bound is rounded up, from 2026-11-19), and a row with status <code>excluded</code> drops the point (for example an interpolation across a visible gap in the drawn line, which is an estimate and not a reading). The decision note is appended to the point’s <code>note</code> after <code>| decision:</code>. Decisions from a blind adjudication are written by its apply script from the round’s answers and key; for a run answered <code>some</code>, the off-line samples come from the round’s <code>off-lists.csv</code> (columns item, adjudicator, sample_px, verdict off|on|unclear: the comment transcribed sample by sample by two independent readers, diffed), never from the comment text; an <code>unclear</code> sample stays undecided (D-039).</li>
+<li><code>series.json</code>: the figure and panel the points came from, each panel’s quantities with native and SI units and the conversion factor used, both readings’ calibration residuals and anchor counts and, for piecewise maps, <code>map</code> (the lines used with their location errors, the lines not on the ink, the number of recovered lines), point counts by status and kind, the batch, the reading-rules version and the canonical-selection rule. Written per batch by <code>tools/build_batch_records.py &lt;batch&gt;</code>.</li>
+<li><code>runs.csv</code> and <code>runs.json</code> (records of kind <code>run-table</code>, written by <code>tools/build_run_table.py &lt;batch&gt;</code> from the cells two transcriptions agreed on, <code>qa/&lt;batch&gt;/agreed.csv</code> of <code>tools/diff_tables.py</code>): one row per printed run, <code>experiment_id, run_number</code>, every printed column in SI (<code>D_m, d_m, VH_m_s, gp_bar_m_s2, Dr, unit_weight_N_m3, FD_N, FV_N, alpha_deg</code>, the derived <code>FD_over_d_gamma_Aft</code> and <code>VH_over_sqrt_dg</code> as printed, <code>FD_over_Aft_Pa</code>, <code>FV_over_Apt_Pa</code>, <code>bulk_density_kg_m3</code>) and as printed (<code>D_in, d_in, VH_fps, gp_bar, gamma_pcf, FD_lb, FV_lb, FD_over_Aft, FV_over_Apt</code>, named by their printed unit, an exception to the <code>*_native</code> names of <code>observations.csv</code>; a column kept as printed is not repeated), <code>status</code> (<code>agreed</code>; <code>pending-review</code> where a cell has no agreed value or an unreadable digit, kept as <code>?</code> in the printed column with its SI cell empty), <code>check</code>: the row’s results outside the printed rounding and the heuristic area flags of the arithmetic check of the derived columns (<code>tools/check_drag_table.py</code>, <code>qa/&lt;batch&gt;/arithmetic.md</code>), and <code>audit</code> (from 2026-11-21): the run’s cells the student reviewers checked, in printed order, as <code>&lt;printed column&gt; &lt;pair outcome&gt; by &lt;reviewer&gt; (&lt;chunk&gt;)</code>, empty until a cell of the run is audited; the run’s <code>status</code> stays as the transcriptions left it, since a sample checks a few of its cells. <code>runs.json</code> <code>audit</code> counts the record’s cells, the cells sampled and the cells two reviewers confirmed. A transcribed number carries the precision of its printing (half a unit of its last digit), not a reading bound; the diameters D and depths d are nominal set points, taken as exact. <code>d</code> is measured from the soil surface to the bottom of the pad at zero pitch (Fig. 4-4), held by locking the loading piston; whether the pad’s pivot was free or clamped is not stated per run. The units of the two pressure columns are not printed (psi is inferred). <code>runs.json</code> names the figure, the method, the columns with their units and factors, the definitions of the derived columns as printed, and the arithmetic check’s summary (the common factor between the two pressure columns, the runs flagged). These are the columns of the drag tables (<code>--family drag</code>, the default). Table 5-T3 (<code>--family mdrop --soil-family &lt;RS|SS&gt;</code>, from 2026-11-20) has its own: <code>experiment_id, run_number</code> (the printed NASA Test No.), <code>bendix_drop_no</code>, <code>same_test_as</code> (the record of the same drop’s time histories, a <code>single</code> mdrop row labeled with that NASA Test No., or empty), in SI <code>VV_m_s, Vh_m_s</code> (touchdown velocities, sign as printed), <code>tau_s</code> (time from model release to touchdown), <code>Dr</code>, <code>unit_weight_N_m3</code>, <code>phi_deg</code>, <code>bulk_density_kg_m3</code>, then <code>soil_printed</code> and the printed <code>VV_in_s, Vh_in_s, gamma_pcf</code>, <code>status</code>, <code>check</code> and <code>audit</code>. A column kept as printed (<code>tau_s</code>, <code>Dr</code>, <code>phi_deg</code>) keeps the printed digits, a leading decimal point included (<code>.298</code>), and a <code>?</code> the readers could not read. A row without an agreed Soil stops the build rather than fall out of both family records.</li>
+<li>A record from several figures (from 2026-11-19, D-050: the vertical impact runs, whose force and displacement against time are Fig. 4-19 and whose force against displacement is Fig. 4-20) numbers its panels across the figures: <code>panel</code> in <code>observations.csv</code> is the record’s panel, given per figure panel by the <code>record_panel</code> column of <code>qa/&lt;batch&gt;/panel-map.csv</code>. Its <code>series.json</code> adds <code>figures</code> (the list; <code>figure_id</code> is the first), and each panel entry gives its <code>figure_id</code> and <code>figure_panel</code> (the panel number on the printed figure, which audit objects and <code>qa/&lt;batch&gt;/</code> files use); the calibrations are keyed by figure and panel (<code>F4-20/cal-p1</code>). A record’s figures are read in one batch. A one-figure record whose panel is renumbered names its figure and figure panel the same way (each dynamic penetrometer record of Fig. 2-54 is its own panel 1, from the figure’s panel 1, 2 or 3). A panel entry may carry <code>relation</code> (a panel that re-plots another: Fig. 4-20 is derived from Fig. 4-19) and <code>note</code> (what a user of the panel’s values must know, such as a misprinted axis label), both from the panel map. A note may hold several sentences, one per line (from batch curves-s5-b1); the record page joins the notes of all panels and gives a sentence that several panels share once.</li>
+<li><code>series.json</code> <code>breaks</code> (from 2026-11-19, only on records that have one): a drawn line’s explicit breaks, where the scan has no ink and both readers stopped (the dropout on Fig. 4-20), each with the record <code>panel</code>, <code>series_id</code>, the line samples <code>after</code> and <code>before</code> it (<code>source</code>, <code>sequence</code>) and the <code>reason</code>. Written from the hand-made <code>qa/&lt;batch&gt;/breaks.csv</code> (figure_id, figure panel, series_id, after and before as <code>source|sequence</code>, reason; both must be consecutive trace samples of the series in drawing order; optional <code>gap_u1</code>, <code>gap_v1</code>, <code>gap_u2</code>, <code>gap_v2</code>, from batch curves-s5-b1: the two ends of the gap, measured on the page in pixels). The plots do not draw the line across a break, and the record page names it (the reason up to its first semicolon; what follows, such as who found the break, stays on the review page). The comparison does not interpolate the other (non-canonical) reading across a break either (from 2026-11-19: <code>tools/reconcile_curves.py</code> maps the gap’s ends on each reading’s own calibration and passes the spans to <code>tools/diff_curves.py --break-a</code>, <code>--break-b</code>, or, for a break without pixels, the span between the two samples named, <code>--break</code>): a sample beside a break is compared directly with the other reading’s nearest sample on an intact stretch, within both bounds, as at the end of a trace, never through the break. Rows of <code>observations.csv</code> are in drawing order within a series; <code>sequence</code> is each reading’s own numbering, not an order. Two rows in drawing order may share an x value (two samples read at one time on a steep flank), so x is not strictly increasing.</li>
+</ul>
+<p>Re-derivation and calibration files of a curve batch (D-025), written by <code>tools/reconcile_curves.py &lt;batch&gt;</code> from the submissions, never edited: <code>qa/&lt;batch&gt;/rederived/&lt;reader&gt;/&lt;figure&gt;/points-p&lt;n&gt;-native.csv</code> (the reader’s pixels on its piecewise map, with <code>cal_model</code>) and <code>cal-p&lt;n&gt;/</code> (<code>calibration.json</code> as submitted, <code>anchors.csv</code> with any recovered line, <code>knots.json</code>: per axis the lines used, their tilt, location error and distances from the ink, and the lines rejected with the reason); <code>qa/&lt;batch&gt;/calibration-sensitivity.md</code> (affine against piecewise values per canonical series); <code>qa/&lt;batch&gt;/canonical-&lt;figure&gt;-p&lt;n&gt;.csv</code> and <code>qa/&lt;batch&gt;/canonical.csv</code> (the canonical points: each point’s own columns, then <code>status</code>, <code>source</code>, <code>other_x_native</code>, <code>other_y_native</code>, <code>decision_note</code>, <code>other_pixel_u</code>, <code>other_pixel_v</code>; the last two, added 2026-11-18, give the other reading’s place on the page, which audit packets draw). Inputs written by hand: <code>qa/&lt;batch&gt;/ink-checks.csv</code> (written by <code>tools/check_trace_ink.py</code>, D-031; columns figure_id, panel, reader, series_id, point_kind, sequence, pixel_u, pixel_v, verdict <code>eligible | excluded | review</code>, line_ink_px, symbol, reason, image_sha, params) is read by <code>tools/reconcile_curves.py</code> by default since 2026-10-30 (D-032): an <code>excluded</code> sample of either reading leaves the comparison as a hand exclusion would, its note starts with <code>D-031 ink check</code>, and the diff report lists every hand decision it overrides; <code>review</code> samples stay. Inputs written by hand: <code>qa/&lt;batch&gt;/overlays.csv</code> (optional <code>cal_a</code>, <code>cal_b</code>: a reading’s calibration directory when it is not <code>cal-p&lt;n&gt;</code> next to its points file) and <code>qa/&lt;batch&gt;/knots.csv</code> (figure_id, panel, reader, x_value, y_value, u, v, x_source, y_source, note: a line a reader left out, measured on the page), and <code>qa/&lt;batch&gt;/feature-roles.csv</code> (figure_id, panel, reader, series_id, sequence, submitted_role, role, reason; from batch curves-s5-b1, 2026-11-19): a feature whose note names its role by another convention than the batch’s (there: a compression panel’s peaks and minima named by the curve as drawn instead of the signed value). <code>tools/reconcile_curves.py</code> checks every row against the submissions before writing anything (known figure, panel and reader; <code>role</code> and <code>submitted_role</code> two different words of <code>knee, minimum</code>, <code>knee</code>, <code>peak</code>, <code>first</code>, <code>last</code>; one row per feature; the submitted note opening with exactly <code>submitted_role</code>) and stops on any failure; it then writes the rederived note as <code>&lt;role&gt; (role renamed by qa/&lt;batch&gt;/feature-roles.csv; submitted note: &lt;the note verbatim&gt;)</code>, so that the two readings pair by role. The submission is not touched. <code>qa/&lt;batch&gt;/panel-map.csv</code> may carry a <code>figure_id</code> column when a batch’s figures differ in units. A calibration of a log or reciprocal axis (D-027) records <code>x_transform</code> or <code>y_transform</code> (<code>log10</code>, <code>reciprocal</code>; absent means linear) in <code>calibration.json</code> and <code>knots.json</code>; its anchors keep the printed values, while <code>ax</code>, <code>ay</code>, the residuals and <code>x_per_px</code>, <code>y_per_px</code> are in the plotting coordinate q = T(value). Points are always written in the printed unit; a read bound on such an axis is the larger half of the interval mapped back from q (the tools count the values whose two halves differ by more than 10 percent), and the SI conversion applies to the value, never to q.</p>
+</section>
+<section id="figures-index-corpussourcefigures.csv" class="level2">
+<h2 class="anchored" data-anchor-id="figures-index-corpussourcefigures.csv">Figures index (<code>corpus/&lt;source&gt;/figures.csv</code>)</h2>
+<p>One row per figure or table, built by <code>tools/build_figures.py</code> from two blind inventories and a resolutions file (<code>qa/&lt;batch&gt;/resolutions.csv</code>: id, column, value, status, note). Columns: <code>id, kind, title_as_printed, printed_page, pdf_page, test_type, soils, states, apparatus, rate_or_dynamics, data_form, panels, curves, trace_classes, x_quantity, x_unit, x_unit_as_printed, x_axis_type, y_quantity, y_unit, y_unit_as_printed, y_axis_type, legend_entries, rotation, in_scope, transcribe, priority, mcc_relevant, status, notes_claude, notes_codex</code>.</p>
+<p>Ids are <code>F&lt;section&gt;-&lt;n&gt;</code> and <code>T&lt;section&gt;-&lt;n&gt;</code> in Volume I. In Volume II (<code>corpus/1968-vol2/</code>) numbered figures keep the printed number with the appendix letter, <code>FA-12</code>, <code>FC-1B</code>, and <code>FB-3</code> for the figures numbered 1 to 8 inside the reproduced IITRI report of Appendix B; unnumbered tables are identified by page locator <code>TA-pNNN</code>, NNN the PDF page where the table starts (the chemical analyses and normative mineral tables of the soil specifications). When the two submissions used different id schemes, <code>qa/&lt;batch&gt;/id-aliases.json</code> maps the first submission’s ids to the canonical ones before the diff; the sidecar records the map.</p>
+<p>Volume II adds three columns after <code>pdf_page</code> and before <code>status</code>: <code>appendix</code> (A, B, C) and <code>relation</code>, <code>relation_target</code> with vocabulary <code>same-as | derived-from | reproduces | unresolved | none</code> (a reproduction is the same content printed again, as the four figures repeated under each soil of a material; derived-from points at the figure or table the data came from, across volumes: F2-14, F2-17, F2-23 and Table 2-3 of Volume I derive from Appendix A and B figures; unresolved is a plausible but unconfirmed link). One agent’s <code>none</code> yields to the other’s stated relation (absence is not a reading), status <code>vocabulary-resolved</code>.</p>
+<p>Volume I Sections III to V (batch <code>inventory-s3s5-b1</code>, 2026-11-19, D-050: Section III, Section IV to Fig. 4-22, Section V to Fig. 5-39) are appended to <code>corpus/1968/figures.csv</code> after the Section II rows. They add <code>section</code> (III, IV, V) after <code>pdf_page</code>, and <code>relation</code>, <code>relation_target</code> as in Volume II; the Section II rows leave all three empty. A printed item continued over several scanned pages has one row per page, the first keeping the printed id and the others <code>-pNNN</code> (<code>T5-2-p309</code>, the continuation of Table 5-T2; <code>F5-2-p285</code>, the second frame of a foldout); an alias of the form <code>&lt;id&gt;@&lt;pdf_page&gt;</code> in <code>qa/&lt;batch&gt;/id-aliases.json</code> maps a submission that repeated an id on several pages. <code>TABLE 5-T2</code> is <code>T5-2</code>.</p>
+<p>The rest of Section V and Section VI (batch <code>inventory-s6-b1</code>, 2026-11-20, D-050: Figs. 5-40 to 5-47 and 6-1 to 6-27, PDF 345 to 440) are appended after them, <code>section</code> V or VI. Section VI prints its four tables as numbered figures (Figs. 6-4, 6-6, 6-8, 6-10: kind <code>figure</code>, data_form <code>table</code>). Each of the eight detail correlation drops (NASA Drop No.&nbsp;1 to 8) has a four-sheet figure of measured histories with the report’s computed curves (Figs. 6-11 and 6-13 to 6-19) and a four-sheet figure of computed curves alone at a higher strut damping (Figs. 6-12 and 6-20 to 6-26), one row per sheet. A history sheet is <code>same-as</code> Fig. 6-10, the table of the eight drops (its drop’s NASA and Bendix numbers are in the row’s notes), and, for NASA Drops 1 and 2, the Section V figures of the same channels: <code>same-as</code> here means the same test and channel, not the same trace, since the two printings have not been compared and can differ. The computed-only sheets are <code>derived-from</code> Fig. 6-10 and <code>in_scope</code> no; Figs. 6-4, 6-6 and 6-8 reprint rows of Table 5-T2 and are <code>reproduces</code>, <code>in_scope</code> no. <code>qa/inventory-s6-b1/corrections.csv</code> changes cells both readers agreed on, each with its page evidence, as Volume II’s does. The brief of this batch asked for the controlled unit codes, so <code>*_unit_as_printed</code> is empty on its rows (<code>--unit-codes</code>; the printed form is in the notes); in any batch a code with an underscore (<code>in_s</code>) is never taken for a printed spelling. A row a correction changed has the status <code>resolved</code>.</p>
+<p>Vocabularies: <code>axis_type</code> in <code>linear | log | normalized | reciprocal | n/a</code> (normalized: a dimensionless quantity on a linear scale; reciprocal: the 1/gamma scale of the unit weight charts); <code>unit</code> in <code>inch | lb | psf | psi | pcf | g | s | mm | percent | deg | ksi | none | n/a</code>, with <code>ms | ft_s | in_s | in_s2 | deg_s | ustrain</code> since Sections III to V (milliseconds, feet and inches per second, inches per second squared, degrees per second, microinches per inch) and <code>deg_s2</code> since Section VI (degrees per second squared, the vehicle pitch acceleration), with the printed spelling kept in <code>*_as_printed</code> (an axis multiplier such as “x 10^-3”, “(x 10^1)” or a leading “1,000” belongs to the quantity and is stripped before the unit is normalized); <code>test_type</code> in <code>grain size | density | bed preparation | direct shear | triaxial | load penetration | dynamic penetrometer | drag | impact | model drop | sonic | soil model | soil properties | apparatus | other</code> (<code>model drop</code>: the 1/6-scale LM model landings of Section V); <code>data_form</code> in <code>table | curve | schematic | photo | text | mixed</code>; <code>trace_classes</code> from <code>measurement-markers | recorded-trace | author-fit | computed | schematic | setup-evidence</code>.</p>
+<p>Three columns carry judgment and follow fixed rules (decided 2026-10-07):</p>
+<ul>
+<li><code>in_scope</code> (<code>yes | maybe | no</code>): the item carries numbers to extract into <code>data/</code>. <code>transcribe</code> is <code>yes</code> for every page of a section in the transcription scope, so photographs and conceptual charts reach the corpus without being “in scope” for extraction.</li>
+<li><code>priority</code>: 1 = needed for the first calibration and prediction protocols (shear family, LPT records with known bed state, DPT signatures and correlation, materials tables); 2 = needed to set up or interpret those tests (bed preparation, boundary and bin effects, rate series, degradation); 3 = context only.</li>
+<li><code>mcc_relevant</code> (<code>yes | maybe | no</code>): yes only when the figure shows the same material after different loading or handling histories with a different response, plus the state maps needed to read those figures; the column answers one question, whether any test demands a history-dependent model.</li>
+</ul>
+<p>Conventions fixed in the Volume II batch (2026-10-07) and applied from then on: a photograph has 0 panels and 0 curves and priority 3; a plot with an inset table of numbers or printed fit parameters is <code>mixed</code>, a data sheet whose legend lists the test identities is <code>curve</code>; a figure or table that reproduces another is <code>in_scope</code> no and priority 3 (the first printing holds the numbers; the page is still transcribed); a chemical analysis is priority 2 (material identity, not a simulation input); a normative mineral analysis of a reference rock is not soil data (<code>in_scope</code> no, priority 3); a per-soil summary curve derived from primary figures is priority 2 when the primaries are 1; a computed curve is <code>in_scope</code> no.</p>
+<p>Curve-count convention: every drawn line is a trace, including each boundary of a shaded or bracketed range; markers and the fitted line through them are one response series (range bars on a marker are part of the marker); construction guides are not counted. Row <code>status</code>: <code>agreed</code> (every reconciled cell agreed), <code>resolved</code> (some cells settled by a vocabulary rule, a page re-read, a convention or a scope rule, each recorded in the sidecar), <code>provisional</code> (a count or grade to be re-done at extraction or decided by Dan), <code>pending-review</code>, and <code>one-sided-verified</code> for a row that only one submission listed and that entered through <code>qa/&lt;batch&gt;/row-decisions.csv</code> (id, decision, status, note saying how the row was verified against the page image). The sidecar <code>figures.json</code> lists the rules, per-cell statuses with their notes, and the other agent’s text for every descriptive cell that differs.</p>
+<p>Known source quirks recorded here because the index is where an agent will meet them: “SS” in a soil designation is silica sand, but “SS Drag Tests” (Figure 2-60) and the test numbers “SSD” mean subscale drag; LPT 27 is captioned RS Dense in Figure 2-29 and RS Intermediate in Figure 2-43; the ordinate of Figure 2-34 is printed “Lbs. x 100” although the ticks and the printed slope are in pounds; Table 1-1 prints soil 4 at 50.5 pcf where Table 2-3 prints 50.6.</p>
+<p>Volume II quirks: the Appendix C computer plots are bound out of order (PDF 147 = C-35, 148 = C-34, 149 = C-33) and Appendix B keeps the IITRI report’s own page numbers, both handled by <code>corpus/1968-vol2/page-map-corrections.csv</code>; Figure A-45, captioned “Photomicrograph RSM Soil” under soil 12 (RSM-b), is the same photograph as A-17 (RSM-a); the Volcalite chemical analysis is printed seven times with two different typesetting slips (A-72 drops the MgO line and prints 5.58 against CaO; A-81 prints MgO 1.61 and drops Na2O) and the clay analysis twice with iron oxide 1.1 (A-72) against 1.2 (A-81); the computer-fitted envelopes print “Angle of Friction”, “Tan Theta” and “Cohesion” with axes in tens of psf; Figure C-7A to C-7C (RSM-b) are in psi from a different apparatus; the SS series at Dr .30, .48 and .77 in C-5A and C-20 are credited to Bendix report MM-65-2 (as printed on C-15), not to this study; the sonic moduli of soils 5, 10 and 12 in Table 2-3 are estimates, not measurements (A-41, A-79, A-93); the text gives phi for soil 11 as about 38.3 and for soil 12 as about 37 degrees (A-84, A-93) where Table 2-3 prints 42 and 48; soil 12 was rolled “10 passes per two inch layer” (A-93) where Volume I printed 2-113 says twenty-four rolls.</p>
+</section>
+<section id="reading-bounds-and-agreement" class="level2">
+<h2 class="anchored" data-anchor-id="reading-bounds-and-agreement">Reading bounds and agreement</h2>
+<p>A reading bound is a half-width in native units built from: half the visible marker or trace width; the axis-calibration residual; placement repeatability; extra ambiguity from overlap, damage or uncertain centering. Bounds are bounds, not standard deviations. Two agents agree on a matched point when |xA - xB| &lt;= bxA + bxB and |yA - yB| &lt;= byA + byB (in log coordinates on log axes; on steep curves the x bound is propagated into y). Printed numbers (tables) must agree exactly after typography normalization. Agreed objects take <code>status=agreed</code>; disagreements go to review and come back <code>confirmed</code> or <code>interval</code>; a stratified 5 to 10 percent of agreed objects is audited and marked <code>audited</code>. Readings are never averaged; the canonical trace is the one named by the rule recorded in <code>series.json</code>.</p>
+<section id="reviewer-audits-qaaudits.csv-and-qaaudits" class="level3">
+<h3 class="anchored" data-anchor-id="reviewer-audits-qaaudits.csv-and-qaaudits">Reviewer audits (<code>qa/audits.csv</code> and <code>qa/audits/</code>)</h3>
+<p><code>qa/audits.csv</code> holds one row per reviewer and point actually checked by a person: <code>batch</code>, <code>object</code> (<code>&lt;figure_id&gt;/&lt;panel&gt;/&lt;series_id&gt;/&lt;point_kind&gt;/&lt;source&gt;/&lt;sequence&gt;</code>: <code>sequence</code> numbers the points of the reading named in <code>source</code>, so an audit stays with its point when a re-reconciliation changes the canonical reading), <code>column</code> (<code>position</code> for a curve sample or compare row, <code>position+identity</code> for a symbol, <code>position</code> for a symbol whose identity answer is listed in <code>qa/audits/voided.csv</code> for that chunk, <code>position+value</code> for a cell of a transcribed table, whose object is <code>&lt;table&gt;/1/&lt;column&gt;/cell/agreed/&lt;row key&gt;</code>, since 2026-11-21, D-050), <code>auditor</code> (initials), <code>date</code>, <code>outcome</code> (<code>ok | problem | cannot tell | unreadable</code>), <code>note</code> (starts with the chunk and the reviewer’s letter, <code>chunk W1-07 (R1-D)</code>, then the reviewer’s comment). The file is append-only and never holds the same object and auditor twice; a point’s pair outcome (confirmed, flagged, split for ok against problem, cannot-tell, a mix such as <code>ok + cannot tell</code> where the definite answers agree, single) is computed from all its rows when a report is made, never stored (<code>tools/ingest_review.py</code>, <code>pair_outcome</code>).</p>
+<p>The audit in brief. Each wave samples points of figures already read: every compare row (up to a cap), every resolved or unverified one-sided point, some verified one-sided points, and agreed points in a number that grows with the square root of the figure’s point count. The sample is cut into chunks of about 60 rows, and each chunk is checked against the scan by two reviewers, or by one in a second-review chunk that completes an earlier chunk; the first audit of the grain-size curves and of the newest test families has one reviewer per chunk, their second reviews following in a later release (D-050). Every chunk also carries seeded attention checks whose answers are known; a return that misses one is not recorded unless the maintainers accept it, and one they decline is never recorded, its points going to another reviewer. An answer a reviewer could not give fairly (for example on a figure the packet showed upside down) is voided in <code>qa/audits/voided.csv</code> and asked again. A point two reviewers answered ok becomes <code>audited</code> or <code>confirmed</code>; every other outcome is noted on the point. The blind adjudication on the scan (D-023) takes every point with two or more reviews that is not confirmed, and every point a single reviewer marked as a problem; a point with one review that is not a problem waits for its second review. The program’s manual (<code>docs/audit/README.md</code>), its packet tool and its answer keys stay out of the public release while the audit runs. In the maintainers’ repository the files under <code>qa/audits/</code> and their columns are listed in that manual, among them the reviewer’s <code>left</code> date in <code>reviewers.csv</code>, the <code>repeats</code> column of <code>assignments.csv</code> (a second-review chunk, one reviewer, D-037) and the controls vocabulary of <code>returns-log.csv</code> (<code>passed | accepted | missed | declined</code>). <code>qa/&lt;batch&gt;/audit-meta.json</code> carries, per figure, the series labels and symbols, panel names and axis types, rotation, the legend hint and the notes a reviewer sees in <code>about-the-figures.txt</code>; it is drafted by the packet tool from the batch’s maps and the figures index and then edited by hand. A table batch (one with <code>agreed.csv</code> and no <code>canonical.csv</code>) has a hand-written <code>audit-meta.json</code> (kind <code>table</code>: the page image, its rotation, the key column, every printed column with its heading, aliases by which the readers’ notes name a column, and the arithmetic checks and verdicts that flag a column, <code>check_columns</code> and <code>flag_verdicts</code>) and <code>qa/&lt;batch&gt;/cell-layout.csv</code>, written by <code>tools/locate_table_cells.py</code>: one row per box (<code>figure_id</code>, <code>key</code>, <code>column</code>, <code>role</code> cell, key or header, <code>x0 y0 x1 y1</code> in the upright, straightened frame, <code>u v</code> the center on the scan, <code>bu bv</code> half its size there, <code>deskew_deg</code>), so a packet can show a reviewer the cell, its row key and its column heading.</p>
+</section>
+<section id="typography-rule-for-text-cells" class="level3">
+<h3 class="anchored" data-anchor-id="typography-rule-for-text-cells">Typography rule for text cells</h3>
+<p>When two readings of a text cell differ only by a hyphen or a space at a printed line break (for example “Wedron 4040 narrowly graded” against “Wedron 4040-narrowly graded”), the canonical text keeps the printed hyphen and drops the wrap space, the cell is marked <code>typography-resolved</code>, and it is included in the audit sample so a person confirms the rule did the right thing. Any other text difference is a disagreement for review.</p>
+</section>
+<section id="cell-and-row-status-vocabulary" class="level3">
+<h3 class="anchored" data-anchor-id="cell-and-row-status-vocabulary">Cell and row status vocabulary</h3>
+<p>Cell statuses, recorded in the sidecar: <code>agreed</code> (identical after typography normalization), <code>typography-resolved</code> (rule above), <code>uncertain</code> (identical readings, but both agents flagged the glyph; goes to review), <code>pending-review</code> (readings differ; the cell is left empty in <code>data/</code>), <code>confirmed</code> (a person settled it against the scan), <code>interval</code> (the scan does not support one value; bounds given). Row status: <code>agreed</code> when every cell is agreed; <code>resolved-with-notes</code> when some cells are typography-resolved or uncertain; <code>partial</code> when any cell is pending review.</p>
+</section>
+</section>
+<section id="corpus-pages-corpussourcepagespnnnn.md" class="level2">
+<h2 class="anchored" data-anchor-id="corpus-pages-corpussourcepagespnnnn.md">Corpus pages (<code>corpus/&lt;source&gt;/pages/pNNNN.md</code>)</h2>
+<p>Transcribed under <code>docs/PAGE-TRANSCRIPTION.md</code>: two agents type the page from its 300 dpi image, <code>tools/diff_pages.py</code> compares the two, differences are settled by a page re-read recorded in <code>qa/&lt;batch&gt;/decisions.csv</code> (page, diff_id, use, note), and the canonical page is written from the first submission with the decisions applied. The header carries <code>review_status</code> (<code>agreed</code>, <code>resolved</code>, <code>pending</code>), both <code>transcribers</code>, the <code>batch</code> and the number of <code>differences</code>.</p>
+<p>YAML header: <code>source, pdf_page, printed_label, section, figures, tables, rotation, review_status (agreed | confirmed | pending), image</code>. Body: the page text as Markdown with LaTeX math; tables as Markdown tables; per figure a block with <code>caption</code>, <code>axes</code> (label and unit verbatim per axis), <code>legend</code>, <code>description</code>. Curve values are never in page files.</p>
+<section id="corpus-indexes-corpussourcecontentsequationssymbolsglossary.csv" class="level3">
+<h3 class="anchored" data-anchor-id="corpus-indexes-corpussourcecontentsequationssymbolsglossary.csv">Corpus indexes (<code>corpus/&lt;source&gt;/{contents,equations,symbols,glossary}.csv</code>)</h3>
+<p>Built from the page files by <code>tools/build_indexes.py</code> (deterministic; <code>--check</code> compares a fresh build with the committed files). Every row carries <code>source</code>, <code>pdf_page</code>, <code>printed_page</code> and the page’s <code>review_status</code>, so a row is as trustworthy as the page it came from.</p>
+<ul>
+<li><code>contents.csv</code>: <code>section, title, level</code> per printed heading (section numbers as printed; an unnumbered appendix title carries its letter). Inside an appendix, a section lettered on the page is prefixed with the appendix letter (<code>B/C</code> is section C, RESULTS, of the IITRI report reproduced as Appendix B, not Appendix C), and each Appendix A soil sheet is <code>A/soil n</code>. A page with no printed number has <code>printed_page</code> empty (the cover and title pages of the IITRI report); <code>unknown</code> is not used, because the absence is known.</li>
+<li><code>equations.csv</code>: <code>number, latex, context</code> per display equation; <code>number</code> is the printed number beside it or empty; <code>context</code> is the end of the sentence that introduces it. Printed duplicates stay (Vol. I Section II numbers two different equations 3-1, printed 2-40 and 2-60).</li>
+<li><code>symbols.csv</code>: <code>symbol, meaning, units, equation</code> per entry of a printed “where” list (<code>X = meaning</code>, or <code>X is the meaning</code> as in Appendix B); <code>equation</code> is the numbered equation the list follows, when there is one.</li>
+<li><code>glossary.csv</code>: <code>term, definition</code> from the report’s own list of abbreviations (Vol. I 2.1.1); a definition printed without its term keeps <code>term</code> empty (the “Dense” entry on printed 2-2).</li>
+</ul>
+</section>
+</section>
+<section id="insights-insights" class="level2">
+<h2 class="anchored" data-anchor-id="insights-insights">Insights (<code>insights/</code>)</h2>
+<p>One Markdown file per theme (for example <code>soil-selection.md</code>, <code>bed-preparation.md</code>, <code>dpt-as-density-proxy.md</code>). Each paragraph ends with its citation in the form above. These capture judgment and recommendations, not numbers.</p>
+</section>
+<section id="site-site" class="level2">
+<h2 class="anchored" data-anchor-id="site-site">Site (<code>site/</code>)</h2>
+<p>A Quarto website generated from the repository by <code>tools/build_site.py</code> (decided 2026-10-07, D-012 to D-014 in <code>docs/decisions.csv</code>). Rules:</p>
+<ol type="1">
+<li><p>Every page is a generated view; no fact is typed into a page. Each page ends with a note naming its inputs and the regeneration command. The generated <code>.qmd</code> files are committed so that a change in what the site says appears in <code>git diff</code> beside the data change that caused it.</p></li>
+<li><p>The generator is deterministic (sorted keys, fixed formatting, LF, UTF-8) and writes nothing time- or commit-dependent into a page body. <code>python tools/build_site.py --check</code> regenerates into a temporary directory and compares byte for byte with <code>site/</code>; any difference, or any <code>.qmd</code> under <code>site/</code> the script did not write, fails. Hand edits cannot survive a build.</p></li>
+<li><p><code>tools/render_site.py</code> regenerates, writes the render-time footer (<code>site/_footer.html</code>: repository revision, dirty flag, render date) and the recent-changes list (<code>site/_changes.md</code> from <code>git log</code>), both ignored by git, then runs <code>quarto render site</code> (or <code>--preview</code>). <code>site/_site/</code> and <code>site/.quarto/</code> are build outputs and are not tracked. Do not leave <code>--preview</code> running while <code>build_site.py</code> rewrites the sources: on 2026-11-19 it rendered changed pages beside their sources (193 stray files under <code>site/</code>); to look at the site, render and serve <code>site/_site/</code> as static files.</p>
+<p>After every change that affects pages, the rendered pages are visited before the work is called done (2026-11-19, Dan): <code>python tools/check_site_layout.py --shots</code> loads every page in headless Edge at 1280 px and 390 px and reports any table that crosses the “On this page” column, reaches past the text column, is wider than the column without a scrolling box, or squeezes a cell to six lines or more; it exits 1 on any of these, and its screenshots of one page of each kind (<code>work/site-check/shots/</code>) are looked at by eye. Every table goes in a box that scrolls sideways (<code>site/table-wrap.lua</code>, a Pandoc filter, so the pages copied from <code>docs/</code> are covered too; Quarto’s listing tables scroll by <code>site/site.css</code>), and the same filter sets each table’s column widths from its content, the same in every browser (from 2026-11-20, on Dan’s look at the Materials page: left to the browser, a short column could be as wide as a text column and the last column squeezed): a column’s share is its preferred width in characters (its longest cell, capped at 28 so long text wraps, never less than its longest unbreakable piece), and the table is as wide as the text column, or wider, scrolling in its box, when the columns do not fit side by side at their least widths (the longest unbreakable piece; on a phone also 20 characters for a column of longer text, so it scrolls rather than wrapping a text column to a word per line). Pandoc’s equal widths from the dashes of a pipe table stay off (<code>tbl-colwidths: false</code>); the virtual experiment card keeps its own widths. A long code with no spaces gets line-break opportunities after <code>_</code>, <code>;</code> and <code>,</code> (<code>table()</code> in <code>tools/build_site.py</code>).</p></li>
+<li><p>Every factual display carries its provenance and a status; missing values are written as <code>not reported</code>, <code>not yet extracted</code>, <code>unreadable</code>, <code>conflicting evidence</code> or <code>not applicable</code>, never as a blank or a zero; counts that measure different things (indexed records, single tests, complete setups, extracted series, recorded audits) are shown separately.</p></li>
+<li><p>Record pages are written for a user of the data and carry only what that user needs: a descriptive title, a one-paragraph summary, one note on trust and completeness, the data (plot in SI units with the other tests of the figure in gray, downloads, a reading-bounds line, a link to the scan check on the figures page), the reproduce table (value, as printed, where; fields per test type; persistent ambiguities stated and labeled as our observation), the family, the source pages and the citation. From 2026-11-20 (Dan): the line says “reading bounds” (our reading of the figure, not the test’s uncertainty), a dimensionless value is written without a unit (a percent stored as a fraction in percent), and gravity is the report’s value for Earth, 32.2 ft/s^2 (9.81456 m/s^2; glossary, printed 2-2, PDF 27; until 2026-11-20 the pages said, wrongly, that the report does not state it). From 2026-11-21 (Dan): every record plot is drawn as the pilot’s was (<code>tools/figures/plot_observations.py --readable</code>): values with an SI prefix that keeps the tick labels short (mm, kPa, MPa for a modulus, kN/m^3), a long axis title wrapped onto two lines, the title in words, and no caption baked into the image, since the page’s caption says what the markers and error bars mean. Everything written for the maintainers (index-row reconciliation, point status counts, calibration residuals, the agents’ notes, audit status) is on the record’s provenance page <code>review/&lt;record&gt;.qmd</code>, linked from the record page (D-019, 2026-10-08).</p></li>
+<li><p><code>docs/decisions.csv</code> (id, date, question, options, decision, who, note) is the decision log; an empty <code>decision</code> means the question is open. Ids are stable (<code>D-001</code>, …). The public release carries a curated log under the same ids, with the columns id, date, question, options and decision (D-052): <code>docs/decisions-public.csv</code> (id, publish, question, options, decision) holds one row per decision, <code>publish</code> either <code>as-is</code> (the other fields empty) or <code>edited</code>, and for an edited one every field given: its public text, or <code>=</code> to keep the original; <code>tools/make_public_release.py</code> builds the log from it and refuses a decision with no row, a doubled id, a row of the wrong width, or an edited row with an empty field. Edited decisions leave out the people and the logistics of the review.</p></li>
+<li><p>Reader-facing pages (plan v3 Part A, approved 2026-11-05) are written for people at the level of a junior mechanical engineering undergraduate: impersonal and timeless wording, no internal words. Every code (soil, test, symbol) carries its definition: a span of class <code>term</code> with the definition as its title, shown on hover and, through <code>tabindex</code>, on tap or keyboard focus (<code>term()</code> in the generator). The build fails (<code>undefined_terms()</code>, A2.3) when a page of <code>PILOT_PAGES</code> has a definition span whose text is not a code of <code>TERMS</code> or whose title is not that code’s definition, or uses a code whose first use, in reading order over the title, the subtitle and the body (link text and image descriptions included; code spans, link targets, attributes and comments left out), is neither a definition span nor written in parentheses after its plain name (<code>define()</code>: “red scoria (RS)”).</p></li>
+</ol>
+<p>Navigation (plan v3, A5.1): Find a test (<code>experiments/</code>), Soils (<code>materials/</code>), Simulate a test (<code>simulate/</code>), Glossary (<code>glossary/</code>), Download (<code>downloads/</code>), About (<code>about/</code>), plus search. The footer links About, Contribute (<code>contribute/</code>) and Project records (<code>records/</code>). Project records holds the maintainers’ material, public but off the reader’s path: decisions, review, open questions, methods, insights, figures and sources (and the roadmap on the maintainers’ own build; the public release leaves it out, D-052), with the coverage matrix, the five counts, the open decisions and the recent changes that the first build’s overview carried. The landing page (<code>index.qmd</code>) carries the approved wording, a counts line generated from the data and the soils by code and name.</p>
+<p>The record pages are being moved to a template built around the virtual experiment card (below). During the pilot only <code>PILOT_RECORD</code> (<code>b68-lpt-024</code>) uses it; the other record pages keep the template of rule 5 until the pilot is approved, then all move.</p>
+<section id="virtual-experiment-card" class="level3">
+<h3 class="anchored" data-anchor-id="virtual-experiment-card">Virtual experiment card</h3>
+<p>The card of a test lists what one would need to set up the same test in a simulator (plan v3, A3). It is organized in groups that fit a tool test and will also fit a vehicle on terrain, so a later kind of test fills the same groups rather than starting a new format:</p>
+<div class="table-wrap" style="--table-min: 55ch; --table-min-phone: 80ch">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 28%">
+<col style="width: 28%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Shown as</th>
+<th>Holds, for a tool test</th>
+<th>For a vehicle test (later)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>terrain</code></td>
+<td>Soil</td>
+<td>the soil, its state in the test, reference properties of the soil</td>
+<td>the same</td>
+</tr>
+<tr class="even">
+<td><code>domain</code></td>
+<td>Bed</td>
+<td>container size, the container itself, how the bed was prepared</td>
+<td>test course, its preparation</td>
+</tr>
+<tr class="odd">
+<td><code>body</code></td>
+<td>Tool</td>
+<td>tool shape and size, how it is driven</td>
+<td>chassis, mass properties, wheels or tracks, tires, suspension</td>
+</tr>
+<tr class="even">
+<td><code>motion</code></td>
+<td>Motion</td>
+<td>start depth, rate, extent of the record</td>
+<td>speed, slip, steering, driver inputs</td>
+</tr>
+<tr class="odd">
+<td><code>environment</code></td>
+<td>Environment</td>
+<td>gravity, laboratory or field</td>
+<td>the same (Earth or Moon)</td>
+</tr>
+<tr class="even">
+<td><code>measured</code></td>
+<td>Measured</td>
+<td>what was recorded, with which instrument</td>
+<td>the same</td>
+</tr>
+<tr class="odd">
+<td><code>choices</code></td>
+<td>Missing: choices left to the user</td>
+<td>each input the report does not give, with what it says around it</td>
+<td>the same</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Every entry is a triple (kind, text, where printed). <code>kind</code> is one of three, shown with a visible tag: <code>test</code> (reported: given by the report for this test or its apparatus, or for the procedure of these tests in general, which the text then says), <code>ref</code> (soil reference: a property of the soil from another table of the report, for the soil’s nominal state; Codex, 2026-11-05: a nominal density at one relative density must not read as the measured state of a bed at another), <code>choice</code> (left to the user: an input the report does not give, with what it says around it). An empty group is shown as <em>not given</em>, never dropped. <code>where printed</code> gives the figure, table or section with the printed and the PDF page, as a link to the page image (<code>page_link()</code>; the images come from <code>tools/render_pages.py</code> into the thumbnail cache, and <code>copy_thumbs()</code> reports any that is missing). A figure is cited for a value only when it prints that value for this test: <code>printed_in()</code> looks first in the legend entry that names the test, then anywhere on the page, and leaves the citation empty when no page prints it. The card is built by <code>card_lpt()</code> in <code>tools/build_site.py</code> from the index row, the soil table, the figures index, the record’s points, the page transcriptions and the report’s density chart of the soil (<code>DENSITY_CHART</code>); <code>setup.json</code> (Experiments, above) will carry the same groups and kinds, as typed values with units, when it is written.</p>
+</section>
+</section>
+<section id="regeneration" class="level2">
+<h2 class="anchored" data-anchor-id="regeneration">Regeneration</h2>
+<p><code>tools/render_pages.py &lt;pdf&gt; &lt;out_dir&gt; --dpi 300</code> renders pages (Ghostscript). <code>tools/page_map.py</code> builds the page map, overlaying <code>page-map-corrections.csv</code> (pdf_page, printed_label, note: labels read from the page image where OCR and inference both fail) when that file sits next to the output. <code>tools/build_figures.py</code> rebuilds <code>figures.csv</code> from the two inventory submissions and the resolutions file; Volume II adds <code>--aliases</code>, <code>--row-decisions</code>, <code>--batch inventory-vol2-b1</code> and <code>--source</code>. Volume I is built in three steps, so no build reads its own output: Section II into <code>qa/inventory-s2-b1/figures.csv</code> (the four positional arguments), then Sections III to V into <code>qa/inventory-s3s5-b1/figures.csv</code> with <code>--base qa/inventory-s2-b1/figures.csv --aliases --row-decisions --batch inventory-s3s5-b1 --codex-model "gpt-6.2-sol high" --source</code>, then the rest of Section V and Section VI into <code>corpus/1968/figures.csv</code> with <code>--base qa/inventory-s3s5-b1/figures.csv --batch inventory-s6-b1 --codex-model "gpt-6.2-sol high" --corrections qa/inventory-s6-b1/corrections.csv --unit-codes --source</code> (the exact arguments of each step are in its sidecar’s <code>submissions</code>, <code>resolutions</code> and <code>source</code>, the earlier steps nested under <code>base</code>). <code>tools/promote_leads.py</code> rebuilds the screened rows of <code>sources/register.csv</code>. Each tool is deterministic: rebuilding from the same inputs reproduces the committed file byte for byte, which is checked before a commit. <code>tools/build_indexes.py</code> rebuilds <code>contents.csv</code>, <code>symbols.csv</code>, <code>equations.csv</code> and <code>glossary.csv</code> from the page files. Everything under <code>data/derived/</code> is rebuilt by the script named in its sidecar.</p>
+<div class="generated-note">
+<p>Generated view. Inputs: <code>docs/DATA-ORGANIZATION.md</code>. Regenerate with <code>python tools/build_site.py</code>; do not edit this file, fix the inputs.</p>
+</div>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<div class="build-footer container">Release 1.0.0 of Terramechanics Reference Data (maintainers' revision <code>fce68a8</code>), rendered 2026-11-27. Every value traces to a source page, and each test page says how much of it a person has checked.</div>
+
+<script>
+// Wide tables (2026-11-21, Dan: the sideways scrollbar sat below the last row of a long table, off the screen). A table
+// wider than its box gets the class scrolls-x on the box, and site.css then keeps the box no taller than the window, so
+// its sideways scrollbar is always in view, with the header row held at the top of the box. A table that fits is left
+// alone. Quarto's listing table (Find a test) first gets a box of its own, so the sort and filter controls above it and
+// the page buttons below it stay outside the scroll box; the listing script keeps working on the same table element.
+(function () {
+  function boxes() {
+    document.querySelectorAll(".quarto-listing-table").forEach(function (t) {
+      if (!t.parentElement.classList.contains("listing-table-box")) {
+        var box = document.createElement("div");
+        box.className = "listing-table-box";
+        t.parentNode.insertBefore(box, t);
+        box.appendChild(t);
+      }
+    });
+    return document.querySelectorAll(".table-wrap, .listing-table-box");
+  }
+  function mark() {
+    boxes().forEach(function (b) {
+      b.classList.toggle("scrolls-x", b.scrollWidth > b.clientWidth + 1);
+    });
+  }
+  window.addEventListener("load", mark);
+  window.addEventListener("resize", mark);
+  // the listing's filter, sort and page buttons change which rows show, and so the table's width
+  ["input", "change", "click"].forEach(function (e) {
+    document.addEventListener(e, function () { setTimeout(mark, 50); });
+  });
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Terramechanics Reference Data. Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. Contact: <a href="mailto:negrut@wisc.edu">negrut@wisc.edu</a>.</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../about/index.html">
+<p>About</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../contribute/index.html">
+<p>Contribute</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../records/index.html">
+<p>Project records</p>
+</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

@@ -1,0 +1,304 @@
+{
+  "file": "materials.csv",
+  "source": "Bendix AM-68-1 Vol. I, Table 2-3, printed 2-16, PDF 41",
+  "source_sha256": "A82DDDB1391347C223C1D719929A3D549A39844DE1E99ACE7F2F623A5864C063",
+  "method": "two independent readings of the page image (Claude, Codex gpt-6-astra), exact-match diff (tools/diff_tables.py), typography rule for line-wrap hyphens, SI conversion by tools/to_si.py",
+  "submissions": [
+    "extractions/claude/materials-b1/materials-claude.csv",
+    "extractions/codex/materials-b1/materials-codex.csv"
+  ],
+  "diff_report": "qa/materials-b1/diff-report.md",
+  "units": {
+    "unit_weight_native": "pcf (lbf/ft^3)",
+    "unit_weight_N_m3": "N/m^3",
+    "bulk_density_kg_m3": "kg/m^3 under standard gravity 9.80665 m/s^2",
+    "friction_angle_deg": "degrees",
+    "elastic_modulus_native": "psi",
+    "elastic_modulus_Pa": "Pa",
+    "mean_grain_size_mm": "mm",
+    "d95_mm": "mm",
+    "percent_passing_200": "percent by weight passing No. 200 sieve, as printed"
+  },
+  "factors": {
+    "pcf->N_m3": 157.08746384624618,
+    "pcf->kg_m3": 16.018463373960138,
+    "psi->Pa": 6894.757293168
+  },
+  "column_notes": {
+    "elastic_modulus": "initial tangent modulus measured by sonic means at 4 psi confining pressure (table footnote *)",
+    "percent_passing_200": "footnote **: percent of material by weight passing a No. 200 sieve (ACS)",
+    "d95": "footnote ***: diameter at the 95 percent smaller-than point of the standard sieve analysis",
+    "uniformity_coeff": "printed as the word large for soils 10 and 11"
+  },
+  "cells": [
+    {
+      "soil_no": "1",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "uncertain",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "2",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "3",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "4",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "5",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "6",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "7",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "typography-resolved",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "8",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "typography-resolved",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "9",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "typography-resolved",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "10",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "typography-resolved",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "11",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "typography-resolved",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    },
+    {
+      "soil_no": "12",
+      "cell_status": {
+        "bendix_designation": "agreed",
+        "description_verbatim": "agreed",
+        "family": "agreed",
+        "state": "agreed",
+        "relative_density": "agreed",
+        "unit_weight_native": "agreed",
+        "unit_weight_unit": "agreed",
+        "friction_angle_deg": "agreed",
+        "elastic_modulus_native": "agreed",
+        "elastic_modulus_unit": "agreed",
+        "mean_grain_size_native": "agreed",
+        "mean_grain_size_unit": "agreed",
+        "uniformity_coeff": "agreed",
+        "percent_passing_200_native": "agreed",
+        "d95_native": "agreed",
+        "d95_unit": "agreed"
+      }
+    }
+  ],
+  "status_vocabulary": [
+    "agreed",
+    "typography-resolved",
+    "uncertain",
+    "pending-review"
+  ],
+  "source_inconsistencies": [
+    {
+      "soil_no": "4",
+      "column": "unit_weight_native",
+      "canonical": "50.6",
+      "elsewhere": "50.5",
+      "elsewhere_locator": "Table 1-1, printed 1-6, PDF 20",
+      "found_by": "Codex, inventory-s2-b1",
+      "date": "2026-10-07"
+    }
+  ]
+}
