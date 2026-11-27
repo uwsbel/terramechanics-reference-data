@@ -1,0 +1,46 @@
+item,answer,confidence,comment
+003,neither,high,"P is on the square bottom outline; Q includes (1789,2022) in the interrupted square interior. The line ink is on the dashes outside the square, near (1749,2020) and (1809,2022)."
+006,no,high,"Q (2130,1880) is in the white gap; the preceding dash ends at u2127, 3 px away. Trough height alone does not put it on ink."
+013,no,high,"Q is inside the isolated square; the broad maximum is represented by the adjoining dashes, separated from the symbol."
+014,no,high,"Q is in the square interior, with white gaps to both line segments; matching the trough height does not establish a point on the drawn line."
+017,both,medium,Both marks lie inside the n2935 asterisk strokes; Q is nearer the central junction and P lies in its left arm. The vertical grid stroke merges with it.
+043,neither,high,"Last ink is approximately (1512,2694), separated from the circle by a white gap. Q is on the circle edge; P is inside it."
+051,both,high,Both centers are inside the filled n0 circle; P is more central and Q is near the left edge.
+052,both,high,Both centers are inside the filled n0 circle; Q is more central and P is near the left edge.
+053,both,high,Both centers are inside the filled n0 circle; Q is more central and P is near the left edge.
+054,both,high,Both centers are inside the filled n0 circle; P is more central and Q is near the left edge.
+055,both,high,Both centers are inside the filled n0 circle; P is more central and Q is near the left edge.
+056,both,high,Both centers are inside the filled n0 circle; Q is more central and P is near the left edge.
+061,all yes,medium,"Focused (2196,2060) is on the terminal dash immediately left of the triangle outline; it has not reached that outline."
+071,both,medium,"Separate n2995 square near (931,3307) and n3660 x near (932,3318) are visible. The lower glyph has diagonal x arms, not an n4400 asterisk."
+072,both,medium,"Separate n2200 triangle near (985,3303) and n2995 square near (985,3312) have distinguishable outlines. The n3660 x is lower, near (984,3322)."
+073,both,medium,"The grid obscures the right side, but the n2995 square near (1042,3310) and separate n3660 x near (1041,3322) retain identifiable outlines; no asterisk at the lower mark."
+074,both,medium,"Separate n2200 triangle near (1105,3306) and n2995 square near (1105,3317) are visible; the n3660 x is below them, near (1104,3328)."
+075,neither,high,"Last dash ink ends near (1145,2219), with a white gap before the circle. P is in that gap and Q is at the circle center."
+086,n2200,medium,"The subject has an angular triangle apex and base around (1218,3193), above a separate n3660 x near (1219,3208). It is not a separate circular outline."
+109,some,high,"Off-line: (1337,1946), on the circle right outline where the dash joins. (1300,1956) is on the left dash."
+114,some,high,"Off-line: (1981,1864), on the circle right outline at the dash junction. (1940,1864) is on the preceding dash end."
+116,neither,high,"The thin terminal ink reaches approximately (2121,1618), before a white gap to the plus. P is 7 px short; Q is farther inside the dash."
+131,all yes,high,"(1186,2119) is on the left dash; (1229,2119) is 1 px before the right dash ink at u1230, within the settled tolerance and off the square outline."
+147,all yes,high,"Focused (2118,1413) is 1 px before the next dash ink at u2119, within 2 px of its band and away from the plus outline."
+148,all yes,high,"Focused (2248,1442) is 1 px beyond the terminal dash ink at u2247, within the settled tolerance and before the plus outline."
+154,all yes,high,"Focused (1346,2495) is 1 px before the dash ink at u1347, at its height and clear of the triangle outline."
+163,no,high,"P is in an isolated square interior, separated from both dashes; the inferred slope change across the symbol is not line ink at the mark."
+164,no,high,Q is inside the isolated triangle; the renewed rising dash begins to its right across a white gap.
+167,cannot tell,medium,"P is on ink, but the terminal descent steepens smoothly. The scan does not locate a distinct knee or settle whether this point is its onset."
+168,neither,high,"The first dash begins near (874,2590), across a white gap from the triangle. P is inside the triangle and Q is on its right outline."
+197,neither,high,"The starting stroke touches the square corner without a white separation, so the first point is its center, approximately (704,1739). Both marks are above it."
+203,neither,medium,"The line and triangle strokes touch diagonally near (716,2165); the tiny white slivers do not separate them. First point is the triangle centroid, approximately (708,2177)."
+209,all yes,high,"Focus only: (1881,1523) is on the left n3815 dash end; (1946,1522) is on the right dash edge. The two lower-curve samples in the old comments are outside the focus."
+216,neither,high,"The last dash merges into the triangle left side; endpoint is the triangle center, approximately (2232,2172). Both marks are well before it."
+218,q,medium,"Unmarked ink has its leftmost rounded start at approximately (826,2069). Q (828,2069) is at that cap within 2 px; P is 7 px farther into the stroke."
+224,neither,high,"The starting stroke joins the square top edge without a white gap. First point is the square center, approximately (826,1999), below both marks."
+229,neither,high,"The stroke runs into the first down-triangle top edge. First point is its centroid, approximately (813,1843), below both marks."
+251,cannot tell,low,"An angular pocket is partly visible in the merged line bundle, but a complete symbol outline, its center, and the unnamed test cannot be established."
+252,all yes,medium,"The supplied subject (821,3028) is inside the origin axis stroke and within 2 px of the circle fitted-line band extended into it; the line merges into the axes."
+254,all yes,medium,"The supplied subject (820,3027) is inside the origin axis stroke and within the square fitted-line band extended into it; the lines merge at the corner."
+259,all yes,medium,"The supplied subject (820,3028) is inside the origin axis stroke and within the up-triangle fitted-line band extended into it."
+262,cannot tell,medium,"At (946,3008) the solid line, triangle base and axis merge. The square extension last separates near (985,2968); a gap through the triangle prevents establishing that its own dash reaches this axis mass."
+268,all yes,high,"Focused (934,3011) is inside the horizontal-axis band at the origin and within the solid dr5-40 line band extended into that stroke."
+271,all yes,high,"Focused (666,3016) lies inside the vertical axis and within the triangle fitted-line band extended into it. The adjoining dash merges with the axis."
+272,all yes,high,"Focused (668,3087) lies inside the vertical axis and within the circle fitted-line band extended into it. The adjoining dash merges with the axis."

@@ -1,0 +1,152 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-44,1,lpt69,feature,1,756,3118,8,25,,"first; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt69,trace,2,756,3118,8,25,,"where the ink starts; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt69,trace,3,756,3099,6,6,,the shared solid line meets the left frame here (u 752 to 760 visible); drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.030583,200.851,0.023071,8.624,piecewise
+F2-44,1,lpt69,trace,4,771.0,3022.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.081166,299.542,0.023033,8.663,piecewise
+F2-44,1,lpt69,trace,5,785.0,2944.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.128535,399.517,0.022998,8.703,piecewise
+F2-44,1,lpt69,trace,6,795.0,2872.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened; row moved 5 px above the 500 lb grid line,0.162792,491.812,0.022973,8.739,piecewise
+F2-44,1,lpt69,trace,7,809.0,2789.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.210291,598.41,0.022937,8.926,piecewise
+F2-44,1,lpt69,trace,8,819.0,2711.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.244703,698.613,0.022912,9.083,piecewise
+F2-44,1,lpt69,trace,9,821.0,2700.0,6,6,,drawn on one solid line with 64A and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.251466,712.741,0.022907,9.105,piecewise
+F2-44,1,lpt69,trace,10,830.0,2633.0,6,6,,"left part of a band about 24 px wide with 64A, 74 and 73's dash on its right; bound widened",0.282354,798.805,0.022884,9.24,piecewise
+F2-44,1,lpt69,trace,11,840.0,2556.0,5,5,,the left of the two solid lines side by side (64A on its right),0.31674,897.713,0.019591,8.101,piecewise
+F2-44,1,lpt69,trace,12,852.8,2482.7,4.5,4.5,,row moved off the 1000 lb grid line,0.3601,991.843,0.017924,7.602,piecewise
+F2-44,1,lpt69,trace,13,875.0,2400.0,4.8,4.8,,,0.434153,1098.707,0.01885,8.004,piecewise
+F2-44,1,lpt69,trace,14,894.4,2346.2,4.8,4.8,,,0.498387,1168.238,0.018802,7.971,piecewise
+F2-44,1,lpt69,trace,15,913.1,2321.7,5.5,5.5,,,0.559596,1199.844,0.021044,8.866,piecewise
+F2-44,1,lpt69,feature,16,958,2308.5,15,5.5,,"peak, first maximum; flat top from about u 945 to 970",0.705381,1216.664,0.051731,8.915,piecewise
+F2-44,1,lpt69,trace,17,971.0,2310.7,6.0,6.0,,,0.747435,1213.738,0.022538,9.511,piecewise
+F2-44,1,lpt69,trace,18,1043.0,2376.0,4.8,4.8,,column moved 8 px left of the 1 in grid line,0.978973,1128.758,0.018444,7.991,piecewise
+F2-44,1,lpt69,trace,19,1135.8,2494.2,5.5,5.5,,column moved off the 1000 lb grid line,1.27787,975.342,0.021016,8.863,piecewise
+F2-44,1,lpt69,trace,20,1204.7,2566.9,5.2,5.2,,24's dash runs 15 px below,1.500288,881.571,0.020193,8.327,piecewise
+F2-44,1,lpt69,feature,21,1218,2574.5,5.5,5.5,,"knee, minimum (kink after the first peak); 24 and 74 join its underside here",1.54339,871.735,0.021209,8.699,piecewise
+F2-44,1,lpt69,trace,22,1282.0,2533.0,6,6,,top of a band about 22 px tall that 69 forms with 24 and 74 on its underside; bound widened,1.752783,924.642,0.023,9.426,piecewise
+F2-44,1,lpt69,trace,23,1364.0,2473.0,4.6,4.6,,crosses the 1000 lb grid line here (the grid line lies inside the trace's run); column moved 6 px right of the 2 in grid line,2.021064,1001.179,0.018431,7.787,piecewise
+F2-44,1,lpt69,trace,24,1435.4,2399.4,5.2,5.2,,,2.253563,1096.068,0.020174,8.53,piecewise
+F2-44,1,lpt69,trace,25,1510.8,2318.3,6.0,6.0,,,2.499032,1200.661,0.022553,9.522,piecewise
+F2-44,1,lpt69,trace,26,1588.2,2240.2,5.5,5.5,,,2.750752,1301.37,0.020695,8.823,piecewise
+F2-44,1,lpt69,trace,27,1659.0,2170.0,4.8,4.8,,column moved 6 px left of the 3 in grid line,2.980857,1391.897,0.018207,7.868,piecewise
+F2-44,1,lpt69,feature,28,1700,2136,15,15,,knee (gradual bend: the slope falls from about 45 to about 30 degrees between 3.0 and 3.3 in; location along the line uncertain),3.114664,1435.708,0.051784,21.127,piecewise
+F2-44,1,lpt69,trace,29,1740.9,2109.8,6.0,6.0,,,3.248121,1469.417,0.022432,9.393,piecewise
+F2-44,1,lpt69,trace,30,1818.0,2077.0,5.8,5.8,,,3.499376,1511.426,0.021978,9.074,piecewise
+F2-44,1,lpt69,trace,31,1894.9,2049.3,5.5,5.5,,64A crosses it at about 3.85 in,3.749911,1546.725,0.021196,8.651,piecewise
+F2-44,1,lpt69,trace,32,1984.0,2015.5,5.6,5.6,,just past the crossing with 64A and 74; column moved off the 4 in grid line and 74's dot,4.040098,1589.816,0.021597,8.74,piecewise
+F2-44,1,lpt69,trace,33,2048.8,1985.1,5.8,5.8,,,4.250462,1628.654,0.022172,8.962,piecewise
+F2-44,1,lpt69,feature,34,2090,1954,15,15,,knee (gradual bend upward: the slope rises from about 20 to about 55 degrees between 4.2 and 4.5 in; location along the line uncertain),4.384538,1668.527,0.052133,20.856,piecewise
+F2-44,1,lpt69,trace,35,2124.4,1907.6,5.0,5.0,,,4.497039,1728.171,0.019474,7.83,piecewise
+F2-44,1,lpt69,trace,36,2183,1835,5.5,5.5,,where the ink ends,4.68859,1821.452,0.021038,8.391,piecewise
+F2-44,1,lpt69,feature,37,2183,1835,5.5,5.5,,last; highest load of the trace,4.68859,1821.452,0.021038,8.391,piecewise
+F2-44,1,lpt64a,feature,1,756,3118,8,25,,"first; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt64a,trace,2,756,3118,8,25,,"where the ink starts; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt64a,trace,3,756,3099,6,6,,the shared solid line meets the left frame here (u 752 to 760 visible); drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.030583,200.851,0.023071,8.624,piecewise
+F2-44,1,lpt64a,trace,4,771.0,3022.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.081166,299.542,0.023033,8.663,piecewise
+F2-44,1,lpt64a,trace,5,785.0,2944.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.128535,399.517,0.022998,8.703,piecewise
+F2-44,1,lpt64a,trace,6,795.0,2872.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened; row moved 5 px above the 500 lb grid line,0.162792,491.812,0.022973,8.739,piecewise
+F2-44,1,lpt64a,trace,7,809.0,2789.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.210291,598.41,0.022937,8.926,piecewise
+F2-44,1,lpt64a,trace,8,819.0,2711.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.244703,698.613,0.022912,9.083,piecewise
+F2-44,1,lpt64a,trace,9,821.0,2700.0,6,6,,drawn on one solid line with 69 and 74 on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened,0.251466,712.741,0.022907,9.105,piecewise
+F2-44,1,lpt64a,trace,10,834.5,2633,7,6,,"64A separates from 69 between about 750 and 950 lb; here within a band about 24 px wide with 69, 74 and 73's dash, about 4 px right of 69; bound widened",0.296931,798.78,0.026115,9.245,piecewise
+F2-44,1,lpt64a,trace,11,852.0,2556.0,5,5,,the right of the two solid lines side by side (69 on its left),0.355611,897.642,0.019562,8.101,piecewise
+F2-44,1,lpt64a,trace,12,875.1,2481.6,5.2,5.2,,row moved off the 1000 lb grid line,0.432364,993.12,0.020158,8.512,piecewise
+F2-44,1,lpt64a,trace,13,895.7,2440.1,6.0,6.0,,,0.500168,1046.668,0.022722,9.591,piecewise
+F2-44,1,lpt64a,trace,14,920.6,2401.6,5.2,5.2,,,0.581822,1096.358,0.020047,8.526,piecewise
+F2-44,1,lpt64a,feature,15,956,2383,15,5.5,,"peak, first maximum; flat top from about u 940 to 975",0.696974,1120.223,0.051738,8.963,piecewise
+F2-44,1,lpt64a,trace,16,972.0,2384.5,5.2,5.2,,,0.748764,1118.184,0.019923,8.516,piecewise
+F2-44,1,lpt64a,trace,17,1044.0,2410.0,3.9,3.9,,column moved 7 px left of the 1 in grid line,0.981332,1084.73,0.015502,6.841,piecewise
+F2-44,1,lpt64a,trace,18,1126.4,2546.8,4.8,4.8,,"just above its crossing with 73 and 24 at about (1135, 2565)",1.245915,907.844,0.018696,7.853,piecewise
+F2-44,1,lpt64a,trace,19,1205.6,2688.3,5.2,5.2,,74 crosses it at about 1.38 in,1.500114,725.678,0.020195,8.083,piecewise
+F2-44,1,lpt64a,trace,20,1283.0,2734.5,6.2,6.2,,,1.750931,665.942,0.023659,9.28,piecewise
+F2-44,1,lpt64a,feature,21,1332,2741,16,5.5,,"knee, minimum after the first peak; flat bottom from about u 1315 to 1345",1.910302,657.338,0.055686,8.417,piecewise
+F2-44,1,lpt64a,trace,22,1366.0,2728.5,5.3,5.3,,column moved 7 px right of the 2 in grid line,2.021174,673.203,0.020731,8.127,piecewise
+F2-44,1,lpt64a,trace,23,1436.8,2673.3,5.0,5.0,,,2.251502,743.667,0.019543,7.849,piecewise
+F2-44,1,lpt64a,trace,24,1513.6,2591.7,5.2,5.2,,,2.501751,847.947,0.019966,8.268,piecewise
+F2-44,1,lpt64a,trace,25,1589.8,2501.3,5.5,5.5,,,2.750112,963.479,0.020715,8.834,piecewise
+F2-44,1,lpt64a,trace,26,1655.4,2421.5,6.0,6.0,,column moved 10 px left of the 3 in grid line,2.963838,1066.095,0.022146,9.589,piecewise
+F2-44,1,lpt64a,trace,27,1742.8,2304.8,5.5,5.5,,,3.24995,1216.759,0.020783,8.865,piecewise
+F2-44,1,lpt64a,trace,28,1818.4,2201.3,5.2,5.2,,,3.497808,1350.413,0.020004,8.41,piecewise
+F2-44,1,lpt64a,trace,29,1895.0,2094.5,5.3,5.3,,74's dots run along its upper side here,3.749157,1488.357,0.020537,8.474,piecewise
+F2-44,1,lpt64a,trace,30,1979.6,1975.7,5.8,5.8,,just past the crossing with 69 and 74; column moved off the 4 in grid line,4.026848,1641.186,0.022257,8.951,piecewise
+F2-44,1,lpt64a,trace,31,2048.6,1878.9,5.0,5.0,,,4.252512,1765.647,0.019569,7.796,piecewise
+F2-44,1,lpt64a,trace,32,2075,1838,5.5,5.5,,where the ink ends,4.338989,1818.244,0.02117,8.395,piecewise
+F2-44,1,lpt64a,feature,33,2075,1838,5.5,5.5,,last; highest load of the trace,4.338989,1818.244,0.02117,8.395,piecewise
+F2-44,1,lpt74,feature,1,756,3118,8,25,,"first; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt74,trace,2,756,3118,8,25,,"where the ink starts; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the shared solid line runs into the frame at about v 3092 and its end below that cannot be told from the frame and the dash pieces; the bound covers v 3093 to 3143",0.030091,176.481,0.030047,33.002,piecewise
+F2-44,1,lpt74,trace,3,756,3099,6,6,,"the shared solid line meets the left frame here (u 752 to 760 visible); drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.030583,200.851,0.023071,8.624,piecewise
+F2-44,1,lpt74,trace,4,771.0,3022.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.081166,299.542,0.023033,8.663,piecewise
+F2-44,1,lpt74,trace,5,785.0,2944.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.128535,399.517,0.022998,8.703,piecewise
+F2-44,1,lpt74,trace,6,795.0,2872.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened; row moved 5 px above the 500 lb grid line",0.162792,491.812,0.022973,8.739,piecewise
+F2-44,1,lpt74,trace,7,809.0,2789.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.210291,598.41,0.022937,8.926,piecewise
+F2-44,1,lpt74,trace,8,819.0,2711.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.244703,698.613,0.022912,9.083,piecewise
+F2-44,1,lpt74,trace,9,821.0,2700.0,6,6,,"drawn on one solid line with 69 and 64A (no dot visible: the dots, if drawn, lie inside that line) on the initial rise (one line about 9 px wide; 73's dashes overlap its right edge); the traces cannot be told apart here; bound widened",0.251466,712.741,0.022907,9.105,piecewise
+F2-44,1,lpt74,trace,10,834.5,2633,8,6,,"inside a band about 24 px wide with 69, 64A and 73's dash; 74 leaves it at about (845, 2597); bound widened",0.296931,798.78,0.029356,9.251,piecewise
+F2-44,1,lpt74,feature,11,892.9,2587.1,5.5,5.5,,"peak, first maximum; flat top of dots from about u 877 to 910",0.487293,857.436,0.021097,8.684,piecewise
+F2-44,1,lpt74,trace,12,892.9,2587.1,5.5,5.5,,,0.487293,857.436,0.021097,8.684,piecewise
+F2-44,1,lpt74,trace,13,978.6,2635.1,5.5,5.5,,,0.763657,795.269,0.020892,8.584,piecewise
+F2-44,1,lpt74,trace,14,1034.9,2675.3,5.5,5.5,,dot at 0.95 in (the dot at 1.0 in is on the grid line),0.944989,743.31,0.020757,8.502,piecewise
+F2-44,1,lpt74,feature,15,1065.2,2687.7,5.5,5.5,,"knee, minimum after the first peak (lowest dot)",1.043035,727.215,0.020851,8.476,piecewise
+F2-44,1,lpt74,trace,16,1128.4,2663.3,5.5,5.5,,"74 crosses 64A at about (1171, 2634), 1.38 in",1.249421,758.208,0.020999,8.523,piecewise
+F2-44,1,lpt74,trace,17,1199.1,2612.0,5.5,5.5,,,1.480904,823.691,0.021165,8.624,piecewise
+F2-44,1,lpt74,trace,18,1284.0,2545.0,6,9,,under 69 together with 24 between about 1.55 and 2.05 in; the dots merge into that band; bottom of the band; bound widened,1.758989,909.224,0.023081,13.26,piecewise
+F2-44,1,lpt74,trace,19,1371,2493,6,7,,"leaves the band under 69 here together with 24, partly merged; bound widened",2.043189,975.455,0.023001,10.789,piecewise
+F2-44,1,lpt74,trace,20,1426.6,2455.2,5.5,5.5,,,2.223786,1023.847,0.021182,8.956,piecewise
+F2-44,1,lpt74,trace,21,1513.1,2398.2,5.5,5.5,,,2.504613,1097.148,0.020926,8.921,piecewise
+F2-44,1,lpt74,trace,22,1583.8,2349.5,5.5,5.5,,,2.734108,1159.805,0.020718,8.891,piecewise
+F2-44,1,lpt74,trace,23,1654.4,2297.5,5.5,5.5,,the next dot sits on the 3 in grid line,2.963271,1226.745,0.020509,8.859,piecewise
+F2-44,1,lpt74,trace,24,1748.5,2219.7,5.5,5.5,,,3.270358,1326.983,0.020805,8.812,piecewise
+F2-44,1,lpt74,trace,25,1812.6,2162.0,5.5,5.5,,,3.479873,1401.369,0.020975,8.776,piecewise
+F2-44,1,lpt74,trace,26,1876.5,2103,6,6,,dot touching the left side of 64A; 74 then passes under 64A and 69 (dots hidden from about 3.7 to 4.05 in),3.688846,1477.449,0.022782,9.391,piecewise
+F2-44,1,lpt74,trace,27,1942.5,2045,6,7,,dot partly hidden under the crossing of 64A and 69; only its lower half shows; bound widened,3.904698,1551.999,0.022982,10.586,piecewise
+F2-44,1,lpt74,trace,28,1989.9,1995.2,5.5,5.5,,first clear dot after the crossing (4.06 in),4.059684,1615.97,0.021265,8.585,piecewise
+F2-44,1,lpt74,trace,29,2049.8,1931.2,5.5,5.5,,,4.255066,1698.176,0.021195,8.508,piecewise
+F2-44,1,lpt74,trace,30,2107.7,1866.4,5.5,5.5,,where the ink ends (last dot),4.444077,1781.412,0.021128,8.429,piecewise
+F2-44,1,lpt74,feature,31,2107.7,1866.4,5.5,5.5,,last; highest load of the trace,4.444077,1781.412,0.021128,8.429,piecewise
+F2-44,1,lpt73,feature,1,771,3115,9,16,,"first; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the lowest dash piece (u 765 to 778, v 3101 to 3130) belongs to 73 or 24, which cannot be told apart there; the bound covers that piece",0.078758,180.262,0.033019,21.46,piecewise
+F2-44,1,lpt73,trace,2,771,3115,9,16,,"where the ink starts; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the lowest dash piece (u 765 to 778, v 3101 to 3130) belongs to 73 or 24, which cannot be told apart there; the bound covers that piece",0.078758,180.262,0.033019,21.46,piecewise
+F2-44,1,lpt73,trace,3,771.5,3104,10,8,,"73 and 24 run together against the solid line below about 330 lb; this dash piece (u 765 to 778, v 3101 to 3125) cannot be attributed to one of them; bound widened",0.080663,194.368,0.036052,11.205,piecewise
+F2-44,1,lpt73,trace,4,781.5,3022,6,8,,right half of a run 767 to 786 (solid line plus 73's dash); 24's dash ends just right of it; bound widened,0.115179,299.493,0.02306,11.229,piecewise
+F2-44,1,lpt73,trace,5,792.0,2944.0,6,8,,"73's dash along the right edge of the solid line (69, 64A, 74); bound widened",0.15121,399.484,0.023033,11.269,piecewise
+F2-44,1,lpt73,trace,6,804.0,2872.0,6,8,,73's dash along the right edge of the solid line; row moved 5 px above the 500 lb grid line; bound widened,0.191946,491.768,0.023003,11.316,piecewise
+F2-44,1,lpt73,trace,7,816.0,2795.0,6,8,,73's dash along the right edge of the solid line; row moved 6 px off a dash gap; bound widened,0.23281,590.662,0.022972,11.489,piecewise
+F2-44,1,lpt73,trace,8,819.0,2775.0,6,8,,73's dash along the right edge of the solid line; bound widened,0.243046,616.353,0.022965,11.529,piecewise
+F2-44,1,lpt73,trace,9,830.0,2711.0,6,8,,73's dash along the right edge of the solid line; bound widened,0.280335,698.554,0.022937,11.657,piecewise
+F2-44,1,lpt73,trace,10,846.0,2633.0,6,8,,"right edge of a band about 24 px wide with 69, 64A and 74; bound widened",0.334182,798.715,0.022897,11.814,piecewise
+F2-44,1,lpt73,trace,11,888.0,2569.2,7.5,6.0,,on the plateau; 74's dots 18 px below,0.471884,880.467,0.027605,9.375,piecewise
+F2-44,1,lpt73,feature,12,911,2569,18,5.5,,"peak, first maximum; flat top from about u 875 to 926 (a dash gap at 897 to 907)",0.546392,880.59,0.061575,8.793,piecewise
+F2-44,1,lpt73,trace,13,973.8,2591.9,7.1,5.8,,"24 crosses it at about (955, 2582), 0.69 in",0.749227,850.8,0.026097,9.067,piecewise
+F2-44,1,lpt73,trace,14,1044.9,2630.0,7.4,5.8,,column moved 6 px left of the 1 in grid line,0.978554,801.447,0.026899,8.99,piecewise
+F2-44,1,lpt73,feature,15,1060,2632.5,8,5.5,,"knee, minimum (V-shaped, after the first peak); its bottom at about u 1068 falls in a dash gap; on the last ink before the gap",1.02754,798.151,0.028984,8.601,piecewise
+F2-44,1,lpt73,trace,16,1124.7,2579.2,6.4,6.5,,"just below its crossing with 64A and 24 at about (1135, 2565); 73 then crosses 69 at about (1168, 2532)",1.239545,866.241,0.023948,9.984,piecewise
+F2-44,1,lpt73,trace,17,1211.0,2462.0,5.5,7.0,,row 12 px above the 1000 lb grid line; dash bound,1.523476,1016.37,0.021231,10.901,piecewise
+F2-44,1,lpt73,trace,18,1293.1,2295.6,5.6,7.1,,,1.794924,1231.365,0.021751,10.928,piecewise
+F2-44,1,lpt73,trace,19,1355.3,2186.9,5.9,6.9,,,2.000086,1371.777,0.022834,10.603,piecewise
+F2-44,1,lpt73,trace,20,1431.6,2080.2,6.0,6.6,,,2.248961,1509.504,0.022772,10.115,piecewise
+F2-44,1,lpt73,trace,21,1509.0,1995.0,6.7,6.7,,,2.500699,1619.045,0.024802,10.145,piecewise
+F2-44,1,lpt73,trace,22,1594.1,1914.1,6.4,6.3,,first ink of the dash after a gap at 2.74 in,2.777022,1722.967,0.02357,9.528,piecewise
+F2-44,1,lpt73,trace,23,1650,1862,5.5,5.5,,"where the ink ends (end of the last dash, 2.96 in)",2.958423,1789.874,0.020482,8.426,piecewise
+F2-44,1,lpt73,feature,24,1650,1862,5.5,5.5,,last; highest load of the trace,2.958423,1789.874,0.020482,8.426,piecewise
+F2-44,1,lpt24,feature,1,771,3115,9,16,,"first; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the lowest dash piece (u 765 to 778, v 3101 to 3130) belongs to 73 or 24, which cannot be told apart there; the bound covers that piece",0.078758,180.262,0.033019,21.46,piecewise
+F2-44,1,lpt24,trace,2,771,3115,9,16,,"where the ink starts; all five traces begin together in one blob of ink against the left frame (u 752 to 781, v 3092 to 3145, about 140 to 210 lb); the lowest dash piece (u 765 to 778, v 3101 to 3130) belongs to 73 or 24, which cannot be told apart there; the bound covers that piece",0.078758,180.262,0.033019,21.46,piecewise
+F2-44,1,lpt24,trace,3,771.5,3104,10,8,,"73 and 24 run together against the solid line below about 330 lb; this dash piece (u 765 to 778, v 3101 to 3125) cannot be attributed to one of them; bound widened",0.080663,194.368,0.036052,11.205,piecewise
+F2-44,1,lpt24,trace,4,794.5,3018,6,7,,end of 24's dash where it joins the bundle (rows 3002 to 3020 run 770 to 799 with the solid line and 73); bound widened,0.157393,304.563,0.023003,9.948,piecewise
+F2-44,1,lpt24,trace,5,808.0,2944.0,3.8,7.3,,"clear of the bundle, 20 px right of it",0.203039,399.407,0.015845,10.36,piecewise
+F2-44,1,lpt24,trace,6,821.0,2888.0,4.6,7.3,,,0.246599,471.165,0.018406,10.392,piecewise
+F2-44,1,lpt24,trace,7,825.0,2872.0,4.6,7.3,,row moved 5 px above the 500 lb grid line,0.259971,491.666,0.018396,10.407,piecewise
+F2-44,1,lpt24,trace,8,846.0,2800.0,4.7,7.3,,row moved 11 px to the first ink after a dash gap,0.32986,584.082,0.018668,10.57,piecewise
+F2-44,1,lpt24,trace,9,878.0,2711.0,4.8,7.2,,"the arrow of the label LPT No. 24 points at this dash (tip at about (870, 2735))",0.43582,698.295,0.018911,10.619,piecewise
+F2-44,1,lpt24,trace,10,902.0,2656.0,4.8,7.1,,end of a dash before a gap at 2660 to 2671,0.514987,768.843,0.018849,10.6,piecewise
+F2-44,1,lpt24,trace,11,911.5,2633.0,5.2,7.1,,,0.546356,798.346,0.020122,10.648,piecewise
+F2-44,1,lpt24,trace,12,980.3,2563.9,7.0,6.4,,"first ink after a dash gap; 24 crossed 73 at about (955, 2582)",0.771007,886.737,0.025772,9.895,piecewise
+F2-44,1,lpt24,trace,13,992.0,2554.5,7.1,6.2,,,0.80915,898.745,0.026063,9.656,piecewise
+F2-44,1,lpt24,feature,14,1014,2545.5,15,5.5,,"peak, first maximum; flat top from about u 1010 to 1050 (a dash gap at 1020 to 1034)",0.880647,910.178,0.051601,8.82,piecewise
+F2-44,1,lpt24,trace,15,1045.0,2547.8,7.5,5.5,,column moved 6 px left of the 1 in grid line,0.981005,907.04,0.027226,8.77,piecewise
+F2-44,1,lpt24,trace,16,1122.0,2561.5,7.4,5.0,,"just left of its crossing with 64A and 73 at about (1135, 2565)",1.231213,888.99,0.027161,8.096,piecewise
+F2-44,1,lpt24,trace,17,1202.9,2582.7,7.3,5.3,,end of the last dash before 24 joins the underside of 69,1.494024,861.293,0.027032,8.436,piecewise
+F2-44,1,lpt24,feature,18,1206,2584,10,6,,"knee, minimum after the first peak: 24 turns up here into the underside of 69; the turn itself is hidden under 69's ink; bound widened",1.504083,859.606,0.035853,9.35,piecewise
+F2-44,1,lpt24,trace,19,1282,2540,6,10,,inside the band under 69 with 74 (between about 1.55 and 2.05 in); 24 not separable there; bound widened,1.752606,915.655,0.023101,14.556,piecewise
+F2-44,1,lpt24,trace,20,1365,2488,6,8,,"leaves the band under 69 here together with 74, partly merged; bound widened",2.023923,981.909,0.023042,12.085,piecewise
+F2-44,1,lpt24,trace,21,1434.0,2437.0,6.8,6.1,,74's dot sits just below,2.248136,1047.375,0.025377,9.73,piecewise
+F2-44,1,lpt24,trace,22,1505.2,2376.2,6.4,6.4,,6 px before the end of a dash,2.479602,1125.694,0.023878,10.079,piecewise
+F2-44,1,lpt24,trace,23,1588.0,2298.0,6.4,6.1,,,2.74882,1226.495,0.023623,9.642,piecewise
+F2-44,1,lpt24,trace,24,1667,2221,6,7.5,,"the last dash, short, crosses the 3 in grid line; row centre of run 1660 to 1674",3.005628,1325.779,0.022264,11.407,piecewise
+F2-44,1,lpt24,trace,25,1670,2214,5.5,5.5,,"where the ink ends (upper end of the last dash, 3.01 in)",3.015522,1334.83,0.020603,8.807,piecewise
+F2-44,1,lpt24,feature,26,1670,2214,5.5,5.5,,last; highest load of the trace,3.015522,1334.83,0.020603,8.807,piecewise

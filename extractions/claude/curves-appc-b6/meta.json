@@ -1,0 +1,27 @@
+{
+  "agent": "claude",
+  "batch": "curves-appc-b6",
+  "date": "2026-10-14",
+  "model": "claude-opus-5-5 (one subagent per figure, launched from a Claude Code session)",
+  "prompt": "TASK.md plus a per-figure task naming the workspace and the figure",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appc-b6/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspace outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "interruption": "the first three readers (00:22, 2026-10-14) were stopped by a machine restart after writing their calibrations and crops but no points; a second reader per figure (08:48) continued in the same workspace, told to verify the earlier calibration before relying on it (all three re-ran it and reproduced it exactly); runs below are the second readers'",
+  "runs": {
+    "FC-5A": {
+      "elapsed_sec": 1369.3,
+      "subagent_tokens": 264182,
+      "tool_uses": 88
+    },
+    "FC-6A": {
+      "elapsed_sec": 1823.8,
+      "subagent_tokens": 347418,
+      "tool_uses": 99
+    },
+    "FC-7A": {
+      "elapsed_sec": 1160.0,
+      "subagent_tokens": 260335,
+      "tool_uses": 80
+    }
+  }
+}

@@ -1,0 +1,19 @@
+# FC-5B independent reading
+
+Evidence: packet/p0130.png only, with packet protocol and index. No other reading consulted. Pixel coordinates refer to the 3213 x 4221 unrotated image.
+
+Upper symbols: plus n4695; down triangle n3815; circle n2934; square n1761; up triangle n734. Legend prints 4695/96.4, 3815/96.4, 2934/97.6, 1761/96.4, 734/95.2. Heading prints gamma 95.2 to 97.3, different from the 97.6 legend entry. Lower axis prints delta_tau rather than a separate dilation symbol.
+
+Calibration: affine grid-intersection fit from the supplied tool. P1 uses the 0 through 5000 labeled horizontal grid lines; the unlabeled top frame is above 5000 (approximately 5500), so was excluded from the calibration box. P2 is -100 through +100. All detected lines confirmed by eye, no predicted lines. Checks at the bottom frame for x and beside the left frame for y are recorded in calibration-eye-checks.csv. The 0-to-50 bay is about 315 px, later bays about 294 px. This slight nonuniformity persists in both panels. P1 RMS x 0.955, y 3.525; P2 RMS x 0.916, y 0.131. Native units: x and lower y are thousandths inch; upper y psf. No residual exceeds 0.5% of span.
+
+Markers were read first from labeled zoom-3 crops. Enclosed white interiors help center open symbols; connected components help locate detached plus signs. Each assigned marker was checked against the overlay. Clean centers have 2 px bounds; stacks, touching triangles, grid/frame intersections, and the small broken upper plus near u1317 have wider bounds. There are 13 columns of lower markers. The square near u1186 is displaced left from the other symbols in that stack. The lower triangles can be identified by their separate upward/downward apices; their bases touch, so 5 px bounds are retained (8 on grid/frame). The bottom circle and plus approach each other at some columns but are identifiable. No lower connecting trace is drawn; occasional short horizontal scratches near the circles or squares are not curves.
+
+Trace samples use column dark-run centers, selected by manually read guide paths. Guides select ink, never supply a sampled ordinate. Vertical grid columns and marker neighborhoods are avoided. Nominal spacing is 20 px (about 3.38 thousandths), finer than 5; marker interruptions make wider gaps, which are intentionally left unsampled under rule 7. The first/last feature locations are the visible line emergence/end around the first/last marker, separately checked on zoom-4 endpoint crops. Where the initial square and up-triangle lines approach near u727, their emergence is difficult to separate: the 5 px vertical feature bounds cover their thick/shared ink. Broad maxima are represented by an ink point and a wide horizontal peak bound, not a selected marker. Dashed lines do not extend to the last symbol centers.
+
+The curves are well separated except the initial low-stress strokes and the square plateau close to the 1000-psf gridline. Square markers near u1562,1678,1798 touch that horizontal line; their notes and bounds mark this. Circle and square final markers and several lower stacks lie on vertical grid lines. No extrapolation beyond the visible ink.
+
+Deliverables: cal-p1/anchors.csv and calibration.json; cal-p2/anchors.csv and calibration.json; calibration-eye-checks.csv; points-p1.csv and points-p1-native.csv; points-p2.csv and points-p2-native.csv; overlay-p1.png and overlay-p2.png; counts.csv. readings.json and crops are retained as reading aids. Reproduction helper: ../read_curves.py.
+
+Final ink audit corrected explicit feature endpoints onto their measured dark runs (and corresponding trace samples); coordinates in the delivered CSVs supersede approximate paths in reading aids. Narrow end-cap ink has its measured half-thickness bound.
+
+First/last feature coordinates are also retained as explicit endpoint trace samples, on the separately checked ink. Sampling order in delivered files is marker records, trace drawing order, feature roles.

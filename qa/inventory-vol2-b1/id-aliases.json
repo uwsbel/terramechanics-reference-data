@@ -1,0 +1,15 @@
+{
+ "_comment": "Claude id -> canonical id. Canonical table ids are page locators TA-pNNN (NNN = PDF page of the table), the scheme Codex used; Claude had given one id per soil specification (TA-sN-chem) spanning the whole specification table.",
+ "TA-s1-chem": "TA-p003",
+ "TA-s2-chem": "TA-p011",
+ "TA-s3-chem": "TA-p018",
+ "TA-s4-chem": "TA-p026",
+ "TA-s5-chem": "TA-p035",
+ "TA-s6-chem": "TA-p043",
+ "TA-s7-chem": "TA-p051",
+ "TA-s8-chem": "TA-p058",
+ "TA-s9-chem": "TA-p065",
+ "TA-s10-chem": "TA-p072",
+ "TA-s11-chem": "TA-p081",
+ "TA-s12-chem": "TA-p090"
+}

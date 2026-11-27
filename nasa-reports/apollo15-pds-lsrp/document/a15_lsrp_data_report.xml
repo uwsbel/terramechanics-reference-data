@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1N00.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<Product_Document xmlns="http://pds.nasa.gov/pds4/pds/v1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1N00.xsd">
+
+  <Identification_Area>
+    <logical_identifier>urn:nasa:pds:a15lsrp_soil_mechanics:document:a15_lsrp_data_report</logical_identifier>
+    <version_id>1.0</version_id>
+    <title>Soil Mechanics Experiment, Apollo 15 - LSRP Data Package, August 1971</title>
+    <information_model_version>1.23.0.0</information_model_version>
+    <product_class>Product_Document</product_class>
+    <Citation_Information>
+      <publication_year>2025</publication_year>
+      <description>This is a low-resolution, PDF/A version of the       
+        entire Apollo 15 Soil Mechanics Lunar Self-Recording Penetrometer (LSRP)  
+        data report as microfilmed by the National Space Science Data Center.     
+        
+        A summary of the contents of the report is provided:                      
+        
+        The soil mechanics data consist of handwritten plots, tables, and         
+        notes from the self-recording penetrometer carried on the Apollo 15       
+        mission.  The Stress versus Penetration plots give the stress in          
+        Newtons per square centimeter versus the penetration depth in             
+        centimeters on a linear scale.  These are plotted from the data in the    
+        Lunar Penetration Data Reduction Tables, which are taken from the         
+        penetrometer drum returned to Earth.  These tables give mission, date,    
+        flight unit, lunar drum, index number, and notes on the cone or plate     
+        used.  The table columns give the drum load in degrees/minutes, the       
+        drum load in decimal degrees, the drum circumference deflection in        
+        millimeters (decimal degrees multiplied by .5542), the load in Newtons    
+        (calculated from a calibration curve), and the stress in Newtons per      
+        square centimeter (load divided by the cone or plate base area).  This    
+        is the value plotted for stress on the plots. A second set of columns     
+        starts with a column labelled initial drum depth/final in cm and gives    
+        a running total of the drum reading.  The next column, delta Drum         
+        Depth Reading in cm gives the difference between the current drum         
+        depth reading and the previous value.  The next column, penetration       
+        depth in cm, is the drum depth reading multiplied by 31.5 (index2,        
+        Apollo 15). On some tables there is a final column, headed                
+        '+correction add 3.75', which is the previous column with a 3.75 cm       
+        correction added.  This is a correction for the additional length of      
+        the cone attached to the bottom of the penetrometer rod on Apollo 15,     
+        it does not appear on the Apollo 16 tables.                               
+        
+        The sets of handwritten notes give times and notes on the sampling        
+        locations and other aspects of the sampling, including diagrams.  The     
+        Post-Flight Calibration plots give load in Newtons versus drum            
+        circumferential deflection in mm.  One line shows the deadweight load     
+        and a parallel line shows the correction for the weight of the            
+        penetrometer. The latter is the line used for the calibration.  The       
+        plot is based on a pair of post-flight calibration tables.  The first     
+        table, 'load calibration' gives the index number, the 'vert. scribe',     
+        which looks to be the starting point of the drum rotation for a given     
+        index run, and columns giving the load in kilograms and Newtons.  All     
+        values are given in degrees and minutes.  The top value in a cell is      
+        the actual reading and the lower value is the reading minus the vert.     
+        scribe value, which would represent the drum deflection. The second       
+        table, 'penetration calibration', gives the readings in cm for a given    
+        position and index number.  There is also a pre-flight calibration        
+        plot which gives the load in Newtons versus the drum circumferential      
+        deflection in mm with a 2 sigma error line on each side of the            
+        calibration line.                                                         
+        
+        Sections of frame 20 are difficult to read because they were not clear    
+        on the microfilm.  The information can be read with some difficulty or    
+        calculated from the surrounding values.</description>
+    </Citation_Information>
+    <Modification_History>
+      <Modification_Detail>
+        <modification_date>2025-08-14</modification_date>
+        <version_id>1.0</version_id>
+        <description>Creation.</description>
+      </Modification_Detail>
+    </Modification_History>
+  </Identification_Area>
+  <Context_Area>
+    <Investigation_Area>
+      <name>Apollo 15</name>
+      <type>Mission</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:investigation:mission.apollo_15</lid_reference>
+        <reference_type>document_to_investigation</reference_type>
+      </Internal_Reference>
+    </Investigation_Area>
+    <Observing_System>
+      <Observing_System_Component>
+        <name>The Apollo 15 Lunar Module</name>
+        <type>Host</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument_host:spacecraft.a15l</lid_reference>
+          <reference_type>is_instrument_host</reference_type>
+        </Internal_Reference>
+      </Observing_System_Component>
+      <Observing_System_Component>
+        <name>Apollo 15 Lunar Module Lunar Self-Recording Penetrometer</name>
+        <type>Instrument</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument:lsrp.a15l</lid_reference>
+          <reference_type>is_instrument</reference_type>
+        </Internal_Reference>
+      </Observing_System_Component>
+    </Observing_System>
+    <Target_Identification>
+      <name>Moon</name>
+      <type>Satellite</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:target:satellite.earth.moon</lid_reference>
+        <reference_type>document_to_target</reference_type>
+      </Internal_Reference>
+    </Target_Identification>
+  </Context_Area>
+  <Document>
+    <publication_date>1971-08-13</publication_date>
+    <Document_Edition>
+      <edition_name>PDF/A version</edition_name>
+      <language>English</language>
+      <files>1</files>
+      <Document_File>
+        <file_name>a15_lsrp_data_report.pdf</file_name>
+        <document_standard_id>PDF/A</document_standard_id>
+      </Document_File>
+    </Document_Edition>
+  </Document>
+</Product_Document>

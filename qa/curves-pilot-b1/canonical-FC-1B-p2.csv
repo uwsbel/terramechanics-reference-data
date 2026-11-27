@@ -1,0 +1,94 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-1B,2,n1172,marker,1,875,3308,3,3,triangle-down,,11.4641,-10.8118,0.6465,1.2868,piecewise,agreed,claude,11.3943,-11.2388,,874,3309
+FC-1B,2,n1172,marker,2,991,3302,3,3,triangle-down,,30.9682,-9.4355,0.629,1.286,piecewise,agreed,claude,30.9731,-9.8572,,991,3303
+FC-1B,2,n1172,marker,3,1108,3287,3,3,triangle-down,,50.6829,-4.9393,0.6234,1.2834,piecewise,agreed,claude,50.4237,-5.3438,,1107,3288
+FC-1B,2,n1172,marker,4,1222,3260,3,3,triangle-down,,70.1344,3.7987,0.71,1.2981,piecewise,agreed,claude,70.5974,3.735,,1225,3260
+FC-1B,2,n1172,marker,5,1345,3247,3,3,triangle-down,,91.0632,7.6191,0.803,1.2966,piecewise,agreed,claude,91.0689,7.9455,,1345,3246
+FC-1B,2,n1172,marker,6,1460,3214,3,3,triangle-down,,110.7714,18.5402,0.8158,1.2923,piecewise,agreed,claude,111.0127,16.2342,,1461.5,3220.5
+FC-1B,2,n1172,marker,7,1578,3194,3,3,triangle-down,,130.9804,24.8599,0.7595,1.2898,piecewise,agreed,claude,130.9593,24.1656,,1578,3196
+FC-1B,2,n1172,marker,8,1688,3171,3,3,triangle-down,,149.8273,32.2872,0.7069,1.2868,piecewise,agreed,claude,149.7803,31.2508,,1688,3174
+FC-1B,2,n1172,marker,9,1808,3153,3,3,triangle-down,,170.1725,37.89,0.6609,1.2846,piecewise,agreed,claude,170.1986,37.0332,,1808.5,3155.5
+FC-1B,2,n1172,marker,10,1932,3132,3,3,triangle-down,,191.2077,44.5259,0.6208,1.2819,piecewise,agreed,claude,191.2197,43.6722,,1932.5,3134.5
+FC-1B,2,n1172,marker,11,1988,3116,3,3,triangle-down,,200.741,49.8204,0.61,1.2798,piecewise,agreed,claude,200.8243,48.0819,,1989,3121
+FC-1B,2,n1172,marker,12,2107,3104,3,3,triangle-down,,221.1046,53.3144,0.6256,1.2785,piecewise,agreed,claude,220.5387,52.3038,,2104,3107
+FC-1B,2,n1172,marker,13,2284,3077,3,3,triangle-down,,251.4309,61.7385,0.6559,1.2751,piecewise extrapolated x,agreed,claude,250.4021,62.4984,,2278,3075
+FC-1B,2,n1760,marker,1,940,3281,3,3,plus,,22.4717,-1.8289,0.6368,1.2819,piecewise,agreed,claude,22.6855,-1.5703,,941,3280
+FC-1B,2,n1760,marker,2,1058,3267,3,3,plus,,42.3482,2.3478,0.619,1.2987,piecewise,agreed,claude,42.283,1.2219,,1058,3270
+FC-1B,2,n1760,marker,3,1163,3260,3,3,plus,,60.1198,4.1645,0.6654,1.298,piecewise,agreed,claude,60.2184,4.1074,,1164,3260
+FC-1B,2,n1760,marker,4,1273,3240,3,3,plus,,78.8687,10.5332,0.7489,1.2954,piecewise,agreed,claude,79.2537,9.4297,,1275.5,3243
+FC-1B,2,n1760,marker,6,1398,3226,12,12,plus,Symbol overlaps vertical grid/frame; center read from exposed sides.,100.1681,14.6819,2.3984,4.6211,piecewise,resolved,codex,99.6499,16.1227,"the other reading is on the line's ink and the kept one is not; credit codex (audit re-check 2026-10-27: item 032, round 1, Claude's adjudicator other, Codex's other; students R1 problem R2 cannot tell)",1395,3222
+FC-1B,2,n1760,marker,6,1510,3203,3,3,plus,,119.3451,22.1084,0.7919,1.2908,piecewise,agreed,claude,119.5046,21.0482,,1511,3206
+FC-1B,2,n1760,marker,7,1634,3189,3,3,plus,,140.5523,26.2757,0.7329,1.2892,piecewise,agreed,claude,140.438,25.9414,,1633.5,3190
+FC-1B,2,n1760,marker,8,1749,3177,3,3,plus,,160.1167,29.7939,0.68,1.2878,piecewise,agreed,claude,160.3302,30.1603,,1750.5,3176
+FC-1B,2,n1760,marker,9,1863,3162,3,3,plus,,179.4357,34.3761,0.6432,1.286,piecewise,agreed,claude,179.3778,34.2284,,1863,3162.5
+FC-1B,2,n1760,marker,10,1979,3153,3,3,plus,,199.0735,36.8307,0.6057,1.285,piecewise,agreed,claude,199.4996,35.7864,,1982,3156
+FC-1B,2,n1760,marker,11,2107,3137,3,3,plus,,220.9778,41.6791,0.6254,1.2831,piecewise,agreed,claude,220.5977,41.7244,,2105,3137
+FC-1B,2,n1760,marker,12,2278,3111,3,3,plus,,250.2735,49.7873,0.651,1.2799,piecewise extrapolated x,agreed,claude,249.9309,49.8281,,2276,3111
+FC-1B,2,n1760,marker,1,780,3293,30,8,plus,"Symbol overlaps or touches zero grid line. Visible plus just left of plot frame; provisionally retained as n1760 at scanned position (negative calibrated x). Could be displaced origin symbol/reference glyph; horizontal bound reaches frame. Adjacent oval farther left is printed 0 label, not a marker.",-4.2752,-5.1192,5.377,3.2536,piecewise extrapolated x,one-sided-verified,codex,,,"a plus drawn about 25 px left of the frame on the zero line (Codex crop p2-origin.png, confirmed by Claude): the n1760 point at zero displacement, displaced by the draftsman to clear the origin cluster; the fitted x of -4.7 is not a measurement and the x bound (5.1) covers x = 0; Claude's reading omitted it",,
+FC-1B,2,n2345,marker,1,806,3340,3,3,square,,-0.2224,-21.508,0.6602,1.2926,piecewise extrapolated x,agreed,claude,0.4374,-21.613,,809,3340
+FC-1B,2,n2345,marker,2,875,3342,3,3,square,,11.3559,-22.6236,0.6463,1.2932,piecewise,agreed,claude,11.2876,-23.566,,874,3344.5
+FC-1B,2,n2345,marker,3,992,3339,3,3,square,,31.0085,-22.2947,0.6286,1.2929,piecewise,agreed,claude,31.0255,-22.3649,,992,3339
+FC-1B,2,n2345,marker,4,1106,3329,3,3,square,,50.186,-19.5161,0.6211,1.2913,piecewise,agreed,claude,50.1096,-19.9241,,1106,3330
+FC-1B,2,n2345,marker,5,1281,3318,3,3,square,,79.9235,-16.7626,0.7533,1.2897,piecewise,agreed,claude,79.8114,-17.6726,,1280.5,3320.5
+FC-1B,2,n2345,marker,6,1348,3312,3,3,square,,91.3163,-15.0873,0.8039,1.2887,piecewise,agreed,claude,91.4809,-15.9999,,1349,3314.5
+FC-1B,2,n2345,marker,7,1458,3297,3,3,square,,110.107,-10.549,0.8184,1.2862,piecewise,agreed,claude,110.0309,-10.5726,,1457.5,3297
+FC-1B,2,n2345,marker,8,1575,3290,3,3,square,,130.1156,-8.832,0.7627,1.2852,piecewise,agreed,claude,130.1832,-9.0228,,1575.5,3290.5
+FC-1B,2,n2345,marker,9,1689,3285,3,3,square,,149.6026,-7.7915,0.7084,1.2845,piecewise,agreed,claude,149.2181,-8.1287,,1687,3286
+FC-1B,2,n2345,marker,10,1811,3273,3,3,square,,170.2521,-4.3695,0.6602,1.2826,piecewise,agreed,claude,169.8577,-4.6917,,1809,3274
+FC-1B,2,n2345,marker,11,1931,3261,3,3,square,,190.562,-0.9357,0.6215,1.2846,piecewise,agreed,claude,190.8217,-1.9611,,1933,3264
+FC-1B,2,n2345,marker,12,2042,3257,3,3,square,on the zero line,209.4227,-0.2248,0.6164,1.2954,piecewise,agreed,claude,209.7094,-0.5421,,2044,3258
+FC-1B,2,n2345,marker,13,2224,3224,3,3,square,,240.6145,10.2786,0.6403,1.2958,piecewise,agreed,claude,240.3674,9.816,,2222.5,3225.5
+FC-1B,2,n2345,marker,14,2278,3219,3,3,square,,249.8514,11.7068,0.6491,1.2952,piecewise extrapolated x,agreed,claude,249.7068,11.0687,,2277,3221
+FC-1B,2,n2935,marker,1,806,3315,3,3,asterisk,,-0.1468,-12.8225,0.66,1.2879,piecewise extrapolated x,agreed,claude,0.5013,-13.9739,,809,3318
+FC-1B,2,n2935,marker,2,932,3317,3,3,asterisk,,21.0082,-14.2862,0.6378,1.2886,piecewise,agreed,claude,21.0628,-14.7121,,932,3318
+FC-1B,2,n2935,marker,3,1045,3305,3,3,asterisk,,40.0278,-10.8072,0.6208,1.2867,piecewise,agreed,claude,39.9124,-10.6991,,1044.5,3304.5
+FC-1B,2,n2935,marker,4,1171,3296,3,3,asterisk,,61.341,-8.4501,0.6708,1.2853,piecewise,agreed,claude,61.1023,-9.3684,,1170,3298.5
+FC-1B,2,n2935,marker,5,1281,3293,3,3,asterisk,,80.0206,-8.0795,0.7538,1.285,piecewise,agreed,claude,80.1667,-8.4774,,1282,3294
+FC-1B,2,n2935,marker,6,1393,3283,3,3,asterisk,,99.0678,-5.2902,0.8385,1.2834,piecewise,agreed,claude,98.5699,-5.9993,,1390,3285
+FC-1B,2,n2935,marker,7,1518,3281,3,3,asterisk,,120.4151,-5.3587,0.7896,1.2833,piecewise,agreed,claude,120.4194,-4.683,,1518,3279
+FC-1B,2,n2935,marker,8,1634,3278,3,3,asterisk,,140.2347,-5.0251,0.7344,1.2831,piecewise,agreed,claude,140.3845,-4.3427,,1635,3276
+FC-1B,2,n2935,marker,9,1752,3273,3,3,asterisk,,160.2879,-4.0093,0.6793,1.2824,piecewise,agreed,claude,160.4102,-4.0083,,1753,3273
+FC-1B,2,n2935,marker,10,1926,3234,3,3,asterisk,,189.8171,8.6003,0.6231,1.2964,piecewise,agreed,claude,190.0894,8.6179,,1928,3234
+FC-1B,2,n2935,marker,11,2042,3231,3,3,asterisk,,209.5219,8.9389,0.6166,1.2963,piecewise,agreed,claude,209.5513,8.624,,2042.5,3232
+FC-1B,2,n2935,marker,12,2164,3227,3,3,asterisk,,230.3615,9.5928,0.6325,1.296,piecewise,agreed,claude,230.2745,10.1762,,2163.5,3225.5
+FC-1B,2,n2935,marker,13,2278,3198,3,3,asterisk,,249.9334,19.1113,0.6495,1.2922,piecewise extrapolated x,agreed,claude,249.6148,18.8255,,2276,3199
+FC-1B,2,n294,marker,1,806,3293,3,3,circle,on the zero line,-0.0802,-5.1792,0.6599,1.2838,piecewise extrapolated x,agreed,claude,0.2366,-5.6283,,807,3294
+FC-1B,2,n294,marker,2,875,3290,3,3,circle,,11.5214,-4.5584,0.6466,1.2834,piecewise,agreed,claude,11.4545,-4.2938,,874,3289
+FC-1B,2,n294,marker,3,991,3284,3,3,circle,,31.0303,-3.1826,0.6291,1.2826,piecewise,agreed,claude,30.7089,-2.2053,,989,3281
+FC-1B,2,n294,marker,4,1108,3264,3,3,circle,on the x=50 gridline,50.7691,3.0953,0.6239,1.2984,piecewise,agreed,claude,50.4957,1.9828,,1107,3267
+FC-1B,2,n294,marker,5,1222,3238,3,3,circle,,70.2189,11.5544,0.7104,1.295,piecewise,agreed,claude,70.153,10.1102,,1222,3242
+FC-1B,2,n294,marker,6,1345,3222,3,3,circle,,91.1617,16.4326,0.8036,1.2931,piecewise,agreed,claude,90.8029,14.6659,,1343,3227
+FC-1B,2,n294,marker,7,1460,3187,3,3,circle,,110.8763,28.059,0.8153,1.2884,piecewise,agreed,claude,110.9733,28.0646,,1460.5,3187
+FC-1B,2,n294,marker,8,1577,3170,3,3,circle,,130.8978,33.3275,0.7595,1.2864,piecewise,agreed,claude,130.7183,33.7053,,1576,3169
+FC-1B,2,n294,marker,9,1688,3147,3,3,circle,on the x=150 gridline,149.9104,40.7487,0.7065,1.2834,piecewise,agreed,claude,149.6973,40.0764,,1687,3149
+FC-1B,2,n294,marker,10,1806,3120,3,3,circle,,169.952,49.5371,0.6615,1.2799,piecewise,agreed,claude,169.9847,49.213,,1806.5,3121
+FC-1B,2,n294,marker,11,1931,3101,3,3,circle,,191.1533,55.462,0.6211,1.2776,piecewise,agreed,claude,190.9223,55.4991,,1930,3101
+FC-1B,2,n294,marker,12,2050,3086,3,3,circle,,211.4412,60.0139,0.6182,1.2758,piecewise,agreed,claude,211.3005,60.044,,2049.5,3086
+FC-1B,2,n294,marker,13,2171,3063,3,3,circle,,232.1905,67.3744,0.6341,1.2728,piecewise,agreed,claude,232.0643,66.8677,,2170.5,3064.5
+FC-1B,2,n294,marker,14,2275,3050,3,3,circle,,249.9997,71.3144,0.65,1.2713,piecewise extrapolated x,agreed,claude,249.8081,71.3308,,2274,3050
+FC-1B,2,n3520,marker,1,806,3365,3,3,x,,-0.298,-30.1936,0.6603,1.2973,piecewise extrapolated x,agreed,claude,0.3561,-31.3355,,809,3368
+FC-1B,2,n3520,marker,2,932,3354,3,3,x,,20.8856,-27.1398,0.6376,1.2956,piecewise,agreed,claude,20.9483,-27.5606,,932,3355
+FC-1B,2,n3520,marker,3,1042,3348,3,3,x,,39.3706,-25.7259,0.621,1.2947,piecewise,agreed,claude,39.3523,-25.7907,,1042,3348
+FC-1B,2,n3520,marker,4,1169,3342,3,3,x,,60.8269,-24.4157,0.6683,1.2939,piecewise,agreed,claude,60.944,-24.8234,,1170,3343
+FC-1B,2,n3520,marker,5,1278,3345,3,3,x,,79.3096,-26.122,0.7505,1.2948,piecewise,agreed,claude,79.3732,-26.691,,1278.5,3346.5
+FC-1B,2,n3520,marker,6,1399,3335,3,3,x,,99.8792,-23.3862,0.8417,1.2932,piecewise,agreed,claude,100.5898,-22.7501,,1403,3333
+FC-1B,2,n3520,marker,7,1508,3328,3,3,x,,118.5286,-21.6196,0.7953,1.2922,piecewise,agreed,claude,118.4332,-22.3359,,1507.5,3330
+FC-1B,2,n3520,marker,8,1629,3327,3,3,x,,139.2054,-22.0098,0.7377,1.2923,piecewise,agreed,claude,139.0028,-22.3652,,1628,3328
+FC-1B,2,n3520,marker,9,1752,3318,3,3,x,,160.1307,-19.6343,0.6794,1.2909,piecewise,agreed,claude,160.0794,-19.9836,,1752,3319
+FC-1B,2,n3520,marker,10,1860,3309,3,3,x,,178.3972,-17.1678,0.6446,1.2895,piecewise,agreed,claude,178.3337,-17.5055,,1860,3310
+FC-1B,2,n3520,marker,11,1987,3299,5,5,x,symbol read as 8-ray at 4x zoom but the asterisk series has no gap here and the x series does; re-identified as x from sequence; student should check,199.8773,-14.4703,0.957,1.9948,piecewise,agreed,claude,199.803,-14.4463,,1987,3299
+FC-1B,2,n3520,marker,12,2093,3293,3,3,x,,217.9894,-13.0337,0.6229,1.287,piecewise,agreed,claude,218.1308,-13.1778,,2094,3293.5
+FC-1B,2,n3520,marker,13,2272,3275,3,3,x,,248.6086,-7.877,0.6464,1.2841,piecewise,agreed,claude,248.9922,-8.5247,,2274,3277
+FC-1B,2,n587,marker,1,835,3296,3,3,triangle-up,,4.7826,-6.3986,0.6526,1.2844,piecewise,agreed,claude,4.9155,-6.1434,,835,3295
+FC-1B,2,n587,marker,2,914,3291,3,3,triangle-up,,18.0703,-5.144,0.6407,1.2837,piecewise,agreed,claude,18.2978,-5.9287,,915,3293
+FC-1B,2,n587,marker,3,1028,3257,3,3,triangle-up,,37.3422,6.059,0.6236,1.2972,piecewise,agreed,claude,37.2296,6.5311,,1027.5,3255.5
+FC-1B,2,n587,marker,4,1163,3230,3,3,triangle-up,,60.2337,14.7403,0.666,1.2937,piecewise,agreed,claude,60.4101,14.7005,,1164.5,3230
+FC-1B,2,n587,marker,5,1280,3203,3,3,triangle-up,,80.2008,23.5336,0.7549,1.2902,piecewise,agreed,claude,80.9353,23.3224,,1284.5,3203.5
+FC-1B,2,n587,marker,6,1395,3172,3,3,triangle-up,,99.849,33.7499,0.8405,1.2861,piecewise,agreed,claude,99.8665,33.0571,,1395,3174
+FC-1B,2,n587,marker,7,1517,3140,3,3,triangle-up,,120.7774,44.2757,0.7874,1.282,piecewise,agreed,claude,120.8691,44.8301,,1517.5,3138.5
+FC-1B,2,n587,marker,8,1635,3122,3,3,triangle-up,,140.9615,49.8909,0.7312,1.2797,piecewise,agreed,claude,141.0227,49.9209,,1635.5,3122
+FC-1B,2,n587,marker,9,1749,3096,3,3,triangle-up,,160.4001,58.3517,0.6798,1.2764,piecewise,agreed,claude,160.3608,58.5641,,1749,3095.5
+FC-1B,2,n587,marker,10,1872,3069,3,3,triangle-up,,181.2947,67.1096,0.64,1.2729,piecewise,agreed,claude,181.1485,66.4414,,1871.5,3071
+FC-1B,2,n587,marker,11,1982,3062,3,3,triangle-up,on the x=200 gridline,199.9222,68.8968,0.6087,1.2722,piecewise,agreed,claude,199.8628,69.63,,1982,3060
+FC-1B,2,n587,marker,12,2107,3039,3,3,triangle-up,,221.3544,76.2326,0.6259,1.2693,piecewise,agreed,claude,221.2141,75.7253,,2106.5,3040.5
+FC-1B,2,n587,marker,13,2275,3017,3,3,triangle-up,"x = 250, on the gridline",250.1287,82.9501,0.6506,1.2666,piecewise extrapolated x,agreed,claude,249.9265,82.9567,,2274,3017

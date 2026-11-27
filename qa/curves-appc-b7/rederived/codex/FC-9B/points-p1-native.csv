@@ -1,0 +1,16 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_target_psf,x_unit,y_unit,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-9B,1,rs-dense,marker,1,950.333,3286.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. Vertical grid line runs through triangle; centroid reconstructed.,,psf,psf,1004.894,1796.499,20.916,29.954,piecewise
+FC-9B,1,rs-dense,marker,2,1253.333,2997.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. Left base touches vertical grid line; reconstructed from other sides.,,psf,psf,2063.25,2777.028,21.115,30.096,piecewise
+FC-9B,1,rs-dense,marker,3,1504.333,2674.0,16.5,13.5,triangle-up,Triangle centroid from reconstructed vertices. Right vertex merges with fitted line and vertical grid; widened to half symbol extent.,,psf,psf,2936.603,3888.11,59.863,49.283,piecewise
+FC-9B,1,rs-dense,marker,4,1845.0,2349.333,17.0,14.5,triangle-up,"Triangle centroid from reconstructed vertices. Base merges with 500.00 grid and fitted line endpoint; reconstructed from apex/sides, widened to half symbol extent.",,psf,psf,4116.398,5010.293,60.785,53.496,piecewise
+FC-9B,1,rs-dense,trace,1,658.027,3616.592,7.913,8.5,,first point; line begins on zero axis; centre of short diagonal stroke meeting axis ink,,psf,psf,0.045,686.024,31.089,30.862,piecewise extrapolated x
+FC-9B,1,rs-dense,trace,2,803.517,3460.5,7.448,8.0,,,500,psf,psf,500.0,1209.119,29.065,29.817,piecewise
+FC-9B,1,rs-dense,trace,3,1092.017,3152.0,7.913,8.5,,,1500,psf,psf,1500.001,2252.725,31.224,31.908,piecewise
+FC-9B,1,rs-dense,trace,4,1378.9,2842.0,6.982,7.5,,,2500,psf,psf,2499.999,3310.008,27.423,28.634,piecewise
+FC-9B,1,rs-dense,trace,5,1522.934,2688.422,7.913,8.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3000,psf,psf,3000.0,3838.079,30.095,31.918,piecewise
+FC-9B,1,rs-dense,trace,6,1667.114,2533.5,8.379,9.0,,,3500,psf,psf,3500.001,4373.201,31.419,34.085,piecewise
+FC-9B,1,rs-dense,trace,7,1811.294,2379.082,7.913,8.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,4000,psf,psf,3999.999,4907.617,29.559,32.689,piecewise
+FC-9B,1,rs-dense,trace,8,1835.928,2352.384,17,15,,"last point; peak of monotonically increasing straight trace; terminal locus concealed in final triangle base and 500.00 grid; position assigned to ink merger, wide endpoint bound covers concealed tip",,psf,psf,4085.238,5000.011,60.803,55.408,piecewise
+FC-9B,1,rs-dense,feature,1,658.027,3616.592,7.913,8.5,,first point,,psf,psf,0.045,686.024,31.089,30.862,piecewise extrapolated x
+FC-9B,1,rs-dense,feature,2,1835.928,2352.384,17,15,,"last point; peak of monotonically increasing straight trace; terminal locus concealed in final triangle base and 500.00 grid; position assigned to ink merger, wide endpoint bound covers concealed tip",,psf,psf,4085.238,5000.011,60.803,55.408,piecewise
+FC-9B,1,rs-dense,feature,3,658.027,3616.592,7.913,8.5,,intercept,,psf,psf,0.045,686.024,31.089,30.862,piecewise extrapolated x

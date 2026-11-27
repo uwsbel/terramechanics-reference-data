@@ -1,0 +1,29 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,run12,feature,3,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 002 (Claude's adjudicator: yes; Codex's: yes)
+1,run12,trace,36,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 004 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,38,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 004 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,39,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,40,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,41,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 006 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,43,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 007 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,45,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 008 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,46,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 009 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,47,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,48,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,49,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 012 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,50,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 013 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,52,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 013 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,53,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 014 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,54,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 014 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,56,claude,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 015 (Claude's adjudicator: all no; Codex's: all no)
+1,run12,trace,57,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 016 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,58,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 016 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,60,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 017 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,17,codex,resolved,,both readings are on the drawn line; the difference is within its size (blind adjudication item 003 (Claude's adjudicator: both; Codex's: both))
+1,run4,feature,4,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 019 (Claude's adjudicator: yes; Codex's: yes)
+1,run4,feature,6,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 020 (Claude's adjudicator: no; Codex's: no): Mark is on run4 ink, but the line runs straight there (du/dv ~0.45-0.55 from v 1715 to 1850). The rounding from the plateau into the steep fall ends near (1795,"
+1,run4,feature,9,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 022 (Claude's adjudicator: yes; Codex's: yes)
+1,run12,trace,64,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,65,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run12,trace,66,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,run4,feature,7,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 004 (Claude's adjudicator: no; Codex's: no): The mark is on run 4, but the bend is where the line crosses the 50 lb grid line: du/dv about 0.44 above v1845, about 0.8 below v1866, 1.0 by v1885. Tangent lin"

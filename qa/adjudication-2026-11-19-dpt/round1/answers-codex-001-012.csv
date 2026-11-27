@@ -1,0 +1,13 @@
+item,answer,confidence,comment
+001,p,medium,"The solid trace steepens near (807,1807), just below the timing line. P is within 8 px of the bend."
+002,all yes,high,"The thick solid trace continues through the timing line on both sides of the sample, to the right of the dashed baseline."
+003,all yes,high,"All three points follow the thick solid stroke to the right of the dashed baseline. That stroke continues through the timing line below the zero label."
+004,all no,high,"The solid trace reaches the frame near v=1322. The sample at v=1317 is more than 2 px inside the frame."
+005,p,medium,"The free edge of the solid trace turns left into the rise near (1322,2568), where it joins the timing line. Q is on the approach to that turn."
+006,yes,medium,"The solid trace visibly flattens through a bend near (1176,2458), within 8 px of Q."
+007,yes,high,"Q is on the crest of the small shoulder. The trace moves right toward lower deceleration on either side."
+008,no,high,"The trace runs nearly straight through Q at 4x. The small edge steps show no visible change in the trace's direction there."
+009,all no,high,"The solid trace reaches the frame near v=1320. The sample at v=1315 is more than 2 px inside the frame."
+010,all yes,high,"All five samples follow the solid stroke to the right of the dashed baseline. The same stroke emerges on both sides of the ruler crossing."
+011,all yes,high,"The solid stroke runs to the right of the dashed baseline and through the timing line. The zero label interrupts it between samples."
+012,all no,high,"The solid trace reaches the frame near v=1310. The sample at v=1305 is more than 2 px inside the frame."

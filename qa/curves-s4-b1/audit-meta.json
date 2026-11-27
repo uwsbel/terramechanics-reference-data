@@ -1,0 +1,33 @@
+{
+  "F4-19": {
+    "source": "1968",
+    "title": "Figure 4-19: Force and Displacement versus Time for Vertical Impact Tests on Various RS Soils (printed 4-23, PDF 208)",
+    "rotation": 0,
+    "legend_hint": "the legend in the top panel",
+    "series_noun": "run",
+    "series": {
+      "run4": {"label": "Run No. 4", "symbol": "", "noun": "curve (the solid line)"},
+      "run10": {"label": "Run No. 10", "symbol": "", "noun": "curve (the dotted line)"},
+      "run12": {"label": "Run No. 12", "symbol": "", "noun": "curve (the line of long dashes with short dashes between)"}
+    },
+    "panels": {
+      "1": {"name": "panel 1 (vertical force, top)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "2": {"name": "panel 2 (displacement, bottom)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}
+    },
+    "notes_for_reviewers": "Vertical force (top panel) and footpad displacement into the soil (bottom panel) against time for three vertical impacts of a footpad on RS soil. Printed upright. Three lines in each panel: Run No. 4 solid, Run No. 10 dotted, Run No. 12 long dashes with short dashes between. In the first few milliseconds the force lines rise steeply together beside the left frame; tell them apart by line style, and answer cannot tell where you cannot. In the top panel the lines cross several times after the force peak (near 15, 17 and 23 ms, and again near 100 to 115 ms), and the late dotted and dashed lines run close together. A crosshair in the white gap between dots or dashes, or on a grid line rather than a run's line, is a no."
+  },
+  "F4-20": {
+    "source": "1968",
+    "title": "Figure 4-20: Force versus Displacement for Vertical Impact Tests on Various RS Soils (printed 4-24, PDF 209)",
+    "rotation": 90,
+    "legend_hint": "the legend printed on the figure",
+    "series_noun": "run",
+    "series": {
+      "run4": {"label": "Run No. 4", "symbol": "", "noun": "curve (the solid line)"},
+      "run10": {"label": "Run No. 10", "symbol": "", "noun": "curve (the dotted line)"},
+      "run12": {"label": "Run No. 12", "symbol": "", "noun": "curve (the line of long dashes with short dashes between)"}
+    },
+    "panels": {"1": {"name": "panel 1 (vertical force)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Vertical force against footpad displacement for the same three impacts as Figure 4-19. Printed sideways; the packet shows it turned upright. Run No. 4 solid, Run No. 10 dotted, Run No. 12 long dashes with short dashes between. All three lines start together at the origin corner and run together beside the left frame; tell them apart by line style, and answer cannot tell where you cannot. After the peaks the falling lines cross (near 0.7 in, 0.75 in and 1.4 in). The scan has a blank strip near 1.6 to 1.9 in where the dotted line and the grid are missing: a crosshair in that strip is a no. Run No. 4 ends with a sharp hook near 4.1 in, where its line doubles back on itself."
+  }
+}

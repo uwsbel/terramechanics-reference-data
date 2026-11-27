@@ -1,0 +1,82 @@
+{
+  "F2-45": {
+    "rows": 86,
+    "counts": {
+      "lpt95": {
+        "trace": 30,
+        "feature": 25,
+        "marker": 0
+      },
+      "lpt79": {
+        "trace": 26,
+        "feature": 5,
+        "marker": 0
+      }
+    },
+    "verified_x_knots": 8,
+    "verified_y_knots": 11,
+    "label_checks": 6,
+    "all_points_dark_ink_within_2px": true,
+    "note": "Raw ink distance is not D031; line identity and gaps were visually reviewed."
+  },
+  "F2-46": {
+    "rows": 77,
+    "counts": {
+      "lpt98": {
+        "trace": 26,
+        "feature": 18,
+        "marker": 0
+      },
+      "lpt89": {
+        "trace": 26,
+        "feature": 7,
+        "marker": 0
+      }
+    },
+    "verified_x_knots": 7,
+    "verified_y_knots": 7,
+    "label_checks": 6,
+    "all_points_dark_ink_within_2px": true,
+    "note": "Raw ink distance is not D031; line identity and gaps were visually reviewed."
+  },
+  "F2-47": {
+    "rows": 77,
+    "counts": {
+      "lpt101": {
+        "trace": 26,
+        "feature": 7,
+        "marker": 0
+      },
+      "lpt91": {
+        "trace": 30,
+        "feature": 14,
+        "marker": 0
+      }
+    },
+    "verified_x_knots": 8,
+    "verified_y_knots": 5,
+    "label_checks": 6,
+    "all_points_dark_ink_within_2px": true,
+    "note": "Raw ink distance is not D031; line identity and gaps were visually reviewed."
+  },
+  "F2-48": {
+    "rows": 92,
+    "counts": {
+      "lpt87": {
+        "trace": 34,
+        "feature": 17,
+        "marker": 0
+      },
+      "lpt85": {
+        "trace": 34,
+        "feature": 7,
+        "marker": 0
+      }
+    },
+    "verified_x_knots": 9,
+    "verified_y_knots": 7,
+    "label_checks": 7,
+    "all_points_dark_ink_within_2px": true,
+    "note": "Raw ink distance is not D031; line identity and gaps were visually reviewed."
+  }
+}

@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-14,1,lsm-loose,marker,1,669.0,3679.0,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 32 px. Fit touches right base.,115.388,209.966,22.896,29.369,piecewise
+FC-14,1,lsm-loose,marker,2,843.0,3619.33,2.0,5.167,triangle-up,Reconstructed triangle centroid; outer height about 31 px. ,707.504,415.926,9.488,19.649,piecewise
+FC-14,1,lsm-loose,marker,3,1147.0,3267.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Fit touches right side near base.,1748.601,1614.012,23.834,30.046,piecewise
+FC-14,1,lsm-loose,marker,4,1317.0,3192.0,2.0,5.833,triangle-up,Reconstructed triangle centroid; outer height about 35 px. ,2334.695,1877.394,9.724,22.757,piecewise
+FC-14,1,lsm-loose,marker,5,1486.0,2904.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. ,2915.041,2864.73,9.082,21.203,piecewise
+FC-14,1,lsm-loose,marker,6,1750.0,2653.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. ,3817.495,3738.107,9.053,20.801,piecewise
+FC-14,1,lsm-loose,marker,7,1933.0,2583.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Horizontal grid crosses triangle; reconstructed sides remain visible.,4443.47,3983.42,22.86,30.005,piecewise
+FC-14,1,lsm-loose,marker,8,2011.0,2511.33,2.0,5.167,triangle-up,Reconstructed triangle centroid; outer height about 31 px. ,4709.685,4237.715,9.157,20.291,piecewise
+FC-14,1,lsm-loose,trace,1,634.872,3741.3,5.5,5.5,,first point; fit meets x=0 axis; lower-left frame junction hides center within stroke width; no extension below frame inferred,0.001,0.07,21.198,21.145,piecewise extrapolated x y
+FC-14,1,lsm-loose,trace,2,782.154,3608.278,5.16,5.16,,Normal stress sampling target 500 psf; local diagonal ink center.,500.0,450.831,20.168,19.721,piecewise
+FC-14,1,lsm-loose,trace,3,929.372,3471.717,5.16,5.16,,Normal stress sampling target 1000 psf; local diagonal ink center.,1000.0,913.453,20.659,19.529,piecewise
+FC-14,1,lsm-loose,trace,4,1074.706,3337.975,5.528,5.528,,Normal stress sampling target 1500 psf; local diagonal ink center.,1500.001,1372.278,22.092,21.4,piecewise
+FC-14,1,lsm-loose,trace,5,1220.087,3205.048,4.791,4.791,,Normal stress sampling target 2000 psf; local diagonal ink center.,1999.999,1829.617,19.689,19.266,piecewise
+FC-14,1,lsm-loose,trace,6,1365.297,3072.302,4.423,4.423,,Normal stress sampling target 2500 psf; local diagonal ink center.,2499.999,2286.829,17.908,18.174,piecewise
+FC-14,1,lsm-loose,trace,7,1510.456,2937.347,4.791,4.791,,Normal stress sampling target 3000 psf; local diagonal ink center.,3000.002,2751.924,18.639,19.452,piecewise
+FC-14,1,lsm-loose,trace,8,1656.825,2803.246,4.423,4.423,,Normal stress sampling target 3500 psf; local diagonal ink center.,3499.998,3216.713,17.289,18.223,piecewise
+FC-14,1,lsm-loose,trace,9,1803.195,2668.103,5.16,5.16,,Normal stress sampling target 4000 psf; local diagonal ink center.,3999.999,3687.865,19.909,20.358,piecewise
+FC-14,1,lsm-loose,trace,10,1949.69,2533.009,5.16,5.16,,Normal stress sampling target 4500 psf; local diagonal ink center.,4500.002,4160.167,19.955,20.336,piecewise
+FC-14,1,lsm-loose,trace,11,2015.0,2476.0,5.5,5.5,,last point; maximum of trace,4722.948,4360.815,21.149,21.633,piecewise
+FC-14,1,lsm-loose,feature,1,634.872,3741.3,5.5,5.5,,first point; ink joins axes at lower-left frame corner; center/frame clipping unresolved within half-stroke bound,0.001,0.07,21.198,21.145,piecewise extrapolated x y
+FC-14,1,lsm-loose,feature,2,2015.0,2476.0,5.5,5.5,,last point; maximum of trace,4722.948,4360.815,21.149,21.633,piecewise
+FC-14,1,lsm-loose,feature,3,634.872,3741.3,5.5,5.5,,intercept; ink joins axes at lower-left frame corner; center/frame clipping unresolved within half-stroke bound,0.001,0.07,21.198,21.145,piecewise extrapolated x y

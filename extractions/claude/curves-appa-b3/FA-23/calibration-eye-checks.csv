@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,label_side,label_centre_u,label_centre_v,line_value_anchored,line_position_at_label_px,label_offset_px,verdict,note
+FA-23,1,y,55,left,801.5,1493.5,55,v 1489.7,+3.8,agrees,"the unit-weight scale of this figure runs 55 to 100, not 25 to 65 as TASK.md describes; above the 55 line the frame holds one unlabelled line (v about 1410) and the top frame line (about 51), both left out (see notes.md)"
+FA-23,1,y,60,left,810.5,1902.5,60,v 1905.8,-3.3,agrees,
+FA-23,1,y,70,left,816.5,2556.5,70,v 2556.4,+0.1,agrees,the 69.2 label is printed just above it and is not an axis label
+FA-23,1,y,80,left,821.5,3043.0,80,v 3046.0,-3.0,agrees,
+FA-23,1,y,100,left,812.5,3731.5,100,v 3728.1,+3.4,agrees,"bottom frame line; too thick for the ink check (rejected as a knot, insufficient ink); nothing is read below 95"
+FA-23,1,y,55,right,2293.0,1475.5,55,v 1476.2,-0.7,agrees,
+FA-23,1,y,70,right,2307.5,2539.5,70,v 2540.4,-0.9,agrees,the 71.2 label below it has its own leader
+FA-23,1,y,80,right,2315.0,3024.5,80,v 3029.8,-5.3,agrees,
+FA-23,1,y,95,right,2318.0,3567.0,95,v 3567.6,-0.6,agrees,the 94.0 label above it has its own leader
+FA-23,1,x,0.0,bottom,874.5,3781.5,0,u 869.6,+4.9,agrees,
+FA-23,1,x,0.5,bottom,1552.5,3771.0,0.5,u 1551.6,+0.9,agrees,
+FA-23,1,x,1.0,bottom,2257.5,3763.5,1.0,u 2247.7,+9.8,agrees,printed just right of the right frame line

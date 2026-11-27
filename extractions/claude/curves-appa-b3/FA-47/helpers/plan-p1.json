@@ -1,0 +1,59 @@
+{
+ "figure_id": "FA-47",
+ "cal_dir": "out/FA-47/cal-p1",
+ "bound_px": 3,
+ "lines": {
+  "upper": {"uref": 890, "a": 2338.41, "b": 0.44612, "centres": "out/FA-47/helpers/centres-A-clean.csv", "symbol": "dashed line"},
+  "mean":  {"uref": 890, "a": 2383.68, "b": 0.41961, "centres": "out/FA-47/helpers/centres-B-clean.csv", "symbol": "solid line"},
+  "lower": {"uref": 890, "a": 2434.83, "b": 0.38595, "centres": "out/FA-47/helpers/centres-C-clean.csv", "symbol": "dashed line"}
+ },
+ "samples": {
+  "upper": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); its first visible ink is at the frame's inner edge (u 892), sample on the frame centre"],
+   [1031, "Dr 0.1: the crossing (u 1028.0) is on the grid line where a dash starts; the gap (u 1000 to 1025) ends at the grid line and the dash's ink shows from u 1030; sample at its first visible ink (rule 7)"],
+   [1178, "Dr 0.2: the crossing (u 1167.0) is in a dash gap (u 1140 to 1176); moved to the nearest dash end, the start of the next dash (u 1177; the previous one ends at u 1139)"],
+   ["x=0.3", "Dr 0.3 crossing, on the dash (it ends at u 1312, just past the grid line)"],
+   ["x=0.4", "Dr 0.4 crossing, on the dash (u 1358 to 1480)"],
+   ["x=0.5", "Dr 0.5 crossing, on the dash (u 1507 to 1663)"],
+   ["x=0.6", "Dr 0.6 crossing, on the dash (u 1691 to 1827)"],
+   ["x=0.7", "Dr 0.7 crossing, on the dash (u 1850 to 1957)"],
+   ["x=0.8", "Dr 0.8 crossing, on the dash (u 1991 to 2113)"],
+   ["x=0.9", "Dr 0.9 crossing, on the dash (it starts at u 2138, before the grid line)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0), 8 px above the mean line's end"]
+  ],
+  "mean": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 893)"],
+   ["x=0.1", "Dr 0.1 crossing"],
+   ["x=0.2", "Dr 0.2 crossing"],
+   ["x=0.3", "Dr 0.3 crossing"],
+   ["x=0.4", "Dr 0.4 crossing"],
+   ["x=0.5", "Dr 0.5 crossing"],
+   ["x=0.6", "Dr 0.6 crossing"],
+   ["x=0.7", "Dr 0.7 crossing"],
+   ["x=0.8", "Dr 0.8 crossing"],
+   ["x=0.9", "Dr 0.9 crossing"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); from u 2220 it touches the lower line (their strokes merge), centre from the clean ink to the left"]
+  ],
+  "lower": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 886 to 892)"],
+   [1043, "Dr 0.1: the crossing (u 1030.2) is in a dash gap (u 1017 to 1041); moved to the nearest dash end, the start of the next dash (u 1042, 12 px; the previous one ends at u 1016, 14 px)"],
+   [1167, "Dr 0.2: the dash ends at the x = 0.2 grid line (u 1168 to 1170), white after it; sample at its last visible ink"],
+   ["x=0.3", "Dr 0.3 crossing, on the dash (u 1190 to 1329)"],
+   ["x=0.4", "Dr 0.4 crossing, on the dash (u 1355 to 1476)"],
+   ["x=0.5", "Dr 0.5 crossing, on the dash (u 1508 to 1647)"],
+   ["x=0.6", "Dr 0.6 crossing, on the dash (u 1678 to 1819)"],
+   [1871, "Dr 0.7: the dash starts under the x = 0.7 grid line (u 1865 to 1869), white before it; sample at its first visible ink"],
+   [2018, "Dr 0.8: the crossing (u 2006.7) is in a dash gap (u 1987 to 2016); moved to the nearest dash end, the start of the next dash (u 2017, 10 px; the previous one ends at u 1986, 21 px). A 2-column, 3 px stub beside the grid line at u 2009 to 2010 is read as grid-line ink"],
+   [2136, "Dr 0.9: the crossing (u 2146.0) is in a dash gap (u 2138 to 2163); moved to the nearest dash end, the end of the previous dash (u 2137, 9 px; the next starts at u 2164, 18 px)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); its last dash (from u 2164) touches the mean line from u 2220, centre from the clean ink to the left"]
+  ]
+ },
+ "features": {
+  "upper": [[793.5, 2314, "label: 73.5 (left end; its leader ends at the frame at v 2337, where the upper line starts)", 5],
+            [2415.5, 2958.5, "label: 89.4 (right end; the only right-end label. Its single leader, at v 2961, starts just outside the frame at the level of the upper line's end, v 2960; the three lines converge toward it)", 5]],
+  "mean": [[796, 2368, "label: 74.4 (left end; its leader ends at the frame at v 2383)", 5],
+           [2415.5, 2958.5, "label: 89.4 (right end, shared: the page prints one value for the three converging lines; the mean line ends 7 px below the leader's level, so attributing 89.4 to it is an inference)", 5]],
+  "lower": [[798.5, 2460.5, "label: 75.3 (left end; its leader ends at the frame at v 2440, nearest the lower line)", 5],
+            [2415.5, 2958.5, "label: 89.4 (right end, shared: the page prints one value for the three converging lines; the lower line ends 12 px below the leader's level, so attributing 89.4 to it is an inference)", 5]]
+ }
+}

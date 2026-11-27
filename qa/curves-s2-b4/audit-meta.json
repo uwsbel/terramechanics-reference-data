@@ -1,0 +1,20 @@
+{
+  "F2-54": {
+    "source": "1968",
+    "title": "Figure 2-54: Typical DPT Signatures (printed 2-92, PDF 117)",
+    "rotation": 90,
+    "legend_hint": "the record box printed beside each trace",
+    "series_noun": "record",
+    "series": {
+      "r53958": {"label": "Record No. 53958", "symbol": "", "noun": "trace (RS loose, the top one)"},
+      "r54025": {"label": "Record No. 54025", "symbol": "", "noun": "trace (RS intermediate, the middle one)"},
+      "r5465": {"label": "Record No. 54-65", "symbol": "", "noun": "trace (RS dense, the bottom one)"}
+    },
+    "panels": {
+      "1": {"name": "panel 1 (Record No. 53958, top)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "2": {"name": "panel 2 (Record No. 54025, middle)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "3": {"name": "panel 3 (Record No. 54-65, bottom)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}
+    },
+    "notes_for_reviewers": "Three oscillograph records of the dynamic penetrometer hitting soil: deceleration against time, one solid trace per record, stacked top to bottom. Printed sideways; the packet shows it turned upright. Each trace has its own ruler of G's and a dashed line drawn just above the trace's zero; the vertical lines are timing lines 0.01 s apart. Each trace leaves its flat start, rises steeply to a peak and falls back. Where the trace runs along the dashed line or crosses a timing line, a crosshair on the dashed line or the timing line rather than the trace is a no; so is a crosshair on a ruler tick or a label."
+  }
+}

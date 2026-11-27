@@ -1,0 +1,78 @@
+---
+title: "Direct shear of PS soil, Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for PS Soil"
+record: "b68-ds-fa-8"
+kind: "derived-series"
+test-type: "Direct shear"
+family: "PS"
+state: "loose"
+printed-label: "Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for PS Soil"
+evidence: "FA-8;text A-11 (PDF 12)"
+setup: "tests not identified"
+record-status: "agreed"
+priority: "2"
+mcc: "no"
+---
+Direct shear test on PS soil (White Crushed Pumice (narrowly graded)), loose; apparatus: direct shear test. Recorded: friction angle vs relative density.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 21 of the 26 points, and the rest were settled against the scan. They have not yet been checked by a person. The test setup is incomplete: relative density Dr, specimen height, normal stress, held constant, displacement rate are not reported.
+:::
+
+## Data
+
+![angle of internal friction (direct shear) against relative density, SI units. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-ds-fa-8.png){.lightbox}
+
+Peak angle of internal friction (direct shear) 48.58 deg at 0.9967 relative density, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-ds-fa-8/observations.csv) (26 points: 0 plotted symbols, 21 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: angle of internal friction (direct shear) in deg against relative density (dimensionless); the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-ds-fa-8/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 0.00459 in relative density, 0.09226 deg in angle of internal friction (0.2 percent of the peak). Both independent readings agree within these bounds at 21 of the 26 points; the other 5 were settled against the scan (read by one reader and verified by the other, or decided between two readings). [Check the digitized points against the scan](../figures/index.qmd#check-fa-8).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | PS Loose, White Crushed Pumice (narrowly graded) (soil No. 2 of Table 2-3) | PS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | *not reported* |  | FA-8 |
+| state | unit weight of the nominal soil state | 3738.7 N/m^3 (381.2 kg/m^3 at Dr 0) |  | Table 2-3; the bed's own Dr may differ |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| apparatus | shear box | direct shear test | direct shear test | text 2-40, PDF 65; Fig. 2-20 |
+| apparatus | specimen height | *not reported* |  |  |
+| loading | normal stress, held constant | *not reported* |  | FA-8 legend |
+| loading | displacement rate | *not reported* |  | text 2-40, PDF 65 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | friction angle vs relative density |  | FA-8 |
+| measured | dilation zero | *not reported* |  | FA-8, lower panel |
+| soil strength | friction angle at this density (report's direct shear average) | 43 degrees | 43 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 31.0 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+FA-8, *Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for PS Soil*, AM-68-1 Vol. II (NASA CR-92215), printed A-15, PDF 16.
+Text: FA-8.
+Text: text A-11 (PDF 12).
+
+::: {layout-ncol=2}
+![Vol. II PDF page 16](../img/1968-vol2/p0016.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-ds-fa-8` in `data/experiments/index.csv` of this repository, and the source: FA-8, *Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for PS Soil*, AM-68-1 Vol. II (NASA CR-92215), printed A-15, PDF 16.
+
+<small>Maintainers: the [provenance and review record](../review/b68-ds-fa-8.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

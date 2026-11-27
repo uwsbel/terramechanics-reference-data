@@ -1,0 +1,53 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-6B,2,n734,marker,1,643.8,2600.7,3,2,plus,on the left frame; vertical bar hidden in the frame line,0.0108,-71.1539,0.5983,0.8693,piecewise extrapolated x
+FC-6B,2,n734,marker,2,724.6,2602.1,2,2,plus,,12.7676,-71.5982,0.4276,0.869,piecewise
+FC-6B,2,n734,marker,3,838.8,2604.7,2,2,plus,,30.7973,-72.4364,0.4124,0.8689,piecewise
+FC-6B,2,n734,marker,4,959.1,2604.4,3,2,plus,on the 50 gridline,49.7918,-72.2914,0.5877,0.8694,piecewise
+FC-6B,2,n734,marker,5,1066.3,2609.6,2,2,plus,,68.3593,-74.012,0.4347,0.8689,piecewise
+FC-6B,2,n734,marker,6,1183.3,2611.3,2,2,plus,,88.649,-74.545,0.4347,0.8689,piecewise
+FC-6B,2,n734,marker,7,1306.3,2607.0,2,2,plus,,110.2139,-73.0455,0.4538,0.8692,piecewise
+FC-6B,2,n734,marker,8,1413.3,2608.0,2,2,plus,,129.1994,-73.3453,0.47,0.8692,piecewise
+FC-6B,2,n734,marker,9,1530.6,2610.4,3,2,plus,on the 150 gridline,150.0107,-74.1151,0.6637,0.8695,piecewise
+FC-6B,2,n734,marker,10,1650.2,2609.3,2,2,plus,,170.4245,-73.6997,0.4522,0.8693,piecewise
+FC-6B,2,n734,marker,11,1763.3,2609.9,2,2,plus,a short stray dash to its right (u 1773 to 1810) is not a drawn line,189.7278,-73.8619,0.4363,0.8693,piecewise
+FC-6B,2,n734,marker,12,1935.3,2608.4,2,2,plus,,218.993,-73.292,0.4478,0.8695,piecewise
+FC-6B,2,n734,marker,13,2115.0,2608.6,3,2,plus,on the 250 gridline,249.5148,-73.2947,0.6537,0.87,piecewise extrapolated x
+FC-6B,2,n1761,marker,1,648.5,2903.0,3,2,circle,on the left frame,0.5726,-173.4049,0.5963,0.8591,piecewise
+FC-6B,2,n1761,marker,2,729.5,2915.2,2,2,circle,,13.3594,-177.5079,0.4273,0.8584,piecewise
+FC-6B,2,n1761,marker,3,847.4,2928.2,2,2,circle,,31.9748,-181.8713,0.4115,0.8581,piecewise
+FC-6B,2,n1761,marker,4,960.0,2932.6,3,2,circle,on the 50 gridline,49.7582,-183.3274,0.5845,0.8583,piecewise
+FC-6B,2,n1761,marker,5,1069.9,2935.7,2,2,circle,,68.7953,-184.3446,0.4348,0.8579,piecewise
+FC-6B,2,n1761,marker,6,1192.6,2939.2,2,2,circle,,90.0761,-185.4936,0.4348,0.8579,piecewise
+FC-6B,2,n1761,marker,7,1304.3,2939.1,2,2,circle,,109.6506,-185.4277,0.4525,0.858,piecewise
+FC-6B,2,n1761,marker,8,1423.3,2934.6,2,2,circle,,130.7306,-183.8707,0.4704,0.8582,piecewise
+FC-6B,2,n1761,marker,9,1531.7,2933.8,3,2,circle,on the 150 gridline,149.931,-183.5687,0.6629,0.8586,piecewise
+FC-6B,2,n1761,marker,10,1644.7,2925.0,2,2,circle,,169.2784,-180.5576,0.4544,0.8586,piecewise
+FC-6B,2,n1761,marker,11,1764.5,2912.9,2,2,circle,,189.786,-176.427,0.4374,0.8591,piecewise
+FC-6B,2,n1761,marker,12,1941.0,2903.2,2,2,circle,,219.7396,-173.0915,0.4463,0.8596,piecewise
+FC-6B,2,n1761,marker,13,2116.6,2895.2,3,2,circle,on the 250 gridline,249.4181,-170.331,0.6499,0.8602,piecewise
+FC-6B,2,n2934,marker,1,649.5,3112.5,3,4,triangle-down,on the left frame; apex hidden in the frame line,0.6055,-244.2678,0.5975,1.5285,piecewise
+FC-6B,2,n2934,marker,2,714.5,3125.5,2,3,triangle-down,,10.8673,-248.6492,0.4301,1.1896,piecewise
+FC-6B,2,n2934,marker,3,830.8,3139.5,2,3,triangle-down,,29.2342,-253.3568,0.4145,1.1893,piecewise
+FC-6B,2,n2934,marker,4,950.5,3147.8,3,3,triangle-down,right corner on the 50 gridline; u from the apex,48.142,-256.1359,0.5566,1.1893,piecewise
+FC-6B,2,n2934,marker,5,1064.7,3147.8,2,3,triangle-down,,67.7707,-256.1085,0.4354,1.1892,piecewise
+FC-6B,2,n2934,marker,6,1184.7,3151.5,2,3,triangle-down,,88.5854,-257.3317,0.4354,1.1891,piecewise
+FC-6B,2,n2934,marker,7,1297.8,3154.5,2,3,triangle-down,,108.3659,-258.3199,0.4515,1.1891,piecewise
+FC-6B,2,n2934,marker,8,1410.3,3150.8,2,3,triangle-down,,128.2703,-257.0409,0.4685,1.1893,piecewise
+FC-6B,2,n2934,marker,9,1531.3,3149.2,3,4,triangle-down,on the 150 gridline; apex hidden in the gridline,149.6774,-256.4705,0.6635,1.5282,piecewise
+FC-6B,2,n2934,marker,10,1644.7,3146.2,2,3,triangle-down,,169.1325,-255.4279,0.456,1.1897,piecewise
+FC-6B,2,n2934,marker,11,1760.3,3144.8,2,3,triangle-down,outline broken on the right side (scan),188.9532,-254.9262,0.4394,1.1898,piecewise
+FC-6B,2,n2934,marker,12,1935.0,3135.8,2,3,triangle-down,,218.557,-251.8374,0.4439,1.1903,piecewise
+FC-6B,2,n2934,marker,13,2118.8,3121.5,3,4,triangle-down,on the 250 gridline; apex hidden in the gridline,249.5001,-246.9511,0.6502,1.5298,piecewise extrapolated x
+FC-6B,2,n4695,marker,1,649.8,3178.2,3,4,triangle-up,on the left frame,0.6137,-266.4907,0.5975,1.5263,piecewise
+FC-6B,2,n4695,marker,2,709.7,3185.5,2,3,triangle-up,,10.0739,-268.9461,0.4308,1.1876,piecewise
+FC-6B,2,n4695,marker,3,826.3,3207.5,2,3,triangle-up,,28.485,-276.3615,0.4152,1.187,piecewise
+FC-6B,2,n4695,marker,4,946.5,3206.8,3,3,triangle-up,right base corner on the 50 gridline; u from the apex,47.4782,-276.0975,0.5573,1.1873,piecewise
+FC-6B,2,n4695,marker,5,1059.3,3219.0,2,3,triangle-up,,66.7927,-280.1997,0.4354,1.1868,piecewise
+FC-6B,2,n4695,marker,6,1173.2,3218.5,2,3,triangle-up,,86.5524,-280.0051,0.4354,1.1869,piecewise
+FC-6B,2,n4695,marker,7,1293.7,3217.2,2,4,triangle-up,outline thicker than the others (H about 33 px); v averaged from apex and base,107.6021,-279.5382,0.4513,1.5254,piecewise
+FC-6B,2,n4695,marker,8,1405.3,3219.5,2,3,triangle-up,,127.3361,-280.2915,0.4675,1.187,piecewise
+FC-6B,2,n4695,marker,9,1526.3,3214.2,3,3,triangle-up,on the 150 gridline,148.7381,-278.4707,0.6628,1.1875,piecewise
+FC-6B,2,n4695,marker,10,1633.7,3213.5,2,3,triangle-up,,167.2009,-278.2096,0.4579,1.1874,piecewise
+FC-6B,2,n4695,marker,11,1753.5,3215.5,2,3,triangle-up,,187.7517,-278.8597,0.4407,1.1874,piecewise
+FC-6B,2,n4695,marker,12,1925.5,3203.5,2,3,triangle-up,,216.9116,-274.7586,0.4414,1.188,piecewise
+FC-6B,2,n4695,marker,13,2120.0,3196.0,3,4,triangle-up,on the 250 gridline,249.6069,-272.175,0.6498,1.5272,piecewise extrapolated x

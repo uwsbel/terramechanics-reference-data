@@ -1,0 +1,90 @@
+id,column,value,status,note
+T1-1,rotation,90,resolved,Page re-read (PDF 20): table printed sideways. Claude had not inspected the page. Credit Codex.
+T1-1,priority,2,rule,Protocol rule: duplicate of Table 2-3; Table 2-3 is canonical.
+T1-1,mcc_relevant,no,rule,Narrow MCC rule.
+T2-1,in_scope,yes,rule,Narrow scope rule: table of numbers (target property ranges). Claude's reading kept.
+T2-1,priority,3,rule,Protocol rule: lunar estimates are context for soil selection.
+T2-1,mcc_relevant,no,rule,Narrow MCC rule.
+T2-2,in_scope,maybe,rule,Narrow scope rule keeps Claude's maybe; settle when the materials crosswalk is extended.
+T2-2,mcc_relevant,no,rule,Narrow MCC rule.
+T2-3,mcc_relevant,no,rule,Narrow MCC rule.
+F2-2,data_form,schematic,resolved,Flow chart drawn as boxes and arrows; a diagram rather than running text.
+F2-5,in_scope,no,rule,Narrow scope rule: conceptual chart; transcribed with the page.
+F2-5,mcc_relevant,no,rule,Narrow MCC rule.
+F2-6,in_scope,no,rule,Narrow scope rule.
+F2-7,in_scope,no,rule,Narrow scope rule.
+F2-7,mcc_relevant,no,rule,Narrow MCC rule.
+F2-8,in_scope,no,rule,Narrow scope rule: equipment photo.
+F2-8,priority,3,rule,Protocol rule: photo without setup numbers.
+F2-9,in_scope,no,rule,Narrow scope rule.
+F2-9,priority,3,rule,Protocol rule.
+F2-10,in_scope,no,rule,Narrow scope rule.
+F2-10,priority,3,rule,Protocol rule.
+F2-11,in_scope,no,rule,Narrow scope rule.
+F2-11,priority,3,rule,Protocol rule.
+F2-12,priority,2,rule,Protocol rule: a worked sieve sheet for one bed supports interpretation of the degradation figures; not a calibration input.
+F2-12,mcc_relevant,no,rule,Narrow MCC rule.
+F2-13,priority,2,rule,Protocol rule.
+F2-15,in_scope,maybe,rule,Narrow scope rule keeps Claude's maybe: nomograph with a hypothetical soil.
+F2-15,priority,3,rule,Protocol rule: method illustration.
+F2-15,data_form,curve,resolved,One drawn conversion line (curves = 1 agreed); curve is consistent with the count.
+F2-15,mcc_relevant,no,rule,Narrow MCC rule.
+F2-16,in_scope,no,rule,Narrow scope rule.
+F2-16,priority,3,rule,Protocol rule.
+F2-16,mcc_relevant,no,rule,Narrow MCC rule.
+F2-17,priority,2,rule,Protocol rule: state-to-unit-weight map needed to interpret beds; derivable from min and max density.
+F2-18,test_type,bed preparation,resolved,Density against compaction duration describes bed preparation.
+F2-19,in_scope,no,rule,Narrow scope rule: photo. Codex's finer test_type label kept so a search for direct shear finds it.
+F2-19,priority,3,rule,Protocol rule.
+F2-19,mcc_relevant,no,rule,Narrow MCC rule.
+F2-20,mcc_relevant,no,rule,Narrow MCC rule.
+F2-21,mcc_relevant,maybe,rule,Narrow MCC rule with the dilation panel as maybe: dilatancy is state dependent but may be covered by mu(I) with a dilatancy term.
+F2-21,y_unit,psf;inch,resolved,Two panels: shear stress in psf above and normal displacement in thousandths of an inch below (printed multiplier x 10^3). Codex recorded the upper panel only.
+F2-23,mcc_relevant,no,rule,Narrow MCC rule; Codex's own note says density dependence does not identify history dependence.
+F2-24,in_scope,no,rule,Narrow scope rule.
+F2-25,in_scope,no,rule,Narrow scope rule: hypothetical envelopes without ticks.
+F2-25,mcc_relevant,no,rule,Narrow MCC rule.
+F2-26,in_scope,no,rule,Narrow scope rule.
+F2-26,priority,3,rule,Protocol rule.
+F2-28,in_scope,no,rule,Narrow scope rule.
+F2-28,priority,3,rule,Protocol rule.
+F2-29,mcc_relevant,no,rule,Narrow MCC rule.
+F2-30,in_scope,no,rule,Narrow scope rule.
+F2-30,priority,3,rule,Protocol rule.
+F2-31,in_scope,maybe,rule,Narrow scope rule keeps maybe: classical factors reproducible from formulas.
+F2-31,priority,3,rule,Protocol rule.
+F2-32,data_form,curve,convention,Recorded traces with an author fit: data_form stays curve; trace_classes carries the mixture.
+F2-33,data_form,curve,convention,Same convention as F2-32.
+F2-34,data_form,curve,convention,Same convention as F2-32.
+F2-35,data_form,curve,convention,Same convention as F2-32.
+F2-35,priority,2,rule,Protocol rule: bin-size comparison supports interpretation (boundary effects).
+F2-37,curves,11,provisional,Claude 10 (about ten) against Codex 11 at 300 dpi; two curves labeled only Dr approx 0.96. Count again at 600 dpi during extraction.
+F2-37,priority,2,rule,Protocol rule: size and bin effects.
+F2-40,priority,2,rule,Protocol rule: rate series are interpretation (rate insensitivity) unless the extended rate protocol is run.
+F2-40,mcc_relevant,no,rule,Narrow MCC rule.
+F2-41,priority,2,rule,Protocol rule.
+F2-42,priority,2,rule,Protocol rule.
+F2-43,priority,2,rule,Protocol rule.
+F2-43,mcc_relevant,no,rule,Narrow MCC rule.
+F2-44,priority,2,rule,Protocol rule: bin size sets the simulation domain; not a calibration input.
+F2-49,curves,10,resolved,Page re-read (PDF 110): nine labeled curves plus one unlabeled line ending near Df/D 0.95 at ordinate 270. Credit Codex. Identity of the unlabeled line open.
+F2-52,priority,1,rule,Protocol rule: every Gp printed on an LPT figure is read through the DPT correlations.
+F2-53,priority,1,rule,Protocol rule: DPT geometry is the setup of a prediction target.
+F2-57,curves,4,convention,Each drawn line is a trace: two used-soil curves plus the two boundaries of the unused range. Credit Codex for the convention.
+F2-58,curves,6,convention,Same convention as F2-57.
+F2-59,in_scope,no,rule,Narrow scope rule: photo of the density scoop.
+F2-59,priority,3,rule,Protocol rule.
+F2-59,mcc_relevant,no,rule,Narrow MCC rule.
+F2-61,mcc_relevant,no,rule,Narrow MCC rule.
+F2-62,in_scope,no,rule,Narrow scope rule: photo; the parts list on printed 2-107 is transcribed with the page.
+F2-62,priority,3,rule,Protocol rule.
+F2-62,mcc_relevant,no,rule,Narrow MCC rule.
+F2-63,in_scope,no,rule,Narrow scope rule.
+F2-63,priority,3,rule,Protocol rule.
+F2-63,mcc_relevant,no,rule,Narrow MCC rule.
+F2-64,in_scope,no,rule,Narrow scope rule.
+F2-64,priority,3,rule,Protocol rule.
+F2-64,mcc_relevant,no,rule,Narrow MCC rule.
+F2-65,in_scope,no,rule,Narrow scope rule; roller passes per soil are transcribed with printed 2-110 and 2-113.
+F2-65,priority,3,rule,Protocol rule.
+F2-65,mcc_relevant,no,rule,Narrow MCC rule.

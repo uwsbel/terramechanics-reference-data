@@ -1,0 +1,369 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-1D,1,n3520,marker,1,626,2134,2,2,x,
+FC-1D,1,n3520,marker,2,746.5,1829,2,2,x,
+FC-1D,1,n3520,marker,3,857.5,1667,4,3,x,"on x=50 gridline; found on a detail crop, hidden in the overview"
+FC-1D,1,n3520,marker,4,974,1549,2,2,x,
+FC-1D,1,n3520,marker,5,1089.5,1481,2,2,x,
+FC-1D,1,n3520,marker,6,1204.5,1441,3,3,x,drawn line runs through the marker along the plateau
+FC-1D,1,n3520,marker,7,1319,1437.5,2,2,x,
+FC-1D,1,n3520,marker,8,1441,1462.5,4,3,x,on x=150 gridline
+FC-1D,1,n3520,marker,9,1565.5,1524,2,2,x,
+FC-1D,1,n3520,marker,10,1737.5,1576,4,3,x,on x=200 gridline
+FC-1D,1,n3520,marker,11,1854,1676,2,2,x,
+FC-1D,1,n3520,marker,12,2027.5,1699,4,3,x,on x=250 gridline; doubles as the legend symbol for 3520 psf
+FC-1D,1,n2935,marker,1,636,2186,2,2,asterisk,
+FC-1D,1,n2935,marker,2,742,1920,2,2,asterisk,
+FC-1D,1,n2935,marker,3,974,1665.5,2,2,asterisk,
+FC-1D,1,n2935,marker,4,1092,1604,2,2,asterisk,
+FC-1D,1,n2935,marker,5,1209,1594,2,2,asterisk,
+FC-1D,1,n2935,marker,6,1327.5,1614,2,2,asterisk,
+FC-1D,1,n2935,marker,7,1440,1641,4,3,asterisk,on x=150 gridline
+FC-1D,1,n2935,marker,8,1615,1684,2,2,asterisk,
+FC-1D,1,n2935,marker,9,1736,1716,4,3,asterisk,on x=200 gridline
+FC-1D,1,n2935,marker,10,2032,1761,4,4,asterisk,on x=250 gridline and touching y=4000 gridline; doubles as the legend symbol for 2935 psf
+FC-1D,1,n2345,marker,1,681,2157.5,3,3,square,
+FC-1D,1,n2345,marker,2,794,1930,3,3,square,square sits about 40 px above the drawn line (line passes below it)
+FC-1D,1,n2345,marker,3,920,1861,3,3,square,
+FC-1D,1,n2345,marker,4,1031,1814,3,3,square,
+FC-1D,1,n2345,marker,5,1147,1792.5,4,3,square,on x=100 gridline
+FC-1D,1,n2345,marker,6,1260,1795,3,3,square,
+FC-1D,1,n2345,marker,7,1384,1814.5,3,3,square,
+FC-1D,1,n2345,marker,8,1502,1838,3,3,square,
+FC-1D,1,n2345,marker,9,1625,1844,3,3,square,square about 30 px above the drawn line
+FC-1D,1,n2345,marker,10,1737,1840,4,3,square,on x=200 gridline; square about 75 px above the drawn line
+FC-1D,1,n2345,marker,11,1861,1969,3,3,square,
+FC-1D,1,n2345,marker,12,2047,2043,4,3,square,on x=250 gridline; doubles as the legend symbol for 2345 psf; line ends here
+FC-1D,1,n1468,marker,1,642,2526,3,3,triangle-down,
+FC-1D,1,n1468,marker,2,750,2315,3,3,triangle-down,touches y=2000 gridline
+FC-1D,1,n1468,marker,3,866,2207,4,3,triangle-down,on x=50 gridline
+FC-1D,1,n1468,marker,4,980.5,2151,3,3,triangle-down,
+FC-1D,1,n1468,marker,5,1104,2140.5,3,3,triangle-down,
+FC-1D,1,n1468,marker,6,1219.5,2141,3,3,triangle-down,
+FC-1D,1,n1468,marker,7,1276,2144,3,3,triangle-down,
+FC-1D,1,n1468,marker,8,1388,2142.5,3,3,triangle-down,
+FC-1D,1,n1468,marker,9,1506,2145,4,4,triangle-down,"merged with the drawn line, outline hard to separate"
+FC-1D,1,n1468,marker,10,1632,2140.5,3,3,triangle-down,marker about 25 px above the drawn line
+FC-1D,1,n1468,marker,11,1748,2260.5,4,3,triangle-down,on x=200 gridline
+FC-1D,1,n1468,marker,12,1866,2260,3,3,triangle-down,
+FC-1D,1,n587,marker,1,638,2694,3,3,triangle-up,
+FC-1D,1,n587,marker,2,760.5,2558,3,3,triangle-up,
+FC-1D,1,n587,marker,3,875,2506,4,3,triangle-up,on x=50 gridline
+FC-1D,1,n587,marker,4,988,2487,3,3,triangle-up,
+FC-1D,1,n587,marker,5,1109,2482,3,3,triangle-up,
+FC-1D,1,n587,marker,6,1280,2521,3,3,triangle-up,
+FC-1D,1,n587,marker,7,1398,2539,3,3,triangle-up,
+FC-1D,1,n587,marker,8,1522.5,2558,3,3,triangle-up,
+FC-1D,1,n587,marker,9,1634,2577.5,3,3,triangle-up,
+FC-1D,1,n587,marker,10,1755,2592.5,4,3,triangle-up,"on x=200 gridline, just above y=1000 gridline"
+FC-1D,1,n587,marker,11,1877,2623,3,3,triangle-up,just below y=1000 gridline
+FC-1D,1,n587,marker,12,2049,2627.5,4,3,triangle-up,on x=250 gridline; doubles as the legend symbol for 587 psf
+FC-1D,1,n294,marker,1,621,2799,3,3,circle,
+FC-1D,1,n294,marker,2,710,2698,3,3,circle,
+FC-1D,1,n294,marker,3,934,2615,3,4,circle,on y=1000 gridline
+FC-1D,1,n294,marker,4,1054,2610,3,4,circle,on y=1000 gridline
+FC-1D,1,n294,marker,5,1172,2625,4,4,circle,"on x=100 gridline, touching y=1000 gridline"
+FC-1D,1,n294,marker,6,1402,2670,3,3,circle,
+FC-1D,1,n294,marker,7,1531,2699,3,3,circle,
+FC-1D,1,n0,marker,1,699,2818,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,2,822.5,2781,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,3,929,2771,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,4,1001,2768,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,5,1120,2774,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,6,1231,2783,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n0,marker,7,1350,2794,3,3,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,1,n3520,trace,1,633.8,2117.7,6,6,,
+FC-1D,1,n3520,trace,2,658.8,2038.8,5,5,,line runs on or next to a horizontal gridline
+FC-1D,1,n3520,trace,3,685.0,1965.2,4,4,,
+FC-1D,1,n3520,trace,4,713.3,1895.4,6,6,,
+FC-1D,1,n3520,trace,5,737.2,1843.4,5,5,,
+FC-1D,1,n3520,trace,6,770.0,1785.0,6,6,,
+FC-1D,1,n3520,trace,7,797.5,1740.2,6,6,,
+FC-1D,1,n3520,trace,8,826.7,1698.1,6,6,,
+FC-1D,1,n3520,trace,9,866.2,1651.8,4,4,,
+FC-1D,1,n3520,trace,10,884.4,1631.3,5,5,,
+FC-1D,1,n3520,trace,11,912.2,1603.7,6,6,,
+FC-1D,1,n3520,trace,12,940.1,1576.3,6,6,,
+FC-1D,1,n3520,trace,13,960.8,1563.8,4,4,,
+FC-1D,1,n3520,trace,14,997.6,1532.8,6,6,,
+FC-1D,1,n3520,trace,15,1028.6,1514.5,6,6,,
+FC-1D,1,n3520,trace,16,1057.6,1498.5,7,7,,
+FC-1D,1,n3520,trace,17,1073.1,1489.4,5,5,,
+FC-1D,1,n3520,trace,18,1114.4,1471.7,7,7,,
+FC-1D,1,n3520,trace,19,1136.5,1462.0,5,5,,
+FC-1D,1,n3520,trace,20,1172.0,1450.2,5,5,,line runs on or next to a horizontal gridline
+FC-1D,1,n3520,trace,21,1230.7,1438.5,5,5,,
+FC-1D,1,n3520,trace,22,1261.1,1436.4,6,6,,
+FC-1D,1,n3520,trace,23,1291.5,1435.4,8,8,,
+FC-1D,1,n3520,trace,24,1349.4,1441.0,8,8,,
+FC-1D,1,n3520,trace,25,1379.1,1447.4,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n3520,trace,26,1405.8,1452.2,9,9,,line runs on or next to a horizontal gridline
+FC-1D,1,n3520,trace,27,1422.4,1461.0,7,7,,
+FC-1D,1,n3520,trace,28,1466.7,1480.5,6,6,,
+FC-1D,1,n3520,trace,29,1497.0,1493.8,6,6,,
+FC-1D,1,n3520,trace,30,1524.6,1505.5,7,7,,
+FC-1D,1,n3520,trace,31,1547.4,1520.3,4,4,,
+FC-1D,1,n3520,trace,32,1584.2,1528.6,4,4,,
+FC-1D,1,n3520,trace,33,1613.0,1546.7,6,6,,
+FC-1D,1,n3520,trace,34,1643.3,1560.1,7,7,,
+FC-1D,1,n3520,trace,35,1672.9,1574.9,6,6,,
+FC-1D,1,n3520,trace,36,1703.2,1588.1,6,6,,
+FC-1D,1,n3520,trace,37,1725.6,1597.0,5,5,,
+FC-1D,1,n3520,trace,38,1763.0,1615.7,6,6,,
+FC-1D,1,n3520,trace,39,1790.7,1627.5,6,6,,
+FC-1D,1,n3520,trace,40,1821.4,1640.3,7,7,,
+FC-1D,1,n3520,trace,41,1849.2,1651.7,6,6,,
+FC-1D,1,n3520,trace,42,1880.1,1663.5,5,5,,
+FC-1D,1,n3520,trace,43,1908.8,1672.7,6,6,,
+FC-1D,1,n3520,trace,44,1937.7,1681.4,5,5,,
+FC-1D,1,n3520,trace,45,1967.0,1688.4,7,7,,
+FC-1D,1,n3520,trace,46,1999.1,1696.1,5,5,,
+FC-1D,1,n3520,feature,1,626.0,2134.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n3520,feature,2,1306.8,1428.7,5,5,,peak of the drawn line
+FC-1D,1,n3520,feature,3,2036.3,1691.2,5,5,,last point: line ends at the x=250 gridline
+FC-1D,1,n2935,trace,1,638.9,2167.8,4,4,,
+FC-1D,1,n2935,trace,2,659.4,2109.7,5,5,,
+FC-1D,1,n2935,trace,3,687.0,2035.0,5,5,,
+FC-1D,1,n2935,trace,4,715.9,1972.1,5,5,,
+FC-1D,1,n2935,trace,5,742.0,1938.1,4,4,,
+FC-1D,1,n2935,trace,6,772.8,1871.4,6,6,,
+FC-1D,1,n2935,trace,7,800.6,1831.9,6,6,,
+FC-1D,1,n2935,trace,8,829.0,1796.4,5,5,,
+FC-1D,1,n2935,trace,9,865.0,1754.7,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n2935,trace,10,885.4,1737.0,5,5,,
+FC-1D,1,n2935,trace,11,914.2,1710.3,5,5,,
+FC-1D,1,n2935,trace,12,942.6,1687.7,7,7,,
+FC-1D,1,n2935,trace,13,958.1,1677.1,5,5,,
+FC-1D,1,n2935,trace,14,1001.3,1648.2,6,6,,
+FC-1D,1,n2935,trace,15,1030.7,1633.3,5,5,,
+FC-1D,1,n2935,trace,16,1060.2,1618.1,5,5,,
+FC-1D,1,n2935,trace,17,1078.7,1615.6,5,5,,
+FC-1D,1,n2935,trace,18,1116.7,1602.1,6,6,,
+FC-1D,1,n2935,trace,19,1140.8,1600.2,8,8,,
+FC-1D,1,n2935,trace,20,1175.1,1596.7,6,6,,
+FC-1D,1,n2935,trace,21,1193.8,1602.4,6,6,,
+FC-1D,1,n2935,trace,22,1235.9,1596.2,6,6,,
+FC-1D,1,n2935,trace,23,1263.1,1599.4,6,6,,
+FC-1D,1,n2935,trace,24,1292.8,1604.7,6,6,,
+FC-1D,1,n2935,trace,25,1311.4,1605.1,4,4,,
+FC-1D,1,n2935,trace,26,1352.9,1617.7,4,4,,
+FC-1D,1,n2935,trace,27,1382.3,1626.7,7,7,,
+FC-1D,1,n2935,trace,28,1411.0,1635.8,6,6,,
+FC-1D,1,n2935,trace,29,1469.1,1652.8,6,6,,
+FC-1D,1,n2935,trace,30,1498.2,1660.5,6,6,,
+FC-1D,1,n2935,trace,31,1530.2,1668.7,7,7,,
+FC-1D,1,n2935,trace,32,1559.3,1676.4,6,6,,
+FC-1D,1,n2935,trace,33,1588.6,1682.9,6,6,,
+FC-1D,1,n2935,trace,34,1628.8,1694.1,5,5,,
+FC-1D,1,n2935,trace,35,1646.8,1696.3,5,5,,
+FC-1D,1,n2935,trace,36,1676.3,1702.4,6,6,,
+FC-1D,1,n2935,trace,37,1705.6,1709.7,7,7,,
+FC-1D,1,n2935,trace,38,1765.3,1720.5,5,5,,
+FC-1D,1,n2935,trace,39,1792.1,1725.3,6,6,,
+FC-1D,1,n2935,trace,40,1822.1,1732.4,8,8,,line runs on or next to a horizontal gridline
+FC-1D,1,n2935,trace,41,1851.9,1736.4,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n2935,trace,42,1882.0,1738.8,8,8,,line runs on or next to a horizontal gridline
+FC-1D,1,n2935,trace,43,1911.7,1746.0,6,6,,
+FC-1D,1,n2935,trace,44,1941.2,1751.8,6,6,,
+FC-1D,1,n2935,trace,45,1970.7,1757.5,7,7,,
+FC-1D,1,n2935,trace,46,1997.8,1760.5,6,6,,
+FC-1D,1,n2935,feature,1,636.0,2186.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n2935,feature,2,1205.5,1589.2,10,10,,peak of the drawn line
+FC-1D,1,n2935,feature,3,2041.9,1758.3,5,5,,last point: line ends at the x=250 gridline
+FC-1D,1,n2345,trace,1,687.7,2141.8,6,6,,
+FC-1D,1,n2345,trace,2,718.1,2086.1,6,6,,
+FC-1D,1,n2345,trace,3,746.5,2035.1,5,5,,
+FC-1D,1,n2345,trace,4,773.7,1991.6,6,6,,
+FC-1D,1,n2345,trace,5,801.8,1960.0,5,5,,
+FC-1D,1,n2345,trace,6,830.6,1929.3,6,6,,
+FC-1D,1,n2345,trace,7,868.0,1897.4,7,7,,
+FC-1D,1,n2345,trace,8,888.8,1880.0,6,6,,
+FC-1D,1,n2345,trace,9,905.3,1871.6,8,8,,
+FC-1D,1,n2345,trace,10,947.9,1844.9,6,6,,
+FC-1D,1,n2345,trace,11,974.8,1831.4,6,6,,
+FC-1D,1,n2345,trace,12,1005.9,1819.6,6,6,,
+FC-1D,1,n2345,trace,13,1038.1,1798.2,4,4,,
+FC-1D,1,n2345,trace,14,1064.5,1802.6,6,6,,
+FC-1D,1,n2345,trace,15,1091.3,1797.1,7,7,,
+FC-1D,1,n2345,trace,16,1121.2,1793.9,6,6,,
+FC-1D,1,n2345,trace,17,1179.2,1790.4,7,7,,
+FC-1D,1,n2345,trace,18,1209.6,1790.6,7,7,,
+FC-1D,1,n2345,trace,19,1239.5,1793.5,6,6,,
+FC-1D,1,n2345,trace,20,1296.1,1797.2,6,6,,
+FC-1D,1,n2345,trace,21,1326.1,1801.9,5,5,,
+FC-1D,1,n2345,trace,22,1355.9,1805.6,6,6,,
+FC-1D,1,n2345,trace,23,1416.0,1817.3,6,6,,
+FC-1D,1,n2345,trace,24,1450.0,1823.1,6,6,,
+FC-1D,1,n2345,trace,25,1473.3,1829.4,6,6,,
+FC-1D,1,n2345,trace,26,1532,1846.5,7,7,,
+FC-1D,1,n2345,trace,27,1562,1855.5,7,7,,
+FC-1D,1,n2345,trace,28,1592,1865.5,6,6,,
+FC-1D,1,n2345,trace,29,1622,1874.5,6,6,,
+FC-1D,1,n2345,trace,30,1649,1884.0,6,6,,
+FC-1D,1,n2345,trace,31,1679,1894.5,7,7,,
+FC-1D,1,n2345,trace,32,1709,1906.5,7,7,,
+FC-1D,1,n2345,trace,33,1730,1914.0,7,7,,
+FC-1D,1,n2345,trace,34,1769,1929.0,7,7,,
+FC-1D,1,n2345,trace,35,1799,1942.5,7,7,,
+FC-1D,1,n2345,trace,36,1829,1955.5,6,6,,
+FC-1D,1,n2345,trace,37,1844,1961.5,6,6,,
+FC-1D,1,n2345,trace,38,1886,1980.0,7,7,,
+FC-1D,1,n2345,trace,39,1916,1993.0,8,8,,
+FC-1D,1,n2345,trace,40,1946,2004.0,7,7,,
+FC-1D,1,n2345,trace,41,1976,2017.0,8,8,,
+FC-1D,1,n2345,trace,42,2006,2026.5,10,10,,line merged with a gridline or symbol here; bound widened
+FC-1D,1,n2345,trace,43,2024,2037.5,7,7,,
+FC-1D,1,n2345,feature,1,681.0,2157.5,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n2345,feature,2,1273.3,1788.9,6,6,,peak of the drawn line; flat plateau: drawn line within 4 px of its maximum from u=1169 to 1273; peak taken at the minimum v
+FC-1D,1,n2345,feature,3,2030,2039.0,5,5,,last point: line ends at the last square on the x=250 gridline
+FC-1D,1,n1468,trace,1,647.9,2506.1,4,4,,
+FC-1D,1,n1468,trace,2,667.2,2463.6,6,6,,
+FC-1D,1,n1468,trace,3,695.2,2406.7,5,5,,
+FC-1D,1,n1468,trace,4,723.0,2356.8,6,6,,
+FC-1D,1,n1468,trace,5,763.1,2301.4,6,6,,
+FC-1D,1,n1468,trace,6,779.0,2283.0,6,6,,
+FC-1D,1,n1468,trace,7,809.2,2253.7,5,5,,
+FC-1D,1,n1468,trace,8,838.2,2227.6,5,5,,
+FC-1D,1,n1468,trace,9,878.7,2195.6,5,5,,
+FC-1D,1,n1468,trace,10,894.5,2187.5,6,6,,
+FC-1D,1,n1468,trace,11,923.7,2171.5,6,6,,
+FC-1D,1,n1468,trace,12,953.7,2157.5,7,7,,
+FC-1D,1,n1468,trace,13,1011.4,2142.7,6,6,,
+FC-1D,1,n1468,trace,14,1041.3,2138.5,5,5,,
+FC-1D,1,n1468,trace,15,1071.3,2137.0,6,6,,
+FC-1D,1,n1468,trace,16,1086.4,2138.1,5,5,,
+FC-1D,1,n1468,trace,17,1129.0,2140.0,6,6,,
+FC-1D,1,n1468,trace,18,1150.2,2140.2,6,6,,
+FC-1D,1,n1468,trace,19,1186.8,2141.4,5,5,,
+FC-1D,1,n1468,trace,20,1205.3,2131.3,6,6,,
+FC-1D,1,n1468,trace,21,1244.2,2142.0,5,5,,
+FC-1D,1,n1468,trace,22,1304.1,2143.0,6,6,,
+FC-1D,1,n1468,trace,23,1334.3,2142.6,6,6,,
+FC-1D,1,n1468,trace,24,1364.4,2142.8,6,6,,
+FC-1D,1,n1468,trace,25,1406.7,2141.4,5,5,,
+FC-1D,1,n1468,trace,26,1421.8,2142.9,6,6,,
+FC-1D,1,n1468,trace,27,1458.6,2145.3,6,6,,
+FC-1D,1,n1468,trace,28,1479.8,2146.5,7,7,,
+FC-1D,1,n1468,trace,29,1521.5,2137.1,4,4,,
+FC-1D,1,n1468,trace,30,1539.6,2158.7,6,6,,
+FC-1D,1,n1468,trace,31,1568.7,2167.0,6,6,,
+FC-1D,1,n1468,trace,32,1597.8,2174.4,8,8,,
+FC-1D,1,n1468,trace,33,1617.9,2180.9,5,5,,
+FC-1D,1,n1468,trace,34,1656.4,2194.5,6,6,,
+FC-1D,1,n1468,trace,35,1687.5,2205.9,6,6,,
+FC-1D,1,n1468,trace,36,1715.5,2216.7,6,6,,
+FC-1D,1,n1468,trace,37,1736.0,2222.0,6,6,,
+FC-1D,1,n1468,trace,38,1774.4,2234.3,5,5,,
+FC-1D,1,n1468,trace,39,1803.4,2242.3,7,7,,
+FC-1D,1,n1468,trace,40,1835.0,2251.9,6,6,,
+FC-1D,1,n1468,trace,41,1849.8,2251.0,4,4,,
+FC-1D,1,n1468,trace,42,1891.6,2263.9,6,6,,
+FC-1D,1,n1468,trace,43,1921.4,2268.7,6,6,,
+FC-1D,1,n1468,trace,44,1951.3,2272.2,6,6,,
+FC-1D,1,n1468,trace,45,1981.5,2272.8,6,6,,
+FC-1D,1,n1468,trace,46,2008.6,2272.8,6,6,,
+FC-1D,1,n1468,feature,1,642.0,2526.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n1468,feature,2,1205.3,2131.3,6,6,,peak of the drawn line; flat plateau: drawn line within 4 px of its maximum from u=1089 to 1232; peak taken at the minimum v
+FC-1D,1,n1468,feature,3,2029.6,2273.8,5,5,,last point: line ends at the x=250 gridline
+FC-1D,1,n587,trace,1,646.3,2677.3,5,5,,
+FC-1D,1,n587,trace,2,670.8,2642.7,6,6,,
+FC-1D,1,n587,trace,3,698.3,2615.0,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n587,trace,4,727.3,2584.2,5,5,,
+FC-1D,1,n587,trace,5,746.5,2569.5,7,7,,
+FC-1D,1,n587,trace,6,784.2,2544.9,6,6,,
+FC-1D,1,n587,trace,7,813.9,2529.6,6,6,,
+FC-1D,1,n587,trace,8,845.0,2517.9,6,6,,
+FC-1D,1,n587,trace,9,859.6,2513.6,4,4,,
+FC-1D,1,n587,trace,10,902.8,2499.8,6,6,,
+FC-1D,1,n587,trace,11,932.4,2494.3,6,6,,
+FC-1D,1,n587,trace,12,959.3,2491.0,7,7,,
+FC-1D,1,n587,trace,13,1019.6,2485.5,7,7,,
+FC-1D,1,n587,trace,14,1046.9,2485.4,6,6,,
+FC-1D,1,n587,trace,15,1076.9,2485.9,6,6,,
+FC-1D,1,n587,trace,16,1135.5,2492.9,5,5,,
+FC-1D,1,n587,trace,17,1159.3,2496.3,5,5,,
+FC-1D,1,n587,trace,18,1195.2,2503.8,6,6,,
+FC-1D,1,n587,trace,19,1224.5,2510.4,6,6,,
+FC-1D,1,n587,trace,20,1253.7,2518.1,6,6,,
+FC-1D,1,n587,trace,21,1294.4,2533.6,4,4,,
+FC-1D,1,n587,trace,22,1311.3,2530.2,6,6,,
+FC-1D,1,n587,trace,23,1340.8,2536.1,6,6,,
+FC-1D,1,n587,trace,24,1370.7,2540.4,5,5,,
+FC-1D,1,n587,trace,25,1412.1,2548.9,4,4,,
+FC-1D,1,n587,trace,26,1430.5,2549.8,5,5,,
+FC-1D,1,n587,trace,27,1466.6,2555.7,5,5,,
+FC-1D,1,n587,trace,28,1487.7,2558.1,5,5,,
+FC-1D,1,n587,trace,29,1507.2,2568.8,4,4,,
+FC-1D,1,n587,trace,30,1546.7,2567.7,5,5,,
+FC-1D,1,n587,trace,31,1576.5,2572.6,7,7,,
+FC-1D,1,n587,trace,32,1606.5,2575.6,6,6,,
+FC-1D,1,n587,trace,33,1666.3,2583.3,5,5,,
+FC-1D,1,n587,trace,34,1693.3,2585.9,5,5,,
+FC-1D,1,n587,trace,35,1723.2,2588.8,5,5,,
+FC-1D,1,n587,trace,36,1782.7,2596.4,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n587,trace,37,1812.8,2598.1,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n587,trace,38,1839.7,2600.3,5,5,,line runs on or next to a horizontal gridline
+FC-1D,1,n587,trace,39,1869.6,2603.5,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n587,trace,40,1959.5,2611.1,6,6,,
+FC-1D,1,n587,trace,41,1986.7,2612.1,5,5,,
+FC-1D,1,n587,trace,42,2016.7,2614.0,6,6,,
+FC-1D,1,n587,trace,43,2034.8,2614.7,6,6,,
+FC-1D,1,n587,feature,1,638.0,2694.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n587,feature,2,1106.5,2471.4,5,5,,peak of the drawn line
+FC-1D,1,n587,feature,3,2058.6,2626.1,5,5,,last point: line ends at the x=250 gridline
+FC-1D,1,n294,trace,1,629.1,2782.2,4,4,,
+FC-1D,1,n294,trace,2,644.1,2758.9,6,6,,
+FC-1D,1,n294,trace,3,672.8,2728.0,6,6,,
+FC-1D,1,n294,trace,4,693.8,2706.6,5,5,,
+FC-1D,1,n294,trace,5,729.4,2680.6,6,6,,
+FC-1D,1,n294,trace,6,758.5,2663.0,7,7,,
+FC-1D,1,n294,trace,7,788.3,2648.7,6,6,,
+FC-1D,1,n294,trace,8,817.2,2650.9,4,4,,
+FC-1D,1,n294,trace,9,846.8,2628.0,6,6,,
+FC-1D,1,n294,trace,10,882.9,2618.4,5,5,,
+FC-1D,1,n294,trace,11,903.8,2616.6,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,12,961.2,2610.1,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,13,991.5,2610.5,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,14,1021.5,2610.0,6,6,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,15,1036.5,2612.2,4,4,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,16,1078.4,2614.4,7,7,,line runs on or next to a horizontal gridline
+FC-1D,1,n294,trace,17,1108.8,2615.9,8,8,,
+FC-1D,1,n294,trace,18,1138.5,2620.7,6,6,,
+FC-1D,1,n294,trace,19,1153.7,2622.1,5,5,,
+FC-1D,1,n294,trace,20,1195.9,2628.0,5,5,,
+FC-1D,1,n294,trace,21,1226.1,2633.4,7,7,,
+FC-1D,1,n294,trace,22,1255.7,2638.7,6,6,,
+FC-1D,1,n294,trace,23,1285.2,2644.8,6,6,,
+FC-1D,1,n294,trace,24,1314.6,2651.6,5,5,,
+FC-1D,1,n294,trace,25,1343.9,2658.1,6,6,,
+FC-1D,1,n294,trace,26,1373.7,2664.8,5,5,,
+FC-1D,1,n294,trace,27,1432.6,2679.0,6,6,,
+FC-1D,1,n294,trace,28,1469.5,2687.1,6,6,,
+FC-1D,1,n294,trace,29,1490.0,2692.5,6,6,,
+FC-1D,1,n294,trace,30,1511.0,2695.3,4,4,,
+FC-1D,1,n294,feature,1,621.0,2799.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n294,feature,2,1064.1,2603.5,5,5,,peak of the drawn line
+FC-1D,1,n294,feature,3,1517.0,2696.0,5,5,,last point: line ends just before the last circle (x near 158)
+FC-1D,1,n0,trace,1,732.8,2805.1,5,5,,
+FC-1D,1,n0,trace,2,761.1,2795.1,6,6,,
+FC-1D,1,n0,trace,3,790.4,2788.3,7,7,,
+FC-1D,1,n0,trace,4,805.4,2786.3,6,6,,
+FC-1D,1,n0,trace,5,849.6,2778.6,5,5,,
+FC-1D,1,n0,trace,6,886.0,2773.9,6,6,,
+FC-1D,1,n0,trace,7,907.2,2773.5,6,6,,
+FC-1D,1,n0,trace,8,967.2,2769.2,5,5,,
+FC-1D,1,n0,trace,9,982.3,2768.1,6,6,,
+FC-1D,1,n0,trace,10,1024.2,2770.3,6,6,,
+FC-1D,1,n0,trace,11,1054.3,2770.8,6,6,,
+FC-1D,1,n0,trace,12,1084.4,2770.5,6,6,,
+FC-1D,1,n0,trace,13,1144.2,2776.4,4,4,,
+FC-1D,1,n0,trace,14,1165.2,2776.9,6,6,,
+FC-1D,1,n0,trace,15,1200.1,2782.4,6,6,,
+FC-1D,1,n0,trace,16,1260.0,2787.3,5,5,,
+FC-1D,1,n0,trace,17,1290.1,2787.2,4,4,,
+FC-1D,1,n0,trace,18,1317.3,2791.6,6,6,,
+FC-1D,1,n0,trace,19,1377.2,2796.0,5,5,,
+FC-1D,1,n0,trace,20,1404.3,2796.8,5,5,,
+FC-1D,1,n0,trace,21,1434.3,2798.7,6,6,,
+FC-1D,1,n0,feature,1,699.0,2818.0,4,4,,first point: drawn line starts at the first marker
+FC-1D,1,n0,feature,2,970.1,2767.6,6,6,,peak of the drawn line; flat plateau: drawn line within 4 px of its maximum from u=919 to 1108; peak taken at the minimum v
+FC-1D,1,n0,feature,3,1437.3,2799.4,5,5,,last point: line ends about 15 thousandths past the last dot

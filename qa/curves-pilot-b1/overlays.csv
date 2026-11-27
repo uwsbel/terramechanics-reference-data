@@ -1,0 +1,3 @@
+figure_id,panel,image,box,points_a,points_b,name,cal_a,cal_b
+FC-1B,1,corpus/1968-vol2/images/p0117.png,740 1100 2320 2900,extractions/claude/curves-pilot-b1/claude-fc1b-p1-traces.csv,extractions/codex/curves-pilot-b1/points-p1.csv,FC-1B-p1,extractions/claude/curves-pilot-b1/cal-fc1b-p1,
+FC-1B,2,corpus/1968-vol2/images/p0117.png,740 2960 2320 3600,extractions/claude/curves-pilot-b1/claude-fc1b-p2-markers.csv,extractions/codex/curves-pilot-b1/points-p2.csv,FC-1B-p2,extractions/claude/curves-pilot-b1/cal-fc1b-p2,

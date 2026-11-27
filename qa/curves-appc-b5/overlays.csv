@@ -1,0 +1,5 @@
+figure_id,panel,image,box,points_a,points_b,name,canonical,canonical_reason,cal_a,cal_b
+FC-1A,1,corpus/1968-vol2/images/p0116.png,905 1567 2125 3325,extractions/claude/curves-appc-b5/FC-1A/points-p1-native.csv,extractions/codex/curves-appc-b5/FC-1A/points-p1-native.csv,FC-1A-p1,,,,
+FC-2A,1,corpus/1968-vol2/images/p0120.png,946 1608 2404 3384,extractions/claude/curves-appc-b5/FC-2A/points-p1-native.csv,extractions/codex/curves-appc-b5/FC-2A/points-p1-native.csv,FC-2A-p1,,,,
+FC-3A,1,corpus/1968-vol2/images/p0123.png,895 1430 2400 3230,extractions/claude/curves-appc-b5/FC-3A/points-p1-native.csv,extractions/codex/curves-appc-b5/FC-3A/points-p1-native.csv,FC-3A-p1,,,extractions/claude/curves-appc-b5/FC-3A/alt-ticks,
+FC-4A,1,corpus/1968-vol2/images/p0126.png,900 1145 2400 3510,extractions/claude/curves-appc-b5/FC-4A/points-p1-native.csv,extractions/codex/curves-appc-b5/FC-4A/points-p1-native.csv,FC-4A-p1,codex,"Codex's map is fitted on the measured tick marks; Claude's on lines predicted from the frame, whose small residual shows internal consistency only (D-024); the data-sheet peaks agree with Codex's map by 16 psf more on the Dr 0 group",,

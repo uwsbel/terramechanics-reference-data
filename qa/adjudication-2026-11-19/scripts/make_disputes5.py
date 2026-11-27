@@ -1,0 +1,220 @@
+"""Version 5 (2026-11-19, batch curves-s4-b1) of qa/adjudication-2026-10-15/scripts/make_disputes4.py, which
+is left as the earlier rounds used it. Two changes: (1) the other reader's trace samples
+drawn with a `trace-disagree` item are the four nearest on the page, not the four nearest in pixel u (on a
+figure printed sideways, Fig. 4-20, u is the force axis and the nearest u took samples from the far end of
+the curve); (2) feature roles as tools/diff_curves.py --feature-roles leading when ADJ_FEATURE_ROLES=leading
+(the batch's overlays.csv sets it), so the question names a knee or minimum by its own role. After the 2026-11-19
+rounds (Codex's review): the nearest samples are drawn in the reader's drawing order, not sorted by pixel.
+
+Adjudication packet built from the canonical files of curve batches re-derived under D-025 (the reading
+files are qa/<batch>/rederived/<reader>/<figure>/points-p<n>-native.csv; points excluded by a batch's
+decisions are left out of the references): one crop per item with the readings drawn under neutral labels (P blue
+circles, Q orange squares; which reader is P is shuffled per item and kept in a hidden key).
+
+Items (kind):
+  marker-disagree   a paired marker whose two positions disagree
+  feature-disagree  a paired first/last point (or peak height) that disagrees
+  trace-disagree    a trace sample that disagrees with the other trace
+  identity          one symbol recorded under two different tests
+  marker-only       a marker only one reader recorded
+  feature-only      a feature only one reader recorded
+  curve-start, curve-end, trace-gap   consecutive trace samples only one reader took (one item per run)
+Usage: make_disputes2.py <out_dir> <key_csv> <batch> [<batch> ...]  (figures and reading files from qa/<batch>/overlays.csv)
+"""
+import csv, random, sys
+from collections import defaultdict, Counter
+from pathlib import Path
+from PIL import Image, ImageDraw
+REPO = Path(r"<repository>")
+sys.path.insert(0, str(REPO / "tools"))
+import diff_curves as dc  # noqa: E402
+dc.FEATURE_ROLES = __import__("os").environ.get("ADJ_FEATURE_ROLES", "earliest")
+
+OUT, KEYF = Path(sys.argv[1]), Path(sys.argv[2])
+(OUT / "crops").mkdir(parents=True, exist_ok=True)
+BATCHES = sys.argv[3:]
+SETS = []   # (batch, figure, panel, page image, claude points, codex points)
+for batch in BATCHES:
+    for ov in csv.DictReader(open(REPO / "qa" / batch / "overlays.csv", encoding="utf-8-sig", newline="")):
+        red = lambda lab: f"qa/{batch}/rederived/{lab}/{ov['figure_id']}/points-p{ov['panel']}-native.csv"
+        SETS.append((batch, ov["figure_id"], ov["panel"], ov["image"], red("claude"), red("codex")))
+rng = random.Random(int(__import__("os").environ.get("ADJ_SEED", "20261015")))
+BLUE, ORANGE = (30, 90, 230), (240, 120, 0)
+items, key = [], []
+
+
+def load(p):
+    return list(csv.DictReader(open(p, encoding="utf-8-sig", newline="")))
+
+
+def draw(img, subj, ref, center, half, scale, name, lines):
+    x0, y0 = int(center[0] - half), int(center[1] - half)
+    c = img.crop((x0, y0, x0 + 2 * half, y0 + 2 * half)).convert("RGB")
+    c = c.resize((c.width * scale, c.height * scale), Image.NEAREST)
+    d = ImageDraw.Draw(c)
+    for pts, col, shape in ((subj, BLUE, "circle"), (ref, ORANGE, "square")):
+        prev = None
+        for (u, v) in pts:
+            X, Y = (u - x0) * scale, (v - y0) * scale
+            r = (2 if lines else 4) * scale
+            (d.ellipse if shape == "circle" else d.rectangle)([X - r, Y - r, X + r, Y + r], outline=col, width=2)
+            if lines and prev:
+                d.line([prev, (X, Y)], fill=col, width=1)
+            prev = (X, Y)
+    c.save(OUT / "crops" / name)
+
+
+def add(kind, fid, panel, series, question, first, second, first_lab, second_lab, lines=False, extra=None, verify=""):
+    """first: the subject points (one reader), second: the reference points (the other reader or rivals)."""
+    iid = f"{len(items) + 1:03d}"
+    swap = rng.random() < 0.5
+    pl, ql = ("Q", "P") if swap else ("P", "Q")   # labels of first and second
+    P, Q = (second, first) if swap else (first, second)
+    q = question.replace("{S}", pl).replace("{R}", ql)
+    pts = [x[:2] for x in first + second]
+    us, vs = [p[0] for p in pts], [p[1] for p in pts]
+    center = ((min(us) + max(us)) / 2, (min(vs) + max(vs)) / 2)
+    half = int(max(60, (max(us) - min(us)) / 2 + 40, (max(vs) - min(vs)) / 2 + 40))
+    scale = 4 if half <= 75 else 3 if half <= 110 else 2
+    name = f"item-{iid}.png"
+    # blue circles always mark P, orange squares Q
+    draw(IMG[fid], [x[:2] for x in P], [x[:2] for x in Q], center, half, scale, name, lines)
+    fmt = lambda L: "; ".join(f"px ({u:.0f},{v:.0f}) x {x:.1f} y {y:.1f}" + (f" [{t}]" if t else "") for u, v, x, y, t in L[:8]) + (" ..." if len(L) > 8 else "") if L else "(none)"
+    items.append({"item": iid, "kind": kind, "figure": fid, "panel": panel, "series": series,
+                  "legend_symbol": LEG[fid].get(series, ""), "question": q, "P": fmt(P), "Q": fmt(Q),
+                  "crop": f"crops/{name}", "crop_origin_px": f"{int(center[0] - half)},{int(center[1] - half)}", "crop_scale": scale,
+                  **(extra or {})})
+    key.append({"subject_rows": ";".join(x.rid for x in first), "reference_rows": ";".join(x.rid for x in second),
+                "item": iid, "P": second_lab if swap else first_lab, "Q": first_lab if swap else second_lab,
+                "subject_label": pl, "subject_reader": first_lab, "verify": verify})
+
+
+class Pt(tuple):
+    """(u, v, x, y, tag) with the identity of the row it came from, for the key."""
+    rid = ""
+
+
+def pt(r, tag=""):
+    t = Pt((float(r["pixel_u"]), float(r["pixel_v"]), float(r["x_native"]), float(r["y_native"]), tag))
+    t.rid = f"{r.get('source') or r.get('_lab')}|{r['series_id']}|{r['point_kind']}|{r['sequence']}"
+    return t
+
+
+IMG, LEG = {}, {}
+for batch, fid, p, image, pa, pb in SETS:
+    if fid not in IMG:
+        IMG[fid] = Image.open(REPO / image)
+    LEG.setdefault(fid, {})
+    if True:
+        R = {lab: [r for r in load(REPO / path) if r["panel"] == p] for lab, path in (("claude", pa), ("codex", pb))}
+        decf = REPO / "qa" / batch / f"decisions-{fid}-p{p}.csv"
+        excl = {(d["source"], d["series_id"], d["point_kind"], d["sequence"]) for d in (load(decf) if decf.exists() else [])
+                if d["status"] == "excluded"}
+        R = {lab: [r for r in R[lab] if (lab, r["series_id"], r["point_kind"], r["sequence"]) not in excl] for lab in R}
+        for lab in R:
+            for r in R[lab]:
+                r["_lab"] = lab
+        for lab in R:
+            for r in R[lab]:
+                if r["point_kind"] == "marker" and r["symbol"]:
+                    LEG[fid].setdefault(r["series_id"], r["symbol"])
+        can = load(REPO / "qa" / batch / f"canonical-{fid}-p{p}.csv")
+        le = Counter(r["source"] for r in can).most_common(1)[0][0]
+        bykey = {(lab, r["series_id"], r["point_kind"], r["sequence"]): r for lab in R for r in R[lab]}
+        other_of = lambda lab: "codex" if lab == "claude" else "claude"
+        series_rows = defaultdict(list)
+        for r in can:
+            series_rows[r["series_id"]].append(r)
+        for s, rows in series_rows.items():
+            for r in rows:
+                kind, src, st = r["point_kind"], r["source"], r["status"]
+                ol = other_of(src)
+                if st == "pending-review" and kind in ("marker", "feature") and (r.get("decision_note") or "").startswith("rule: identity conflict"):
+                    rivals = [x for x in R[ol] if x["point_kind"] == "marker" and x["series_id"] != s and dc.pixel_distance(x, r) <= 10]
+                    same = [x for x in R[ol] if x["point_kind"] == "marker" and x["series_id"] == s and dc.pixel_distance(x, r) <= 45]
+                    add("identity", fid, p, s,
+                        f"One reader recorded the symbol at the {{S}} mark as a {r['symbol']} of {s}; the other recorded the same ink "
+                        f"(the {{R}} mark) as " + ", ".join(f"a {x['symbol']} of {x['series_id']}" for x in rivals) +
+                        ". Which is right? Answer with the series id whose symbol this is (look at the shape; the legend gives each test's symbol), "
+                        "`both` if there are really two symbols here, or `cannot tell`.",
+                        [pt(r, f"{s} {r['symbol']}")], [pt(x, f"{x['series_id']} {x['symbol']}") for x in rivals + same], src, ol,
+                        extra={"candidates": "; ".join([f"{s} {r['symbol']}"] + [f"{x['series_id']} {x['symbol']}" for x in rivals])},
+                        verify="identity")
+                elif st == "pending-review" and kind in ("marker", "feature"):
+                    o = next((x for x in R[ol] if x["series_id"] == s and x["point_kind"] == kind and x["x_native"] == r["other_x_native"]
+                              and x["y_native"] == r["other_y_native"]), None)
+                    if kind == "marker":
+                        add("marker-disagree", fid, p, s,
+                            f"Both readers placed a {r['symbol'] or LEG[fid].get(s, '')} of {s} here, at different centers. Which mark is on the "
+                            "center of that symbol? `P`, `Q`, `both` (both inside the symbol), `neither`, `cannot tell`; say if the symbol is not this test's.",
+                            [pt(r)], [pt(o)] if o else [], src, ol, verify="pair")
+                    else:
+                        role = dc.feature_role(r)
+                        add("feature-disagree", fid, p, s,
+                            f"The two readers' '{role}' point of the drawn {s} line differ (notes in note_P, note_Q). Which mark is the {role} "
+                            f"point of the drawn line" + (" (its height matters; on a flat top its x does not)" if role == "peak" else "") +
+                            "? `P`, `Q`, `both`, `neither`, `cannot tell`.",
+                            [pt(r)], [pt(o)] if o else [], src, ol, extra={"_n1": r.get("note", ""), "_n2": (o or {}).get("note", "")}, verify="pair")
+                elif st == "pending-review" and kind == "trace":
+                    near = sorted([x for x in R[ol] if x["series_id"] == s and x["point_kind"] == "trace"],
+                                  key=lambda x: dc.pixel_distance(x, r))[:4]   # nearest on the page (version 5)
+                    add("trace-disagree", fid, p, s, f"Which trace sample is on the drawn line of {s}: the {{S}} mark or the {{R}} line? `P`, `Q`, `both`, `neither`, `cannot tell`.",
+                        [pt(r)], [pt(x) for x in sorted(near, key=lambda x: int(x["sequence"]))], src, ol, lines=True, verify="pair")   # drawn in the reader's order (Codex's review)
+                elif st == "one-sided" and kind == "marker":
+                    near = [x for x in R[ol] if x["point_kind"] == "marker" and dc.pixel_distance(x, r) <= 45]
+                    add("marker-only", fid, p, s,
+                        f"Only one reader recorded a {r['symbol'] or LEG[fid].get(s, '')} of {s} at the {{S}} mark (the other reader's marks within "
+                        "45 px are drawn as {R}, whatever their test). Is there a printed symbol of this test there, centered within a few pixels? "
+                        "`yes`, `no` (no symbol, or it belongs to another test: say which), `cannot tell`.",
+                        [pt(r, f"{s} {r['symbol']}")], [pt(x, f"{x['series_id']} {x['symbol']}") for x in near], src, ol, verify="one-sided")
+                elif st == "one-sided" and kind == "feature":
+                    role = dc.feature_role(r)
+                    add("feature-only", fid, p, s,
+                        f"Only one reader marked this point of the drawn {s} line, as '{(r.get('note') or role)[:80]}'. Is the {{S}} mark on the drawn line "
+                        "and does it represent what the note says? `yes`, `no`, `cannot tell`.",
+                        [pt(r)], [], src, ol, verify="one-sided")
+            # runs of one-sided trace samples
+            tr = [r for r in rows if r["point_kind"] == "trace"]
+            for src in ("claude", "codex"):
+                ol = other_of(src)
+                own = [r for r in tr if r["source"] == src]
+                if not own:
+                    continue
+                ot = sorted([x for x in R[ol] if x["series_id"] == s and x["point_kind"] == "trace"], key=lambda x: int(x["sequence"]))
+                runs, cur = [], []
+                for r in tr:   # drawing order; a run breaks at any sample that is not this reader's one-sided one
+                    if r["source"] == src and r["status"] == "one-sided":
+                        cur.append(r)
+                    elif cur:
+                        runs.append(cur); cur = []
+                if cur:
+                    runs.append(cur)
+                for run in runs:
+                    if not ot:
+                        continue
+                    xo = [float(x["x_native"]) for x in ot]
+                    xr = [float(r["x_native"]) for r in run]
+                    where = "curve-start" if max(xr) < min(xo) else "curve-end" if min(xr) > max(xo) else "trace-gap"
+                    # the other reader's samples near the run, within 60 px on the page (15 psf until 2026-10-15,
+                    # which on a Dr axis took in the whole curve)
+                    ref = [x for x in ot if min(dc.pixel_distance(x, r) for r in run) <= 60] or \
+                          (ot[:3] if where == "curve-start" else ot[-3:])
+                    q = {"curve-start": f"The {{S}} samples extend the {s} curve before the first {{R}} sample.",
+                         "curve-end": f"The {{S}} samples extend the {s} curve beyond the last {{R}} sample.",
+                         "trace-gap": f"The {{S}} samples lie inside a gap of the {{R}} trace (a dashed line is often interrupted around a symbol)."}[where]
+                    add(where, fid, p, s, q + f" Is every {{S}} sample on the ink of the drawn {s} line (not on a symbol, not in white space, "
+                        "not on another curve or a grid line)? `all yes`, `all no`, or list the off-line ones by pixel; or `cannot tell`.",
+                        [pt(r) for r in run], [pt(x) for x in ref], src, ol, lines=True, extra={"n_subject": len(run)}, verify="one-sided")
+
+for it in items:   # notes travel with their marks, under the neutral labels
+    if "_n1" in it:
+        k = key[int(it["item"]) - 1]
+        n1, n2 = it.pop("_n1"), it.pop("_n2")
+        it["note_P"], it["note_Q"] = (n1, n2) if k["subject_label"] == "P" else (n2, n1)
+fields = list(dict.fromkeys(k for it in items for k in it))
+with open(OUT / "items.csv", "w", encoding="utf-8", newline="") as f:
+    w = csv.DictWriter(f, fieldnames=fields, lineterminator="\n"); w.writeheader(); w.writerows(items)
+with open(KEYF, "w", encoding="utf-8", newline="") as f:
+    meta = [dict(k, figure=i["figure"], panel=i["panel"], series=i["series"], kind=i["kind"]) for k, i in zip(key, items)]
+    w = csv.DictWriter(f, fieldnames=list(meta[0].keys()), lineterminator="\n"); w.writeheader(); w.writerows(meta)
+print(len(items), "items:", dict(Counter(i["kind"] for i in items)))

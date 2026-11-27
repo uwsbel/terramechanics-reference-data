@@ -1,0 +1,92 @@
+item,answer,confidence,comment
+183,all yes,high,Both Q samples lie on the flanking line ink.
+184,q,high,Q is at the intersection of the plus strokes; P is right of it.
+185,all yes,high,Both P samples lie on the line beside the plus.
+186,all yes,high,P is on the line beginning to the right of the triangle.
+187,all yes,high,Both Q samples are on the line ends flanking the triangle.
+188,all yes,high,Both P samples fall on the flanking line ink.
+189,all yes,medium,Samples are on the line ends within the 2 px tolerance.
+190,all yes,high,All three P samples lie on the line beside the triangle.
+191,all yes,high,Q is at the start of the dash right of the triangle.
+192,all yes,high,Both P samples lie on the flanking line ink.
+193,all yes,medium,Both Q samples remain on line ink before the final triangle.
+194,all yes,high,Q is on the lower end of the circle-series dash.
+195,all yes,medium,Both P samples are on or within 2 px of the rounded dash end.
+196,all yes,high,Both P samples lie on the right end of the dash.
+197,neither,medium,"The separated ink begins around (718,1722); both marks are farther up the stroke."
+198,all yes,high,All three P samples lie on the rising square-series line ink.
+199,all yes,high,Both Q samples remain on the end of the dash before the square.
+200,no,high,The stroke joins the first triangle without a gap; the first point is its center.
+201,q,high,Q is at the plus intersection; P is below and right.
+202,all yes,high,Both P samples lie at the rounded dash end.
+203,neither,medium,"Separated line ink begins around (717,2166); neither mark is its endpoint."
+204,p,high,P is at the dash end before the white gap to the final triangle.
+205,p,high,P is in the triangle center; Q lies on its right slope.
+206,q,high,Q is at the dash end; P is on the last square's thick corner.
+207,some,high,"Off-line: (2126,1564), on the square corner; (2079,1558) is on the dash end."
+208,all yes,medium,Both P samples are at the dash end within 2 px of line ink.
+209,some,high,"Off-line: (1887,1538), (1890,1538), on the lower n2934 curve."
+210,p,high,P is at the vertical stroke of the plus; Q is left of its center.
+211,p,high,P is at the plus intersection; Q is left and below.
+212,all yes,high,Both Q samples lie on the dash ends beside the plus.
+213,p,high,P is at the separated dash's right end; Q is inside the dash.
+214,q,high,Q is centered on the plus; P lies at the adjacent square edge.
+215,q,high,Q is centered on the plus; P is to its right.
+216,neither,medium,Ink merges into the final triangle without a white gap; endpoint is its center.
+217,all yes,high,Q lies on the thick line ink leading into the final triangle.
+218,neither,medium,"Both marks are inside the starting stroke; the rounded ink begins around (831,2075)."
+219,all yes,high,Both P samples lie on the dash ends beside the circle.
+220,all yes,high,P lies on the dash end before the circle.
+221,all yes,high,Both Q samples lie on line ink flanking the circle.
+222,all yes,high,Both P samples are on the flanking dash ends.
+223,all yes,high,Both Q samples lie on the line ends beside the circle.
+224,neither,high,Line joins the square without a gap; the first point is the square center.
+225,all yes,high,Q lies on the rising line above the square.
+226,all yes,high,All three Q samples lie on continuous square-series line ink.
+227,all yes,high,Both Q samples lie on the dash ends beside the square.
+228,all yes,high,Both Q samples lie on the flanking line ink.
+229,neither,high,Line joins the first triangle without a gap; its center is the first point.
+230,all yes,high,P lies on the rising line above the triangle.
+231,all yes,high,Both P samples lie on the separated dash ends.
+232,all yes,high,Both Q samples lie on the flanking dash ends.
+233,all yes,high,P lies on the start of the dash to the right of the triangle.
+234,all yes,high,P lies on the end of the final dash before the triangle.
+235,q,high,Q is on the plus center beside the axis; P is to its right in white space.
+236,all yes,high,Both Q samples lie on line ink on either side of the plus.
+237,all yes,high,Both P samples lie on the flanking dash ends.
+238,all yes,high,Both Q samples lie on the dash ends beside the plus.
+239,all yes,medium,Both P samples are at the dash ends within the line tolerance.
+240,all yes,medium,Both Q samples lie at the final dash tip before the plus.
+241,both,high,P is near the sideways triangle centroid; Q is between centroid and bounding-box midpoint.
+242,all yes,medium,Q is within 2 px of the fitted dash lower edge at its junction with the axis.
+243,all yes,medium,P lies at the lower ink edge of the fitted dash where it meets the axis.
+244,all yes,medium,The adjacent fitted dash lower edge reaches Q height at the axis.
+245,all yes,medium,Q lies at the lower edge of the square-group fitted dash at the axis.
+246,both,high,The two marks differ by 1 px and both lie in the circle center.
+247,all yes,medium,P lies at the lower ink edge of the fitted dash at its axis junction.
+248,all yes,medium,The fitted dash ink reaches Q height at the vertical grid line.
+249,all yes,medium,P lies at the lower tip where the fitted dash meets the axis.
+250,all yes,high,Q is on the final fitted-line dash.
+251,cannot tell,low,"A partly obscured angular outline is visible, but its center and unnamed test cannot be established."
+252,cannot tell,low,Circle-group line start merges with the other fitted lines and both axes at the mark.
+253,all yes,medium,Q lies at the fitted dash tip where it meets the vertical grid line.
+254,cannot tell,low,The square-group line and the other fitted lines merge with the axes at this sample.
+255,all yes,high,P lies on the end of the square-group fitted line.
+256,q,high,Q is at the down-triangle centroid; P is on its right edge.
+257,all yes,medium,P is at the upper fitted-line ink where the down-triangle line reaches the origin.
+258,all yes,high,Q lies on the rounded tip of the fitted line.
+259,cannot tell,low,The up-triangle line merges with the other fitted lines and the axes at this sample.
+260,all yes,high,Q lies on the final rounded fitted-line tip.
+261,dr19-28,high,The rounded outline below the square is a circle; no separate down-triangle is printed.
+262,all yes,medium,P is at the square-group dashed extension's height where it meets the horizontal axis.
+263,all yes,high,P lies on the fitted dash tip before the square.
+264,dr19-28,high,"The lower rounded outline is the dr19-28 circle, not a separate down-triangle."
+265,yes,high,A separate printed circle is centered at the P mark.
+266,all yes,high,Q lies on the circle-group dashed extension below the axis.
+267,all yes,high,Q lies on the end of the circle-group fitted line.
+268,all no,medium,P is on the axes below the up-triangle fitted line's ink.
+269,all yes,high,Q lies at the fitted-line tip within the 2 px tolerance.
+270,all yes,high,Q is on the fitted line where it meets the upper grid line.
+271,all no,high,Q is on the vertical axis below the fitted dash's ink.
+272,all no,high,Q is on the vertical axis below the fitted dash's lower edge.
+273,all yes,high,P lies on the fitted-line ink just above the final circle.

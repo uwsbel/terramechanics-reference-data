@@ -1,0 +1,117 @@
+{
+  "FC-10A": {
+    "source": "1968-vol2",
+    "title": "Figure C-10A: PS Loose (printed C-28, PDF 142)",
+    "rotation": 0,
+    "legend_hint": "the triangles are the only symbols on this figure",
+    "series_noun": "test group",
+    "series": {
+      "ps-loose": {
+        "label": "PS loose",
+        "symbol": "triangle-up",
+        "noun": "test group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of the PS loose direct shear tests: shear strength against normal stress, both axes printed in tens of psf (x 10^1), which does not matter for the answers. The triangles are the measured peak shear stresses; the straight line is the least-squares fit drawn through them, and a triangle need not sit on it. The box above the plot prints the fitted values. A triangle's center can be its middle or its centroid; both count."
+  },
+  "FC-8": {
+    "source": "1968-vol2",
+    "title": "Figure C-8: RS Loose (printed C-24, PDF 138)",
+    "rotation": 0,
+    "legend_hint": "the triangles are the only symbols on this figure",
+    "series_noun": "test group",
+    "series": {
+      "rs-loose": {
+        "label": "RS loose",
+        "symbol": "triangle-up",
+        "noun": "test group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of the RS loose direct shear tests: shear strength against normal stress, both axes printed in tens of psf (x 10^1), which does not matter for the answers. The triangles are the measured peak shear stresses; the straight line is the least-squares fit drawn through them, and a triangle need not sit on it. The box above the plot prints the fitted values. A triangle's center can be its middle or its centroid; both count."
+  },
+  "FC-9A": {
+    "source": "1968-vol2",
+    "title": "Figure C-9A: RS Dense (printed C-25, PDF 139)",
+    "rotation": 0,
+    "legend_hint": "the triangles are the only symbols on this figure",
+    "series_noun": "test group",
+    "series": {
+      "rs-dense": {
+        "label": "RS dense",
+        "symbol": "triangle-up",
+        "noun": "test group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of the RS dense direct shear tests: shear strength against normal stress, both axes printed in tens of psf (x 10^1), which does not matter for the answers. The triangles are the measured peak shear stresses; the straight line is the least-squares fit drawn through them, and a triangle need not sit on it. The box above the plot prints the fitted values. A triangle's center can be its middle or its centroid; both count."
+  },
+  "FC-9B": {
+    "source": "1968-vol2",
+    "title": "Figure C-9B: RS Dense (printed C-26, PDF 140)",
+    "rotation": 0,
+    "legend_hint": "the triangles are the only symbols on this figure",
+    "series_noun": "test group",
+    "series": {
+      "rs-dense": {
+        "label": "RS dense",
+        "symbol": "triangle-up",
+        "noun": "test group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of the RS dense direct shear tests: shear strength against normal stress, both axes printed in tens of psf (x 10^1), which does not matter for the answers. The triangles are the measured peak shear stresses; the straight line is the least-squares fit drawn through them, and a triangle need not sit on it. The box above the plot prints the fitted values. A triangle's center can be its middle or its centroid; both count."
+  },
+  "FC-9C": {
+    "source": "1968-vol2",
+    "title": "Figure C-9C: RS Dense (printed C-27, PDF 141)",
+    "rotation": 0,
+    "legend_hint": "the triangles are the only symbols on this figure",
+    "series_noun": "test group",
+    "series": {
+      "rs-dense": {
+        "label": "RS dense",
+        "symbol": "triangle-up",
+        "noun": "test group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of the RS dense direct shear tests: shear strength against normal stress, both axes printed in tens of psf (x 10^1), which does not matter for the answers. The triangles are the measured peak shear stresses; the straight line is the least-squares fit drawn through them, and a triangle need not sit on it. The box above the plot prints the fitted values. A triangle's center can be its middle or its centroid; both count."
+  }
+}

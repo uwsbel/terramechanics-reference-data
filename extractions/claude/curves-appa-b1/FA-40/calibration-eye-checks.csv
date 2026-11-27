@@ -1,0 +1,12 @@
+figure_id,panel,axis,printed_label,value,anchored_line,line_position_px,label_position_px,result,note
+FA-40,1,y,50,50,horizontal grid line,v 1656 at u 740,v 1655 (centre of the digits),agrees,label centred on its line
+FA-40,1,y,45,45,horizontal grid line (upper edge of the hatched band),v 2039 at u 740,v 2033,agrees,label about 6 px above its line; no other line nearby
+FA-40,1,y,40,40,horizontal grid line (lower edge of the hatched band),v 2425 at u 740,v 2422,agrees,label about 3 px above its line
+FA-40,1,y,35,35,horizontal grid line,v 2808 at u 740,v 2805,agrees,label about 3 px above its line
+FA-40,1,y,30,30,horizontal grid line,v 3188 at u 740,v 3190,agrees,label centred on its line
+FA-40,1,x,0,0,left frame,u 807 at v 3600,u 802 (centre of the 0),agrees,label about 5 px left of the frame line
+FA-40,1,x,0.2,0.2,vertical grid line,u 1111 at v 3600,decimal point at u 1111,agrees,decimal point of the label under the line
+FA-40,1,x,0.4,0.4,vertical grid line,u 1418 at v 3600,decimal point at u 1418,agrees,decimal point of the label under the line
+FA-40,1,x,0.6,0.6,vertical grid line,u 1725 at v 3600,decimal point at u 1726,agrees,decimal point of the label under the line
+FA-40,1,x,0.8,0.8,vertical grid line,u 2041 at v 3600,decimal point at u 2041,agrees,decimal point of the label under the line
+FA-40,1,x,1.0,1.0,right frame,u 2357 at v 3600,decimal point at u 2358,agrees,decimal point of the label under the frame line

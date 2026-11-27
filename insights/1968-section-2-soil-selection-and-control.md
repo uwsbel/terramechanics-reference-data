@@ -1,0 +1,121 @@
+# Insights from Section II of the 1968 Bendix report (soil selection and control)
+
+Judgment, caveats and recommendations the authors recorded, as distinct from the numbers. Each
+paragraph ends with its citation (AM-68-1 Vol. I, printed page, PDF page). Written 2026-10-07
+from a first read of the pages; `review_status: pending` until the transcription is reconciled.
+
+## Why these soils
+
+The test soils were chosen to span target ranges set from Surveyor-era estimates of lunar soil:
+density 20 to 110 pcf, relative density 0 to near 100 percent, friction angle 25 to over 50
+degrees, cohesion 0 to under 100 psf, mean grain size under 70 to 2000 microns. The soils were
+then paired so that one property at a time could be isolated: PS loose against RS loose isolates
+bulk density (same gradation and friction, very different density); RS loose, intermediate and
+dense isolate relative density; the SS series does the same for a silica sand. (Table 2-1, printed
+2-12, PDF 37; Figure 2-7, printed 2-17, PDF 42.)
+
+The report's own soil model deliberately includes no strain-rate property: the force on a footpad
+is written as a function of unit weight, friction, relative density, modulus, cohesion and friction
+angle only. Rate effects were examined separately in the load-penetration tests and found small up
+to 4 inches per minute. (printed 2-10, PDF 35; printed 2-74, PDF 99.)
+
+## Density and bed preparation
+
+Relative density is defined through the minimum and maximum density test (Burmister funnel method
+for minimum; vibratory compaction in 1 inch layers for maximum), and unit weight is linear in
+1/gamma against Dr, which is why Figure 2-17 is drawn on a reciprocal scale. Acceptance of a
+determination required values within 3 percent of the average. (printed 2-29 to 2-35, PDF 54 to 60.)
+
+Bed preparation is a first-order effect and the report says so repeatedly. Loose beds (Dr near 0)
+came from a traveling hopper whose trailing edge rides at the soil surface, designed because
+screeding a loose surface densifies it; scoop placing gives Dr about 0.15; slope filling segregates
+coarse and fine grains. Intermediate beds came from screeding thin layers (small LPT bin) or from a
+lawn roller with a soil-specific number of passes (soil 3: two rolls per layer, Dr about 0.4;
+soil 8: eight rolls, Dr about 0.6; soil 10: two rolls under cardboard, Dr about 0.5). Dense LPT
+beds came from a vibratory plate, three passes per 3 inch layer, Dr 0.85 to 0.95; dense beds in the
+large bins from the roller (soil 4: sixteen rolls, Dr about 0.7; soil 9: twenty-four, Dr 0.75 to
+0.8; soil 11: six under cardboard, Dr about 0.7; soil 12: twenty-four, Dr about 0.78). A
+simulation that claims to reproduce a test must reproduce the stated Dr of that bed, not the
+nominal state name. (printed 2-103 to 2-113, PDF 128 to 138.)
+
+All soils were tested air dried; moisture 0.2 to 0.3 percent, occasionally 0.6. (printed 2-103,
+PDF 128.)
+
+## The soils degraded during the campaign
+
+The cinder soils (RS, PS, RSM) broke down when handled through the vacuum system used to empty and
+fill the drag and impact bins; RS and RSM significantly, PS less, SS not at all, and LSM and RC2
+were shoveled to protect their fines. Minimum and maximum densities rose with the number of vacuum
+cycles: for RS from 41.1/53.6 pcf unused to 63.6/76.6 pcf after 46 cycles. Figure 2-60 shows the
+slope of the density trend increasing after test 1-75, when the vacuum system came into use, while
+DPT-derived relative density stayed roughly uniform. Consequence: the RS soil in a late drag test is
+not the RS soil of Table 2-3, and any simulation of a drag or impact test must use the density
+limits of the bed on that date, which the report tabulates by test number. (printed 2-94 to 2-98,
+PDF 119 to 123; printed 2-101 to 2-102, PDF 126 to 127.)
+
+## Direct shear results and their interpretation
+
+Friction angles of the cinder soils are substantially higher than those of silica sand (29 to 41
+degrees for SS against 39 to 53 for the cinders), and their failure envelopes show appreciable
+apparent cohesion. The authors attribute the high friction to particle angularity and surface
+roughness, and the apparent cohesion to interlocking or to particle crushing at higher normal
+stress (their Figure 2-25 hypothesis). They did not use apparent cohesion as a soil descriptor
+because it did not correlate with static and dynamic strength. (printed 2-45 to 2-52, PDF 70 to 77.)
+
+A footnote gives the number that matters for calibration: a cohesion of about 0.1 psi explains the
+size effects seen in the load-penetration tests, while the apparent cohesion from direct shear was
+about 50 times larger. Putting the direct-shear cohesion into Terzaghi's equation over-predicts
+bearing strength. (printed 2-47, PDF 72.)
+
+The LSM soil shows no change of friction angle with relative density because the loose LSM
+densified under the normal load before shearing; its curve in Figure 2-23 is built from the lowest
+normal loads only. Relative density in the shear tests is the value before the normal load was
+applied. (printed 2-45 footnote and 2-52, PDF 70 and 77.)
+
+Triaxial tests were few, on RS intermediate and dense only, and gave friction angles of about
+38 degrees, or 39 and 43 degrees at low confining pressure and 36 at high when re-examined for
+crushing. One direct shear series on RS at Dr about 1.0 gave 52.6 degrees against the 49.5 used as
+the dense RS average. (printed 2-49, PDF 74; printed 2-66 footnote, PDF 91.)
+
+## Load-penetration tests
+
+The LPT bin is 18 by 36 by 36 inches with a glass front, on load cells so the bed weight and hence
+unit weight are known per volume increment. Cylinders of 1, 2, 4 and 8 inch diameter and footpads
+of 4 and 6.17 inch were pushed at controlled rates to 8 inches or hydraulic capacity. (printed 2-56
+to 2-59, PDF 81 to 84.)
+
+Boundary effects were real: in dense SS a failure plane reached the glass face of the 18 inch bin,
+so tests were repeated in 36 by 36, 54 by 36 and 108 by 36 inch bins. Larger bins gave higher peak
+loads and lower post-failure slopes; the small bin raised the apparent Nq by about 50 percent for a
+1.5 degree change in friction angle. This sets the minimum domain size for a virtual experiment
+and warns that the 18 inch bin results for dense soils carry a boundary signature. (printed 2-59,
+2-68 and 2-74, PDF 84, 93 and 99.)
+
+The dimensionless pressure parameter q/(D gamma) against relative depth Df/D collapses tests of
+different cylinder size onto one curve for loose and intermediate RS (Dr 0 to 0.7), but not for
+dense soils, where smaller cylinders read higher; the 1 inch cylinder much higher. The authors
+conclude that the size effect implied by the bearing capacity equation fails for small cylinders in
+dense soil. A pronounced dip in one intermediate curve is attributed to screeding as the placement
+method. (printed 2-69, PDF 94.)
+
+Footpad curves lie below cylinder curves at the same depth; the authors give three reasons: lower
+average depth of the dished pad, no side friction, and soil falling in above the pad. (printed 2-80,
+PDF 105.)
+
+## The dynamic penetrometer and inferred density
+
+The DPT is a 1.59 lb, 2-3/4 inch aluminum body with a full-radius nose and a 100 g accelerometer,
+dropped 25.4 inches through a guide tube. Peak deceleration Gp was correlated against directly
+measured relative density in calibration bins (Figure 2-55) and then used to assign Dr to beds where
+density could not be measured directly, that is, most drag and impact beds. Two caveats from the
+authors: calibration bins could not reach Gp values as low as the drag and impact bins did, so the
+hopper placed soil looser than the minimum density test, or the calibration bins had boundary
+effects; and in-place density scoop readings scattered and read low. Any validation against a DPT
+inferred density is therefore conditional on the correlation. (printed 2-88 to 2-94, PDF 113 to 119.)
+
+Bed-to-bed uniformity was good: 49 RS loose beds, four drops each, mean Gp 11.76 plus or minus
+0.14 g at 95 percent confidence on the means. (printed 2-90, PDF 115.)
+
+Static penetrometers (a pocket penetrometer and a cone proving-ring penetrometer) were tried and
+rejected because results varied greatly between operators. There is no static penetrometer data
+in this report. (printed 2-94, PDF 119.)

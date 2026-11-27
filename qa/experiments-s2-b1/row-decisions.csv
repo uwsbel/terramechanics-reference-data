@@ -1,0 +1,54 @@
+experiment_id,decision,reason
+b68-lpt-093,include,Codex read the label correctly at 300 dpi (LPT No. 93 in Figure 2-32); Claude's b68-lpt-063 was a misread of the same curve and is excluded.
+b68-lpt-063,exclude,Misread of LPT No. 93 (Figure 2-32); the record is carried as b68-lpt-093.
+b68-dpt-r54074,include,DPT record number cited in the Figure 2-29 inset; no trace in Vol. I; kept at priority 3 so the LPT 27 bed can be matched if Vol. II carries the record.
+b68-lpt-f2-49-s10,include,Tenth unlabeled line in Figure 2-49 (agreed in the figures index); identity open.
+b68-lpt-f2-51-cms,exclude,Replaced by Codex's five rows b68-lpt-f2-51-s01 to s05 (one per marker group), the finer and correct unit.
+b68-lpt-f2-51-s01,include,One row per marker group in Figure 2-51 (RS four-inch footpad).
+b68-lpt-f2-51-s02,include,One row per marker group in Figure 2-51 (RS six-inch footpad).
+b68-lpt-f2-51-s03,include,One row per marker group in Figure 2-51 (RS four-inch cylinder).
+b68-lpt-f2-51-s04,include,One row per marker group in Figure 2-51 (SS four-inch footpad).
+b68-lpt-f2-51-s05,include,One row per marker group in Figure 2-51 (SS six-inch footpad).
+b68-dens-f2-60-drag-beds,exclude,Replaced by Codex's four series rows b68-dens-f2-60-s01 to s04 (maximum; minimum; in-place; from Gp).
+b68-dens-f2-60-s01,include,Series of Figure 2-60: maximum density by test.
+b68-dens-f2-60-s02,include,Series of Figure 2-60: minimum density by test.
+b68-dens-f2-60-s03,include,Series of Figure 2-60: in-place density (water cone through test 75; IITRI scoop after).
+b68-dens-f2-60-s04,include,Series of Figure 2-60: density inferred from Gp.
+b68-sonic-t2-3,exclude,Replaced by Codex's twelve per-soil rows b68-sonic-t2-3-1 to -12, matching the materials table one to one.
+b68-sonic-t2-3-1,include,Sonic modulus per soil from Table 2-3 (measurements in Appendix B).
+b68-sonic-t2-3-2,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-3,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-4,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-5,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-6,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-7,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-8,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-9,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-10,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-11,include,Sonic modulus per soil from Table 2-3.
+b68-sonic-t2-3-12,include,Sonic modulus per soil from Table 2-3.
+b68-gs-t2-3-12,include,Gradation parameters of soil 12 (RSM-b) exist only in Table 2-3; no curve in Figure 2-14.
+b68-ds-t2-3-10,include,Friction angle of soil 10 exists only in Table 2-3; LSM is excluded from Figure 2-23.
+b68-ds-t2-3-11,include,Friction angle of soil 11 exists only in Table 2-3.
+b68-ds-p2-66-rs-dense,include,The single direct shear series on dense RS that gave 52.6 degrees (footnote printed 2-66); a text-only summary.
+b68-smp-f2-57-unused,include,Unused PS range band of Figure 2-57 (two boundaries; sample ids unknown).
+b68-smp-f2-58-unused,include,Unused RSM range band of Figure 2-58.
+b68-dens-p2-101-scoop,include,Density scoop against weight-volume comparison (eight tests); a text-only summary useful for the density measurement uncertainty.
+b68-dens-p2-103-slope,include,Achieved relative density by placement method (slope filling); text-only summary; setup fact for beds.
+b68-dens-p2-104-scoop,include,Achieved relative density by placement method (scoop placing).
+b68-dens-p2-104-hopper,include,Achieved relative density by placement method (hopper).
+b68-dens-p2-110-soil-3,include,Roller passes and achieved Dr per soil (bed preparation summary).
+b68-dens-p2-110-soil-8,include,Roller passes and achieved Dr per soil.
+b68-dens-p2-110-soil-10,include,Roller passes and achieved Dr per soil; Codex notes the 10 versus 11 numbering slip in the text.
+b68-dens-p2-113-soil-4,include,Roller passes and achieved Dr per soil.
+b68-dens-p2-113-soil-9,include,Roller passes and achieved Dr per soil.
+b68-dens-p2-113-soil-11,include,Roller passes and achieved Dr per soil.
+b68-dens-p2-113-soil-12,include,Roller passes and achieved Dr per soil.
+b68-dens-p2-113-plate,include,Vibratory plate preparation of dense LPT beds (Dr 0.85 to 0.95); text-only summary.
+b68-lpt-f2-31-s01,exclude,Classical bearing capacity factors (Terzaghi; Navdocks DM-7) are computed curves; not an experiment. The figure stays in the figures index.
+b68-lpt-f2-31-s02,exclude,Computed curve; see s01.
+b68-lpt-f2-31-s03,exclude,Computed curve; see s01.
+b68-lpt-f2-31-s04,exclude,Computed curve; see s01.
+b68-lpt-f2-31-s05,exclude,Computed curve; see s01.
+b68-lpt-f2-31-s06,exclude,Computed curve; see s01.
+b68-lpt-f2-33-bearing-capacity,exclude,Analytical line drawn on Figure 2-33 for phi 49.5 degrees; not an experiment; recorded as trace class computed in the figures index.

@@ -1,0 +1,80 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-1D,2,n0,marker,1,710.8,3292.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests,19.469,16.6712,0.5604,0.9213,piecewise,agreed,claude,18.2852,17.3069,,704,3291
+FC-1D,2,n0,marker,2,830,3230,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests,40.2843,38.0634,0.5357,0.9312,piecewise,resolved,claude,39.0589,38.4725,the claude reading is on the symbol center; credit claude (blind adjudication item 051 (Claude's adjudicator: p; Codex's: both)),823,3229
+FC-1D,2,n0,marker,3,948,3162.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests,60.6517,61.2281,0.4941,0.9419,piecewise,resolved,claude,59.4507,61.7898,the claude reading is on the symbol center; credit claude (blind adjudication item 052 (Claude's adjudicator: q; Codex's: both)),941,3161
+FC-1D,2,n0,marker,4,997,3125.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests,69.0442,74.0213,0.4803,0.9479,piecewise,resolved,claude,67.8432,74.5819,the claude reading is on the symbol center; credit claude (blind adjudication item 053 (Claude's adjudicator: q; Codex's: both)),990,3124
+FC-1D,2,n0,marker,5,1117.5,3066,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests,89.5724,94.3301,0.4466,0.9572,piecewise,resolved,claude,88.2903,94.7335,the claude reading is on the symbol center; credit claude (blind adjudication item 054 (Claude's adjudicator: p; Codex's: both)),1110,3065
+FC-1D,2,n0,marker,6,1234,3005.5,2,2,circle,"filled circle (dot); legend gives no symbol for the 0 and 294 psf tests; above the +100 frame line, calibration extrapolated",109.6971,115.013,0.4473,1.0285,piecewise extrapolated y,resolved,claude,108.3075,115.6389,the claude reading is on the symbol center; credit claude (blind adjudication item 055 (Claude's adjudicator: p; Codex's: both)),1226,3004
+FC-1D,2,n0,marker,7,1353,2957.5,2,2,circle,"filled circle (dot); legend gives no symbol for the 0 and 294 psf tests; above the +100 frame line, calibration extrapolated",130.5106,131.2515,0.4609,1.0988,piecewise extrapolated y,resolved,claude,129.1409,131.9371,the claude reading is on the symbol center; credit claude (blind adjudication item 056 (Claude's adjudicator: q; Codex's: both)),1345,2956
+FC-1D,2,n1468,marker,1,585.4,3344,4,4,triangle-down,"left of the x=0 frame line, base on the zero line, apex merges with the triangle-up below",-2.3684,-0.7779,0.9617,1.62,piecewise extrapolated x,agreed,claude,-2.106,-0.3114,,587,3343
+FC-1D,2,n1468,marker,2,907,3318,4,4,triangle-down,overlaps the triangle-up at x near 48,53.1839,6.4285,0.8509,1.6372,piecewise,agreed,claude,53.3369,6.7823,,908,3317
+FC-1D,2,n1468,marker,3,999.5,3287,4,5,triangle-down,overlaps the triangle-up above it (the two form a diamond); center from the shared bar and the lower apex,68.8823,16.8317,0.8289,1.9961,piecewise,agreed,claude,69.2938,18.2074,,1002,3283
+FC-1D,2,n1468,marker,4,1119,3254,4,5,triangle-down,overlaps the triangle-up above it (diamond),89.1395,27.7734,0.7957,2.001,piecewise,agreed,claude,89.6247,28.4116,,1122,3252
+FC-1D,2,n1468,marker,5,1236,3215,3,3,triangle-down,,109.2387,40.8517,0.6232,1.2925,piecewise,agreed,claude,109.3987,41.8481,,1237,3212
+FC-1D,2,n1468,marker,6,1295,3200,4,5,triangle-down,overlaps the triangle-up above it (diamond),119.5046,45.7939,0.811,2.0091,piecewise,agreed,claude,120.0158,46.7764,,1298,3197
+FC-1D,2,n1468,marker,7,1414,3184,3,3,triangle-down,,140.159,50.7161,0.6435,1.2968,piecewise,agreed,claude,140.6757,51.3389,,1417,3182
+FC-1D,2,n1468,marker,8,1525.5,3151,3,3,triangle-down,,159.3436,61.6989,0.6429,1.3018,piecewise,agreed,claude,159.5859,61.996,,1527,3150
+FC-1D,2,n1468,marker,9,1646,3130.5,3,3,triangle-down,,179.7434,68.2008,0.6638,1.3047,piecewise,agreed,claude,180.0454,68.6885,,1648,3129
+FC-1D,2,n1468,marker,10,1759,3100,4,3,triangle-down,on x=200 gridline,198.9213,78.2853,0.8521,1.3155,piecewise,agreed,claude,199.0218,78.6412,,1760,3099
+FC-1D,2,n1468,marker,11,1880,3082.5,3,3,triangle-down,,219.7559,83.7193,0.665,1.3117,piecewise,agreed,claude,219.913,84.6381,,1881,3080
+FC-1D,2,n1468,marker,12,2052,3060.5,4,3,triangle-down,on x=250 gridline,249.3748,90.4243,0.7879,1.3208,piecewise extrapolated x,agreed,claude,249.6076,90.6805,,2053,3060
+FC-1D,2,n2345,marker,1,565.8,3364,3,3,square,left of the x=0 frame line (negative displacement as drawn),-5.8218,-7.6147,0.8119,1.2561,piecewise extrapolated x,agreed,claude,-5.973,-6.7922,,565,3362
+FC-1D,2,n2345,marker,2,638.3,3330.4,3,4,square,on the zero line,6.8143,3.6977,0.7552,1.6302,piecewise,agreed,claude,6.5786,4.3063,,637,3329
+FC-1D,2,n2345,marker,3,712.5,3361,3,3,square,,19.5203,-7.4593,0.7366,1.2557,piecewise,agreed,claude,19.4155,-7.3858,,712,3361
+FC-1D,2,n2345,marker,4,762,3331,3,4,square,on the zero line,28.1749,2.7212,0.73,1.6295,piecewise,agreed,claude,28.1577,2.7824,,762,3331
+FC-1D,2,n2345,marker,5,827.5,3326.7,3,4,square,bottom side on the zero line,39.502,3.8392,0.7166,1.6299,piecewise,agreed,claude,39.4005,4.1264,,827,3326
+FC-1D,2,n2345,marker,6,941.7,3316,3,3,square,,59.0382,6.9222,0.669,1.277,piecewise,agreed,claude,58.9065,7.6289,,941,3314
+FC-1D,2,n2345,marker,7,1067.5,3289,3,3,square,,80.3337,15.7029,0.6341,1.2809,piecewise,agreed,claude,80.23,16.3694,,1067,3287
+FC-1D,2,n2345,marker,8,1183.3,3266,4,3,square,on x=100 gridline,99.9313,23.1274,0.7882,1.2904,piecewise,agreed,claude,100.031,24.1143,,1184,3263
+FC-1D,2,n2345,marker,9,1298,3241,3,3,square,square printed incompletely (left side open),119.863,31.2649,0.63,1.2879,piecewise,agreed,claude,119.6699,31.5381,,1297,3240
+FC-1D,2,n2345,marker,10,1416,3217.5,3,3,square,,140.3684,38.8491,0.6434,1.2913,piecewise,agreed,claude,140.5322,39.2789,,1417,3216
+FC-1D,2,n2345,marker,11,1528,3189,3,3,square,,159.6106,48.2379,0.6432,1.2955,piecewise,agreed,claude,159.605,49.2142,,1528,3186
+FC-1D,2,n2345,marker,12,1647,3164,3,3,square,,179.7746,56.3428,0.6637,1.2992,piecewise,agreed,claude,179.7433,56.9779,,1647,3162
+FC-1D,2,n2345,marker,13,1765,3156,4,3,square,on x=200 gridline,199.7013,58.4383,0.8623,1.3062,piecewise,agreed,claude,199.638,58.3616,,1765,3156
+FC-1D,2,n2345,marker,14,1879,3134,4,4,square,square printed incompletely (only top and right sides and part of the base),219.3819,65.51,0.8422,1.6632,piecewise,agreed,claude,219.3609,65.8139,,1879,3133
+FC-1D,2,n2345,marker,15,2055,3097.5,4,3,square,on x=250 gridline,249.7613,77.321,0.7888,1.3147,piecewise extrapolated x,agreed,claude,249.8183,77.8638,,2055,3096
+FC-1D,2,n2935,marker,1,614.6,3361,3,3,asterisk,in the dense cluster at x near 0,2.6152,-6.8668,0.7566,1.2555,piecewise,agreed,claude,2.6685,-6.4158,,615,3360
+FC-1D,2,n2935,marker,2,676.7,3360,2,2,asterisk,,13.342,-6.8949,0.5675,0.9014,piecewise,agreed,claude,13.2024,-6.8069,,676,3360
+FC-1D,2,n2935,marker,3,788,3355.5,2,2,asterisk,,32.5769,-6.0039,0.5446,0.9008,piecewise,agreed,claude,32.385,-6.1254,,787,3356
+FC-1D,2,n2935,marker,4,999,3311.7,2,2,asterisk,,68.7089,8.0905,0.4807,0.9171,piecewise,agreed,claude,68.5192,8.3193,,998,3311
+FC-1D,2,n2935,marker,5,1123,3283,2,2,asterisk,,89.7078,17.4834,0.4462,0.9213,piecewise,agreed,claude,89.5142,17.7838,,1122,3282
+FC-1D,2,n2935,marker,6,1236,3265,2,2,asterisk,,109.047,23.155,0.446,0.9239,piecewise,agreed,claude,108.8452,23.0759,,1235,3265
+FC-1D,2,n2935,marker,7,1361,3245,2,2,asterisk,,130.7437,29.4587,0.46,0.9267,piecewise,agreed,claude,130.3719,29.0115,,1359,3246
+FC-1D,2,n2935,marker,8,1469.6,3217.5,4,3,asterisk,on x=150 gridline,149.6406,38.5164,0.8215,1.2973,piecewise,resolved,claude,149.8901,25.7995,the claude reading is on the symbol center; credit claude (blind adjudication item 053 (Claude's adjudicator: p; Codex's: p)),1472,3253
+FC-1D,2,n2935,marker,9,1647.5,3191,2,2,asterisk,,179.7481,46.7875,0.4908,0.9345,piecewise,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 054 (Claude's adjudicator: yes; Codex's: yes),,
+FC-1D,2,n2935,marker,10,1764,3176,3,2,asterisk,just right of x=200 gridline,199.45,51.3697,1.320,3.753,piecewise,pending-review,claude,199.2061,49.8488,"neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 056, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 cannot tell R3 ok); bounds widened to cover the other reading (use span)",1763,3180
+FC-1D,2,n2935,marker,11,1881,3160,2,2,asterisk,,219.6235,56.3013,0.4898,0.9387,piecewise,agreed,claude,219.5997,56.2053,,1881,3160
+FC-1D,2,n2935,marker,12,2054,3130,4,3,asterisk,on x=250 gridline,249.4763,65.834,0.7885,1.3093,piecewise extrapolated x,agreed,claude,249.1789,66.1455,,2052,3129
+FC-1D,2,n294,marker,1,712.5,3331,3,4,circle,bottom of the ring on the zero line,19.6264,3.0269,0.7401,1.6297,piecewise,agreed,claude,19.5196,2.7556,,712,3332
+FC-1D,2,n294,marker,2,828.3,3285,3,3,circle,,39.7912,18.5995,0.7127,1.2826,piecewise,agreed,claude,39.8935,18.62,,829,3285
+FC-1D,2,n294,marker,3,945,3239,3,3,circle,,59.871,34.1628,0.6677,1.2897,piecewise,agreed,claude,59.8472,34.1526,,945,3239
+FC-1D,2,n294,marker,4,1059,3182.5,3,3,circle,,79.2879,53.4562,0.6359,1.2986,piecewise,agreed,claude,79.2607,53.2549,,1059,3183
+FC-1D,2,n294,marker,5,1181,3139,4,3,circle,on x=100 gridline,100.0094,68.0937,0.7908,1.3115,piecewise,agreed,claude,99.9791,67.3648,,1181,3141
+FC-1D,2,n294,marker,6,1292,3106,3,3,circle,,119.3536,79.0803,0.6303,1.3103,piecewise,agreed,claude,119.3385,78.7216,,1292,3107
+FC-1D,2,n294,marker,7,1410.5,3065,3,3,circle,,140.0388,92.8483,0.644,1.3166,piecewise,agreed,claude,139.9612,93.2381,,1410,3064
+FC-1D,2,n294,marker,8,1525,3025.5,3,3,circle,"above the +100 frame line, calibration extrapolated",159.7698,106.1074,0.6435,1.3513,piecewise extrapolated y,agreed,claude,159.7593,105.6583,,1525,3027
+FC-1D,2,n3520,marker,1,598,3402.5,4,3,x,"on x=0 gridline (frame); symbol could be x or asterisk, the vertical stroke may be the gridline",-0.3945,-21.1986,0.942,1.2704,piecewise extrapolated x,agreed,claude,-0.957,-23.0157,,595,3408
+FC-1D,2,n3520,marker,2,650,3384,2,2,x,,8.6477,-15.0791,0.573,0.9065,piecewise,agreed,claude,7.9251,-16.0212,,646,3387
+FC-1D,2,n3520,marker,3,762,3358,2,2,x,,28.0784,-6.7158,0.55,0.9012,piecewise,agreed,claude,27.5318,-7.6867,,759,3361
+FC-1D,2,n3520,marker,4,890,3350,4,3,x,"on x=50 gridline, just below the zero line",50.2049,-4.7092,0.868,1.2598,piecewise,agreed,claude,49.9918,-7.4744,,889,3358
+FC-1D,2,n3520,marker,5,1001,3335,3,4,x,on the zero line,68.9617,-0.1674,0.6563,1.6246,piecewise,agreed,claude,68.7555,-1.5787,,1000,3339
+FC-1D,2,n3520,marker,6,1123,3310.5,2,2,x,,89.6075,7.7491,0.4464,0.9168,piecewise,agreed,claude,89.0632,6.8148,,1120,3313
+FC-1D,2,n3520,marker,7,1240,3291,2,2,x,,109.639,13.928,0.4463,0.9196,piecewise,agreed,claude,109.2507,12.7779,,1238,3294
+FC-1D,2,n3520,marker,8,1358,3276,2,2,x,,130.1008,18.5067,0.4594,0.9216,piecewise,agreed,claude,129.3754,17.6962,,1354,3278
+FC-1D,2,n3520,marker,9,1474,3253,4,3,x,on x=150 gridline,150.2477,25.9274,0.8152,1.2914,piecewise,agreed,claude,149.6999,24.3868,,1471,3257
+FC-1D,2,n3520,marker,10,1592.5,3233,2,2,x,,170.3045,32.2695,0.4812,0.9278,piecewise,agreed,claude,169.673,31.0777,,1589,3236
+FC-1D,2,n3520,marker,11,1767.5,3206,3,2,x,just right of x=200 gridline,199.9159,40.7357,0.6908,0.9378,piecewise,agreed,claude,199.4242,39.1791,,1765,3210
+FC-1D,2,n3520,marker,12,1885,3190,2,2,x,,220.1937,45.6655,0.4891,0.9338,piecewise,agreed,claude,219.6388,44.1151,,1882,3194
+FC-1D,2,n3520,marker,13,2057.5,3174,4,3,x,on x=250 gridline,249.9248,50.2522,0.7905,1.302,piecewise extrapolated x,agreed,claude,249.0002,49.0736,,2052,3177
+FC-1D,2,n587,marker,1,592.5,3376,4,4,triangle-up,"on the x=0 frame line, apex merges with the triangle-down above",-1.2527,-11.9496,0.9525,1.6127,piecewise extrapolated x,agreed,claude,-1.3606,-11.8444,,592,3376
+FC-1D,2,n587,marker,2,648,3359,3,3,triangle-up,,8.3896,-6.3735,0.7498,1.2552,piecewise,agreed,claude,8.5506,-5.5886,,649,3357
+FC-1D,2,n587,marker,3,884,3305.5,4,4,triangle-up,"on x=50 gridline, overlaps the triangle-down at x near 52",49.337,10.9964,0.8779,1.6394,piecewise,agreed,claude,49.3267,11.8936,,884,3303
+FC-1D,2,n587,marker,4,999.5,3260,4,5,triangle-up,overlaps the triangle-down below it (diamond); center from the upper apex and the shared bar,68.9798,26.3902,0.8287,2.0006,piecewise,agreed,claude,69.0323,25.6561,,1000,3262
+FC-1D,2,n587,marker,5,1119,3229,4,5,triangle-up,overlaps the triangle-down below it (diamond),89.2307,36.6228,0.7956,2.0051,piecewise,agreed,claude,89.1928,35.5161,,1119,3232
+FC-1D,2,n587,marker,6,1295,3169,4,5,triangle-up,overlaps the triangle-down below it (diamond),119.6261,56.7651,0.8112,2.0142,piecewise,agreed,claude,119.77,55.6523,,1296,3172
+FC-1D,2,n587,marker,7,1412,3135.5,3,3,triangle-up,,140.0108,67.8912,0.6436,1.3049,piecewise,agreed,claude,139.8266,67.3386,,1411,3137
+FC-1D,2,n587,marker,8,1527,3100.5,3,3,triangle-up,,159.8019,79.5579,0.6435,1.3102,piecewise,agreed,claude,159.7808,78.6752,,1527,3103
+FC-1D,2,n587,marker,9,1648,3074,3,3,triangle-up,,180.3125,88.1771,0.6644,1.3141,piecewise,agreed,claude,180.2682,88.2168,,1648,3074
+FC-1D,2,n587,marker,10,1759,3054,4,3,triangle-up,on x=200 gridline,199.1116,94.5574,0.8524,1.3232,piecewise,agreed,claude,198.8634,94.6389,,1758,3054
+FC-1D,2,n587,marker,11,1879,3028,3,4,triangle-up,"on the +100 frame line (upper edge of the panel); above +100, calibration extrapolated",219.7979,103.0021,0.6683,1.6926,piecewise extrapolated y,agreed,claude,219.7682,102.7764,,1879,3029
+FC-1D,2,n587,marker,12,2055,2999,4,3,triangle-up,"on x=250 gridline; above the +100 frame line, calibration extrapolated",250.1035,112.1541,0.7894,1.3831,piecewise extrapolated x y,agreed,claude,250.1784,112.3644,,2055,2999

@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-15,1,lsm-dense,marker,1,740.5,3596.1,2.5,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.6 px; the drawn line crosses its lower right corner; right side read on the rows clear of the line, base on its central columns",165.292,403.061,14.765,30.894
+FC-15,1,lsm-dense,marker,2,908.1,3480.5,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 28.4 px; sits in a gap of the drawn line",743.941,796.644,13.048,30.889
+FC-15,1,lsm-dense,marker,3,1204.7,3303.5,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 30.0 px; clear of the line",1767.188,1398.895,13.048,30.889
+FC-15,1,lsm-dense,marker,4,1373.4,2934.3,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 27.6 px; clear of the line",2356.787,2659.396,13.048,30.889
+FC-15,1,lsm-dense,marker,5,1540.1,2817.2,3,7,triangle-up,"centroid of the reconstructed triangle (centre method), height 30.3 px; base coincides with the y = 3000 grid line and the right base corner touches the x = 3000 grid line; base centre fixed at v 2827.3, the middle of the merged band (2822 to 2832.75), between hole bottom plus half a stroke (2825.8) and band bottom minus half a stroke (2829); right side read on rows clear of the vertical grid line",2932.388,3058.115,16.524,36.026
+FC-15,1,lsm-dense,marker,6,1800.0,2800.9,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 27.3 px; clear of the line",3825.097,3111.364,13.048,30.889
+FC-15,1,lsm-dense,marker,7,1968.2,2412.0,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 30.0 px; clear of the line",4413.536,4439.214,13.048,30.889
+FC-15,1,lsm-dense,marker,8,2054.3,2517.6,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 31.1 px; clear of the line (the line passes above its upper left and ends above it); a speck inside the hole touches the base",4706.134,4077.403,13.048,30.889
+FC-15,1,lsm-dense,trace,1,688.0,3673.2,4.5,9.0,,"the line runs into the left frame (x = 0 line); its ink is hidden under the frame (no ink left of it), placed at the frame's centre line, bound covering the frame's width",-17.123,139.995,21.73,42.877
+FC-15,1,lsm-dense,trace,2,834.9,3543.0,5.2,5.2,,at x = 500 psf,490.874,583.685,24.026,29.894
+FC-15,1,lsm-dense,trace,3,981.5,3413.6,5.2,5.2,,"at x = 1000 psf, on a vertical grid line crossing: centre from clean columns either side; where the line crosses a horizontal grid line: centre from clean columns either side",997.818,1024.642,24.026,29.894
+FC-15,1,lsm-dense,trace,4,1126.5,3285.4,5.2,5.2,,at x = 1500 psf,1499.236,1461.513,24.026,29.894
+FC-15,1,lsm-dense,trace,5,1271.5,3157.7,5.2,5.2,,"at x = 2000 psf, on a vertical grid line crossing: centre from clean columns either side",2000.64,1896.675,24.026,29.894
+FC-15,1,lsm-dense,trace,6,1415.7,3029.3,5.2,5.2,,at x = 2500 psf,2499.317,2334.237,24.026,29.894
+FC-15,1,lsm-dense,trace,7,1559.8,2901.5,5.2,5.2,,"at x = 3000 psf, on a vertical grid line crossing: centre from clean columns either side",2997.634,2769.749,24.026,29.894
+FC-15,1,lsm-dense,trace,8,1704.7,2773.8,5.2,5.2,,at x = 3500 psf,3498.694,3204.912,24.026,29.894
+FC-15,1,lsm-dense,trace,9,1849.6,2645.2,5.2,5.2,,"at x = 4000 psf, on a vertical grid line crossing: centre from clean columns either side",3999.78,3643.151,24.026,29.894
+FC-15,1,lsm-dense,trace,10,1994.8,2516.3,5.2,5.2,,at x = 4500 psf,4501.904,4082.413,24.026,29.894
+FC-15,1,lsm-dense,trace,11,2067.5,2452.1,3,8.0,,the line ends with a squared end above and right of triangle 8 (last ink column u 2071 at the end's lower corner); centre line end,4753.303,4301.188,16.552,39.445
+FC-15,1,lsm-dense,feature,1,688.0,3673.2,4.5,9.0,,"first point of the line: the line runs into the left frame (x = 0 line); its ink is hidden under the frame (no ink left of it), placed at the frame's centre line, bound covering the frame's width",-17.123,139.995,21.73,42.877
+FC-15,1,lsm-dense,feature,2,2067.5,2452.1,3,8.0,,last point of the line: the line ends with a squared end above and right of triangle 8 (last ink column u 2071 at the end's lower corner); centre line end,4753.303,4301.188,16.552,39.445
+FC-15,1,lsm-dense,feature,3,688.0,3673.2,1,5.2,,intercept: the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line,-17.123,139.995,9.607,29.854

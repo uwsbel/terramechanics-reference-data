@@ -1,0 +1,20 @@
+figure_id,panel,axis,label_printed,value_anchored,label_center_u,label_center_v,line_at_label_px,label_offset_px,line_source,verdict,note
+F5-31,1,x,.1,0.1,2240.0,1071.5,1065.6,5.9,detected in 10/10 bands,label on its line,"v of the fitted time line at the label's u; offset 2% of a division; printed .1, not .10; it labels the top frame"
+F5-31,1,x,.09,0.09,2243.0,1309.5,1304.6,4.9,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 2% of a division
+F5-31,1,x,.08,0.08,2246.0,1550.0,1550.6,-0.6,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 0% of a division
+F5-31,1,x,.07,0.07,2251.5,1804.0,1793.8,10.2,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 4% of a division
+F5-31,1,x,.06,0.06,2253.5,2036.0,2038.9,-2.9,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 1% of a division
+F5-31,1,x,.05,0.05,2258.0,2287.5,2284.2,3.3,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 1% of a division
+F5-31,1,x,.04,0.04,2261.0,2521.0,2529.8,-8.8,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 4% of a division
+F5-31,1,x,.03,0.03,2264.5,2774.0,2773.8,0.2,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 0% of a division
+F5-31,1,x,.02,0.02,2268.5,3015.5,3017.0,-1.5,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 1% of a division
+F5-31,1,x,.01,0.01,2271.5,3268.5,3261.7,6.8,detected in 10/10 bands,label on its line,v of the fitted time line at the label's u; offset 3% of a division
+F5-31,1,x,0,0.0,2274.5,3518.0,3505.0,13.0,detected in 10/10 bands,label on its line,"v of the fitted time line at the label's u; offset 5% of a division; the corner label 0 is printed a little below the bottom frame, in step with the sequence (250 px below the .01 label); it labels the frame"
+F5-31,1,y,5.0,5.0,739.5,3585.5,741.5,-2.0,detected in 10/10 bands,label on its line,u of the fitted depth line at the label's v; offset 1% of a division
+F5-31,1,y,4.0,4.0,981.0,3585.0,986.2,-5.2,detected in 10/10 bands,label on its line,u of the fitted depth line at the label's v; offset 2% of a division
+F5-31,1,y,3.0,3.0,1219.0,3583.0,1228.5,-9.5,detected in 10/10 bands,label on its line,u of the fitted depth line at the label's v; offset 4% of a division
+F5-31,1,y,2.0,2.0,1468.0,3579.0,1469.9,-1.9,detected in 10/10 bands,label on its line,u of the fitted depth line at the label's v; offset 1% of a division
+F5-31,1,y,+1.0,1.0,1714.5,3592.0,1715.5,-1.0,detected in 10/10 bands,label on its line,"u of the fitted depth line at the label's v; offset 0% of a division; printed with a plus sign, +1.0"
+F5-31,1,y,0,0.0,1954.0,3551.0,1960.7,-6.7,detected in 10/10 bands,label on its line,u of the fitted depth line at the label's v; offset 3% of a division; printed 0 without a decimal
+F5-31,1,y,-1.0,-1.0,2201.5,3586.5,2208.2,-6.7,detected in 10/10 bands,label on its line,"u of the fitted depth line at the label's v; offset 3% of a division; printed with a minus sign, -1.0; it labels the right frame"
+F5-31,1,y,,,,,,,,"unlabeled frame, not a knot","the left frame (u about 590 at the top to 618 at the bottom) lies about half a division beyond the 5.0 line, near 5.5 in by the spacing, and carries no label; left out of the calibration box, so it is not a knot; the trace never comes near it (deepest 4.21 in)"

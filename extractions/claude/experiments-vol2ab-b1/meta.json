@@ -1,0 +1,12 @@
+{
+  "agent": "claude",
+  "batch": "experiments-vol2ab-b1",
+  "date": "2026-10-15",
+  "model": "claude-opus-5-5 (one subagent launched from a Claude Code session)",
+  "prompt": "prompt.md (the same as Codex's), plus a task naming the output file",
+  "blindness": "the task forbids extractions/, qa/ and anything in the Codex run folder other than prompt.md; written outside the repository; the Codex run had finished before filing",
+  "elapsed_sec": 863.6,
+  "subagent_tokens": 341097,
+  "tool_uses": 55,
+  "reader_notes": "looked at source pages outside PDF 2 to 114 to decide relations: Vol. II PDF 152 and 157, Vol. I PDF 41, 52, 53"
+}

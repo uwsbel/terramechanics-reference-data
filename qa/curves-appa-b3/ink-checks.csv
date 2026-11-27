@@ -1,0 +1,463 @@
+figure_id,panel,reader,series_id,point_kind,sequence,pixel_u,pixel_v,verdict,line_ink_px,symbol,reason,image_sha,params
+FA-3,1,claude,mean,trace,1,899.4,2837.9,review,3.6,,"on a grid line, own line ink 3.6 px away",d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,2,1053.7,2869.0,eligible,0.3,,own line ink 0.3 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,3,1207.1,2900.5,eligible,2.0,,own line ink 2.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,4,1359.6,2931.3,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,5,1513.4,2961.4,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,6,1664.5,2991.7,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,7,1822.8,3024.0,eligible,3.2,,on a grid line the curve crosses (own ink 3.2 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,8,1972.9,3053.8,eligible,3.1,,on a grid line the curve crosses (own ink 3.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,9,2126.9,3084.7,eligible,3.1,,on a grid line the curve crosses (own ink 3.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,10,2279.5,3115.3,eligible,3.5,,on a grid line the curve crosses (own ink 3.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,mean,trace,11,2439.0,3146.5,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,1,899.0,2793.9,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,2,1053.4,2826.7,eligible,0.7,,own line ink 0.7 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,3,1206.7,2858.8,eligible,2.3,,on a grid line the curve crosses (own ink 2.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,4,1359.3,2890.7,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,5,1513.0,2922.1,eligible,3.1,,on a grid line the curve crosses (own ink 3.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,6,1664.2,2953.7,eligible,2.9,,on a grid line the curve crosses (own ink 2.9 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,7,1822.5,2986.5,eligible,3.5,,on a grid line the curve crosses (own ink 3.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,8,1972.6,3017.7,review,4.6,,"on a grid line, own line ink 4.6 px away",d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,9,2126.6,3049.5,eligible,2.5,,on a grid line the curve crosses (own ink 2.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,10,2279.5,3081.2,eligible,4.1,,on a grid line the curve crosses (own ink 4.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,upper,trace,11,2438.8,3112.7,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,1,899.8,2877.5,review,3.2,,"on a grid line, own line ink 3.2 px away",d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,2,1054.1,2906.6,eligible,0.4,,own line ink 0.4 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,3,1198.0,2934.8,eligible,0.2,,own line ink 0.2 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,4,1359.9,2965.6,eligible,2.1,,on a grid line the curve crosses (own ink 2.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,5,1513.7,2994.8,eligible,2.3,,on a grid line the curve crosses (own ink 2.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,6,1664.7,3023.5,eligible,4.3,,on a grid line the curve crosses (own ink 4.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,7,1806.0,3050.2,eligible,0.2,,own line ink 0.2 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,8,1973.1,3082.4,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,9,2127.0,3111.2,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,10,2292.0,3142.7,eligible,0.3,,own line ink 0.3 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,claude,lower,trace,11,2439.1,3170.2,eligible,2.9,,on a grid line the curve crosses (own ink 2.9 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,1,901.0,2835.29,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,2,1053.62,2869.22,eligible,0.4,,own line ink 0.4 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,3,1206.94,2899.73,eligible,2.1,,on a grid line the curve crosses (own ink 2.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,4,1359.6,2930.67,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,5,1513.05,2961.3,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,6,1664.28,2991.63,eligible,4.3,,on a grid line the curve crosses (own ink 4.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,7,1822.7,3024.19,eligible,3.3,,on a grid line the curve crosses (own ink 3.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,8,1972.9,3052.0,eligible,3.1,,on a grid line the curve crosses (own ink 3.1 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,9,2126.57,3087.86,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,10,2279.54,3115.41,eligible,3.5,,on a grid line the curve crosses (own ink 3.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,mean,trace,11,2435.0,3150.13,eligible,0.1,,own line ink 0.1 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,1,901.0,2791.79,eligible,1.0,,own line ink 1.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,2,1053.24,2826.24,eligible,0.8,,own line ink 0.8 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,3,1206.58,2857.58,eligible,2.5,,on a grid line the curve crosses (own ink 2.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,4,1359.26,2892.54,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,5,1512.71,2923.66,eligible,3.3,,on a grid line the curve crosses (own ink 3.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,6,1650,2948,eligible,0.0,,own line ink 0.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,7,1822.43,2985.98,eligible,3.4,,on a grid line the curve crosses (own ink 3.4 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,8,1969.0,3017.0,eligible,1.0,,own line ink 1.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,9,2126.34,3049.38,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,10,2270,3078,eligible,0.0,,own line ink 0.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,upper,trace,11,2435.0,3114.54,eligible,0.5,,own line ink 0.5 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,1,901.0,2873.76,review,2.0,,"on a grid line, own line ink 2.0 px away",d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,2,1056.0,2907.5,eligible,0.5,,own line ink 0.5 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,3,1198.0,2935.0,eligible,0.0,,own line ink 0.0 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,4,1359.88,2964.59,eligible,2.2,,on a grid line the curve crosses (own ink 2.2 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,5,1513.32,2994.48,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,6,1664.51,3023.69,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,7,1806,3053.5,eligible,0.5,,own line ink 0.5 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,8,1973.09,3079.0,eligible,2.9,,on a grid line the curve crosses (own ink 2.9 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,9,2126.73,3110.53,eligible,2.3,,on a grid line the curve crosses (own ink 2.3 px),d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,10,2292.0,3143.5,eligible,0.5,,own line ink 0.5 px away,d766d25cd6e7,b86a839e2446
+FA-3,1,codex,lower,trace,11,2435,3169,eligible,0.0,,own line ink 0.0 px away,d766d25cd6e7,b86a839e2446
+FA-7,1,claude,mean,trace,1,635.3,1845.1,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,2,788.7,1903.9,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,3,940.4,1961.9,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,4,1092.9,2019.4,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,5,1245.3,2076.7,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,6,1396.6,2133.0,eligible,3.4,,on a grid line the curve crosses (own ink 3.4 px),272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,7,1554.8,2192.6,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,8,1704.3,2249.5,eligible,0.6,,own line ink 0.6 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,9,1857.6,2307.7,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,10,2012.4,2365.7,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,mean,trace,11,2169.6,2424.8,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,1,636.0,1786.0,eligible,2.0,,own line ink 2.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,2,789.3,1844.0,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,3,941.0,1901.2,eligible,0.2,,own line ink 0.2 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,4,1093.5,1958.2,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,5,1245.9,2014.4,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,6,1397.3,2069.7,eligible,4.3,,on a grid line the curve crosses (own ink 4.3 px),272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,7,1555.6,2128.5,eligible,0.6,,own line ink 0.6 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,8,1705.1,2184.8,eligible,0.2,,own line ink 0.2 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,9,1858.4,2242.1,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,10,2013.5,2299.0,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,upper,trace,11,2170.6,2357.0,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,1,634.6,1908.0,eligible,3.4,,on a grid line the curve crosses (own ink 3.4 px),272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,2,788.1,1966.4,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,3,939.8,2023.1,eligible,0.2,,own line ink 0.2 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,4,1104.0,2084.3,eligible,1.3,,own line ink 1.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,5,1244.7,2135.7,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,6,1395.9,2191.7,eligible,4.1,,on a grid line the curve crosses (own ink 4.1 px),272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,7,1554.1,2250.7,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,8,1710.0,2309.3,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,9,1856.9,2363.7,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,10,2011.5,2420.5,eligible,0.7,,own line ink 0.7 px away,272614fe00d4,b86a839e2446
+FA-7,1,claude,lower,trace,11,2168.8,2479.2,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,1,635.0,1844.67,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,2,788.65,1903.8,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,3,940.36,1961.33,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,4,1092.97,2019.04,eligible,0.0,,own line ink 0.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,5,1244.96,2075.75,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,6,1396.32,2132.93,eligible,3.3,,on a grid line the curve crosses (own ink 3.3 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,7,1554.37,2191.68,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,8,1703.96,2249.14,eligible,0.1,,own line ink 0.1 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,9,1857.43,2307.23,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,10,2012.27,2365.02,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,mean,trace,11,2169.37,2424.57,eligible,0.6,,own line ink 0.6 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,1,635.0,1788.0,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,2,789.26,1843.63,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,3,940.97,1900.91,eligible,0.1,,own line ink 0.1 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,4,1091.0,1956.0,eligible,0.0,,own line ink 0.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,5,1245.61,2014.26,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,6,1397.02,2069.48,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,7,1555.13,2128.26,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,8,1703,2181.0,eligible,0.0,,own line ink 0.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,9,1858.26,2241.86,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,10,2013.35,2299.1,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,upper,trace,11,2170.0,2355.6,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,1,635.0,1911.2,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,2,788.01,1966.21,eligible,0.2,,own line ink 0.2 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,3,939.74,2023.19,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,4,1105,2083,eligible,0.0,,own line ink 0.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,5,1244.34,2135.58,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,6,1395.67,2191.82,eligible,4.3,,on a grid line the curve crosses (own ink 4.3 px),272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,7,1553.68,2248.92,eligible,0.3,,own line ink 0.3 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,8,1717,2311,eligible,0.0,,own line ink 0.0 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,9,1856.73,2363.59,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,10,2011.38,2420.66,eligible,0.5,,own line ink 0.5 px away,272614fe00d4,b86a839e2446
+FA-7,1,codex,lower,trace,11,2168.64,2477.99,eligible,0.4,,own line ink 0.4 px away,272614fe00d4,b86a839e2446
+FA-19,1,claude,mean,trace,1,750.6,1113.6,eligible,3.6,,on a grid line the curve crosses (own ink 3.6 px),674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,2,906.2,1206.4,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,3,1060.4,1297.3,eligible,1.4,,own line ink 1.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,4,1217.9,1389.5,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,5,1371.1,1478.4,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,6,1528.5,1569.2,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,7,1684.4,1660.0,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,8,1842.6,1752.2,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,9,1997.4,1841.7,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,10,2154.1,1932.3,eligible,0.3,,own line ink 0.3 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,mean,trace,11,2313.9,2024.6,eligible,5.9,,on a grid line the curve crosses (own ink 5.9 px),674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,1,749.6,1063.2,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,2,904.7,1126.0,eligible,0.3,,own line ink 0.3 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,3,1058.4,1187.8,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,4,1215.3,1250.4,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,5,1368.0,1309.6,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,6,1525.2,1371.3,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,7,1680.4,1432.7,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,8,1838.3,1495.2,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,9,1992.5,1556.1,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,10,2149.1,1617.3,eligible,0.3,,own line ink 0.3 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,upper,trace,11,2309.7,1679.6,eligible,6.6,,on a grid line the curve crosses (own ink 6.6 px),674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,1,751.6,1170.0,review,7.7,,"on a grid line, own line ink 7.7 px away",674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,2,907.7,1287.2,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,3,1062.4,1403.8,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,4,1220.3,1521.4,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,5,1373.9,1634.9,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,6,1531.6,1750.8,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,7,1688.0,1866.1,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,8,1846.4,1983.9,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,9,2001.7,2098.2,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,10,2158.6,2213.6,eligible,0.6,,own line ink 0.6 px away,674b7a9e064d,b86a839e2446
+FA-19,1,claude,lower,trace,11,2317.6,2330.8,review,4.6,,"on a grid line, own line ink 4.6 px away",674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,1,752.0,1125.5,eligible,5.0,,on a grid line the curve crosses (own ink 5.0 px),674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,2,905.95,1205.95,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,3,1060.24,1294.65,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,4,1217.61,1390.74,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,5,1371.0,1478.34,eligible,0.3,,own line ink 0.3 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,6,1528.55,1568.88,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,7,1684.44,1659.71,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,8,1842.58,1752.35,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,9,1997.39,1841.39,eligible,0.6,,own line ink 0.6 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,10,2154.11,1932.04,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,mean,trace,11,2313.79,2022.61,eligible,5.8,,on a grid line the curve crosses (own ink 5.8 px),674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,1,752.0,1066.4,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,2,904.44,1123.58,eligible,0.6,,own line ink 0.6 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,3,1058.2,1186.7,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,4,1215.01,1249.83,eligible,0.2,,own line ink 0.2 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,5,1367.89,1309.27,eligible,0.3,,own line ink 0.3 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,6,1525.22,1371.09,eligible,0.2,,own line ink 0.2 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,7,1683.0,1432.5,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,8,1838.32,1495.66,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,9,1992.47,1555.18,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,10,2149.04,1616.95,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,upper,trace,11,2309.45,1680.64,eligible,5.9,,on a grid line the curve crosses (own ink 5.9 px),674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,1,752.0,1174.17,review,7.0,,"on a grid line, own line ink 7.0 px away",674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,2,907.47,1287.11,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,3,1060.0,1400.5,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,4,1220.06,1520.78,eligible,0.2,,own line ink 0.2 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,5,1373.88,1634.88,eligible,0.2,,own line ink 0.2 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,6,1531.61,1750.13,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,7,1688.07,1866.08,eligible,0.1,,own line ink 0.1 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,8,1843.0,1980.0,eligible,0.0,,own line ink 0.0 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,9,2001.81,2098.43,eligible,0.5,,own line ink 0.5 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,10,2158.63,2213.17,eligible,0.4,,own line ink 0.4 px away,674b7a9e064d,b86a839e2446
+FA-19,1,codex,lower,trace,11,2314.0,2328.04,eligible,1.0,,own line ink 1.0 px away,674b7a9e064d,b86a839e2446
+FA-23,1,claude,mean,trace,1,843.9,2015.7,review,5.1,,"on a grid line, own line ink 5.1 px away",95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,2,979.3,2130.6,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,3,1118.6,2245.9,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,4,1258.2,2360.8,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,5,1393.9,2471.9,eligible,0.1,,own line ink 0.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,6,1533.5,2585.4,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,7,1672.9,2699.7,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,8,1815.1,2817.2,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,9,1956.0,2933.0,eligible,0.0,,own line ink 0.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,10,2093.2,3045.4,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,mean,trace,11,2239.6,3164.4,review,4.6,,"on a grid line, own line ink 4.6 px away",95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,1,834.6,1379.7,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,2,970.0,1502.6,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,3,1102.0,1621.2,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,4,1249.0,1752.8,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,5,1384.2,1872.8,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,6,1524.6,1997.4,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,7,1656.0,2113.4,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,8,1806.7,2246.2,eligible,4.2,,on a grid line the curve crosses (own ink 4.2 px),95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,9,1947.8,2371.5,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,10,2085.6,2493.5,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,upper,trace,11,2232.4,2622.1,review,3.4,,"on a grid line, own line ink 3.4 px away",95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,1,851.2,2515.4,review,3.8,,"on a grid line, own line ink 3.8 px away",95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,2,986.4,2617.4,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,3,1137.0,2729.4,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,4,1259.0,2819.6,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,5,1401.2,2924.7,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,6,1540.2,3025.8,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,7,1679.7,3128.3,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,8,1821.2,3233.1,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,9,1961.9,3337.1,eligible,0.1,,own line ink 0.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,10,2098.7,3437.6,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,claude,lower,trace,11,2244.7,3543.8,eligible,1.3,,own line ink 1.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,1,846.0,2018.79,review,3.0,,"on a grid line, own line ink 3.0 px away",95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,2,979.21,2130.02,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,3,1118.61,2245.26,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,4,1258.3,2360.4,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,5,1393.94,2471.49,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,6,1533.7,2585.19,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,7,1673.04,2698.72,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,8,1814.9,2815.2,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,9,1955.92,2930.27,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,10,2093.49,3040.74,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,mean,trace,11,2239.0,3155.95,review,4.0,,"on a grid line, own line ink 4.0 px away",95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,1,836,1377,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,2,969.92,1501.88,eligible,0.1,,own line ink 0.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,3,1100,1620.0,eligible,0.0,,own line ink 0.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,4,1249.18,1753.05,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,5,1384.3,1873.04,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,6,1524.8,1997.3,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,7,1654,2111,eligible,0.0,,own line ink 0.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,8,1806.58,2246.44,eligible,4.5,,on a grid line the curve crosses (own ink 4.5 px),95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,9,1947.77,2371.94,eligible,0.2,,own line ink 0.2 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,10,2085.65,2493.92,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,upper,trace,11,2230.0,2620.64,eligible,1.1,,own line ink 1.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,1,852.0,2518.45,review,3.0,,"on a grid line, own line ink 3.0 px away",95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,2,986.46,2617.43,eligible,0.6,,own line ink 0.6 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,3,1140,2731,eligible,0.0,,own line ink 0.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,4,1259,2816.0,eligible,1.0,,own line ink 1.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,5,1401.3,2924.06,eligible,0.3,,own line ink 0.3 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,6,1538.0,3023.0,eligible,0.0,,own line ink 0.0 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,7,1679.95,3128.92,eligible,0.1,,own line ink 0.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,8,1821.09,3231.42,eligible,0.4,,own line ink 0.4 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,9,1961.94,3336.88,eligible,0.1,,own line ink 0.1 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,10,2097,3435.5,eligible,0.5,,own line ink 0.5 px away,95110ed2e06e,b86a839e2446
+FA-23,1,codex,lower,trace,11,2244.8,3542.62,eligible,1.3,,own line ink 1.3 px away,95110ed2e06e,b86a839e2446
+FA-27,1,claude,upper,trace,1,684.9,3141.8,eligible,6.5,,on a grid line the curve crosses (own ink 6.5 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,2,838.3,3186.8,eligible,3.3,,on a grid line the curve crosses (own ink 3.3 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,3,991.4,3231.1,eligible,3.9,,on a grid line the curve crosses (own ink 3.9 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,4,1151.0,3276.6,eligible,0.4,,own line ink 0.4 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,5,1313.0,3323.1,eligible,0.1,,own line ink 0.1 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,6,1458.0,3363.9,eligible,0.1,,own line ink 0.1 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,7,1595.0,3402.9,eligible,0.9,,own line ink 0.9 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,8,1764.4,3451.4,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,9,1915.0,3495.1,eligible,0.1,,own line ink 0.1 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,10,2072.7,3540.0,eligible,2.3,,on a grid line the curve crosses (own ink 2.3 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,upper,trace,11,2226.1,3583.3,review,6.1,,"on a grid line, own line ink 6.1 px away",493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,1,685.0,3155.2,eligible,6.0,,on a grid line the curve crosses (own ink 6.0 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,2,838.5,3202.7,eligible,3.5,,on a grid line the curve crosses (own ink 3.5 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,3,991.6,3250.2,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,4,1148.1,3298.4,eligible,3.8,,on a grid line the curve crosses (own ink 3.8 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,5,1300.3,3344.4,eligible,0.8,,own line ink 0.8 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,6,1453.4,3390.2,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,7,1609.7,3438.0,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,8,1764.7,3485.5,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,9,1919.5,3533.0,eligible,2.5,,on a grid line the curve crosses (own ink 2.5 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,10,2073.0,3580.0,eligible,2.0,,own line ink 2.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,mean,trace,11,2226.2,3625.8,eligible,4.8,,on a grid line the curve crosses (own ink 4.8 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,1,685.1,3162.7,eligible,5.9,,on a grid line the curve crosses (own ink 5.9 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,2,838.6,3214.2,eligible,3.4,,on a grid line the curve crosses (own ink 3.4 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,3,991.8,3266.5,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,4,1157.0,3322.8,eligible,0.2,,own line ink 0.2 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,5,1312.0,3375.5,eligible,0.5,,own line ink 0.5 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,6,1469.0,3427.6,eligible,0.4,,own line ink 0.4 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,7,1590.0,3468.2,eligible,0.2,,own line ink 0.2 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,8,1761.0,3526.0,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,9,1920.0,3580.1,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,10,2073.4,3632.6,eligible,1.6,,own line ink 1.6 px away,493b75217ce8,b86a839e2446
+FA-27,1,claude,lower,trace,11,2226.4,3683.1,eligible,4.6,,on a grid line the curve crosses (own ink 4.6 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,1,685,3159,eligible,6.0,,on a grid line the curve crosses (own ink 6.0 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,2,838.66,3204.67,eligible,3.4,,on a grid line the curve crosses (own ink 3.4 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,3,991.62,3250.39,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,4,1147.81,3297.01,eligible,4.1,,on a grid line the curve crosses (own ink 4.1 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,5,1300.0,3344.06,eligible,1.0,,own line ink 1.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,6,1452.59,3390.08,eligible,1.6,,own line ink 1.6 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,7,1609.31,3440.56,eligible,1.4,,own line ink 1.4 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,8,1764.62,3485.16,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,9,1918.98,3532.59,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,10,2072.91,3580.06,eligible,2.1,,on a grid line the curve crosses (own ink 2.1 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,mean,trace,11,2224,3627,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,1,685.07,3148.3,eligible,6.4,,on a grid line the curve crosses (own ink 6.4 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,2,838.49,3186.69,eligible,3.5,,on a grid line the curve crosses (own ink 3.5 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,3,991.43,3227.83,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,4,1150.0,3277.5,eligible,1.1,,own line ink 1.1 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,5,1314,3323.0,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,6,1459,3364,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,7,1625,3413,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,8,1764.33,3451.34,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,9,1918.65,3496.5,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,10,2072.6,3538.16,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,upper,trace,11,2224,3577,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,1,685,3171,review,6.1,,"on a grid line, own line ink 6.1 px away",493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,2,838.78,3214.48,eligible,3.3,,on a grid line the curve crosses (own ink 3.3 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,3,991.79,3268.26,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,4,1156.0,3323.0,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,5,1284,3366.0,eligible,0.0,,own line ink 0.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,6,1468.0,3426.5,eligible,0.5,,own line ink 0.5 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,7,1591.0,3466.5,eligible,0.5,,own line ink 0.5 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,8,1762,3528,eligible,1.0,,own line ink 1.0 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,9,1919.4,3580.44,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,10,2073.31,3630.77,eligible,1.7,,own line ink 1.7 px away,493b75217ce8,b86a839e2446
+FA-27,1,codex,lower,trace,11,2224,3686,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),493b75217ce8,b86a839e2446
+FA-39,1,claude,upper,trace,1,870.5,1934.7,review,4.5,,"on a grid line, own line ink 4.5 px away",f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,2,1010.6,2038.4,eligible,1.5,,own line ink 1.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,3,1147.2,2139.2,eligible,0.8,,own line ink 0.8 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,4,1286.8,2242.1,eligible,0.2,,own line ink 0.2 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,5,1424.0,2342.1,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,6,1563.3,2443.6,eligible,2.7,,on a grid line the curve crosses (own ink 2.7 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,7,1703.3,2544.4,eligible,2.3,,on a grid line the curve crosses (own ink 2.3 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,8,1837.0,2640.4,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,9,1982.9,2746.0,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,10,2120.7,2846.3,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,upper,trace,11,2259.9,2947.7,eligible,3.1,,on a grid line the curve crosses (own ink 3.1 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,1,871.2,2007.9,review,5.9,,"on a grid line, own line ink 5.9 px away",f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,2,1011.2,2111.7,eligible,3.8,,on a grid line the curve crosses (own ink 3.8 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,3,1147.9,2212.9,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,4,1287.5,2315.9,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,5,1424.7,2416.5,eligible,0.6,,own line ink 0.6 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,6,1564.0,2517.3,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,7,1704.0,2618.3,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,8,1844.4,2719.7,eligible,2.6,,on a grid line the curve crosses (own ink 2.6 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,9,1983.7,2821.4,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,10,2121.5,2921.7,eligible,0.6,,own line ink 0.6 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,mean,trace,11,2260.5,3023.1,eligible,2.5,,on a grid line the curve crosses (own ink 2.5 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,1,871.9,2083.7,eligible,0.9,,own line ink 0.9 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,2,1011.9,2186.3,eligible,1.9,,own line ink 1.9 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,3,1148.5,2286.9,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,4,1288.2,2388.9,eligible,0.2,,own line ink 0.2 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,5,1425.4,2488.0,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,6,1564.7,2588.1,eligible,4.3,,on a grid line the curve crosses (own ink 4.3 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,7,1704.8,2688.2,eligible,2.2,,on a grid line the curve crosses (own ink 2.2 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,8,1845.1,2788.9,eligible,3.6,,on a grid line the curve crosses (own ink 3.6 px),f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,9,1984.5,2889.5,eligible,0.7,,own line ink 0.7 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,10,2122.2,2988.6,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,claude,lower,trace,11,2261.0,3088.9,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,1,874.0,2010.49,review,3.0,,"on a grid line, own line ink 3.0 px away",f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,2,1010.98,2110.98,eligible,4.0,,on a grid line the curve crosses (own ink 4.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,3,1148.09,2213.02,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,4,1287.87,2315.91,eligible,0.2,,own line ink 0.2 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,5,1424.94,2416.04,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,6,1564.29,2517.68,eligible,3.9,,on a grid line the curve crosses (own ink 3.9 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,7,1704.2,2618.48,eligible,2.8,,on a grid line the curve crosses (own ink 2.8 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,8,1844.66,2720.6,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,9,1983.5,2820.82,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,10,2121.62,2921.9,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,mean,trace,11,2259.0,3021.97,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,1,873.0,1936.7,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,2,1010.34,2037.42,eligible,1.7,,own line ink 1.7 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,3,1147.43,2140.44,eligible,1.5,,own line ink 1.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,4,1284.0,2239.0,eligible,0.0,,own line ink 0.0 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,5,1424.21,2342.62,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,6,1563.62,2442.04,eligible,2.4,,on a grid line the curve crosses (own ink 2.4 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,7,1703.46,2542.31,eligible,2.5,,on a grid line the curve crosses (own ink 2.5 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,8,1855,2653.5,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,9,1982.69,2744.55,eligible,0.5,,own line ink 0.5 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,10,2120.87,2846.05,eligible,0.1,,own line ink 0.1 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,upper,trace,11,2259.0,2946.99,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,1,874.0,2086.24,eligible,3.0,,on a grid line the curve crosses (own ink 3.0 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,2,1011.64,2185.8,eligible,1.7,,own line ink 1.7 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,3,1148.74,2286.79,eligible,0.3,,own line ink 0.3 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,4,1288.57,2389.47,eligible,0.6,,own line ink 0.6 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,5,1425.64,2488.18,eligible,0.4,,own line ink 0.4 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,6,1564.93,2588.03,eligible,4.1,,on a grid line the curve crosses (own ink 4.1 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,7,1704.89,2687.81,eligible,2.1,,on a grid line the curve crosses (own ink 2.1 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,8,1845.33,2789.82,eligible,3.6,,on a grid line the curve crosses (own ink 3.6 px),f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,9,1984.24,2889.01,eligible,0.2,,own line ink 0.2 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,10,2122.29,2988.85,eligible,0.3,,own line ink 0.3 px away,f0123dc345a3,b86a839e2446
+FA-39,1,codex,lower,trace,11,2259.0,3086.9,eligible,2.0,,on a grid line the curve crosses (own ink 2.0 px),f0123dc345a3,b86a839e2446
+FA-47,1,claude,upper,trace,1,887.9,2336.2,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,2,1031.0,2400.9,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,3,1178.0,2467.0,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,4,1308.4,2525.5,eligible,0.6,,own line ink 0.6 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,5,1445.5,2586.7,eligible,0.6,,own line ink 0.6 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,6,1584.7,2648.8,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,7,1725.0,2711.0,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,8,1866.4,2774.3,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,9,2005.9,2835.9,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,10,2145.4,2898.0,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,upper,trace,11,2283.1,2959.2,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,1,889.1,2382.7,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,2,1029.1,2441.8,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,3,1168.0,2500.3,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,4,1309.3,2559.5,eligible,0.6,,own line ink 0.6 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,5,1446.3,2617.3,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,6,1585.4,2675.8,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,7,1725.6,2734.4,eligible,0.6,,own line ink 0.6 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,8,1866.9,2793.6,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,9,2006.3,2851.9,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,10,2145.8,2909.8,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,mean,trace,11,2283.3,2967.4,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,1,890.4,2434.1,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,2,1043.0,2493.5,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,3,1167.0,2541.6,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,4,1310.3,2597.3,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,5,1447.2,2650.2,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,6,1586.1,2703.9,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,7,1726.2,2758.0,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,8,1871.0,2813.4,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,9,2018.0,2870.7,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,10,2136.0,2915.3,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,claude,lower,trace,11,2283.4,2973.1,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,1,889.02,2384.6,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,2,1029.05,2441.91,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,3,1167.98,2500.97,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,4,1309.29,2559.77,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,5,1446.55,2617.82,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,6,1585.45,2675.23,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,7,1725.78,2734.52,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,8,1867.13,2793.62,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,9,2006.61,2851.83,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,10,2146.11,2909.89,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,mean,trace,11,2284,2975,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,1,889.0,2336.05,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,2,1027.96,2401.17,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,3,1178,2468.0,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,4,1308.37,2525.15,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,5,1445.73,2587.63,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,6,1584.77,2648.11,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,7,1725.18,2711.25,eligible,0.3,,own line ink 0.3 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,8,1866.64,2773.79,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,9,2006.21,2836.13,eligible,0.2,,own line ink 0.2 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,10,2145.84,2898.58,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,upper,trace,11,2277,2963,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,1,891.0,2434.87,eligible,0.1,,own line ink 0.1 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,2,1042.0,2496.0,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,3,1167.0,2541.5,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,4,1310.27,2597.58,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,5,1447.41,2650.11,eligible,0.4,,own line ink 0.4 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,6,1586.17,2702.51,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,7,1726.39,2757.62,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,8,1870.0,2817.5,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,9,2018,2874,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,10,2137.0,2916.5,eligible,0.5,,own line ink 0.5 px away,80c6b131a16a,b86a839e2446
+FA-47,1,codex,lower,trace,11,2284,2975,eligible,0.0,,own line ink 0.0 px away,80c6b131a16a,b86a839e2446

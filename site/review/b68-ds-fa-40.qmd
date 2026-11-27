@@ -1,0 +1,89 @@
+---
+title: "b68-ds-fa-40: provenance"
+---
+Provenance and review record of [b68-ds-fa-40](../experiments/b68-ds-fa-40.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 46 points recovered, agreed 40, one-sided-verified 6 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 15, convention 1, merged 1, rule 1 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+46 points (from FA-40) read by two readings made separately and reconciled (batch `curves-appa-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FA-40-p1](../img/overlays/FA-40-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | relative density (none, from none) | angle of internal friction (direct shear) (deg, from deg) | 46 |
+
+Points by status: [agreed]{.status .status-agreed} 40, [one-sided-verified]{.status .status-one-sided-verified} 6; by kind: `feature` 4, `trace` 42.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 30 | 0.00291 / 0.00467 | 0.0186 / 0.0353 |
+| codex | cal-p1 | 30 | 0.00295 / 0.00482 | 0.0183 / 0.035 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-ds-fa-40/observations.csv), [series.json](../files/data/experiments/b68-ds-fa-40/series.json) (repository paths `data/experiments/b68-ds-fa-40/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | *not reported* |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [rule]{.status .status-rule} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [convention]{.status .status-convention} | A figure printed under several specifications characterizes the material, not one numbered density state; like the Volume I averages (b68-gs-f2-14-rs) it carries no soil number, and the specifications it is printed under are in the evidence and notes. Claude wrote the list, Codex the first number; decided with Codex. |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| measured_channels | friction angle range vs relative density (band) | friction angle range vs relative density |
+
+## Notes from the two readings
+
+- Claude: Cross-hatched band 40 to 45 deg, no curve: loose LSM densified under the normal load so no phi vs Dr curve could be drawn (A-79; A-88). Band drawn across Dr 0 to 1.0 although the text limits it to Dr .40 to 1.00. Same band as FC-21 without the markers. Text phi: soil 10 about 42; soil 11 about 38.3 (outside the band; Table 2-3 42). Reprinted under soil 11.
+- Codex: Estimated 40 to 45 degree scatter band; no mean curve. Text limits interpretation to Dr .40 to 1.00 although band spans plot. A-84 gives 38.3 degrees for soil 11. Geometry and rate missing. AM-68-1 Vol. II, Fig. A-40, printed A-78, PDF 79
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

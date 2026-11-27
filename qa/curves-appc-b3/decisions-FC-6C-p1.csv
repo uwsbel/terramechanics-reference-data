@@ -1,0 +1,32 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,n1961,trace,61,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 061 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n1961,trace,62,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 061 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n1961,trace,13,codex,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 062 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2934,trace,13,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 065 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3815,marker,8,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 066 (Claude's adjudicator: p; Codex's: p))
+1,n3815,trace,60,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 067 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3815,trace,13,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 068 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n4695,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 069 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n4695,trace,79,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 070 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n714,trace,61,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 071 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n714,trace,15,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 072 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n1961,feature,1,claude,excluded,,"neither reading is this point of the drawn line; Claude's adjudicator: The line tip merges into the first triangle's apex/right side (only 1-2 px slivers, no real gap), so by convention the first point is the triangle cen; Codex's: Separated line ink begins around (717,2166); neither mark is its endpoint. (blind adjudication item 203 (Claude's adjudicator: neither; Codex's: neither))"
+1,n1961,feature,3,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 204 (Claude's adjudicator: p; Codex's: p))
+1,n1961,marker,9,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 205 (Claude's adjudicator: p; Codex's: p))
+1,n2934,feature,3,claude,resolved,codex,the codex reading is on the feature; credit codex (blind adjudication item 206 (Claude's adjudicator: q; Codex's: q))
+1,n2934,trace,61,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 207 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)"
+1,n2934,trace,62,claude,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 207 (Claude's adjudicator: some; Codex's: some)
+1,n2934,trace,50,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 208 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2934,trace,51,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 208 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3815,trace,69,codex,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 209 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3815,trace,70,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 209 (Claude's adjudicator: some; Codex's: some)
+1,n3815,trace,71,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 209 (Claude's adjudicator: some; Codex's: some)
+1,n3815,trace,72,codex,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 209 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n4695,marker,8,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 210 (Claude's adjudicator: p; Codex's: p))
+1,n4695,marker,10,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 211 (Claude's adjudicator: p; Codex's: p))
+1,n4695,trace,71,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 212 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n4695,trace,72,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 212 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n714,feature,3,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 213 (Claude's adjudicator: p; Codex's: p))
+1,n1961,feature,88,codex,excluded,,"neither reading is this point of the drawn line; Claude's adjudicator: The line tip merges into the first triangle's apex/right side (only 1-2 px slivers, no real gap), so by convention the first point is the triangle cen; Codex's: Separated line ink begins around (717,2166); neither mark is its endpoint. (blind adjudication item 203 (Claude's adjudicator: neither; Codex's: neither))"
+1,n2934,trace,80,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 024 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2934,trace,81,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 024 (Claude's adjudicator: all yes; Codex's: all yes)"

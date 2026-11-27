@@ -1,0 +1,24 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,eye_minus_fit_px,reference_position,line_source
+FC-4B,1,x,0,800.6,800.5,-0.1,at v=1900,detected in 20/20 bands
+FC-4B,1,x,50,1093.0,1093.3,0.3,at v=1900,detected in 17/20 bands
+FC-4B,1,x,100,1382.5,1383.3,0.8,at v=1900,detected in 20/20 bands
+FC-4B,1,x,150,1670.3,1670.7,0.4,at v=1900,detected in 20/20 bands
+FC-4B,1,x,200,1966.6,1966.7,0.1,at v=1900,detected in 20/20 bands
+FC-4B,1,x,250,2253.5,2253.3,-0.2,at v=1900,detected in 20/20 bands
+FC-4B,1,y,5000,1204.7,1204.0,-0.7,at u=1000,detected in 20/20 bands
+FC-4B,1,y,4000,1481.0,1481.7,0.7,at u=1000,detected in 20/20 bands
+FC-4B,1,y,3000,1771.6,1771.7,0.1,at u=1000,detected in 20/20 bands
+FC-4B,1,y,2000,2066.5,2066.7,0.2,at u=1000,detected in 20/20 bands
+FC-4B,1,y,1000,2360.9,2361.7,0.8,at u=1000,detected in 20/20 bands
+FC-4B,1,y,0,2658.4,2658.3,-0.1,at u=1000,detected in 20/20 bands
+FC-4B,2,x,0,801.9,801.7,-0.2,at v=3100,detected in 18/20 bands
+FC-4B,2,x,50,1093.3,1093.3,0.0,at v=3100,detected in 17/20 bands
+FC-4B,2,x,100,1382.8,1383.3,0.5,at v=3100,detected in 18/20 bands
+FC-4B,2,x,150,1671.3,1671.7,0.4,at v=3100,detected in 19/20 bands
+FC-4B,2,x,200,1965.8,1966.7,0.9,at v=3100,detected in 17/20 bands
+FC-4B,2,x,250,2254.7,2253.3,-1.4,at v=3100,detected in 18/20 bands
+FC-4B,2,y,50,2805.3,2805.0,-0.3,at u=1000,detected in 20/20 bands
+FC-4B,2,y,0,2952.7,2953.3,0.6,at u=1000,detected in 20/20 bands
+FC-4B,2,y,-50,3097.9,,,at u=1000,"predicted; not drawn on the page (no gridline at this value), interpolated by the tool on a linear axis, cannot be eye-checked"
+FC-4B,2,y,-100,3244.3,,,at u=1000,"predicted; not drawn on the page (no gridline at this value), interpolated by the tool on a linear axis, cannot be eye-checked"
+FC-4B,2,y,-150,3390.6,3391.7,1.1,at u=1000,detected in 20/20 bands

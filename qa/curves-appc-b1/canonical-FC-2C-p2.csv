@@ -1,0 +1,50 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-2C,2,n1468,marker,1,892.5,3199.5,2,2,circle,,34.8366,14.6202,0.4828,0.8954,piecewise,agreed,claude,35.1276,15.1954,,894,3198
+FC-2C,2,n1468,marker,2,982,3188,4,4,circle,stack on the x=50 gridline,50.4523,18.7168,0.8299,1.5832,piecewise,agreed,claude,50.8287,20.1399,,984,3184
+FC-2C,2,n1468,marker,3,1040.5,3174.5,2,2,circle,,60.4467,23.4453,0.4993,0.8915,piecewise,agreed,claude,60.4193,23.3149,,1040,3175
+FC-2C,2,n1468,marker,5,1152.5,3158,2,2,circle,,79.5762,29.2898,0.5337,0.8888,piecewise,agreed,claude,79.9426,31.0376,,1154,3153
+FC-2C,2,n1468,marker,6,1218,3193,3,3,circle,x merged below,90.7597,17.4007,0.725,1.2381,piecewise,pending-review,claude,,,"rule: identity conflict; codex recorded this symbol as n3660 (x), n2200 (triangle-up)",,
+FC-2C,2,n2200,marker,1,805,3229,3,3,triangle-up,base near the zero gridline,19.5726,4.3479,0.6507,1.2448,piecewise,agreed,claude,19.7715,6.1412,,806,3224
+FC-2C,2,n2200,marker,2,862.5,3222,2,2,triangle-up,,29.6028,6.849,0.4803,0.8986,piecewise,agreed,claude,29.892,6.5795,,864,3223
+FC-2C,2,n2200,marker,3,924,3222,3,3,triangle-up,merged with the square above,40.3331,6.9548,0.66,1.2433,piecewise,agreed,claude,40.3621,7.3637,,924,3221
+FC-2C,2,n2200,marker,4,985,3224,3,3,triangle-up,stack on the x=50 gridline,50.9552,6.3736,0.6538,1.2433,piecewise,agreed,claude,50.9883,7.8069,,985,3220
+FC-2C,2,n2200,marker,5,1041,3219,2,2,triangle-up,,60.5227,8.1847,0.4996,0.8976,piecewise,agreed,claude,61.0912,8.5893,,1044,3218
+FC-2C,2,n2200,marker,6,1104,3212,8,8,triangle-up,triangle/square/x shared ink,71.3663,10.7436,1.4661,2.9871,piecewise,resolved,codex,70.9415,5.2033,the codex reading is on the symbol center; credit codex (blind adjudication item 105 (Claude's adjudicator: q; Codex's: q)),1102,3228
+FC-2C,2,n2200,marker,7,1161,3200,3,3,triangle-up,merged with the square above,81.0234,14.9045,0.7076,1.2393,piecewise,agreed,claude,81.9851,14.9564,,1166,3200
+FC-2C,2,n2200,marker,8,1393,3167,3,3,triangle-up,pointed top; triangle or square,120.4692,26.6045,0.6781,1.2338,piecewise,agreed,claude,121.4,28.009,,1398,3163
+FC-2C,2,n2200,marker,8,1225,3189,7,7,triangle-up,triangle beside x,92.0895,18.8212,1.2883,2.6407,piecewise,one-sided-verified,codex,,,rule: identity conflict; claude recorded this symbol as n1468 (circle); second round: the symbol is n2200; the other reading filed it under another test; credit codex (blind adjudication item 106 (Claude's adjudicator: n2200; Codex's: n2200)),,
+FC-2C,2,n2200,marker,9,1279,3180,8,8,triangle-up,triangle and square share grid ink; symbol intersects vertical grid,101.3176,21.9923,1.4377,2.9841,piecewise,one-sided-verified,codex,,,second round: the symbol is n2200; the other reading filed it under another test; credit codex (blind adjudication item 107 (Claude's adjudicator: n2200; Codex's: n2200)),,
+FC-2C,2,n2200,marker,10,1339,3172,8,8,triangle-up,triangle and square overlap,111.4434,24.8304,1.4356,2.9833,piecewise,one-sided-verified,codex,,,second round: the symbol is n2200; the other reading filed it under another test; credit codex (blind adjudication item 108 (Claude's adjudicator: n2200; Codex's: n2200)),,
+FC-2C,2,n2200,marker,12,1451,3153,8,8,triangle-up,triangle and square overlap,130.3436,31.5199,1.4349,2.9815,piecewise,one-sided-verified,codex,,,second round: the symbol is n2200; the other reading filed it under another test; credit codex (blind adjudication item 109 (Claude's adjudicator: n2200; Codex's: n2200)),,
+FC-2C,2,n2995,marker,1,708,3227,3,3,square,"flat top, rectangular hole; square or circle; merged with the filled circle at 722",2.6494,4.8669,0.6436,1.2449,piecewise,agreed,claude,1.9745,5.2875,,704,3226
+FC-2C,2,n2995,marker,2,739,3217,3,3,square,"flat top, rectangular hole; merged with the filled circle at 750",8.0522,8.3527,0.646,1.2434,piecewise,agreed,claude,7.725,10.1399,,737,3212
+FC-2C,2,n2995,marker,3,922,3202.5,3,3,square,tail at lower right,39.9857,13.6411,0.6601,1.2406,piecewise,agreed,claude,39.6666,14.5528,,920,3200
+FC-2C,2,n2995,marker,4,984,3201,4,4,square,"stack of four symbols on the x=50 gridline; round hole, square or circle",50.7905,14.2611,0.8248,1.585,piecewise,agreed,claude,50.9951,15.0021,,985,3199
+FC-2C,2,n2995,marker,5,1041.5,3195.5,2,2,square,,60.613,16.245,0.4997,0.8944,piecewise,resolved,claude,60.9287,18.5233,the claude reading is on the symbol center; credit claude (blind adjudication item 087 (Claude's adjudicator: p; Codex's: p)),1043,3189
+FC-2C,2,n2995,marker,6,1103,3187,7,7,square,square is rounded; possible circle ambiguity,71.202,19.3067,1.2945,2.6409,piecewise,resolved,codex,70.7737,11.7166,second round: the codex reading is on the symbol center; credit codex (blind adjudication item 110 (Claude's adjudicator: q; Codex's: q)),1101,3209
+FC-2C,2,n2995,marker,7,1159,3180,3,3,square,merged with the triangle below,80.6839,21.758,0.7069,1.2365,piecewise,agreed,claude,82.1629,23.8648,,1167,3174
+FC-2C,2,n2995,marker,8,1217.5,3166.5,2,2,square,,90.6757,26.4838,0.5536,0.8898,piecewise,agreed,claude,91.2394,27.7193,,1220,3163
+FC-2C,2,n2995,marker,9,1277,3161,3,3,square,on the x=100 gridline,100.8296,28.4678,0.7335,1.2334,piecewise,agreed,claude,99.9724,30.5426,,1271,3155
+FC-2C,2,n3660,marker,1,1219,3208,4,4,x,upper arms merged into the circle above; x or triangle,90.9298,12.2606,0.8965,1.5848,piecewise,agreed,claude,92.4301,16.084,,1227,3197
+FC-2C,2,n3660,marker,2,1277,3201,5,5,x,on the x=100 gridline; x or a second open symbol; merged stack,100.8295,14.7585,1.074,1.9281,piecewise,agreed,claude,101.3124,13.0865,,1279,3206
+FC-2C,2,n3660,marker,3,1334,3203,4,4,x,lower half visible; upper half merged,110.4788,14.1698,0.876,1.5835,piecewise,agreed,claude,111.4392,15.5826,,1339,3199
+FC-2C,2,n3660,marker,4,1392,3193,4,4,x,merged above,120.2981,17.6945,0.8484,1.5818,piecewise,agreed,claude,121.0599,20.4709,,1396,3185
+FC-2C,2,n3660,marker,5,1451,3183,4,4,x,merged above,130.2874,21.2198,1.381,4.719,piecewise,pending-review,claude,130.1729,23.2989,"neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 139, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R3 cannot tell R2 cannot tell); bounds widened to cover the other reading (use span)",1450,3177
+FC-2C,2,n3660,marker,6,1511.5,3174,2,2,x,,140.5312,24.4039,0.4516,0.8899,piecewise,resolved,claude,141.8164,26.836,the claude reading is on the symbol center; credit claude (blind adjudication item 088 (Claude's adjudicator: p; Codex's: p)),1519,3167
+FC-2C,2,n3660,marker,7,1568,3166,3,3,x,on the x=150 gridline,150.0997,27.2379,0.6021,1.2329,piecewise,agreed,claude,151.1178,28.6377,,1574,3162
+FC-2C,2,n3660,marker,8,1624.5,3168,2,2,x,,159.8105,26.6469,0.4299,0.8888,piecewise,agreed,claude,160.5759,28.0423,,1629,3164
+FC-2C,2,n4400,marker,1,1160,3225.5,2,2,asterisk,,80.85,6.1603,0.5361,0.8981,piecewise,agreed,claude,81.6374,7.7591,,1164,3221
+FC-2C,2,n4400,marker,2,1220,3228.5,2,2,asterisk,touches the zero gridline,91.0996,5.2352,0.5546,0.8983,piecewise,agreed,claude,91.9096,5.8026,,1224,3227
+FC-2C,2,n4400,marker,3,1277,3230,3,3,asterisk,on the x=100 gridline,100.8294,4.8192,0.7333,1.243,piecewise,agreed,claude,101.3088,6.9209,,1279,3224
+FC-2C,2,n4400,marker,4,1335.5,3219,2,2,asterisk,,110.7321,8.6895,0.5356,0.8967,piecewise,agreed,claude,111.6051,9.419,,1340,3217
+FC-2C,2,n4400,marker,5,1395,3213,2,2,asterisk,,120.8045,10.8471,0.5072,0.8957,piecewise,agreed,claude,121.225,9.8553,,1397,3216
+FC-2C,2,n4400,marker,6,1450.5,3204,2,2,asterisk,,130.2005,14.025,0.4807,0.8942,piecewise,agreed,claude,130.6774,15.7694,,1453,3199
+FC-2C,2,n4400,marker,7,1510.5,3201,2,2,asterisk,,140.358,15.1543,0.452,0.8936,piecewise,resolved,claude,141.8153,15.8776,the claude reading is on the symbol center; credit claude (blind adjudication item 113 (Claude's adjudicator: q; Codex's: q)),1519,3199
+FC-2C,2,n4400,marker,8,1565,3197,3,3,asterisk,on the x=150 gridline,149.5849,16.6165,0.5959,1.2372,piecewise,agreed,claude,150.7739,18.7039,,1572,3191
+FC-2C,2,n4400,marker,9,1624.5,3192,2,2,asterisk,,159.808,18.4291,0.43,0.8921,piecewise,agreed,claude,160.5765,19.8244,,1629,3188
+FC-2C,2,n4400,marker,10,1684.5,3183.5,2,2,asterisk,,170.1228,21.4402,0.4298,0.8907,piecewise,agreed,claude,170.7226,23.0024,,1688,3179
+FC-2C,2,n734,marker,1,722,3230,3,3,circle,filled blob 13 px; filled circle or x; merged with the square at 708,5.0937,3.8613,0.6446,1.2452,piecewise,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 114 (Claude's adjudicator: yes; Codex's: yes),,
+FC-2C,2,n734,marker,2,750,3223,3,3,circle,filled blob; merged with the square at 739,9.9747,6.3123,0.6467,1.2441,piecewise,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 115 (Claude's adjudicator: yes; Codex's: yes),,
+FC-2C,2,n734,marker,3,804,3210,2,2,circle,,19.392,10.8665,0.4759,0.8971,piecewise,agreed,claude,19.5923,11.6225,,805,3208
+FC-2C,2,n734,marker,4,862,3198.5,2,2,circle,small spikes top and bottom,29.5126,14.9115,0.4805,0.8953,piecewise,agreed,claude,29.7152,15.8299,,863,3196
+FC-2C,2,n734,marker,6,1043,3148.5,2,2,circle,,60.8791,32.3663,0.5001,0.8879,piecewise,agreed,claude,60.7698,32.5687,,1042,3148

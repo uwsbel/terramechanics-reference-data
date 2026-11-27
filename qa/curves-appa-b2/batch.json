@@ -1,0 +1,146 @@
+{
+  "batch": "curves-appa-b2",
+  "source": "1968-vol2",
+  "context_pages": [],
+  "figures": {
+    "FA-2": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "RS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "RS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "RS"
+        }
+      ]
+    },
+    "FA-6": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "PS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "PS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "PS"
+        }
+      ]
+    },
+    "FA-18": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "RSM-a"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "RSM-a"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "RSM-a"
+        }
+      ]
+    },
+    "FA-22": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "RC2"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "RC2"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "RC2"
+        }
+      ]
+    },
+    "FA-26": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "SS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "SS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "SS"
+        }
+      ]
+    },
+    "FA-38": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "LSM"
+        }
+      ]
+    },
+    "FA-46": {
+      "series": [
+        {
+          "series_id": "average",
+          "role": "solid curve",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve with the higher percent finer",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve with the lower percent finer",
+          "soil": "RSM-b"
+        }
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFigures A-2, A-6, A-18, A-22, A-26, A-38 and A-46 are **grain-size distribution curves**: percent finer\nthan by weight against grain size (mm), one soil per figure, printed **sideways** on the page (read the\npage as scanned: grain size increases up the page, percent finer to the left; pass `--x-direction up\n--y-direction left` to `calibrate_axes.py detect`). The grain-size axis is a **log axis**\n(`--x-transform log10`): give the printed grain sizes (0.02, 0.05, 0.1, ...), never their logarithms.\nThe page also carries a second scale of U.S. standard sieve numbers, a table of grain-size parameters\nand a classification strip: none of these is read as points (the table's values are already\ntranscribed).\n\nCalibration: anchor the grid lines that carry a printed grain-size label and the labelled percent\nlines (0 to 100). The printed log paper has many unlabelled subdivision lines and dashed sieve lines:\ndo not anchor them unless you can name each one's value without doubt from the printed labels (rule\n5); when in doubt leave them out. Say in `calibration-eye-checks.csv` which label each checked line\ncarries; check that the frame lines are or are not labelled.\n\nSeries (`series.csv`): `average` the solid curve; `upper` and `lower` the dashed curves of the range on\neither side of it (`upper` the one with the higher percent finer at a given grain size).\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`, grain size in mm, percent finer in percent:\n   - each curve as `trace` samples in drawing order from its fine end (small grain size): its first\n     point, then every 0.05 decade of grain size (0.0200, 0.0224, 0.0251, ... : ten to the power of\n     steps of 0.05), and, where the curve rises by more than 10 percent between two such samples, extra\n     samples at every 5 percent finer between them, then its last point. On a dashed curve a sample in\n     a gap moves to the nearest dash end (rule 7). Bound: half the line thickness. Where the three\n     curves run together, say so in the note and widen the bound rather than guess which is which.\n   - any plotted symbol on the curves as `marker` (series of the curve it is on).\n   - `feature` points per rule 3 for every trace (first point, last point, any knee).\n3. `overlay-p1.png` and `notes.md` (which curve is which, where they merge, the frame and the labels).\n",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between dashes; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Check every printed axis label by eye against the line you anchor it to: a label printed off its line, or a frame that extends past the first or last labelled line, has misled readers before.",
+    "Give the printed values to the tool and declare the axis transform (docs/CURVE-READING.md rule 5); never type a logarithm or a reciprocal."
+  ]
+}

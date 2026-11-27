@@ -1,0 +1,14 @@
+subject_rows,reference_rows,item,P,Q,subject_label,subject_reader,verify,figure,panel,series,kind
+codex|n2345|trace|71;codex|n2345|trace|72,claude|n2345|trace|220;claude|n2345|trace|225;claude|n2345|trace|230,002,claude,codex,Q,codex,one-sided,FC-1B,1,n2345,trace-gap
+claude|n2935|trace|2,codex|n2935|trace|3;codex|n2935|trace|4;codex|n2935|trace|5;codex|n2935|trace|6;codex|n2935|trace|7;codex|n2935|trace|8;codex|n2935|trace|9,006,codex,claude,Q,claude,one-sided,FC-1D,1,n2935,curve-start
+codex|n1468|trace|87,claude|n1468|trace|49;claude|n1468|trace|50;claude|n1468|trace|51;claude|n1468|trace|52,007,claude,codex,Q,codex,one-sided,FC-2B,1,n1468,curve-end
+codex|n1468|trace|2;codex|n1468|trace|3;codex|n1468|trace|4,claude|n1468|trace|2;claude|n1468|trace|3;claude|n1468|trace|4,010,codex,claude,P,codex,one-sided,FC-2C,1,n1468,curve-start
+codex|n2200|trace|2;codex|n2200|trace|3,claude|n2200|trace|2;claude|n2200|trace|3;claude|n2200|trace|4,011,codex,claude,P,codex,one-sided,FC-2C,1,n2200,curve-start
+codex|n3815|trace|76;codex|n3815|trace|77;codex|n3815|trace|78;codex|n3815|trace|79;codex|n3815|trace|80,claude|n3815|trace|39;claude|n3815|trace|40;claude|n3815|trace|41;claude|n3815|trace|44;claude|n3815|trace|45;claude|n3815|trace|46,014,codex,claude,P,codex,one-sided,FC-3B,1,n3815,trace-gap
+claude|n4695|feature|2,,015,claude,codex,P,claude,one-sided,FC-3B,1,n4695,feature-only
+codex|n4695|feature|3,,016,codex,claude,P,codex,one-sided,FC-3B,1,n4695,feature-only
+codex|n1761|trace|62;codex|n1761|trace|63;codex|n1761|trace|64;codex|n1761|trace|65,claude|n1761|trace|54;claude|n1761|trace|55;claude|n1761|trace|56;claude|n1761|trace|57;claude|n1761|trace|58;claude|n1761|trace|59;claude|n1761|trace|62;claude|n1761|trace|63;claude|n1761|trace|64;claude|n1761|trace|65;claude|n1761|trace|66;claude|n1761|trace|67,017,codex,claude,P,codex,one-sided,FC-3C,1,n1761,trace-gap
+claude|n734|trace|46,codex|n734|trace|40;codex|n734|trace|41;codex|n734|trace|42;codex|n734|trace|43;codex|n734|trace|46;codex|n734|trace|47;codex|n734|trace|48;codex|n734|trace|49;codex|n734|trace|50;codex|n734|trace|51,018,codex,claude,Q,claude,one-sided,FC-3C,1,n734,trace-gap
+claude|n734|trace|70,codex|n734|trace|63;codex|n734|trace|64;codex|n734|trace|65;codex|n734|trace|66;codex|n734|trace|67;codex|n734|trace|68;codex|n734|trace|69;codex|n734|trace|71;codex|n734|trace|72;codex|n734|trace|73,019,codex,claude,Q,claude,one-sided,FC-3C,1,n734,trace-gap
+claude|n1761|trace|1,codex|n1761|trace|15;codex|n1761|trace|16;codex|n1761|trace|17;codex|n1761|trace|18;codex|n1761|trace|19,023,codex,claude,Q,claude,one-sided,FC-5B,1,n1761,curve-start
+codex|n2934|trace|80;codex|n2934|trace|81,claude|n2934|trace|57;claude|n2934|trace|58;claude|n2934|trace|59;claude|n2934|trace|60,024,claude,codex,Q,codex,one-sided,FC-6C,1,n2934,curve-end

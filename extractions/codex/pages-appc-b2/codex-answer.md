@@ -1,0 +1,1 @@
+Completed `out/p0138.md` through `out/p0159.md` and `out/notes.md`. All 22 transcriptions were checked against the images. Two uncertain readings are marked `[?]` and explained in the notes.

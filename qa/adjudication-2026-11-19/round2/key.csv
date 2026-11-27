@@ -1,0 +1,16 @@
+subject_rows,reference_rows,item,P,Q,subject_label,subject_reader,verify,figure,panel,series,kind
+codex|run10|feature|6,,001,claude,codex,Q,codex,one-sided,F4-19,1,run10,feature-only
+codex|run12|trace|62;codex|run12|trace|63,claude|run12|trace|50;claude|run12|trace|52;claude|run12|trace|53,002,codex,claude,P,codex,one-sided,F4-19,1,run12,trace-gap
+codex|run12|trace|64;codex|run12|trace|65;codex|run12|trace|66,claude|run12|trace|54;claude|run12|trace|57,003,claude,codex,Q,codex,one-sided,F4-19,1,run12,trace-gap
+codex|run4|feature|7,,004,claude,codex,Q,codex,one-sided,F4-19,1,run4,feature-only
+codex|run10|trace|1,claude|run10|trace|3;claude|run10|trace|4;claude|run10|trace|5,005,claude,codex,Q,codex,one-sided,F4-19,2,run10,curve-start
+codex|run10|trace|33,claude|run10|trace|32;claude|run10|trace|33,006,claude,codex,Q,codex,one-sided,F4-19,2,run10,curve-end
+claude|run12|feature|1,codex|run12|feature|1,007,claude,codex,P,claude,pair,F4-19,2,run12,feature-disagree
+codex|run12|feature|2,,008,claude,codex,Q,codex,one-sided,F4-19,2,run12,feature-only
+codex|run12|trace|1;codex|run12|trace|2;codex|run12|trace|3;codex|run12|trace|4;codex|run12|trace|5;codex|run12|trace|6;codex|run12|trace|7;codex|run12|trace|8;codex|run12|trace|9;codex|run12|trace|10,claude|run12|trace|2;claude|run12|trace|3;claude|run12|trace|4,009,claude,codex,Q,codex,one-sided,F4-19,2,run12,curve-start
+codex|run4|trace|1;codex|run4|trace|2,claude|run4|trace|3;claude|run4|trace|4;claude|run4|trace|5,010,claude,codex,Q,codex,one-sided,F4-19,2,run4,curve-start
+codex|run10|feature|8,,011,claude,codex,Q,codex,one-sided,F4-20,1,run10,feature-only
+codex|run10|trace|1,claude|run10|trace|2,012,codex,claude,P,codex,one-sided,F4-20,1,run10,curve-start
+codex|run12|feature|3,,013,claude,codex,Q,codex,one-sided,F4-20,1,run12,feature-only
+codex|run12|trace|1;codex|run12|trace|2;codex|run12|trace|3,claude|run12|trace|2;claude|run12|trace|3;claude|run12|trace|4,014,codex,claude,P,codex,one-sided,F4-20,1,run12,curve-start
+codex|run4|trace|1,claude|run4|trace|2,015,claude,codex,Q,codex,one-sided,F4-20,1,run4,curve-start

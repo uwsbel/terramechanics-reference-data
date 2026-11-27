@@ -1,0 +1,47 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-7A,1,dr53,marker,1,877.5,2858.2,2,2,dotted circle,"circle with a center dot, as in the legend; ring fit (877.3, 2857.9 inner; 877.6, 2858.6 outer), center dot 877.5, 2858.2; the 45 deg line runs into the ring on both sides; y = 5 grid line through the ring top"
+FC-7A,1,dr53,marker,2,983.8,2761.4,2,2,dotted circle,"circle with a center dot, as in the legend; ring fit; the x = 5 grid line passes through the left part of the circle; the 45 deg line runs into the ring on both sides"
+FC-7A,1,dr53,marker,3,1073.9,2664.1,2,2,dotted circle,"circle with a center dot, as in the legend; ring fit and center dot agree within 0.5 px; the 45 deg line runs into the ring on both sides"
+FC-7A,1,dr53,marker,4,1295.6,2416.6,3,3,dotted circle,"circle with a center dot, as in the legend; ring fit; the x = 10 grid line passes through the left part of the circle and the 45 deg line through its lower right, so the ring is partly hidden; bound widened"
+FC-7A,1,dr53,marker,5,1521.9,2196.8,2,2,dotted circle,"circle with a center dot, as in the legend; ring fit; the 45 deg line runs into the ring on both sides (through the center); y = 15 grid line along the ring bottom"
+FC-7A,1,dr53,marker,6,2299.1,1410.7,2,2,dotted circle,"circle with a center dot, as in the legend; ring fit; the 45 deg line passes over the upper-left part of the ring and ends just beyond it"
+FC-7A,1,dr100,marker,1,876.3,2706.0,3,7,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: outer outline (apex 875.2, 2682.5; base 857 to 896.5 at 2720.5) gives v 2707.8, inner hole gives 2704.2; center dot 878, 2706; bbox midpoint v 2701.5; sits above the 50.5 deg line (off the line)"
+FC-7A,1,dr100,marker,2,987.3,2611.2,3,7,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: outer outline (apex 987, 2585.5; base bottom 2625.5, right corner 1007.5; left corner hidden under the line) gives v 2611.8, inner hole 2610.5; center dot 985.5, 2612; the x = 5 grid line and the 50.5 deg line pass through it"
+FC-7A,1,dr100,marker,3,1082.5,2515.0,3,8,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: apex hidden under the 50.5 deg line (outer apex estimated at 2489 from the hole apex 2499.5), base bottom 2531.5 merged with the y = 10 grid line; outer gives v 2517.3, inner hole 2512.8; center dot 1082, 2514; bound widened"
+FC-7A,1,dr100,marker,4,1296.7,2216.2,3,7,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: outer outline (apex 1296.5, 2194.5; base 1277 to 1316.5, bottom 2228.5) gives v 2217.2, inner hole 2215.2; the x = 10 and y = 15 grid lines and the 50.5 deg line all pass through it"
+FC-7A,1,dr100,marker,5,1523.5,1887.5,3,7,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: outer outline (apex 1525, 1865.5; base 1504 to 1541.5, bottom merged with the y = 20 grid line, about 1900) gives v 1888.5, inner hole 1886.5; sits above and left of the 50.5 deg line (off the line)"
+FC-7A,1,dr100,marker,6,2339.0,1053.5,3,7,dotted triangle,"upright triangle with a center dot, as in the legend; centroid: outer outline (apex 2338.5, 1030.5; base 2318 to 2360.5, bottom 1066) gives v 1054.2, inner hole 1052.8; center dot 2339.5, 1052; isolated, well below the 50.5 deg line"
+FC-7A,1,dr100,trace,1,667.7,3009.5,5,5,,left end: the dashed part reaches the shear axis; placed where the first dash's centerline meets the x = 0 axis line (the dash ink merges with the axis ink); dashed
+FC-7A,1,dr100,trace,2,791,2858.0,4,4,,"x = 2 psi sample on the line ink, read from the row centers of the dash (row 2858, ink u 787 to 795) because the column runs here are cut by the dash end and merged with the y = 5 grid line; 3 px from the dash's lower end; dashed"
+FC-7A,1,dr100,trace,3,914,2702.0,4,4,,x = 4 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,4,1037,2548.7,4,4,,x = 6 psi sample on the line ink (local fit over 22 clean columns)
+FC-7A,1,dr100,trace,5,1160,2396.5,4,4,,x = 8 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,6,1282,2242.7,4,4,,"x = 10 psi sample on the line ink (local fit over 13 clean columns); x = 10 falls where the line ink merges with a grid line, sample at the nearest clean line ink, x = 9.976; crosses the x = 10 grid line here"
+FC-7A,1,dr100,trace,7,1407,2087.9,4,4,,x = 12 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,8,1530,1934.8,4,4,,x = 14 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,9,1653,1780.8,4,4,,x = 16 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,10,1776,1626.7,4,4,,x = 18 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,11,1900,1471.5,4,4,,x = 20 psi sample on the line ink (local fit over 20 clean columns); crosses the x = 20 grid line here
+FC-7A,1,dr100,trace,12,2022,1319.2,4,4,,x = 22 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,13,2146,1164.4,4,4,,x = 24 psi sample on the line ink (local fit over 23 clean columns)
+FC-7A,1,dr100,trace,14,2269,1010.7,4,4,,x = 26 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr100,trace,15,2312.2,956.0,6,7,,"right end: the line runs into the top frame line (y = 35) and stops there; placed where its centerline meets the frame centerline; its own ink is last seen apart from the frame at the frame's lower edge (about u 2308, v 961), inside the bound"
+FC-7A,1,dr100,feature,1,667.7,3009.5,5,5,,"intercept: where the line's dashed extension meets the normal-load-zero axis, from the fit over the first two dashes"
+FC-7A,1,dr100,feature,2,1724.0,1758.5,6,6,,"label: 50.5° (center of the glyph bounding box; printed rotated along the line, on its lower-right side)"
+FC-7A,1,dr53,trace,1,668.6,3085.1,5,5,,left end: the dashed part reaches the shear axis; placed where the first dash's centerline meets the x = 0 axis line (the dash ink merges with the axis ink); dashed
+FC-7A,1,dr53,trace,2,792,2955.5,4,4,,x = 2 psi sample on the line ink (local fit over 18 clean columns); dashed
+FC-7A,1,dr53,trace,3,916,2827.3,4,4,,x = 4 psi sample on the line ink (local fit over 23 clean columns)
+FC-7A,1,dr53,trace,4,1039,2700.6,4,4,,x = 6 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,5,1163,2572.5,4,4,,x = 8 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,6,1285,2446.1,4,4,,x = 10 psi sample on the line ink (local fit over 13 clean columns); crosses the x = 10 grid line here
+FC-7A,1,dr53,trace,7,1409,2316.0,4,4,,x = 12 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,8,1543,2176.8,4,4,,"x = 14 psi sample on the line ink (local fit over 17 clean columns); x = 14 falls on or next to a symbol, sample at the nearest clean line ink, x = 14.163"
+FC-7A,1,dr53,trace,9,1656,2058.9,4,4,,x = 16 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,10,1780,1928.6,4,4,,x = 18 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,11,1904,1799.3,4,4,,x = 20 psi sample on the line ink (local fit over 21 clean columns); crosses the x = 20 grid line here
+FC-7A,1,dr53,trace,12,2027,1670.9,4,4,,x = 22 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,13,2150,1543.1,4,4,,x = 24 psi sample on the line ink (local fit over 25 clean columns)
+FC-7A,1,dr53,trace,14,2271,1417.0,4,4,,"x = 26 psi sample on the line ink (local fit over 18 clean columns); x = 26 falls on or next to a symbol, sample at the nearest clean line ink, x = 25.956"
+FC-7A,1,dr53,trace,15,2307.0,1378.5,4,4,,"right end: where the line's ink ends (tip at u 2307 to 2309, v 1373 to 1384), just beyond the last circle, whose upper-left ring the line passes over"
+FC-7A,1,dr53,feature,1,668.6,3085.1,5,5,,"intercept: where the line's dashed extension meets the normal-load-zero axis, from the fit over the first two dashes"
+FC-7A,1,dr53,feature,2,1717.5,2045.0,6,6,,"label: 45° (center of the glyph bounding box; printed rotated along the line, on its lower-right side)"

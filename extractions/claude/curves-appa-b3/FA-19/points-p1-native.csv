@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-19,1,mean,trace,1,750.6,1113.6,4.5,4.5,,"left end, Dr = 0 frame line",1.93e-05,57.824,0.0039618,0.06002,piecewise extrapolated x
+FA-19,1,mean,trace,2,906.2,1206.4,4.5,4.5,,,0.0999761,58.87299,0.0037818,0.06161,piecewise
+FA-19,1,mean,trace,3,1060.4,1297.3,4.5,4.5,,,0.199987,59.94235,0.00391,0.06723,piecewise
+FA-19,1,mean,trace,4,1217.9,1389.5,4.5,4.5,,,0.3000045,61.06513,0.0039396,0.06309,piecewise
+FA-19,1,mean,trace,5,1371.1,1478.4,4.5,4.5,,,0.4000325,62.19057,0.0041642,0.06154,piecewise
+FA-19,1,mean,trace,6,1528.5,1569.2,4.5,4.5,,,0.4999869,63.35818,0.0036519,0.06971,piecewise
+FA-19,1,mean,trace,7,1684.4,1660.0,4.5,4.5,,,0.6000284,64.64278,0.0037254,0.07616,piecewise
+FA-19,1,mean,trace,8,1842.6,1752.2,4.5,4.5,,,0.700022,65.99437,0.0033184,0.08055,piecewise
+FA-19,1,mean,trace,9,1997.4,1841.7,4.5,4.5,,,0.8000238,67.35135,0.0035204,0.07379,piecewise
+FA-19,1,mean,trace,10,2154.1,1932.3,4.5,4.5,,,0.8999823,68.71823,0.0033085,0.08081,piecewise
+FA-19,1,mean,trace,11,2313.9,2024.6,4.5,4.5,,"right end, Dr = 1.0 frame line",1.0000191,70.19978,0.0039513,0.08465,piecewise extrapolated x
+FA-19,1,mean,feature,1,750.6,1113.6,4.5,4.5,,"first point (where the line's ink starts, at the Dr = 0 frame line)",1.93e-05,57.824,0.0039618,0.06002,piecewise extrapolated x
+FA-19,1,mean,feature,2,2313.9,2024.6,4.5,4.5,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)",1.0000191,70.19978,0.0039513,0.08465,piecewise extrapolated x
+FA-19,1,mean,feature,3,601.0,1119.0,48.0,22.0,,label: 57.9,-0.0972213,57.85978,0.034589,0.2581,piecewise extrapolated x
+FA-19,1,mean,feature,4,2441.0,2060.0,50.0,21.0,,label: 70.3,1.0801392,70.79626,0.0343162,0.36187,piecewise extrapolated x
+FA-19,1,upper,trace,1,749.6,1063.2,4.5,4.5,,"left end, Dr = 0 frame line",-1.34e-05,57.2819,0.0039619,0.05863,piecewise extrapolated x
+FA-19,1,upper,trace,2,904.7,1126.0,4.5,4.5,,,0.0999679,57.98265,0.0037813,0.06034,piecewise
+FA-19,1,upper,trace,3,1058.4,1187.8,4.5,4.5,,,0.1999893,58.68773,0.0039095,0.06126,piecewise
+FA-19,1,upper,trace,4,1215.3,1250.4,4.5,4.5,,,0.2999749,59.42062,0.0039378,0.06451,piecewise
+FA-19,1,upper,trace,5,1368.0,1309.6,4.5,4.5,,,0.400002,60.13142,0.0041637,0.06718,piecewise
+FA-19,1,upper,trace,6,1525.2,1371.3,4.5,4.5,,,0.5000007,60.89234,0.0036554,0.06351,piecewise
+FA-19,1,upper,trace,7,1680.4,1432.7,4.5,4.5,,"a dash starts at the Dr 0.6 grid line (ink from its right edge, u 1684); gap u 1665 to 1677 left of it",0.6000121,61.67321,0.0037294,0.06349,piecewise
+FA-19,1,upper,trace,8,1838.3,1495.2,4.5,4.5,,,0.7000059,62.46817,0.0033208,0.06226,piecewise
+FA-19,1,upper,trace,9,1992.5,1556.1,4.5,4.5,,,0.8000066,63.26518,0.0035233,0.06956,piecewise
+FA-19,1,upper,trace,10,2149.1,1617.3,4.5,4.5,,,0.9000101,64.12778,0.0033011,0.07609,piecewise
+FA-19,1,upper,trace,11,2309.7,1679.6,4.5,4.5,,"right end, Dr = 1.0 frame line (the line runs along the 65 grid line over its last 40 px)",0.9999912,65.04793,0.0039166,0.0744,piecewise extrapolated x
+FA-19,1,upper,feature,1,749.6,1063.2,4.5,4.5,,"first point (where the line's ink starts, at the Dr = 0 frame line)",-1.34e-05,57.2819,0.0039619,0.05863,piecewise extrapolated x
+FA-19,1,upper,feature,2,2309.7,1679.6,4.5,4.5,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)",0.9999912,65.04793,0.0039166,0.0744,piecewise extrapolated x
+FA-19,1,upper,feature,3,598.0,1059.0,48.0,22.0,,label: 57.3,-0.0984225,57.21488,0.0346049,0.25188,piecewise extrapolated x
+FA-19,1,upper,feature,4,2461.0,1730.5,49.0,21.5,,label: 65.1,1.0945192,65.79796,0.0335889,0.33637,piecewise extrapolated x
+FA-19,1,lower,trace,1,751.6,1170.0,5.0,5.0,,"left end, Dr = 0 frame line",-2.14e-05,58.44306,0.0042996,0.0667,piecewise extrapolated x
+FA-19,1,lower,trace,2,907.7,1287.2,5.0,5.0,,,0.0999796,59.80192,0.0041166,0.07274,piecewise
+FA-19,1,lower,trace,3,1062.4,1403.8,5.0,5.0,,"the dash ends at the Dr 0.2 grid line (ink to its left edge, u 1060; none from u 1065)",0.2000204,61.21615,0.0042436,0.06952,piecewise
+FA-19,1,lower,trace,4,1220.3,1521.4,5.0,5.0,,,0.2999904,62.69334,0.0042771,0.06892,piecewise
+FA-19,1,lower,trace,5,1373.9,1634.9,5.0,5.0,,,0.4000132,64.22381,0.0045011,0.08344,piecewise
+FA-19,1,lower,trace,6,1531.6,1750.8,5.0,5.0,,a dash starts just left of the Dr 0.5 grid line (u about 1525),0.5000205,65.91532,0.0039787,0.08637,piecewise
+FA-19,1,lower,trace,7,1688.0,1866.1,5.0,5.0,,,0.600026,67.63608,0.0040511,0.08177,piecewise
+FA-19,1,lower,trace,8,1846.4,1983.9,5.0,5.0,,"the dash ends at the Dr 0.7 grid line (ink to its left edge, u 1843; none from u 1850)",0.6999867,69.45555,0.0036481,0.0901,piecewise
+FA-19,1,lower,trace,9,2001.7,2098.2,5.0,5.0,,,0.799974,71.31679,0.0038488,0.09487,piecewise
+FA-19,1,lower,trace,10,2158.6,2213.6,5.0,5.0,,,0.8999797,73.312,0.0036434,0.11403,piecewise
+FA-19,1,lower,trace,11,2317.6,2330.8,5.0,5.0,,"right end, Dr = 1.0 frame line",1.0000267,75.44934,0.004309,0.12548,piecewise extrapolated x
+FA-19,1,lower,feature,1,751.6,1170.0,5.0,5.0,,"first point (where the line's ink starts, at the Dr = 0 frame line)",-2.14e-05,58.44306,0.0042996,0.0667,piecewise extrapolated x
+FA-19,1,lower,feature,2,2317.6,2330.8,5.0,5.0,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)",1.0000267,75.44934,0.004309,0.12548,piecewise extrapolated x
+FA-19,1,lower,feature,3,604.0,1178.5,50.0,21.5,,label: 58.5,-0.0960136,58.51498,0.0358881,0.25832,piecewise extrapolated x
+FA-19,1,lower,feature,4,2451.5,2382.5,49.5,21.5,,label: 75.5,1.0850112,76.51636,0.0343449,0.44276,piecewise extrapolated x

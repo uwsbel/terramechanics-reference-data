@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-3B,2,n4695,marker,1,686.0,3330.0,5,5,plus,on the left frame line; bar merged with the frame; extra ink v 3306-3345 under the frame,0.5334,-107.2867,0.9912,1.9277,piecewise extrapolated x
+FC-3B,2,n4695,marker,2,806.0,3371.0,2,2,plus,,20.8427,-121.142,0.4678,0.8826,piecewise
+FC-3B,2,n4695,marker,3,923.0,3378.0,2,2,plus,,40.6372,-123.3404,0.4554,0.881,piecewise
+FC-3B,2,n4695,marker,4,1038.0,3388.0,2,2,plus,,60.2058,-126.5711,0.4499,0.8786,piecewise
+FC-3B,2,n4695,marker,5,1149.0,3391.0,3,3,plus,top of the bar touches the circle above,79.1969,-127.4078,0.6124,1.223,piecewise
+FC-3B,2,n4695,marker,6,1271.0,3400.0,5,5,plus,on the 100 gridline; bar coincides with the gridline,100.0718,-130.2833,0.9457,1.9108,piecewise
+FC-3B,2,n4695,marker,7,1388.0,3407.0,2,2,plus,,120.0365,-132.4814,0.4375,0.8743,piecewise
+FC-3B,2,n4695,marker,8,1503.0,3405.0,3,3,plus,top of the bar touches the circle above,139.6582,-131.5962,0.6151,1.2199,piecewise
+FC-3B,2,n4695,marker,9,1618.5,3406.0,2,2,plus,,159.4794,-131.739,0.4502,0.8748,piecewise
+FC-3B,2,n4695,marker,10,1739.5,3410.0,2,2,plus,,180.3767,-132.9012,0.4429,0.874,piecewise
+FC-3B,2,n4695,marker,11,1853.0,3407.0,5,5,plus,on the 200 gridline; bar coincides with the gridline,199.978,-131.6757,0.9548,1.9097,piecewise
+FC-3B,2,n4695,marker,12,1971.0,3408.0,2,2,plus,,220.2841,-131.8142,0.4597,0.8747,piecewise
+FC-3B,2,n4695,marker,13,2142.0,3405.0,5,5,plus,on the 250 gridline; bar coincides with the gridline,249.7098,-130.4891,1.0158,1.9105,piecewise extrapolated x
+FC-3B,2,n3815,marker,1,806.0,3338.0,2,2,circle,,20.8404,-109.8231,0.4679,0.8909,piecewise
+FC-3B,2,n3815,marker,2,925.0,3338.0,2,2,circle,,40.9769,-109.6172,0.4553,0.891,piecewise
+FC-3B,2,n3815,marker,3,1039.0,3354.0,2,2,circle,,60.3775,-114.9078,0.4497,0.8871,piecewise
+FC-3B,2,n3815,marker,4,1150.0,3364.0,2,2,circle,,79.3652,-118.1455,0.441,0.8848,piecewise
+FC-3B,2,n3815,marker,5,1268.0,3372.0,4,4,circle,on the 100 gridline,99.5523,-120.685,0.7746,1.5728,piecewise
+FC-3B,2,n3815,marker,6,1384.0,3376.0,2,2,circle,,119.3492,-121.8561,0.4373,0.882,piecewise
+FC-3B,2,n3815,marker,7,1499.0,3374.0,2,2,circle,,138.9732,-120.971,0.4442,0.8827,piecewise
+FC-3B,2,n3815,marker,8,1616.0,3368.0,2,2,circle,,159.0455,-118.7107,0.4503,0.8843,piecewise
+FC-3B,2,n3815,marker,9,1738.0,3368.0,2,2,circle,,180.1131,-118.4995,0.4429,0.8845,piecewise
+FC-3B,2,n3815,marker,10,1853.5,3369.0,4,4,circle,on the 200 gridline,200.0582,-118.6425,0.7815,1.5742,piecewise
+FC-3B,2,n3815,marker,11,1967.0,3365.0,2,2,circle,,219.5883,-117.0742,0.4588,0.8855,piecewise
+FC-3B,2,n3815,marker,12,2142.0,3366.0,5,5,circle,on the 250 gridline,249.702,-117.1142,1.0157,1.9202,piecewise extrapolated x
+FC-3B,2,n2934,marker,1,683.0,3228.0,4,4,triangle-down,on the left frame line,0.0079,-72.3057,0.824,1.6082,piecewise extrapolated x
+FC-3B,2,n2934,marker,2,805.5,3278.5,3,3,triangle-down,,20.7518,-89.4156,0.6375,1.2507,piecewise
+FC-3B,2,n2934,marker,3,916.0,3290.5,3,3,triangle-down,,39.4553,-93.3406,0.6257,1.2478,piecewise
+FC-3B,2,n2934,marker,4,1043.0,3300.5,3,3,triangle-down,,61.0623,-96.551,0.6203,1.2455,piecewise
+FC-3B,2,n2934,marker,5,1157.0,3306.5,3,3,triangle-down,,80.5562,-98.4118,0.6115,1.2441,piecewise
+FC-3B,2,n2934,marker,6,1269.0,3316.0,4,4,triangle-down,on the 100 gridline,99.7103,-101.4765,0.7742,1.5868,piecewise
+FC-3B,2,n2934,marker,7,1394.5,3319.5,3,3,triangle-down,,121.1325,-102.4599,0.6089,1.2411,piecewise
+FC-3B,2,n2934,marker,8,1503.0,3317.5,3,3,triangle-down,,139.6515,-101.5863,0.6154,1.2417,piecewise
+FC-3B,2,n2934,marker,9,1620.5,3324.5,3,3,triangle-down,,159.82,-103.7839,0.6227,1.2401,piecewise
+FC-3B,2,n2934,marker,10,1737.5,3318.5,3,3,triangle-down,,180.0215,-101.5238,0.6157,1.2418,piecewise
+FC-3B,2,n2934,marker,11,1850.5,3318.5,4,4,triangle-down,on the 200 gridline,199.5327,-101.3284,0.7818,1.5868,piecewise
+FC-3B,2,n2934,marker,12,1975.0,3312.0,3,3,triangle-down,,220.9558,-98.8839,0.6329,1.2437,piecewise
+FC-3B,2,n2934,marker,13,2141.0,3314.0,5,5,triangle-down,on the 250 gridline,249.5195,-99.2828,1.0148,1.9332,piecewise extrapolated x
+FC-3B,2,n1761,marker,1,681.0,3160.0,4,4,square,on the left frame line; top edge touches the triangle above,-0.3426,-48.985,0.8261,1.6252,piecewise extrapolated x
+FC-3B,2,n1761,marker,2,805.5,3190.5,2,2,square,,20.7458,-59.2319,0.4683,0.9277,piecewise
+FC-3B,2,n1761,marker,3,920.0,3208.5,2,2,square,,40.1349,-65.2083,0.4561,0.9234,piecewise
+FC-3B,2,n1761,marker,4,1035.0,3218.5,2,2,square,,59.6961,-68.4398,0.4496,0.921,piecewise
+FC-3B,2,n1761,marker,5,1150.0,3218.0,3,3,square,outline broken at top left,79.35,-68.0698,0.6117,1.2662,piecewise
+FC-3B,2,n1761,marker,6,1267.5,3212.5,4,4,square,on the 100 gridline,99.4298,-65.9807,0.7738,1.6127,piecewise
+FC-3B,2,n1761,marker,7,1380.0,3214.5,2,2,square,,118.6407,-66.4726,0.4373,0.9224,piecewise
+FC-3B,2,n1761,marker,8,1496.5,3212.0,2,2,square,,138.5335,-65.4142,0.4443,0.9232,piecewise
+FC-3B,2,n1761,marker,9,1609.5,3214.5,2,2,square,,157.9147,-66.0766,0.4505,0.9227,piecewise
+FC-3B,2,n1761,marker,10,1729.5,3215.0,2,2,square,,178.6295,-66.0411,0.4433,0.9227,piecewise
+FC-3B,2,n1761,marker,11,1841.5,3216.0,3,3,square,right side touches the 200 gridline,197.9634,-66.1909,0.6094,1.2675,piecewise
+FC-3B,2,n1761,marker,12,1962.0,3207.5,2,2,square,,218.701,-63.0679,0.4576,0.9248,piecewise
+FC-3B,2,n1761,marker,13,2129.0,3198.0,3,3,square,right side touches the 250 gridline,247.4317,-59.5219,0.6653,1.2723,piecewise
+FC-3B,2,n734,marker,1,683.0,3133.0,4,4,triangle-up,on the left frame line; base touches the square below,-0.0086,-39.7205,0.8245,1.6319,piecewise extrapolated x
+FC-3B,2,n734,marker,2,805.0,3154.0,3,3,triangle-up,,20.6586,-46.7133,0.638,1.2818,piecewise
+FC-3B,2,n734,marker,3,928.5,3163.0,3,3,triangle-up,,41.5759,-49.5875,0.6249,1.2797,piecewise
+FC-3B,2,n734,marker,4,1035.5,3167.5,3,3,triangle-up,,59.7826,-50.9465,0.6204,1.2787,piecewise
+FC-3B,2,n734,marker,5,1149.5,3162.5,3,3,triangle-up,,79.2588,-49.0351,0.6115,1.2801,piecewise
+FC-3B,2,n734,marker,6,1268.5,3163.5,4,4,triangle-up,on the 100 gridline,99.5894,-49.173,0.7735,1.6249,piecewise
+FC-3B,2,n734,marker,7,1391.5,3156.5,3,3,triangle-up,,120.5956,-46.5602,0.6091,1.2819,piecewise
+FC-3B,2,n734,marker,8,1503.5,3150.5,3,3,triangle-up,,139.7241,-44.3094,0.6158,1.2835,piecewise
+FC-3B,2,n734,marker,9,1625.5,3143.5,3,3,triangle-up,,160.6723,-41.6985,0.6222,1.2854,piecewise
+FC-3B,2,n734,marker,10,1740.5,3138.5,3,3,triangle-up,,180.5201,-39.7856,0.6153,1.2867,piecewise
+FC-3B,2,n734,marker,11,1850.0,3129.0,4,4,triangle-up,on the 200 gridline,199.4174,-36.339,0.7815,1.6342,piecewise
+FC-3B,2,n734,marker,12,1967.5,3115.0,3,3,triangle-up,,219.6314,-31.3353,0.6312,1.2929,piecewise
+FC-3B,2,n734,marker,13,2142.0,3104.0,5,5,triangle-up,on the 250 gridline; apex merged with it,249.6495,-27.2626,1.0152,1.9856,piecewise extrapolated x

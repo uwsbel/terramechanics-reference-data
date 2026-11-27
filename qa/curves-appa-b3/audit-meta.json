@@ -1,0 +1,233 @@
+{
+  "FA-19": {
+    "source": "1968-vol2",
+    "title": "Figure A-19: Density Versus Relative Density for RSM Soil (printed A-39, PDF 40)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for RSM-a soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-23": {
+    "source": "1968-vol2",
+    "title": "Figure A-23: Density Versus Relative Density for RC2 Soil (printed A-47, PDF 48)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for RC2 soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-27": {
+    "source": "1968-vol2",
+    "title": "Figure A-27: Density Versus Relative Density for SS Soil (printed A-54, PDF 55)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for SS soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-3": {
+    "source": "1968-vol2",
+    "title": "Figure A-3: Density Versus Relative Density for RS Soil (printed A-7, PDF 8)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for RS soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-39": {
+    "source": "1968-vol2",
+    "title": "Figure A-39: Density versus Relative Density for LSM Soil (printed A-77, PDF 78)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for LSM soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-47": {
+    "source": "1968-vol2",
+    "title": "Figure A-47: Density Versus Relative Density for RSM Soil (printed A-95, PDF 96)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for RSM-b soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  },
+  "FA-7": {
+    "source": "1968-vol2",
+    "title": "Figure A-7: Density Versus Relative Density for PS Soil (printed A-14, PDF 15)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (unit weight)",
+        "x_axis": "normalized",
+        "y_axis": "reciprocal",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Unit weight (pcf) against relative density Dr for PS soil. The unit-weight axis runs downward (the smallest unit weight at the top) and its horizontal grid lines crowd together toward the bottom; neither matters for the answers. Three straight lines (the curves) run from the left edge (Dr = 0) to the right edge (Dr = 1.0): a solid one in the middle and two dashed ones; upper and lower mean higher and lower on the page. A crosshair on a grid line but not on the named curve is a no, and so is one in a white gap between dashes. The numbers printed at the two ends of each line are labels, not points."
+  }
+}

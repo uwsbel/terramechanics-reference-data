@@ -1,0 +1,88 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,rough_u,rough_v,score
+FC-1C,2,n3520,marker,1,716,3326,2,2,x,,717,3325,219.0
+FC-1C,2,n3520,marker,2,825,3319,2,2,x,,832,3320,250.0
+FC-1C,2,n3520,marker,3,1047,3311,3,3,x,touches the symbol above it (square or circle at 1047 3293),1047,3315,257.0
+FC-1C,2,n3520,marker,4,1164,3294,3,3,x,touches the square above it,1165,3298,279.0
+FC-1C,2,n3520,marker,5,1282,3284,3,3,x,touches the square above it,1283,3290,263.0
+FC-1C,2,n3520,marker,6,1394,3276,3,3,x,on the 0 gridline,1395,3275,293.0
+FC-1C,2,n3520,marker,7,1514,3266,3,3,x,on the 150 gridline; touches the 0 gridline,1513,3263,267.0
+FC-1C,2,n3520,marker,8,1633,3266,3,3,x,touches the 0 gridline,1634,3264,217.0
+FC-1C,2,n3520,marker,9,1749,3247,2,2,x,,1750,3246,231.0
+FC-1C,2,n3520,marker,10,1873,3237,2,2,x,,1874,3237,239.0
+FC-1C,2,n3520,marker,11,1985,3230,2,2,x,,1986,3230,217.0
+FC-1C,2,n3520,marker,12,2099,3221,3,3,x,on the 250 gridline,2099,3222,235.0
+FC-1C,2,n2935,marker,1,651,3286,2,2,asterisk,,654,3292,210.0
+FC-1C,2,n2935,marker,2,743,3295,3,3,asterisk,between a circle above and a triangle-down below; touching both,744,3295,239.0
+FC-1C,2,n2935,marker,3,857,3287,3,3,asterisk,touches the square to its right,850,3291,349.0
+FC-1C,2,n2935,marker,4,929,3315,3,3,asterisk,cluster on the 50 gridline,934,3322,297.0
+FC-1C,2,n2935,marker,5,997,3297,3,3,asterisk,touches the triangle-down to its left,1004,3297,249.0
+FC-1C,2,n2935,marker,6,1100,3284,3,3,asterisk,between triangle-down above and plus below,1101,3290,275.0
+FC-1C,2,n2935,marker,7,1219,3262,4,4,asterisk,on the 100 gridline just above the 0 line; symbol uncertain (asterisk or plus),1219,3267,277.0
+FC-1C,2,n2935,marker,8,1334,3254,2,2,asterisk,,1335,3252,191.0
+FC-1C,2,n2935,marker,9,1462,3222,3,3,asterisk,touches the square to its lower left,1467,3227,266.0
+FC-1C,2,n2935,marker,10,1573,3221,3,3,asterisk,touches the square below it,1574,3216,253.0
+FC-1C,2,n2935,marker,11,1711,3215,3,3,asterisk,touches the square to its left,1711,3215,213.0
+FC-1C,2,n2935,marker,12,1821,3202,3,3,asterisk,touches the square to its left on the 200 gridline,1827,3197,195.0
+FC-1C,2,n2935,marker,13,1904,3174,3,3,asterisk,touches the square to its lower right,1904,3174,193.0
+FC-1C,2,n2935,marker,14,2074,3167,3,3,asterisk,touches the square to its right on the 250 gridline,2070,3163,245.0
+FC-1C,2,n2345,marker,1,694,3315,2,2,square,,694,3314,312.0
+FC-1C,2,n2345,marker,2,806,3315,2,2,square,,806,3316,340.0
+FC-1C,2,n2345,marker,3,872,3289,3,3,square,touches the asterisk to its left,872,3291,390.0
+FC-1C,2,n2345,marker,4,924,3301,3,3,square,cluster on the 50 gridline,924,3300,299.0
+FC-1C,2,n2345,marker,5,1047,3295,3,3,square,round-cornered outline; could be a circle; x marker touches it below,1047,3293,398.0
+FC-1C,2,n2345,marker,6,1165,3277,3,3,square,on the 0 gridline; x marker touches it below,1165,3277,345.0
+FC-1C,2,n2345,marker,7,1282,3267,3,3,square,on the 0 gridline; x marker touches it below,1283,3266,358.0
+FC-1C,2,n2345,marker,8,1457,3246,3,3,square,touches the asterisk and the plus,1457,3247,292.0
+FC-1C,2,n2345,marker,9,1573,3238,3,3,square,touches the asterisk above,1572,3237,302.0
+FC-1C,2,n2345,marker,10,1688,3214,3,3,square,touches the asterisk and the plus,1690,3214,244.0
+FC-1C,2,n2345,marker,11,1805,3203,3,3,square,on the 200 gridline,1805,3203,319.0
+FC-1C,2,n2345,marker,12,1924,3189,3,3,square,touches the plus below,1925,3190,308.0
+FC-1C,2,n2345,marker,13,2093,3175,3,3,square,on the 250 gridline,2094,3176,315.0
+FC-1C,2,n1760,marker,1,630,3366,3,3,plus,on the 0 (x) gridline,630,3367,251.0
+FC-1C,2,n1760,marker,2,747,3344,3,3,plus,touches the triangle-down above it,746,3344,165.0
+FC-1C,2,n1760,marker,3,923,3341,3,3,plus,on the 50 gridline,922,3342,233.0
+FC-1C,2,n1760,marker,4,987,3333,2,2,plus,,986,3332,251.0
+FC-1C,2,n1760,marker,5,1102,3318,3,3,plus,touches the asterisk above,1101,3316,219.0
+FC-1C,2,n1760,marker,6,1221,3307,4,4,plus,on the 100 gridline; symbol uncertain (plus or asterisk),1221,3306,189.0
+FC-1C,2,n1760,marker,7,1337,3280,3,3,plus,touches the 0 gridline,1336,3282,279.0
+FC-1C,2,n1760,marker,8,1454,3275,3,3,plus,on the 0 gridline,1454,3275,223.0
+FC-1C,2,n1760,marker,9,1572,3269,3,3,plus,touches the 0 gridline,1571,3264,315.0
+FC-1C,2,n1760,marker,10,1689,3236,3,3,plus,touches the square above,1690,3236,273.0
+FC-1C,2,n1760,marker,11,1806,3231,3,3,plus,on the 200 gridline,1806,3231,241.0
+FC-1C,2,n1760,marker,12,1925,3215,3,3,plus,touches the square above,1924,3215,227.0
+FC-1C,2,n1760,marker,13,2122,3180,3,3,plus,beyond the 250 gridline (x > 250),2122,3180,243.0
+FC-1C,2,n1172,marker,1,628,3325,4,4,triangle-down,on the 0 (x) gridline; cluster with the triangle-up above it,628,3325,-1.0
+FC-1C,2,n1172,marker,2,744,3319,3,3,triangle-down,touches the asterisk above and the plus below,744,3319,31.0
+FC-1C,2,n1172,marker,3,867,3314,3,3,triangle-down,touches the square above,869,3315,30.0
+FC-1C,2,n1172,marker,4,984,3288,3,3,triangle-down,base edge on the 0 gridline,983,3288,30.0
+FC-1C,2,n1172,marker,5,1100,3258,2,2,triangle-down,,1100,3256,27.0
+FC-1C,2,n1172,marker,6,1222,3245,3,3,triangle-down,on the 100 gridline,1221,3245,-1.0
+FC-1C,2,n1172,marker,7,1339,3224,2,2,triangle-down,,1340,3224,30.0
+FC-1C,2,n1172,marker,8,1456,3204,2,2,triangle-down,,1455,3204,31.0
+FC-1C,2,n1172,marker,9,1572,3182,2,2,triangle-down,,1572,3183,30.0
+FC-1C,2,n1172,marker,10,1691,3172,2,2,triangle-down,,1690,3174,27.0
+FC-1C,2,n1172,marker,11,1804,3153,3,3,triangle-down,on the 200 gridline,1805,3153,-1.0
+FC-1C,2,n1172,marker,12,1923,3138,2,2,triangle-down,,1923,3137,30.0
+FC-1C,2,n1172,marker,13,2090,3113,3,3,triangle-down,on the 250 gridline,2091,3113,-1.0
+FC-1C,2,n587,marker,1,627,3294,4,4,triangle-up,on the 0 (x) gridline; apex touches the 0 line; cluster,627,3294,-1.0
+FC-1C,2,n587,marker,2,692,3290,3,3,triangle-up,apex touches the 0 gridline,692,3290,31.0
+FC-1C,2,n587,marker,3,806,3262,3,3,triangle-up,base on the 0 gridline,807,3261,28.0
+FC-1C,2,n587,marker,4,923,3250,3,3,triangle-up,on the 50 gridline,922,3250,-1.0
+FC-1C,2,n587,marker,5,1041,3218,2,2,triangle-up,,1041,3218,29.0
+FC-1C,2,n587,marker,6,1160,3196,2,2,triangle-up,,1161,3194,28.0
+FC-1C,2,n587,marker,7,1277,3163,2,2,triangle-up,,1277,3164,27.0
+FC-1C,2,n587,marker,8,1454,3114,3,3,triangle-up,touches the circle above it,1455,3115,29.0
+FC-1C,2,n587,marker,9,1511,3100,3,3,triangle-up,on the 150 gridline,1512,3100,-1.0
+FC-1C,2,n587,marker,10,1628,3068,2,2,triangle-up,,1628,3068,29.0
+FC-1C,2,n587,marker,11,1742,3044,2,2,triangle-up,,1743,3043,29.0
+FC-1C,2,n587,marker,12,1862,3026,2,2,triangle-up,,1862,3026,29.0
+FC-1C,2,n587,marker,13,1981,3003,3,3,triangle-up,apex touches the +100 gridline,1982,3004,29.0
+FC-1C,2,n294,marker,1,741,3276,3,3,circle,on the 0 gridline,744,3272,209.0
+FC-1C,2,n294,marker,2,864,3250,2,2,circle,,864,3250,168.0
+FC-1C,2,n294,marker,3,980,3226,2,2,circle,,981,3226,176.0
+FC-1C,2,n294,marker,4,1099,3196,2,2,circle,,1099,3195,168.0
+FC-1C,2,n294,marker,5,1219,3166,3,3,circle,on the 100 gridline,1220,3166,319.0
+FC-1C,2,n294,marker,6,1336,3129,2,2,circle,,1337,3130,180.0
+FC-1C,2,n294,marker,7,1461,3094,3,3,circle,touches the triangle-up below it,1462,3093,162.0
+FC-1C,2,n294,marker,8,1570,3068,2,2,circle,,1570,3068,196.0
+FC-1C,2,n294,marker,9,1689,3047,2,2,circle,,1688,3047,184.0

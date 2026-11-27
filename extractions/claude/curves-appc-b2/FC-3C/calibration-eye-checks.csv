@@ -1,0 +1,14 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,diff_px,where_checked,note
+FC-3C,1,x,50,1112.4,1111.0,-1.4,v=2748 (just above the x axis),line 1109..1113 on eyechecks/p1_x50.png (zoom 6)
+FC-3C,1,x,150,1694.7,1697.7,3.0,v=2744,line 1695..1700; largest x residual of the fit (0.5 thou; 0.2 percent of span)
+FC-3C,1,x,250,2277.0,2275.0,-2.0,v=2740,line 2272..2278
+FC-3C,1,y,1000,2545.7,2547.5,1.8,u=877 (left of the first markers),band 2545.7..2549.3; the n734 first triangle sits on this line
+FC-3C,1,y,3000,1962.0,1961.8,-0.2,u=871,band 1959.5..1964
+FC-3C,1,y,5000,1378.3,1378.8,0.5,u=864,band 1376.3..1381.3
+FC-3C,1,y,6000 (frame),1079.1,1087.0,7.9,u=1909 (the frame is hidden under the legend inset for u<1760),"the 6000 line is the plot frame, not in the fit (fit uses the 0 to 5000 gridlines; see notes.md); 7.9 px = 27 psf = 0.45 percent of the 6000 span; no data lie above 5600 psf"
+FC-3C,2,x,50,1122.3,1121.2,-1.1,v=3536,line 1118.7..1123.7
+FC-3C,2,x,150,1704.2,1707.0,2.8,v=3532,line 1704.5..1709.8
+FC-3C,2,x,250,2286.1,2285.0,-1.1,v=3528,line 2281.8..2288.5
+FC-3C,2,y,+100 (frame),2983.4,2983.0,-0.4,u=883,band 2978.8..2987.2
+FC-3C,2,y,0,3274.9,3275.4,0.5,u=886,band 3272.5..3278.3
+FC-3C,2,y,-100 (frame),3566.4,3565.5,-0.9,u=890,band 3561..3570

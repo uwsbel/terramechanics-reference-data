@@ -1,0 +1,10 @@
+{
+  "agent": "claude",
+  "batch": "experiments-vol2c-b1",
+  "date": "2026-10-13",
+  "model": "claude-opus-5-5 (one subagent, launched from a Claude Code session)",
+  "prompt": "prompt.md (the same prompt Codex ran), plus: the output file path outside the repository; do not open extractions/, qa/ or the Codex run folder",
+  "evidence": "page images corpus/1968-vol2/images/p0115 to p0159, page transcriptions, figures index, Vol. I experiment index for relations",
+  "blindness": "written outside the repository until both inventories had finished",
+  "run": {"elapsed_sec": 1175.7, "subagent_tokens": 441875, "tool_uses": 113}
+}

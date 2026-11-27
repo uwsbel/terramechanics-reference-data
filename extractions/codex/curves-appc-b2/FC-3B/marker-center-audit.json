@@ -1,0 +1,1832 @@
+[
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 1,
+    "seed": [
+      744,
+      2217
+    ],
+    "center": [
+      744,
+      2217
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 2,
+    "seed": [
+      865,
+      2052
+    ],
+    "center": [
+      865,
+      2052
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 3,
+    "seed": [
+      964,
+      1955
+    ],
+    "center": [
+      964,
+      1955
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 4,
+    "seed": [
+      1092,
+      1874
+    ],
+    "center": [
+      1092,
+      1874
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 5,
+    "seed": [
+      1205,
+      1817
+    ],
+    "center": [
+      1205,
+      1817
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 6,
+    "seed": [
+      1314,
+      1773
+    ],
+    "center": [
+      1314,
+      1773
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 7,
+    "seed": [
+      1435,
+      1736
+    ],
+    "center": [
+      1435,
+      1736
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 8,
+    "seed": [
+      1562,
+      1708
+    ],
+    "center": [
+      1562,
+      1708
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 9,
+    "seed": [
+      1669,
+      1690
+    ],
+    "center": [
+      1665,
+      1691
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 10,
+    "seed": [
+      1790,
+      1673
+    ],
+    "center": [
+      1790,
+      1672
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 11,
+    "seed": [
+      1985,
+      1625
+    ],
+    "center": [
+      1986,
+      1625
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n4695",
+    "sequence": 12,
+    "seed": [
+      2130,
+      1617
+    ],
+    "center": [
+      2130,
+      1617
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 1,
+    "seed": [
+      741,
+      2336
+    ],
+    "center": [
+      740.5,
+      2336.5
+    ],
+    "method": "hollow-interior",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 2,
+    "seed": [
+      862,
+      2196
+    ],
+    "center": [
+      860.5,
+      2197.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 3,
+    "seed": [
+      966,
+      2116
+    ],
+    "center": [
+      966,
+      2116
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 4,
+    "seed": [
+      1093,
+      2043
+    ],
+    "center": [
+      1089.5,
+      2042.5
+    ],
+    "method": "hollow-interior",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 5,
+    "seed": [
+      1203,
+      1992
+    ],
+    "center": [
+      1202.0,
+      1991.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 6,
+    "seed": [
+      1320,
+      1954
+    ],
+    "center": [
+      1320,
+      1954
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 7,
+    "seed": [
+      1436,
+      1924
+    ],
+    "center": [
+      1439.5,
+      1921.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 8,
+    "seed": [
+      1552,
+      1901
+    ],
+    "center": [
+      1552,
+      1901
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 9,
+    "seed": [
+      1669,
+      1885
+    ],
+    "center": [
+      1669,
+      1885
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 10,
+    "seed": [
+      1789,
+      1865
+    ],
+    "center": [
+      1789,
+      1865
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 11,
+    "seed": [
+      1963,
+      1865
+    ],
+    "center": [
+      1963,
+      1865
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 1,
+    "series": "n3815",
+    "sequence": 12,
+    "seed": [
+      2134,
+      1866
+    ],
+    "center": [
+      2134,
+      1866
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 1,
+    "seed": [
+      741,
+      2453
+    ],
+    "center": [
+      741,
+      2453
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 2,
+    "seed": [
+      866,
+      2284
+    ],
+    "center": [
+      865.5,
+      2286.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 3,
+    "seed": [
+      978,
+      2198
+    ],
+    "center": [
+      978,
+      2198
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 4,
+    "seed": [
+      1094,
+      2128
+    ],
+    "center": [
+      1091.5,
+      2131.0
+    ],
+    "method": "hollow-interior",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 5,
+    "seed": [
+      1201,
+      2087
+    ],
+    "center": [
+      1199.5,
+      2090.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 6,
+    "seed": [
+      1325,
+      2047
+    ],
+    "center": [
+      1325.5,
+      2048.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 7,
+    "seed": [
+      1438,
+      2009
+    ],
+    "center": [
+      1440.0,
+      2009.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 8,
+    "seed": [
+      1550,
+      1983
+    ],
+    "center": [
+      1551.5,
+      1986.0
+    ],
+    "method": "hollow-interior",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 9,
+    "seed": [
+      1670,
+      1956
+    ],
+    "center": [
+      1666.5,
+      1960.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 10,
+    "seed": [
+      1790,
+      1945
+    ],
+    "center": [
+      1791.0,
+      1946.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n2934",
+    "sequence": 11,
+    "seed": [
+      1962,
+      1948
+    ],
+    "center": [
+      1961.5,
+      1950.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 1,
+    "seed": [
+      744,
+      2514
+    ],
+    "center": [
+      742.5,
+      2513.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 2,
+    "seed": [
+      862,
+      2451
+    ],
+    "center": [
+      862,
+      2451
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 3,
+    "seed": [
+      974,
+      2409
+    ],
+    "center": [
+      974,
+      2409
+    ],
+    "method": "manual-wide",
+    "bound": 6
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 4,
+    "seed": [
+      1090,
+      2372
+    ],
+    "center": [
+      1088.0,
+      2371.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 5,
+    "seed": [
+      1208,
+      2341
+    ],
+    "center": [
+      1208.0,
+      2341.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 6,
+    "seed": [
+      1318,
+      2318
+    ],
+    "center": [
+      1317.5,
+      2317.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 7,
+    "seed": [
+      1440,
+      2292
+    ],
+    "center": [
+      1442.5,
+      2292.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 8,
+    "seed": [
+      1552,
+      2275
+    ],
+    "center": [
+      1552,
+      2275
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 9,
+    "seed": [
+      1674,
+      2246
+    ],
+    "center": [
+      1675.0,
+      2245.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 10,
+    "seed": [
+      1793,
+      2225
+    ],
+    "center": [
+      1791.5,
+      2224.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 11,
+    "seed": [
+      1958,
+      2205
+    ],
+    "center": [
+      1958.5,
+      2203.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n1761",
+    "sequence": 12,
+    "seed": [
+      2133,
+      2198
+    ],
+    "center": [
+      2133,
+      2198
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 1,
+    "seed": [
+      741,
+      2628
+    ],
+    "center": [
+      741.5,
+      2626.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 2,
+    "seed": [
+      855,
+      2587
+    ],
+    "center": [
+      854.5,
+      2584.0
+    ],
+    "method": "hollow-interior",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 3,
+    "seed": [
+      995,
+      2551
+    ],
+    "center": [
+      994.5,
+      2552.5
+    ],
+    "method": "hollow-interior",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 4,
+    "seed": [
+      1094,
+      2539
+    ],
+    "center": [
+      1092.5,
+      2536.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 5,
+    "seed": [
+      1209,
+      2517
+    ],
+    "center": [
+      1208.5,
+      2517.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 6,
+    "seed": [
+      1331,
+      2489
+    ],
+    "center": [
+      1330.5,
+      2487.0
+    ],
+    "method": "hollow-interior",
+    "bound": 5
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 7,
+    "seed": [
+      1443,
+      2494
+    ],
+    "center": [
+      1443.5,
+      2491.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 8,
+    "seed": [
+      1673,
+      2499
+    ],
+    "center": [
+      1670.5,
+      2497.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 9,
+    "seed": [
+      1783,
+      2497
+    ],
+    "center": [
+      1782.5,
+      2494.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 10,
+    "seed": [
+      1964,
+      2498
+    ],
+    "center": [
+      1963.5,
+      2495.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 1,
+    "series": "n734",
+    "sequence": 11,
+    "seed": [
+      2140,
+      2506
+    ],
+    "center": [
+      2140,
+      2506
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 1,
+    "seed": [
+      684,
+      3330
+    ],
+    "center": [
+      684,
+      3330
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 2,
+    "seed": [
+      805,
+      3373
+    ],
+    "center": [
+      805,
+      3373
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 3,
+    "seed": [
+      923,
+      3378
+    ],
+    "center": [
+      923,
+      3378
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 4,
+    "seed": [
+      1040,
+      3388
+    ],
+    "center": [
+      1040,
+      3388
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 5,
+    "seed": [
+      1148,
+      3397
+    ],
+    "center": [
+      1148,
+      3396
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 6,
+    "seed": [
+      1275,
+      3399
+    ],
+    "center": [
+      1275,
+      3399
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 7,
+    "seed": [
+      1385,
+      3409
+    ],
+    "center": [
+      1385,
+      3409
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 8,
+    "seed": [
+      1502,
+      3405
+    ],
+    "center": [
+      1502,
+      3405
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 9,
+    "seed": [
+      1620,
+      3407
+    ],
+    "center": [
+      1620,
+      3407
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 10,
+    "seed": [
+      1739,
+      3411
+    ],
+    "center": [
+      1739,
+      3411
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 11,
+    "seed": [
+      1851,
+      3410
+    ],
+    "center": [
+      1851,
+      3410
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 12,
+    "seed": [
+      1970,
+      3408
+    ],
+    "center": [
+      1970,
+      3408
+    ],
+    "method": "orthogonal-bars",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n4695",
+    "sequence": 13,
+    "seed": [
+      2143,
+      3407
+    ],
+    "center": [
+      2143,
+      3407
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 1,
+    "seed": [
+      805,
+      3337
+    ],
+    "center": [
+      806.5,
+      3337.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 2,
+    "seed": [
+      925,
+      3338
+    ],
+    "center": [
+      925.0,
+      3337.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 3,
+    "seed": [
+      1038,
+      3355
+    ],
+    "center": [
+      1038.5,
+      3354.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 4,
+    "seed": [
+      1149,
+      3362
+    ],
+    "center": [
+      1150.0,
+      3364.0
+    ],
+    "method": "hollow-interior",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 5,
+    "seed": [
+      1267,
+      3374
+    ],
+    "center": [
+      1267,
+      3374
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 6,
+    "seed": [
+      1385,
+      3376
+    ],
+    "center": [
+      1384.0,
+      3375.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 7,
+    "seed": [
+      1500,
+      3375
+    ],
+    "center": [
+      1499.0,
+      3374.0
+    ],
+    "method": "hollow-interior",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 8,
+    "seed": [
+      1617,
+      3369
+    ],
+    "center": [
+      1616.5,
+      3367.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 9,
+    "seed": [
+      1734,
+      3368
+    ],
+    "center": [
+      1737.5,
+      3367.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 10,
+    "seed": [
+      1854,
+      3369
+    ],
+    "center": [
+      1854,
+      3369
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 11,
+    "seed": [
+      1963,
+      3365
+    ],
+    "center": [
+      1966.5,
+      3364.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n3815",
+    "sequence": 12,
+    "seed": [
+      2143,
+      3365
+    ],
+    "center": [
+      2143,
+      3365
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 1,
+    "seed": [
+      684,
+      3230
+    ],
+    "center": [
+      684,
+      3230
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 2,
+    "seed": [
+      805,
+      3279
+    ],
+    "center": [
+      805.5,
+      3278.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 3,
+    "seed": [
+      915,
+      3290
+    ],
+    "center": [
+      916.5,
+      3290.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 4,
+    "seed": [
+      1043,
+      3301
+    ],
+    "center": [
+      1043.5,
+      3300.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 5,
+    "seed": [
+      1158,
+      3308
+    ],
+    "center": [
+      1156.5,
+      3306.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 6,
+    "seed": [
+      1269,
+      3315
+    ],
+    "center": [
+      1269,
+      3315
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 7,
+    "seed": [
+      1396,
+      3319
+    ],
+    "center": [
+      1394.5,
+      3319.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 8,
+    "seed": [
+      1503,
+      3316
+    ],
+    "center": [
+      1502.5,
+      3318.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 9,
+    "seed": [
+      1621,
+      3325
+    ],
+    "center": [
+      1620.5,
+      3324.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 10,
+    "seed": [
+      1736,
+      3318
+    ],
+    "center": [
+      1737.0,
+      3318.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 11,
+    "seed": [
+      1851,
+      3319
+    ],
+    "center": [
+      1851,
+      3319
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 12,
+    "seed": [
+      1971,
+      3314
+    ],
+    "center": [
+      1975.0,
+      3312.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n2934",
+    "sequence": 13,
+    "seed": [
+      2143,
+      3317
+    ],
+    "center": [
+      2143,
+      3317
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 1,
+    "seed": [
+      684,
+      3159
+    ],
+    "center": [
+      684,
+      3159
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 2,
+    "seed": [
+      805,
+      3191
+    ],
+    "center": [
+      805.0,
+      3191.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 3,
+    "seed": [
+      920,
+      3209
+    ],
+    "center": [
+      919.5,
+      3208.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 4,
+    "seed": [
+      1034,
+      3218
+    ],
+    "center": [
+      1034.5,
+      3218.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 5,
+    "seed": [
+      1149,
+      3216
+    ],
+    "center": [
+      1149,
+      3216
+    ],
+    "method": "manual-wide",
+    "bound": 5
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 6,
+    "seed": [
+      1266,
+      3211
+    ],
+    "center": [
+      1266,
+      3211
+    ],
+    "method": "manual-wide",
+    "bound": 7
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 7,
+    "seed": [
+      1381,
+      3215
+    ],
+    "center": [
+      1380.5,
+      3213.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 8,
+    "seed": [
+      1493,
+      3214
+    ],
+    "center": [
+      1496.5,
+      3212.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 9,
+    "seed": [
+      1610,
+      3214
+    ],
+    "center": [
+      1609.5,
+      3214.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 10,
+    "seed": [
+      1726,
+      3216
+    ],
+    "center": [
+      1729.5,
+      3215.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 11,
+    "seed": [
+      1842,
+      3216
+    ],
+    "center": [
+      1842,
+      3216
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 12,
+    "seed": [
+      1959,
+      3208
+    ],
+    "center": [
+      1963.0,
+      3208.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n1761",
+    "sequence": 13,
+    "seed": [
+      2121,
+      3200
+    ],
+    "center": [
+      2129.0,
+      3198.0
+    ],
+    "method": "hollow-interior",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 1,
+    "seed": [
+      684,
+      3137
+    ],
+    "center": [
+      684,
+      3137
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 2,
+    "seed": [
+      805,
+      3158
+    ],
+    "center": [
+      805.0,
+      3155.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 3,
+    "seed": [
+      928,
+      3170
+    ],
+    "center": [
+      929.0,
+      3164.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 4,
+    "seed": [
+      1035,
+      3176
+    ],
+    "center": [
+      1035.5,
+      3169.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 5,
+    "seed": [
+      1148,
+      3170
+    ],
+    "center": [
+      1149.5,
+      3162.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 6,
+    "seed": [
+      1269,
+      3164
+    ],
+    "center": [
+      1269,
+      3164
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 7,
+    "seed": [
+      1392,
+      3159
+    ],
+    "center": [
+      1391.5,
+      3157.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 8,
+    "seed": [
+      1504,
+      3154
+    ],
+    "center": [
+      1503.5,
+      3151.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 9,
+    "seed": [
+      1626,
+      3144
+    ],
+    "center": [
+      1626.0,
+      3143.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 10,
+    "seed": [
+      1740,
+      3141
+    ],
+    "center": [
+      1742.0,
+      3139.5
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 11,
+    "seed": [
+      1852,
+      3129
+    ],
+    "center": [
+      1852,
+      3129
+    ],
+    "method": "manual-wide",
+    "bound": 8
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 12,
+    "seed": [
+      1963,
+      3114
+    ],
+    "center": [
+      1966.5,
+      3116.0
+    ],
+    "method": "ink-bounding-box",
+    "bound": 2
+  },
+  {
+    "panel": 2,
+    "series": "n734",
+    "sequence": 13,
+    "seed": [
+      2143,
+      3101
+    ],
+    "center": [
+      2143,
+      3101
+    ],
+    "method": "manual-wide",
+    "bound": 10
+  }
+]

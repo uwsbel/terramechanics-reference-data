@@ -1,0 +1,18 @@
+axis,printed_label,label_centre_px,line_value,line_position_px,offset_label_minus_line_px,frame_line,result,note
+y,100,u 755 at v 1080 (top); u 768 at v 3810 (bottom),100,u 757.1 at v 1180; u 768.4 at v 3760,-2 / 0,yes (left frame),ok,the left frame is the labelled 100 line (labels at top and bottom); the frame is tilted (u 757 at the top to 768 at the bottom) like every percent line
+y,90,u 900 at v 1080,90,u 903.9 at v 1180,-4,no,ok,line hidden under the parameter table below v 2238; anchored on its drawn stretch only
+y,50,u 1485 at v 1080,50,u 1484.5 at v 1180,0,no,ok,
+y,0,u 2212 at v 1080 (top); u 2222 at v 3810 (bottom),0,u 2215.7 at v 1180; u 2226.3 at v 3760,-4 / -4,yes (right frame),ok,the right frame is the labelled 0 line
+x,0.02,v 3766 at u 2280 (span 3718 to 3813),0.02,v 3762.5 at u 2215,+3,yes (bottom frame),ok,the bottom frame is the labelled 0.02 mm line
+x,0.05,v 3380 at u 2290 (span 3332 to 3428),0.05,v 3374.9 at u 2215,+5,no,ok,
+x,0.1,v 3085 at u 2280 (decimal point 3082),0.1,v 3082.4 at u 2215,+3,no,ok,line hidden under the parameter table left of u 1367; anchored on its drawn stretch only
+x,0.2,v 2788 at u 2265 (decimal point 2790),0.2,v 2790.3 at u 2215,-2,no,ok,
+x,0.5,v 2408 at u 2270 (decimal point 2403),0.5,v 2407.0 at u 2215,+1,no,ok,line hidden under the parameter table left of u 1367; anchored on its drawn stretch only
+x,1.0,v 2114 at u 2270 (decimal point 2113),1.0,v 2115.4 at u 2215,-1,no,ok,
+x,1.5,v 1940 (decimal point) at u 2290,1.5,v 1944.4 at u 2215,-4,no,ok,
+x,2.0,v 1828 at u 2270 (decimal point 1823),2.0,v 1822.7 at u 2215,+5,no,ok,
+x,3.0,v 1657 at u 2270 (decimal point 1652),3.0,v 1651.3 at u 2215,+6,no,ok,
+x,4.0,v 1531 at u 2270 (decimal point 1523),4.0,v 1528.1 at u 2215,+3,no,ok,
+x,5.0,v 1429 at u 2275 (decimal point 1428),5.0,v 1431.6 at u 2215,-3,no,ok,
+x,9.0,v 1177.5 at u 2265 (span 1142 to 1213; decimal point 1175),9.0,v 1180.6 at u 2215,-3,no,ok,read as 9.0 (not 9.5): the top glyph is a 0 and the spacing from 5.0 (251 px) matches log(9/5); the dashed 3/8 in. sieve line (9.5 mm) at v 1162.5 and the top frame at v 1137 are 15 and 41 px from the label centre
+x,(none),no label,(10 by spacing),top frame v 1137,,yes (top frame),not anchored,the top frame carries no printed value; by log spacing it is 10 mm (45 px above 9.0) but it is left out of the map (rule 5); points between v 1137 and 1181 are extrapolated beyond the 9.0 line

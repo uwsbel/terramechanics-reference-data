@@ -1,0 +1,62 @@
+series_id,seq,u,v,ub,vb,symbol,note
+n4695,1,700,1828.5,2,3,plus,horizontal arm hidden in the 2000 gridline; v from the center of the vertical arm
+n4695,2,766,1664,2,2,plus,
+n4695,3,881.5,1465.5,2,2,plus,
+n4695,4,1102,1313.5,2,2,plus,
+n4695,5,1223.5,1281.5,3,2,plus,right arm touches the 100 vertical gridline
+n4695,6,1382.5,1249.5,2,2,plus,
+n4695,7,1504,1243,2,3,plus,just below the 4000 gridline; drawn line runs into it
+n4695,8,1629.5,1233.5,2,3,plus,horizontal arm merged with the 4000 gridline and the drawn line; v from the center of the vertical arm
+n4695,9,1742.5,1226,2,2,plus,horizontal arm merges with the drawn line on both sides
+n4695,10,1918,1219,2,3,plus,v from the horizontal arm; the vertical arm runs into the 4000 gridline below (its extent center is 1222.5)
+n4695,11,2091.5,1219.5,2,2,plus,right arm touches the 250 vertical gridline
+n3815,1,707,2010.5,2,2,triangle-down,center = bounding-box center of the symbol
+n3815,2,769.5,1875,2,2,triangle-down,
+n3815,3,876,1727.5,3,3,triangle-down,symbol distorted (right side broken; specks above the top edge); a stray dash touches its lower right
+n3815,4,993,1634,2,2,triangle-down,
+n3815,5,1110,1571,2,2,triangle-down,
+n3815,6,1230.5,1540.5,3,3,triangle-down,on the 100 vertical gridline; top edge on the 3000 gridline
+n3815,7,1336.5,1534,2,2,triangle-down,the 3000 gridline and the drawn line cross the symbol
+n3815,8,1509,1525,2,2,triangle-down,right corner touches the 150 gridline; the 3000 gridline crosses the symbol
+n3815,9,1626,1525,2,3,triangle-down,apex touches the top edge of the 2934 square directly below; bottom extent uncertain
+n3815,10,1746.5,1525,2,3,triangle-down,apex hidden in the gridline band and the top edge of the 2934 square below; v from top edge plus symbol height
+n3815,11,1920.5,1519,2,3,triangle-down,apex inside the 3000 gridline and drawn-line band; 2934 square touches below
+n3815,12,2098.5,1517.5,3,3,triangle-down,on the 250 vertical gridline; drawn line enters from the left
+n2934,1,707.5,2089.5,2,2,square,
+n2934,2,764.5,1976,2,2,square,a stray short dash to the right of the symbol is not part of any curve
+n2934,3,883,1857.5,2,2,square,a stray short dash to the right of the symbol is not part of any curve
+n2934,4,992,1743,2,2,square,
+n2934,5,1110.5,1681,2,2,square,
+n2934,6,1224.5,1632,3,2,square,right edge on the 100 vertical gridline
+n2934,7,1337,1597.5,2,2,square,
+n2934,8,1509,1570,3,2,square,right edge touches the 150 vertical gridline
+n2934,9,1629,1554,2,2,square,top edge touches the apex of the 3815 triangle above
+n2934,10,1743,1548,2,2,square,top edge merged with the apex of the 3815 triangle above
+n2934,11,1919.5,1540,2,3,square,top edge merged into the 3815 line and 3000 gridline band; v from the bottom edge and the symbol size
+n2934,12,2104,1563,3,6,square,on the 250 vertical gridline; read as a square (top edge 1547; bottom bar 1574-1579) with the drawn line passing through at v about 1564 and poking out of the right edge (plus-like look; not a 4695 marker); if the bar at 1574-1579 is a separate stroke the square spans 1547-1567 and its center is v about 1557
+n1961,1,708,2173.5,2,2,triangle-up,center = bounding-box center of the symbol
+n1961,2,770.5,2097.5,2,2,triangle-up,
+n1961,3,883.5,2035.5,2,2,triangle-up,
+n1961,4,1001,2020,2,2,triangle-up,
+n1961,5,1115.5,2017.5,2,2,triangle-up,
+n1961,6,1225,2013.5,3,3,triangle-up,right corner on the 100 vertical gridline; base merged with the drawn line
+n1961,7,1347,2016.5,2,2,triangle-up,
+n1961,8,1516.5,2012.5,3,2,triangle-up,right corner on the 150 vertical gridline; base merged with the drawn line
+n1961,9,1637,2000,2,2,triangle-up,
+n1961,10,1752,1997,2,2,triangle-up,
+n1961,11,1928,2012,2,2,triangle-up,
+n1961,12,2114,2015.5,3,3,triangle-up,on the 250 vertical gridline (apex merged with it)
+n714,1,713.5,2244.5,2,2,circle,
+n714,2,772,2203,2,2,circle,
+n714,3,882.5,2192.5,2,2,circle,
+n714,4,999.5,2197.5,2,2,circle,
+n714,5,1119.5,2195,2,2,circle,
+n714,6,1227.5,2197.5,2,2,circle,
+n714,7,1349,2197.5,2,2,circle,
+n714,8,1463.5,2197.5,2,2,circle,
+n714,9,1579.5,2197.5,2,2,circle,
+n714,10,1695,2196.5,2,2,circle,
+n714,11,1817,2194.5,3,2,circle,right edge on the 200 vertical gridline
+n714,12,1927,2195,2,2,circle,
+n714,13,2047,2195,2,2,circle,
+n714,14,2115.5,2197.5,2,2,circle,on the 250 vertical gridline

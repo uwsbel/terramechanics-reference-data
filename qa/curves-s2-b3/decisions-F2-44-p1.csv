@@ -1,0 +1,9 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,lpt24,trace,24,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 039 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt64a,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 040 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt64a,trace,32,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 041 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt69,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 042 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt69,trace,36,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 043 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt73,feature,20,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 044 (Claude's adjudicator: no; Codex's: no): On an lpt73 dash, but the line runs straight there on a 4x crop; the steep-to-shallower change is a gradual curve (dash direction 64 to 42 degrees from v 2290 t"
+1,lpt73,trace,24,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 046 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt74,feature,18,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 047 (Claude's adjudicator: no; Codex's: no): The mark sits at the trough corner of the solid line where it turns into the rising bundle; the lpt74 dots pass about 7 px lower right ((1213,2601), (1226,2590)"

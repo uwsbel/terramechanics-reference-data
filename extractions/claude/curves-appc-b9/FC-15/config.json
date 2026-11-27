@@ -1,0 +1,174 @@
+{
+ "image": "packet/p0151.png",
+ "cal_dir": "out/FC-15/cal-p1",
+ "tools_dir": "tools",
+ "figure_id": "FC-15",
+ "series_id": "lsm-dense",
+ "out": "out/FC-15",
+ "line_p1": [
+  700,
+  3659
+ ],
+ "line_p2": [
+  2050,
+  2469
+ ],
+ "triangles": [
+  [
+   718,
+   3572,
+   763,
+   3613
+  ],
+  [
+   886,
+   3457,
+   929,
+   3497
+  ],
+  [
+   1184,
+   3281,
+   1227,
+   3322
+  ],
+  [
+   1352,
+   2909,
+   1396,
+   2952
+  ],
+  [
+   1518,
+   2792,
+   1556,
+   2835
+  ],
+  [
+   1778,
+   2776,
+   1823,
+   2818
+  ],
+  [
+   1946,
+   2389,
+   1989,
+   2430
+  ],
+  [
+   2032,
+   2497,
+   2078,
+   2533
+  ]
+ ],
+ "line_mask": [
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  [
+   2015,
+   2045
+  ]
+ ],
+ "tri_opts": [
+  {
+   "base_cols": [
+    727,
+    742
+   ],
+   "rows_r": [
+    [
+     3578,
+     3594
+    ]
+   ]
+  },
+  {},
+  {},
+  {},
+  {
+   "base_v": 2827.3,
+   "stroke": 7.5,
+   "rows_r": [
+    [
+     2800,
+     2816
+    ]
+   ]
+  },
+  {},
+  {},
+  {}
+ ],
+ "tri_bounds": [
+  [
+   2.5,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   3,
+   7
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ]
+ ],
+ "tri_notes": [
+  "the drawn line crosses its lower right corner; right side read on the rows clear of the line, base on its central columns",
+  "sits in a gap of the drawn line",
+  "clear of the line",
+  "clear of the line",
+  "base coincides with the y = 3000 grid line and the right base corner touches the x = 3000 grid line; base centre fixed at v 2827.3, the middle of the merged band (2822 to 2832.75), between hole bottom plus half a stroke (2825.8) and band bottom minus half a stroke (2829); right side read on rows clear of the vertical grid line",
+  "clear of the line",
+  "clear of the line",
+  "clear of the line (the line passes above its upper left and ends above it); a speck inside the hole touches the base"
+ ],
+ "left_end": {
+  "u": 688.0,
+  "side": "right",
+  "bu": 4.5,
+  "bv": 9.0,
+  "note": "the line runs into the left frame (x = 0 line); its ink is hidden under the frame (no ink left of it), placed at the frame's centre line, bound covering the frame's width"
+ },
+ "right_end": {
+  "u": 2067.5,
+  "side": "left",
+  "bu": 3,
+  "bv": 8.0,
+  "note": "the line ends with a squared end above and right of triangle 8 (last ink column u 2071 at the end's lower corner); centre line end"
+ },
+ "intercept": {
+  "u": 688.0,
+  "side": "right",
+  "bu": 1,
+  "bv": 5.2,
+  "note": "the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line"
+ }
+}

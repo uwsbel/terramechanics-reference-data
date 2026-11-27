@@ -1,0 +1,109 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-54,3,r5465,trace,1,2352.5,3016.54,5.62,6.62,,first visible timed point | on timing line,-19.99584,-0.09241,0.45918,0.5436,piecewise extrapolated x y
+F2-54,3,r5465,feature,2,2352.5,3016.54,5.62,6.62,,first | trace at first timing line right of break marks | on timing line,-19.99584,-0.09241,0.45918,0.5436,piecewise extrapolated x y
+F2-54,3,r5465,trace,3,2352.0,2985.05,4.62,4.62,,,-18.00021,-0.08358,0.32955,0.45405,piecewise extrapolated y
+F2-54,3,r5465,trace,4,2351.81,2953.48,4.5,4.5,,,-15.9997,-0.10067,0.32257,0.44423,piecewise extrapolated y
+F2-54,3,r5465,trace,5,2351.0,2921.93,3.62,3.62,,,-14.00008,-0.06607,0.26694,0.36521,piecewise extrapolated y
+F2-54,3,r5465,trace,6,2350.0,2890.38,4.62,4.62,,,-12.00031,-0.01562,0.33166,0.4511,piecewise extrapolated y
+F2-54,3,r5465,trace,7,2349.73,2858.82,5.88,6.88,,on timing line,-10.00037,-0.02604,0.49465,0.56362,piecewise extrapolated y
+F2-54,3,r5465,trace,8,2349.5,2828.38,4.12,4.12,,,-7.99985,-0.03862,0.31466,0.40806,piecewise extrapolated y
+F2-54,3,r5465,trace,9,2349.5,2797.95,4.12,4.12,,,-6.00012,-0.07037,0.31751,0.40944,piecewise extrapolated y
+F2-54,3,r5465,trace,10,2349.0,2767.52,4.62,4.62,,,-4.00005,-0.06043,0.3536,0.45305,piecewise extrapolated y
+F2-54,3,r5465,trace,11,2349.0,2737.09,4.62,4.62,,,-2.00032,-0.09218,0.35644,0.45443,piecewise extrapolated y
+F2-54,3,r5465,trace,12,2348.0,2706.66,5.12,6.12,,on timing line,9e-05,-0.04056,0.46067,0.49731,piecewise extrapolated y
+F2-54,3,r5465,trace,13,2346.7,2646.27,6.0,5.0,,shared ink with ruler zero tick,4.00028,0.00481,0.38323,0.57067,piecewise extrapolated y
+F2-54,3,r5465,trace,14,2346.33,2616.08,11.0,10.0,,shared ink with ruler zero tick,5.99985,0.00415,0.71565,1.01108,piecewise extrapolated y
+F2-54,3,r5465,trace,15,2346.5,2600.98,4.12,4.12,,,6.99974,-0.02577,0.31995,0.4075,piecewise extrapolated y
+F2-54,3,r5465,trace,16,2346.0,2593.43,4.62,4.62,,,7.50007,0.00803,0.35282,0.45007,piecewise extrapolated y
+F2-54,3,r5465,trace,17,2345.73,2585.88,4.5,4.5,,,8.00024,0.02266,0.34417,0.43886,piecewise extrapolated y
+F2-54,3,r5465,trace,18,2345.03,2578.34,3.5,3.5,,,8.50004,0.07315,0.27659,0.34859,piecewise extrapolated y
+F2-54,3,r5465,trace,19,2345.0,2570.79,3.62,3.62,,,9.00006,0.06778,0.28402,0.35939,piecewise extrapolated y
+F2-54,3,r5465,feature,20,2344.0,2566.0,3.88,5.88,,"knee, onset | rounded departure from pre-event baseline",9.31793,0.14614,0.43365,0.38106,piecewise extrapolated y
+F2-54,3,r5465,trace,21,2343.7,2563.25,4.12,4.12,,,9.50025,0.16828,0.31689,0.39906,piecewise extrapolated y
+F2-54,3,r5465,trace,22,2340.66,2555.74,8.5,9.5,,on timing line,9.99959,0.41387,0.6792,0.77525,piecewise extrapolated y
+F2-54,3,r5465,trace,23,2336.08,2548.28,10.75,9.25,,on dashed zero line,10.49969,0.78789,0.66407,0.95443,piecewise extrapolated y
+F2-54,3,r5465,trace,24,2326.33,2540.87,5.12,5.12,,,10.99991,1.59295,0.38515,0.48736,piecewise
+F2-54,3,r5465,trace,25,2292.82,2533.7,5.25,5.25,,,11.50002,4.75559,0.39395,0.56949,piecewise
+F2-54,3,r5465,trace,26,2231.01,2528.5,5.12,5.12,,10 g steep-flank sample,11.88787,9.99954,0.38529,0.52882,piecewise
+F2-54,3,r5465,trace,27,2211.21,2527.02,5.62,5.62,,,11.99977,11.84006,0.41898,0.57599,piecewise
+F2-54,3,r5465,trace,28,2177.23,2526.0,4.62,4.62,,15 g steep-flank sample,12.0905,15.00053,0.35169,0.48175,piecewise
+F2-54,3,r5465,trace,29,2120.41,2523.0,4.62,4.62,,20 g steep-flank sample,12.3286,20.00111,0.35177,0.45595,piecewise
+F2-54,3,r5465,trace,30,2073.28,2520.65,1.25,1.25,,,12.51693,23.97754,0.12481,0.14907,piecewise
+F2-54,3,r5465,trace,31,2061.19,2522.0,4.62,4.62,,25 g steep-flank sample,12.435,24.99966,0.35184,0.44809,piecewise
+F2-54,3,r5465,trace,32,2048.98,2521.15,5.5,5.5,,,12.49989,26.05541,0.41115,0.52521,piecewise
+F2-54,3,r5465,trace,33,2003.39,2520.0,4.62,4.62,,30 g steep-flank sample,12.60722,29.99962,0.35192,0.46143,piecewise
+F2-54,3,r5465,trace,34,1947.14,2518.86,5.88,5.88,,35 g steep-flank sample,12.72107,35.00058,0.43691,0.58331,piecewise
+F2-54,3,r5465,trace,35,1889.47,2516.98,4.5,4.5,,40 g steep-flank sample,12.88532,39.99917,0.34398,0.45673,piecewise
+F2-54,3,r5465,trace,36,1867.69,2515.48,6.0,6.0,,,13.00009,41.96493,0.44513,0.59396,piecewise
+F2-54,3,r5465,trace,37,1834.08,2514.31,5.5,5.5,,45 g steep-flank sample,13.10083,44.99975,0.41147,0.55197,piecewise
+F2-54,3,r5465,trace,38,1779.05,2512.0,5.62,5.62,,50 g steep-flank sample,13.29215,49.99982,0.41965,0.56483,piecewise
+F2-54,3,r5465,trace,39,1743.75,2509.24,5.5,5.5,,,13.50027,53.0664,0.41161,0.52883,piecewise
+F2-54,3,r5465,trace,40,1721.5,2508.0,4.62,4.62,,55 g steep-flank sample,13.59811,54.99985,0.35228,0.45192,piecewise
+F2-54,3,r5465,trace,41,1658.02,2502.63,1.5,1.5,,,13.99972,60.53627,0.14185,0.17681,piecewise
+F2-54,3,r5465,trace,42,1621.01,2503.0,5.62,5.62,,,14.00008,63.77805,0.4199,0.54216,piecewise
+F2-54,3,r5465,trace,43,1607.05,2502.09,4.5,4.5,,65 g steep-flank sample,14.07034,64.99968,0.34433,0.44284,piecewise
+F2-54,3,r5465,trace,44,1548.63,2499.97,5.5,5.5,,70 g steep-flank sample,14.25162,69.99721,0.41191,0.58496,piecewise
+F2-54,3,r5465,trace,45,1504.99,2496.7,5.25,5.25,,,14.49978,74.02809,0.3951,0.54841,piecewise
+F2-54,3,r5465,feature,46,1470.0,2492.0,8.38,8.38,,peak | main pointed crest,14.83772,77.18939,0.6065,0.80814,piecewise
+F2-54,3,r5465,trace,47,1476.14,2489.51,8.88,8.88,,,14.99997,76.64871,0.64025,0.85191,piecewise
+F2-54,3,r5465,trace,48,1499.97,2481.79,4.75,4.75,,,15.49967,74.47439,0.36135,0.50137,piecewise
+F2-54,3,r5465,trace,49,1534.63,2473.95,5.12,5.12,,,15.99989,71.31568,0.38629,0.54821,piecewise
+F2-54,3,r5465,trace,50,1548.27,2471.8,4.62,4.62,,70 g steep-flank sample,16.13421,69.99785,0.35252,0.49911,piecewise
+F2-54,3,r5465,trace,51,1596.08,2465.83,4.5,4.5,,,16.50029,65.8997,0.34436,0.43274,piecewise
+F2-54,3,r5465,trace,52,1663.6,2459.5,5.12,5.12,,60 g steep-flank sample,16.87673,60.0003,0.38612,0.49782,piecewise
+F2-54,3,r5465,trace,53,1684.66,2457.44,4.5,4.5,,,16.99982,58.15996,0.34425,0.44131,piecewise
+F2-54,3,r5465,trace,54,1720.84,2455.0,5.62,5.62,,55 g steep-flank sample,17.13786,54.99956,0.41977,0.54029,piecewise
+F2-54,3,r5465,trace,55,1778.29,2451.98,5.5,5.5,,50 g steep-flank sample,17.29993,50.00059,0.41159,0.55377,piecewise
+F2-54,3,r5465,trace,56,1828.59,2448.46,4.62,4.62,,,17.50024,45.42391,0.35217,0.47113,piecewise
+F2-54,3,r5465,trace,57,1833.25,2448.0,4.62,4.62,,45 g steep-flank sample,17.52773,44.99976,0.35216,0.47093,piecewise
+F2-54,3,r5465,trace,58,1888.58,2446.0,5.62,5.62,,40 g steep-flank sample,17.62304,39.99932,0.41952,0.55918,piecewise
+F2-54,3,r5465,trace,59,1946.18,2442.0,4.62,4.62,,35 g steep-flank sample,17.85019,35.00041,0.35202,0.47011,piecewise
+F2-54,3,r5465,trace,60,1983.84,2439.36,4.5,4.5,,,18.00031,31.64842,0.34388,0.45414,piecewise
+F2-54,3,r5465,trace,61,2002.37,2438.28,4.75,4.75,,30 g steep-flank sample,18.05954,29.99938,0.36071,0.47316,piecewise
+F2-54,3,r5465,trace,62,2110.72,2430.55,4.5,4.5,,,18.50013,20.7215,0.34373,0.42688,piecewise
+F2-54,3,r5465,trace,63,2119.25,2430.0,4.62,4.62,,20 g steep-flank sample,18.53089,20.00078,0.3518,0.45596,piecewise
+F2-54,3,r5465,trace,64,2176.0,2427.0,4.62,4.62,,15 g steep-flank sample,18.69159,14.99972,0.35173,0.48178,piecewise
+F2-54,3,r5465,trace,65,2229.72,2423.57,5.0,5.0,,10 g steep-flank sample,18.88298,9.99763,0.37726,0.51727,piecewise
+F2-54,3,r5465,trace,66,2245.11,2421.65,4.75,4.75,,,19.00028,8.72704,0.3604,0.43766,piecewise
+F2-54,3,r5465,trace,67,2296.74,2413.61,4.62,4.62,,,19.50022,4.25526,0.35158,0.52569,piecewise
+F2-54,3,r5465,trace,68,2327.01,2405.79,9.0,10.0,,on timing line,20.00022,1.39534,0.71306,0.84239,piecewise
+F2-54,3,r5465,feature,69,2336.0,2399.0,6.88,5.38,,knee | falling flank turns into tail near the 20 ms timing line | on dashed zero line,20.42757,0.63882,0.38672,0.62084,piecewise
+F2-54,3,r5465,trace,70,2338.7,2374.33,4.75,4.75,,,22.00026,0.388,0.34422,0.44499,piecewise extrapolated y
+F2-54,3,r5465,trace,71,2344.47,2342.93,3.0,3.0,,,24.00025,-0.12576,0.23018,0.3132,piecewise extrapolated y
+F2-54,3,r5465,trace,72,2346.0,2311.58,4.62,4.62,,,25.99988,-0.28601,0.33369,0.46286,piecewise extrapolated y
+F2-54,3,r5465,trace,73,2346.5,2280.23,4.12,4.12,,,28.00021,-0.3604,0.30033,0.42206,piecewise extrapolated y
+F2-54,3,r5465,feature,74,2348.0,2277.0,4.12,6.12,,"knee, minimum | broad shallow undershoot",28.20524,-0.48882,0.42792,0.42982,piecewise extrapolated y
+F2-54,3,r5465,trace,75,2346.0,2248.9,5.56,6.56,,on timing line,29.99998,-0.35141,0.47533,0.54958,piecewise extrapolated y
+F2-54,3,r5465,trace,76,2345.0,2218.84,3.62,3.62,,,31.99997,-0.2994,0.27917,0.37536,piecewise extrapolated y
+F2-54,3,r5465,trace,77,2343.5,2188.79,4.12,4.12,,,33.9997,-0.20571,0.31381,0.41533,piecewise extrapolated y
+F2-54,3,r5465,trace,78,2342.86,2158.72,4.5,4.5,,,36.00008,-0.18373,0.34036,0.44784,piecewise extrapolated y
+F2-54,3,r5465,trace,79,2341.0,2128.67,4.62,4.62,,,38.00009,-0.06002,0.34942,0.45303,piecewise extrapolated y
+F2-54,3,r5465,trace,80,2340.24,2098.6,5.81,6.81,,on timing line,40.00054,-0.02804,0.49654,0.55754,piecewise extrapolated y
+F2-54,3,r5465,trace,81,2339.13,2067.21,3.5,3.5,,,42.00019,0.03174,0.26461,0.35039,piecewise extrapolated y
+F2-54,3,r5465,trace,82,2339.0,2035.81,3.62,3.62,,,43.99974,0.00982,0.27364,0.36191,piecewise extrapolated y
+F2-54,3,r5465,trace,83,2338.0,2004.41,4.62,4.62,,,45.99994,0.06043,0.3394,0.44779,piecewise extrapolated y
+F2-54,3,r5465,trace,84,2337.5,1973.01,4.12,4.12,,,47.99976,0.06935,0.30845,0.40336,piecewise extrapolated y
+F2-54,3,r5465,trace,85,2337.26,1941.6,5.81,6.81,,on timing line,50.00003,0.05659,0.48428,0.55386,piecewise extrapolated y
+F2-54,3,r5465,trace,86,2336.0,1910.37,3.62,3.62,,,52.00023,0.12904,0.2774,0.35673,piecewise extrapolated y
+F2-54,3,r5465,trace,87,2335.07,1879.14,4.5,4.5,,,54.00018,0.17399,0.33283,0.43228,piecewise extrapolated y
+F2-54,3,r5465,trace,88,2334.67,1847.91,4.62,4.62,,,55.99973,0.17475,0.33898,0.44282,piecewise extrapolated y
+F2-54,3,r5465,trace,89,2331.0,1816.71,7.62,7.62,,,57.99993,0.44815,0.53191,0.69516,piecewise extrapolated y
+F2-54,3,r5465,trace,90,2332.52,1785.44,6.5,7.5,,on timing line,60.00053,0.28881,0.5217,0.60453,piecewise extrapolated y
+F2-54,3,r5465,trace,91,2330.89,1752.86,7.5,7.5,,,62.00012,0.3907,0.50425,0.68709,piecewise extrapolated y
+F2-54,3,r5465,trace,92,2329.2,1720.28,9.5,8.0,,on dashed zero line,63.99976,0.4976,0.53968,0.85696,piecewise extrapolated y
+F2-54,3,r5465,trace,93,2333.0,1687.62,3.62,3.62,,,66.00018,0.14674,0.26938,0.35596,piecewise extrapolated y
+F2-54,3,r5465,trace,94,2329.0,1655.07,7.62,7.62,,,67.9997,0.44624,0.52133,0.69524,piecewise extrapolated y
+F2-54,3,r5465,trace,95,2328.25,1622.47,10.12,9.62,,on timing line | on dashed zero line,69.99985,0.47475,0.65469,0.91365,piecewise extrapolated y
+F2-54,3,r5465,feature,96,2331.0,1621.0,8.12,11.12,,knee | begins broad rise from near the dashed zero line | on timing line,70.08882,0.24397,0.74615,0.75134,piecewise extrapolated y
+F2-54,3,r5465,trace,97,2327.73,1590.18,6.62,5.12,,on dashed zero line,71.99999,0.48441,0.37388,0.60387,piecewise extrapolated y
+F2-54,3,r5465,trace,98,2323.0,1557.94,6.62,5.12,,on dashed zero line,74.00013,0.84508,0.37446,0.59889,piecewise
+F2-54,3,r5465,trace,99,2319.35,1525.69,7.0,5.5,,on dashed zero line,76.00003,1.11571,0.39885,0.63096,piecewise
+F2-54,3,r5465,trace,100,2316.5,1493.43,9.12,7.62,,on dashed zero line,77.99991,1.31964,0.53227,0.83611,piecewise
+F2-54,3,r5465,trace,101,2313.16,1461.18,8.5,9.5,,on timing line,79.99948,1.56443,0.66874,0.82585,piecewise
+F2-54,3,r5465,trace,102,2310.14,1429.92,4.5,4.5,,,82.00017,1.78357,0.34486,0.463,piecewise
+F2-54,3,r5465,feature,103,2311.0,1413.0,3.12,5.12,,peak | broad late crest,83.08126,1.69422,0.38208,0.30732,piecewise
+F2-54,3,r5465,trace,104,2310.0,1398.64,4.62,4.62,,,84.00006,1.76261,0.34996,0.47094,piecewise
+F2-54,3,r5465,trace,105,2314.98,1367.3,8.62,7.12,,on dashed zero line,85.99996,1.31476,0.5103,0.78439,piecewise
+F2-54,3,r5465,trace,106,2316.42,1336.0,7.0,5.5,,on dashed zero line,87.99991,1.16206,0.40272,0.63096,piecewise
+F2-54,3,r5465,trace,107,2316.85,1304.64,8.06,7.56,,right end merged with frame | on timing line | on dashed zero line,90.00445,1.0935,0.53738,0.72148,piecewise extrapolated x
+F2-54,3,r5465,feature,108,2316.85,1304.64,8.06,7.56,,last | right end of ink at frame | on timing line | on dashed zero line,90.00445,1.0935,0.53738,0.72148,piecewise extrapolated x

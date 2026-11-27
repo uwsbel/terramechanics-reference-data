@@ -1,0 +1,195 @@
+<!doctype html>
+<!-- Template for viewer.html in a reviewer's chunk folder; tools/make_audit_packet.py fills in the
+     rows and the figures (scans are loaded from the scans/ folder next to the page, so the page works
+     offline from the unzipped folder). -->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scan viewer</title>
+<style>
+  :root { --bg: #fbfaf7; --fg: #1d1f24; --muted: #5c6270; --line: #d9d6cc; --panel: #ffffff; --blue: #1e5ae6; --orange: #f07800; }
+  body { margin: 0; background: var(--bg); color: var(--fg); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding-block: 18px; padding-inline: 16px; display: grid; gap: 14px; }
+  h1 { font-size: 20px; margin: 0; }
+  p { margin: 0; }
+  .muted { color: var(--muted); }
+  .bar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: end; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px; }
+  label { display: grid; gap: 3px; font-size: 13px; color: var(--muted); }
+  input, select, button { font: inherit; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--fg); }
+  input[type=number] { width: 7em; font-variant-numeric: tabular-nums; }
+  select { max-width: 28em; }
+  button { cursor: pointer; }
+  button.primary { background: var(--blue); color: #fff; border-color: var(--blue); }
+  .ask { background: var(--panel); border: 1px solid var(--line); border-left: 4px solid var(--blue); border-radius: 6px; padding: 10px 12px; min-height: 1.5em; }
+  .fig { font-size: 13px; color: var(--muted); }
+  .stage { display: grid; grid-template-columns: minmax(0, 1fr) 220px; gap: 14px; align-items: start; }
+  @media (max-width: 760px) { .stage { grid-template-columns: minmax(0, 1fr); } }
+  canvas { width: 100%; max-width: 720px; aspect-ratio: 1; border: 1px solid var(--line); background: #fff; cursor: crosshair; image-rendering: pixelated; }
+  .side { display: grid; gap: 10px; font-size: 14px; }
+  .read { font-variant-numeric: tabular-nums; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; }
+  .pad { display: grid; grid-template-columns: repeat(3, 44px); gap: 4px; }
+  .pad button { padding: 6px 0; }
+  .key { display: flex; gap: 8px; align-items: center; }
+  .sw { width: 14px; height: 14px; border: 2px solid; display: inline-block; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Scan viewer</h1>
+  <p class="muted">Pick a row to jump to its point, or type a pixel x and y and press Show to put the crosshair there.
+    Move the mouse over the picture to read the pixel under it; click to center the view on that spot.</p>
+
+  <div class="bar">
+    <label>Row <select id="row"></select></label>
+    <label id="figlabel" hidden>Figure <select id="fig"></select></label>
+    <label>Pixel x <input id="x" type="number" step="1"></label>
+    <label>Pixel y <input id="y" type="number" step="1"></label>
+    <label>Zoom <select id="zoom"><option value="2">2x</option><option value="4" selected>4x</option><option value="8">8x</option></select></label>
+    <button class="primary" id="show">Show</button>
+  </div>
+
+  <div class="ask" id="ask"></div>
+  <div class="fig" id="figname"></div>
+
+  <div class="stage">
+    <canvas id="cv" width="720" height="720" tabindex="0" aria-label="Zoomed view of the scanned page"></canvas>
+    <div class="side">
+      <div class="read" id="mouse">Mouse: move over the picture</div>
+      <div class="read" id="clicked">Clicked: none yet</div>
+      <div>
+        <div class="muted" style="font-size:13px;margin-bottom:4px">Move the view (or use the arrow keys)</div>
+        <div class="pad">
+          <span></span><button data-d="0,-1" aria-label="up">&uarr;</button><span></span>
+          <button data-d="-1,0" aria-label="left">&larr;</button><button id="recenter" aria-label="back to the crosshair">&#9678;</button><button data-d="1,0" aria-label="right">&rarr;</button>
+          <span></span><button data-d="0,1" aria-label="down">&darr;</button><span></span>
+        </div>
+      </div>
+      <div class="key"><span class="sw" style="border-color:var(--blue)"></span> our reading (crosshair and its tolerance box)</div>
+      <div class="key"><span class="sw" style="border-color:var(--orange)"></span> the other reading (compare rows only)</div>
+    </div>
+  </div>
+</main>
+<script>
+const ROWS = /*ROWS*/[];
+const FIGURES = /*FIGURES*/{};
+const cv = document.getElementById("cv"), ctx = cv.getContext("2d");
+const $ = id => document.getElementById(id);
+let target = null, view = null, current = null, figId = null;
+const IMGS = {};
+for (const [id, f] of Object.entries(FIGURES)) { const im = new Image(); im.src = f.src; IMGS[id] = im; im.onload = () => { if (figId === id) draw(); }; }
+const figIds = Object.keys(FIGURES);
+if (figIds.length > 1) {
+  $("figlabel").hidden = false;
+  for (const id of figIds) { const o = document.createElement("option"); o.value = id; o.textContent = id; $("fig").appendChild(o); }
+}
+const groups = {};
+for (const r of ROWS) {
+  const o = document.createElement("option");
+  o.value = r.row; o.textContent = `Row ${r.row}: ${r.kind}, ${r.test}${r.symbol ? ", " + r.symbol : ""}`;
+  let parent = $("row");
+  if (figIds.length > 1) {
+    if (!groups[r.fig]) { groups[r.fig] = document.createElement("optgroup"); groups[r.fig].label = r.fig; $("row").appendChild(groups[r.fig]); }
+    parent = groups[r.fig];
+  }
+  parent.appendChild(o);
+}
+const blank = document.createElement("option");
+blank.value = ""; blank.textContent = "(typed coordinates)";
+$("row").appendChild(blank);
+
+function zoom() { return Number($("zoom").value); }
+// The figures index gives clockwise degrees; the drawing and the readout below were written for
+// counter-clockwise ones, so the sign is flipped here once (wave 2 showed FC-7B and FC-7C upside down).
+function rot() { return -Number((FIGURES[figId] || {}).rotation || 0); }
+// Every pixel x, y is in the frame of the scan file as packed (FIGURES gives its width w and height h).
+// A scan changed afterwards, for instance turned with Windows' "Rotate right", which rewrites the file,
+// would put the crosshair on the wrong spot, so such a scan is not drawn and the reviewer is told why.
+function scanChanged(f, img) { return f && f.w && (img.naturalWidth !== f.w || img.naturalHeight !== f.h); }
+function draw() {
+  const img = IMGS[figId];
+  if (!img || !img.complete || !view) return;
+  const z = zoom(), W = cv.width, H = cv.height;
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+  ctx.fillStyle = "#fff"; ctx.fillRect(0, 0, W, H);
+  const f = FIGURES[figId];
+  if (scanChanged(f, img)) {
+    $("ask").textContent = `The picture file ${f.src} has been changed since the packet was made (it is ` +
+      `${img.naturalWidth} by ${img.naturalHeight} pixels, it should be ${f.w} by ${f.h}; perhaps it was rotated). ` +
+      `The crosshair would be in the wrong place, so nothing is shown. Please copy ${f.src} again from the ` +
+      `zip file, and do not rotate or edit the picture files. The close-up pictures are not affected.`;
+    return;
+  }
+  // rotate the view about its center so a figure printed sideways reads upright; pixel readouts stay in scan coordinates
+  ctx.translate(W / 2, H / 2); ctx.rotate(-rot() * Math.PI / 180); ctx.translate(-W / 2, -H / 2);
+  const sx = view.x - W / (2 * z), sy = view.y - H / (2 * z);
+  ctx.imageSmoothingEnabled = false;
+  ctx.drawImage(img, sx, sy, W / z, H / z, 0, 0, W, H);
+  const P = (u, v) => [(u - sx) * z, (v - sy) * z];
+  if (target) {
+    const [cx, cy] = P(target.x, target.y), gap = 6 * z, arm = 16 * z;
+    ctx.strokeStyle = "#1e5ae6"; ctx.lineWidth = 3; ctx.beginPath();
+    ctx.moveTo(cx - arm, cy); ctx.lineTo(cx - gap, cy); ctx.moveTo(cx + gap, cy); ctx.lineTo(cx + arm, cy);
+    ctx.moveTo(cx, cy - arm); ctx.lineTo(cx, cy - gap); ctx.moveTo(cx, cy + gap); ctx.lineTo(cx, cy + arm);
+    ctx.stroke();
+    if (current && current.bu) { ctx.lineWidth = 1; ctx.strokeRect(cx - current.bu * z, cy - current.bv * z, 2 * current.bu * z, 2 * current.bv * z); }
+  }
+  if (current && current.ox != null) {
+    const [ox, oy] = P(current.ox, current.oy);
+    ctx.strokeStyle = "#f07800"; ctx.lineWidth = 2; ctx.strokeRect(ox - 5 * z, oy - 5 * z, 10 * z, 10 * z);
+  }
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
+}
+function setFigure(id) {
+  figId = id;
+  if (figIds.length > 1) $("fig").value = id;
+  $("figname").textContent = FIGURES[id] ? `${id}: ${FIGURES[id].label}` : "";
+}
+function showRow(n) {
+  current = ROWS.find(r => String(r.row) === String(n)) || null;
+  if (!current) return;
+  setFigure(current.fig);
+  $("x").value = current.x; $("y").value = current.y;
+  $("ask").textContent = `Row ${current.row}: ${current.ask}`;
+  target = { x: current.x, y: current.y }; view = { ...target }; draw();
+}
+function showTyped() {
+  const x = Number($("x").value), y = Number($("y").value);
+  if (!Number.isFinite(x) || !Number.isFinite(y) || $("x").value === "" || $("y").value === "") { $("ask").textContent = "Type a pixel x and a pixel y first."; return; }
+  if (figIds.length > 1) setFigure($("fig").value); else setFigure(figIds[0]);
+  const r = current && current.x === x && current.y === y && current.fig === figId ? current : null;
+  if (!r) { current = null; $("row").value = ""; $("ask").textContent = `Crosshair placed at pixel x ${x}, y ${y}.`; }
+  target = { x, y }; view = { x, y }; draw();
+}
+function pixelAt(ev) {
+  const rect = cv.getBoundingClientRect(), z = zoom(), W = cv.width, H = cv.height;
+  let px = (ev.clientX - rect.left) * W / rect.width, py = (ev.clientY - rect.top) * H / rect.height;
+  // undo the view rotation so the readout is in scan pixels
+  const a = rot() * Math.PI / 180, dx = px - W / 2, dy = py - H / 2;
+  px = W / 2 + dx * Math.cos(a) - dy * Math.sin(a); py = H / 2 + dx * Math.sin(a) + dy * Math.cos(a);
+  return [Math.round(view.x - W / (2 * z) + px / z), Math.round(view.y - H / (2 * z) + py / z)];
+}
+$("row").addEventListener("change", e => e.target.value ? showRow(e.target.value) : null);
+$("show").addEventListener("click", showTyped);
+if (figIds.length > 1) $("fig").addEventListener("change", e => { setFigure(e.target.value); if (view) draw(); });
+for (const id of ["x", "y"]) $(id).addEventListener("keydown", e => { if (e.key === "Enter") showTyped(); });
+$("zoom").addEventListener("change", draw);
+cv.addEventListener("mousemove", e => { if (view) { const [u, v] = pixelAt(e); $("mouse").textContent = `Mouse: pixel x ${u}, y ${v}`; } });
+cv.addEventListener("click", e => { if (view) { const [u, v] = pixelAt(e); $("clicked").textContent = `Clicked: pixel x ${u}, y ${v}`; view = { x: u, y: v }; draw(); } });
+function pan(dx, dy) {
+  if (!view) return;
+  const step = 80 / zoom(), a = rot() * Math.PI / 180;
+  // arrows move the view as the reviewer sees it, whatever the rotation
+  const du = dx * Math.cos(a) - dy * Math.sin(a), dv = dx * Math.sin(a) + dy * Math.cos(a);
+  view = { x: view.x + du * step, y: view.y + dv * step }; draw();
+}
+document.querySelectorAll(".pad [data-d]").forEach(b => b.addEventListener("click", () => { const [dx, dy] = b.dataset.d.split(",").map(Number); pan(dx, dy); }));
+$("recenter").addEventListener("click", () => { if (target) { view = { ...target }; draw(); } });
+cv.addEventListener("keydown", e => {
+  const d = { ArrowLeft: [-1, 0], ArrowRight: [1, 0], ArrowUp: [0, -1], ArrowDown: [0, 1] }[e.key];
+  if (d) { e.preventDefault(); pan(...d); }
+});
+if (ROWS.length) { $("row").value = ROWS[0].row; showRow(ROWS[0].row); }
+</script>
+</body>
+</html>

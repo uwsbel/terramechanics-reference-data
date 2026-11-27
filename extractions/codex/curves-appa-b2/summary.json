@@ -1,0 +1,163 @@
+[
+  {
+    "figure_id": "FA-2",
+    "rms_decades": 0.0026526271765321143,
+    "rms_percent": 0.07505279192869921,
+    "counts": {
+      "average": {
+        "trace": 51,
+        "marker": 15,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 51,
+        "marker": 4,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 49,
+        "marker": 6,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 23
+  },
+  {
+    "figure_id": "FA-6",
+    "rms_decades": 0.002425967615584529,
+    "rms_percent": 0.0583522648843798,
+    "counts": {
+      "average": {
+        "trace": 42,
+        "marker": 14,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 44,
+        "marker": 9,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 41,
+        "marker": 7,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 11
+  },
+  {
+    "figure_id": "FA-18",
+    "rms_decades": 0.0026447057362532834,
+    "rms_percent": 0.04926911256232051,
+    "counts": {
+      "average": {
+        "trace": 50,
+        "marker": 15,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 52,
+        "marker": 6,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 51,
+        "marker": 6,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 18
+  },
+  {
+    "figure_id": "FA-22",
+    "rms_decades": 0.002490555853597681,
+    "rms_percent": 0.0486913162623573,
+    "counts": {
+      "average": {
+        "trace": 43,
+        "marker": 14,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 43,
+        "marker": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 43,
+        "marker": 13,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 16
+  },
+  {
+    "figure_id": "FA-26",
+    "rms_decades": 0.0023773601837837246,
+    "rms_percent": 0.06895369355760315,
+    "counts": {
+      "average": {
+        "trace": 30,
+        "marker": 7,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 30,
+        "marker": 5,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 31,
+        "marker": 4,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 8
+  },
+  {
+    "figure_id": "FA-38",
+    "rms_decades": 0.0024306050733436447,
+    "rms_percent": 0.06353962244247792,
+    "counts": {
+      "average": {
+        "trace": 40,
+        "marker": 17,
+        "feature": 3
+      },
+      "upper": {
+        "trace": 40,
+        "marker": 10,
+        "feature": 3
+      },
+      "lower": {
+        "trace": 40,
+        "marker": 12,
+        "feature": 3
+      }
+    },
+    "omitted_marker_candidates": 12
+  },
+  {
+    "figure_id": "FA-46",
+    "rms_decades": 0.0025663586127854694,
+    "rms_percent": 0.065780990378878,
+    "counts": {
+      "average": {
+        "trace": 50,
+        "marker": 15,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 47,
+        "marker": 4,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 50,
+        "marker": 6,
+        "feature": 4
+      }
+    },
+    "omitted_marker_candidates": 20
+  }
+]

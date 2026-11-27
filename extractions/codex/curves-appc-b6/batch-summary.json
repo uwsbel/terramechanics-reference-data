@@ -1,0 +1,87 @@
+{
+  "FC-5A": {
+    "counts": {
+      "dr2-13": {
+        "marker": 5,
+        "trace": 21,
+        "feature": 2
+      },
+      "dr30": {
+        "marker": 5,
+        "trace": 20,
+        "feature": 2
+      },
+      "dr48": {
+        "marker": 5,
+        "trace": 17,
+        "feature": 2
+      },
+      "unassigned": {
+        "marker": 1,
+        "trace": 0,
+        "feature": 0
+      },
+      "dr77": {
+        "marker": 5,
+        "trace": 13,
+        "feature": 2
+      }
+    },
+    "rms_residual_x": 4.969616927223275,
+    "rms_residual_y": 7.5828670352415575,
+    "eye_checks": 6,
+    "max_eye_position_difference_px": 4.456,
+    "all_trace_centers_on_dark_ink": true,
+    "required_files_present": true
+  },
+  "FC-6A": {
+    "counts": {
+      "dr5-40": {
+        "marker": 5,
+        "trace": 21,
+        "feature": 1
+      },
+      "unassigned": {
+        "marker": 1,
+        "trace": 0,
+        "feature": 0
+      },
+      "dr19-28": {
+        "marker": 4,
+        "trace": 20,
+        "feature": 1
+      },
+      "dr103-107": {
+        "marker": 5,
+        "trace": 20,
+        "feature": 1
+      }
+    },
+    "rms_residual_x": 3.0396419963866115,
+    "rms_residual_y": 6.327674075920113,
+    "eye_checks": 6,
+    "max_eye_position_difference_px": 3.191,
+    "all_trace_centers_on_dark_ink": true,
+    "required_files_present": true
+  },
+  "FC-7A": {
+    "counts": {
+      "dr53": {
+        "marker": 6,
+        "trace": 15,
+        "feature": 2
+      },
+      "dr100": {
+        "marker": 6,
+        "trace": 15,
+        "feature": 2
+      }
+    },
+    "rms_residual_x": 0.02601367373478369,
+    "rms_residual_y": 0.031287582333347844,
+    "eye_checks": 6,
+    "max_eye_position_difference_px": 2.378,
+    "all_trace_centers_on_dark_ink": true,
+    "required_files_present": true
+  }
+}

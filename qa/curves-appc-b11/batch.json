@@ -1,0 +1,117 @@
+{
+  "batch": "curves-appc-b11",
+  "source": "1968-vol2",
+  "context_pages": [
+    115
+  ],
+  "figures": {
+    "FC-20": {
+      "series": [
+        {
+          "series_id": "data",
+          "role": "open circles",
+          "soil": "SS"
+        },
+        {
+          "series_id": "mean",
+          "role": "solid curve",
+          "soil": "SS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve above the solid one",
+          "soil": "SS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve below the solid one",
+          "soil": "SS"
+        }
+      ]
+    },
+    "FC-21": {
+      "series": [
+        {
+          "series_id": "data",
+          "role": "open circles",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "band-top",
+          "role": "upper edge of the hatched band",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "band-bottom",
+          "role": "lower edge of the hatched band",
+          "soil": "LSM"
+        }
+      ]
+    },
+    "FC-22": {
+      "series": [
+        {
+          "series_id": "data",
+          "role": "open circles",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "mean",
+          "role": "solid curve",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed curve above the solid one",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed curve below the solid one",
+          "soil": "RSM-b"
+        }
+      ]
+    },
+    "FC-23": {
+      "series": [
+        {
+          "series_id": "rc2",
+          "role": "curve labelled RC2",
+          "soil": "RC2"
+        },
+        {
+          "series_id": "ps",
+          "role": "curve labelled PS",
+          "soil": "PS"
+        },
+        {
+          "series_id": "rs",
+          "role": "curve labelled RS",
+          "soil": "RS"
+        },
+        {
+          "series_id": "rsm-b",
+          "role": "curve labelled RSM-b",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "rsm-a",
+          "role": "curve labelled RSM-a",
+          "soil": "RSM-a"
+        },
+        {
+          "series_id": "ss",
+          "role": "curve labelled SS",
+          "soil": "SS"
+        }
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFigures C-20, C-21, C-22 and C-23 plot the **direct-shear angle of internal friction** phi_DS (degrees) against\n**relative density** Dr (dimensionless), one panel each, upright. Figures C-16 to C-20 and C-22 show,\nfor one soil, open circles (some joined in pairs by a short horizontal line: one friction angle\nmeasured over a range of Dr), a solid curve and two dashed curves. Figure C-21 shows circles and a\ncross-hatched band between two lines instead of the curves. Figure C-23 shows six curves, each\nlabelled with a soil name, in different line styles, and no symbols.\n\nCalibration: the frame may extend past the first and last labelled grid lines (left of 0, right of\n1.0). Anchor only grid lines whose printed labels you have checked by eye; say in\n`calibration-eye-checks.csv` which label each checked line carries. Units: x `none` (Dr), y `deg`.\n\nSeries (`series.csv`): `data` for every circle; `mean` the solid curve; `upper` and `lower` the\ndashed curves above and below it; on C-21 `band-top` and `band-bottom` the two edges of the\nhatched band; on C-23 one series per printed soil label.\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`:\n   - every circle as `marker` in series `data`, `symbol` = `circle` (or what is printed). A circle at\n     an end of a horizontal joining line gets note \"pair <n> left\" or \"pair <n> right\" (pairs\n     numbered from the left); a circle with no joining line gets note \"single\". A circle cut by the\n     frame or overlapping a curve or another circle: say so in the note and widen the bound.\n   - each curve (and on C-21 each band edge) as `trace` samples in drawing order from its left end:\n     its left end, then every 0.05 of Dr, then its right end. On a dashed curve a sample whose Dr\n     falls in a gap between dashes moves to the nearest dash end, on the ink (rule 7). Bound: half\n     the line thickness. The horizontal lines joining pairs of circles and the hatching are not\n     traced. On C-23, identify each curve by its printed label and its line style, and say in\n     notes.md where curves cross or touch.\n   - `feature` points per rule 3 for every trace (first point, last point, any knee); on C-23 one\n     `feature` per soil with note \"label: <the printed text>\" at the label's center.\n3. `overlay-p1.png` and `notes.md` (which curve is which, circles cut by the frame, the frame's\n   extent beyond the labelled lines, anything ambiguous).\n",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between a dash and a symbol; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Where small symbols overlap, a symbol you cannot identify gets a note and a wide bound, never a guess; check that each mark is on a symbol and not on a neighbour or a speck of dirt.",
+    "Triangle centers are centroids (rule 8).",
+    "Check every printed axis label by eye against the line you anchor it to: a label printed off its line, or a frame that extends past the first or last labelled line, has misled readers before."
+  ]
+}

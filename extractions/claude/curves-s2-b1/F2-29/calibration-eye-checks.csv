@@ -1,0 +1,7 @@
+figure_id,panel,axis,printed_label,label_pixel_u,label_pixel_v,fitted_line_pixel,agrees,note
+F2-29,1,x (penetration in),8,2380,1318,v = 1318.8 at u 2330,yes,"label 8 printed beside the horizontal line fitted as 8 in; crop crops/label-pen8.png"
+F2-29,1,x (penetration in),4,2405,2550,v = 2553.1 at u 2330,yes,"label 4 beside the line fitted as 4 in; crop crops/label-pen4.png"
+F2-29,1,x (penetration in),0,2425,3777,v = 3788.7 at u 2330,yes,"label 0 beside the bottom frame line, which is the 0 in line; crop crops/label-pen0.png"
+F2-29,1,y (load lb),1200,497,3900,u = 502.1 at v 3800,yes,"label 1200 under the left frame line, which is the 1200 lb line; printed Lbs.; crop crops/label-load1200.png"
+F2-29,1,y (load lb),600,1457,3880,u = 1432.5 at v 3800,yes,"label 600 under the line fitted as 600 lb (label centre 25 px right of the line, the next lines are 308 px away); crop crops/label-load600.png"
+F2-29,1,y (load lb),0,2370,3855,u = 2364.0 at v 3800,yes,"label 0 under the right frame line, which is the 0 lb line; crop crops/label-load0.png"

@@ -1,0 +1,1174 @@
+{
+  "figure": "FC-3C",
+  "image": "packet/p0125.png",
+  "overlay_boxes": {
+    "1": [
+      775,
+      1185,
+      2310,
+      2860
+    ],
+    "2": [
+      795,
+      2950,
+      2320,
+      3590
+    ]
+  },
+  "eye_checks": [
+    [
+      1,
+      "x",
+      0,
+      2700,
+      820
+    ],
+    [
+      1,
+      "x",
+      100,
+      2700,
+      1406
+    ],
+    [
+      1,
+      "x",
+      250,
+      2700,
+      2274
+    ],
+    [
+      1,
+      "y",
+      6000,
+      2200,
+      1085
+    ],
+    [
+      1,
+      "y",
+      4000,
+      2200,
+      1659
+    ],
+    [
+      1,
+      "y",
+      0,
+      2200,
+      2829
+    ],
+    [
+      2,
+      "x",
+      0,
+      3400,
+      829
+    ],
+    [
+      2,
+      "x",
+      100,
+      3400,
+      1414
+    ],
+    [
+      2,
+      "x",
+      250,
+      3400,
+      2283
+    ],
+    [
+      2,
+      "y",
+      100,
+      900,
+      2983
+    ],
+    [
+      2,
+      "y",
+      0,
+      900,
+      3276
+    ],
+    [
+      2,
+      "y",
+      -100,
+      900,
+      3566
+    ]
+  ],
+  "panels": {
+    "1": {
+      "n4695": {
+        "symbol": "plus",
+        "markers": [
+          [
+            855,
+            1666,
+            7,
+            "Plus on 4000 psf grid."
+          ],
+          [
+            972,
+            1392
+          ],
+          [
+            1086,
+            1289,
+            5,
+            "Plus close to vertical grid."
+          ],
+          [
+            1200,
+            1238
+          ],
+          [
+            1314,
+            1214
+          ],
+          [
+            1437,
+            1214
+          ],
+          [
+            1558,
+            1232
+          ],
+          [
+            1668,
+            1264
+          ],
+          [
+            1782,
+            1305
+          ],
+          [
+            1958,
+            1384,
+            7,
+            "Plus close to 5000 psf and vertical grid."
+          ],
+          [
+            2101,
+            1399
+          ],
+          [
+            2271,
+            1440,
+            8,
+            "Plus on right frame."
+          ]
+        ],
+        "guide": [
+          [
+            875,
+            1624
+          ],
+          [
+            900,
+            1525
+          ],
+          [
+            925,
+            1458
+          ],
+          [
+            950,
+            1410
+          ],
+          [
+            972,
+            1392
+          ],
+          [
+            1086,
+            1289
+          ],
+          [
+            1200,
+            1238
+          ],
+          [
+            1314,
+            1215
+          ],
+          [
+            1380,
+            1211
+          ],
+          [
+            1437,
+            1215
+          ],
+          [
+            1558,
+            1232
+          ],
+          [
+            1668,
+            1264
+          ],
+          [
+            1782,
+            1305
+          ],
+          [
+            1958,
+            1372
+          ],
+          [
+            2101,
+            1405
+          ],
+          [
+            2240,
+            1439
+          ]
+        ],
+        "features": [
+          [
+            855,
+            1666,
+            7,
+            "first: marker on grid"
+          ],
+          [
+            1370,
+            1211,
+            70,
+            5,
+            "peak: broad crest; horizontal bound includes crest-location uncertainty."
+          ],
+          [
+            2240,
+            1439,
+            4,
+            "last: drawn segment before frame plus"
+          ]
+        ]
+      },
+      "n3815": {
+        "symbol": "circle",
+        "markers": [
+          [
+            860,
+            1900
+          ],
+          [
+            976,
+            1626
+          ],
+          [
+            1086,
+            1534
+          ],
+          [
+            1201,
+            1500
+          ],
+          [
+            1312,
+            1461
+          ],
+          [
+            1428,
+            1446
+          ],
+          [
+            1545,
+            1458
+          ],
+          [
+            1672,
+            1490
+          ],
+          [
+            1787,
+            1526
+          ],
+          [
+            1957,
+            1589.5,
+            2,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            2103.5,
+            1607,
+            2,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            2269,
+            1663,
+            8,
+            "Circle on right frame and 4000 psf grid."
+          ]
+        ],
+        "guide": [
+          [
+            872,
+            1864
+          ],
+          [
+            900,
+            1770
+          ],
+          [
+            925,
+            1698
+          ],
+          [
+            950,
+            1650
+          ],
+          [
+            976,
+            1626
+          ],
+          [
+            1086,
+            1534
+          ],
+          [
+            1201,
+            1490
+          ],
+          [
+            1312,
+            1455
+          ],
+          [
+            1400,
+            1450
+          ],
+          [
+            1545,
+            1460
+          ],
+          [
+            1672,
+            1485
+          ],
+          [
+            1787,
+            1526
+          ],
+          [
+            1972,
+            1590
+          ],
+          [
+            2118,
+            1630
+          ],
+          [
+            2250,
+            1659
+          ]
+        ],
+        "features": [
+          [
+            860,
+            1900,
+            3,
+            "first: first marker"
+          ],
+          [
+            1415,
+            1451,
+            65,
+            5,
+            "peak: broad crest near 100 thousandths; horizontal bound includes crest-location uncertainty."
+          ],
+          [
+            2250,
+            1659,
+            6,
+            "last: drawn ink approaches 4000 psf grid"
+          ]
+        ],
+        "shared_grid": true
+      },
+      "n2934": {
+        "symbol": "triangle-down",
+        "markers": [
+          [
+            862,
+            2070
+          ],
+          [
+            978,
+            1870
+          ],
+          [
+            1080,
+            1832
+          ],
+          [
+            1215,
+            1830
+          ],
+          [
+            1329,
+            1823
+          ],
+          [
+            1440,
+            1830
+          ],
+          [
+            1558,
+            1845
+          ],
+          [
+            1681,
+            1877
+          ],
+          [
+            1787.5,
+            1906,
+            3,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            1974,
+            1963,
+            7,
+            "Triangle touches 3000 psf grid."
+          ],
+          [
+            2104,
+            1983.5,
+            3,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            2259,
+            2004,
+            6,
+            "Triangle close to frame."
+          ]
+        ],
+        "guide": [
+          [
+            874,
+            2030
+          ],
+          [
+            900,
+            1945
+          ],
+          [
+            925,
+            1910
+          ],
+          [
+            950,
+            1875
+          ],
+          [
+            978,
+            1870
+          ],
+          [
+            1080,
+            1832
+          ],
+          [
+            1215,
+            1830
+          ],
+          [
+            1329,
+            1829
+          ],
+          [
+            1440,
+            1830
+          ],
+          [
+            1558,
+            1845
+          ],
+          [
+            1681,
+            1877
+          ],
+          [
+            1800,
+            1898
+          ],
+          [
+            1974,
+            1948
+          ],
+          [
+            2118,
+            1984
+          ],
+          [
+            2250,
+            1999
+          ]
+        ],
+        "features": [
+          [
+            862,
+            2070,
+            3,
+            "first: first marker"
+          ],
+          [
+            1190,
+            1827,
+            160,
+            5,
+            "peak: flat crest spanning about 50-100 thousandths; horizontal bound includes crest-location uncertainty."
+          ],
+          [
+            2250,
+            1999,
+            4,
+            "last: final drawn segment"
+          ]
+        ]
+      },
+      "n1761": {
+        "symbol": "square",
+        "markers": [
+          [
+            875,
+            2320
+          ],
+          [
+            982,
+            2167
+          ],
+          [
+            1092,
+            2124
+          ],
+          [
+            1215,
+            2123
+          ],
+          [
+            1324,
+            2121
+          ],
+          [
+            1440,
+            2128
+          ],
+          [
+            1675,
+            2139
+          ],
+          [
+            1788.5,
+            2159,
+            6,
+            " Center rechecked on enlarged symbol crop. Broken/attached outline; widened manual bound."
+          ],
+          [
+            1958,
+            2185,
+            2,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            2084,
+            2212,
+            2,
+            " Center rechecked on enlarged symbol crop."
+          ],
+          [
+            2278,
+            2246,
+            9,
+            "Square overlaps frame and 2000 psf grid."
+          ]
+        ],
+        "guide": [
+          [
+            888,
+            2286
+          ],
+          [
+            915,
+            2230
+          ],
+          [
+            945,
+            2190
+          ],
+          [
+            982,
+            2167
+          ],
+          [
+            1092,
+            2120
+          ],
+          [
+            1215,
+            2120
+          ],
+          [
+            1324,
+            2121
+          ],
+          [
+            1440,
+            2128
+          ],
+          [
+            1555,
+            2134
+          ],
+          [
+            1675,
+            2139
+          ],
+          [
+            1797,
+            2156
+          ],
+          [
+            1971,
+            2183
+          ],
+          [
+            2097,
+            2208
+          ],
+          [
+            2250,
+            2236
+          ]
+        ],
+        "features": [
+          [
+            875,
+            2320,
+            3,
+            "first: first marker"
+          ],
+          [
+            1180,
+            2118,
+            125,
+            5,
+            "peak: broad plateau; horizontal bound includes crest-location uncertainty."
+          ],
+          [
+            2250,
+            2236,
+            4,
+            "last: final segment before frame square"
+          ]
+        ],
+        "shared_grid": true
+      },
+      "n734": {
+        "symbol": "triangle-up",
+        "markers": [
+          [
+            875,
+            2538,
+            7,
+            "Triangle on 1000 psf grid."
+          ],
+          [
+            994,
+            2457
+          ],
+          [
+            1112,
+            2452,
+            5,
+            "Triangle on vertical grid."
+          ],
+          [
+            1224,
+            2471
+          ],
+          [
+            1330,
+            2492
+          ],
+          [
+            1450,
+            2507
+          ],
+          [
+            1568,
+            2528
+          ],
+          [
+            1686,
+            2550,
+            7,
+            "Triangle touches 1000 psf grid."
+          ],
+          [
+            1801,
+            2556
+          ],
+          [
+            1981,
+            2568,
+            7,
+            "Triangle on vertical grid."
+          ],
+          [
+            2102,
+            2586
+          ],
+          [
+            2270,
+            2588,
+            8,
+            "Triangle on frame."
+          ]
+        ],
+        "guide": [
+          [
+            888,
+            2517
+          ],
+          [
+            925,
+            2480
+          ],
+          [
+            960,
+            2460
+          ],
+          [
+            994,
+            2459
+          ],
+          [
+            1070,
+            2446
+          ],
+          [
+            1112,
+            2452
+          ],
+          [
+            1224,
+            2471
+          ],
+          [
+            1330,
+            2492
+          ],
+          [
+            1450,
+            2512
+          ],
+          [
+            1568,
+            2531
+          ],
+          [
+            1686,
+            2550
+          ],
+          [
+            1801,
+            2556
+          ],
+          [
+            1981,
+            2571
+          ],
+          [
+            2102,
+            2586
+          ],
+          [
+            2250,
+            2589
+          ]
+        ],
+        "features": [
+          [
+            875,
+            2538,
+            7,
+            "first: marker on grid"
+          ],
+          [
+            1070,
+            2446,
+            45,
+            5,
+            "peak: drawn crest between markers; horizontal bound includes crest-location uncertainty."
+          ],
+          [
+            2250,
+            2589,
+            4,
+            "last: terminal segment"
+          ]
+        ],
+        "shared_grid": true
+      }
+    },
+    "2": {
+      "n4695": {
+        "symbol": "plus",
+        "markers": [
+          [
+            829,
+            3355,
+            10,
+            "Plus on left frame."
+          ],
+          [
+            942,
+            3324
+          ],
+          [
+            1059,
+            3312
+          ],
+          [
+            1177,
+            3286
+          ],
+          [
+            1295,
+            3276,
+            7,
+            "Plus on zero grid."
+          ],
+          [
+            1410,
+            3255,
+            9,
+            "Plus/circle on vertical grid."
+          ],
+          [
+            1520,
+            3244,
+            7,
+            "Plus/circle close; widened center bounds."
+          ],
+          [
+            1640,
+            3225
+          ],
+          [
+            1757,
+            3208
+          ],
+          [
+            1875,
+            3197
+          ],
+          [
+            1997,
+            3187,
+            9,
+            "Plus on vertical grid."
+          ],
+          [
+            2112,
+            3181
+          ],
+          [
+            2280,
+            3163,
+            10,
+            "Plus on right frame."
+          ]
+        ]
+      },
+      "n3815": {
+        "symbol": "circle",
+        "markers": [
+          [
+            829,
+            3330,
+            10,
+            "Circle on left frame."
+          ],
+          [
+            891,
+            3314
+          ],
+          [
+            942,
+            3307,
+            6,
+            "Circle close to plus."
+          ],
+          [
+            1059,
+            3288
+          ],
+          [
+            1177,
+            3267,
+            7,
+            "Circle approaches zero grid and square."
+          ],
+          [
+            1290,
+            3254
+          ],
+          [
+            1410,
+            3237,
+            9,
+            "Circle and plus on vertical grid."
+          ],
+          [
+            1520,
+            3225,
+            7,
+            "Circle close to plus; triangle nearby."
+          ],
+          [
+            1640,
+            3206,
+            7,
+            "Circle nearly coincident with triangle-down."
+          ],
+          [
+            1757,
+            3188
+          ],
+          [
+            1875,
+            3176
+          ],
+          [
+            1997,
+            3159,
+            9,
+            "Circle on vertical grid."
+          ],
+          [
+            2137,
+            3148,
+            7,
+            "Circle close to triangle-down."
+          ],
+          [
+            2260,
+            3151,
+            8,
+            "Circle near frame triangle-down."
+          ]
+        ]
+      },
+      "n2934": {
+        "symbol": "triangle-down",
+        "markers": [
+          [
+            860,
+            3329,
+            8,
+            "Triangle touches first square."
+          ],
+          [
+            1004,
+            3309
+          ],
+          [
+            1118,
+            3285,
+            9,
+            "Triangle on zero and vertical grid."
+          ],
+          [
+            1234,
+            3263
+          ],
+          [
+            1350,
+            3243
+          ],
+          [
+            1470,
+            3223,
+            6,
+            "Triangle close to circle."
+          ],
+          [
+            1582,
+            3211
+          ],
+          [
+            1700,
+            3195,
+            9,
+            "Triangle/circle on vertical grid."
+          ],
+          [
+            1818,
+            3182
+          ],
+          [
+            1933,
+            3169
+          ],
+          [
+            2112,
+            3157,
+            8,
+            "Triangle/circle partially share ink."
+          ],
+          [
+            2280,
+            3140,
+            10,
+            "Triangle on right frame."
+          ]
+        ]
+      },
+      "n1761": {
+        "symbol": "square",
+        "markers": [
+          [
+            859,
+            3300,
+            8,
+            "Square close to triangle-down."
+          ],
+          [
+            945,
+            3281,
+            8,
+            "Square on zero grid."
+          ],
+          [
+            1062,
+            3263,
+            7,
+            "Square near zero grid."
+          ],
+          [
+            1175,
+            3242
+          ],
+          [
+            1293,
+            3211
+          ],
+          [
+            1410,
+            3178,
+            9,
+            "Square on vertical grid."
+          ],
+          [
+            1530,
+            3161
+          ],
+          [
+            1641,
+            3139
+          ],
+          [
+            1760,
+            3116
+          ],
+          [
+            1870,
+            3089
+          ],
+          [
+            1996,
+            3071,
+            9,
+            "Square on vertical grid."
+          ],
+          [
+            2115,
+            3056
+          ],
+          [
+            2280,
+            3050,
+            10,
+            "Square on right frame."
+          ]
+        ]
+      },
+      "n734": {
+        "symbol": "triangle-up",
+        "markers": [
+          [
+            829,
+            3307,
+            10,
+            "Triangle on left frame."
+          ],
+          [
+            1006,
+            3281,
+            8,
+            "Triangle on zero grid."
+          ],
+          [
+            1119,
+            3243,
+            9,
+            "Triangle on vertical grid."
+          ],
+          [
+            1238,
+            3209
+          ],
+          [
+            1354,
+            3193
+          ],
+          [
+            1470,
+            3163
+          ],
+          [
+            1584,
+            3136
+          ],
+          [
+            1700,
+            3120,
+            9,
+            "Triangle on vertical grid."
+          ],
+          [
+            1816,
+            3101
+          ],
+          [
+            1940,
+            3091
+          ],
+          [
+            2115,
+            3085
+          ],
+          [
+            2280,
+            3084,
+            10,
+            "Triangle on right frame."
+          ]
+        ]
+      }
+    }
+  }
+}

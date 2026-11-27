@@ -1,0 +1,11 @@
+{
+  "required_files": true,
+  "axis_checks_per_figure": {
+    "x": 3,
+    "y": 3
+  },
+  "all_trace_centres_on_dark_ink": true,
+  "max_target_rounding_error_psf": 0.002,
+  "overlays_inspected": true,
+  "packet_only": true
+}

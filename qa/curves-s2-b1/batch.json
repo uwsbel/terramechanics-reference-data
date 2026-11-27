@@ -1,0 +1,42 @@
+{
+  "batch": "curves-s2-b1",
+  "source": "1968",
+  "context_pages": [77, 86, 91],
+  "figures": {
+    "F2-29": {
+      "series": [
+        {"series_id": "lpt27", "role": "recorded trace", "label_printed": "LPT #27, 2 inch diameter cylinder, pen rate 1/2 in per min, plate compactor", "soil": "RS dense"}
+      ]
+    },
+    "F2-32": {
+      "series": [
+        {"series_id": "lpt93", "role": "recorded trace, dashed", "label_printed": "LPT No. 93, Gp = 16.2", "soil": "RS loose (soil 1)"},
+        {"series_id": "lpt53", "role": "recorded trace, solid", "label_printed": "LPT No. 53, Gp = 15.6", "soil": "RS loose (soil 1)"},
+        {"series_id": "lpt52", "role": "recorded trace, dotted", "label_printed": "LPT No. 52, Gp = 15.4", "soil": "RS loose (soil 1)"},
+        {"series_id": "fit", "role": "author fit, thin straight line", "label_printed": "Slope = 6.5 lbs./in. = A gamma Nq", "soil": "RS loose (soil 1)"}
+      ]
+    },
+    "F2-33": {
+      "series": [
+        {"series_id": "lpt74", "role": "recorded trace, thin line, A started at soil surface", "label_printed": "A LPT No. 74, Gp = 103", "soil": "RS dense (Dr approx 0.94)"},
+        {"series_id": "lpt75", "role": "recorded trace, thick line, B started two inches below soil surface", "label_printed": "B LPT No. 75, Gp = 105", "soil": "RS dense (Dr approx 0.94)"},
+        {"series_id": "fit", "role": "author fit, thick straight line", "label_printed": "Slope = A gamma Nq = 316 lbs./in.", "soil": "RS dense (Dr approx 0.94)"},
+        {"series_id": "bce", "role": "computed, straight line", "label_printed": "Bearing Capacity Equation, phi = 49.5 deg", "soil": "RS dense (Dr approx 0.94)"}
+      ]
+    },
+    "F2-34": {
+      "series": [
+        {"series_id": "lpt87", "role": "recorded trace, thick line, A started at soil surface", "label_printed": "A LPT No. 87", "soil": "SS (soil 9, Dr approx 0.76)"},
+        {"series_id": "lpt88", "role": "recorded trace, thin line, B started two inches below soil surface", "label_printed": "B LPT No. 88", "soil": "SS (soil 9, Dr approx 0.76)"},
+        {"series_id": "fit", "role": "author fit, thick straight line", "label_printed": "Slope = A gamma Nq = 54 lbs./in.", "soil": "SS (soil 9, Dr approx 0.76)"}
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFigures 2-29, 2-32, 2-33 and 2-34 are **load-penetration records**: the load on a cylindrical penetrator (lb) against its penetration into the soil bed (in), one panel each, from Section II of Volume I. All four are printed **sideways**: read the page as scanned, with penetration increasing **up** the page and load increasing to the **left** (`--x-direction up --y-direction left` to `calibrate_axes.py detect`). Both axes are linear with a drawn grid; anchor the labelled grid lines (penetration every inch, load every 200 lb on 2-29 and 2-34, every 10 lb on 2-32, every 500 lb on 2-33) and check three printed labels per axis by eye (`calibration-eye-checks.csv`). The frame may extend past the last labelled line.\n\nEach figure draws one or more **recorded traces** (the chart-recorder record of one test, LPT = load penetration test, numbered; a wavy or stepped line) and, on 2-32, 2-33 and 2-34, one or two **straight lines** drawn by the authors: a thin or thick straight line labelled `Slope = ... lbs./in.` (the authors' fit to the linear part of a trace, series `fit`) and on 2-33 a second straight line labelled `Bearing Capacity Equation` (series `bce`). The text blocks of equations beside the curves are not points. `series.csv` gives the id of every curve with its printed label and line style; where a label's leader arrow and the line style disagree, follow the arrow and say so in `notes.md`.\n\nOn Figure 2-34 the load axis is labelled `Load - Lbs. x 100`: give the tool the numbers printed on the axis (0 to 1200) with unit `lb` and record the printed label in `notes.md` and in `calibration-eye-checks.csv`; do not multiply. The other three figures print plain pounds.\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`:\n   - every recorded trace as `trace` samples in drawing order from where its ink starts (penetration 0, or 2 in for the tests started two inches below the surface) to where it ends: one sample every 0.25 in of penetration, plus the features of rule 3 (first point, peak of the trace, every knee or kink, last point) as `feature` rows with a note saying which (`first`, `peak`, `knee`, `last`). A trace that doubles back keeps its drawing order (rule 4). Bound: half the line thickness (rule 7). Where two traces cross or run together, say so in `note` and widen the bound.\n   - each straight line (`fit`, `bce`) as `trace` samples at both ends of its ink and at every labelled penetration line it crosses, plus one `feature` with note `intercept` where it meets the load axis (penetration 0) if its ink reaches it, and one `feature` with note `label: <the printed text>` at the center of its printed label.\n   - no markers: these figures plot no symbols. If you see any, record them as `marker` with a note.\n3. `overlay-p1.png`, `notes.md` (which line carries which printed label, where traces cross, the Figure 2-34 axis label, anything ambiguous).\n\nContext pages (text only, for the setup): PDF 77 describes Figure 2-29 (the test whose DPT record 54074 is shown elsewhere); PDF 86 and 91 describe the bearing-capacity comparison of Figures 2-32 to 2-34. Read them for understanding; nothing on them is a point.",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between dashes; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Check every printed axis label by eye against the line you anchor it to: a label printed off its line, or a frame that extends past the first or last labelled line, has misled readers before.",
+    "On a sideways page the pixel coordinates still refer to the page as scanned; declare the directions to the tool and never rotate the image.",
+    "A thick line's center is known to within half its width: measure the width where you sample it and give that half-width as the bound, not a fixed number."
+  ]
+}

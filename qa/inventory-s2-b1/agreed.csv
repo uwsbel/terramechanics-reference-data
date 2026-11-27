@@ -1,0 +1,70 @@
+id,kind,printed_page,pdf_page,test_type,data_form,panels,curves,x_unit,x_axis_type,y_unit,y_axis_type,rotation,in_scope,priority,mcc_relevant,status
+F2-1,figure,2-6,31,,schematic,0,0,n/a,n/a,n/a,n/a,0,no,3,no,partial
+F2-2,figure,2-6,31,soil model,,0,0,n/a,n/a,n/a,n/a,0,no,3,no,partial
+F2-3,figure,2-8,33,,schematic,0,0,n/a,n/a,n/a,n/a,0,no,3,no,partial
+F2-4,figure,2-8,33,soil model,schematic,1,1,,linear,,linear,0,no,3,no,partial
+F2-5,figure,2-9,34,,schematic,0,0,n/a,n/a,n/a,n/a,0,,3,,partial
+F2-6,figure,2-9,34,,photo,0,0,n/a,n/a,n/a,n/a,0,,3,no,partial
+F2-7,figure,2-17,42,,schematic,0,0,n/a,n/a,n/a,n/a,90,,3,,partial
+F2-8,figure,2-19,44,,photo,0,0,n/a,n/a,n/a,n/a,0,,,no,partial
+F2-9,figure,2-20,45,apparatus,photo,0,0,n/a,n/a,n/a,n/a,0,,,no,partial
+T1-1,table,1-6,20,soil properties,table,0,0,n/a,n/a,n/a,n/a,,yes,,,partial
+T2-1,table,2-12,37,soil properties,table,0,0,n/a,n/a,n/a,n/a,90,,,,partial
+T2-2,table,2-14,39,soil properties,table,0,0,n/a,n/a,n/a,n/a,0,,3,,partial
+T2-3,table,2-16,41,soil properties,table,0,0,n/a,n/a,n/a,n/a,90,yes,1,,partial
+F2-10,figure,2-21,46,apparatus,photo,0,0,n/a,n/a,n/a,n/a,0,,,no,partial
+F2-11,figure,2-21,46,,photo,0,0,n/a,n/a,n/a,n/a,0,,,no,partial
+F2-12,figure,2-23,48,grain size,table,0,0,n/a,n/a,n/a,n/a,0,yes,,,partial
+F2-13,figure,2-25,50,grain size,curve,1,1,mm,log,percent,linear,90,yes,,no,partial
+F2-14,figure,2-27,52,grain size,curve,1,6,mm,log,percent,linear,90,yes,1,no,agreed
+F2-15,figure,2-31,56,density,,1,1,,,pcf,,0,,,,partial
+F2-16,figure,2-32,57,,photo,0,0,n/a,n/a,n/a,n/a,0,,,,partial
+F2-17,figure,2-36,61,density,curve,1,6,,,pcf,,0,yes,,yes,partial
+F2-18,figure,2-39,64,,curve,1,3,pcf,linear,seconds,linear,90,yes,2,yes,partial
+F2-19,figure,2-41,66,,photo,0,0,n/a,n/a,n/a,n/a,90,,,,partial
+F2-20,figure,2-42,67,direct shear,schematic,0,0,n/a,n/a,n/a,n/a,90,yes,2,,partial
+F2-21,figure,2-43,68,direct shear,curve,2,14,,linear,,linear,0,yes,1,,partial
+F2-22,figure,2-44,69,direct shear,curve,1,1,psf,linear,psf,linear,0,yes,1,no,agreed
+F2-23,figure,2-46,71,direct shear,curve,1,6,,,degrees,linear,0,yes,1,,partial
+F2-24,figure,2-48,73,,photo,0,0,n/a,n/a,n/a,n/a,0,,3,no,partial
+F2-25,figure,2-50,75,soil model,schematic,1,2,,linear,,linear,90,,3,,partial
+F2-26,figure,2-51,76,triaxial,photo,0,0,n/a,n/a,n/a,n/a,90,,,no,partial
+F2-27,figure,2-53,78,load penetration,photo,0,0,n/a,n/a,n/a,n/a,0,yes,2,no,agreed
+F2-28,figure,2-54,79,,photo,0,0,n/a,n/a,n/a,n/a,90,,,no,partial
+F2-29,figure,2-55,80,load penetration,curve,1,1,,linear,,linear,90,yes,1,,partial
+F2-30,figure,2-58,83,,photo,0,0,n/a,n/a,n/a,n/a,0,,,no,partial
+F2-31,figure,2-62,87,soil model,curve,1,6,degrees,linear,,log,0,,,no,partial
+F2-32,figure,2-63,88,load penetration,,1,4,,linear,lb,linear,90,yes,1,no,partial
+F2-33,figure,2-64,89,load penetration,,1,4,,linear,lb,linear,90,yes,1,no,partial
+F2-34,figure,2-65,90,load penetration,,1,3,,linear,,linear,90,yes,1,no,partial
+F2-35,figure,2-67,92,load penetration,,1,3,,linear,lb,linear,0,yes,,no,partial
+F2-36,figure,2-70,95,load penetration,curve,1,6,,normalized,,normalized,0,yes,1,no,partial
+F2-37,figure,2-71,96,load penetration,curve,1,,,normalized,,normalized,90,yes,,no,partial
+F2-38,figure,2-72,97,load penetration,curve,1,6,,normalized,,normalized,0,yes,1,no,partial
+F2-39,figure,2-73,98,load penetration,curve,1,6,,,,log,0,yes,1,no,partial
+F2-40,figure,2-75,100,load penetration,curve,1,4,,linear,,linear,90,yes,,,partial
+F2-41,figure,2-76,101,load penetration,curve,1,2,,linear,,linear,90,yes,,no,partial
+F2-42,figure,2-77,102,load penetration,curve,1,4,,linear,lb,linear,0,yes,,no,partial
+F2-43,figure,2-78,103,load penetration,curve,1,2,,linear,,linear,90,yes,,,partial
+F2-44,figure,2-79,104,load penetration,curve,1,5,,linear,lb,linear,0,yes,,no,partial
+F2-45,figure,2-81,106,load penetration,curve,1,2,,linear,lb,linear,90,yes,1,no,partial
+F2-46,figure,2-82,107,load penetration,curve,1,2,,linear,lb,linear,0,yes,1,no,partial
+F2-47,figure,2-83,108,load penetration,curve,1,2,,linear,lb,linear,0,yes,1,no,partial
+F2-48,figure,2-84,109,load penetration,curve,1,2,,linear,,linear,90,yes,1,no,partial
+F2-49,figure,2-85,110,load penetration,curve,1,,,normalized,,normalized,0,yes,1,no,partial
+F2-50,figure,2-86,111,load penetration,curve,1,7,,normalized,,normalized,0,yes,1,no,partial
+F2-51,figure,2-87,112,drag test,curve,1,5,,linear,,log,0,maybe,2,no,partial
+F2-52,figure,2-89,114,dynamic penetrometer,curve,1,5,g,linear,,,0,yes,,no,partial
+F2-53,figure,2-91,116,dynamic penetrometer,mixed,0,0,n/a,n/a,n/a,n/a,0,yes,,no,partial
+F2-54,figure,2-92,117,dynamic penetrometer,curve,3,3,,linear,,linear,90,yes,1,no,partial
+F2-55,figure,2-93,118,dynamic penetrometer,curve,1,6,,,,linear,90,yes,1,yes,partial
+F2-56,figure,2-95,120,grain size,mixed,1,6,mm,log,percent,linear,90,yes,2,yes,agreed
+F2-57,figure,2-96,121,grain size,mixed,1,,mm,log,percent,linear,90,yes,2,yes,partial
+F2-58,figure,2-97,122,grain size,mixed,1,,mm,log,percent,linear,90,yes,2,yes,partial
+F2-59,figure,2-100,125,,photo,0,0,n/a,n/a,n/a,n/a,90,,,,partial
+F2-60,figure,2-102,127,density,curve,1,4,,linear,,linear,90,yes,2,yes,partial
+F2-61,figure,2-105,130,bed preparation,mixed,0,0,n/a,n/a,n/a,n/a,0,yes,2,,partial
+F2-62,figure,2-106,131,bed preparation,photo,0,0,n/a,n/a,n/a,n/a,0,,,,partial
+F2-63,figure,2-108,133,bed preparation,photo,0,0,n/a,n/a,n/a,n/a,90,,,,partial
+F2-64,figure,2-111,136,bed preparation,photo,0,0,n/a,n/a,n/a,n/a,90,,,,partial
+F2-65,figure,2-112,137,bed preparation,photo,0,0,n/a,n/a,n/a,n/a,90,,,,partial

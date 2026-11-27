@@ -1,0 +1,47 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F5-32,1,strut3,trace,1,1356.5,3503.0,2.875,2.875,,origin partially merged with left frame and zero ruling,4.25e-06,-0.0153,0.00020825,1.0534,piecewise extrapolated x y
+F5-32,1,strut3,feature,2,1356.5,3503.0,2.875,2.875,,"first, origin partially merged with left frame and zero ruling",4.25e-06,-0.0153,0.00020825,1.0534,piecewise extrapolated x y
+F5-32,1,strut3,trace,3,1337.0,3469.0,2.375,2.375,,,0.00198374,-4.5244,0.00017574,0.8744,piecewise
+F5-32,1,strut3,trace,4,1313.43,3445.54,2.75,2.75,,,0.0033532,-10.0161,0.00019619,0.9125,piecewise
+F5-32,1,strut3,trace,5,1299.33,3433.62,2.875,2.875,,,0.00404953,-13.3065,0.00020273,0.9113,piecewise
+F5-32,1,strut3,trace,6,1292.25,3427.28,2.5,2.5,,,0.00441961,-14.958,0.00018044,0.8058,piecewise
+F5-32,1,strut3,feature,7,1277.5,3405.0,2.125,2.125,,"knee, minimum, first compression crest",0.00571562,-18.3781,0.00015719,0.6835,piecewise
+F5-32,1,strut3,trace,8,1277.5,3400.0,2.125,2.125,,,0.00600513,-18.3667,0.0001569,0.6836,piecewise
+F5-32,1,strut3,trace,9,1291.46,3382.47,2.875,2.875,,,0.007015,-15.0417,0.00019966,0.895,piecewise
+F5-32,1,strut3,trace,10,1310.57,3364.55,2.75,2.75,,,0.00804606,-10.5035,0.00019136,0.908,piecewise
+F5-32,1,strut3,trace,11,1313.57,3361.54,2.75,2.75,,,0.00821937,-9.7906,0.00019119,0.9148,piecewise
+F5-32,1,strut3,trace,12,1333.16,3344.19,3.625,3.625,,,0.00921791,-5.1403,0.00024128,1.1688,piecewise
+F5-32,1,strut3,trace,13,1347.02,3330.03,3.5,3.5,,,0.0100332,-1.8456,0.00023241,1.17,piecewise
+F5-32,1,strut3,trace,14,1354.57,3323.0,3.375,3.375,,ruling or frame meets trace; measured nearby stroke thickness,0.01042915,-0.0524,0.0002206,1.1748,piecewise extrapolated y
+F5-32,1,strut3,feature,15,1374.5,3297.0,3.125,3.125,,"peak, positive lobe below the zero ruling",0.0118978,4.6989,0.00020634,1.2362,piecewise extrapolated y
+F5-32,1,strut3,trace,16,1374.5,3295.0,3.125,3.125,,,0.01201123,4.7036,0.00020632,1.2363,piecewise extrapolated y
+F5-32,1,strut3,trace,17,1353.19,3260.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness,0.01399906,-0.2312,0.00020583,1.1095,piecewise extrapolated y
+F5-32,1,strut3,trace,18,1337.5,3225.0,2.125,2.125,,,0.01598276,-3.8438,0.00014872,0.8214,piecewise
+F5-32,1,strut3,feature,19,1334.62,3198.0,2.0,2.0,,"knee, minimum, first small compression lobe",0.01751139,-4.4595,0.00014161,0.7857,piecewise
+F5-32,1,strut3,trace,20,1334.5,3189.0,2.125,2.125,,,0.01802089,-4.467,0.00014874,0.8156,piecewise
+F5-32,1,strut3,trace,21,1337.5,3154.0,2.125,2.125,,,0.02000305,-3.6799,0.00016238,0.8231,piecewise
+F5-32,1,strut3,trace,22,1342.38,3073.0,3.0,3.0,,,0.02500263,-2.3435,0.00021641,1.046,piecewise
+F5-32,1,strut3,feature,23,1342.38,3060.0,3.0,3.0,,"peak, shallow signed-load maximum",0.02580488,-2.3134,0.00021655,1.0463,piecewise
+F5-32,1,strut3,trace,24,1336.5,2992.0,3.125,3.125,,,0.03000343,-3.5411,0.00022485,1.0649,piecewise
+F5-32,1,strut3,feature,25,1333.0,2934.0,2.375,2.375,,"knee, minimum, second small compression lobe",0.03338997,-4.2316,0.00016869,0.8784,piecewise
+F5-32,1,strut3,trace,26,1333.0,2906.0,2.625,2.625,,,0.03502419,-4.167,0.00018335,0.9391,piecewise
+F5-32,1,strut3,trace,27,1340.5,2821.0,2.125,2.125,,,0.03998277,-2.2032,0.00015449,0.8378,piecewise
+F5-32,1,strut3,trace,28,1347.5,2735.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness,0.0450212,-0.3541,0.00018403,0.9857,piecewise extrapolated y
+F5-32,1,strut3,feature,29,1348.0,2711.0,2.625,2.625,,"peak, near-zero shoulder with partly merged ink, ruling or frame meets trace; measured nearby stroke thickness",0.04642777,-0.1806,0.00018403,0.9902,piecewise extrapolated y
+F5-32,1,strut3,trace,30,1347.5,2650.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness,0.05000336,-0.1568,0.00021348,1.1131,piecewise extrapolated y
+F5-32,1,strut3,trace,31,1341.0,2564.0,1.625,1.625,,,0.05501723,-1.4899,0.00012671,0.7249,piecewise
+F5-32,1,strut3,feature,32,1340.5,2552.0,2.125,2.125,,"knee, compression starts increasing more rapidly",0.05571671,-1.58,0.00015634,0.8443,piecewise
+F5-32,1,strut3,trace,33,1329.5,2479.0,3.125,3.125,,,0.05997446,-4.0052,0.00021838,1.0619,piecewise
+F5-32,1,strut3,trace,34,1311.75,2393.95,2.875,2.875,,,0.06497926,-7.9958,0.00020172,0.9641,piecewise
+F5-32,1,strut3,trace,35,1293.5,2309.0,3.125,3.125,,,0.06997857,-12.1063,0.00021484,0.9854,piecewise
+F5-32,1,strut3,trace,36,1274.5,2224.0,2.125,2.125,,,0.07500007,-16.3955,0.00015559,0.7044,piecewise
+F5-32,1,strut3,trace,37,1258.33,2147.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness,0.0795487,-20.0364,0.00018525,0.79,piecewise
+F5-32,1,strut3,trace,38,1255.67,2139.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness,0.08002148,-20.6429,0.00018513,0.7786,piecewise
+F5-32,1,strut3,feature,39,1249.0,2107.0,2.625,2.625,,"knee, rise eases toward the late compression crest",0.08190088,-22.1369,0.00018418,0.7787,piecewise
+F5-32,1,strut3,trace,40,1240.0,2054.0,2.625,2.625,,,0.08501296,-24.1317,0.00018418,0.7782,piecewise
+F5-32,1,strut3,trace,41,1231.5,1969.0,3.125,3.125,,,0.09000209,-25.9386,0.00021495,0.8966,piecewise extrapolated x
+F5-32,1,strut3,feature,42,1228.38,1884.0,3.0,3.0,,"knee, minimum, largest compression magnitude",0.09498945,-26.4823,0.00023697,0.8671,piecewise extrapolated x
+F5-32,1,strut3,trace,43,1228.38,1884.0,3.0,3.0,,,0.09498945,-26.4823,0.00023697,0.8671,piecewise extrapolated x
+F5-32,1,strut3,trace,44,1232.5,1799.0,2.125,2.125,,,0.09997443,-25.3234,0.00021446,0.66,piecewise extrapolated x
+F5-32,1,strut3,trace,45,1237.0,1744.0,1.375,1.375,,free tip beyond .10 s,0.1031994,-24.1415,0.00018899,0.4824,piecewise extrapolated x
+F5-32,1,strut3,feature,46,1237.0,1744.0,1.375,1.375,,"last, free tip beyond .10 s",0.1031994,-24.1415,0.00018899,0.4824,piecewise extrapolated x

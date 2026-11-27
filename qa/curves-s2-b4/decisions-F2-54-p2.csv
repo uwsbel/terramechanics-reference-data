@@ -1,0 +1,12 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+2,r54025,feature,20,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 005 (Claude's adjudicator: p; Codex's: p))
+2,r54025,feature,71,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 007 (Claude's adjudicator: yes; Codex's: yes)
+2,r54025,trace,90,claude,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 009 (Claude's adjudicator: all no; Codex's: all no)
+2,r54025,trace,13,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+2,r54025,trace,14,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+2,r54025,trace,15,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+2,r54025,trace,16,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+2,r54025,trace,17,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)"
+2,r54025,feature,89,claude,excluded,,"at the place of the end sample both adjudicators judged off the line (3 to 5 px past the trace's ink, on the top frame line; blind adjudication 2026-11-19-dpt, curve-end item of this panel); excluded by the same criterion (Codex's review, 2026-11-19)"
+2,r54025,trace,100,codex,excluded,,"inside the top frame line, 3.4 px from the trace's ink (the ink check's measurement), as the end sample both adjudicators judged off the line in this panel; excluded by the same criterion (Codex's review, 2026-11-19)"
+2,r54025,feature,101,codex,excluded,,"inside the top frame line, 3.4 px from the trace's ink (the ink check's measurement), as the end sample both adjudicators judged off the line in this panel; excluded by the same criterion (Codex's review, 2026-11-19)"

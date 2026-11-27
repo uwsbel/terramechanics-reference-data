@@ -1,0 +1,60 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-3C,1,n4695,marker,1,859.0,1662.0,2,3,plus,"first point; sits on the 4000 gridline, curve starts here"
+FC-3C,1,n4695,marker,2,971.9,1397.6,2,2,plus,
+FC-3C,1,n4695,marker,3,1086.3,1292.1,2,2,plus,8 px left of the x=50 gridline
+FC-3C,1,n4695,marker,4,1196.8,1236.6,2,2,plus,
+FC-3C,1,n4695,marker,5,1308.0,1214.0,3,3,plus,merged with the thick dash of the curve; arms barely visible
+FC-3C,1,n4695,marker,6,1431.0,1214.0,2,2,plus,
+FC-3C,1,n4695,marker,7,1549.6,1231.7,2,2,plus,
+FC-3C,1,n4695,marker,8,1660.6,1262.2,2,2,plus,
+FC-3C,1,n4695,marker,9,1774.5,1304.5,2,2,plus,
+FC-3C,1,n4695,marker,10,1950.9,1390.4,2,3,plus,"just below the 5000 gridline, 20 px left of the x=200 gridline"
+FC-3C,1,n4695,marker,11,2092.0,1405.5,2,2,plus,template instance
+FC-3C,1,n4695,marker,12,2266.2,1446.0,3,2,plus,on the x=250 gridline; last point
+FC-3C,1,n3815,marker,1,859.3,1897.0,2,2,circle,"first point, curve starts here"
+FC-3C,1,n3815,marker,2,975.0,1626.5,2,2,circle,
+FC-3C,1,n3815,marker,3,1088.6,1534.2,2,2,circle,touches the x=50 gridline
+FC-3C,1,n3815,marker,4,1200.4,1500.2,2,2,circle,
+FC-3C,1,n3815,marker,5,1311.5,1461.0,2,2,circle,
+FC-3C,1,n3815,marker,6,1427.0,1445.5,2,2,circle,
+FC-3C,1,n3815,marker,7,1542.8,1457.0,2,2,circle,
+FC-3C,1,n3815,marker,8,1664.9,1496.9,2,2,circle,
+FC-3C,1,n3815,marker,9,1781.0,1527.5,2,2,circle,
+FC-3C,1,n3815,marker,10,1957.0,1590.0,2,2,circle,template instance
+FC-3C,1,n3815,marker,11,2103.5,1608.0,2,2,circle,
+FC-3C,1,n3815,marker,12,2258.1,1659.1,3,3,circle,on the crossing of the x=250 and 4000 gridlines; last point
+FC-3C,1,n2934,marker,1,862.3,2073.3,2,2,triangle-down,"first point, curve starts here"
+FC-3C,1,n2934,marker,2,977.8,1867.0,2,2,triangle-down,
+FC-3C,1,n2934,marker,3,1085.6,1833.0,2,2,triangle-down,left edge on the x=50 gridline
+FC-3C,1,n2934,marker,4,1207.0,1830.2,2,2,triangle-down,
+FC-3C,1,n2934,marker,5,1321.2,1829.0,2,2,triangle-down,
+FC-3C,1,n2934,marker,6,1439.3,1833.3,2,2,triangle-down,
+FC-3C,1,n2934,marker,7,1552.4,1846.8,2,2,triangle-down,
+FC-3C,1,n2934,marker,8,1677.0,1881.0,2,2,triangle-down,on the x=150 gridline
+FC-3C,1,n2934,marker,9,1787.3,1911.3,2,2,triangle-down,
+FC-3C,1,n2934,marker,10,1959.5,1956.0,2,2,triangle-down,"near the 3000 gridline, left of the x=200 gridline"
+FC-3C,1,n2934,marker,11,2104.4,1983.4,2,2,triangle-down,
+FC-3C,1,n2934,marker,12,2251.3,1999.7,2,2,triangle-down,last point; 15 px left of the x=250 gridline
+FC-3C,1,n1761,marker,1,873.5,2322.0,2,2,square,"first point, curve starts here"
+FC-3C,1,n1761,marker,2,981.5,2168.0,2,2,square,
+FC-3C,1,n1761,marker,3,1092.0,2123.5,2,2,square,right edge on the x=50 gridline
+FC-3C,1,n1761,marker,4,1206.5,2123.5,2,2,square,
+FC-3C,1,n1761,marker,5,1319.2,2121.5,2,2,square,
+FC-3C,1,n1761,marker,6,1439.0,2129.5,2,2,square,
+FC-3C,1,n1761,marker,7,1668.0,2141.5,2,2,square,template instance; no square between x=110 and x=150
+FC-3C,1,n1761,marker,8,1787.3,2158.7,2,2,square,
+FC-3C,1,n1761,marker,9,1957.0,2185.0,2,2,square,left of the x=200 gridline
+FC-3C,1,n1761,marker,10,2083.1,2211.9,2,2,square,
+FC-3C,1,n1761,marker,11,2266.0,2248.0,3,3,square,on the crossing of the x=250 and 2000 gridlines; last point
+FC-3C,1,n734,marker,1,874.7,2536.7,2,2,triangle-up,first point; base touches the 1000 gridline
+FC-3C,1,n734,marker,2,984.0,2455.5,2,2,triangle-up,
+FC-3C,1,n734,marker,3,1102.5,2448.5,2,2,triangle-up,on the x=50 gridline
+FC-3C,1,n734,marker,4,1215.0,2468.0,2,2,triangle-up,
+FC-3C,1,n734,marker,5,1327.5,2491.5,2,2,triangle-up,
+FC-3C,1,n734,marker,6,1447.5,2507.0,2,2,triangle-up,
+FC-3C,1,n734,marker,7,1566.6,2529.8,2,2,triangle-up,
+FC-3C,1,n734,marker,8,1687.0,2546.7,2,2,triangle-up,on the crossing of the x=150 and 1000 gridlines
+FC-3C,1,n734,marker,9,1802.5,2555.0,2,2,triangle-up,
+FC-3C,1,n734,marker,10,1972.1,2569.1,2,2,triangle-up,on the x=200 gridline
+FC-3C,1,n734,marker,11,2093.5,2585.5,2,2,triangle-up,
+FC-3C,1,n734,marker,12,2258.2,2587.4,2,2,triangle-up,last point; 11 px left of the x=250 gridline

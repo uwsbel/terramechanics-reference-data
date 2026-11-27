@@ -1,0 +1,1784 @@
+{
+ "image": "packet/p0117.png",
+ "box": [
+  290,
+  1300,
+  945,
+  3050
+ ],
+ "model": "x = ax[0]*u + ax[1]*v + ax[2] (least squares on the timing-line anchors); y = ay[0]*u + ay[1]*v + ay[2] with its iso-value direction fixed to the dashed constant-g line's tilt du/dv, least squares on the ruler-tick anchors (hand-made tick calibration, out/F2-54/work/build_cal.py)",
+ "ax": [
+  -0.0005074776719171676,
+  -0.06429076598287471,
+  175.69850199110687
+ ],
+ "ay": [
+  -0.09745024450798741,
+  0.0011686883582871861,
+  80.63551540306763
+ ],
+ "x_per_px": 0.0642927688333008,
+ "y_per_px": 0.09745725210134608,
+ "rms_residual_x": 0.43854645075582005,
+ "rms_residual_y": 0.0530533826057333,
+ "max_residual_x": 0.712898860521932,
+ "max_residual_y": 0.09521808593574121,
+ "n_anchors": 205,
+ "x_direction": "up",
+ "y_direction": "left",
+ "x_unit": "ms (timing lines 10 ms apart, scale bar '.01 sec'; 0 ms = the timing line through the G-ruler labels, task convention)",
+ "y_unit": "g (printed G's)",
+ "iso_g_direction_du_dv": 0.011993,
+ "dashed_line": {
+  "u_at_v0": 820.0,
+  "slope_du_dv": 0.011993,
+  "rms_px": 0.73,
+  "n_rows": 636,
+  "g_on_ruler_at_v2650": 0.726
+ },
+ "ruler_spine": {
+  "v_at_u0": 2633.9,
+  "slope_dv_du": -0.015936,
+  "rms_px": 0.42
+ },
+ "horizontal_lines": [
+  {
+   "x_value": -20,
+   "slope_dv_du": -0.009885,
+   "v_at_u0": 3039.59,
+   "rms_px": 0.29,
+   "n_anchors": 15,
+   "source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)"
+  },
+  {
+   "x_value": -10,
+   "slope_dv_du": -0.008994,
+   "v_at_u0": 2882.02,
+   "rms_px": 0.43,
+   "n_anchors": 17,
+   "source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)"
+  },
+  {
+   "x_value": 0,
+   "slope_dv_du": -0.010793,
+   "v_at_u0": 2731.05,
+   "rms_px": 0.44,
+   "n_anchors": 13,
+   "source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)"
+  },
+  {
+   "x_value": 10,
+   "slope_dv_du": -0.009108,
+   "v_at_u0": 2577.82,
+   "rms_px": 0.37,
+   "n_anchors": 15,
+   "source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)"
+  },
+  {
+   "x_value": 20,
+   "slope_dv_du": -0.005841,
+   "v_at_u0": 2425.87,
+   "rms_px": 0.27,
+   "n_anchors": 16,
+   "source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)"
+  },
+  {
+   "x_value": 30,
+   "slope_dv_du": -0.007135,
+   "v_at_u0": 2270.63,
+   "rms_px": 0.3,
+   "n_anchors": 17,
+   "source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)"
+  },
+  {
+   "x_value": 40,
+   "slope_dv_du": -0.007297,
+   "v_at_u0": 2120.35,
+   "rms_px": 0.44,
+   "n_anchors": 18,
+   "source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)"
+  },
+  {
+   "x_value": 50,
+   "slope_dv_du": -0.004797,
+   "v_at_u0": 1960.57,
+   "rms_px": 0.32,
+   "n_anchors": 17,
+   "source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)"
+  },
+  {
+   "x_value": 60,
+   "slope_dv_du": -0.007355,
+   "v_at_u0": 1805.78,
+   "rms_px": 0.54,
+   "n_anchors": 17,
+   "source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)"
+  },
+  {
+   "x_value": 70,
+   "slope_dv_du": -0.002401,
+   "v_at_u0": 1638.5,
+   "rms_px": 0.36,
+   "n_anchors": 17,
+   "source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)"
+  },
+  {
+   "x_value": 80,
+   "slope_dv_du": -0.002544,
+   "v_at_u0": 1475.66,
+   "rms_px": 0.41,
+   "n_anchors": 16,
+   "source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)"
+  },
+  {
+   "x_value": 90,
+   "slope_dv_du": -0.00357,
+   "v_at_u0": 1319.85,
+   "rms_px": 0.51,
+   "n_anchors": 16,
+   "source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)"
+  }
+ ],
+ "anchors": [
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 610.0,
+   "v": 3033.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 630.0,
+   "v": 3033.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 650.0,
+   "v": 3033.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 670.0,
+   "v": 3033.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 710.0,
+   "v": 3032.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 730.0,
+   "v": 3032.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 750.0,
+   "v": 3032.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 770.0,
+   "v": 3032.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 790.0,
+   "v": 3032.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 810.0,
+   "v": 3031.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 830.0,
+   "v": 3031.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 850.0,
+   "v": 3031.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 890.0,
+   "v": 3030.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 910.0,
+   "v": 3030.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -20,
+   "y_value": "",
+   "u": 930.0,
+   "v": 3030.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 610..930 (fit v = 3039.59 -0.00988 u, rms 0.29 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2876.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2876.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 640.0,
+   "v": 2876.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 660.0,
+   "v": 2876.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2876.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2877.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 740.0,
+   "v": 2875.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 760.0,
+   "v": 2875.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 780.0,
+   "v": 2874.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2874.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 820.0,
+   "v": 2874.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 840.0,
+   "v": 2874.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 860.0,
+   "v": 2874.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2874.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2874.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2873.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": -10,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2873.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2882.02 -0.00899 u, rms 0.43 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2724.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2724.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 680.0,
+   "v": 2724.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2724.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2724.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 780.0,
+   "v": 2722.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2722.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 820.0,
+   "v": 2723.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 840.0,
+   "v": 2721.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2721.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2721.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2721.5,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 0,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2720.0,
+   "x_source": "measured: ink center of the timing line in 13 columns u 600..940 (fit v = 2731.05 -0.01079 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 640.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 660.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 680.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2571.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2572.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 740.0,
+   "v": 2570.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 760.0,
+   "v": 2571.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 780.0,
+   "v": 2570.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2570.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2570.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2569.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2569.5,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 10,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2569.0,
+   "x_source": "measured: ink center of the timing line in 15 columns u 600..940 (fit v = 2577.82 -0.00911 u, rms 0.37 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2422.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 640.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 660.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 680.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2421.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 740.0,
+   "v": 2422.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 760.0,
+   "v": 2421.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2421.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 820.0,
+   "v": 2421.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 840.0,
+   "v": 2421.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2420.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2420.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2420.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 20,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2420.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 2425.87 -0.00584 u, rms 0.27 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 640.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 660.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 680.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2266.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 740.0,
+   "v": 2265.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 780.0,
+   "v": 2265.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2265.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 820.0,
+   "v": 2265.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 840.0,
+   "v": 2264.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 860.0,
+   "v": 2265.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2264.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2264.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2263.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 30,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2263.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 2270.63 -0.00713 u, rms 0.30 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 600.0,
+   "v": 2116.0,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 620.0,
+   "v": 2116.0,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 640.0,
+   "v": 2115.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 660.0,
+   "v": 2115.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 680.0,
+   "v": 2115.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 700.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 720.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 740.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 760.0,
+   "v": 2113.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 780.0,
+   "v": 2115.0,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 800.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 820.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 840.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 860.0,
+   "v": 2115.0,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 880.0,
+   "v": 2114.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 900.0,
+   "v": 2113.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 920.0,
+   "v": 2113.5,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 40,
+   "y_value": "",
+   "u": 940.0,
+   "v": 2113.0,
+   "x_source": "measured: ink center of the timing line in 18 columns u 600..940 (fit v = 2120.35 -0.00730 u, rms 0.44 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 600.0,
+   "v": 1958.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 620.0,
+   "v": 1957.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 640.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 660.0,
+   "v": 1957.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 680.0,
+   "v": 1957.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 700.0,
+   "v": 1957.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 720.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 740.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 760.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 780.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 820.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 840.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 860.0,
+   "v": 1957.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 880.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 900.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 920.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 50,
+   "y_value": "",
+   "u": 940.0,
+   "v": 1956.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1960.57 -0.00480 u, rms 0.32 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 600.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 620.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 640.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 660.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 680.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 700.0,
+   "v": 1800.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 720.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 740.0,
+   "v": 1800.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 760.0,
+   "v": 1800.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 780.0,
+   "v": 1800.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 800.0,
+   "v": 1799.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 820.0,
+   "v": 1801.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 840.0,
+   "v": 1799.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 860.0,
+   "v": 1799.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 900.0,
+   "v": 1799.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 920.0,
+   "v": 1799.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 60,
+   "y_value": "",
+   "u": 940.0,
+   "v": 1798.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1805.78 -0.00735 u, rms 0.54 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 600.0,
+   "v": 1637.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 620.0,
+   "v": 1637.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 640.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 660.0,
+   "v": 1637.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 680.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 700.0,
+   "v": 1637.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 720.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 740.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 760.0,
+   "v": 1637.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 780.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 800.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 820.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 860.0,
+   "v": 1637.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 880.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 900.0,
+   "v": 1636.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 920.0,
+   "v": 1636.5,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 70,
+   "y_value": "",
+   "u": 940.0,
+   "v": 1636.0,
+   "x_source": "measured: ink center of the timing line in 17 columns u 600..940 (fit v = 1638.50 -0.00240 u, rms 0.36 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 600.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 620.0,
+   "v": 1474.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 660.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 680.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 700.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 720.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 740.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 760.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 780.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 800.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 820.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 860.0,
+   "v": 1474.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 880.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 900.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 920.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 80,
+   "y_value": "",
+   "u": 940.0,
+   "v": 1473.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1475.66 -0.00254 u, rms 0.41 px)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 600.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 620.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 640.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 660.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 680.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 700.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 720.0,
+   "v": 1317.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 740.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 760.0,
+   "v": 1318.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 800.0,
+   "v": 1316.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 820.0,
+   "v": 1316.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 860.0,
+   "v": 1316.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 880.0,
+   "v": 1316.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 900.0,
+   "v": 1317.5,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 920.0,
+   "v": 1316.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": 90,
+   "y_value": "",
+   "u": 940.0,
+   "v": 1316.0,
+   "x_source": "measured: ink center of the timing line in 16 columns u 600..940 (fit v = 1319.85 -0.00357 u, rms 0.51 px); top frame line taken as the 90 ms timing line (spacing from the 80 ms line within the spread of the others)",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 20,
+   "u": 654.02,
+   "v": 2635.47,
+   "x_source": "",
+   "y_source": "measured: labeled major tick, center of its ink 6..14 px below the spine center, width 5 px, length 60 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 18,
+   "u": 675.02,
+   "v": 2635.14,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 5 px, length 27 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 16,
+   "u": 694.02,
+   "v": 2634.84,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 3 px, length 24 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 14,
+   "u": 715.52,
+   "v": 2634.49,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 4 px, length 27 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 12,
+   "u": 735.52,
+   "v": 2634.17,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 6 px, length 28 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 10,
+   "u": 756.02,
+   "v": 2633.85,
+   "x_source": "",
+   "y_source": "measured: labeled major tick, center of its ink 6..14 px below the spine center, width 5 px, length 61 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 8,
+   "u": 777.02,
+   "v": 2633.51,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 5 px, length 25 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 6,
+   "u": 798.02,
+   "v": 2633.18,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 5 px, length 26 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 4,
+   "u": 818.52,
+   "v": 2632.86,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 6 px, length 26 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 2,
+   "u": 837.52,
+   "v": 2632.54,
+   "x_source": "",
+   "y_source": "measured: minor tick, center of its ink 6..14 px below the spine center, width 6 px, length 26 px; value by counting ticks between labels"
+  },
+  {
+   "x_value": "",
+   "y_value": 0,
+   "u": 859.63,
+   "v": 2650.0,
+   "x_source": "",
+   "y_source": "measured: labeled 0 tick, hidden under the trace's pre-impact baseline (the '0' label and the spine's end sit on it); center of the baseline ink in the tick band, 41 rows, ink width 9 px, dashed line excluded; location known to about half the ink width"
+  }
+ ]
+}

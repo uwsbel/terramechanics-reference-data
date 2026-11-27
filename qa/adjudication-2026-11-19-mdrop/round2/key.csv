@@ -1,0 +1,15 @@
+subject_rows,reference_rows,item,P,Q,subject_label,subject_reader,verify,figure,panel,series,kind
+codex|pen|feature|9,,001,codex,claude,P,codex,one-sided,F5-24,1,pen,feature-only
+codex|strut3|feature|23,,002,codex,claude,P,codex,one-sided,F5-25,1,strut3,feature-only
+codex|strut3|feature|25,,003,claude,codex,Q,codex,one-sided,F5-25,1,strut3,feature-only
+codex|strut3|feature|37,,004,codex,claude,P,codex,one-sided,F5-25,1,strut3,feature-only
+codex|strut3|feature|39,,005,codex,claude,P,codex,one-sided,F5-25,1,strut3,feature-only
+codex|strut3|feature|42,,006,claude,codex,Q,codex,one-sided,F5-25,1,strut3,feature-only
+codex|strut2|feature|40,,007,codex,claude,P,codex,one-sided,F5-25,2,strut2,feature-only
+codex|strut1|feature|61,,008,claude,codex,Q,codex,one-sided,F5-25,3,strut1,feature-only
+codex|pen|feature|36,,009,claude,codex,Q,codex,one-sided,F5-31,1,pen,feature-only
+claude|pen|trace|1,codex|pen|trace|3,010,codex,claude,Q,claude,one-sided,F5-31,1,pen,curve-start
+codex|strut2|feature|5,,011,codex,claude,P,codex,one-sided,F5-32,2,strut2,feature-only
+codex|strut2|feature|28,,012,codex,claude,P,codex,one-sided,F5-32,2,strut2,feature-only
+codex|strut2|feature|35,,013,claude,codex,Q,codex,one-sided,F5-32,2,strut2,feature-only
+claude|strut1|feature|2,codex|strut1|feature|8,014,claude,codex,P,claude,pair,F5-32,3,strut1,feature-disagree

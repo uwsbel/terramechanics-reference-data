@@ -1,0 +1,538 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-3C,1,n4695,marker,1,859.0,1662.0,2,3,plus,"first point; sits on the 4000 gridline, curve starts here"
+FC-3C,1,n4695,marker,2,971.9,1397.6,2,2,plus,
+FC-3C,1,n4695,marker,3,1086.3,1292.1,2,2,plus,8 px left of the x=50 gridline
+FC-3C,1,n4695,marker,4,1196.8,1236.6,2,2,plus,
+FC-3C,1,n4695,marker,5,1308.0,1214.0,3,3,plus,merged with the thick dash of the curve; arms barely visible
+FC-3C,1,n4695,marker,6,1431.0,1214.0,2,2,plus,
+FC-3C,1,n4695,marker,7,1549.6,1231.7,2,2,plus,
+FC-3C,1,n4695,marker,8,1660.6,1262.2,2,2,plus,
+FC-3C,1,n4695,marker,9,1774.5,1304.5,2,2,plus,
+FC-3C,1,n4695,marker,10,1950.9,1390.4,2,3,plus,"just below the 5000 gridline, 20 px left of the x=200 gridline"
+FC-3C,1,n4695,marker,11,2092.0,1405.5,2,2,plus,template instance
+FC-3C,1,n4695,marker,12,2266.2,1446.0,3,2,plus,on the x=250 gridline; last point
+FC-3C,1,n3815,marker,1,859.3,1897.0,2,2,circle,"first point, curve starts here"
+FC-3C,1,n3815,marker,2,975.0,1626.5,2,2,circle,
+FC-3C,1,n3815,marker,3,1088.6,1534.2,2,2,circle,touches the x=50 gridline
+FC-3C,1,n3815,marker,4,1200.4,1500.2,2,2,circle,
+FC-3C,1,n3815,marker,5,1311.5,1461.0,2,2,circle,
+FC-3C,1,n3815,marker,6,1427.0,1445.5,2,2,circle,
+FC-3C,1,n3815,marker,7,1542.8,1457.0,2,2,circle,
+FC-3C,1,n3815,marker,8,1664.9,1496.9,2,2,circle,
+FC-3C,1,n3815,marker,9,1781.0,1527.5,2,2,circle,
+FC-3C,1,n3815,marker,10,1957.0,1590.0,2,2,circle,template instance
+FC-3C,1,n3815,marker,11,2103.5,1608.0,2,2,circle,
+FC-3C,1,n3815,marker,12,2258.1,1659.1,3,3,circle,on the crossing of the x=250 and 4000 gridlines; last point
+FC-3C,1,n2934,marker,1,862.3,2073.3,2,2,triangle-down,"first point, curve starts here"
+FC-3C,1,n2934,marker,2,977.8,1867.0,2,2,triangle-down,
+FC-3C,1,n2934,marker,3,1085.6,1833.0,2,2,triangle-down,left edge on the x=50 gridline
+FC-3C,1,n2934,marker,4,1207.0,1830.2,2,2,triangle-down,
+FC-3C,1,n2934,marker,5,1321.2,1829.0,2,2,triangle-down,
+FC-3C,1,n2934,marker,6,1439.3,1833.3,2,2,triangle-down,
+FC-3C,1,n2934,marker,7,1552.4,1846.8,2,2,triangle-down,
+FC-3C,1,n2934,marker,8,1677.0,1881.0,2,2,triangle-down,on the x=150 gridline
+FC-3C,1,n2934,marker,9,1787.3,1911.3,2,2,triangle-down,
+FC-3C,1,n2934,marker,10,1959.5,1956.0,2,2,triangle-down,"near the 3000 gridline, left of the x=200 gridline"
+FC-3C,1,n2934,marker,11,2104.4,1983.4,2,2,triangle-down,
+FC-3C,1,n2934,marker,12,2251.3,1999.7,2,2,triangle-down,last point; 15 px left of the x=250 gridline
+FC-3C,1,n1761,marker,1,873.5,2322.0,2,2,square,"first point, curve starts here"
+FC-3C,1,n1761,marker,2,981.5,2168.0,2,2,square,
+FC-3C,1,n1761,marker,3,1092.0,2123.5,2,2,square,right edge on the x=50 gridline
+FC-3C,1,n1761,marker,4,1206.5,2123.5,2,2,square,
+FC-3C,1,n1761,marker,5,1319.2,2121.5,2,2,square,
+FC-3C,1,n1761,marker,6,1439.0,2129.5,2,2,square,
+FC-3C,1,n1761,marker,7,1668.0,2141.5,2,2,square,template instance; no square between x=110 and x=150
+FC-3C,1,n1761,marker,8,1787.3,2158.7,2,2,square,
+FC-3C,1,n1761,marker,9,1957.0,2185.0,2,2,square,left of the x=200 gridline
+FC-3C,1,n1761,marker,10,2083.1,2211.9,2,2,square,
+FC-3C,1,n1761,marker,11,2266.0,2248.0,3,3,square,on the crossing of the x=250 and 2000 gridlines; last point
+FC-3C,1,n734,marker,1,874.7,2536.7,2,2,triangle-up,first point; base touches the 1000 gridline
+FC-3C,1,n734,marker,2,984.0,2455.5,2,2,triangle-up,
+FC-3C,1,n734,marker,3,1102.5,2448.5,2,2,triangle-up,on the x=50 gridline
+FC-3C,1,n734,marker,4,1215.0,2468.0,2,2,triangle-up,
+FC-3C,1,n734,marker,5,1327.5,2491.5,2,2,triangle-up,
+FC-3C,1,n734,marker,6,1447.5,2507.0,2,2,triangle-up,
+FC-3C,1,n734,marker,7,1566.6,2529.8,2,2,triangle-up,
+FC-3C,1,n734,marker,8,1687.0,2546.7,2,2,triangle-up,on the crossing of the x=150 and 1000 gridlines
+FC-3C,1,n734,marker,9,1802.5,2555.0,2,2,triangle-up,
+FC-3C,1,n734,marker,10,1972.1,2569.1,2,2,triangle-up,on the x=200 gridline
+FC-3C,1,n734,marker,11,2093.5,2585.5,2,2,triangle-up,
+FC-3C,1,n734,marker,12,2258.2,2587.4,2,2,triangle-up,last point; 11 px left of the x=250 gridline
+FC-3C,1,n4695,trace,1,864.0,1644.0,4.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,2,869.0,1616.0,4.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,3,877.5,1588.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,4,881.5,1574.0,5.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,5,886.5,1560.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,6,892.5,1546.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,7,897.5,1532.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,8,903.5,1518.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,9,910.0,1504.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,10,916.5,1490.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,11,923.0,1476.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,12,930.5,1462.0,7.0,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,13,939.0,1448.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,14,948.0,1434.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,15,956.0,1420.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n4695,trace,16,986.0,1382.0,2.0,9.5,,"column moved +3 px off a gridline, marker or dash gap; run touches the 5000 psf gridline (fitted v=1379.1), may include its ink"
+FC-3C,1,n4695,trace,17,997.0,1371.0,2.0,10.5,,"run touches the 5000 psf gridline (fitted v=1379.0), may include its ink"
+FC-3C,1,n4695,trace,18,1011.0,1355.0,2.0,9.5,,
+FC-3C,1,n4695,trace,19,1025.0,1341.0,2.0,10.5,,
+FC-3C,1,n4695,trace,20,1039.0,1327.5,2.0,9.0,,
+FC-3C,1,n4695,trace,21,1053.0,1317.5,2.0,8.0,,
+FC-3C,1,n4695,trace,22,1067.0,1304.5,2.0,9.0,,
+FC-3C,1,n4695,trace,23,1072.0,1302.5,2.0,7.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,24,1104.0,1278.5,2.0,7.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,25,1109.0,1277.0,2.0,8.5,,
+FC-3C,1,n4695,trace,26,1123.0,1270.5,2.0,9.0,,
+FC-3C,1,n4695,trace,27,1137.0,1263.0,2.0,7.5,,
+FC-3C,1,n4695,trace,28,1151.0,1254.5,2.0,7.0,,
+FC-3C,1,n4695,trace,29,1165.0,1248.5,2.0,7.0,,
+FC-3C,1,n4695,trace,30,1179.0,1244.0,2.0,8.5,,
+FC-3C,1,n4695,trace,31,1213.0,1231.5,2.0,6.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,32,1221.0,1230.5,2.0,7.0,,
+FC-3C,1,n4695,trace,33,1235.0,1226.0,2.0,6.5,,
+FC-3C,1,n4695,trace,34,1249.0,1222.5,2.0,6.0,,
+FC-3C,1,n4695,trace,35,1263.0,1219.5,2.0,6.0,,
+FC-3C,1,n4695,trace,36,1277.0,1217.5,2.0,6.0,,
+FC-3C,1,n4695,trace,37,1288.0,1217.0,2.0,5.5,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,38,1325.0,1212.5,2.0,7.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,39,1333.0,1210.5,2.0,6.0,,
+FC-3C,1,n4695,trace,40,1347.0,1210.5,2.0,6.0,,
+FC-3C,1,n4695,trace,41,1361.0,1209.5,2.0,5.0,,
+FC-3C,1,n4695,trace,42,1375.0,1209.5,2.0,5.0,,
+FC-3C,1,n4695,trace,43,1398.0,1211.0,2.0,5.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,44,1403.0,1211.0,2.0,6.5,,
+FC-3C,1,n4695,trace,45,1411.0,1212.0,2.0,4.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,46,1449.0,1218.0,2.0,4.5,,"column moved +18 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,47,1459.0,1217.0,2.0,6.5,,
+FC-3C,1,n4695,trace,48,1473.0,1218.5,2.0,5.0,,
+FC-3C,1,n4695,trace,49,1487.0,1220.5,2.0,6.0,,
+FC-3C,1,n4695,trace,50,1501.0,1223.0,2.0,6.5,,
+FC-3C,1,n4695,trace,51,1515.0,1226.0,2.0,6.5,,
+FC-3C,1,n4695,trace,52,1529.0,1229.0,2.0,6.5,,
+FC-3C,1,n4695,trace,53,1534.0,1229.0,2.0,5.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,54,1569.0,1238.5,2.0,6.0,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,55,1585.0,1241.0,2.0,6.5,,
+FC-3C,1,n4695,trace,56,1599.0,1245.0,2.0,7.5,,
+FC-3C,1,n4695,trace,57,1613.0,1248.5,2.0,7.0,,
+FC-3C,1,n4695,trace,58,1627.0,1252.0,2.0,7.5,,
+FC-3C,1,n4695,trace,59,1637.0,1255.5,2.0,6.0,,"column moved -18 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,60,1692.0,1273.0,2.0,7.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,61,1697.0,1275.0,2.0,7.5,,
+FC-3C,1,n4695,trace,62,1711.0,1281.0,2.0,7.5,,
+FC-3C,1,n4695,trace,63,1725.0,1287.0,2.0,7.5,,
+FC-3C,1,n4695,trace,64,1739.0,1290.5,2.0,7.0,,
+FC-3C,1,n4695,trace,65,1753.0,1296.0,2.0,7.5,,
+FC-3C,1,n4695,trace,66,1758.0,1297.5,2.0,6.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,67,1790.0,1311.0,2.0,7.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,68,1795.0,1311.0,2.0,7.5,,
+FC-3C,1,n4695,trace,69,1809.0,1316.0,2.0,8.5,,
+FC-3C,1,n4695,trace,70,1823.0,1320.5,2.0,7.0,,
+FC-3C,1,n4695,trace,71,1837.0,1326.0,2.0,7.5,,
+FC-3C,1,n4695,trace,72,1851.0,1330.0,2.0,7.5,,
+FC-3C,1,n4695,trace,73,1865.0,1335.0,2.0,7.5,,
+FC-3C,1,n4695,trace,74,1879.0,1339.0,2.0,7.5,,
+FC-3C,1,n4695,trace,75,1893.0,1344.5,2.0,7.0,,
+FC-3C,1,n4695,trace,76,1907.0,1350.0,2.0,7.5,,
+FC-3C,1,n4695,trace,77,1921.0,1354.0,2.0,7.5,,
+FC-3C,1,n4695,trace,78,1934.0,1358.0,2.0,6.5,,"column moved -15 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,79,1980.0,1372.5,2.0,6.0,,"column moved +3 px off a gridline, marker or dash gap; run touches the 5000 psf gridline (fitted v=1371.9), may include its ink"
+FC-3C,1,n4695,trace,80,1991.0,1377.0,2.0,7.5,,"run touches the 5000 psf gridline (fitted v=1371.8), may include its ink"
+FC-3C,1,n4695,trace,81,2005.0,1378.5,2.0,9.0,,"run touches the 5000 psf gridline (fitted v=1371.7), may include its ink"
+FC-3C,1,n4695,trace,82,2019.0,1386.5,2.0,7.0,,
+FC-3C,1,n4695,trace,83,2033.0,1391.0,2.0,6.5,,
+FC-3C,1,n4695,trace,84,2047.0,1395.0,2.0,7.5,,
+FC-3C,1,n4695,trace,85,2061.0,1398.5,2.0,7.0,,
+FC-3C,1,n4695,trace,86,2069.0,1400.0,2.0,5.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,87,2118.0,1413.0,2.0,4.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,trace,88,2131.0,1416.0,2.0,7.5,,
+FC-3C,1,n4695,trace,89,2145.0,1419.0,2.0,6.5,,
+FC-3C,1,n4695,trace,90,2159.0,1421.5,2.0,7.0,,
+FC-3C,1,n4695,trace,91,2173.0,1425.0,2.0,6.5,,
+FC-3C,1,n4695,trace,92,2187.0,1428.0,2.0,6.5,,
+FC-3C,1,n4695,trace,93,2201.0,1432.5,2.0,7.0,,
+FC-3C,1,n4695,trace,94,2215.0,1435.5,2.0,7.0,,
+FC-3C,1,n4695,trace,95,2229.0,1438.0,2.0,7.5,,
+FC-3C,1,n4695,trace,96,2243.0,1441.5,2.0,7.0,,
+FC-3C,1,n4695,trace,97,2248.0,1442.0,2.0,4.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n4695,feature,1,859.0,1662.0,4.0,4.0,,first point: the drawn line begins at the first marker (checked on the zoom-3 tiles)
+FC-3C,1,n4695,feature,2,1366.2,1210.5,41.0,9.0,,"peak of the drawn line (dashed, so the top is read as the region within 4 px of the minimum v, u 1329 to 1411; u bound spans it, v is the median there)"
+FC-3C,1,n4695,feature,3,2266.2,1446.0,4.0,4.0,,last point: the drawn line ends at the last marker at x=250 (rightmost line ink at u=2306; the legend symbol sits here too)
+FC-3C,1,n3815,trace,1,866.5,1879.0,5.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,2,870.5,1851.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,3,877.0,1823.0,5.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,4,885.5,1795.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,5,889.5,1781.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,6,895.0,1767.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,7,901.0,1753.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,8,906.5,1739.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,9,913.0,1725.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,10,920.0,1711.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,11,929.0,1697.0,8.5,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,12,936.5,1683.0,8.0,2.0,,row sample on the steep first segment
+FC-3C,1,n3815,trace,13,953.0,1658.0,2.0,13.5,,"run 27 px thick (median 15): merged with a gridline or steep here; bound is half the run; run touches the 4000 psf gridline (fitted v=1669.3), may include its ink"
+FC-3C,1,n3815,trace,14,961.0,1648.5,2.0,8.0,,"column moved -12 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,15,990.0,1610.0,2.0,7.5,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,16,1001.0,1602.0,2.0,9.5,,
+FC-3C,1,n3815,trace,17,1015.0,1589.5,2.0,9.0,,
+FC-3C,1,n3815,trace,18,1029.0,1578.0,2.0,8.5,,
+FC-3C,1,n3815,trace,19,1043.0,1567.5,2.0,10.0,,
+FC-3C,1,n3815,trace,20,1057.0,1557.5,2.0,9.0,,
+FC-3C,1,n3815,trace,21,1071.0,1551.0,2.0,6.5,,
+FC-3C,1,n3815,trace,22,1113.0,1524.0,2.0,5.5,,
+FC-3C,1,n3815,trace,23,1127.0,1519.5,2.0,8.0,,
+FC-3C,1,n3815,trace,24,1141.0,1513.5,2.0,8.0,,
+FC-3C,1,n3815,trace,25,1155.0,1508.0,2.0,7.5,,
+FC-3C,1,n3815,trace,26,1169.0,1502.0,2.0,7.5,,
+FC-3C,1,n3815,trace,27,1180.0,1499.0,2.0,7.5,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,28,1217.0,1483.5,2.0,7.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,29,1225.0,1482.0,2.0,6.5,,
+FC-3C,1,n3815,trace,30,1239.0,1478.0,2.0,7.5,,
+FC-3C,1,n3815,trace,31,1253.0,1473.5,2.0,6.0,,
+FC-3C,1,n3815,trace,32,1267.0,1471.5,2.0,7.0,,
+FC-3C,1,n3815,trace,33,1281.0,1468.5,2.0,7.0,,
+FC-3C,1,n3815,trace,34,1286.0,1468.5,2.0,7.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,35,1337.0,1458.0,2.0,6.5,,
+FC-3C,1,n3815,trace,36,1351.0,1456.5,2.0,7.0,,
+FC-3C,1,n3815,trace,37,1365.0,1454.0,2.0,7.5,,
+FC-3C,1,n3815,trace,38,1379.0,1454.0,2.0,7.5,,
+FC-3C,1,n3815,trace,39,1402.0,1452.0,2.0,6.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,40,1407.0,1452.0,2.0,6.5,,
+FC-3C,1,n3815,trace,41,1455.0,1450.5,2.0,5.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,42,1463.0,1450.5,2.0,7.0,,
+FC-3C,1,n3815,trace,43,1477.0,1452.0,2.0,6.5,,
+FC-3C,1,n3815,trace,44,1491.0,1452.0,2.0,6.5,,
+FC-3C,1,n3815,trace,45,1505.0,1452.5,2.0,6.0,,
+FC-3C,1,n3815,trace,46,1519.0,1454.0,2.0,7.5,,
+FC-3C,1,n3815,trace,47,1527.0,1455.0,2.0,6.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,48,1561.0,1462.5,2.0,5.0,,
+FC-3C,1,n3815,trace,49,1575.0,1464.0,2.0,6.5,,
+FC-3C,1,n3815,trace,50,1589.0,1467.0,2.0,6.5,,
+FC-3C,1,n3815,trace,51,1603.0,1470.0,2.0,6.5,,
+FC-3C,1,n3815,trace,52,1617.0,1475.0,2.0,7.5,,
+FC-3C,1,n3815,trace,53,1631.0,1478.0,2.0,7.5,,
+FC-3C,1,n3815,trace,54,1645.0,1481.5,2.0,6.0,,
+FC-3C,1,n3815,trace,55,1693.0,1496.0,2.0,7.5,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,56,1701.0,1499.0,2.0,7.5,,
+FC-3C,1,n3815,trace,57,1715.0,1504.5,2.0,7.0,,
+FC-3C,1,n3815,trace,58,1729.0,1510.0,2.0,7.5,,
+FC-3C,1,n3815,trace,59,1743.0,1514.0,2.0,7.5,,
+FC-3C,1,n3815,trace,60,1757.0,1520.0,2.0,7.5,,
+FC-3C,1,n3815,trace,61,1765.0,1520.0,2.0,4.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,62,1797.0,1535.0,2.0,7.5,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,63,1813.0,1540.5,2.0,7.0,,
+FC-3C,1,n3815,trace,64,1827.0,1544.0,2.0,7.5,,
+FC-3C,1,n3815,trace,65,1841.0,1549.5,2.0,7.0,,
+FC-3C,1,n3815,trace,66,1855.0,1553.0,2.0,7.5,,
+FC-3C,1,n3815,trace,67,1869.0,1558.5,2.0,7.0,,
+FC-3C,1,n3815,trace,68,1883.0,1562.0,2.0,7.5,,
+FC-3C,1,n3815,trace,69,1897.0,1567.5,2.0,7.0,,
+FC-3C,1,n3815,trace,70,1911.0,1571.0,2.0,7.5,,
+FC-3C,1,n3815,trace,71,1925.0,1577.0,2.0,7.5,,
+FC-3C,1,n3815,trace,72,1939.0,1580.0,2.0,7.5,,
+FC-3C,1,n3815,trace,73,1982.0,1596.0,2.0,5.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,74,1995.0,1599.0,2.0,6.5,,
+FC-3C,1,n3815,trace,75,2009.0,1603.5,2.0,7.0,,
+FC-3C,1,n3815,trace,76,2023.0,1606.5,2.0,7.0,,
+FC-3C,1,n3815,trace,77,2037.0,1610.0,2.0,7.5,,
+FC-3C,1,n3815,trace,78,2051.0,1614.0,2.0,6.5,,
+FC-3C,1,n3815,trace,79,2065.0,1618.5,2.0,7.0,,
+FC-3C,1,n3815,trace,80,2079.0,1621.5,2.0,7.0,,
+FC-3C,1,n3815,trace,81,2087.0,1624.0,2.0,7.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,82,2119.0,1631.0,2.0,7.5,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n3815,trace,83,2135.0,1635.0,2.0,6.5,,
+FC-3C,1,n3815,trace,84,2149.0,1638.0,2.0,6.5,,
+FC-3C,1,n3815,trace,85,2163.0,1641.0,2.0,6.5,,
+FC-3C,1,n3815,trace,86,2177.0,1644.5,2.0,6.0,,
+FC-3C,1,n3815,trace,87,2191.0,1646.0,2.0,7.5,,
+FC-3C,1,n3815,trace,88,2205.0,1653.0,2.0,9.5,,"run touches the 4000 psf gridline (fitted v=1658.8), may include its ink"
+FC-3C,1,n3815,trace,89,2219.0,1653.5,2.0,9.0,,"run touches the 4000 psf gridline (fitted v=1658.7), may include its ink"
+FC-3C,1,n3815,trace,90,2233.0,1654.5,2.0,8.0,,"run touches the 4000 psf gridline (fitted v=1658.5), may include its ink"
+FC-3C,1,n3815,trace,91,2244.0,1655.0,2.0,7.5,,"column moved -3 px off a gridline, marker or dash gap; run touches the 4000 psf gridline (fitted v=1658.5), may include its ink"
+FC-3C,1,n3815,feature,1,859.3,1897.0,4.0,4.0,,first point: the drawn line begins at the first marker (checked on the zoom-3 tiles)
+FC-3C,1,n3815,feature,2,1456.1,1452.0,78.0,9.5,,"peak of the drawn line (dashed, so the top is read as the region within 4 px of the minimum v, u 1365 to 1521; u bound spans it, v is the median there)"
+FC-3C,1,n3815,feature,3,2258.1,1659.1,4.0,4.0,,last point: the drawn line ends at the last marker at x=250 (rightmost line ink at u=2254; the legend symbol sits here too)
+FC-3C,1,n2934,trace,1,864.5,2055.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,2,869.5,2027.0,5.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,3,874.0,2013.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,4,879.5,1999.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,5,890.0,1971.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,6,897.0,1957.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,7,905.0,1943.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,8,914.5,1929.0,8.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,9,925.5,1915.0,9.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,10,937.5,1901.0,9.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,11,951.5,1887.0,11.0,2.0,,row sample on the steep first segment
+FC-3C,1,n2934,trace,12,961.0,1879.5,2.0,8.0,,
+FC-3C,1,n2934,trace,13,992.0,1857.5,2.0,6.0,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,14,1003.0,1854.0,2.0,8.5,,
+FC-3C,1,n2934,trace,15,1017.0,1847.0,2.0,7.5,,
+FC-3C,1,n2934,trace,16,1031.0,1842.0,2.0,6.5,,
+FC-3C,1,n2934,trace,17,1045.0,1838.0,2.0,7.5,,
+FC-3C,1,n2934,trace,18,1059.0,1836.0,2.0,6.5,,
+FC-3C,1,n2934,trace,19,1069.0,1834.5,2.0,4.0,,"column moved -18 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,20,1110.0,1830.5,2.0,6.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,21,1115.0,1830.5,2.0,6.0,,
+FC-3C,1,n2934,trace,22,1129.0,1830.0,2.0,6.5,,
+FC-3C,1,n2934,trace,23,1143.0,1829.5,2.0,6.0,,
+FC-3C,1,n2934,trace,24,1157.0,1828.5,2.0,7.0,,
+FC-3C,1,n2934,trace,25,1171.0,1828.5,2.0,7.0,,
+FC-3C,1,n2934,trace,26,1185.0,1828.5,2.0,5.0,,
+FC-3C,1,n2934,trace,27,1193.0,1821.5,2.0,6.0,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,28,1222.0,1823.0,2.0,4.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,29,1233.0,1828.0,2.0,4.5,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,30,1241.0,1828.5,2.0,7.0,,
+FC-3C,1,n2934,trace,31,1255.0,1827.5,2.0,6.0,,
+FC-3C,1,n2934,trace,32,1269.0,1827.5,2.0,6.0,,
+FC-3C,1,n2934,trace,33,1283.0,1827.5,2.0,6.0,,
+FC-3C,1,n2934,trace,34,1297.0,1827.5,2.0,6.0,,
+FC-3C,1,n2934,trace,35,1302.0,1828.5,2.0,4.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,36,1337.0,1820.0,2.0,4.5,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,37,1342.0,1828.5,2.0,4.0,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,38,1353.0,1828.5,2.0,7.0,,
+FC-3C,1,n2934,trace,39,1367.0,1829.5,2.0,6.0,,
+FC-3C,1,n2934,trace,40,1381.0,1830.0,2.0,6.5,,
+FC-3C,1,n2934,trace,41,1386.0,1829.0,2.0,7.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,42,1409.0,1831.0,2.0,7.5,,
+FC-3C,1,n2934,trace,43,1417.0,1832.5,2.0,6.0,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,44,1425.0,1826.0,2.0,7.5,,"column moved -12 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,45,1454.0,1825.5,2.0,5.0,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,46,1465.0,1835.0,2.0,7.5,,
+FC-3C,1,n2934,trace,47,1479.0,1837.5,2.0,7.0,,
+FC-3C,1,n2934,trace,48,1493.0,1839.0,2.0,6.5,,
+FC-3C,1,n2934,trace,49,1507.0,1840.5,2.0,7.0,,
+FC-3C,1,n2934,trace,50,1521.0,1843.5,2.0,7.0,,
+FC-3C,1,n2934,trace,51,1535.0,1845.0,2.0,6.5,,
+FC-3C,1,n2934,trace,52,1569.0,1851.0,2.0,6.5,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,53,1577.0,1853.0,2.0,7.5,,
+FC-3C,1,n2934,trace,54,1591.0,1855.5,2.0,7.0,,
+FC-3C,1,n2934,trace,55,1605.0,1859.0,2.0,7.5,,
+FC-3C,1,n2934,trace,56,1619.0,1863.0,2.0,6.5,,
+FC-3C,1,n2934,trace,57,1633.0,1867.5,2.0,7.0,,
+FC-3C,1,n2934,trace,58,1647.0,1871.0,2.0,7.5,,
+FC-3C,1,n2934,trace,59,1658.0,1873.5,2.0,7.0,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,60,1663.0,1872.0,2.0,5.5,,"column moved -12 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,61,1698.0,1885.0,2.0,7.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,62,1703.0,1886.0,2.0,7.5,,
+FC-3C,1,n2934,trace,63,1717.0,1890.0,2.0,6.5,,
+FC-3C,1,n2934,trace,64,1731.0,1895.0,2.0,7.5,,
+FC-3C,1,n2934,trace,65,1745.0,1898.0,2.0,7.5,,
+FC-3C,1,n2934,trace,66,1759.0,1902.0,2.0,6.5,,
+FC-3C,1,n2934,trace,67,1773.0,1902.5,2.0,6.0,,
+FC-3C,1,n2934,trace,68,1802.0,1902.0,2.0,5.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,69,1815.0,1918.5,2.0,7.0,,
+FC-3C,1,n2934,trace,70,1829.0,1921.5,2.0,7.0,,
+FC-3C,1,n2934,trace,71,1843.0,1925.0,2.0,7.5,,
+FC-3C,1,n2934,trace,72,1857.0,1929.0,2.0,6.5,,
+FC-3C,1,n2934,trace,73,1871.0,1932.0,2.0,6.5,,
+FC-3C,1,n2934,trace,74,1885.0,1936.5,2.0,7.0,,
+FC-3C,1,n2934,trace,75,1899.0,1938.5,2.0,6.0,,
+FC-3C,1,n2934,trace,76,1913.0,1942.5,2.0,7.0,,
+FC-3C,1,n2934,trace,77,1927.0,1948.5,2.0,8.0,,"run touches the 3000 psf gridline (fitted v=1954.7), may include its ink"
+FC-3C,1,n2934,trace,78,1941.0,1950.0,2.0,6.5,,"run touches the 3000 psf gridline (fitted v=1954.6), may include its ink"
+FC-3C,1,n2934,trace,79,1986.0,1958.0,2.0,7.5,,"column moved +3 px off a gridline, marker or dash gap; run touches the 3000 psf gridline (fitted v=1954.4), may include its ink"
+FC-3C,1,n2934,trace,80,1997.0,1959.0,2.0,8.5,,"run touches the 3000 psf gridline (fitted v=1954.3), may include its ink"
+FC-3C,1,n2934,trace,81,2011.0,1964.0,2.0,7.5,,"run touches the 3000 psf gridline (fitted v=1954.2), may include its ink"
+FC-3C,1,n2934,trace,82,2025.0,1966.5,2.0,7.0,,
+FC-3C,1,n2934,trace,83,2039.0,1969.5,2.0,7.0,,
+FC-3C,1,n2934,trace,84,2053.0,1972.5,2.0,7.0,,
+FC-3C,1,n2934,trace,85,2067.0,1974.5,2.0,6.0,,
+FC-3C,1,n2934,trace,86,2081.0,1977.0,2.0,6.5,,
+FC-3C,1,n2934,trace,87,2089.0,1976.0,2.0,4.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,88,2129.0,1986.0,2.0,5.5,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n2934,trace,89,2137.0,1987.5,2.0,7.0,,
+FC-3C,1,n2934,trace,90,2151.0,1989.5,2.0,6.0,,
+FC-3C,1,n2934,trace,91,2165.0,1992.0,2.0,6.5,,
+FC-3C,1,n2934,trace,92,2179.0,1994.0,2.0,7.5,,
+FC-3C,1,n2934,trace,93,2193.0,1995.5,2.0,6.0,,
+FC-3C,1,n2934,trace,94,2207.0,1998.0,2.0,6.5,,
+FC-3C,1,n2934,trace,95,2221.0,2001.0,2.0,6.5,,
+FC-3C,1,n2934,trace,96,2235.0,2001.0,2.0,5.5,,
+FC-3C,1,n2934,feature,1,862.3,2073.3,4.0,4.0,,first point: the drawn line begins at the first marker (checked on the zoom-3 tiles)
+FC-3C,1,n2934,feature,2,1247.7,1828.5,150.0,9.0,,"peak of the drawn line (dashed, so the top is read as the region within 4 px of the minimum v, u 1109 to 1409; u bound spans it, v is the median there)"
+FC-3C,1,n2934,feature,3,2251.3,1999.7,4.0,4.0,,last point: the drawn line ends at the last marker at x=250 (rightmost line ink at u=2258; the legend symbol sits here too)
+FC-3C,1,n1761,trace,1,876.5,2304.0,6.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,2,881.5,2290.0,7.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,3,889.0,2276.0,6.5,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,4,896.0,2262.0,7.5,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,5,904.5,2248.0,9.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,6,913.5,2234.0,7.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,7,923.5,2220.0,9.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,8,936.0,2206.0,10.5,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,9,949.5,2192.0,9.0,2.0,,row sample on the steep first segment
+FC-3C,1,n1761,trace,10,964.0,2180.5,2.0,7.0,,"column moved -15 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,11,999.0,2150.5,2.0,5.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,12,1007.0,2149.0,2.0,8.5,,
+FC-3C,1,n1761,trace,13,1021.0,2141.5,2.0,7.0,,
+FC-3C,1,n1761,trace,14,1035.0,2136.0,2.0,7.5,,
+FC-3C,1,n1761,trace,15,1049.0,2130.0,2.0,7.5,,
+FC-3C,1,n1761,trace,16,1063.0,2126.5,2.0,7.0,,
+FC-3C,1,n1761,trace,17,1076.0,2124.5,2.0,9.0,,"column moved -15 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,18,1114.0,2120.5,2.0,7.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,19,1119.0,2121.0,2.0,7.5,,
+FC-3C,1,n1761,trace,20,1133.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,21,1147.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,22,1161.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,23,1175.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,24,1186.0,2119.0,2.0,5.5,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,25,1229.0,2119.0,2.0,3.5,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,26,1245.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,27,1259.0,2120.5,2.0,7.0,,
+FC-3C,1,n1761,trace,28,1273.0,2121.5,2.0,6.0,,
+FC-3C,1,n1761,trace,29,1287.0,2121.5,2.0,6.0,,
+FC-3C,1,n1761,trace,30,1301.0,2121.0,2.0,7.5,,
+FC-3C,1,n1761,trace,31,1341.0,2123.0,2.0,4.5,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,32,1357.0,2123.5,2.0,7.0,,
+FC-3C,1,n1761,trace,33,1371.0,2124.5,2.0,6.0,,
+FC-3C,1,n1761,trace,34,1385.0,2124.5,2.0,6.0,,
+FC-3C,1,n1761,trace,35,1390.0,2125.0,2.0,6.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,36,1413.0,2126.5,2.0,7.0,,
+FC-3C,1,n1761,trace,37,1421.0,2126.5,2.0,5.0,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,38,1456.0,2125.0,2.0,6.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,39,1461.0,2129.5,2.0,5.0,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,40,1469.0,2129.5,2.0,7.0,,
+FC-3C,1,n1761,trace,41,1483.0,2130.0,2.0,7.5,,
+FC-3C,1,n1761,trace,42,1497.0,2130.5,2.0,6.0,,
+FC-3C,1,n1761,trace,43,1511.0,2132.5,2.0,7.0,,
+FC-3C,1,n1761,trace,44,1525.0,2133.5,2.0,6.0,,
+FC-3C,1,n1761,trace,45,1539.0,2133.5,2.0,6.0,,
+FC-3C,1,n1761,trace,46,1553.0,2135.5,2.0,7.0,,
+FC-3C,1,n1761,trace,47,1567.0,2136.5,2.0,6.0,,
+FC-3C,1,n1761,trace,48,1581.0,2136.5,2.0,6.0,,
+FC-3C,1,n1761,trace,49,1595.0,2137.5,2.0,6.0,,
+FC-3C,1,n1761,trace,50,1609.0,2139.5,2.0,6.0,,
+FC-3C,1,n1761,trace,51,1623.0,2139.5,2.0,6.0,,
+FC-3C,1,n1761,trace,52,1637.0,2140.0,2.0,6.5,,
+FC-3C,1,n1761,trace,53,1650.0,2140.5,2.0,6.0,,"column moved -15 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,54,1702.0,2147.5,2.0,7.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,55,1707.0,2148.5,2.0,6.0,,
+FC-3C,1,n1761,trace,56,1721.0,2150.0,2.0,7.5,,
+FC-3C,1,n1761,trace,57,1735.0,2152.0,2.0,6.5,,
+FC-3C,1,n1761,trace,58,1749.0,2153.0,2.0,7.5,,
+FC-3C,1,n1761,trace,59,1763.0,2155.0,2.0,6.5,,
+FC-3C,1,n1761,trace,60,1771.0,2155.0,2.0,5.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,61,1803.0,2163.5,2.0,9.0,,"column moved +12 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,62,1819.0,2162.5,2.0,7.0,,
+FC-3C,1,n1761,trace,63,1833.0,2164.0,2.0,6.5,,
+FC-3C,1,n1761,trace,64,1847.0,2167.0,2.0,6.5,,
+FC-3C,1,n1761,trace,65,1861.0,2168.5,2.0,7.0,,
+FC-3C,1,n1761,trace,66,1875.0,2171.5,2.0,7.0,,
+FC-3C,1,n1761,trace,67,1889.0,2174.0,2.0,7.5,,
+FC-3C,1,n1761,trace,68,1903.0,2176.0,2.0,6.5,,
+FC-3C,1,n1761,trace,69,1917.0,2179.0,2.0,6.5,,
+FC-3C,1,n1761,trace,70,1931.0,2182.0,2.0,6.5,,
+FC-3C,1,n1761,trace,71,1939.0,2181.5,2.0,6.0,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,72,1990.0,2192.0,2.0,7.5,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,73,2001.0,2194.0,2.0,6.5,,
+FC-3C,1,n1761,trace,74,2015.0,2196.5,2.0,6.0,,
+FC-3C,1,n1761,trace,75,2029.0,2199.5,2.0,6.0,,
+FC-3C,1,n1761,trace,76,2043.0,2202.5,2.0,6.0,,
+FC-3C,1,n1761,trace,77,2057.0,2204.5,2.0,7.0,,
+FC-3C,1,n1761,trace,78,2065.0,2206.0,2.0,6.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,79,2100.0,2207.0,2.0,4.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,trace,80,2113.0,2219.0,2.0,7.5,,
+FC-3C,1,n1761,trace,81,2127.0,2222.0,2.0,7.5,,
+FC-3C,1,n1761,trace,82,2141.0,2224.5,2.0,6.0,,
+FC-3C,1,n1761,trace,83,2155.0,2227.0,2.0,6.5,,
+FC-3C,1,n1761,trace,84,2169.0,2230.5,2.0,6.0,,
+FC-3C,1,n1761,trace,85,2183.0,2236.0,2.0,8.5,,"run touches the 2000 psf gridline (fitted v=2242.3), may include its ink"
+FC-3C,1,n1761,trace,86,2197.0,2237.5,2.0,8.0,,"run touches the 2000 psf gridline (fitted v=2242.2), may include its ink"
+FC-3C,1,n1761,trace,87,2211.0,2239.0,2.0,6.5,,"run touches the 2000 psf gridline (fitted v=2242.1), may include its ink"
+FC-3C,1,n1761,trace,88,2225.0,2241.5,2.0,6.0,,"run touches the 2000 psf gridline (fitted v=2241.9), may include its ink"
+FC-3C,1,n1761,trace,89,2239.0,2243.5,2.0,7.0,,"run touches the 2000 psf gridline (fitted v=2241.8), may include its ink"
+FC-3C,1,n1761,trace,90,2250.0,2230.0,2.0,3.5,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n1761,feature,1,873.5,2322.0,4.0,4.0,,first point: the drawn line begins at the first marker (checked on the zoom-3 tiles)
+FC-3C,1,n1761,feature,2,1214.6,2120.5,118.0,8.8,,"peak of the drawn line (dashed, so the top is read as the region within 4 px of the minimum v, u 1113 to 1349; u bound spans it, v is the median there)"
+FC-3C,1,n1761,feature,3,2266.0,2248.0,4.0,4.0,,last point: the drawn line ends at the last marker at x=250 (rightmost line ink at u=2282; the legend symbol sits here too)
+FC-3C,1,n734,trace,1,889.0,2518.0,9.5,2.0,,row sample on the steep first segment
+FC-3C,1,n734,trace,2,904.5,2504.0,10.0,2.0,,row sample on the steep first segment
+FC-3C,1,n734,trace,3,920.5,2490.0,11.0,2.0,,row sample on the steep first segment
+FC-3C,1,n734,trace,4,944.0,2476.0,15.5,2.0,,row sample on the steep first segment
+FC-3C,1,n734,trace,5,968.0,2465.5,2.0,5.0,,
+FC-3C,1,n734,trace,6,999.0,2465.0,2.0,4.5,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,7,1010.0,2450.0,2.0,7.5,,
+FC-3C,1,n734,trace,8,1024.0,2447.5,2.0,7.0,,
+FC-3C,1,n734,trace,9,1038.0,2446.0,2.0,6.5,,
+FC-3C,1,n734,trace,10,1052.0,2445.5,2.0,6.0,,
+FC-3C,1,n734,trace,11,1066.0,2446.0,2.0,6.5,,
+FC-3C,1,n734,trace,12,1080.0,2449.0,2.0,6.5,,
+FC-3C,1,n734,trace,13,1088.0,2453.0,2.0,7.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,14,1117.0,2457.0,2.0,4.5,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,15,1122.0,2455.5,2.0,6.0,,
+FC-3C,1,n734,trace,16,1136.0,2457.5,2.0,6.0,,
+FC-3C,1,n734,trace,17,1150.0,2459.5,2.0,7.0,,
+FC-3C,1,n734,trace,18,1164.0,2462.5,2.0,7.0,,
+FC-3C,1,n734,trace,19,1178.0,2464.0,2.0,6.5,,
+FC-3C,1,n734,trace,20,1192.0,2466.5,2.0,6.0,,
+FC-3C,1,n734,trace,21,1200.0,2467.0,2.0,3.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,22,1229.0,2475.5,2.0,6.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,23,1237.0,2475.5,2.0,6.0,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,24,1248.0,2476.0,2.0,6.5,,
+FC-3C,1,n734,trace,25,1262.0,2478.5,2.0,6.0,,
+FC-3C,1,n734,trace,26,1276.0,2481.5,2.0,6.0,,
+FC-3C,1,n734,trace,27,1290.0,2484.5,2.0,6.0,,
+FC-3C,1,n734,trace,28,1304.0,2486.5,2.0,7.0,,
+FC-3C,1,n734,trace,29,1312.0,2488.0,2.0,5.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,30,1346.0,2495.0,2.0,4.5,,
+FC-3C,1,n734,trace,31,1360.0,2497.0,2.0,6.5,,
+FC-3C,1,n734,trace,32,1374.0,2499.5,2.0,6.0,,
+FC-3C,1,n734,trace,33,1388.0,2502.5,2.0,6.0,,
+FC-3C,1,n734,trace,34,1393.0,2502.5,2.0,6.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,35,1416.0,2507.5,2.0,7.0,,
+FC-3C,1,n734,trace,36,1433.0,2515.0,2.0,5.5,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,37,1462.0,2516.0,2.0,4.5,,"column moved +18 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,38,1473.0,2518.0,2.0,3.5,,"column moved +15 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,39,1486.0,2519.5,2.0,7.0,,
+FC-3C,1,n734,trace,40,1500.0,2520.5,2.0,6.0,,
+FC-3C,1,n734,trace,41,1514.0,2524.0,2.0,6.5,,
+FC-3C,1,n734,trace,42,1528.0,2526.5,2.0,6.0,,
+FC-3C,1,n734,trace,43,1542.0,2527.5,2.0,6.0,,
+FC-3C,1,n734,trace,44,1547.0,2528.0,2.0,4.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,45,1581.0,2537.0,2.0,7.5,,"column moved -3 px off a gridline, marker or dash gap; run touches the 1000 psf gridline (fitted v=2542.0), may include its ink"
+FC-3C,1,n734,trace,46,1598.0,2537.5,2.0,7.0,,"run touches the 1000 psf gridline (fitted v=2541.9), may include its ink"
+FC-3C,1,n734,trace,47,1612.0,2538.5,2.0,6.0,,"run touches the 1000 psf gridline (fitted v=2541.8), may include its ink"
+FC-3C,1,n734,trace,48,1626.0,2539.0,2.0,6.5,,"run touches the 1000 psf gridline (fitted v=2541.7), may include its ink"
+FC-3C,1,n734,trace,49,1640.0,2541.5,2.0,6.0,,"run touches the 1000 psf gridline (fitted v=2541.6), may include its ink"
+FC-3C,1,n734,trace,50,1654.0,2542.5,2.0,6.0,,"run touches the 1000 psf gridline (fitted v=2541.5), may include its ink"
+FC-3C,1,n734,trace,51,1668.0,2544.5,2.0,6.0,,"run touches the 1000 psf gridline (fitted v=2541.4), may include its ink"
+FC-3C,1,n734,trace,52,1673.0,2553.5,2.0,6.0,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,53,1710.0,2549.5,2.0,5.0,,"run touches the 1000 psf gridline (fitted v=2541.1), may include its ink"
+FC-3C,1,n734,trace,54,1724.0,2547.5,2.0,9.0,,"run touches the 1000 psf gridline (fitted v=2541.0), may include its ink"
+FC-3C,1,n734,trace,55,1738.0,2552.5,2.0,7.0,,"run touches the 1000 psf gridline (fitted v=2540.9), may include its ink"
+FC-3C,1,n734,trace,56,1752.0,2553.5,2.0,6.0,,
+FC-3C,1,n734,trace,57,1766.0,2555.5,2.0,5.0,,
+FC-3C,1,n734,trace,58,1780.0,2558.0,2.0,4.5,,
+FC-3C,1,n734,trace,59,1788.0,2563.0,2.0,5.5,,"column moved -6 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,60,1817.0,2562.5,2.0,6.0,,"column moved +9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,61,1822.0,2563.0,2.0,3.5,,
+FC-3C,1,n734,trace,62,1836.0,2562.5,2.0,6.0,,
+FC-3C,1,n734,trace,63,1850.0,2563.5,2.0,6.0,,
+FC-3C,1,n734,trace,64,1864.0,2564.5,2.0,7.0,,
+FC-3C,1,n734,trace,65,1878.0,2565.5,2.0,6.0,,
+FC-3C,1,n734,trace,66,1892.0,2566.5,2.0,6.0,,
+FC-3C,1,n734,trace,67,1906.0,2568.5,2.0,6.0,,
+FC-3C,1,n734,trace,68,1920.0,2569.0,2.0,6.5,,
+FC-3C,1,n734,trace,69,1934.0,2569.0,2.0,6.5,,
+FC-3C,1,n734,trace,70,1947.0,2570.5,2.0,5.0,,"column moved -15 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,71,1993.0,2575.0,2.0,5.5,,"column moved +3 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,72,2004.0,2576.5,2.0,7.0,,
+FC-3C,1,n734,trace,73,2018.0,2577.5,2.0,6.0,,
+FC-3C,1,n734,trace,74,2032.0,2577.5,2.0,6.0,,
+FC-3C,1,n734,trace,75,2046.0,2579.5,2.0,7.0,,
+FC-3C,1,n734,trace,76,2060.0,2580.5,2.0,6.0,,
+FC-3C,1,n734,trace,77,2074.0,2581.0,2.0,6.5,,
+FC-3C,1,n734,trace,78,2079.0,2593.0,2.0,5.5,,"column moved -9 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,79,2108.0,2593.0,2.0,5.5,,"column moved +6 px off a gridline, marker or dash gap"
+FC-3C,1,n734,trace,80,2116.0,2583.5,2.0,6.0,,
+FC-3C,1,n734,trace,81,2130.0,2584.5,2.0,6.0,,
+FC-3C,1,n734,trace,82,2144.0,2585.5,2.0,5.0,,
+FC-3C,1,n734,trace,83,2158.0,2585.5,2.0,7.0,,
+FC-3C,1,n734,trace,84,2172.0,2587.0,2.0,5.5,,
+FC-3C,1,n734,trace,85,2186.0,2587.0,2.0,5.5,,
+FC-3C,1,n734,trace,86,2200.0,2589.5,2.0,6.0,,
+FC-3C,1,n734,trace,87,2214.0,2589.5,2.0,6.0,,
+FC-3C,1,n734,trace,88,2228.0,2589.5,2.0,6.0,,
+FC-3C,1,n734,trace,89,2239.0,2589.5,2.0,6.0,,"column moved -3 px off a gridline, marker or dash gap"
+FC-3C,1,n734,feature,1,874.7,2536.7,4.0,4.0,,first point: the drawn line begins at the first marker (checked on the zoom-3 tiles)
+FC-3C,1,n734,feature,2,1046.9,2446.5,37.0,8.0,,"peak of the drawn line (dashed, so the top is read as the region within 4 px of the minimum v, u 1008 to 1082; u bound spans it, v is the median there)"
+FC-3C,1,n734,feature,3,2258.2,2587.4,4.0,4.0,,last point: the drawn line ends at the last marker at x=250 (rightmost line ink at u=2264; the legend symbol sits here too)

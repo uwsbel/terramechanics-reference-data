@@ -1,0 +1,448 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-1B,1,n1172,feature,2,851.5,2637,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",9.614,738.49,3.2267,66.938,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n1172,feature,38,1466,2340.5,62,12,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1413..1528; not peak marker,114.8751,1745.241,10.7459,50.613,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 118.8, y 1740.7 (dx -3.8, dy +3.4) confirms the peak feature",,
+FC-1B,1,n1172,feature,86,2264,2386,18,18,,last point; end symbol at/near frame; line ends at symbol rim,250.6202,1534.971,3.3423,69.456,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n1172,marker,1,851.5,2637,3,3,triangle-down,,9.614,738.49,0.6404,14.631,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,8,965,2521,3,3,triangle-down,,29.1974,1133.787,0.641,15.773,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,15,1087,2429,12,12,triangle-down,Symbol overlaps vertical grid/frame; center read from exposed sides.,50.1486,1453.66,2.1996,47.956,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,22,1202,2389,3,3,triangle-down,,69.7936,1588.921,0.6284,15.18,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,29,1323.5,2358.5,3,3,triangle-down,,90.508,1689.959,0.6121,15.047,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,36,1440.5,2347,3,3,triangle-down,,110.4872,1723.694,0.612,15.001,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,43,1551.5,2346.5,3,3,triangle-down,,129.4868,1718.688,0.6158,15.004,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,50,1672,2354,12,12,triangle-down,Symbol overlaps vertical grid/frame; center read from exposed sides.,150.081,1684.676,2.192,47.617,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,57,1788,2354,3,3,triangle-down,,169.6521,1677.597,0.6073,15.052,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,64,1909,2357,3,3,triangle-down,,190.0561,1659.56,0.6033,15.072,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,68,1968,2365,12,12,triangle-down,Symbol overlaps vertical grid/frame; center read from exposed sides.,199.982,1627.548,2.1887,47.668,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,75,2083,2372,3,3,triangle-down,,219.659,1595.685,0.6464,15.15,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,marker,85,2264,2386,12,12,triangle-down,Symbol overlaps vertical grid/frame; center read from exposed sides.,250.6202,1534.971,2.2877,47.764,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1172.png; credit Codex,,
+FC-1B,1,n1172,trace,15,873,2613.5,1,6.0,triangle-down,,13.3187,816.4,0.2739,24.158,piecewise,one-sided-verified,claude,13.319,822.612,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 308 (Claude's adjudicator: all yes; Codex's: all yes)",875.0,2612.0
+FC-1B,1,n1172,trace,20,904,2584.0,1,8.5,triangle-down,,18.6596,915.353,0.2826,32.835,piecewise,agreed,claude,18.660,915.761,,904.0,2584.3
+FC-1B,1,n1172,trace,25,934,2555.0,1,7.5,triangle-down,on horizontal gridline,23.8309,1013.215,0.2794,30.808,piecewise,agreed,claude,23.831,1014.718,,934.0,2555.0
+FC-1B,1,n1172,trace,6,935,2554.0,1,17,,Drawn curve meets/merges with horizontal grid line.,24.0118,1018.193,0.3506,65.504,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,7,955,2537.7,1,19,,Local bridge across symbol/ink interruption; visible line flanks at u=942 and 989; not an observed marker.,27.4491,1074.979,0.3578,72.722,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,35,994,2503.5,1,6.0,triangle-down,,34.1543,1193.113,0.2745,25.629,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,40,1024,2483.0,1,7.5,triangle-down,,39.2991,1264.342,0.2799,31.049,piecewise,agreed,claude,39.299,1266.366,,1024.0,2482.7
+FC-1B,1,n1172,trace,45,1054,2462.0,1,7.5,triangle-down,,44.4465,1337.348,0.28,31.118,piecewise,agreed,claude,44.447,1335.935,,1054.0,2462.7
+FC-1B,1,n1172,trace,55,1113,2428.0,1,6.5,triangle-down,,54.5591,1454.897,0.2794,27.663,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,60,1141,2413.0,1,6.5,triangle-down,,59.3621,1506.632,0.2812,27.713,piecewise,agreed,claude,59.362,1506.216,,1141.0,2413.3
+FC-1B,1,n1172,trace,65,1170,2400.5,1,6.0,triangle-down,,64.3259,1549.392,0.2814,25.97,piecewise,agreed,claude,64.326,1550.856,,1170.0,2400.3
+FC-1B,1,n1172,trace,20,1175,2398.0,1,13,,,65.1826,1558.56,0.3277,50.706,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,75,1228,2377.0,1,5.5,triangle-down,,74.2479,1629.56,0.2835,24.262,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,80,1257,2368.5,1,6.0,triangle-down,,79.1974,1658.06,0.2872,26.073,piecewise,agreed,claude,79.197,1656.711,,1257.0,2369.0
+FC-1B,1,n1172,trace,85,1286,2361.5,1,6.0,triangle-down,,84.1416,1681.214,0.2891,26.094,piecewise,agreed,claude,84.142,1679.743,,1286.0,2362.0
+FC-1B,1,n1172,trace,27,1295,2360.0,1,15,,,85.669,1686.367,0.3188,57.652,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,31,1355,2350.0,1,11,,,95.8805,1718.255,0.2968,43.366,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,32,1367,2349.5,1,12,,,97.9176,1719.299,0.2987,46.924,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,33,1395,2346.5,1,12,,,102.7016,1728.253,0.3002,46.91,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,105,1401,2345.5,1,5.0,triangle-down,,103.7375,1731.123,0.2945,22.573,piecewise,agreed,claude,103.737,1730.031,,1401.0,2345.9
+FC-1B,1,n1172,trace,34,1415,2344.5,1,12,,,106.1318,1734.14,0.301,46.901,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,39,1475,2341.5,1,12,,,116.4119,1741.136,0.3034,46.887,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,120,1489,2341.0,1,5.5,triangle-down,,118.8078,1741.721,0.2978,24.364,piecewise,agreed,claude,118.808,1740.280,,1489.0,2341.5
+FC-1B,1,n1172,trace,125,1518,2341.5,1,6.0,triangle-down,,123.7671,1738.15,0.3001,26.143,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,45,1575,2346.5,1,6,,,133.5088,1717.253,0.2852,25.559,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,135,1576,2346.5,1,3.0,triangle-down,,133.6707,1716.759,0.29,15.424,piecewise,agreed,claude,133.671,1717.195,,1575.9,2346.5
+FC-1B,1,n1172,trace,140,1606,2348.0,1,4.5,triangle-down,,138.7971,1709.565,0.296,20.765,piecewise,agreed,claude,138.797,1711.482,,1605.9,2347.6
+FC-1B,1,n1172,trace,145,1635,2351.0,1,4.5,triangle-down,,143.7468,1697.09,0.2965,20.752,piecewise,agreed,claude,143.747,1697.638,,1634.9,2351.0
+FC-1B,1,n1172,trace,155,1694,2356.0,1,5.5,triangle-down,,153.7667,1675.643,0.2949,24.295,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,160,1723,2357.5,1,5.0,triangle-down,,158.652,1668.513,0.2907,22.505,piecewise,agreed,claude,158.652,1667.734,,1722.9,2357.9
+FC-1B,1,n1172,trace,165,1753,2358.5,1,6.0,triangle-down,,163.7077,1663.102,0.292,26.064,piecewise,agreed,claude,163.708,1662.164,,1752.9,2358.9
+FC-1B,1,n1172,trace,55,1755,2359.0,1,11,,,164.0662,1661.846,0.3001,43.412,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,175,1812,2359.0,1,5.5,triangle-down,,173.6561,1657.685,0.2855,24.275,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,180,1842,2360.0,1,4.5,triangle-down,,178.7119,1652.275,0.2794,20.704,piecewise,agreed,claude,178.712,1654.211,,1841.8,2359.7
+FC-1B,1,n1172,trace,185,1872,2359.0,1,5.5,triangle-down,,183.775,1653.987,0.2807,24.27,piecewise,agreed,claude,183.775,1654.722,,1871.8,2359.0
+FC-1B,1,n1172,trace,62,1875,2359.0,1,11,,,184.3125,1654.528,0.2958,43.413,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,63,1895,2360.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1886 and 1932; not an observed marker.,187.6829,1649.401,0.3096,57.645,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,195,1931,2360.5,1,5.0,triangle-down,,193.7198,1645.011,0.2742,22.477,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,205,1990,2363.0,1,4.5,triangle-down,,203.723,1632.475,0.2796,20.682,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,210,2019,2364.5,1,6.0,triangle-down,,208.6909,1625.348,0.2922,26.02,piecewise,agreed,claude,208.691,1628.766,,2018.8,2363.8
+FC-1B,1,n1172,trace,215,2048,2366.5,1,5.0,triangle-down,,213.6571,1616.442,0.2957,22.447,piecewise,agreed,claude,213.657,1619.265,,2047.8,2366.0
+FC-1B,1,n1172,trace,73,2055,2366.5,1,10,,,214.8816,1616.922,0.32,39.893,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1172,trace,225,2106,2370.5,1,6.0,triangle-down,,223.5894,1598.631,0.3136,25.992,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1172,trace,230,2135,2373.5,1,6.0,triangle-down,,228.552,1586.166,0.3207,25.979,piecewise,agreed,claude,228.552,1587.215,,2134.9,2373.5
+FC-1B,1,n1172,trace,235,2165,2377.0,1,5.5,triangle-down,,233.6843,1571.861,0.3263,24.182,piecewise,agreed,claude,233.684,1573.849,,2165.0,2376.7
+FC-1B,1,n1172,trace,240,2194,2381.0,1,4.5,triangle-down,,238.6433,1555.838,0.3297,20.603,piecewise,agreed,claude,238.643,1557.514,,2194.0,2380.8
+FC-1B,1,n1172,trace,245,2223,2386.0,1,5.5,triangle-down,,243.5987,1536.256,0.3405,24.146,piecewise,agreed,claude,243.599,1539.232,,2223.0,2385.5
+FC-1B,1,n1172,trace,83,2235,2387.0,1,9,,,245.6479,1533.182,0.3704,36.435,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n1172,trace,84,2240,2388.5,1,12,,,246.4993,1527.553,0.3825,47.107,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n1760,feature,2,911,2436,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",20.3568,1439.447,3.2294,69.725,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n1760,feature,41,1547,2149.0,94,11,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1453..1589; not peak marker,129.4407,2411.466,16.234,47.558,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 129.3, y 2405.4 (dx +0.2, dy -0.0) confirms the peak feature",,
+FC-1B,1,n1760,feature,85,2250,2227,18,18,,last point; end symbol at/near frame; line ends at symbol rim,248.7839,2098.345,3.3317,67.464,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n1760,marker,1,911,2436,12,12,plus,Plus overlaps rising square-series trace.,20.3568,1439.447,2.194,47.987,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,9,1028,2333,12,12,plus,Plus overlaps rising square-series trace.,40.5031,1798.721,2.1956,47.52,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,16,1140,2256,3,3,plus,,59.7463,2064.122,0.6363,14.297,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,24,1266.5,2198,3,3,plus,,81.4067,2257.909,0.6193,14.343,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,31,1390,2166,12,12,plus,Symbol overlaps vertical grid/frame; center read from exposed sides.,102.4912,2361.701,2.1846,46.166,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,37,1498.5,2150,3,3,plus,,121.1307,2410.859,0.6145,14.384,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,45,1612,2168,3,3,plus,,140.5024,2341.598,0.6183,14.373,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,53,1730,2166,3,3,plus,,160.5548,2341.551,0.6088,14.378,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,60,1857,2189,3,3,plus,,181.8906,2254.04,0.6047,14.364,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,67,1970,2193,12,12,plus,Symbol overlaps vertical grid/frame; center read from exposed sides.,200.9496,2233.395,2.1899,46.209,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,74,2083,2202,3,3,plus,,220.2702,2195.343,0.6473,14.359,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,marker,84,2250,2227,12,12,plus,Symbol overlaps vertical grid/frame; center read from exposed sides.,248.7839,2098.345,2.2774,46.217,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n1760.png; credit Codex,,
+FC-1B,1,n1760,trace,3,925,2437.5,1,18,,Visible line close to end-symbol rim.,22.7195,1433.261,0.3541,68.7,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 002 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n1760,trace,4,945,2413.5,1,24,,Rising plus and square curves approach/merge; assignment follows their outgoing branches.,26.1845,1517.427,0.375,89.961,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 002 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n1760,trace,30,964,2390.5,1,8.0,plus,,29.4709,1597.72,0.2814,33.158,piecewise,agreed,claude,29.471,1593.943,,964.0,2391.7
+FC-1B,1,n1760,trace,40,1024,2330.5,1,13.0,plus,run shared with n2345,39.8314,1807.869,0.2993,51.197,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,45,1054,2313.5,1,6.0,plus,,44.9677,1866.601,0.2749,26.281,piecewise,agreed,claude,44.968,1866.123,,1054.0,2313.6
+FC-1B,1,n1760,trace,55,1113,2276.0,1,7.5,plus,on horizontal gridline,55.0968,1996.59,0.2831,31.694,piecewise,agreed,claude,55.097,2000.674,,1113.0,2274.7
+FC-1B,1,n1760,trace,15,1125,2266.8,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1117 and 1163; not an observed marker. Drawn curve meets/merges with horizontal grid line.,57.1641,2027.537,0.3411,56.544,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,18,1165,2244.5,1,12,,,64.0271,2102.54,0.3251,45.432,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,65,1170,2242.0,1,6.5,plus,,64.8858,2111.315,0.2834,27.293,piecewise,agreed,claude,64.886,2111.367,,1170.0,2241.9
+FC-1B,1,n1760,trace,70,1199,2227.0,1,6.5,plus,,69.8579,2161.664,0.2853,27.202,piecewise,agreed,claude,69.858,2161.277,,1199.0,2227.0
+FC-1B,1,n1760,trace,75,1228,2214.5,1,6.0,plus,,74.8212,2203.335,0.2855,25.387,piecewise,agreed,claude,74.821,2206.918,,1228.0,2213.3
+FC-1B,1,n1760,trace,22,1245,2206.8,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1243 and 1290; not an observed marker.,77.729,2228.636,0.325,55.887,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,25,1285,2192.3,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1243 and 1290; not an observed marker.,84.5647,2276.6,0.3197,55.903,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,85,1286,2190.5,1,6.0,plus,,84.744,2283.213,0.2893,25.242,piecewise,agreed,claude,84.744,2277.958,,1286.0,2191.9
+FC-1B,1,n1760,trace,90,1314,2182.0,1,6.5,plus,,89.5234,2311.06,0.2929,26.932,piecewise,agreed,claude,89.523,2311.353,,1314.0,2181.8
+FC-1B,1,n1760,trace,95,1343,2173.5,1,6.0,plus,,94.4724,2338.848,0.2931,25.142,piecewise,agreed,claude,94.472,2338.285,,1343.0,2173.5
+FC-1B,1,n1760,trace,105,1401,2165.0,1,4.5,plus,,104.3804,2364.901,0.293,19.875,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,110,1430,2157.5,1,6.0,plus,,109.3717,2389.221,0.2988,25.052,piecewise,agreed,claude,109.372,2391.453,,1430.0,2156.8
+FC-1B,1,n1760,trace,115,1460,2153.5,1,5.0,plus,,114.5219,2401.323,0.2957,21.55,piecewise,agreed,claude,114.522,2401.407,,1460.0,2153.4
+FC-1B,1,n1760,trace,35,1465,2153.0,1,9,,,115.3825,2402.417,0.2925,35.11,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,125,1518,2151.5,1,6.0,plus,,124.4583,2404.799,0.3003,25.027,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,130,1547,2149.0,1,5.5,plus,,129.432,2411.75,0.299,23.275,piecewise,agreed,claude,129.432,2407.994,,1547.0,2150.0
+FC-1B,1,n1760,trace,135,1576,2149.0,1,5.5,plus,,134.3967,2410.013,0.2995,23.279,piecewise,agreed,claude,134.397,2406.280,,1576.0,2150.0
+FC-1B,1,n1760,trace,140,1606,2151.5,1,6.0,plus,,139.5232,2399.528,0.3019,25.04,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 001 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n1760,trace,155,1694,2158.0,1,5.5,plus,,154.4947,2371.664,0.2945,23.354,piecewise,agreed,claude,154.495,2370.142,,1693.9,2158.4
+FC-1B,1,n1760,trace,51,1705,2159.5,1,10,,,156.3623,2365.627,0.2979,38.6,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,165,1753,2167.0,1,5.5,plus,,164.4093,2336.841,0.2898,23.42,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,170,1783,2173.5,1,6.0,plus,,169.4437,2312.445,0.2892,25.207,piecewise,agreed,claude,169.444,2313.830,,1782.9,2173.1
+FC-1B,1,n1760,trace,175,1812,2178.5,1,6.0,plus,,174.3151,2293.322,0.2869,25.243,piecewise,agreed,claude,174.315,2293.134,,1811.9,2178.5
+FC-1B,1,n1760,trace,180,1842,2183.0,1,4.5,plus,,179.357,2275.875,0.2791,20.052,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,190,1901,2186.5,1,5.0,plus,,189.2923,2260.159,0.2762,21.825,piecewise,agreed,claude,189.292,2257.005,,1900.9,2187.4
+FC-1B,1,n1760,trace,195,1931,2189.0,1,4.5,plus,,194.3416,2249.662,0.272,20.103,piecewise,agreed,claude,194.342,2250.592,,1930.8,2188.7
+FC-1B,1,n1760,trace,205,1990,2192.5,1,5.0,plus,,204.3496,2233.942,0.2823,21.876,piecewise,one-sided,claude,,,,,
+FC-1B,1,n1760,trace,210,2019,2195.5,1,5.0,plus,,209.3113,2221.764,0.2894,21.899,piecewise,agreed,claude,209.311,2224.592,,2018.9,2194.7
+FC-1B,1,n1760,trace,215,2048,2197.0,1,5.5,plus,,214.2786,2214.801,0.2984,23.655,piecewise,agreed,claude,214.279,2214.072,,2047.9,2197.2
+FC-1B,1,n1760,trace,73,2065,2198.5,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2060 and 2106; not an observed marker.,217.1999,2208.595,0.342,56.0,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,76,2105,2202.4,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2060 and 2106; not an observed marker.,224.0367,2192.637,0.3539,56.002,piecewise,one-sided,codex,,,,,
+FC-1B,1,n1760,trace,225,2106,2202.5,1,6.0,plus,,224.204,2192.18,0.3144,25.441,piecewise,agreed,claude,224.204,2192.050,,2106.0,2202.6
+FC-1B,1,n1760,trace,230,2135,2207.0,1,4.5,plus,,229.1603,2174.781,0.3161,20.247,piecewise,agreed,claude,229.160,2177.448,,2135.0,2206.2
+FC-1B,1,n1760,trace,235,2165,2210.5,1,5.0,plus,,234.2918,2160.798,0.3253,22.016,piecewise,agreed,claude,234.292,2160.836,,2165.0,2210.5
+FC-1B,1,n1760,trace,240,2194,2214.5,1,6.0,plus,,239.2501,2145.135,0.336,25.531,piecewise,agreed,claude,239.250,2142.351,,2194.1,2215.3
+FC-1B,1,n1760,trace,245,2223,2220.5,1,6.0,plus,,244.2011,2122.514,0.3431,25.574,piecewise,agreed,claude,244.201,2123.572,,2223.1,2220.2
+FC-1B,1,n1760,trace,82,2225,2220.5,1,12,,,244.525,2122.468,0.3789,45.56,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n1760,trace,83,2230,2222.0,1,12,,Visible line close to end-symbol rim.,245.376,2116.947,0.3804,45.559,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n2345,feature,2,851,2537,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",9.8674,1083.727,3.2277,70.183,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n2345,feature,53,1718,2020.5,79,10,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1639..1761; not peak marker,159.0638,2848.017,13.5202,43.225,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 159.7, y 2842.3 (dx -0.7, dy -0.1) confirms the peak feature",,
+FC-1B,1,n2345,feature,70,2046,2033,8,12,,drawn curve resumes to right of isolated square; no continuous trace visible across u=1966..2045,214.5426,2785.483,1.5269,46.092,piecewise,one-sided-verified,codex,,,curve resumption right of the isolated square at u about 2046 seen by Claude on the page crop,,
+FC-1B,1,n2345,feature,84,2259,2061,18,18,,last point; end symbol at/near frame; line ends at symbol rim,250.9117,2675.611,3.3416,67.567,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n2345,marker,1,851,2537,3,3,square,,9.8674,1083.727,0.6406,15.841,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,9,975,2385,3,3,square,,31.357,1616.987,0.6413,15.149,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,15,1093,2260,12,12,square,Symbol overlaps vertical grid/frame; center read from exposed sides.,51.7605,2053.057,2.2005,46.072,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,25,1263,2122,3,3,square,,81.0812,2521.984,0.6196,14.399,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,29,1317,2095,3,3,square,,90.336,2612.564,0.6123,14.42,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,36,1438,2065,3,3,square,,111.0758,2709.68,0.6127,14.446,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,43,1550,2039,3,3,square,,130.3584,2793.482,0.6166,14.468,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,49,1672,2029,12,12,square,Symbol overlaps vertical grid/frame; center read from exposed sides.,151.2769,2821.143,2.1752,46.287,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,57,1784,2031,3,3,square,,170.1534,2807.683,0.6068,14.479,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,64,1905.5,2027,6,6,square,Square near doubled/interrupted drawn trace; marker center is separate from line value.,190.6537,2814.528,1.1195,25.095,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,69,2026,2024.5,6,6,square,Square near doubled/interrupted drawn trace; marker center is separate from line value.,211.1491,2816.217,1.1563,25.103,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,79,2196.5,2046.5,3,3,square,,240.2619,2729.733,0.6824,14.478,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,marker,83,2259,2061,12,12,square,Symbol overlaps vertical grid/frame; center read from exposed sides.,250.9117,2675.611,2.2877,46.328,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2345.png; credit Codex,,
+FC-1B,1,n2345,trace,3,869,2508.5,1,18,,Visible line close to end-symbol rim.,13.0074,1184.046,0.3534,69.028,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n2345,trace,15,873,2503.0,1,8.5,square,,13.6933,1202.3,0.2825,34.562,piecewise,agreed,claude,13.693,1201.748,,873.0,2503.5
+FC-1B,1,n2345,trace,20,904,2465.0,1,10.5,square,thick run (marker or gridline merge),19.0655,1335.857,0.2896,41.826,piecewise,agreed,claude,19.066,1338.565,,903.9,2464.5
+FC-1B,1,n2345,trace,25,934,2427.5,1,9.0,square,thick run (marker or gridline merge),24.2684,1467.684,0.2847,36.601,piecewise,agreed,claude,24.268,1468.966,,934.0,2427.3
+FC-1B,1,n2345,trace,7,949,2408.5,1,24,,Rising plus and square curves approach/merge; assignment follows their outgoing branches.,26.8782,1534.971,0.375,89.938,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,10,989,2362.8,1,24,,Local bridge across symbol/ink interruption; visible line flanks at u=952 and 998; not an observed marker. Rising plus and square curves approach/merge; assignment follows their outgoing branches.,33.802,1695.104,0.3757,89.725,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,35,994,2357.0,1,7.5,square,,34.6628,1715.272,0.2799,31.487,piecewise,agreed,claude,34.663,1712.797,,994.0,2357.7
+FC-1B,1,n2345,trace,40,1024,2330.5,1,13.0,square,run shared with n1760,39.8314,1807.869,0.2993,51.197,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,45,1054,2294.0,1,7.5,square,,45.0362,1936.099,0.2802,31.699,piecewise,agreed,claude,45.036,1864.863,,1054.4,2313.9
+FC-1B,1,n2345,trace,55,1113,2239.0,1,6.5,square,,55.2276,2125.169,0.2796,27.266,piecewise,agreed,claude,55.228,2112.542,,1113.1,2242.5
+FC-1B,1,n2345,trace,60,1141,2215.0,1,6.5,square,,60.062,2206.832,0.2815,27.117,piecewise,agreed,claude,60.062,2208.102,,1141.0,2214.5
+FC-1B,1,n2345,trace,65,1170,2192.5,1,7.0,square,,65.0606,2283.231,0.2852,28.717,piecewise,agreed,claude,65.061,2283.799,,1170.0,2192.2
+FC-1B,1,n2345,trace,70,1199,2171.0,1,7.5,square,,70.0556,2356.165,0.2889,30.324,piecewise,agreed,claude,70.056,2358.253,,1199.0,2170.2
+FC-1B,1,n2345,trace,75,1228,2150.0,1,7.5,square,,75.0487,2427.367,0.2908,30.194,piecewise,agreed,claude,75.049,2424.563,,1228.0,2150.7
+FC-1B,1,n2345,trace,23,1229,2150.0,1,15,,,75.2154,2426.777,0.327,55.928,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,85,1286,2116.0,1,6.5,square,,85.0065,2542.003,0.2912,26.506,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,95,1343,2088.5,1,6.0,square,,94.7714,2634.137,0.2932,24.598,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,105,1401,2066.5,1,7.0,square,,104.7317,2707.119,0.302,27.947,piecewise,agreed,claude,104.732,2709.385,,1401.0,2065.7
+FC-1B,1,n2345,trace,115,1460,2051.5,1,5.0,square,,114.8895,2755.732,0.2959,20.898,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,120,1489,2046.5,1,6.0,square,,119.8741,2771.385,0.3,24.351,piecewise,agreed,claude,119.874,2770.948,,1489.0,2046.5
+FC-1B,1,n2345,trace,125,1518,2041.5,1,5.0,square,,124.859,2787.038,0.2969,20.842,piecewise,agreed,claude,124.859,2786.763,,1518.0,2041.5
+FC-1B,1,n2345,trace,41,1529,2040.2,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1527 and 1573; not an observed marker.,126.7561,2790.534,0.3171,56.051,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,44,1569,2033.7,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1527 and 1573; not an observed marker.,133.6331,2810.793,0.3187,56.061,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,135,1576,2033.0,1,4.5,square,,134.8236,2813.138,0.296,19.055,piecewise,agreed,claude,134.824,2813.641,,1575.9,2032.8
+FC-1B,1,n2345,trace,140,1606,2029.5,1,5.0,square,,139.9746,2823.523,0.2983,20.778,piecewise,agreed,claude,139.975,2825.376,,1605.9,2028.9
+FC-1B,1,n2345,trace,145,1635,2025.5,1,6.0,square,,144.9563,2835.707,0.3025,24.238,piecewise,agreed,claude,144.956,2833.014,,1634.9,2026.2
+FC-1B,1,n2345,trace,155,1694,2022.5,1,6.0,square,,154.9926,2842.639,0.296,24.228,piecewise,agreed,claude,154.993,2841.840,,1693.9,2022.7
+FC-1B,1,n2345,trace,160,1723,2020.5,1,5.0,square,,159.8886,2847.873,0.29,20.737,piecewise,agreed,claude,159.889,2843.727,,1722.9,2021.7
+FC-1B,1,n2345,trace,165,1753,2021.5,1,6.0,square,,164.9422,2842.619,0.2913,24.23,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,59,1809,2022.5,1,12,,,174.3995,2835.782,0.3013,45.668,piecewise,resolved,codex,,,"two strokes between u 1830 and 1965: Claude's tracker followed the straight lower stroke at v about 2044 (about 2755 psf), Codex the curved stroke through the squares at u 1784, 1906 and 2026; page re-read confirms the curved stroke is the drawn curve and the straight stroke is stray ink; Codex's values kept; credit Codex",,
+FC-1B,1,n2345,trace,175,1812,2022.5,1,6.0,square,,174.8844,2835.647,0.2866,24.245,piecewise,agreed,claude,174.884,2834.613,,1811.9,2022.8
+FC-1B,1,n2345,trace,180,1841.5,2025.7,1,3.0,square,,179.865,2822.599,0.344,87.404,piecewise,resolved,codex-interp,179.8652,2760.86,"the other reading is on the line's ink and the kept one is not; credit codex (audit re-check 2026-10-27: item 010, round 1, Claude's adjudicator other, Codex's other; students R1 problem R2 problem)",1842,2043.5
+FC-1B,1,n2345,trace,185,1872,2043.5,1,3.0,square,,184.9226,2759.079,0.2709,13.938,piecewise,resolved,claude,,,"the other reading is on the line's ink and the kept one is not; credit codex (audit re-check 2026-10-27: item 011, round 1, Claude's adjudicator other, Codex's other; students R1 problem R2 problem)",,
+FC-1B,1,n2345,trace,66,1929,2043.5,1,24,,Two ink strokes in this region; follow continuation of curved upper stroke into the square/lower segment; bound includes alternative stroke.,194.5568,2755.777,0.3402,87.408,piecewise,resolved,codex,,,"two strokes between u 1830 and 1965: Claude's tracker followed the straight lower stroke at v about 2044 (about 2755 psf), Codex the curved stroke through the squares at u 1784, 1906 and 2026; page re-read confirms the curved stroke is the drawn curve and the straight stroke is stray ink; Codex's values kept; credit Codex",,
+FC-1B,1,n2345,trace,195,1931,2043.5,1,3.0,square,,194.8688,2755.575,0.2663,13.946,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,215,2048,2029.5,1,4.0,square,,214.8925,2797.313,0.2937,17.356,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 004 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-1B,1,n2345,trace,220,2077,2031.5,1,6.0,square,,219.8572,2788.636,0.3082,24.341,piecewise,agreed,claude,219.857,2791.684,,2077.0,2030.7
+FC-1B,1,n2345,trace,225,2106,2034.0,1,5.5,square,,224.8201,2778.22,0.3134,22.619,piecewise,agreed,claude,224.820,2779.278,,2106.0,2033.8
+FC-1B,1,n2345,trace,230,2135,2038.5,1,5.0,square,,229.7757,2760.846,0.3187,20.91,piecewise,agreed,claude,229.776,2761.459,,2135.1,2038.4
+FC-1B,1,n2345,trace,235,2165,2043.5,1,6.0,square,,234.901,2741.673,0.3297,24.431,piecewise,agreed,claude,234.901,2741.217,,2165.1,2043.7
+FC-1B,1,n2345,trace,77,2169,2044.5,1,10,,,235.5605,2738.299,0.356,38.727,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2345,trace,245,2223,2057.5,1,5.0,square,,244.7943,2689.525,0.3403,21.044,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2345,trace,81,2229,2059.0,1,11,,,245.7822,2684.328,0.3774,42.203,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n2345,trace,82,2230,2059.0,1,11,,,245.9534,2684.27,0.3777,42.203,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n2935,feature,2,906,2327.5,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",19.8814,1825.765,3.2304,69.236,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n2935,feature,50,1692,1860.5,141,12,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1671..1833; not peak marker,155.2672,3409.601,24.2172,54.05,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 155.2, y 3400.7 (dx -0.2, dy -0.4) confirms the peak feature",,
+FC-1B,1,n2935,feature,77,2130,1880,65,12,,"shallow post-peak trough / change to slight re-hardening; rounded feature, location uncertain",229.4711,3315.18,11.3256,49.533,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,feature,86,2265,1872.5,18,18,,last point; end symbol at/near frame; line ends at symbol rim,252.6039,3333.456,3.3491,67.75,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n2935,marker,1,906,2327.5,3,3,asterisk,,19.8814,1825.765,0.6412,14.881,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,9,1031,2178.5,3,3,asterisk,,41.5485,2339.566,0.6419,14.352,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,17,1148,2066.5,3,3,asterisk,,61.7703,2721.378,0.6347,14.437,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,23,1258,1986,12,12,asterisk,Asterisk overlaps 3000-psf grid line.,80.7129,2994.457,2.1795,46.725,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,30,1383,1925,12,12,asterisk,Symbol overlaps vertical grid/frame; center read from exposed sides.,102.1543,3201.435,2.1863,46.649,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,37,1492.5,1893,3,3,asterisk,,121.0387,3307.368,0.615,14.337,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,44,1613,1874,3,3,asterisk,,141.7643,3366.922,0.6192,14.264,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,53,1730,1860.5,3,3,asterisk,,161.6721,3407.334,0.6082,14.213,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,63,1905,1869,3,3,asterisk,,191.1377,3367.094,0.6025,14.249,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,70,2015.5,1876.5,3,3,asterisk,,209.8863,3334.234,0.6285,14.28,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,79,2143,1878.5,3,3,asterisk,,231.7015,3319.666,0.667,14.29,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,marker,85,2265,1872.5,12,12,asterisk,Symbol overlaps vertical grid/frame; center read from exposed sides.,252.6039,3333.456,2.2956,46.358,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n2935.png; credit Codex,,
+FC-1B,1,n2935,trace,3,920,2309.5,1,16,,Visible line close to end-symbol rim.,22.3116,1888.944,0.3474,60.986,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 007 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n2935,trace,25,934,2293.0,1,9.5,asterisk,thick run (marker or gridline merge),24.7303,1947.102,0.2865,38.85,piecewise,agreed,claude,24.730,1951.294,,933.9,2291.7
+FC-1B,1,n2935,trace,30,964,2256.5,1,9.0,asterisk,thick run (marker or gridline merge),29.9338,2073.388,0.285,36.051,piecewise,agreed,claude,29.934,2075.185,,964.0,2255.9
+FC-1B,1,n2935,trace,35,994,2218.5,1,9.0,asterisk,thick run (marker or gridline merge),35.144,2203.519,0.2853,35.813,piecewise,agreed,claude,35.144,2199.512,,994.0,2219.5
+FC-1B,1,n2935,trace,7,1000,2212.0,1,17,,,36.1852,2225.171,0.3518,62.792,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,8,1020,2190.3,1,18,,Local bridge across symbol/ink interruption; visible line flanks at u=1008 and 1054; not an observed marker.,39.6455,2299.274,0.3555,66.282,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,45,1054,2154.5,1,9.0,asterisk,thick run (marker or gridline merge),45.5265,2422.148,0.2857,35.414,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,55,1113,2096.5,1,8.0,asterisk,,55.7316,2620.04,0.2851,31.574,piecewise,agreed,claude,55.732,2621.667,,1113.0,2095.8
+FC-1B,1,n2935,trace,60,1141,2066.5,1,5.0,asterisk,,60.5868,2722.561,0.2764,20.949,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,65,1170,2048.0,1,7.5,asterisk,,65.571,2785.091,0.2871,29.533,piecewise,agreed,claude,65.571,2782.154,,1170.0,2048.6
+FC-1B,1,n2935,trace,70,1199,2026.0,1,7.5,asterisk,,70.5673,2859.784,0.2891,29.397,piecewise,agreed,claude,70.567,2859.819,,1199.0,2025.8
+FC-1B,1,n2935,trace,75,1228,2006.0,1,7.5,asterisk,,75.5566,2927.536,0.291,29.274,piecewise,agreed,claude,75.557,2925.076,,1228.0,2006.5
+FC-1B,1,n2935,trace,22,1240,1999.0,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1235 and 1281; not an observed marker.,77.6137,2950.361,0.3252,56.116,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,25,1280,1975.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1235 and 1281; not an observed marker. Drawn curve meets/merges with horizontal grid line.,84.4832,3031.418,0.3198,56.639,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,85,1286,1971.0,1,6.5,asterisk,,85.5172,3046.192,0.2913,25.95,piecewise,agreed,claude,85.517,3042.297,,1286.0,1971.9
+FC-1B,1,n2935,trace,90,1314,1957.5,1,7.0,asterisk,,90.3136,3091.924,0.295,27.738,piecewise,agreed,claude,90.314,3091.295,,1314.0,1957.5
+FC-1B,1,n2935,trace,95,1343,1943.0,1,7.5,asterisk,,95.2832,3141.097,0.2987,29.528,piecewise,agreed,claude,95.283,3138.795,,1343.0,1943.5
+FC-1B,1,n2935,trace,105,1401,1917.5,1,6.0,asterisk,,105.2634,3227.125,0.2987,24.314,piecewise,agreed,claude,105.263,3219.621,,1401.0,1919.5
+FC-1B,1,n2935,trace,110,1430,1908.5,1,6.0,asterisk,,110.2648,3256.962,0.2992,24.333,piecewise,agreed,claude,110.265,3253.107,,1430.0,1909.5
+FC-1B,1,n2935,trace,115,1460,1899.5,1,6.0,asterisk,,115.4379,3286.731,0.2997,24.352,piecewise,agreed,claude,115.438,3286.422,,1460.0,1899.5
+FC-1B,1,n2935,trace,35,1460,1899.5,1,12,,,115.4442,3286.465,0.3036,45.892,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,38,1500,1890.3,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1469 and 1516; not an observed marker.,122.3341,3316.405,0.3162,56.4,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,125,1518,1887.0,1,5.5,asterisk,,125.4223,3327.074,0.2989,22.621,piecewise,agreed,claude,125.422,3325.742,,1518.0,1887.3
+FC-1B,1,n2935,trace,130,1547,1881.0,1,5.5,asterisk,,130.4138,3346.361,0.2994,22.632,piecewise,agreed,claude,130.414,3348.167,,1546.9,1880.5
+FC-1B,1,n2935,trace,135,1576,1875.5,1,6.0,asterisk,,135.4038,3363.89,0.3018,24.398,piecewise,agreed,claude,135.404,3363.119,,1575.9,1875.7
+FC-1B,1,n2935,trace,42,1580,1875.0,1,11,,,136.1037,3365.376,0.3047,42.268,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,43,1600,1871.4,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1590 and 1636; not an observed marker.,139.5455,3376.824,0.3203,56.311,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,145,1635,1867.5,1,5.0,asterisk,,145.5444,3388.353,0.2991,20.9,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,155,1694,1860.5,1,6.0,asterisk,,155.5877,3409.3,0.2957,24.42,piecewise,agreed,claude,155.588,3406.285,,1693.9,1861.4
+FC-1B,1,n2935,trace,160,1723,1861.0,1,4.5,asterisk,,160.4735,3405.776,0.2879,19.152,piecewise,agreed,claude,160.474,3408.261,,1722.9,1860.4
+FC-1B,1,n2935,trace,165,1753,1860.0,1,6.5,asterisk,,165.5334,3407.45,0.2928,26.167,piecewise,agreed,claude,165.533,3408.729,,1752.9,1859.7
+FC-1B,1,n2935,trace,170,1783,1860.0,1,5.5,asterisk,,170.5896,3405.618,0.2868,22.655,piecewise,agreed,claude,170.590,3407.436,,1782.9,1859.6
+FC-1B,1,n2935,trace,175,1812,1860.0,1,5.5,asterisk,,175.4772,3403.848,0.2844,22.651,piecewise,agreed,claude,175.477,3403.160,,1811.9,1860.3
+FC-1B,1,n2935,trace,180,1842,1863.0,1,5.5,asterisk,,180.5225,3391.504,0.2821,22.64,piecewise,agreed,claude,180.523,3391.727,,1841.9,1863.0
+FC-1B,1,n2935,trace,185,1872,1865.5,1,6.0,asterisk,,185.5696,3380.915,0.2815,24.383,piecewise,agreed,claude,185.570,3382.100,,1871.9,1865.3
+FC-1B,1,n2935,trace,61,1880,1866.5,1,12,,,186.9329,3377.348,0.2986,45.721,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,195,1931,1872.5,1,6.0,asterisk,,195.4883,3352.798,0.2768,24.357,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,205,1990,1875.5,1,6.0,asterisk,,205.5142,3338.703,0.2875,24.341,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,72,2040,1878.5,1,12,,,214.0724,3325.77,0.3255,45.752,piecewise,one-sided,codex,,,,,
+FC-1B,1,n2935,trace,215,2048,1878.5,1,6.0,asterisk,,215.4459,3324.676,0.3018,24.325,piecewise,agreed,claude,215.446,3325.294,,2048.0,1878.5
+FC-1B,1,n2935,trace,220,2077,1879.5,1,5.0,asterisk,,220.4136,3319.415,0.3052,20.815,piecewise,agreed,claude,220.414,3320.582,,2077.1,1879.4
+FC-1B,1,n2935,trace,225,2106,1880.5,1,6.0,asterisk,,225.3813,3314.156,0.316,24.312,piecewise,agreed,claude,225.381,3314.988,,2106.1,1880.5
+FC-1B,1,n2935,trace,230,2135,1878.0,1,3.5,asterisk,,230.3618,3321.149,0.314,15.557,piecewise,one-sided,claude,,,,,
+FC-1B,1,n2935,trace,235,2165,1880.5,1,6.0,asterisk,,235.4954,3310.58,0.3305,24.304,piecewise,agreed,claude,235.495,3311.995,,2165.2,1880.3
+FC-1B,1,n2935,trace,240,2194,1878.5,1,6.0,asterisk,,240.4741,3315.823,0.3377,24.305,piecewise,agreed,claude,240.474,3315.623,,2194.3,1878.8
+FC-1B,1,n2935,trace,245,2223,1875.5,1,6.0,asterisk,,245.4564,3324.563,0.3448,24.309,piecewise,agreed,claude,245.456,3321.533,,2223.3,1876.6
+FC-1B,1,n2935,trace,84,2237,1875.0,1,13,,,247.8027,3326.358,0.3879,49.226,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n294,feature,2,853,2791,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",9.3474,211.808,3.2251,65.506,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n294,feature,32,1372,2669.0,113,11,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1273..1485; not peak marker,97.6365,598.605,19.4286,48.173,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 107.7, y 623.6 (dx -9.8, dy -16.6) confirms the peak feature",,
+FC-1B,1,n294,feature,86,2264,2673,18,18,,last point; end symbol at/near frame; line ends at symbol rim,249.6055,532.532,3.339,66.571,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n294,marker,1,853,2791,3,3,circle,,9.3474,211.808,0.6401,13.183,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,8,975,2739,3,3,circle,,30.1376,382.424,0.6406,13.656,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,15,1094,2706,12,12,circle,Symbol overlaps vertical grid/frame; center read from exposed sides.,50.3618,488.301,2.1992,45.355,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,22,1209,2687,3,3,circle,,69.9308,546.556,0.6282,14.114,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,29,1329,2676.5,3,3,circle,,90.3179,575.453,0.6122,14.197,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,37,1443,2672.5,3,3,circle,,109.7433,582.462,0.6112,14.219,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,43,1558.5,2673.5,3,3,circle,,129.486,572.264,0.6151,14.195,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,51,1675,2678,12,12,circle,Symbol overlaps vertical grid/frame; center read from exposed sides.,149.3861,550.015,2.1906,45.578,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,58,1792.5,2680,3,3,circle,,169.2235,536.261,0.6077,14.102,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,65,1911,2677,3,3,circle,,189.2406,539.576,0.6039,14.115,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,72,2028,2675,3,3,circle,,209.1396,539.553,0.6282,14.118,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,79,2144.5,2675,3,3,circle,,229.1118,532.703,0.6635,14.103,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,marker,85,2264,2673,12,12,circle,Symbol overlaps vertical grid/frame; center read from exposed sides.,249.6055,532.532,2.2838,45.585,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n294.png; credit Codex,,
+FC-1B,1,n294,trace,15,873,2783.5,1,6.0,circle,,12.7429,235.705,0.2737,23.427,piecewise,one-sided-verified,claude,,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 312 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n294,trace,20,904,2771.0,1,6.5,circle,,18.0225,276.557,0.2756,25.189,piecewise,agreed,claude,18.023,277.112,,903.9,2771.0
+FC-1B,1,n294,trace,25,934,2759.5,1,6.0,circle,,23.1302,314.057,0.274,23.527,piecewise,agreed,claude,23.130,316.182,,933.9,2759.1
+FC-1B,1,n294,trace,6,940,2756.5,1,12,,,24.1637,324.638,0.3333,44.242,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,7,960,2750.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=952 and 998; not an observed marker.,27.5649,345.345,0.3438,54.59,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,35,994,2737.5,1,6.0,circle,,33.3433,385.65,0.2742,23.62,piecewise,one-sided,claude,,,,,
+FC-1B,1,n294,trace,40,1024,2728.5,1,6.0,circle,,38.4435,414.618,0.2744,23.657,piecewise,agreed,claude,38.444,416.073,,1023.9,2728.3
+FC-1B,1,n294,trace,45,1054,2717.5,1,6.0,circle,,43.551,450.422,0.2745,23.704,piecewise,agreed,claude,43.551,446.320,,1054.0,2719.0
+FC-1B,1,n294,trace,55,1113,2700.5,1,4.0,circle,,53.595,505.014,0.2702,16.932,piecewise,agreed,claude,53.595,501.914,,1113.0,2701.7
+FC-1B,1,n294,trace,60,1141,2695.5,1,6.0,circle,,58.3633,520.442,0.2791,23.795,piecewise,agreed,claude,58.363,520.667,,1141.0,2695.7
+FC-1B,1,n294,trace,65,1170,2689.5,1,6.0,circle,,63.3048,539.229,0.281,23.82,piecewise,agreed,claude,63.305,542.838,,1170.0,2688.8
+FC-1B,1,n294,trace,20,1180,2687.0,1,11,,,65.0129,548.258,0.3208,41.449,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,75,1228,2679.5,1,5.0,circle,,73.1806,569.974,0.2814,20.439,piecewise,one-sided,claude,,,,,
+FC-1B,1,n294,trace,80,1257,2675.5,1,6.0,circle,,78.1149,581.931,0.2868,23.877,piecewise,agreed,claude,78.115,581.823,,1257.0,2675.9
+FC-1B,1,n294,trace,85,1286,2673.5,1,5.0,circle,,83.0422,587.052,0.2852,20.462,piecewise,agreed,claude,83.042,589.271,,1286.0,2673.2
+FC-1B,1,n294,trace,27,1300,2672.5,1,12,,,85.4141,590.844,0.3084,45.009,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,31,1360,2669.5,1,12,,,95.5997,597.596,0.3005,45.033,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,33,1373,2669.5,1,12,,,97.8043,596.835,0.2988,45.032,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,34,1400,2669.5,1,12,,,102.4025,595.253,0.2999,45.03,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,105,1401,2669.5,1,6.0,circle,,102.5857,593.928,0.2976,23.897,piecewise,agreed,claude,102.586,595.190,,1401.1,2669.5
+FC-1B,1,n294,trace,35,1420,2669.5,1,12,,,105.8219,594.081,0.3006,45.029,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,38,1460,2669.5,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1420 and 1466; not an observed marker.,112.6605,591.736,0.313,55.326,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,115,1460,2669.5,1,3.0,circle,,112.6663,590.44,0.2878,13.625,piecewise,agreed,claude,112.666,591.728,,1460.0,2669.5
+FC-1B,1,n294,trace,120,1489,2670.5,1,5.0,circle,,117.6176,585.307,0.2955,20.466,piecewise,agreed,claude,117.618,586.612,,1489.0,2670.5
+FC-1B,1,n294,trace,125,1518,2670.5,1,5.0,circle,,122.5725,583.592,0.2959,20.465,piecewise,agreed,claude,122.573,574.084,,1518.1,2673.7
+FC-1B,1,n294,trace,41,1520,2674.0,1,6,,,122.9021,572.811,0.2827,24.378,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,42,1540,2672.2,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1535 and 1582; not an observed marker.,126.3279,577.801,0.3163,55.296,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,45,1580,2673.4,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1535 and 1582; not an observed marker.,133.162,571.345,0.3179,55.283,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,46,1600,2674.0,1,9,,,136.579,568.117,0.2966,34.672,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,140,1606,2675.0,1,5.5,circle,,137.5912,562.999,0.2992,22.153,piecewise,agreed,claude,137.591,566.754,,1605.9,2674.3
+FC-1B,1,n294,trace,145,1635,2675.0,1,5.5,circle,,142.5458,561.283,0.2997,22.152,piecewise,agreed,claude,142.546,558.802,,1634.9,2676.1
+FC-1B,1,n294,trace,160,1723,2680.0,1,4.5,circle,,157.4676,538.974,0.2896,18.702,piecewise,agreed,claude,157.468,543.292,,1722.8,2679.1
+FC-1B,1,n294,trace,165,1753,2680.5,1,6.0,circle,,162.5272,535.487,0.2927,23.836,piecewise,agreed,claude,162.527,537.491,,1752.8,2680.3
+FC-1B,1,n294,trace,56,1760,2680.5,1,12,,,163.7348,536.458,0.304,44.901,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,60,1820,2680.5,1,12,,,173.8645,532.932,0.3019,44.897,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,61,1840,2679.5,1,10,,,177.2447,535.183,0.2939,38.034,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,180,1842,2679.5,1,5.0,circle,,177.5467,533.636,0.2819,20.412,piecewise,agreed,claude,177.547,535.078,,1841.8,2679.5
+FC-1B,1,n294,trace,185,1872,2678.5,1,6.0,circle,,182.6119,535.28,0.2832,23.84,piecewise,agreed,claude,182.612,535.333,,1871.8,2678.9
+FC-1B,1,n294,trace,63,1880,2678.5,1,12,,,184.0015,536.258,0.2997,44.912,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,64,1900,2678.0,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1888 and 1934; not an observed marker.,187.3799,536.796,0.3098,55.224,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,195,1931,2677.5,1,6.0,circle,,192.5699,535.206,0.2785,23.842,piecewise,one-sided,claude,,,,,
+FC-1B,1,n294,trace,205,1990,2675.0,1,5.5,circle,,202.5758,540.264,0.2817,22.137,piecewise,agreed,claude,202.576,541.804,,1989.7,2675.0
+FC-1B,1,n294,trace,70,2000,2675.0,1,11,,,204.3395,541.199,0.3053,41.5,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,215,2048,2673.5,1,5.0,circle,,212.531,541.961,0.2941,20.428,piecewise,one-sided,claude,,,,,
+FC-1B,1,n294,trace,220,2077,2673.5,1,5.0,circle,,217.5058,540.243,0.3013,20.427,piecewise,agreed,claude,217.506,541.828,,2076.8,2673.5
+FC-1B,1,n294,trace,225,2106,2672.0,1,5.5,circle,,222.4862,543.658,0.3103,22.146,piecewise,agreed,claude,222.486,544.768,,2105.8,2672.1
+FC-1B,1,n294,trace,77,2120,2672.5,1,12,,,224.9206,542.715,0.345,44.952,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,80,2160,2672.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2121 and 2168; not an observed marker.,231.7794,541.734,0.3677,55.267,piecewise,one-sided,codex,,,,,
+FC-1B,1,n294,trace,235,2165,2672.0,1,5.5,circle,,232.6074,540.162,0.3248,22.143,piecewise,agreed,claude,232.607,541.533,,2164.8,2672.1
+FC-1B,1,n294,trace,240,2194,2670.5,1,5.0,circle,,237.5877,543.577,0.3301,20.435,piecewise,agreed,claude,237.588,543.650,,2193.9,2671.0
+FC-1B,1,n294,trace,245,2223,2670.5,1,5.0,circle,,242.5626,541.859,0.3373,20.434,piecewise,agreed,claude,242.563,542.055,,2222.9,2670.9
+FC-1B,1,n294,trace,84,2240,2670.5,1,10,,,245.4999,542.516,0.3739,38.085,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n3520,feature,2,906,2243,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",20.1699,2123.231,3.2313,67.237,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n3520,feature,65,2010,1669.5,106,10,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1904..2058; not peak marker,209.693,4059.123,18.3056,43.6,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 206.3, y 4044.5 (dx +3.5, dy +1.2) confirms the peak feature",,
+FC-1B,1,n3520,feature,80,2250,1706,18,18,,last point; end symbol at/near frame; line ends at symbol rim,250.6243,3917.522,3.3377,67.13,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n3520,marker,1,906,2243,3,3,x,,20.1699,2123.231,0.6414,14.301,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,15,1132,1955,3,3,x,,59.4488,3110.751,0.6366,14.577,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,22,1257,1855.5,3,3,x,,81.0037,3453.17,0.6197,14.185,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,35,1492.5,1752.5,3,3,x,,121.5508,3800.819,0.6154,13.783,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,49,1726,1697,12,12,x,x marker overlaps 4000-psf grid line.,161.5955,3981.318,2.1577,45.741,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,61,1964,1668,12,12,x,Symbol overlaps vertical grid/frame; center read from exposed sides.,201.8286,4067.071,2.1891,44.784,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,70,2081,1672,3,3,x,,221.8309,4046.218,0.6493,13.258,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,marker,79,2250,1706,12,12,x,Symbol overlaps vertical grid/frame; center read from exposed sides.,250.6243,3917.522,2.2845,45.724,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n3520.png; credit Codex,,
+FC-1B,1,n3520,trace,3,920,2220.5,1,24,,Visible line close to end-symbol rim.,22.6162,2200.444,0.3749,87.061,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 008 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-1B,1,n3520,trace,25,934,2198.5,1,11.0,x,thick run (marker or gridline merge),25.0551,2276.564,0.2918,42.632,piecewise,agreed,claude,25.055,2275.909,,934.0,2198.5
+FC-1B,1,n3520,trace,30,964,2154.5,1,9.0,x,thick run (marker or gridline merge),30.2865,2427.53,0.2852,35.399,piecewise,agreed,claude,30.287,2424.321,,964.0,2155.2
+FC-1B,1,n3520,trace,35,994,2111.5,1,10.0,x,thick run (marker or gridline merge),35.5161,2575.039,0.2889,38.608,piecewise,agreed,claude,35.516,2572.315,,994.0,2112.0
+FC-1B,1,n3520,trace,40,1024,2073.5,1,9.0,x,thick run (marker or gridline merge),40.7299,2705.2,0.2856,34.892,piecewise,agreed,claude,40.730,2702.985,,1024.0,2073.9
+FC-1B,1,n3520,trace,45,1054,2035.5,1,8.0,x,,45.9451,2835.373,0.2823,31.175,piecewise,agreed,claude,45.945,2834.846,,1054.0,2035.4
+FC-1B,1,n3520,trace,55,1113,1971.5,1,9.0,x,thick run (marker or gridline merge),56.1736,3054.786,0.2888,34.766,piecewise,agreed,claude,56.174,3049.677,,1113.1,1972.7
+FC-1B,1,n3520,trace,14,1120,1966.4,1,24,,Local bridge across symbol/ink interruption; visible line flanks at u=1109 and 1155; not an observed marker.,57.3731,3071.363,0.3726,88.243,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,17,1160,1928.0,1,21,,,64.2936,3204.049,0.3567,77.718,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,65,1170,1919.0,1,7.5,x,,66.0265,3235.831,0.2873,29.616,piecewise,agreed,claude,66.026,3236.056,,1170.0,1918.7
+FC-1B,1,n3520,trace,70,1199,1894.5,1,8.0,x,,71.0314,3320.146,0.291,31.432,piecewise,agreed,claude,71.031,3316.992,,1199.0,1895.2
+FC-1B,1,n3520,trace,75,1228,1873.5,1,8.0,x,,76.0238,3392.148,0.2929,31.481,piecewise,agreed,claude,76.024,3393.124,,1228.0,1873.1
+FC-1B,1,n3520,trace,21,1240,1865.7,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1234 and 1280; not an observed marker.,78.0839,3418.332,0.3248,56.337,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,24,1280,1840.0,1,15,,,84.9601,3506.271,0.3195,56.23,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,85,1286,1836.0,1,8.5,x,,85.9926,3520.299,0.2986,33.325,piecewise,agreed,claude,85.993,3519.108,,1286.0,1836.2
+FC-1B,1,n3520,trace,90,1314,1821.0,1,6.5,x,,90.794,3571.247,0.2934,26.33,piecewise,agreed,claude,90.794,3571.514,,1314.0,1820.9
+FC-1B,1,n3520,trace,95,1343,1806.0,1,6.5,x,,95.765,3622.122,0.2953,26.364,piecewise,agreed,claude,95.765,3621.591,,1343.0,1806.1
+FC-1B,1,n3520,trace,105,1401,1782.0,1,6.5,x,,105.7476,3702.776,0.3007,26.417,piecewise,agreed,claude,105.748,3702.127,,1401.0,1782.2
+FC-1B,1,n3520,trace,110,1430,1772.5,1,6.0,x,,110.7534,3734.315,0.2994,24.681,piecewise,agreed,claude,110.753,3732.595,,1430.0,1773.0
+FC-1B,1,n3520,trace,115,1460,1764.0,1,6.5,x,,115.9273,3762.275,0.3017,26.454,piecewise,agreed,claude,115.927,3762.363,,1460.0,1764.0
+FC-1B,1,n3520,trace,33,1460,1764.0,1,13,,,115.9356,3762.411,0.3075,48.87,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,36,1500,1751.6,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1469 and 1516; not an observed marker.,122.8403,3803.521,0.3164,55.849,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,125,1518,1746.0,1,6.5,x,,125.9369,3821.81,0.3028,26.492,piecewise,agreed,claude,125.937,3820.074,,1517.9,1746.6
+FC-1B,1,n3520,trace,130,1547,1737.5,1,6.0,x,,130.9404,3849.813,0.3015,24.754,piecewise,agreed,claude,130.940,3846.875,,1547.0,1738.4
+FC-1B,1,n3520,trace,135,1576,1731.5,1,6.0,x,,135.9349,3869.04,0.302,24.765,piecewise,agreed,claude,135.935,3867.995,,1575.9,1731.9
+FC-1B,1,n3520,trace,140,1606,1725.0,1,6.5,x,,141.1029,3889.954,0.3044,26.533,piecewise,agreed,claude,141.103,3893.853,,1605.9,1724.0
+FC-1B,1,n3520,trace,145,1635,1717.5,1,5.0,x,,146.1035,3914.433,0.2993,21.283,piecewise,agreed,claude,146.103,3914.917,,1634.9,1717.5
+FC-1B,1,n3520,trace,155,1694,1706.5,1,6.0,x,,156.1532,3949.286,0.2954,24.812,piecewise,agreed,claude,156.153,3951.623,,1693.9,1706.0
+FC-1B,1,n3520,trace,47,1700,1704.5,1,12,,,157.1872,3956.602,0.3048,45.095,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,50,1740,1698.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1703 and 1749; not an observed marker. Drawn curve meets/merges with horizontal grid line.,163.9504,3976.594,0.3143,55.605,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,165,1753,1695.5,1,6.0,x,on horizontal gridline,166.1353,3984.124,0.2906,24.796,piecewise,agreed,claude,166.135,3983.955,,1752.9,1695.8
+FC-1B,1,n3520,trace,170,1783,1691.5,1,6.0,x,on horizontal gridline,171.205,3996.247,0.2882,24.802,piecewise,agreed,claude,171.205,3998.614,,1782.9,1691.1
+FC-1B,1,n3520,trace,175,1812,1686.0,1,6.5,x,on horizontal gridline,176.1117,4013.454,0.2877,26.329,piecewise,agreed,claude,176.112,4009.834,,1811.9,1687.3
+FC-1B,1,n3520,trace,180,1842,1684.5,1,8.0,x,,181.1722,4016.756,0.2908,31.527,piecewise,agreed,claude,181.172,4018.334,,1841.9,1684.3
+FC-1B,1,n3520,trace,185,1872,1682.0,1,10.5,x,thick run (marker or gridline merge),186.2364,4023.504,0.2975,40.17,piecewise,agreed,claude,186.236,4023.766,,1871.9,1682.2
+FC-1B,1,n3520,trace,190,1901,1681.0,1,10.5,x,thick run (marker or gridline merge),191.1266,4025.147,0.2951,40.143,piecewise,agreed,claude,191.127,4027.406,,1900.9,1680.6
+FC-1B,1,n3520,trace,195,1931,1672.5,1,5.0,x,,196.2124,4052.571,0.2728,20.941,piecewise,agreed,claude,196.212,4054.683,,1930.9,1672.2
+FC-1B,1,n3520,trace,205,1990,1670.5,1,6.0,x,,206.267,4055.799,0.2886,24.391,piecewise,one-sided,claude,,,,,
+FC-1B,1,n3520,trace,210,2019,1670.5,1,6.0,x,,211.2374,4053.997,0.2957,24.393,piecewise,agreed,claude,211.237,4055.133,,2019.0,1670.5
+FC-1B,1,n3520,trace,215,2048,1671.5,1,6.0,x,,216.2042,4048.749,0.3028,24.397,piecewise,agreed,claude,216.204,4051.145,,2048.1,1671.1
+FC-1B,1,n3520,trace,68,2060,1672.1,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2058 and 2104; not an observed marker.,218.2377,4047.146,0.3434,54.601,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,71,2100,1674.3,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2058 and 2104; not an observed marker.,225.0732,4037.151,0.3553,54.794,piecewise,one-sided,codex,,,,,
+FC-1B,1,n3520,trace,225,2106,1674.5,1,6.0,x,,226.1341,4034.803,0.3171,24.407,piecewise,agreed,claude,226.134,4031.732,,2106.2,1675.8
+FC-1B,1,n3520,trace,230,2135,1681.5,1,7.0,x,on horizontal gridline,231.079,4008.868,0.3278,28.14,piecewise,agreed,claude,231.079,4012.278,,2135.2,1680.9
+FC-1B,1,n3520,trace,235,2165,1686.0,1,5.5,x,on horizontal gridline,236.2045,3991.357,0.3297,23.014,piecewise,agreed,claude,236.204,3994.337,,2165.3,1685.6
+FC-1B,1,n3520,trace,240,2194,1689.0,1,8.5,x,on horizontal gridline,241.1641,3979.026,0.3477,33.494,piecewise,agreed,claude,241.164,3969.610,,2194.4,1692.1
+FC-1B,1,n3520,trace,245,2223,1700.5,1,6.0,x,,246.0929,3936.953,0.3457,24.754,piecewise,agreed,claude,246.093,3939.545,,2223.4,1700.2
+FC-1B,1,n3520,trace,78,2230,1701.5,1,12,,Visible line close to end-symbol rim.,247.2183,3934.512,0.3832,45.035,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n587,feature,2,914,2625,18,18,,"first point; curve begins at end marker, with a small line-to-symbol gap",20.2191,775.888,3.2275,67.048,piecewise,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n587,feature,26,1334,2520.5,134,12,,peak of drawn trace; broad/flat summit; within 12 psf of maximum over sampled visible ink u=1285..1468; not peak marker,91.7167,1113.349,22.9815,55.712,piecewise,one-sided-verified,codex,,,"Claude's trace maximum at x 78.6, y 1129.7 (dx +13.3, dy -3.8) confirms the peak feature",,
+FC-1B,1,n587,feature,75,2110,2611,55,12,,rounded transition to nearly flat residual tail; no sharp corner,223.4271,754.143,9.6148,48.689,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 009 (Claude's adjudicator: yes; Codex's: yes),,
+FC-1B,1,n587,feature,85,2263,2612,18,18,,last point; end symbol at/near frame; line ends at symbol rim,249.6498,741.782,3.3388,67.141,piecewise extrapolated x,one-sided-verified,codex,,,coincides with the verified end marker of the series,,
+FC-1B,1,n587,marker,1,914,2625,3,3,triangle-up,,20.2191,775.888,0.6406,14.736,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,8,1030,2561,3,3,triangle-up,,40.0489,988.065,0.6411,15.43,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,15,1146.5,2534.5,3,3,triangle-up,,59.8685,1074.845,0.6361,15.845,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,22,1262,2528,3,3,triangle-up,,79.4795,1091.014,0.6207,15.821,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,30,1383,2528.5,12,12,triangle-up,Symbol overlaps vertical grid/frame; center read from exposed sides.,99.9985,1081.96,2.1814,48.408,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,36,1495,2529,3,3,triangle-up,,119.154,1073.45,0.6133,15.838,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,43,1616,2531,3,3,triangle-up,,139.8431,1059.072,0.6174,15.853,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,51,1735.5,2558.5,3,3,triangle-up,,160.0456,955.828,0.6094,15.256,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,58,1853.5,2576,3,3,triangle-up,,179.899,889.031,0.6055,15.076,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,66,1973,2600,12,12,triangle-up,Symbol overlaps vertical grid/frame; center read from exposed sides.,199.9839,799.836,2.1898,46.29,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,73,2086,2601,3,3,triangle-up,,219.3492,789.825,0.6462,14.81,piecewise,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,marker,84,2263,2612,12,12,triangle-up,Symbol overlaps vertical grid/frame; center read from exposed sides.,249.6498,741.782,2.2837,46.158,piecewise extrapolated x,one-sided-verified,codex,,,Claude's reading omitted the upper-panel markers (protocol deviation); symbol identity and center verified by Claude on Codex's 4x contact sheet markers-p1-n587.png; credit Codex,,
+FC-1B,1,n587,trace,25,934,2607.5,1,6.0,triangle-up,,23.6509,833.315,0.2742,24.182,piecewise,one-sided-verified,claude,23.651,837.879,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 314 (Claude's adjudicator: all yes; Codex's: all yes)",936.0,2606.5
+FC-1B,1,n587,trace,30,964,2593.0,1,6.5,triangle-up,,28.7723,881.091,0.276,25.953,piecewise,agreed,claude,28.772,879.304,,964.0,2593.9
+FC-1B,1,n587,trace,35,994,2581.0,1,6.5,triangle-up,,33.8855,920.329,0.2762,26.004,piecewise,agreed,claude,33.886,919.130,,994.0,2581.8
+FC-1B,1,n587,trace,6,996,2581.0,1,13,,,34.2316,921.618,0.3374,49.322,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,45,1054,2559.5,1,6.0,triangle-up,on horizontal gridline,44.1046,990.276,0.2747,25.011,piecewise,one-sided,claude,,,,,
+FC-1B,1,n587,trace,55,1113,2545.5,1,6.0,triangle-up,,54.1434,1036.152,0.2775,25.473,piecewise,agreed,claude,54.143,1034.519,,1113.0,2546.4
+FC-1B,1,n587,trace,13,1116,2545.0,1,11,,,54.6589,1039.335,0.3289,44.146,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,65,1170,2534.0,1,4.5,triangle-up,,63.8542,1073.656,0.2759,20.158,piecewise,one-sided,claude,,,,,
+FC-1B,1,n587,trace,70,1199,2531.5,1,5.0,triangle-up,,68.783,1080.794,0.2796,21.948,piecewise,agreed,claude,68.783,1083.953,,1199.0,2531.1
+FC-1B,1,n587,trace,75,1228,2528.0,1,4.5,triangle-up,,73.7152,1091.495,0.2798,20.174,piecewise,agreed,claude,73.715,1094.481,,1228.0,2527.6
+FC-1B,1,n587,trace,20,1236,2527.0,1,11,,,75.0735,1096.133,0.313,44.179,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,85,1286,2522.5,1,4.0,triangle-up,,83.5743,1107.55,0.2819,18.405,piecewise,one-sided,claude,,,,,
+FC-1B,1,n587,trace,90,1314,2522.0,1,4.5,triangle-up,,88.3263,1107.621,0.2855,20.188,piecewise,agreed,claude,88.326,1109.043,,1314.0,2522.0
+FC-1B,1,n587,trace,95,1343,2520.5,1,6.0,triangle-up,,93.2515,1111.195,0.2927,25.54,piecewise,one-sided,claude,,,,,
+FC-1B,1,n587,trace,29,1370,2521.7,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1360 and 1406; not an observed marker.,97.8178,1106.917,0.3094,58.395,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,32,1416,2520.5,1,12,,,105.6718,1108.415,0.3008,47.71,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,110,1430,2520.5,1,6.0,triangle-up,,108.0727,1105.881,0.2983,25.533,piecewise,agreed,claude,108.073,1106.322,,1430.0,2520.9
+FC-1B,1,n587,trace,115,1460,2521.0,1,5.5,triangle-up,,113.1996,1102.267,0.297,23.745,piecewise,agreed,claude,113.200,1102.702,,1460.0,2521.4
+FC-1B,1,n587,trace,35,1476,2522.8,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1472 and 1518; not an observed marker.,115.9266,1096.631,0.314,58.398,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,38,1516,2525.4,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1472 and 1518; not an observed marker.,122.7591,1084.984,0.3156,58.41,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,125,1518,2525.5,1,5.0,triangle-up,,123.0986,1082.695,0.2962,21.942,piecewise,agreed,claude,123.099,1084.829,,1518.0,2525.4
+FC-1B,1,n587,trace,130,1547,2527.0,1,5.5,triangle-up,,128.0507,1075.582,0.2985,23.717,piecewise,agreed,claude,128.051,1079.847,,1547.0,2526.3
+FC-1B,1,n587,trace,135,1576,2529.5,1,6.0,triangle-up,,132.999,1064.907,0.3008,25.489,piecewise,agreed,claude,132.999,1066.829,,1576.0,2529.5
+FC-1B,1,n587,trace,41,1576,2529.5,1,12,,,133.0069,1066.806,0.307,47.752,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,44,1616,2539.0,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1593 and 1639; not an observed marker. Drawn curve meets/merges with horizontal grid line.,139.8135,1030.642,0.3197,58.32,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,46,1656,2540.5,1,14,,Drawn curve meets/merges with horizontal grid line.,146.6494,1022.911,0.3176,54.777,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,47,1665,2541.5,1,14,,Drawn curve meets/merges with horizontal grid line.,148.185,1018.817,0.318,54.782,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,48,1688,2544.5,1,14,,Drawn curve meets/merges with horizontal grid line.,152.0798,1006.777,0.3137,54.795,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,155,1694,2545.0,1,5.5,triangle-up,on horizontal gridline,153.0716,1002.503,0.2953,23.643,piecewise,agreed,claude,153.072,1003.806,,1693.9,2545.2
+FC-1B,1,n587,trace,49,1696,2545.5,1,14,,Drawn curve meets/merges with horizontal grid line.,153.4263,1002.744,0.3134,54.8,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,50,1716,2548.9,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1712 and 1759; not an observed marker. Drawn curve meets/merges with horizontal grid line.,156.7895,989.843,0.3164,57.985,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,53,1756,2557.4,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1712 and 1759; not an observed marker.,163.5097,958.41,0.3149,56.858,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,54,1776,2560.5,1,12,,,166.8741,946.631,0.3033,46.035,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,170,1783,2562.5,1,6.0,triangle-up,,168.0207,937.335,0.2901,24.344,piecewise,agreed,claude,168.021,942.148,,1782.8,2561.7
+FC-1B,1,n587,trace,175,1812,2567.5,1,5.0,triangle-up,,172.8945,918.531,0.2841,20.896,piecewise,agreed,claude,172.894,923.091,,1811.8,2566.8
+FC-1B,1,n587,trace,56,1816,2567.5,1,10,,,173.6002,920.331,0.2946,39.094,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,60,1876,2582.3,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1830 and 1877; not an observed marker.,183.6741,866.137,0.3106,56.13,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,61,1896,2585.5,1,10,,,187.0385,854.009,0.2918,38.918,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,190,1901,2585.5,1,5.0,triangle-up,,187.8428,851.729,0.277,20.815,piecewise,agreed,claude,187.843,850.451,,1900.8,2586.5
+FC-1B,1,n587,trace,195,1931,2592.5,1,6.0,triangle-up,,192.8783,826.017,0.2783,24.209,piecewise,agreed,claude,192.878,830.710,,1930.7,2591.7
+FC-1B,1,n587,trace,63,1936,2592.5,1,12,,,193.7652,827.694,0.2976,45.721,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,64,1956,2596.2,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1950 and 1996; not an observed marker.,197.1279,813.85,0.3077,55.995,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,65,1963,2596.9,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=1950 and 1996; not an observed marker.,198.307,811.043,0.3074,55.988,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,68,1996,2600.5,1,10,,,203.9242,796.783,0.3009,38.768,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,69,2016,2603.0,1,9,,,207.3433,787.048,0.3033,35.306,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,210,2019,2603.0,1,4.5,triangle-up,,207.8151,784.913,0.2855,19.021,piecewise,agreed,claude,207.815,785.942,,2018.8,2603.3
+FC-1B,1,n587,trace,215,2048,2606.0,1,4.5,triangle-up,,212.7786,772.94,0.2926,19.007,piecewise,agreed,claude,212.779,775.315,,2047.8,2605.9
+FC-1B,1,n587,trace,71,2056,2606.5,1,10,,,214.187,772.719,0.3189,38.706,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,72,2076,2607.3,1,15,,Local bridge across symbol/ink interruption; visible line flanks at u=2063 and 2109; not an observed marker.,217.6124,768.811,0.343,55.885,piecewise,one-sided,codex,,,,,
+FC-1B,1,n587,trace,225,2106,2609.0,1,4.5,triangle-up,,222.7168,759.257,0.3069,18.991,piecewise,one-sided,claude,,,,,
+FC-1B,1,n587,trace,230,2135,2611.0,1,5.5,triangle-up,,227.684,750.703,0.3177,22.408,piecewise,agreed,claude,227.684,752.793,,2134.8,2611.0
+FC-1B,1,n587,trace,235,2165,2611.0,1,5.5,triangle-up,,232.8301,748.935,0.3251,22.407,piecewise,agreed,claude,232.830,748.660,,2164.9,2611.7
+FC-1B,1,n587,trace,240,2194,2612.0,1,4.5,triangle-up,,237.8011,743.803,0.3286,18.974,piecewise,agreed,claude,237.801,745.636,,2193.9,2612.1
+FC-1B,1,n587,trace,245,2223,2611.0,1,5.5,triangle-up,,242.7793,745.516,0.3394,22.404,piecewise,agreed,claude,242.779,749.325,,2222.9,2610.5
+FC-1B,1,n587,trace,82,2236,2609.5,1,10,,,245.0305,751.932,0.373,38.663,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,
+FC-1B,1,n587,trace,83,2240,2609.0,1,9,,,245.7179,753.413,0.3707,35.229,piecewise,one-sided-verified,codex,,,drawn line reaches the end symbol at the x=250 frame (page crop u 2200-2320); Claude's column list stopped at about x 245,,

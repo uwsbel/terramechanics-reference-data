@@ -1,0 +1,168 @@
+{
+  "FA-20": {
+    "source": "1968-vol2",
+    "title": "Figure A-20: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for RSM Soil (printed A-40, PDF 41)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for RSM-a soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  },
+  "FA-24": {
+    "source": "1968-vol2",
+    "title": "Figure A-24: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for the RC2 Soil (printed A-48, PDF 49)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for RC2 soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  },
+  "FA-28": {
+    "source": "1968-vol2",
+    "title": "Figure A-28: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for SS Soil (printed A-55, PDF 56)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for SS soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  },
+  "FA-4": {
+    "source": "1968-vol2",
+    "title": "Figure A-4: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for RS Soil (printed A-8, PDF 9)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for RS soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  },
+  "FA-40": {
+    "source": "1968-vol2",
+    "title": "Figure A-40: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for LSM Soil (printed A-78, PDF 79)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "band-top": {
+        "label": "upper edge of the cross-hatched band",
+        "symbol": "",
+        "noun": ""
+      },
+      "band-bottom": {
+        "label": "lower edge of the cross-hatched band",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for LSM soil. Instead of a curve the figure shows a cross-hatched band between two straight horizontal edge lines, and no symbols. A row asks about the upper or the lower edge line; a crosshair on a hatching stroke inside the band, or on a grid line, but not on the named edge line is a no."
+  },
+  "FA-48": {
+    "source": "1968-vol2",
+    "title": "Figure A-48: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for RSM Soil (printed A-96, PDF 97)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for RSM-b soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  },
+  "FA-8": {
+    "source": "1968-vol2",
+    "title": "Figure A-8: Angle of Internal Friction (as determined by the direct shear test) Versus Relative Density for PS Soil (printed A-15, PDF 16)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "curve": {
+        "label": "solid curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction (degrees, from direct shear tests) against relative density Dr for PS soil. One solid curve on a grid and no symbols. A crosshair on a grid line but not on the curve is a no."
+  }
+}

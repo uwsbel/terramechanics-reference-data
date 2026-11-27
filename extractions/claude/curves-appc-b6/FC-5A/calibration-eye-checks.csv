@@ -1,0 +1,12 @@
+axis,printed_label,label_center_u,label_center_v,fitted_line_px,offset_px,value_at_label_center,agrees,note
+y,5000,672.5,1551.5,1555.2,-3.7,5019.0,yes,"label left of the frame, level with a tick and the drawn horizontal grid line (crops2/ylab_*.png)"
+y,4000,673.0,1854.5,1853.8,0.7,3991.0,yes,"label left of the frame, level with a tick and the drawn horizontal grid line (crops2/ylab_*.png)"
+y,3000,674.0,2146.0,2147.1,-1.1,3002.0,yes,"label left of the frame, level with a tick and the drawn horizontal grid line (crops2/ylab_*.png)"
+y,2000,674.5,2439.0,2441.0,-2.0,2007.0,yes,"label left of the frame, level with a tick and the drawn horizontal grid line (crops2/ylab_*.png)"
+y,1000,676.5,2731.5,2736.0,-4.5,1015.0,yes,"label left of the frame, level with a tick and the drawn horizontal grid line (crops2/ylab_*.png)"
+x,0,808.5,3110.0,820.6,-12.1,-43.0,yes,the corner label 0 is printed left of the sigma = 0 frame line (its right edge at the line); it is the only label off its line by more than a few px
+x,1000,1118.5,3109.0,1116.0,2.5,1014.0,yes,label centered under a tick below the frame and the drawn vertical grid line (crops2/xlab_*.png)
+x,2000,1400.0,3109.0,1407.0,-7.0,1973.0,yes,label centered under a tick below the frame and the drawn vertical grid line (crops2/xlab_*.png)
+x,3000,1701.0,3108.5,1699.9,1.1,2998.0,yes,label centered under a tick below the frame and the drawn vertical grid line (crops2/xlab_*.png)
+x,4000,2003.5,3107.5,1997.6,5.9,4029.0,yes,label centered under a tick below the frame and the drawn vertical grid line (crops2/xlab_*.png)
+x,5000,2291.0,3107.5,2287.6,3.4,5008.0,yes,label centered under a tick below the frame and the drawn vertical grid line (crops2/xlab_*.png)

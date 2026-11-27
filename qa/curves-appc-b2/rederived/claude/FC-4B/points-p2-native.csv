@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-4B,2,n4695,marker,1,862.5,3287.0,4,4,plus,n3815 circle attached below,10.3726,-114.7019,0.8716,1.6116,piecewise
+FC-4B,2,n4695,marker,2,979.5,3304.0,4,4,plus,n3815 circle attached below,30.4837,-120.3762,0.9732,1.6147,piecewise
+FC-4B,2,n4695,marker,3,1092.5,3311.0,4,4,plus,vertical bar coincides with 50 gridline; n3815 circle below,49.9109,-122.6301,1.0663,1.616,piecewise
+FC-4B,2,n4695,marker,4,1209.5,3325.0,2,2,plus,,70.04,-127.2764,0.6907,0.9305,piecewise
+FC-4B,2,n4695,marker,5,1334.5,3328.0,2,2,plus,,91.5407,-128.1446,0.6553,0.931,piecewise
+FC-4B,2,n4695,marker,6,1442.5,3332.0,2,2,plus,,110.1953,-129.377,0.6112,0.9317,piecewise
+FC-4B,2,n4695,marker,7,1561.5,3332.0,2,2,plus,,130.8266,-129.2252,0.5373,0.9316,piecewise
+FC-4B,2,n4695,marker,8,1673.5,3341.0,3,3,plus,touching 150 gridline,150.2346,-132.1649,0.6382,1.2771,piecewise
+FC-4B,2,n4695,marker,9,1793.5,3338.0,2,2,plus,,170.667,-130.9843,0.4528,0.9325,piecewise
+FC-4B,2,n4695,marker,10,1854.5,3341.0,4,4,plus,below apex of n2934 triangle; x position has no counterpart in upper panel,181.052,-131.9339,0.7908,1.6209,piecewise
+FC-4B,2,n4695,marker,11,2084.5,3335.0,4,4,plus,below apex of n2934 triangle,220.4988,-129.5857,0.8711,1.6195,piecewise
+FC-4B,2,n4695,marker,12,2234.5,3320.0,4,4,plus,overlaps n2934 triangle and right frame; low template score 0.48,246.4062,-124.2576,0.963,1.6165,piecewise
+FC-4B,2,n3815,marker,1,795.0,3297.0,4,4,circle,"on left frame, overlaps frame and possibly a plus crossbar",-1.2318,-118.2133,0.8365,1.6136,piecewise extrapolated x
+FC-4B,2,n3815,marker,2,864.0,3302.0,4,4,circle,attached below n4695 plus,10.6286,-119.8382,0.873,1.6145,piecewise
+FC-4B,2,n3815,marker,3,979.0,3317.0,4,4,circle,attached below n4695 plus,30.3984,-124.83,0.9729,1.6172,piecewise
+FC-4B,2,n3815,marker,4,1092.0,3328.0,4,4,circle,"on 50 gridline, below n4695 plus",49.8285,-128.4538,1.0661,1.6192,piecewise
+FC-4B,2,n3815,marker,5,1153.0,3333.0,4,4,circle,attached below n2934 triangle,60.3212,-130.0887,1.0515,1.6201,piecewise
+FC-4B,2,n3815,marker,6,1269.0,3333.0,4,4,circle,attached below n2934 triangle,80.2726,-129.9408,1.0189,1.62,piecewise
+FC-4B,2,n3815,marker,7,1387.0,3336.0,4,4,circle,"on 100 gridline, below n2934 triangle",100.5705,-130.8178,0.9907,1.6204,piecewise
+FC-4B,2,n3815,marker,8,1502.0,3335.0,4,4,circle,attached below n2934 triangle,120.509,-130.3286,0.9235,1.6201,piecewise
+FC-4B,2,n3815,marker,9,1617.0,3335.0,4,4,circle,attached below n2934 triangle,140.4469,-130.1819,0.8521,1.62,piecewise
+FC-4B,2,n3815,marker,10,1735.0,3337.0,4,4,circle,attached below n2934 triangle,160.7075,-130.7164,0.7972,1.6203,piecewise
+FC-4B,2,n3815,marker,11,1972.0,3333.0,4,4,circle,"on 200 gridline, below n2934 triangle",201.0726,-129.0442,0.8024,1.6193,piecewise
+FC-4B,2,n3815,marker,12,2116.0,3326.0,2,2,circle,"ring incomplete (open on the right), drawn as a c",225.94,-126.4634,0.5434,0.9299,piecewise
+FC-4B,2,n3815,marker,13,2280.0,3327.0,4,4,circle,beyond the right frame (x > 250),254.2606,-126.5968,1.013,1.6178,piecewise extrapolated x
+FC-4B,2,n2934,marker,1,806,3272,5,5,triangle-down,"on left frame; circle of n3815 touches below; NCC fit rejected (frame interference), eye reading kept",0.6643,-109.6354,0.9957,1.9528,piecewise extrapolated x
+FC-4B,2,n2934,marker,2,924.5,3296.5,2,2,triangle-down,,21.029,-117.8772,0.5796,0.9253,piecewise
+FC-4B,2,n2934,marker,3,1039.5,3308.5,2,2,triangle-down,,40.7988,-121.8413,0.6799,0.9275,piecewise
+FC-4B,2,n2934,marker,4,1153.5,3314.5,4,4,triangle-down,n3815 circle attached below apex,60.4066,-123.7512,1.0517,1.6166,piecewise
+FC-4B,2,n2934,marker,5,1270.5,3316.5,4,4,triangle-down,n3815 circle attached below apex,80.5358,-124.2872,1.0188,1.6168,piecewise
+FC-4B,2,n2934,marker,6,1390.5,3317.5,4,4,triangle-down,on 100 gridline; n3815 circle below apex,101.1893,-124.4768,0.9927,1.6169,piecewise
+FC-4B,2,n2934,marker,7,1504.5,3316.5,4,4,triangle-down,n3815 circle attached below apex,120.9541,-123.989,0.9219,1.6166,piecewise
+FC-4B,2,n2934,marker,8,1618.5,3318.5,4,4,triangle-down,n3815 circle attached below apex,140.7169,-124.5288,0.8511,1.6168,piecewise
+FC-4B,2,n2934,marker,9,1735.5,3319.5,4,4,triangle-down,n3815 circle attached below apex,160.8005,-124.7222,0.797,1.6169,piecewise
+FC-4B,2,n2934,marker,10,1855.5,3317.5,4,4,triangle-down,n4695 plus attached below apex,181.227,-123.8843,0.7905,1.6164,piecewise
+FC-4B,2,n2934,marker,11,1971.5,3317.5,4,4,triangle-down,on 200 gridline; n3815 circle below apex,200.9861,-123.7365,0.8022,1.6163,piecewise
+FC-4B,2,n2934,marker,12,2086.5,3311.5,4,4,triangle-down,n4695 plus attached below apex,220.8481,-121.5352,0.8726,1.615,piecewise
+FC-4B,2,n2934,marker,13,2249.5,3311.5,4,4,triangle-down,on right frame; n4695 plus overlaps at lower left,249.0003,-121.3276,0.9723,1.6149,piecewise
+FC-4B,2,n1761,marker,1,805.0,3213.5,4,4,square,on left frame,0.5045,-89.5972,0.8216,1.5975,piecewise extrapolated x
+FC-4B,2,n1761,marker,2,926.0,3229.5,2,2,square,,21.289,-94.9246,0.5806,0.9125,piecewise
+FC-4B,2,n1761,marker,3,1037.0,3237.5,2,2,square,,40.3598,-97.5241,0.6773,0.9139,piecewise
+FC-4B,2,n1761,marker,4,1153.0,3246.5,2,2,square,,60.3182,-100.4597,0.7079,0.9155,piecewise
+FC-4B,2,n1761,marker,5,1268.0,3249.5,2,2,square,"template fit moved -4.0,+2.5 px from eye reading",80.1262,-101.3412,0.675,0.916,piecewise
+FC-4B,2,n1761,marker,6,1382.0,3249.5,3,3,square,on 100 gridline,99.7616,-101.1965,0.8158,1.2599,piecewise
+FC-4B,2,n1761,marker,7,1502.0,3249.5,2,2,square,,120.5627,-101.0441,0.574,0.9158,piecewise
+FC-4B,2,n1761,marker,8,1616.0,3251.5,2,2,square,,140.324,-101.5844,0.5033,0.9161,piecewise
+FC-4B,2,n1761,marker,9,1734.0,3253.5,2,2,square,,160.5751,-102.1195,0.4552,0.9164,piecewise
+FC-4B,2,n1761,marker,10,1848.0,3251.5,2,2,square,,179.9649,-101.2898,0.4496,0.9159,piecewise
+FC-4B,2,n1761,marker,11,1967.0,3246.5,3,3,square,on 200 gridline,200.2074,-99.4263,0.6266,1.2587,piecewise
+FC-4B,2,n1761,marker,12,2084.0,3246.5,2,2,square,,220.427,-99.2779,0.5244,0.9147,piecewise
+FC-4B,2,n1761,marker,13,2257.0,3237.5,4,4,square,"on right frame; template fit moved +0.0,+4.5 px from eye reading",250.3282,-95.9762,0.9832,1.6007,piecewise extrapolated x
+FC-4B,2,n734,marker,1,803.5,3083.0,4,4,triangle-up,on left frame,0.2742,-44.8955,0.8196,1.5725,piecewise extrapolated x
+FC-4B,2,n734,marker,2,918.5,3098.0,2,2,triangle-up,,20.006,-49.889,0.5735,0.8873,piecewise
+FC-4B,2,n734,marker,3,1037.5,3099.0,2,2,triangle-up,,40.4276,-50.0816,0.6768,0.8874,piecewise
+FC-4B,2,n734,marker,4,1154.5,3093.0,2,2,triangle-up,,60.572,-47.8791,0.7093,0.8861,piecewise
+FC-4B,2,n734,marker,5,1272.5,3095.0,2,2,triangle-up,,80.9507,-48.4155,0.6754,0.8864,piecewise
+FC-4B,2,n734,marker,6,1387.5,3098.0,3,3,triangle-up,on 100 gridline,100.8121,-49.2983,0.8191,1.2308,piecewise
+FC-4B,2,n734,marker,7,1501.5,3095.0,2,2,triangle-up,,120.5729,-48.1272,0.5739,0.8862,piecewise
+FC-4B,2,n734,marker,8,1616.5,3092.0,2,2,triangle-up,,140.5069,-46.9549,0.5025,0.8855,piecewise
+FC-4B,2,n734,marker,9,1735.5,3089.0,2,2,triangle-up,,160.9042,-45.7776,0.4542,0.8848,piecewise
+FC-4B,2,n734,marker,10,1852.5,3091.0,2,2,triangle-up,,180.7638,-46.3153,0.4485,0.8851,piecewise
+FC-4B,2,n734,marker,11,1966.5,3086.0,3,3,triangle-up,on 200 gridline,200.1173,-44.4594,0.6273,1.228,piecewise
+FC-4B,2,n734,marker,12,2082.5,3086.0,2,2,triangle-up,,220.1938,-44.3134,0.5244,0.8839,piecewise
+FC-4B,2,n734,marker,13,2249.5,3075.0,4,4,triangle-up,"on right frame; template fit moved -0.5,-5.0 px from eye reading",249.1016,-40.3363,0.9751,1.5695,piecewise

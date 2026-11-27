@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-3C,2,n4695,marker,1,829,3355,10,10,plus,Plus on left frame.
+FC-3C,2,n4695,marker,2,942,3324,2,2,plus,
+FC-3C,2,n4695,marker,3,1059,3312,2,2,plus,
+FC-3C,2,n4695,marker,4,1177,3286,2,2,plus,
+FC-3C,2,n4695,marker,5,1295,3276,7,7,plus,Plus on zero grid.
+FC-3C,2,n4695,marker,6,1410,3255,9,9,plus,Plus/circle on vertical grid.
+FC-3C,2,n4695,marker,7,1520,3244,7,7,plus,Plus/circle close; widened center bounds.
+FC-3C,2,n4695,marker,8,1640,3225,2,2,plus,
+FC-3C,2,n4695,marker,9,1757,3208,2,2,plus,
+FC-3C,2,n4695,marker,10,1875,3197,2,2,plus,
+FC-3C,2,n4695,marker,11,1997,3187,9,9,plus,Plus on vertical grid.
+FC-3C,2,n4695,marker,12,2108,3181,2,2,plus,
+FC-3C,2,n4695,marker,13,2280,3163,10,10,plus,Plus on right frame.
+FC-3C,2,n3815,marker,1,829,3330,10,10,circle,Circle on left frame.
+FC-3C,2,n3815,marker,2,889.0,3312.0,2,2,circle,
+FC-3C,2,n3815,marker,3,942,3307,6,6,circle,Circle close to plus.
+FC-3C,2,n3815,marker,4,1058.5,3287.5,2,2,circle,
+FC-3C,2,n3815,marker,5,1177,3267,7,7,circle,Circle approaches zero grid and square.
+FC-3C,2,n3815,marker,6,1289.0,3251.5,2,2,circle,
+FC-3C,2,n3815,marker,7,1410,3237,9,9,circle,Circle and plus on vertical grid.
+FC-3C,2,n3815,marker,8,1520,3225,7,7,circle,Circle close to plus; triangle nearby.
+FC-3C,2,n3815,marker,9,1640,3206,7,7,circle,Circle nearly coincident with triangle-down.
+FC-3C,2,n3815,marker,10,1755.0,3187.0,2,2,circle,
+FC-3C,2,n3815,marker,11,1871.5,3173.5,2,2,circle,
+FC-3C,2,n3815,marker,12,1997,3159,9,9,circle,Circle on vertical grid.
+FC-3C,2,n3815,marker,13,2137,3148,7,7,circle,Circle close to triangle-down.
+FC-3C,2,n3815,marker,14,2260,3151,8,8,circle,Circle near frame triangle-down.
+FC-3C,2,n2934,marker,1,860,3329,8,8,triangle-down,Triangle touches first square.
+FC-3C,2,n2934,marker,2,1004.5,3309.5,2,2,triangle-down,
+FC-3C,2,n2934,marker,3,1118,3285,9,9,triangle-down,Triangle on zero and vertical grid.
+FC-3C,2,n2934,marker,4,1233.5,3263.5,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.
+FC-3C,2,n2934,marker,5,1347.5,3243.0,2,2,triangle-down,
+FC-3C,2,n2934,marker,6,1470,3223,6,6,triangle-down,Triangle close to circle.
+FC-3C,2,n2934,marker,7,1584.0,3212.0,2,2,triangle-down,
+FC-3C,2,n2934,marker,8,1700,3195,9,9,triangle-down,Triangle/circle on vertical grid.
+FC-3C,2,n2934,marker,9,1814.5,3179.5,2,2,triangle-down,
+FC-3C,2,n2934,marker,10,1929.5,3167.0,2,2,triangle-down,
+FC-3C,2,n2934,marker,11,2112,3157,8,8,triangle-down,Triangle/circle partially share ink.
+FC-3C,2,n2934,marker,12,2280,3140,10,10,triangle-down,Triangle on right frame.
+FC-3C,2,n1761,marker,1,859,3300,8,8,square,Square close to triangle-down.
+FC-3C,2,n1761,marker,2,945,3281,8,8,square,Square on zero grid.
+FC-3C,2,n1761,marker,3,1062,3263,7,7,square,Square near zero grid.
+FC-3C,2,n1761,marker,4,1176.0,3237.5,2,2,square,
+FC-3C,2,n1761,marker,5,1292.0,3209.0,2,2,square,
+FC-3C,2,n1761,marker,6,1410,3178,9,9,square,Square on vertical grid.
+FC-3C,2,n1761,marker,7,1527.0,3159.5,2,2,square,
+FC-3C,2,n1761,marker,8,1637.5,3138.0,2,2,square,
+FC-3C,2,n1761,marker,9,1755.5,3115.0,2,2,square,
+FC-3C,2,n1761,marker,10,1865.5,3090.0,2,2,square,
+FC-3C,2,n1761,marker,11,1996,3071,9,9,square,Square on vertical grid.
+FC-3C,2,n1761,marker,12,2108.0,3057.5,2,2,square,
+FC-3C,2,n1761,marker,13,2280,3050,10,10,square,Square on right frame.
+FC-3C,2,n734,marker,1,829,3307,10,10,triangle-up,Triangle on left frame.
+FC-3C,2,n734,marker,2,1006,3281,8,8,triangle-up,Triangle on zero grid.
+FC-3C,2,n734,marker,3,1119,3243,9,9,triangle-up,Triangle on vertical grid.
+FC-3C,2,n734,marker,4,1237.5,3209.5,2,2,triangle-up,
+FC-3C,2,n734,marker,5,1354.5,3194.0,2,2,triangle-up,
+FC-3C,2,n734,marker,6,1467.5,3158.5,2,2,triangle-up,
+FC-3C,2,n734,marker,7,1584.0,3137.0,2,2,triangle-up,
+FC-3C,2,n734,marker,8,1700,3120,9,9,triangle-up,Triangle on vertical grid.
+FC-3C,2,n734,marker,9,1815.5,3098.0,2,2,triangle-up,
+FC-3C,2,n734,marker,10,1928.5,3090.5,2,2,triangle-up,
+FC-3C,2,n734,marker,11,2107.5,3083.5,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.
+FC-3C,2,n734,marker,12,2280,3084,10,10,triangle-up,Triangle on right frame.

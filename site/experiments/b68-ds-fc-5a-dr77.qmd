@@ -1,0 +1,78 @@
+---
+title: "Direct shear of SS soil, gamma 107 Lb./Ft.^3 (Dr = .77)"
+record: "b68-ds-fc-5a-dr77"
+kind: "derived-series"
+test-type: "Direct shear"
+family: "SS"
+state: "dense"
+printed-label: "gamma 107 Lb./Ft.^3 (Dr = .77)"
+evidence: "FC-5A;text C-1 (PDF 115)"
+setup: "tests not identified"
+record-status: "agreed"
+priority: "1"
+mcc: "no"
+---
+Direct shear test on SS soil (White Silica Sand (Wedron 4040-narrowly graded)) at relative density 0.77; apparatus: direct shear (Bendix Report No. MM-65-2). Recorded: peak shear stress vs normal stress.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 15 of the 17 points, and the rest were settled against the scan. Student reviewers have looked at 4 of the 17 points on the scan; none has yet been confirmed by two reviewers (see the provenance page). The test setup is incomplete: specimen height, normal stress, held constant, displacement rate are not reported.
+:::
+
+## Data
+
+![maximum shear stress against normal stress, SI units. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-ds-fc-5a-dr77.png){.lightbox}
+
+Peak maximum shear stress 123.4 kPa at 141.2 kPa normal stress; 122.9 kPa at 141.5 kPa, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-ds-fc-5a-dr77/observations.csv) (17 points: 5 plotted symbols, 11 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: maximum shear stress in Pa against normal stress in Pa; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-ds-fc-5a-dr77/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 446 Pa in normal stress, 1.3 kPa in maximum shear stress (1.1 percent of the peak). Both independent readings agree within these bounds at 15 of the 17 points; the other 2 were settled against the scan (read by one reader and verified by the other, or decided between two readings). [Check the digitized points against the scan](../figures/index.qmd#check-fc-5a).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | SS Dense, White Silica Sand (Wedron 4040-narrowly graded) (soil No. 9 of Table 2-3) | SS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 0.4 mm | 0.4 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.3 | 1.3 | Table 2-3 |
+| material | D95 | 0.52 mm | 0.52 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | 0 percent | 0% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | 0.77 | 0.77 | FC-5A |
+| state | unit weight | 16808 N/m^3 (bulk density 1714.0 kg/m^3) | 107 pcf | FC-5A |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| apparatus | shear box | direct shear (Bendix Report No. MM-65-2) | direct shear (Bendix Report No. MM-65-2) | text 2-40, PDF 65; Fig. 2-20 |
+| apparatus | specimen height | *not reported* |  |  |
+| loading | normal stress, held constant | *not reported* |  | FC-5A legend |
+| loading | displacement rate | *not reported* |  | text 2-40, PDF 65 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | peak shear stress vs normal stress |  | FC-5A |
+| measured | dilation zero | *not reported* |  | FC-5A, lower panel |
+| soil strength | friction angle at this density (report's direct shear average) | 39 degrees | 39 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 165.5 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+FC-5A, *Failure Envelopes - Maximum Shear Stress vs. Normal Stress*, AM-68-1 Vol. II (NASA CR-92215), printed C-15, PDF 129.
+Text: FC-5A.
+Text: text C-1 (PDF 115).
+
+::: {layout-ncol=2}
+![Vol. II PDF page 129](../img/1968-vol2/p0129.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-ds-fc-5a-dr77` in `data/experiments/index.csv` of this repository, and the source: FC-5A, *Failure Envelopes - Maximum Shear Stress vs. Normal Stress*, AM-68-1 Vol. II (NASA CR-92215), printed C-15, PDF 129.
+
+<small>Maintainers: the [provenance and review record](../review/b68-ds-fc-5a-dr77.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

@@ -1,0 +1,90 @@
+---
+title: "b68-lpt-052: provenance"
+---
+Provenance and review record of [b68-lpt-052](../experiments/b68-lpt-052.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 31 points recovered, agreed 17, audited 13, one-sided-verified 1 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 12, merged 1, normalized 2, resolved 1 |
+| human audit | 21 points sampled by the student reviewers, 13 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+31 points (from F2-32) read by two readings made separately and reconciled (batch `curves-s2-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay F2-32-p1](../img/overlays/F2-32-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | penetration (m, from inch) | load (N, from lbf) | 31 |
+
+Points by status: [agreed]{.status .status-agreed} 17, [audited]{.status .status-audited} 13, [one-sided-verified]{.status .status-one-sided-verified} 1; by kind: `feature` 4, `trace` 27.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 96 | 0.00949 / 0.0291 | 0.0794 / 0.217 |
+| codex | cal-p1 | 80 | 0.00969 / 0.0274 | 0.0744 / 0.184 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-lpt-052/observations.csv), [series.json](../files/data/experiments/b68-lpt-052/series.json) (repository paths `data/experiments/b68-lpt-052/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | RS Loose |
+| Dr | approx 0.0 |
+| unit weight, pcf | *not reported* |
+| Gp, g | 15.4 |
+| tool | 2 inch cylinder |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | 1 |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [normalized]{.status .status-normalized} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [normalized]{.status .status-normalized} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [resolved]{.status .status-resolved} | Page re-read at 300 dpi (PDF 88): the label LPT No. 52 (Gp 15.4) points to the dotted curve starting at 1 inch. Claude had 52 and 53 swapped. Credit Codex. |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | LPT fixture | hydraulic LPT |
+| loading | static penetration | continuous penetration |
+| state_printed | RS Loose (Soil No. 1) | RS Loose |
+| test_label_printed | LPT 52 | LPT No. 52 |
+
+## Notes from the two readings
+
+- Claude: Started 2 inches below the surface; rate not printed
+- Codex: Starts at plotted embedment. Test-specific bin and rate missing; fitted failure line is not another test.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

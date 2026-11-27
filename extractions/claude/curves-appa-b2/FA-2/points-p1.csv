@@ -1,0 +1,159 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-2,1,upper,trace,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,upper,trace,2,2158.5,3127.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,3,2158.0,3079.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,4,2155.0,3030.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.1 mm grid line"
+FA-2,1,upper,trace,5,2155.5,2982.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,6,2155.0,2933.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,7,2152.0,2885.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,upper,trace,8,2151.0,2836.9,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,upper,trace,9,2147.0,2788.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to a grid line"
+FA-2,1,upper,trace,10,2145.5,2740.0,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.2 mm grid line"
+FA-2,1,upper,trace,11,2145.0,2691.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,upper,trace,12,2143.0,2643.7,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,13,2139.0,2595.6,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,14,2138.5,2547.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,15,2137.0,2499.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,16,2136.0,2451.2,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to the 0.4 mm grid line"
+FA-2,1,upper,trace,17,2134.0,2403.0,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,18,2133.0,2354.9,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.5 mm grid line"
+FA-2,1,upper,trace,19,2126.0,2306.5,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,20,2127.5,2264.0,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; in a dash gap at the sampling line, moved to the nearer dash end (rule 7)"
+FA-2,1,upper,trace,21,2118.0,2209.6,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,22,2110.0,2161.1,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,23,2097.2,2112.7,5.0,5.0,,
+FA-2,1,upper,trace,24,2074.4,2064.4,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,upper,trace,25,2043.5,2016.1,5.0,5.0,,
+FA-2,1,upper,trace,26,1989.4,1968.0,5.0,5.0,,
+FA-2,1,upper,trace,27,1910,1925.4,5.0,5.0,,"dash end (sample in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,upper,trace,28,1781.0,1868.0,5,5,,"dash end (sample in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,upper,trace,29,1646.4,1825.0,5.0,5.0,,
+FA-2,1,upper,trace,30,1643.9,1824.3,5.0,5.0,,
+FA-2,1,upper,trace,31,1570.2,1805.4,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,upper,trace,32,1496.9,1795.3,5.0,5.0,,
+FA-2,1,upper,trace,33,1428.0,1778.4,5,6,,sampling line on the 2.0 mm grid line; the upper curve runs along it and is hidden in it from u 1410 to 1450: centre from its exposed edges either side
+FA-2,1,upper,trace,34,1423.5,1777.0,5,6,,under the 2.0 mm grid line (hidden from u 1410 to 1450): centre from the exposed stroke either side
+FA-2,1,upper,trace,35,1349.5,1759.2,5.0,5.0,,
+FA-2,1,upper,trace,36,1275.7,1749.0,5,5,,stroke crossed by the 60 percent grid line; centre from the clean columns either side
+FA-2,1,upper,trace,37,1203.8,1735.5,5.0,5.0,,
+FA-2,1,upper,trace,38,1170.0,1731.7,5,6,,"stroke separating from the band, just before a dash end"
+FA-2,1,upper,trace,39,1132.1,1725.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,40,1058.8,1717.5,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; lower edge on the dashed 2.36 mm sieve line"
+FA-2,1,upper,trace,41,985.5,1700.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,42,912.7,1690.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,43,895.0,1685.3,5,6,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; at the start of a dash of the upper curve; nearly parallel to the sampling line"
+FA-2,1,upper,trace,44,768.0,1637.7,9,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,45,722.0,1589.1,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,upper,trace,46,691.0,1540.1,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; the upper curve lies on the frame line here"
+FA-2,1,upper,trace,47,690.0,1490.9,7,5,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 4.0 mm grid line"
+FA-2,1,upper,trace,48,682.0,1441.2,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; ink protrudes left of the frame (above 100 percent)"
+FA-2,1,upper,trace,49,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"
+FA-2,1,upper,feature,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,upper,feature,2,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"
+FA-2,1,average,trace,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,average,trace,2,2158.5,3127.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,3,2158.5,3079.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,4,2156.0,3030.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.1 mm grid line"
+FA-2,1,average,trace,5,2155.5,2982.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,6,2157.0,2933.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,7,2155.0,2885.3,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,average,trace,8,2153.5,2836.9,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,average,trace,9,2149.0,2788.4,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to a grid line"
+FA-2,1,average,trace,10,2148.0,2740.0,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.2 mm grid line"
+FA-2,1,average,trace,11,2150.0,2691.8,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,average,trace,12,2146.5,2643.7,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,13,2144.0,2595.5,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,14,2138.5,2547.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,15,2142.0,2499.3,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,16,2140.0,2451.1,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to the 0.4 mm grid line"
+FA-2,1,average,trace,17,2139.0,2403.0,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,18,2135.0,2354.9,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.5 mm grid line"
+FA-2,1,average,trace,19,2132.0,2306.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,20,2137.0,2257.9,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,21,2125.0,2209.5,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,22,2120.0,2161.1,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,23,2112.5,2112.6,5.0,5.0,,
+FA-2,1,average,trace,24,2095.3,2064.2,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,25,2074.5,2015.9,5.0,5.0,,
+FA-2,1,average,trace,26,2027.5,1967.7,5.0,5.0,,
+FA-2,1,average,trace,27,1947.6,1919.9,5.0,5.0,,
+FA-2,1,average,trace,28,1848.1,1872.0,5.0,5.0,,
+FA-2,1,average,trace,29,1724.2,1824.4,5.0,5.0,,
+FA-2,1,average,trace,30,1717.4,1821.5,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,31,1643.7,1800.3,5.0,5.0,,
+FA-2,1,average,trace,32,1570.0,1783.1,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,33,1555.3,1777.2,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,34,1496.5,1765.2,5.0,5.0,,
+FA-2,1,average,trace,35,1423.1,1750.8,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,36,1349.3,1739.2,5.0,5.0,,
+FA-2,1,average,trace,37,1278.1,1730.8,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,average,trace,38,1275.5,1730.5,5,6,,"on the 60 percent grid line, which hides the stroke here; centre from the clean columns either side"
+FA-2,1,average,trace,39,1203.7,1718.4,5.0,5.0,,
+FA-2,1,average,trace,40,1131.9,1709.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,41,1058.6,1702.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,average,trace,42,985.3,1690.5,5,10,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,43,951.0,1684.8,5,10,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,44,912.6,1681.0,5,10,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,45,839.9,1665.0,5,10,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,46,781.0,1637.6,11,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,47,734.5,1589.0,9,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,48,708.5,1540.0,6,4,,two strokes visible right of the frame (703-714 and 719-728); the average taken as the left one
+FA-2,1,average,trace,49,695.0,1490.8,9,5,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; hidden between the other two; on the 4.0 mm grid line"
+FA-2,1,average,trace,50,686.5,1441.1,9,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; hidden between the other two"
+FA-2,1,average,trace,51,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"
+FA-2,1,average,feature,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,average,feature,2,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"
+FA-2,1,lower,trace,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,lower,trace,2,2158.5,3127.8,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,3,2159.0,3079.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,4,2157.5,3030.8,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.1 mm grid line"
+FA-2,1,lower,trace,5,2155.5,2982.3,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,6,2159.0,2933.8,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,7,2158.0,2885.3,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,lower,trace,8,2156.0,2836.9,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,lower,trace,9,2151.0,2788.4,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to a grid line"
+FA-2,1,lower,trace,10,2151.0,2739.9,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.2 mm grid line"
+FA-2,1,lower,trace,11,2156.0,2691.7,8,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; lower curve merges with the frame line"
+FA-2,1,lower,trace,12,2150.0,2643.6,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,13,2149.5,2595.5,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,14,2147.0,2542.0,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; in a dash gap at the sampling line, moved to the nearer dash end (rule 7)"
+FA-2,1,lower,trace,15,2147.0,2499.2,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,16,2144.0,2451.1,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; next to the 0.4 mm grid line"
+FA-2,1,lower,trace,17,2144.5,2403.0,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,18,2143.0,2354.8,7,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 0.5 mm grid line"
+FA-2,1,lower,trace,19,2141.5,2310.0,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; in a dash gap at the sampling line, moved to the nearer dash end (rule 7)"
+FA-2,1,lower,trace,20,2140.0,2257.9,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,21,2138.5,2209.4,6,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,22,2134.5,2161.0,5,4,,"fine end: the three curves run together along the 0 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,23,2126.6,2112.5,5.0,5.0,,
+FA-2,1,lower,trace,24,2118.5,2068.5,5,5,,"sampling line on the 1.0 mm grid line, in a dash gap that the grid line hides; moved to the first visible ink of the next dash below it"
+FA-2,1,lower,trace,25,2099.6,2015.7,5.0,5.0,,
+FA-2,1,lower,trace,26,2062.3,1968,5.0,5.0,,"dash end (sample in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,lower,trace,27,1985.7,1919.6,5.0,5.0,,
+FA-2,1,lower,trace,28,1896.0,1873.5,5,5,,"dash end (sample in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,lower,trace,29,1780.0,1825.0,5,5,,"dash end (sample in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,lower,trace,30,1722.0,1805.4,5,5,,"dash end (level in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,lower,trace,31,1643.5,1781.1,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,lower,trace,32,1627.6,1776.5,5.0,6.0,,stroke crosses a grid line here; centre interpolated through the grid line's ink
+FA-2,1,lower,trace,33,1569.8,1761.2,5.0,5.0,,
+FA-2,1,lower,trace,34,1496.4,1748.6,5.0,5.0,,
+FA-2,1,lower,trace,35,1425.0,1733.5,5,5,,"dash end (level in a dash gap, moved to the nearer end, rule 7)"
+FA-2,1,lower,trace,36,1388.1,1729.8,5.0,5.0,,
+FA-2,1,lower,trace,37,1348.5,1720.5,5,5,,"dash end (the level falls 1 px into the gap; moved to the dash end, rule 7)"
+FA-2,1,lower,trace,38,1275.6,1713.5,5,6,,stroke touches the dashed 2.36 mm sieve line above it: centre from its lower edge
+FA-2,1,lower,trace,39,1203.5,1704.0,5.0,5.0,,
+FA-2,1,lower,trace,40,1131.6,1696.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,41,1058.5,1693.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; upper edge may be hidden in the 2.5 mm grid line"
+FA-2,1,lower,trace,42,1013.0,1684.3,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened; nearly parallel to the sampling line"
+FA-2,1,lower,trace,43,985.1,1681.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,44,912.5,1672.0,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,45,839.8,1654.5,5,8,,"the three curves run together (u 840..1135); position from the band's top and bottom edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,46,795.0,1637.4,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,47,747.0,1588.9,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened"
+FA-2,1,lower,trace,48,723.5,1539.8,5,4,,two strokes visible right of the frame (703-714 and 719-728); the lower taken as the right one
+FA-2,1,lower,trace,49,701.0,1490.8,8,5,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; on the 4.0 mm grid line"
+FA-2,1,lower,trace,50,689.0,1441.1,7,4,,"top end: the three curves run together along the 100 percent frame; position from the band edges and the order upper >= average >= lower, bound widened; no ink right of the frame, so the curve is under or left of it"
+FA-2,1,lower,trace,51,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"
+FA-2,1,lower,feature,1,2159.5,3162.0,5,4,,"first point: where the curves' ink ends at the fine end, just below the dashed 0.074 mm (No. 200) line; the three curves end together on the 0 percent frame"
+FA-2,1,lower,feature,2,2094.0,1986.0,6,6,,knee: the lower curve turns from about 35 degrees to nearly vertical on the page where it crosses the dashed 1.18 mm (No. 16) sieve line
+FA-2,1,lower,feature,3,691.0,1406.5,6,4,,"last point: where the curves' ink ends at the coarse end, on the 100 percent frame near the No. 4 (4.75 mm) sieve; the three curves end together"

@@ -1,0 +1,22 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-13,1,ss-loose,marker,1,755.0,3678.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Fit crosses lower left and right side.
+FC-13,1,ss-loose,marker,2,1213.0,3411.0,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 32 px. Base overlaps horizontal grid line.
+FC-13,1,ss-loose,marker,3,1396.0,3316.33,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 34 px. Fit touches left base and right side.
+FC-13,1,ss-loose,marker,4,1560.0,3235.33,2.0,5.167,triangle-up,Reconstructed triangle centroid; outer height about 31 px. 
+FC-13,1,ss-loose,marker,5,1819.0,3076.67,2.0,5.5,triangle-up,Reconstructed triangle centroid; outer height about 33 px. 
+FC-13,1,ss-loose,marker,6,1991.0,2945.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. 
+FC-13,1,ss-loose,marker,7,2075.0,2932.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Fit ends against left base; symbol remains identifiable.
+FC-13,1,ss-loose,trace,1,712.314,3702.0,5.5,5.5,,first point; fit meets x=0 axis
+FC-13,1,ss-loose,trace,2,858.399,3619.783,5.663,5.663,,Normal stress sampling target 500 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,3,1004.524,3537.226,5.228,5.228,,Normal stress sampling target 1000 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,4,1149.278,3455.372,5.663,5.663,,Normal stress sampling target 1500 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,5,1294.043,3372.838,6.099,6.099,,Normal stress sampling target 2000 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,6,1438.644,3292.536,6.099,6.099,,Normal stress sampling target 2500 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,7,1583.236,3210.411,5.663,5.663,,Normal stress sampling target 3000 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,8,1728.484,3129.595,6.535,6.535,,Normal stress sampling target 3500 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,9,1873.703,3047.493,5.228,5.228,,Normal stress sampling target 4000 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,10,2019.788,2965.326,5.663,5.663,,Normal stress sampling target 4500 psf; local diagonal ink center.
+FC-13,1,ss-loose,trace,11,2058.0,2944.0,5.5,5.5,,last point; maximum of trace; last distinguishable fit ink at terminal triangle junction; continuation within symbol is not separately readable
+FC-13,1,ss-loose,feature,1,712.314,3702.0,5.5,5.5,,first point
+FC-13,1,ss-loose,feature,2,2058.0,2944.0,5.5,5.5,,last point; maximum of trace; terminal fit/symbol junction
+FC-13,1,ss-loose,feature,3,712.314,3702.0,5.5,5.5,,intercept

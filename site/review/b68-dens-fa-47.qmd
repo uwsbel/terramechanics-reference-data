@@ -1,0 +1,90 @@
+---
+title: "b68-dens-fa-47: provenance"
+---
+Provenance and review record of [b68-dens-fa-47](../experiments/b68-dens-fa-47.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 40 points recovered, agreed 32, one-sided 4, one-sided-verified 4 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 15, normalized 1, rule 2 |
+| human audit | 13 points sampled by the student reviewers, 0 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+40 points (from FA-47) read by two readings made separately and reconciled (batch `curves-appa-b3`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FA-47-p1](../img/overlays/FA-47-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | relative density (none, from none) | unit weight (minimum at Dr 0 to maximum at Dr 1.0) (N_m3, from pcf) | 40 |
+
+Points by status: [agreed]{.status .status-agreed} 32, [one-sided]{.status .status-one-sided} 4, [one-sided-verified]{.status .status-one-sided-verified} 4; by kind: `feature` 6, `trace` 34.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 671 | 0.000885 / 0.00368 | 8.29e-06 / 2.36e-05 |
+| codex | cal-p1 | 143 | 0.000846 / 0.00335 | 7.09e-06 / 2.03e-05 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-dens-fa-47/observations.csv), [series.json](../files/data/experiments/b68-dens-fa-47/series.json) (repository paths `data/experiments/b68-dens-fa-47/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | *not reported* |
+| unit weight, pcf | 74.4 to 89.4 |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [agreed]{.status .status-agreed} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [rule]{.status .status-rule} | Lines drawn without points, and the text (A-93, PDF 94) does not say the solid line averages several tests, unlike the other density charts' text; averaged-series would be an inference by analogy (Claude's reading), correlation is what the page supports (Codex's reading, adopted). |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [rule]{.status .status-rule} | Series row whose underlying tests are not identified (the batch rule for series rows). |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [normalized]{.status .status-normalized} | The minimum and maximum unit weights of the solid line at Dr 0 and 1.0, in the index's normalized form for a range (as Claude wrote it). |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | method of test suggested by D. M. Burmister (ASTM Procedures for Testing Soils 1964 pp. 175-177) | Burmister method of test |
+| measured_channels | unit weight vs relative density (average and 95% confidence limits) | unit weight vs relative density |
+
+## Notes from the two readings
+
+- Claude: A-93 names the Burmister method but omits the sentence saying the solid line is an average with 95 percent limits; kind set by analogy with the other density charts. Limits 73.5 and 75.3 at Dr 0; all three lines meet at 89.4 at Dr 1.0 (a 75 tick label sits among the end labels). RSM-b is not among the F2-17 lines.
+- Codex: Unit weights are mean minimum;maximum. No measurement points or explicit statement of averaging; limits start at 73.5 and 75.3 and meet at 89.4. AM-68-1 Vol. II, Fig. A-47, printed A-95, PDF 96
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

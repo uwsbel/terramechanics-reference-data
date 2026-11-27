@@ -1,0 +1,362 @@
+[
+  {
+    "label": "4",
+    "series_id": "upper",
+    "pixel_u": 598,
+    "pixel_v": 1474,
+    "radius": 9,
+    "score": 0.808
+  },
+  {
+    "label": "4",
+    "series_id": "average",
+    "pixel_u": 598,
+    "pixel_v": 1474,
+    "radius": 9,
+    "score": 0.808
+  },
+  {
+    "label": "4",
+    "series_id": "lower",
+    "pixel_u": 598,
+    "pixel_v": 1474,
+    "radius": 9,
+    "score": 0.808
+  },
+  {
+    "label": "6",
+    "series_id": "upper",
+    "pixel_u": 602,
+    "pixel_v": 1586,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "6",
+    "series_id": "average",
+    "pixel_u": 611,
+    "pixel_v": 1586,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "6",
+    "series_id": "lower",
+    "pixel_u": 614,
+    "pixel_v": 1587,
+    "radius": 9,
+    "score": 0.997
+  },
+  {
+    "label": "8",
+    "series_id": "upper",
+    "pixel_u": 972,
+    "pixel_v": 1721,
+    "radius": 13,
+    "score": 0.947
+  },
+  {
+    "label": "8",
+    "series_id": "average",
+    "pixel_u": 1115,
+    "pixel_v": 1722,
+    "radius": 9,
+    "score": 0.993
+  },
+  {
+    "label": "8",
+    "series_id": "lower",
+    "pixel_u": 1180,
+    "pixel_v": 1722,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "10",
+    "series_id": "upper",
+    "pixel_u": 1620,
+    "pixel_v": 1783,
+    "radius": 9,
+    "score": 0.973
+  },
+  {
+    "label": "10",
+    "series_id": "average",
+    "pixel_u": 1686,
+    "pixel_v": 1786,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "10",
+    "series_id": "lower",
+    "pixel_u": 1732,
+    "pixel_v": 1785,
+    "radius": 9,
+    "score": 0.999
+  },
+  {
+    "label": "12",
+    "series_id": "upper",
+    "pixel_u": 1832,
+    "pixel_v": 1856,
+    "radius": 9,
+    "score": 0.995
+  },
+  {
+    "label": "12",
+    "series_id": "average",
+    "pixel_u": 1857,
+    "pixel_v": 1856,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "12",
+    "series_id": "lower",
+    "pixel_u": 1883,
+    "pixel_v": 1856,
+    "radius": 9,
+    "score": 0.997
+  },
+  {
+    "label": "16",
+    "series_id": "upper",
+    "pixel_u": 1981,
+    "pixel_v": 1997,
+    "radius": 9,
+    "score": 0.959
+  },
+  {
+    "label": "16",
+    "series_id": "average",
+    "pixel_u": 2008,
+    "pixel_v": 1997,
+    "radius": 9,
+    "score": 0.995
+  },
+  {
+    "label": "16",
+    "series_id": "lower",
+    "pixel_u": 2027,
+    "pixel_v": 1995,
+    "radius": 9,
+    "score": 0.93
+  },
+  {
+    "label": "20",
+    "series_id": "upper",
+    "pixel_u": 2028,
+    "pixel_v": 2146,
+    "radius": 9,
+    "score": 0.996
+  },
+  {
+    "label": "20",
+    "series_id": "average",
+    "pixel_u": 2041,
+    "pixel_v": 2147,
+    "radius": 9,
+    "score": 0.985
+  },
+  {
+    "label": "20",
+    "series_id": "lower",
+    "pixel_u": 2062,
+    "pixel_v": 2150,
+    "radius": 9,
+    "score": 0.966
+  },
+  {
+    "label": "30",
+    "series_id": "upper",
+    "pixel_u": 2041,
+    "pixel_v": 2290,
+    "radius": 9,
+    "score": 0.991
+  },
+  {
+    "label": "30",
+    "series_id": "average",
+    "pixel_u": 2054,
+    "pixel_v": 2290,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "30",
+    "series_id": "lower",
+    "pixel_u": 2065,
+    "pixel_v": 2290,
+    "radius": 9,
+    "score": 0.99
+  },
+  {
+    "label": "40",
+    "series_id": "upper",
+    "pixel_u": 2061,
+    "pixel_v": 2440,
+    "radius": 13,
+    "score": 0.863
+  },
+  {
+    "label": "40",
+    "series_id": "average",
+    "pixel_u": 2063,
+    "pixel_v": 2438,
+    "radius": 14,
+    "score": 0.992
+  },
+  {
+    "label": "40",
+    "series_id": "lower",
+    "pixel_u": 2065,
+    "pixel_v": 2438,
+    "radius": 14,
+    "score": 0.925
+  },
+  {
+    "label": "50",
+    "series_id": "upper",
+    "pixel_u": 2055,
+    "pixel_v": 2581,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "50",
+    "series_id": "average",
+    "pixel_u": 2068,
+    "pixel_v": 2583,
+    "radius": 9,
+    "score": 0.994
+  },
+  {
+    "label": "50",
+    "series_id": "lower",
+    "pixel_u": 2073,
+    "pixel_v": 2583,
+    "radius": 9,
+    "score": 0.901
+  },
+  {
+    "label": "60",
+    "series_id": "upper",
+    "pixel_u": 2059,
+    "pixel_v": 2653,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "60",
+    "series_id": "average",
+    "pixel_u": 2071,
+    "pixel_v": 2652,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "60",
+    "series_id": "lower",
+    "pixel_u": 2074,
+    "pixel_v": 2652,
+    "radius": 9,
+    "score": 0.841
+  },
+  {
+    "label": "70",
+    "series_id": "upper",
+    "pixel_u": 2062,
+    "pixel_v": 2725,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "70",
+    "series_id": "average",
+    "pixel_u": 2075,
+    "pixel_v": 2725,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "70",
+    "series_id": "lower",
+    "pixel_u": 2076,
+    "pixel_v": 2726,
+    "radius": 9,
+    "score": 0.825
+  },
+  {
+    "label": "80",
+    "series_id": "upper",
+    "pixel_u": 2072,
+    "pixel_v": 2797,
+    "radius": 9,
+    "score": 0.97
+  },
+  {
+    "label": "80",
+    "series_id": "average",
+    "pixel_u": 2076,
+    "pixel_v": 2797,
+    "radius": 9,
+    "score": 0.998
+  },
+  {
+    "label": "80",
+    "series_id": "lower",
+    "pixel_u": 2077,
+    "pixel_v": 2795,
+    "radius": 9,
+    "score": 0.77
+  },
+  {
+    "label": "100",
+    "series_id": "upper",
+    "pixel_u": 2061,
+    "pixel_v": 2870,
+    "radius": 10,
+    "score": 0.943
+  },
+  {
+    "label": "100",
+    "series_id": "average",
+    "pixel_u": 2077,
+    "pixel_v": 2876,
+    "radius": 11,
+    "score": 0.924
+  },
+  {
+    "label": "100",
+    "series_id": "lower",
+    "pixel_u": 2077,
+    "pixel_v": 2876,
+    "radius": 11,
+    "score": 0.612
+  },
+  {
+    "label": "120",
+    "series_id": "upper",
+    "pixel_u": 2078,
+    "pixel_v": 2937,
+    "radius": 10,
+    "score": 0.916
+  },
+  {
+    "label": "120",
+    "series_id": "average",
+    "pixel_u": 2078,
+    "pixel_v": 2937,
+    "radius": 10,
+    "score": 0.914
+  },
+  {
+    "label": "120",
+    "series_id": "lower",
+    "pixel_u": 2079,
+    "pixel_v": 2937,
+    "radius": 9,
+    "score": 0.62
+  }
+]

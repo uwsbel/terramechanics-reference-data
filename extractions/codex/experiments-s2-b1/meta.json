@@ -1,0 +1,28 @@
+{
+  "started_at": "2026-10-07T13:09:02.2495181-05:00",
+  "elapsed_sec": 919.3,
+  "codex_version": "codex-cli 0.158.0-alpha.2.1",
+  "codex_exe": "<local path>",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "high",
+  "mode": "read-only",
+  "sandbox": "read-only",
+  "workdir": "<repository>",
+  "resumed_thread": "",
+  "thread_id": "01a1178d-f9f0-7f42-90ba-e048ce99bef3",
+  "usage": {
+    "input_tokens": 3467035,
+    "cached_input_tokens": 3234304,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 39823,
+    "reasoning_output_tokens": 6768
+  },
+  "codex_exit_code": 0,
+  "timed_out": false,
+  "script_exit_code": 0,
+  "answer_path": "<local path>",
+  "events_path": "<local path>",
+  "answer_present": true,
+  "changed_files": null,
+  "error_events": []
+}

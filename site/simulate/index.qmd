@@ -1,0 +1,59 @@
+---
+title: "Simulate a test"
+---
+How to set up a virtual experiment of a test in this collection and compare it with the measurement, worked through on one test. The steps do not depend on the simulator, and no simulation result is shown. The example is load-penetration test [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 24](../experiments/b68-lpt-024.qmd), chosen because its record gives the density of the bed, the tool, the bin and the loading rate.
+
+## 1. Choose a test
+
+[Find a test](../experiments/index.qmd) lists every test. In a load-penetration test a tool is pushed into a prepared bed of soil and the load on it is recorded against depth. In [LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 24, a cylinder 101.6 mm (4 in) in diameter was pushed at 0.423 mm/s into dense red scoria ([RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"}) with a bulk density of 825 kg/m³.
+
+## 2. Read its virtual experiment card
+
+The card on the test's page lists what the report gives about the soil, the bed, the tool, the motion and the measurement, and what it leaves out. Each value is marked [reported]{.vk .vk-test}, [soil reference]{.vk .vk-ref} or [left to the user]{.vk .vk-choice}, and each citation opens the page of the report it comes from.
+
+## 3. Gather the soil properties
+
+The [Soils](../materials/index.qmd) page gives the report's soil table. The row that matches this test is soil No. 4, *RS Dense*: mean grain size ([D50]{.term title="grain size that half of the soil, by weight, is finer than" tabindex="0"}) 1.8 mm, friction angle 47.3 degrees and modulus 75.2 MPa. These values belong to the soil's nominal state, relative density ([Dr]{.term title="relative density: 0 at the soil's maximum void ratio (loosest) and 1 at its minimum (densest), from the reference void-ratio limits; a bed packed past the reference densest state reads above 1" tabindex="0"}) 0.80 and 810.5 kg/m³; the bed of this test is denser, 825 kg/m³. Two cautions follow. Properties that depend on density are read at the bed's own state where the report allows it: it plots friction angle against relative density (AM-68-1 Vol. I, Fig. 2-23, printed 2-46, PDF 71). And the modulus was measured with sound waves; the report warns that static and wave-based moduli can differ by an order of magnitude (AM-68-1 Vol. II, Appendix B, printed 1, PDF 104), so it is a reference, not a static stiffness.
+
+## 4. Build the geometry
+
+From the card: the bin is 0.457 m wide, 0.914 m long and 0.914 m deep, of plywood with a glass front; the cylinder is 101.6 mm in diameter, its axis 229 mm from the nearest wall, and starts at the soil surface; gravity is 9.81456 m/s², the report's value for Earth, 32.2 ft/s², converted exactly (glossary, printed 2-2, PDF 27). The bin is part of the test. The report found that tests of the same soil in larger bins tended to reach higher peak loads (AM-68-1 Vol. I, printed 2-74, PDF 99), and that in one test in dense sand a failure plane reached the glass front of this bin (printed 2-59, PDF 84). A model that makes the bin smaller to save computing time has to show that this does not change the load.
+
+## 5. Choose the missing inputs and bracket them
+
+Every input marked as left to the user needs a value. For each one, choose a plausible low and a plausible high value, run the virtual experiment at both, and report the spread of the result next to the result itself. For this test the card lists:
+
+1. Fill depth: not printed. The procedure fills the box in stages and weighs the bed at six volume marks up to the full box (13.78 cubic feet, 0.390 m³) to check that its density is uniform.
+2. How the bed was placed and compacted: not printed for this test. The dense beds of these tests were generally made with a vibratory plate compactor, three passes per layer about 76 mm (3 in) thick, giving relative densities of 0.85 to 0.95.
+3. The zero of penetration: the printed load leaves zero at 1.3 mm; whether the cylinder touched the surface there or at zero is not stated.
+4. Relative density of this bed: not printed. The tests of Fig. 2-44, this one among them, average about 0.96. Read at this bed's density on the report's density chart for the soil, it is about 0.90 (0.82 to above 1 within the chart's 95 percent limits). The soil table's 0.80 belongs to the soil's nominal state, not to this bed.
+5. Soil strength at this bed's density: the report plots friction angle against relative density.
+6. Cohesion: a bearing-capacity interpretation in the report, not a measured input. It found that the apparent cohesion of its shear tests predicts higher bearing loads than observed, and that about 0.7 kPa (0.1 psi), some 50 times less, explains some of the size effects in these tests.
+7. The cylinder's end shape, length, material and surface, and where it stood along the bin: not printed.
+8. Friction between the soil and the cylinder, and between the soil and the walls (plywood, glass): not reported.
+9. Any model parameter the report does not measure, such as a static stiffness or the properties of grains.
+
+A worked example: the relative density of this bed. The report's average for the tests of Fig. 2-44 is about 0.96 (AM-68-1 Vol. I, printed 2-74, PDF 99). Reading this bed's density, 8.09 kN/m³ (51.5 pcf), on the report's density chart for the soil (AM-68-1 Vol. II, Fig. A-3, printed A-7, PDF 8) gives about 0.90 on the mean curve, and 0.82 to above 1 within its 95 percent confidence limits. The two sources do not agree exactly, so a bracket of 0.82 to 0.96, with 0.90 as a baseline, is one defensible choice; the soil strength at each end is then read at that relative density.
+
+## 6. Decide the output and the loading speed
+
+Record the quantity that was measured: the axial force the soil exerts on the cylinder (what the load cell read) against the cylinder's penetration below the original soil surface. The printed curve covers 1.3 to 74.0 mm; the test itself went further, but the figure does not show how far. State where the zero of force and of penetration are, and whether the cylinder's weight is included. The test ran at 0.423 mm/s. A faster virtual push saves computing time, but it has to be shown not to change the load, for example by running two speeds and comparing.
+
+## 7. Compare with the measurement
+
+Download the measured points from the [test's page](../experiments/b68-lpt-024.qmd): penetration and load in SI, each with its reading bound, the precision with which the printed figure could be read.
+
+A worked example. The first peak of the measured curve is the point at 22.6 mm and 4,018 N, read to within 0.54 mm and 21 N. A simulated curve is compared with it at the same penetration, by interpolating the simulated force there. A difference smaller than the reading bound cannot be told apart from a reading error; a larger one still has to be weighed against how much tests on similar beds differ, which the reading bound does not include.
+
+The report gives no repeat of this test. The other tests printed in the same figure ran on other beds, at other rates or densities, so the spread between them mixes those differences with the test-to-test scatter and gives only a rough idea of it.
+
+## 8. Keep related records together
+
+When some tests are used to tune a model and others to check it, three kinds of relation keep records on the same side: two printings of one test ([LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 24 is printed in Fig. 2-42 and Fig. 2-44: one test, not two); a result derived from tests, such as a failure envelope drawn from several shear tests; and tests run on one shared bed, where the report says so. Tests that only share a figure, a soil or a bin size are neighbors for comparison, not dependencies. Each test's page lists both.
+
+## 9. Share it
+
+A script that runs a virtual experiment of a test hosted here is welcome; the [Contribute](../contribute/index.qmd) page says what it should state.
+
+<!-- Generated view. Inputs: `data/experiments/index.csv`, `data/materials/materials.csv`, `corpus/1968/figures.csv`, `data/experiments/b68-lpt-024/observations.csv`, `data/experiments/b68-dens-fa-3/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs. -->
+

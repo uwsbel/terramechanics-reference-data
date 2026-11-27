@@ -1,0 +1,11 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,lower,trace,1,claude,one-sided-verified,,"first round (density charts): on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 019 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lower,trace,11,claude,one-sided-verified,,"first round (density charts): on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 020 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,mean,trace,1,claude,excluded,,first round (density charts): off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 021 (Claude's adjudicator: all no; Codex's: all no)
+1,mean,trace,11,claude,one-sided-verified,,"first round (density charts): on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 022 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,1,claude,excluded,,first round (density charts): off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 023 (Claude's adjudicator: all no; Codex's: all no)
+1,upper,trace,11,claude,excluded,,first round (density charts): off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 024 (Claude's adjudicator: all no; Codex's: all no)
+1,mean,trace,1,codex,one-sided-verified,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 004 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,1,codex,one-sided-verified,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,2,codex,one-sided-verified,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,11,codex,one-sided-verified,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 006 (Claude's adjudicator: all yes; Codex's: all yes)"

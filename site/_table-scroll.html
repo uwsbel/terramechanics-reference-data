@@ -1,0 +1,31 @@
+<script>
+// Wide tables (2026-11-21, Dan: the sideways scrollbar sat below the last row of a long table, off the screen). A table
+// wider than its box gets the class scrolls-x on the box, and site.css then keeps the box no taller than the window, so
+// its sideways scrollbar is always in view, with the header row held at the top of the box. A table that fits is left
+// alone. Quarto's listing table (Find a test) first gets a box of its own, so the sort and filter controls above it and
+// the page buttons below it stay outside the scroll box; the listing script keeps working on the same table element.
+(function () {
+  function boxes() {
+    document.querySelectorAll(".quarto-listing-table").forEach(function (t) {
+      if (!t.parentElement.classList.contains("listing-table-box")) {
+        var box = document.createElement("div");
+        box.className = "listing-table-box";
+        t.parentNode.insertBefore(box, t);
+        box.appendChild(t);
+      }
+    });
+    return document.querySelectorAll(".table-wrap, .listing-table-box");
+  }
+  function mark() {
+    boxes().forEach(function (b) {
+      b.classList.toggle("scrolls-x", b.scrollWidth > b.clientWidth + 1);
+    });
+  }
+  window.addEventListener("load", mark);
+  window.addEventListener("resize", mark);
+  // the listing's filter, sort and page buttons change which rows show, and so the table's width
+  ["input", "change", "click"].forEach(function (e) {
+    document.addEventListener(e, function () { setTimeout(mark, 50); });
+  });
+})();
+</script>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<?xml-model href="https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1N00.sch"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<Product_Observational xmlns="http://pds.nasa.gov/pds4/pds/v1" 
+    xmlns:pds="http://pds.nasa.gov/pds4/pds/v1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1N00.xsd">
+  <Identification_Area>
+    <logical_identifier>urn:nasa:pds:a16lsrp_soil_mechanics:data:a16_smss_72_m016936_030</logical_identifier>
+    <version_id>1.0</version_id>
+    <title>Apollo 16 Lunar Self-Recording Penetrometer Soil Mechanics Data Bundle: a16_smss_72_m016936_030.tab</title>
+    <information_model_version>1.23.0.0</information_model_version>
+    <product_class>Product_Observational</product_class>
+    <Citation_Information>
+      <publication_year>2025</publication_year>
+      <description>This table is a hand-typed reproduction of the        
+        handwritten chart of the raw data read from the penetrometer drum         
+        returned to Earth and the reduced data for the LSRP Soil Mechanics run    
+        designated index number 13.  The chart is on frame 30 (page B-16)         
+        of the Soil Mechanics Experiment Report of APOLLO 16 LSRP Data,           
+        May 1972.  The corresponding JPEG images and text descriptions for        
+        these frames are:                                                         
+        document/a16_lsrp_data_report_hires/A16_SMSS_72_M016936_030.JPG and                                
+        document/a16_lsrp_data_report_hires/A16_SMSS_72_M016936_030.ASC.</description>
+    </Citation_Information>
+    <Modification_History>
+      <Modification_Detail>
+        <modification_date>2025-08-15</modification_date>
+        <version_id>1.0</version_id>
+        <description>Initial version.</description>
+      </Modification_Detail>
+    </Modification_History>
+  </Identification_Area>
+  <Observation_Area>
+    <Time_Coordinates>
+      <start_date_time>1972-04-22T23:05:50Z</start_date_time>
+      <stop_date_time xsi:nil="true" nilReason="unknown"/>
+    </Time_Coordinates>
+    <Investigation_Area>
+      <name>Apollo 16</name>
+      <type>Mission</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:investigation:mission.apollo_16</lid_reference>
+        <reference_type>data_to_investigation</reference_type>
+      </Internal_Reference>
+    </Investigation_Area>
+    <Observing_System>
+      <Observing_System_Component>
+        <name>The Apollo 16 Lunar Module</name>
+        <type>Host</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument_host:spacecraft.a16l</lid_reference>
+          <reference_type>is_instrument_host</reference_type>
+        </Internal_Reference>
+      </Observing_System_Component>
+      <Observing_System_Component>
+        <name>Apollo 16 Lunar Module Lunar Self-Recording Penetrometer</name>
+        <type>Instrument</type>
+        <Internal_Reference>
+          <lid_reference>urn:nasa:pds:context:instrument:lsrp.a16l</lid_reference>
+          <reference_type>is_instrument</reference_type>
+        </Internal_Reference>
+      </Observing_System_Component>
+    </Observing_System>
+    <Target_Identification>
+      <name>Moon</name>
+      <type>Satellite</type>
+      <Internal_Reference>
+        <lid_reference>urn:nasa:pds:context:target:satellite.earth.moon</lid_reference>
+        <reference_type>data_to_target</reference_type>
+      </Internal_Reference>
+    </Target_Identification>
+  </Observation_Area>
+  <Reference_List>
+    <Internal_Reference>
+      <lid_reference>urn:nasa:pds:a16lsrp_soil_mechanics:document:a16_smss_72_m016936_030</lid_reference>
+      <reference_type>data_to_document</reference_type>
+    </Internal_Reference>
+    <Internal_Reference>
+      <lid_reference>urn:nasa:pds:a16lsrp_soil_mechanics:document:a16_114_18464_67_st10</lid_reference>
+      <reference_type>data_to_document</reference_type>
+    </Internal_Reference>
+  </Reference_List>
+  <File_Area_Observational>
+    <File>
+      <file_name>a16_smss_72_m016936_030.tab</file_name>
+      <creation_date_time>2011-09-24T22:00:00Z</creation_date_time>
+    </File>
+    <Table_Character>
+      <local_identifier>TABLE</local_identifier>
+      <offset unit="byte">0</offset>
+      <records>21</records>
+      <record_delimiter>Carriage-Return Line-Feed</record_delimiter>
+      <Record_Character>
+        <fields>9</fields>
+        <groups>0</groups>
+        <record_length unit="byte">130</record_length>
+        <Field_Character>
+          <name>DRUM_LOAD_DEG_MIN</name>
+          <field_number>1</field_number>
+          <field_location unit="byte">1</field_location>
+          <data_type>ASCII_String</data_type>
+          <field_length unit="byte">7</field_length>
+          <description>Provides the drum load degrees and minutes as         
+            two seperate character strings</description>
+        </Field_Character>
+        <Field_Character>
+          <name>DRUM_LOAD_DECIMAL</name>
+          <field_number>2</field_number>
+          <field_location unit="byte">10</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">6</field_length>
+          <unit>Degree</unit>
+          <description>Provides the drum load in decimal degrees</description>
+        </Field_Character>
+        <Field_Character>
+          <name>DRUM_CIRCUMF_DEFLECT</name>
+          <field_number>3</field_number>
+          <field_location unit="byte">18</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">6</field_length>
+          <unit>Millimeter</unit>
+          <description>Provides the drum circumference deflection            
+            in millimeters</description>
+        </Field_Character>
+        <Field_Character>
+          <name>LOAD</name>
+          <field_number>4</field_number>
+          <field_location unit="byte">26</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">5</field_length>
+          <unit>Newton</unit>
+          <description>Provides the load force in Newtons</description>
+        </Field_Character>
+        <Field_Character>
+          <name>STRESS</name>
+          <field_number>5</field_number>
+          <field_location unit="byte">34</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">5</field_length>
+          <unit>Newton/cm^2</unit>
+          <description>Provides the stress                                   
+            in Newtons per centimeter-squared.</description>
+          <Special_Constants>
+            <not_applicable_constant>-9.99</not_applicable_constant>
+          </Special_Constants>
+        </Field_Character>
+        <Field_Character>
+          <name>INITIAL_DRUM_DEPTH_FINAL</name>
+          <field_number>6</field_number>
+          <field_location unit="byte">44</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">6</field_length>
+          <unit>Centimeter</unit>
+          <description>Provides initial drum-depth in centimeters;           
+            Final values are not recorded in the original scanned chart</description>
+        </Field_Character>
+        <Field_Character>
+          <name>DELTA_DRUM_DEPTH_READING</name>
+          <field_number>7</field_number>
+          <field_location unit="byte">55</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">5</field_length>
+          <unit>Centimeter</unit>
+          <description>Provides delta drum-depth reading in centimeters</description>
+        </Field_Character>
+        <Field_Character>
+          <name>PENETRATION_DEPTH</name>
+          <field_number>8</field_number>
+          <field_location unit="byte">64</field_location>
+          <data_type>ASCII_Real</data_type>
+          <field_length unit="byte">5</field_length>
+          <unit>Centimeter</unit>
+          <description>Provides penetration depth in centimeters</description>
+        </Field_Character>
+        <Field_Character>
+          <name>ADDITIONAL_NOTATIONS</name>
+          <field_number>9</field_number>
+          <field_location unit="byte">85</field_location>
+          <data_type>ASCII_String</data_type>
+          <field_length unit="byte">44</field_length>
+          <description>Provides additional notation from the original        
+            scanned chart and notes from preparing this handtyped table.</description>
+        </Field_Character>
+      </Record_Character>
+    </Table_Character>
+  </File_Area_Observational>
+  <File_Area_Observational_Supplemental>
+    <File>
+      <file_name>a16_smss_72_m016936_030.txt</file_name>
+    </File>
+    <Stream_Text>
+      <offset unit="byte">0</offset>
+      <object_length unit="byte">5850</object_length>
+      <parsing_standard_id>7-Bit ASCII Text</parsing_standard_id>
+      <description>This file is a hand-typed reproduction of the         
+        header lines of the handwritten chart of the raw data read from the       
+        penetrometer drum returned to Earth and the reduced data for the LSRP     
+        Soil Mechanics run designated index number 13.</description>
+      <record_delimiter>Carriage-Return Line-Feed</record_delimiter>
+    </Stream_Text>
+  </File_Area_Observational_Supplemental>
+</Product_Observational>

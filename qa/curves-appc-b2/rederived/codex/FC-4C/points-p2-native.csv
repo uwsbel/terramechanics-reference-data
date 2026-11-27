@@ -1,0 +1,70 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-4C,2,n4695,marker,1,760,3138,10,10,plus,Plus left of left frame and circle close.,-2.4239,-24.3365,1.8239,3.7651,piecewise extrapolated x
+FC-4C,2,n4695,marker,2,834,3139,2,2,plus,,10.1973,-24.748,0.4387,0.9716,piecewise
+FC-4C,2,n4695,marker,3,900,3116,7,7,plus,Plus close to small circle.,21.4914,-16.7936,1.3102,2.717,piecewise
+FC-4C,2,n4695,marker,4,958,3109,2,2,plus,,31.3969,-14.4053,0.4573,0.971,piecewise
+FC-4C,2,n4695,marker,5,1068,3083,9,9,plus,Plus on vertical grid.,50.2045,-5.4448,1.6761,3.4145,piecewise
+FC-4C,2,n4695,marker,6,1182,3056,2,2,plus,,69.5275,3.848,0.4689,0.9669,piecewise
+FC-4C,2,n4695,marker,7,1298,3049,2,2,plus,,89.1551,6.1765,0.4688,0.9664,piecewise
+FC-4C,2,n4695,marker,8,1410,3032,2,2,plus,,108.3098,11.9771,0.4779,0.9655,piecewise
+FC-4C,2,n4695,marker,9,1533,3029,2,2,plus,,129.5936,12.908,0.4737,0.9651,piecewise
+FC-4C,2,n4695,marker,10,1652,3022,9,9,plus,Plus on vertical grid.,150.1907,15.2291,1.6912,3.3985,piecewise
+FC-4C,2,n4695,marker,11,1760,3031,2,2,plus,,168.7548,12.0117,0.4603,0.9646,piecewise
+FC-4C,2,n4695,marker,12,1876,3022,2,2,plus,,188.7248,15.0275,0.4529,0.964,piecewise
+FC-4C,2,n4695,marker,13,1940,3014,9,9,plus,Plus on vertical grid.,199.7481,17.7422,1.6902,3.3958,piecewise
+FC-4C,2,n4695,marker,14,2065,3008,7,7,plus,Plus close to small circle.,221.6064,19.7075,1.3796,2.6999,piecewise
+FC-4C,2,n4695,marker,15,2230,3014,10,10,plus,Plus on right frame.,250.4417,17.4796,1.9712,3.7405,piecewise extrapolated x
+FC-4C,2,n3815,marker,1,736,3128,5,5,circle,Small circle outside left axis frame; retained without clamping.,-6.5031,-20.8328,0.9775,2.019,piecewise extrapolated x
+FC-4C,2,n3815,marker,2,765,3129,11,11,circle,Partial circle/frame/plus cluster; outline not separable fully.,-1.5577,-21.2059,1.9931,4.1141,piecewise extrapolated x
+FC-4C,2,n3815,marker,3,852.5,3108.0,2,2,circle,,13.4006,-13.9664,0.4416,0.971,piecewise
+FC-4C,2,n3815,marker,4,895,3092,9,9,circle,Small circle in square/triangle cluster close to zero.,20.6761,-8.4302,1.6543,3.4149,piecewise
+FC-4C,2,n3815,marker,5,1007.5,3050.5,2,2,circle,,39.9378,5.9107,0.4649,0.9671,piecewise
+FC-4C,2,n3815,marker,6,1122.5,3021.5,2,2,circle,,59.5235,15.88,0.4689,0.9658,piecewise
+FC-4C,2,n3815,marker,7,1236.5,3004.5,2,2,circle,,78.8291,21.6786,0.4688,0.9649,piecewise
+FC-4C,2,n3815,marker,8,1299.5,3006.5,2,2,circle,,89.479,20.9266,0.4688,0.9649,piecewise
+FC-4C,2,n3815,marker,9,1413.0,2995.5,2,2,circle,,108.8899,24.6396,0.4778,0.9642,piecewise
+FC-4C,2,n3815,marker,10,1530.0,2998.5,2,2,circle,,129.1249,23.4908,0.4738,0.964,piecewise
+FC-4C,2,n3815,marker,11,1648,2997,9,9,circle,Small circle near vertical grid.,149.5404,23.9022,1.6923,3.3978,piecewise
+FC-4C,2,n3815,marker,12,1761.0,2996.0,2,2,circle,,168.9845,24.1447,0.4602,0.9634,piecewise
+FC-4C,2,n3815,marker,13,1877.0,2996.5,2,2,circle,,188.9397,23.8644,0.4529,0.9631,piecewise
+FC-4C,2,n3815,marker,14,1940,2990,9,9,circle,Small circle on vertical grid.,199.7889,26.0588,1.6909,3.3951,piecewise
+FC-4C,2,n3815,marker,15,2058,2994,8,8,circle,Circle close to plus.,220.4062,24.5637,1.5542,3.0469,piecewise
+FC-4C,2,n3815,marker,16,2216,2985,10,10,circle,Small circle close to right frame.,248.041,27.5345,1.9568,3.7398,piecewise
+FC-4C,2,n2934,marker,1,803.0,3115.5,2,2,triangle-up,,4.9448,-16.5363,0.4341,0.9712,piecewise
+FC-4C,2,n2934,marker,2,872,3089,9,9,triangle-up,Triangle in crowded near-zero square/circle cluster.,16.7568,-7.3655,1.6508,3.4149,piecewise
+FC-4C,2,n2934,marker,3,930,3083,9,9,triangle-up,Triangle near zero grid and square.,26.6617,-5.3257,1.6597,3.4147,piecewise
+FC-4C,2,n2934,marker,4,1181,2999,7,7,triangle-up,Triangle close to square above.,69.4533,23.6391,1.3227,2.7056,piecewise
+FC-4C,2,n2934,marker,5,1296.0,2973.5,3,3,triangle-up,Visible triangle-up between square above and small circle below.,88.9417,32.3839,0.6395,1.3118,piecewise
+FC-4C,2,n2934,marker,6,1353,2959,9,9,triangle-up,Triangle on vertical grid.,98.604,37.3622,1.67,3.3993,piecewise
+FC-4C,2,n2934,marker,7,1497,2918,7,7,triangle-up,Triangle near square and triangle-down.,123.5494,51.448,1.3482,2.701,piecewise
+FC-4C,2,n2934,marker,8,1726.5,2903.0,2,2,triangle-up,,163.2016,56.4209,0.4624,0.9602,piecewise
+FC-4C,2,n2934,marker,9,1930,2882,10,10,triangle-up,"Triangle on vertical grid, square below.",198.2522,63.4937,1.8402,3.7396,piecewise
+FC-4C,2,n2934,marker,10,2046,2886,9,9,triangle-up,Triangle close to square.,218.4905,61.9894,1.7271,3.3912,piecewise
+FC-4C,2,n2934,marker,11,2216,2863,11,11,triangle-up,Triangle on right frame; triangle-down and square below.,248.2377,69.7807,2.1348,4.0837,piecewise extrapolated x
+FC-4C,2,n1761,marker,1,769,3093,11,11,square,Square on left frame close to triangle-down/circle.,-0.8221,-8.67,1.9902,4.1135,piecewise extrapolated x
+FC-4C,2,n1761,marker,2,910,3084,10,10,square,Square/circle/triangle cluster near zero; several outlines share ink.,23.2479,-5.6568,1.829,3.764,piecewise
+FC-4C,2,n1761,marker,3,1062,3017,10,10,square,"Square on vertical grid, triangle-down directly above.",49.294,17.4975,1.8498,3.7517,piecewise
+FC-4C,2,n1761,marker,4,1180,2978,8,8,square,Square and triangle-up close.,69.3191,30.9312,1.4934,3.0531,piecewise
+FC-4C,2,n1761,marker,5,1241.5,2944.5,2,2,square,,79.7741,42.5026,0.4688,0.9628,piecewise
+FC-4C,2,n1761,marker,6,1351,2928,9,9,square,Square close to vertical grid.,98.3169,48.1226,1.6639,3.3984,piecewise
+FC-4C,2,n1761,marker,7,1467.5,2921.0,2,2,square,,118.4416,50.4365,0.4759,0.9614,piecewise
+FC-4C,2,n1761,marker,8,1586.5,2910.0,2,2,square, Center rechecked on enlarged symbol crop.,139.0437,54.1338,0.4718,0.9608,piecewise
+FC-4C,2,n1761,marker,9,1697.5,2900.0,2,2,square,,158.2167,57.4903,0.4642,0.9602,piecewise
+FC-4C,2,n1761,marker,10,1817.5,2900.0,2,2,square,,178.8644,57.3694,0.4567,0.9599,piecewise
+FC-4C,2,n1761,marker,11,1940,2895,10,10,square,"Square on vertical grid, triangle-up directly above.",199.9507,58.9786,1.8702,3.7399,piecewise
+FC-4C,2,n1761,marker,12,2059,2900,10,10,square,Square touches triangle-up.,220.739,57.1262,1.9079,3.7389,piecewise
+FC-4C,2,n1761,marker,13,2224,2906,11,11,square,"Square on right frame, triangle-down above.",249.5666,54.8827,2.1429,4.0848,piecewise extrapolated x
+FC-4C,2,n741,marker,1,765,3108,11,11,triangle-down,Triangle-down on left frame between square/circle.,-1.5267,-13.8913,1.9931,4.1138,piecewise extrapolated x
+FC-4C,2,n741,marker,2,828.0,3106.5,2,2,triangle-down,,9.2233,-13.4229,0.4379,0.971,piecewise
+FC-4C,2,n741,marker,3,892,3076,10,10,triangle-down,Triangle-down intersects zero grid and crowded square/circle cluster.,20.1894,-2.8549,1.8263,3.7639,piecewise
+FC-4C,2,n741,marker,4,949.0,3046.5,2,2,triangle-down,,29.9621,7.3517,0.4561,0.9671,piecewise
+FC-4C,2,n741,marker,5,1063,2990,10,10,triangle-down,Triangle-down on vertical grid above square.,49.5103,26.8737,1.8502,3.7509,piecewise
+FC-4C,2,n741,marker,6,1177.0,2940.5,2,2,triangle-down,,68.8743,43.954,0.4689,0.9628,piecewise
+FC-4C,2,n741,marker,7,1295.0,2935.5,2,2,triangle-down,,88.8354,45.5745,0.4687,0.9624,piecewise
+FC-4C,2,n741,marker,8,1408.0,2930.0,2,2,triangle-down,,108.1345,47.3725,0.4779,0.9619,piecewise
+FC-4C,2,n741,marker,9,1529.0,2915.5,2,2,triangle-down,,129.0887,52.2834,0.4738,0.9611,piecewise
+FC-4C,2,n741,marker,10,1648,2908,10,10,triangle-down,Triangle-down on vertical grid.,149.6849,54.7659,1.8668,3.743,piecewise
+FC-4C,2,n741,marker,11,1758.0,2904.5,2,2,triangle-down,,168.6192,55.8692,0.4604,0.9602,piecewise
+FC-4C,2,n741,marker,12,1874.5,2893.5,2,2,triangle-down,,188.683,59.5647,0.4531,0.9595,piecewise
+FC-4C,2,n741,marker,13,1992.0,2893.5,3,3,triangle-down, Center rechecked on enlarged symbol crop.,209.0404,59.4458,0.6496,1.3068,piecewise
+FC-4C,2,n741,marker,14,2223,2886,11,11,triangle-down,Triangle-down on right frame between triangle-up and square.,249.424,61.8091,2.142,4.0843,piecewise extrapolated x

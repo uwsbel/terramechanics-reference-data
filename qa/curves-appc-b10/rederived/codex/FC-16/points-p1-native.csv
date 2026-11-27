@@ -1,0 +1,94 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-16,1,data,marker,1,643.5,2459.0,20,20,circle,pair 1 left; cut by left frame; overlaps mean,-0.0961019,38.81583,0.0143991,0.27278,piecewise extrapolated x
+FC-16,1,data,marker,2,793.5,2451.5,4,4,circle,pair 1 right; overlaps vertical grid,0.0017208,38.90302,0.0030194,0.06302,piecewise extrapolated x
+FC-16,1,data,marker,3,1563.5,1919.0,18,18,circle,pair 2 left; overlaps upper and vertical grid,0.4986293,45.78427,0.0118704,0.24586,piecewise
+FC-16,1,data,marker,4,1678.0,1919.5,18,18,circle,pair 2 right; overlaps mean,0.5711561,45.76984,0.0118966,0.2458,piecewise
+FC-16,1,data,marker,5,1924.0,1850.0,18,18,circle,pair 3 left; overlaps mean,0.7293235,46.65269,0.0121321,0.24642,piecewise
+FC-16,1,data,marker,6,2146.0,1847.0,2,2,circle,pair 3 right,0.8723572,46.67573,0.0016323,0.03793,piecewise
+FC-16,1,data,marker,7,2344.5,1532.5,18,18,circle,pair 4 left; overlaps upper and vertical grid,1.0006367,50.73068,0.0120524,0.25379,piecewise extrapolated x y
+FC-16,1,data,marker,8,2550.0,1529.0,2,2,circle,pair 4 right; outside right frame,1.1320752,50.75973,0.0025935,0.04459,piecewise extrapolated x y
+FC-16,1,data,marker,9,2501.0,1391.0,20,20,circle,single; cut by right frame; overlaps upper,1.1014136,52.54853,0.0140699,0.28909,piecewise extrapolated x y
+FC-16,1,data,marker,10,2503.5,1618.0,20,20,circle,single; cut by right frame; overlaps mean,1.1019018,49.61225,0.0140589,0.27467,piecewise extrapolated x
+FC-16,1,data,marker,11,2513.5,1846.0,20,20,circle,single; cut by right frame; overlaps lower,1.1071737,46.66252,0.0140816,0.27218,piecewise extrapolated x
+FC-16,1,mean,trace,1,665,2440,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted,-0.0819778,39.06183,0.0040143,0.06948,piecewise extrapolated x
+FC-16,1,mean,trace,2,714,2415.0,4.5,4.5,,Dr target -0.05,-0.0498909,39.38399,0.0037601,0.06926,piecewise extrapolated x
+FC-16,1,mean,trace,3,790.15,2373.16,4.0,4.0,,Dr target 0.00; curve/grid crossing read from adjoining curve ink,-3e-06,39.92338,0.0030334,0.06233,piecewise extrapolated x
+FC-16,1,mean,trace,4,866,2333.0,5.5,5.5,,Dr target 0.05,0.0496855,40.44114,0.0040133,0.08202,piecewise
+FC-16,1,mean,trace,5,942.78,2290.7,3.5,3.5,,Dr target 0.10; curve/grid crossing read from adjoining curve ink,0.0999993,40.98685,0.0027111,0.05588,piecewise
+FC-16,1,mean,trace,6,1022,2249.0,3.5,3.5,,Dr target 0.15,0.149811,41.52465,0.0025652,0.05597,piecewise
+FC-16,1,mean,trace,7,1101.82,2207.62,3.5,3.5,,Dr target 0.20; curve/grid crossing read from adjoining curve ink,0.1999996,42.05832,0.0025361,0.05605,piecewise
+FC-16,1,mean,trace,8,1181,2166.5,4.0,4.0,,Dr target 0.25,0.250013,42.58873,0.0028967,0.06268,piecewise
+FC-16,1,mean,trace,9,1260.09,2126.65,3.5,3.5,,Dr target 0.30; curve/grid crossing read from adjoining curve ink,0.2999994,43.10266,0.0027832,0.0562,piecewise
+FC-16,1,mean,trace,10,1335,2089.5,3.0,3.0,,Dr target 0.35,0.3502761,43.58177,0.0024891,0.04972,piecewise
+FC-16,1,mean,trace,11,1409.09,2053.25,3.5,3.5,,Dr target 0.40; curve/grid crossing read from adjoining curve ink,0.4000031,44.04927,0.0028648,0.05635,piecewise
+FC-16,1,mean,trace,12,1488,2016.5,4.0,4.0,,Dr target 0.45,0.4502321,44.52302,0.0029805,0.06298,piecewise
+FC-16,1,mean,trace,13,1566.25,1980.96,4.0,4.0,,Dr target 0.50; curve/grid crossing read from adjoining curve ink,0.499999,44.98111,0.0029165,0.06303,piecewise
+FC-16,1,mean,trace,14,1645,1945.0,4.5,4.5,,Dr target 0.55,0.5500985,45.44176,0.003253,0.06955,piecewise
+FC-16,1,mean,trace,15,1723.5,1913.74,4.0,4.0,,Dr target 0.60; curve/grid crossing read from adjoining curve ink,0.6000136,45.84129,0.0029871,0.06335,piecewise
+FC-16,1,mean,trace,16,1801,1884.5,4.0,4.0,,Dr target 0.65,0.6499268,46.2146,0.0029763,0.06365,piecewise
+FC-16,1,mean,trace,17,1878.76,1857.32,4.5,4.5,,Dr target 0.70; curve/grid crossing read from adjoining curve ink,0.6999976,46.56111,0.003316,0.07043,piecewise
+FC-16,1,mean,trace,18,1956,1828.0,4.5,4.5,,Dr target 0.75,0.7501397,46.93526,0.0033178,0.07073,piecewise
+FC-16,1,mean,trace,19,2032.95,1800.53,4.0,4.0,,Dr target 0.80; curve/grid crossing read from adjoining curve ink,0.8000004,47.28537,0.0029942,0.06449,piecewise
+FC-16,1,mean,trace,20,2111,1771.0,3.5,3.5,,Dr target 0.85,0.850184,47.66196,0.0026178,0.05827,piecewise
+FC-16,1,mean,trace,21,2188.44,1740.24,4.5,4.5,,Dr target 0.90; curve/grid crossing read from adjoining curve ink,0.9000035,48.05441,0.0032297,0.07161,piecewise
+FC-16,1,mean,trace,22,2266,1709.0,4.5,4.5,,Dr target 0.95,0.9496907,48.45293,0.0032419,0.07192,piecewise
+FC-16,1,mean,trace,23,2344.49,1675.33,4.5,4.5,,Dr target 1.00; curve/grid crossing read from adjoining curve ink,0.9999966,48.88271,0.0032908,0.07226,piecewise extrapolated x
+FC-16,1,mean,trace,24,2422,1641.0,4.5,4.5,,Dr target 1.05,1.049694,49.32098,0.0036385,0.07261,piecewise extrapolated x
+FC-16,1,mean,trace,25,2546,1581.5,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted,1.1292537,50.08106,0.0041954,0.07386,piecewise extrapolated x y
+FC-16,1,mean,feature,1,665,2440,35,20,,first point; left end of identifiable curve ink; terminal obscured by circle/frame; widened interval includes merged terminal,-0.0819778,39.06183,0.0241433,0.27366,piecewise extrapolated x
+FC-16,1,mean,feature,2,2546,1581.5,4.5,4.5,,last point; right end; peak of increasing trace,1.1292537,50.08106,0.0041954,0.07386,piecewise extrapolated x y
+FC-16,1,upper,trace,1,649,2416,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted,-0.0922702,39.37561,0.004096,0.06928,piecewise extrapolated x
+FC-16,1,upper,trace,2,714,2378.0,3.5,3.5,,Dr target -0.05; dash end when target is in gap,-0.0496764,39.8659,0.0030957,0.05583,piecewise extrapolated x
+FC-16,1,upper,trace,3,789.81,2334.91,4.0,4.0,,Dr target 0.00; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,-0.0,40.4218,0.0030336,0.06235,piecewise extrapolated x
+FC-16,1,upper,trace,4,866,2292.0,4.5,4.5,,Dr target 0.05; dash end when target is in gap,0.0499294,40.97546,0.0033555,0.06898,piecewise
+FC-16,1,upper,trace,5,942.38,2247.31,4.0,4.0,,Dr target 0.10; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.0999999,41.55239,0.0030403,0.06252,piecewise
+FC-16,1,upper,trace,6,1022,2203.0,4.5,4.5,,Dr target 0.15; dash end when target is in gap,0.1500789,42.12423,0.0031972,0.06916,piecewise
+FC-16,1,upper,trace,7,1101.37,2158.74,4.5,4.5,,Dr target 0.20; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.2000046,42.69552,0.0031724,0.06925,piecewise
+FC-16,1,upper,trace,8,1180,2115.5,4.0,4.0,,Dr target 0.25; dash end when target is in gap,0.2497088,43.25365,0.0028978,0.06278,piecewise
+FC-16,1,upper,trace,9,1259.52,2073.37,4.5,4.5,,Dr target 0.30; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.3000056,43.79733,0.0034589,0.06941,piecewise
+FC-16,1,upper,trace,10,1334,2033.0,3.5,3.5,,Dr target 0.35; dash end when target is in gap,0.3500222,44.3185,0.0028268,0.05638,piecewise
+FC-16,1,upper,trace,11,1401,1998.0,4.5,4.5,,Dr target 0.40; dash end when target is in gap; moved -7.4 px to nearest visible curve ink,0.39501,44.77024,0.0035414,0.06956,piecewise
+FC-16,1,upper,trace,12,1487,1956.0,4.5,4.5,,Dr target 0.45; dash end when target is in gap,0.4499915,45.31009,0.0032991,0.06947,piecewise
+FC-16,1,upper,trace,13,1592,1903.0,4.5,4.5,,Dr target 0.50; dash end when target is in gap; moved +26.4 px to nearest visible curve ink,0.5167772,45.9896,0.0032414,0.07001,piecewise
+FC-16,1,upper,trace,14,1644,1879.0,4.5,4.5,,Dr target 0.55; dash end when target is in gap,0.5498619,46.29691,0.003253,0.07025,piecewise
+FC-16,1,upper,trace,15,1722.77,1840.96,4.0,4.0,,Dr target 0.60; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.599991,46.78411,0.0029873,0.06412,piecewise
+FC-16,1,upper,trace,16,1800,1804.0,3.5,3.5,,Dr target 0.65; dash end when target is in gap,0.6497834,47.25729,0.0026525,0.05798,piecewise
+FC-16,1,upper,trace,17,1877.83,1764.58,4.5,4.5,,Dr target 0.70; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.6999811,47.76215,0.0033065,0.07141,piecewise
+FC-16,1,upper,trace,18,1955,1724.5,4.0,4.0,,Dr target 0.75; dash end when target is in gap,0.7499872,48.27544,0.0029825,0.0653,piecewise
+FC-16,1,upper,trace,19,2032.37,1684.88,4.0,4.0,,Dr target 0.80; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.8000006,48.78262,0.0029837,0.06571,piecewise
+FC-16,1,upper,trace,20,2110,1643.0,4.5,4.5,,Dr target 0.85; dash end when target is in gap,0.8500045,49.31888,0.0032669,0.07265,piecewise
+FC-16,1,upper,trace,21,2180,1604.0,4.5,4.5,,Dr target 0.90; dash end when target is in gap; moved -7.5 px to nearest visible curve ink,0.8951262,49.81829,0.0032366,0.07304,piecewise
+FC-16,1,upper,trace,22,2265,1555.0,3.5,3.5,,Dr target 0.95; dash end when target is in gap,0.9496998,50.4458,0.0026001,0.06265,piecewise extrapolated y
+FC-16,1,upper,trace,23,2351,1501.0,3.5,3.5,,Dr target 1.00; dash end when target is in gap; moved +7.7 px to nearest visible curve ink,1.0049341,51.13771,0.0026794,0.06613,piecewise extrapolated x y
+FC-16,1,upper,trace,24,2411,1463.5,2.5,2.5,,Dr target 1.05; dash end when target is in gap; moved -10.1 px to nearest visible curve ink,1.0434845,51.61805,0.0023003,0.05547,piecewise extrapolated x y
+FC-16,1,upper,trace,25,2477,1412.5,5.0,5.0,,Dr target 1.10; dash end when target is in gap; moved -21.8 px to nearest visible curve ink,1.0859518,52.27241,0.0042204,0.09146,piecewise extrapolated x y
+FC-16,1,upper,trace,26,2531,1367.5,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted,1.1207283,52.85,0.0041399,0.08783,piecewise extrapolated x y
+FC-16,1,upper,feature,1,649,2416,4.5,4.5,,first point; left end of identifiable curve ink,-0.0922702,39.37561,0.004096,0.06928,piecewise extrapolated x
+FC-16,1,upper,feature,2,2531,1367.5,4.5,4.5,,last point; right end; peak of increasing trace,1.1207283,52.85,0.0041399,0.08783,piecewise extrapolated x y
+FC-16,1,lower,trace,1,650,2525,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted,-0.0922431,37.9556,0.0040951,0.07023,piecewise extrapolated x
+FC-16,1,lower,trace,2,715,2494.0,4.5,4.5,,Dr target -0.05; dash end when target is in gap,-0.0496969,38.35498,0.0037581,0.06995,piecewise extrapolated x
+FC-16,1,lower,trace,3,825,2443.0,4.5,4.5,,Dr target 0.00; dash end when target is in gap; moved +34.1 px to nearest visible curve ink,0.0223047,39.01149,0.0033461,0.06949,piecewise
+FC-16,1,lower,trace,4,867,2425.0,4.5,4.5,,Dr target 0.05; dash end when target is in gap,0.0497903,39.24288,0.0033547,0.06932,piecewise
+FC-16,1,lower,trace,5,931,2397.5,2.5,2.5,,Dr target 0.10; dash end when target is in gap; moved -12.7 px to nearest visible curve ink,0.0916764,39.59628,0.0020517,0.04288,piecewise
+FC-16,1,lower,trace,6,1025,2356.0,4.5,4.5,,Dr target 0.15; dash end when target is in gap; moved +1.7 px to nearest visible curve ink,0.1510652,40.12976,0.003196,0.06888,piecewise
+FC-16,1,lower,trace,7,1102.91,2323.67,4.5,4.5,,Dr target 0.20; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.2000013,40.54549,0.0031674,0.06894,piecewise
+FC-16,1,lower,trace,8,1182,2290.0,4.5,4.5,,Dr target 0.25; dash end when target is in gap,0.2498559,40.97867,0.0032106,0.06901,piecewise
+FC-16,1,lower,trace,9,1261.52,2257.16,4.5,4.5,,Dr target 0.30; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.3000064,41.40106,0.0034581,0.06907,piecewise
+FC-16,1,lower,trace,10,1336,2227.0,4.5,4.5,,Dr target 0.35; dash end when target is in gap,0.3499372,41.78894,0.0035015,0.06913,piecewise
+FC-16,1,lower,trace,11,1410.67,2195.71,4.0,4.0,,Dr target 0.40; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.4000063,42.19159,0.0032013,0.06264,piecewise
+FC-16,1,lower,trace,12,1489,2164.0,4.5,4.5,,Dr target 0.45; dash end when target is in gap,0.4499079,42.59952,0.0033062,0.06926,piecewise
+FC-16,1,lower,trace,13,1567.7,2134.15,4.0,4.0,,Dr target 0.50; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.5000013,42.98323,0.0029211,0.06276,piecewise
+FC-16,1,lower,trace,14,1646,2104.0,4.5,4.5,,Dr target 0.55; dash end when target is in gap,0.5497759,43.37093,0.0032525,0.06938,piecewise
+FC-16,1,lower,trace,15,1725.02,2074.83,4.0,4.0,,Dr target 0.60; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.6000025,43.74587,0.0029865,0.06288,piecewise
+FC-16,1,lower,trace,16,1803,2048.0,3.5,3.5,,Dr target 0.65; dash end when target is in gap,0.650198,44.09041,0.0026516,0.05638,piecewise
+FC-16,1,lower,trace,17,1880.34,2018.18,4.0,4.0,,Dr target 0.70; dash end when target is in gap; curve/grid crossing read from adjoining curve ink,0.7000051,44.47405,0.003004,0.06299,piecewise
+FC-16,1,lower,trace,18,1957,1992.0,4.5,4.5,,Dr target 0.75; dash end when target is in gap,0.7500033,44.81031,0.0033345,0.0696,piecewise
+FC-16,1,lower,trace,19,2041,1962.5,4.0,4.0,,Dr target 0.80; dash end when target is in gap; moved +7.2 px to nearest visible curve ink,0.8046381,45.18796,0.002968,0.06278,piecewise
+FC-16,1,lower,trace,20,2112,1940.0,5.5,5.5,,Dr target 0.85; dash end when target is in gap,0.8502151,45.47435,0.0039041,0.08254,piecewise
+FC-16,1,lower,trace,21,2215,1908.5,4.0,4.0,,Dr target 0.90; dash end when target is in gap; moved +25.5 px to nearest visible curve ink,0.9162908,45.87491,0.0028994,0.06332,piecewise
+FC-16,1,lower,trace,22,2268,1893.5,4.0,4.0,,Dr target 0.95; dash end when target is in gap,0.9501918,46.06533,0.002918,0.06347,piecewise
+FC-16,1,lower,trace,23,2358,1871.0,3.5,3.5,,Dr target 1.00; dash end when target is in gap; moved +12.1 px to nearest visible curve ink,1.0077565,46.35013,0.0026946,0.05718,piecewise extrapolated x
+FC-16,1,lower,trace,24,2424,1858.0,4.5,4.5,,Dr target 1.05; dash end when target is in gap,1.0499614,46.51365,0.0036368,0.07032,piecewise extrapolated x
+FC-16,1,lower,trace,25,2480,1851,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted,1.0857559,46.60023,0.0038868,0.07039,piecewise extrapolated x
+FC-16,1,lower,feature,1,650,2525,4.5,4.5,,first point; left end of identifiable curve ink,-0.0922431,37.9556,0.0040951,0.07023,piecewise extrapolated x
+FC-16,1,lower,feature,2,2480,1851,35,20,,last point; right end; peak of increasing trace; terminal obscured by circle/frame; widened interval includes merged terminal,1.0857559,46.60023,0.0235769,0.27322,piecewise extrapolated x

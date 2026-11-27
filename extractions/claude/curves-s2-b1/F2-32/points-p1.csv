@@ -1,0 +1,103 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F2-32,1,lpt93,feature,1,1968,3683,17,5,,"first: trace starts on the load axis at pen 0; first dash is a blob lying on the frame line, u 1951 to 1985 (interval)"
+F2-32,1,lpt93,trace,2,1968,3683,17,5,,"ink start: first dash lying on the frame line at pen 0, u 1951 to 1985 (interval)"
+F2-32,1,lpt93,feature,3,1903,3655,10,4,,"knee: upper-left end of the first (shallow) dash, where the initial rise (load 0 to about 5 lb within 0.17 in) turns into the straight part; the next dash starts at (1886,3652) across a gap, the thin fit line passes through the same spot"
+F2-32,1,lpt93,trace,4,1868.5,3636,7.0,4.7,,
+F2-32,1,lpt93,trace,5,1823.0,3589,4.5,3.4,,dash gap at nominal pen 0.50; sampled at nearest ink row (+5 px); row 3586 is a tapered dash end; moved +3 px to the full-width ink
+F2-32,1,lpt93,trace,6,1770.0,3521,5.5,4.5,,nominal pen 0.75 falls where the line crosses a load grid line; sampled at the nearest row clear of it (-11 px)
+F2-32,1,lpt93,trace,7,1743.0,3483,5.5,5.1,,nominal pen 1.00 is on the pen 1 grid line; sampled at nearest ink row off it (+3 px)
+F2-32,1,lpt93,trace,8,1701.0,3429,5.5,4.4,,
+F2-32,1,lpt93,trace,9,1660.5,3377,4.0,2.9,,
+F2-32,1,lpt93,trace,10,1613.5,3325,3.0,2.2,,
+F2-32,1,lpt93,trace,11,1564.0,3262,4.5,4.0,,nominal pen 2.00 is on the pen 2 grid line; sampled at nearest ink row off it (-11 px)
+F2-32,1,lpt93,trace,12,1531.5,3221,5.0,4.0,,
+F2-32,1,lpt93,trace,13,1493.0,3170,4.5,3.4,,
+F2-32,1,lpt93,trace,14,1448.5,3116,3.0,2.3,,dash gap at nominal pen 2.75; sampled at nearest ink row (-2 px)
+F2-32,1,lpt93,trace,15,1409.0,3059,4.5,3.6,,nominal pen 3.00 is on the pen 3 grid line; sampled at nearest ink row off it (-7 px)
+F2-32,1,lpt93,trace,16,1381.0,3015,4.5,4.0,,nominal pen 3.25 falls where the line crosses a load grid line; sampled at the nearest row clear of it (+1 px)
+F2-32,1,lpt93,trace,17,1342.0,2962,4.5,3.9,,
+F2-32,1,lpt93,trace,18,1310.0,2911,5.5,4.9,,
+F2-32,1,lpt93,trace,19,1270.5,2852,3.0,2.6,,nominal pen 4.00 is on the pen 4 grid line; sampled at nearest ink row off it (-7 px)
+F2-32,1,lpt93,trace,20,1241.5,2807,3.0,2.4,,
+F2-32,1,lpt93,trace,21,1212.5,2755,4.0,3.6,,
+F2-32,1,lpt93,trace,22,1181.0,2704,3.5,3.1,,
+F2-32,1,lpt93,trace,23,1144.0,2646,4.5,4.2,,nominal pen 5.00 is on the pen 5 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt93,trace,24,1116.0,2600,4.5,3.9,,
+F2-32,1,lpt93,trace,25,1084.0,2548,4.5,4.0,,
+F2-32,1,lpt93,trace,26,1055.0,2498,2.5,2.1,,dash gap at nominal pen 5.75; sampled at nearest ink row (+2 px)
+F2-32,1,lpt93,trace,27,1016.0,2439,3.5,3.1,,nominal pen 6.00 is on the pen 6 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt93,trace,28,988.0,2393,4.5,3.9,,
+F2-32,1,lpt93,trace,29,947.0,2326,3.5,3.1,,nominal pen 6.50 falls where the line crosses a load grid line; sampled at the nearest row clear of it (-15 px)
+F2-32,1,lpt93,trace,30,924.0,2289,4.5,3.8,,
+F2-32,1,lpt93,trace,31,914,2270,4,4,,ink end: top end of the dashed line
+F2-32,1,lpt93,feature,32,914,2270,4,4,,last: top end of the dashed line ink; also the peak (load increases to the end)
+F2-32,1,lpt93,feature,33,914,2270,4,4,,peak: maximum load is at the last point
+F2-32,1,lpt53,feature,1,1940,3271,45,5,,"first: trace starts on the pen 2 grid line at load 0 (test started 2 in below the surface); its ink coincides with the grid line between u 1895 and 1985, start given as an interval"
+F2-32,1,lpt53,trace,2,1940,3271,45,5,,"ink start: on the pen 2 grid line at load 0, coincident with the grid line between u 1895 and 1985 (interval)"
+F2-32,1,lpt53,feature,3,1900,3266,6,5,,"knee: the trace leaves the pen 2 grid line here (slope changes from along the line to about 5 px per px); after it the curve bends smoothly up to the straight part by about pen 3.5, with no sharp kink"
+F2-32,1,lpt53,trace,4,1719.5,3222,12.0,4.4,,
+F2-32,1,lpt53,trace,5,1617.0,3170,6.5,3.6,,
+F2-32,1,lpt53,trace,6,1555.5,3118,5.0,3.5,,
+F2-32,1,lpt53,trace,7,1503.5,3059,3.0,2.0,,nominal pen 3.00 is on the pen 3 grid line; sampled at nearest ink row off it (-7 px)
+F2-32,1,lpt53,trace,8,1467.0,3014,8.5,8.5,,"runs together with the LPT 52 dots (merged ink), bound widened"
+F2-32,1,lpt53,trace,9,1436.0,2963,4.5,3.6,,
+F2-32,1,lpt53,trace,10,1405.0,2911,4.5,3.9,,
+F2-32,1,lpt53,trace,11,1380.0,2871,3.5,3.0,,nominal pen 4.00 is on the pen 4 grid line; sampled at nearest ink row off it (+12 px)
+F2-32,1,lpt53,trace,12,1340.0,2807,3.5,3.1,,
+F2-32,1,lpt53,trace,13,1310.0,2756,3.5,3.0,,
+F2-32,1,lpt53,trace,14,1276.0,2704,4.5,3.7,,
+F2-32,1,lpt53,trace,15,1233.5,2646,4.0,3.0,,nominal pen 5.00 is on the pen 5 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt53,trace,16,1199.5,2600,6.0,4.6,,
+F2-32,1,lpt53,trace,17,1156.5,2538,3.0,2.6,,nominal pen 5.50 falls where the line crosses a load grid line; sampled at the nearest row clear of it (-10 px)
+F2-32,1,lpt53,trace,18,1126.0,2497,7.5,7.5,,"runs together with the LPT 52 dots (merged ink), bound widened"
+F2-32,1,lpt53,trace,19,1088.0,2439,8.5,8.5,,"nominal pen 6.00 is on the pen 6 grid line; sampled at nearest ink row off it (-6 px); runs together with the LPT 52 dots (merged ink), bound widened"
+F2-32,1,lpt53,trace,20,1067.0,2393,3.5,3.0,,
+F2-32,1,lpt53,trace,21,1040.0,2341,3.5,3.1,,
+F2-32,1,lpt53,trace,22,1016.0,2290,3.5,3.2,,
+F2-32,1,lpt53,trace,23,987.5,2232,4.0,3.5,,nominal pen 7.00 is on the pen 7 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt53,trace,24,981.5,2216,4,4,,ink end: top end of the solid line
+F2-32,1,lpt53,feature,25,981.5,2216,4,4,,last: top end of the solid line ink; also the peak
+F2-32,1,lpt53,feature,26,981.5,2216,4,4,,peak: maximum load is at the last point
+F2-32,1,lpt52,feature,1,1973.5,3475,4,4,,"first: first dot, on the pen 1 grid line next to the load axis (test started 1 in below the surface); a 7 px gap separates it from the frame"
+F2-32,1,lpt52,trace,2,1973.5,3475,4,4,,"ink start: first dot, on the pen 1 grid line next to the load axis"
+F2-32,1,lpt52,feature,3,1850,3447,6,5,,"knee (gentle): the initial rise (load 0 to about 7 lb within 0.15 in) bends gradually here from about 4.8 to 2.7 px per px; the sharper knee is the join with the straight part, recorded separately"
+F2-32,1,lpt52,feature,4,1703,3377,6,5,,knee: the climbing start joins the straight part (slope changes from about 1.8 to 0.65 px per px); from here up the dots lie on the straight line the thin fit line is drawn on
+F2-32,1,lpt52,trace,5,1792.5,3429,4.0,3.0,,
+F2-32,1,lpt52,trace,6,1707.0,3374,3.5,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 1.50; sampled at nearest ink row (-3 px)
+F2-32,1,lpt52,trace,7,1660.5,3324,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 1.75; sampled at nearest ink row (-1 px)
+F2-32,1,lpt52,trace,8,1630.5,3267,3.0,3.0,,nominal pen 2.00 is on the pen 2 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt52,trace,9,1597.0,3220,4.5,3.7,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 2.25; sampled at nearest ink row (-2 px)
+F2-32,1,lpt52,trace,10,1566.0,3169,3.0,3.0,,nominal pen 2.50 falls where the line crosses a load grid line; sampled at the nearest row clear of it (-1 px)
+F2-32,1,lpt52,trace,11,1533.5,3118,3.0,3.0,,
+F2-32,1,lpt52,trace,12,1485.5,3058,3.0,3.0,,nominal pen 3.00 is on the pen 3 grid line; sampled at nearest ink row off it (-8 px); row 3059 is a tapered dash end; moved -1 px to the full-width ink
+F2-32,1,lpt52,trace,13,1455.0,3010,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 3.25; sampled at nearest ink row (-4 px)
+F2-32,1,lpt52,trace,14,1424.5,2960,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 3.50; sampled at nearest ink row (-3 px)
+F2-32,1,lpt52,trace,15,1392.5,2911,3.0,3.0,,
+F2-32,1,lpt52,trace,16,1354.0,2846,4.5,3.7,,nominal pen 4.00 is on the pen 4 grid line; sampled at nearest ink row off it (-13 px)
+F2-32,1,lpt52,trace,17,1331.0,2807,3.0,3.0,,
+F2-32,1,lpt52,trace,18,1299.5,2757,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 4.50; sampled at nearest ink row (+1 px)
+F2-32,1,lpt52,trace,19,1261.5,2704,3.0,3.0,,
+F2-32,1,lpt52,trace,20,1220.5,2643,3.0,3.0,,nominal pen 5.00 is on the pen 5 grid line; sampled at nearest ink row off it (-9 px); row 2644 is a tapered dash end; moved -1 px to the full-width ink
+F2-32,1,lpt52,trace,21,1188.5,2598,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 5.25; sampled at nearest ink row (-2 px)
+F2-32,1,lpt52,trace,22,1154.0,2548,3.5,3.0,,
+F2-32,1,lpt52,trace,23,1121.5,2501,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 5.75; sampled at nearest ink row (+4 px)
+F2-32,1,lpt52,trace,24,1089.5,2453,3.0,3.0,,nominal pen 6.00 is on the pen 6 grid line; sampled at nearest ink row off it (+8 px)
+F2-32,1,lpt52,trace,25,1056.5,2391,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 6.25; sampled at nearest ink row (-2 px)
+F2-32,1,lpt52,trace,26,1028.5,2338,3.0,3.0,,between dots (dots about 12 px apart; the LPT 53 solid line runs just right of them) at nominal pen 6.50; sampled at nearest ink row (-3 px); row 2340 is a tapered dash end; moved -2 px to the full-width ink
+F2-32,1,lpt52,trace,27,997.5,2290,3.0,3.0,,
+F2-32,1,lpt52,trace,28,972.5,2232,3.0,3.0,,nominal pen 7.00 is on the pen 7 grid line; sampled at nearest ink row off it (-6 px)
+F2-32,1,lpt52,trace,29,965.5,2222,3,4,,ink end: top end of the dotted line (last dot)
+F2-32,1,lpt52,feature,30,965.5,2222,3,4,,last: top end of the dotted line (first dot); also the peak
+F2-32,1,lpt52,feature,31,965.5,2222,3,4,,peak: maximum load is at the last point
+F2-32,1,fit,trace,1,761,1925,2,2,,upper end of the thin line ink
+F2-32,1,fit,trace,2,831.1,2034.5,3.5,3,,"crossing of the pen 8 grid line, interpolated between the ink 7 px above and 7 px below"
+F2-32,1,fit,trace,3,964.9,2239.5,5,3,,"crossing of the pen 7 grid line, interpolated between the ink 26 px above and 7 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,4,1094.8,2446.0,8.5,3,,"crossing of the pen 6 grid line, interpolated between the ink 7 px above and 7 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,5,1229.3,2653.5,5,3,,"crossing of the pen 5 grid line, interpolated between the ink 10 px above and 7 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,6,1365.8,2861.0,5,3,,"crossing of the pen 4 grid line, interpolated between the ink 10 px above and 12 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,7,1494.8,3066.5,5,3,,"crossing of the pen 3 grid line, interpolated between the ink 7 px above and 7 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,8,1633.7,3274.5,5,3,,"crossing of the pen 2 grid line, interpolated between the ink 7 px above and 7 px below; here the fit line coincides with the LPT 52 dotted trace (its straight part) and has no separate ink"
+F2-32,1,fit,trace,9,1764.3,3476.5,2.0,3,,"crossing of the pen 1 grid line, interpolated between the ink 7 px above and 7 px below"
+F2-32,1,fit,trace,10,1893,3683,4,3,,"lower end of the thin line ink, on the load axis (frame)"
+F2-32,1,fit,feature,11,1893,3683,4,3,,intercept: the line meets the load axis (pen 0) here; the page prints Intercept = 4.7 lbs.
+F2-32,1,fit,feature,12,861,1649,23,300,,"label: Slope = 6.5 lbs./in. = A gamma Nq (the gamma is a Greek letter, Nq has q as a subscript; printed rotated, reading upward; center of the text block, leader arrow from its lower end to the line at (862,2042))"

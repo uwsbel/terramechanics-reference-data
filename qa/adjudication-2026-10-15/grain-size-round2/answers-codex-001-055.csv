@@ -1,0 +1,56 @@
+item,answer,confidence,comment
+001,cannot tell,low,Merged strokes and the sieve crossing obscure any ring; no separable circular contour.
+002,no,medium,The white opening is the channel between adjacent curve strokes; no circle closes around the mark.
+003,no,high,"A notch between the tail and percent frame, crossed by a sieve line; no distinct circle."
+004,both,high,Both positions fall on the average stroke; the two-pixel separation stays within its ink/tolerance.
+005,both,high,The Q point and the local P trace both lie on the solid middle stroke.
+006,all yes,medium,"Q is at the left edge of the final visible tail, within two pixels of its ink before frame merger."
+007,all no,high,"Both P samples are inside the percent-frame/shared endpoint ink, beyond the near edge of distinguishable curve ink."
+008,yes,medium,P lies in the lower curve band through the broad coarse-side bend.
+009,all yes,medium,"Q touches the final merged tail at the frame approach, within the two-pixel allowance."
+010,all no,high,Both P samples lie in the frame/shared endpoint ink rather than separately visible lower-line ink.
+011,neither,medium,"P is in the frame and Q follows the right-hand branch; I would place the upper trace near (708,1540)."
+012,all no,high,"Both P samples are in the percent frame/shared endpoint ink, not the upper dash itself."
+013,both,medium,Both marks lie on the average band within the extended coarse-side change of curvature; no unique sharp knee.
+014,both,medium,Both marks lie on the solid average line through different parts of the broad fine-side bend.
+015,yes,high,A separate ring encloses the small white opening at P; the lower-left Q ring is another symbol.
+016,yes,medium,"A small crossed ring is visible at P, alongside the separate right-hand ring at Q."
+017,cannot tell,low,"One crossed ring is apparent, but the merged tail does not resolve average versus upper; two rings cannot be traced."
+018,all yes,high,"Both Q samples touch the visible protruding curve end; (780,1514) is on the small tip above the grid crossing."
+019,both,medium,Both positions are on the lower band within the broad coarse-side bend; the notes select different portions of it.
+020,both,medium,"P and Q are on lower dashes across the extended fine-side transition, including the later dash at Q."
+021,no,high,"The opening is elongated space between the dashed and solid strokes, closed by a grid crossing rather than a ring."
+022,all yes,high,"Both P samples lie on the common visible end, including the small tip at (780,1514)."
+023,both,medium,Both marks touch the upper/merged band through the broad coarse-side bend; neither denotes a unique sharp corner.
+024,both,medium,Both marks are on upper dashes through the broad fine-side change of curvature.
+025,cannot tell,low,The possible upper ring merges heavily into adjacent strokes; its contour and center cannot be established.
+026,no,high,"The marked opening is an open notch beside the vertical band, not an enclosed circle."
+027,all yes,high,Both Q samples touch the distinguishable common curve end; the top sample is on the small ink tip.
+028,q,medium,Q is at the final tail/frame merger; P is substantially earlier on the continuing tail.
+029,both,medium,Both are on the average line at real bends: Q at the approximately 2 mm shoulder and P at the fine-side flattening.
+030,no,high,The white area opens into the gap beside the frame; no separate ring encloses the subject center.
+031,all yes,medium,Q is on the last protruding tail ink immediately before it becomes indistinguishable from the frame.
+032,p,medium,P is at the near-edge merger of the fine tail with the frame; Q is earlier on the continuing band.
+033,p,high,P touches the lower dash at the fine-side bend; Q is in the white gap below the lower stroke near 2 mm.
+034,no,high,The subject is the edge/end of a dash beside the solid stroke; no separate circular contour is traceable.
+035,all yes,medium,P is within two pixels of the last separately visible tail ink at the frame approach.
+036,both,medium,P touches the upper dash at the 2 mm shoulder; Q lies on the upper fine-side bend. Both are changes of curvature.
+037,p,high,P touches the lower-on-page upper dash; Q interpolates through the higher band instead of that dash.
+038,all no,medium,"Q falls in the rounded terminal symbol/body below the line approach, not on separately visible average-line ink."
+039,yes,medium,Q touches the start of the lower dash at the broad bend; the nearby vertical grid does not account for the sloping stroke.
+040,yes,medium,A heavily crossed ring/bulge with an enclosed white remnant is centered within a few pixels of Q on the lower branch.
+041,yes,medium,The lower dash has a small crossed ring here; its white interior lies just right of the subject center.
+042,all no,high,Both Q samples are on the detached rounded terminal symbol; the lower dash ends above the intervening white gap.
+043,no,medium,A dash end meets horizontal and vertical grid strokes; the apparent opening is not a separate ring.
+044,all no,high,"Q is on the lower-left ring/dashed branch, separated from the average solid stroke by white space."
+045,all no,high,"P is on the lower-on-page branch/ring ink, below the average solid stroke."
+046,q,high,Q touches the upper-on-page lower dash; the local P interpolation follows the middle stroke below it.
+047,some,medium,"Off-line: (576,2296), on the terminal circle outline. (558,2247) is on the isolated upper dash."
+048,all no,high,"P lies in the percent-frame/right-hand shared ink, across the white gap from the upper dash."
+049,all no,high,P is on the right-hand branch; the upper dash is farther left at this height.
+050,all yes,medium,"P touches the bottom of the merged average tail, still visibly left of the percent frame."
+051,all no,medium,Both P samples lie in the frame/grid merger after the average stroke loses a separately visible near edge.
+052,both,medium,Both marks touch the lower band within the broad fine-side bend; Q is at the later dash edge.
+053,all yes,medium,P is within two pixels of the final lower-edge ink beside the small white notch before the frame.
+054,all yes,medium,"Q is on the left side of the last visible upper tail, before it merges into the frame."
+055,all yes,medium,"All three Q samples touch upper-dash ink; the top sample is on the small dash tip, not the adjacent frame."

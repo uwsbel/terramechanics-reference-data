@@ -1,0 +1,468 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-6D,1,n147,feature,1,831,2207.0,0,5,,"feature: first point of the drawn line (dash on the bottom frame, center estimated)",13.1121,11.609,0.0931,23.758,piecewise extrapolated y,resolved,claude,14.2192,8.105,the claude reading is on the feature; credit claude (blind adjudication item 073 (Claude's adjudicator: p; Codex's: p)),838,2208
+FC-6D,1,n147,feature,2,2065,2159.5,110,6,,"feature: peak of the drawn line; flat at v 2159.5 to 2160.5 from u 1955 to 2190, so its x is not defined",220.6802,130.196,18.8796,31.157,piecewise,agreed,claude,239.4415,126.587,,2175,2159.5
+FC-6D,1,n147,marker,1,811.5,2202.0,3,3,triangle-up,centroid from apex and width; base merged with the bottom frame and curve ink,10.0499,29.926,0.5611,16.702,piecewise,agreed,claude,9.9077,39.013,,810.5,2199.5
+FC-6D,1,n147,marker,2,873.5,2200.3,3,3,triangle-up,centroid from apex and width; base merged with the bottom frame and curve ink,19.832,33.481,0.5608,16.692,piecewise,agreed,claude,19.7619,43.622,,873.0,2197.5
+FC-6D,1,n147,marker,3,936.0,2196.0,2,2.5,triangle-up,centroid; base touches the bottom frame,29.6999,46.144,0.4015,14.86,piecewise,agreed,claude,29.7028,58.742,,936.0,2192.5
+FC-6D,1,n147,marker,4,987.5,2195.0,2,2.5,triangle-up,centroid; base touches the bottom frame,37.8244,47.648,0.4013,14.856,piecewise,agreed,claude,37.7396,56.772,,987.0,2192.5
+FC-6D,1,n147,marker,5,1105.0,2197.7,3,3,triangle-up,centroid from apex and width; base merged with the bottom frame and curve ink,56.8984,33.592,0.6086,16.687,piecewise,agreed,claude,56.7129,45.232,,1104.0,2194.5
+FC-6D,1,n147,marker,6,1166.5,2194.5,2,2.5,triangle-up,centroid; base touches the bottom frame,67.4482,42.43,0.4356,14.866,piecewise,agreed,claude,67.5199,53.328,,1167.0,2191.5
+FC-6D,1,n147,marker,7,1222.0,2192.3,2,2.5,triangle-up,centroid; base touches the bottom frame,76.9667,47.99,0.4356,14.851,piecewise,agreed,claude,77.0384,58.203,,1222.5,2189.5
+FC-6D,1,n147,marker,8,1282.5,2191.7,2,2.5,triangle-up,centroid; base touches the bottom frame,87.3376,47.739,0.4355,14.85,piecewise,agreed,claude,87.3254,59.394,,1282.5,2188.5
+FC-6D,1,n147,marker,9,1337.0,2187.7,2,2,triangle-up,centroid,96.6896,59.655,0.434,13.061,piecewise,agreed,claude,96.5923,71.343,,1336.5,2184.5
+FC-6D,1,n147,marker,10,1396.5,2186.0,2,2,triangle-up,centroid,106.8248,63.302,0.4312,13.051,piecewise,agreed,claude,106.7344,76.061,,1396.0,2182.5
+FC-6D,1,n147,marker,11,1452.5,2183.0,2,2,triangle-up,centroid,116.3372,71.647,0.4331,13.03,piecewise,agreed,claude,116.4236,84.382,,1453.0,2179.5
+FC-6D,1,n147,marker,12,1513.5,2177.0,2,2,triangle-up,centroid,126.7059,90.322,0.4352,12.983,piecewise,agreed,claude,126.6298,103.109,,1513.0,2173.5
+FC-6D,1,n147,marker,13,1572.0,2175.7,2,2,triangle-up,centroid,136.6378,92.603,0.4371,12.976,piecewise,agreed,claude,136.5706,107.861,,1571.5,2171.5
+FC-6D,1,n147,marker,14,1632.5,2178.3,3,3,triangle-up,centroid; right corner on the 150 gridline,146.8992,81.122,0.6115,16.56,piecewise,agreed,claude,146.9233,94.981,,1632.5,2174.5
+FC-6D,1,n147,marker,15,1685.0,2177.0,2,2,triangle-up,centroid,155.8389,83.637,0.4421,12.997,piecewise,agreed,claude,155.772,96.477,,1684.5,2173.5
+FC-6D,1,n147,marker,16,1745.5,2172.7,2,2,triangle-up,centroid,166.164,96.362,0.4428,12.964,piecewise,agreed,claude,165.998,108.184,,1744.5,2169.5
+FC-6D,1,n147,marker,17,1804.5,2175.7,2,2,triangle-up,centroid,176.2151,83.54,0.4434,12.995,piecewise,agreed,claude,176.1214,95.364,,1804.0,2172.5
+FC-6D,1,n147,marker,18,1860.5,2175.3,2,2,triangle-up,centroid,185.7632,82.76,0.444,12.996,piecewise,agreed,claude,185.7453,98.44,,1860.5,2171.0
+FC-6D,1,n147,marker,19,1924.0,2174.0,2,2,triangle-up,centroid,196.5922,84.845,0.4448,12.99,piecewise,agreed,claude,196.4733,97.757,,1923.5,2170.5
+FC-6D,1,n147,marker,20,1979.5,2175.7,2,2,triangle-up,centroid,206.0544,76.721,0.4437,13.009,piecewise,agreed,claude,205.8509,88.622,,1978.5,2172.5
+FC-6D,1,n147,marker,21,2035.5,2175.7,2,2,triangle-up,centroid,215.6085,74.54,0.441,13.014,piecewise,agreed,claude,215.5005,86.439,,2035.0,2172.5
+FC-6D,1,n147,marker,22,2098.5,2172.3,2,2,triangle-up,centroid,226.365,84.008,0.438,12.989,piecewise,agreed,claude,226.2686,96.272,,2098.0,2169.0
+FC-6D,1,n147,marker,23,2155.5,2168.3,2,2,triangle-up,centroid,236.0992,95.812,0.4352,12.96,piecewise,agreed,claude,236.0995,109.82,,2155.5,2164.5
+FC-6D,1,n147,marker,24,2232.5,2172.7,3,3,triangle-up,"centroid from base and width; on the 250 gridline, apex hidden in it",249.2258,77.386,0.6045,16.557,piecewise,agreed,claude,248.3847,89.518,,2227.5,2169.5
+FC-6D,1,n147,trace,1,831,2207.0,0,5,,first dash rests on the bottom frame: only its upper edge (v 2204) is visible; center estimated as edge plus half a line width,13.1121,11.609,0.0931,23.758,piecewise extrapolated y,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n147,trace,2,845,2205.5,0,5,,"dash rests on the bottom frame: upper edge v 2201 visible, lower edge hidden in the frame",15.3239,16.331,0.093,23.711,piecewise extrapolated y,one-sided-verified,claude,15.324,8.558,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)",845.0,2207.8
+FC-6D,1,n147,trace,3,855,2205.5,0,5,,"dash rests on the bottom frame: upper edge v 2201 visible, lower edge hidden in the frame",16.9009,15.942,0.093,23.715,piecewise extrapolated y,agreed,claude,16.901,9.207,,855.0,2207.5
+FC-6D,1,n147,trace,4,893,2201.0,0,3.5,,dash just above the bottom frame (separated from it by one pixel row),22.9054,30.263,0.0889,18.342,piecewise,agreed,claude,22.905,16.091,,893.1,2205.1
+FC-6D,1,n147,trace,5,910,2200.0,0,4.5,,,25.589,33.112,0.0915,21.855,piecewise,agreed,claude,25.589,26.624,,910.1,2201.9
+FC-6D,1,n147,trace,6,916,2199.5,0,5,,,26.5366,34.634,0.0928,23.611,piecewise,agreed,claude,26.537,34.944,,916.0,2199.5
+FC-6D,1,n147,trace,7,956,2196.5,0,5,,,32.8527,43.609,0.0926,23.587,piecewise,agreed,claude,32.853,43.925,,956.1,2196.5
+FC-6D,1,n147,trace,8,965,2196.5,0,5,,,34.272,43.259,0.0926,23.588,piecewise,agreed,claude,34.272,43.577,,965.1,2196.5
+FC-6D,1,n147,trace,9,1005,2194.5,0,6,,just right of the fourth triangle,40.5855,48.722,0.0951,27.093,piecewise,agreed,claude,40.586,48.717,,1005.1,2194.6
+FC-6D,1,n147,trace,10,1015,2193.5,0,5,,,42.1652,51.843,0.0924,23.565,piecewise,agreed,claude,42.165,50.799,,1015.1,2193.9
+FC-6D,1,n147,trace,11,1025,2193.0,0,4.5,,,43.7436,53.209,0.0911,21.802,piecewise,agreed,claude,43.744,53.047,,1025.1,2193.1
+FC-6D,1,n147,trace,12,1040,2193.0,0,4.5,,,46.1092,52.624,0.091,21.803,piecewise,agreed,claude,46.109,55.265,,1040.1,2192.3
+FC-6D,1,n147,trace,13,1055,2192.0,0,5.5,,,48.4775,55.55,0.0936,25.315,piecewise,agreed,claude,48.477,58.486,,1055.1,2191.3
+FC-6D,1,n147,trace,14,1075,2190.5,0,5.0,,,51.7775,60.037,0.1002,23.544,piecewise,agreed,claude,51.778,60.386,,1075.1,2190.5
+FC-6D,1,n147,trace,15,1085,2190.5,0,5.0,,,53.4914,59.647,0.1002,23.544,piecewise,agreed,claude,53.491,60.200,,1085.1,2190.4
+FC-6D,1,n147,trace,16,1125,2188.5,0,6.0,,,60.3527,65.109,0.103,27.049,piecewise,agreed,claude,60.353,65.673,,1125.1,2188.4
+FC-6D,1,n147,trace,17,1145,2187.5,0,5.0,,,63.7833,67.839,0.1,23.522,piecewise,agreed,claude,63.783,68.873,,1145.1,2187.3
+FC-6D,1,n147,trace,18,1185,2185.5,0,6.0,,,70.6445,73.3,0.1028,27.027,piecewise,agreed,claude,70.644,73.438,,1185.1,2185.6
+FC-6D,1,n147,trace,19,1200,2185.5,0,6.0,,,73.2154,72.715,0.1027,27.028,piecewise,agreed,claude,73.215,73.104,,1200.1,2185.5
+FC-6D,1,n147,trace,20,1245,2183.0,0,5.5,,,80.9348,79.736,0.1012,25.25,piecewise,agreed,claude,80.935,77.024,,1245.1,2183.9
+FC-6D,1,n147,trace,21,1260,2183.0,0,5.5,,,83.5057,79.151,0.1011,25.251,piecewise,agreed,claude,83.506,79.212,,1260.1,2183.1
+FC-6D,1,n147,trace,22,1305,2181.5,0,5.0,,,91.2223,82.661,0.0996,23.481,piecewise,agreed,claude,91.222,83.082,,1305.1,2181.5
+FC-6D,1,n147,trace,23,1315,2181.5,0,5.0,,,92.9361,82.271,0.0996,23.482,piecewise,agreed,claude,92.936,82.696,,1315.1,2181.5
+FC-6D,1,n147,trace,24,1370,2180.0,0,5.5,,,102.3435,85.391,0.1003,25.232,piecewise,agreed,claude,102.344,85.833,,1370.1,2180.0
+FC-6D,1,n147,trace,25,1375,2180.0,0,5.5,,,103.1921,85.196,0.1005,25.232,piecewise,agreed,claude,103.192,85.640,,1375.1,2180.0
+FC-6D,1,n147,trace,26,1415,2178.5,0,5.0,,,109.9848,88.9,0.1004,23.463,piecewise,agreed,claude,109.985,89.235,,1415.1,2178.5
+FC-6D,1,n147,trace,27,1430,2178.5,0,5.0,,,112.5306,88.315,0.1008,23.464,piecewise,agreed,claude,112.531,90.227,,1430.1,2178.1
+FC-6D,1,n147,trace,28,1475,2177.0,0,5.5,,,120.1718,91.824,0.1036,25.213,piecewise,agreed,claude,120.172,89.150,,1475.0,2177.9
+FC-6D,1,n147,trace,29,1495,2177.0,0,5.5,,,123.5661,91.044,0.1042,25.214,piecewise,agreed,claude,123.566,92.058,,1495.0,2176.8
+FC-6D,1,n147,trace,30,1535,2174.0,0,5.5,,,130.3626,100.01,0.1055,25.191,piecewise,agreed,claude,130.363,101.085,,1535.0,2173.8
+FC-6D,1,n147,trace,31,1550,2172.5,0,5.0,,,132.9123,104.688,0.1047,23.42,piecewise,agreed,claude,132.912,104.888,,1550.0,2172.6
+FC-6D,1,n147,trace,32,1595,2170.5,0,6.0,,,140.5546,109.95,0.1086,26.923,piecewise,agreed,claude,140.555,110.462,,1594.9,2170.5
+FC-6D,1,n147,trace,33,1610,2170.5,0,6.0,,,143.1003,109.364,0.1091,26.924,piecewise,agreed,claude,143.100,109.882,,1609.9,2170.5
+FC-6D,1,n147,trace,34,1660,2167.5,0,6.0,,,151.6008,117.939,0.1109,26.901,piecewise,agreed,claude,151.601,118.469,,1659.9,2167.5
+FC-6D,1,n147,trace,35,1665,2167.5,0,6.0,,,152.4532,117.743,0.111,26.902,piecewise,agreed,claude,152.453,118.354,,1664.9,2167.5
+FC-6D,1,n147,trace,36,1705,2166.5,0,5.0,,,159.275,119.691,0.1089,23.379,piecewise,agreed,claude,159.275,120.230,,1705.0,2166.5
+FC-6D,1,n147,trace,37,1725,2166.0,0,4.5,,,162.6859,120.664,0.1078,21.618,piecewise,agreed,claude,162.686,121.339,,1725.0,2166.0
+FC-6D,1,n147,trace,38,1765,2164.5,0,6.0,,,169.5089,124.365,0.112,26.882,piecewise,agreed,claude,169.509,124.930,,1765.0,2164.5
+FC-6D,1,n147,trace,39,1785,2163.5,0,5.0,,,172.921,127.093,0.1097,23.359,piecewise,agreed,claude,172.921,127.793,,1785.1,2163.5
+FC-6D,1,n147,trace,40,1825,2162.0,0,5.5,,,179.744,130.793,0.1113,25.106,piecewise,agreed,claude,179.744,131.362,,1825.1,2162.0
+FC-6D,1,n147,trace,41,1840,2162.0,0,5.5,,,182.3012,130.208,0.1115,25.107,piecewise,agreed,claude,182.301,130.768,,1840.1,2162.0
+FC-6D,1,n147,trace,42,1885,2161.5,0,6.0,,,189.974,130.205,0.1132,26.864,piecewise,agreed,claude,189.974,125.867,,1885.2,2162.9
+FC-6D,1,n147,trace,43,1905,2161.5,0,6.0,,,193.3837,129.425,0.1134,26.865,piecewise,agreed,claude,193.384,130.338,,1905.2,2161.4
+FC-6D,1,n147,trace,44,1955,2159.5,0,6.0,,,201.914,134.488,0.1133,26.851,piecewise,agreed,claude,201.914,135.089,,1955.3,2159.5
+FC-6D,1,n147,trace,45,2000,2159.5,0,6.0,,,209.5911,132.732,0.1111,26.854,piecewise,agreed,claude,209.591,133.083,,2000.2,2159.6
+FC-6D,1,n147,trace,46,2015,2159.5,0,6.0,,,212.1501,132.147,0.1103,26.855,piecewise,agreed,claude,212.150,129.282,,2015.2,2160.5
+FC-6D,1,n147,trace,47,2055,2159.5,0,6.0,,,218.9742,130.586,0.1083,26.858,piecewise,agreed,claude,218.974,131.223,,2055.2,2159.5
+FC-6D,1,n147,trace,48,2060,2159.5,0,6.0,,,219.8272,130.391,0.1081,26.858,piecewise,agreed,claude,219.827,131.030,,2060.2,2159.5
+FC-6D,1,n147,trace,49,2070,2159.5,0,6.0,,,221.5333,130.001,0.1076,26.859,piecewise,agreed,claude,221.533,130.643,,2070.1,2159.5
+FC-6D,1,n147,trace,50,2080,2159.5,0,6.0,,,223.2393,129.611,0.1071,26.859,piecewise,agreed,claude,223.239,130.350,,2080.1,2159.5
+FC-6D,1,n147,trace,51,2120,2159.5,0,6.0,,,230.0634,128.051,0.1051,26.862,piecewise,agreed,claude,230.063,130.249,,2120.1,2159.1
+FC-6D,1,n147,trace,52,2135,2159.5,0,6.0,,,232.6225,127.465,0.1043,26.863,piecewise,agreed,claude,232.623,128.131,,2135.1,2159.5
+FC-6D,1,n147,trace,53,2175,2159.5,0,6.0,,,239.4467,125.905,0.1023,26.866,piecewise,agreed,claude,239.447,126.478,,2175.0,2159.5
+FC-6D,1,n147,trace,54,2192,2160.5,0,5,,last clean ink; to the right the dash runs into the left side of the triangle on the 250 gridline,242.3446,121.736,0.0991,23.361,piecewise,agreed,claude,242.345,115.399,,2192.0,2162.5
+FC-6D,1,n147,trace,78,2196,2163.0,1,7.5,,Column dark-run center; guide used only to select ink.,243.0199,113.511,0.2736,30.709,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 217 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n147,trace,79,2204,2165.0,1,9.5,,Column dark-run center; guide used only to select ink.,244.3815,106.193,0.2782,37.729,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 075 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n147,trace,80,2205,2165,1,6.5,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,244.5523,106.155,0.2712,27.208,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 075 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,feature,1,828,2069.0,0,5.5,,feature: first point of the drawn line,12.9977,496.317,0.0944,24.232,piecewise,resolved,claude,13.7893,492.862,second round: the claude reading is on the feature; credit claude (blind adjudication item 218 (Claude's adjudicator: q; Codex's: q)),833,2070
+FC-6D,1,n1761,feature,2,2205,1730.5,5,6,,"feature: peak of the drawn line; the line rises to its end, maximum at the last ink",245.5633,1609.737,0.9528,23.668,piecewise,agreed,claude,245.724,1608.426,,2206,1731
+FC-6D,1,n1761,feature,3,2208,1731.5,0,5,,feature: last point of the drawn line,246.0722,1606.219,0.0979,20.071,piecewise,agreed,claude,245.724,1608.426,,2206,1731
+FC-6D,1,n1761,marker,1,814.0,2082.5,2,2,circle,,10.7542,449.464,0.4009,12.107,piecewise,agreed,claude,10.686,453.248,,813.5,2081.5
+FC-6D,1,n1761,marker,2,935.5,2007.5,2,2,circle,,30.1177,708.004,0.4004,11.467,piecewise,agreed,claude,30.1093,708.257,,935.5,2007.5
+FC-6D,1,n1761,marker,3,1050.5,1947.5,3,3,circle,right side on the 50 gridline,48.4215,914.072,0.5604,14.516,piecewise,agreed,claude,48.5504,909.003,,1051.5,1949.0
+FC-6D,1,n1761,marker,4,1165.5,1912.0,3,3,circle,bottom on the 1000 gridline,68.0824,1033.053,0.6079,13.821,piecewise,agreed,claude,68.0549,1029.86,,1165.5,1913.0
+FC-6D,1,n1761,marker,5,1279.0,1876.5,2,2,circle,,87.617,1149.458,0.4336,10.289,piecewise,agreed,claude,87.6,1153.058,,1279.0,1875.5
+FC-6D,1,n1761,marker,6,1395.0,1839.5,2,2,circle,,107.5033,1270.84,0.4307,10.198,piecewise,agreed,claude,107.237,1271.097,,1393.5,1839.5
+FC-6D,1,n1761,marker,7,1510.0,1824.5,2,2,circle,,127.033,1317.375,0.4346,10.163,piecewise,agreed,claude,126.9494,1321.011,,1509.5,1823.5
+FC-6D,1,n1761,marker,8,1633.5,1807.5,3,3,circle,right side on the 150 gridline,148.0062,1370.369,0.6108,13.566,piecewise,agreed,claude,147.9308,1370.625,,1633.0,1807.5
+FC-6D,1,n1761,marker,9,1750.0,1795.5,2,2,circle,,167.874,1406.616,0.4426,10.095,piecewise,agreed,claude,167.8705,1410.28,,1750.0,1794.5
+FC-6D,1,n1761,marker,10,1861.5,1764.0,2,2,circle,,186.948,1509.37,0.4438,10.018,piecewise,agreed,claude,186.9276,1513.077,,1861.5,1763.0
+FC-6D,1,n1761,marker,11,1986.5,1744.5,2,2,circle,,208.2937,1570.759,0.4426,9.972,piecewise,agreed,claude,208.2644,1571.111,,1986.5,1744.5
+FC-6D,1,n1761,marker,12,2148.5,1729.5,2,2,circle,,235.9371,1615.368,0.4348,9.937,piecewise,agreed,claude,235.9255,1619.183,,2148.5,1728.5
+FC-6D,1,n1761,marker,13,2227.0,1724.0,3,3,circle,on the 250 gridline,249.3275,1630.966,0.6038,13.367,piecewise,agreed,claude,248.8104,1633.228,,2224.0,1723.5
+FC-6D,1,n1761,trace,1,828,2069.0,0,5.5,,"first ink of the drawn line, right of the first circle",12.9977,496.317,0.0944,24.232,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 077 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,2,835,2068.0,0,7.5,,,14.1045,499.552,0.0996,31.265,piecewise,one-sided-verified,claude,14.104,498.346,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 077 (Claude's adjudicator: all yes; Codex's: all yes)",835.0,2068.4
+FC-6D,1,n1761,trace,3,850,2058.5,0,8.0,,,16.4955,532.319,0.1008,32.943,piecewise,agreed,claude,16.495,529.400,,850.0,2059.4
+FC-6D,1,n1761,trace,4,865,2050.0,0,7.5,,,18.884,561.572,0.0995,31.11,piecewise,agreed,claude,18.884,563.285,,865.0,2049.6
+FC-6D,1,n1761,trace,5,880,2041.0,0,7.5,,,21.2739,592.581,0.0995,31.033,piecewise,agreed,claude,21.274,595.108,,880.0,2040.4
+FC-6D,1,n1761,trace,6,895,2032.0,0,7.5,,,23.6639,623.588,0.0994,30.956,piecewise,agreed,claude,23.664,622.043,,895.0,2032.5
+FC-6D,1,n1761,trace,7,915,2023.5,0,6.0,,,26.8414,652.64,0.0954,25.604,piecewise,agreed,claude,26.841,655.200,,915.0,2022.8
+FC-6D,1,n1761,trace,8,955,1999.5,0,6.0,,,33.2153,735.317,0.0953,25.398,piecewise,agreed,claude,33.215,741.765,,955.0,1997.7
+FC-6D,1,n1761,trace,9,970,1992.5,0,7.0,,,35.6004,759.297,0.0979,28.858,piecewise,agreed,claude,35.600,760.963,,970.1,1992.1
+FC-6D,1,n1761,trace,10,985,1985.0,0,6.5,,,37.9869,785.032,0.0965,27.034,piecewise,agreed,claude,37.987,783.338,,985.1,1985.6
+FC-6D,1,n1761,trace,11,1000,1979.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,40.3695,805.5,0.1018,34.022,piecewise,agreed,claude,40.370,807.057,,1000.1,1978.6
+FC-6D,1,n1761,trace,12,1015,1971.0,0,7.5,,,42.7574,832.988,0.0991,30.434,piecewise,agreed,claude,42.757,830.773,,1015.1,1971.7
+FC-6D,1,n1761,trace,13,1030,1965.0,0,7.5,,,45.1401,853.454,0.0991,30.383,piecewise,agreed,claude,45.140,849.946,,1030.2,1966.1
+FC-6D,1,n1761,trace,14,1070,1945.5,0,6.0,,,51.632,920.313,0.1031,24.938,piecewise,agreed,claude,51.632,918.968,,1070.2,1945.9
+FC-6D,1,n1761,trace,15,1085,1941.0,0,7.5,,,54.2138,935.511,0.1073,30.179,piecewise,agreed,claude,54.214,934.160,,1085.2,1941.4
+FC-6D,1,n1761,trace,16,1100,1934.0,0,6.5,,,56.8028,959.484,0.1044,26.6,piecewise,agreed,claude,56.803,960.037,,1100.2,1933.9
+FC-6D,1,n1761,trace,17,1130,1923.0,0,7.5,,"crossing of the 1000 gridline: the gridline lies inside the line band, so the run is the line band",61.9719,996.896,0.1072,30.025,piecewise,agreed,claude,61.972,995.544,,1130.2,1923.4
+FC-6D,1,n1761,trace,29,1136,1921.5,1,6.0,,Column dark-run center; guide used only to select ink.,62.9779,1002.08,0.2741,24.645,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 219 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,30,1183,1903.5,1,6.0,,Column dark-run center; guide used only to select ink.,71.0792,1061.51,0.2739,23.939,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 219 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,18,1185,1902.5,0,7.0,,,71.4485,1064.629,0.1055,27.305,piecewise,agreed,claude,71.448,1063.617,,1185.1,1902.9
+FC-6D,1,n1761,trace,19,1200,1898.0,0,6.5,,,74.0297,1079.362,0.104,25.591,piecewise,agreed,claude,74.030,1078.343,,1200.1,1898.4
+FC-6D,1,n1761,trace,20,1215,1893.5,0,7.0,,,76.6109,1094.094,0.1054,27.283,piecewise,agreed,claude,76.611,1095.124,,1215.1,1893.3
+FC-6D,1,n1761,trace,21,1230,1887.5,0,7.0,,,79.1962,1113.931,0.1053,27.268,piecewise,agreed,claude,79.196,1111.207,,1230.1,1888.4
+FC-6D,1,n1761,trace,22,1250,1883.5,0,6.0,,,82.632,1126.765,0.1024,23.852,piecewise,agreed,claude,82.632,1128.099,,1250.1,1883.2
+FC-6D,1,n1761,trace,34,1251,1883.0,1,5.5,,Column dark-run center; guide used only to select ink.,82.7835,1128.627,0.2723,22.233,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 220 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,23,1300,1866.5,0,5.0,,,91.2404,1182.671,0.0995,20.403,piecewise,agreed,claude,91.240,1181.868,,1300.1,1866.8
+FC-6D,1,n1761,trace,24,1315,1863.5,0,7.0,,,93.8169,1192.295,0.105,27.207,piecewise,agreed,claude,93.817,1191.880,,1315.1,1863.7
+FC-6D,1,n1761,trace,25,1330,1861.0,0,7.5,,,96.392,1200.217,0.1063,28.904,piecewise,agreed,claude,96.392,1203.037,,1330.1,1860.2
+FC-6D,1,n1761,trace,26,1340,1857.5,0,7.0,,,98.1138,1211.737,0.1049,27.192,piecewise,agreed,claude,98.114,1211.165,,1340.1,1857.7
+FC-6D,1,n1761,trace,27,1365,1851.5,0,7.0,,,102.3863,1231.178,0.1042,27.177,piecewise,agreed,claude,102.386,1230.550,,1365.1,1851.7
+FC-6D,1,n1761,trace,28,1375,1851.0,0,4.5,,,104.0826,1232.488,0.0978,18.662,piecewise,agreed,claude,104.083,1234.615,,1375.1,1850.4
+FC-6D,1,n1761,trace,29,1415,1839.5,0,5.0,,,110.893,1270.057,0.1004,20.336,piecewise,agreed,claude,110.893,1270.306,,1415.1,1839.5
+FC-6D,1,n1761,trace,30,1430,1837.5,0,6.0,,,113.4405,1276.275,0.1035,23.737,piecewise,agreed,claude,113.441,1282.452,,1430.0,1835.7
+FC-6D,1,n1761,trace,31,1445,1832.5,0,6.0,,,115.996,1292.701,0.104,23.724,piecewise,agreed,claude,115.996,1291.228,,1445.1,1833.0
+FC-6D,1,n1761,trace,32,1460,1831.5,0,6.0,,,118.5409,1295.516,0.1045,23.722,piecewise,agreed,claude,118.541,1297.005,,1460.0,1831.1
+FC-6D,1,n1761,trace,33,1475,1830.0,0,7.5,,,121.087,1300.033,0.1089,28.826,piecewise,agreed,claude,121.087,1300.265,,1475.0,1830.0
+FC-6D,1,n1761,trace,34,1490,1827.0,0,4.5,,,123.637,1309.653,0.1015,18.603,piecewise,agreed,claude,123.637,1312.964,,1490.0,1826.1
+FC-6D,1,n1761,trace,35,1530,1819.5,0,6.0,,,130.4355,1333.603,0.1066,23.692,piecewise,agreed,claude,130.435,1338.743,,1530.0,1818.1
+FC-6D,1,n1761,trace,36,1545,1816.5,0,6.0,,,132.9853,1343.222,0.1071,23.684,piecewise,agreed,claude,132.985,1345.814,,1545.0,1815.8
+FC-6D,1,n1761,trace,37,1560,1813.5,0,6.0,,,135.5351,1352.84,0.1076,23.677,piecewise,agreed,claude,135.535,1355.087,,1560.0,1812.9
+FC-6D,1,n1761,trace,38,1575,1810.5,0,6.0,,,138.0848,1362.458,0.108,23.669,piecewise,agreed,claude,138.085,1364.027,,1575.0,1810.1
+FC-6D,1,n1761,trace,39,1590,1807.5,0,6.0,,,140.6345,1372.076,0.1085,23.662,piecewise,agreed,claude,140.635,1372.372,,1590.0,1807.5
+FC-6D,1,n1761,trace,40,1610,1804.0,0,4.5,,,144.0327,1383.198,0.1053,18.546,piecewise,agreed,claude,144.033,1382.937,,1610.0,1804.1
+FC-6D,1,n1761,trace,41,1655,1796.0,0,5.5,,,151.6876,1408.647,0.1096,21.931,piecewise,agreed,claude,151.688,1408.861,,1654.9,1796.0
+FC-6D,1,n1761,trace,42,1670,1793.5,0,6.0,,,154.2494,1416.562,0.111,23.627,piecewise,agreed,claude,154.249,1415.943,,1670.0,1793.8
+FC-6D,1,n1761,trace,43,1685,1791.5,0,7.0,,,156.81,1422.776,0.1137,27.026,piecewise,agreed,claude,156.810,1421.321,,1685.0,1792.0
+FC-6D,1,n1761,trace,44,1700,1791.0,0,7.5,,,159.3668,1423.887,0.1151,28.727,piecewise,agreed,claude,159.367,1427.950,,1700.0,1789.9
+FC-6D,1,n1761,trace,45,1715,1787.0,0,6.5,,,161.9324,1436.905,0.1127,25.313,piecewise,agreed,claude,161.932,1438.862,,1715.0,1786.5
+FC-6D,1,n1761,trace,46,1725,1786.5,0,6.0,,,163.6373,1438.212,0.1116,23.61,piecewise,agreed,claude,163.637,1441.308,,1725.0,1785.7
+FC-6D,1,n1761,trace,56,1727,1785.5,1,4.0,,Column dark-run center; guide used only to select ink.,163.978,1441.797,0.2815,17.108,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 221 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,57,1767,1779.5,1,5.0,,Column dark-run center; guide used only to select ink.,170.8015,1460.645,0.2809,20.509,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 221 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,47,1770,1779.0,0,7.5,,,171.3225,1461.954,0.1158,28.697,piecewise,agreed,claude,171.322,1461.565,,1770.1,1779.2
+FC-6D,1,n1761,trace,48,1785,1777.5,0,6.0,,,173.8817,1466.466,0.1122,23.587,piecewise,agreed,claude,173.882,1466.085,,1785.1,1777.7
+FC-6D,1,n1761,trace,49,1800,1775.0,0,6.5,,,176.4434,1474.379,0.1136,25.283,piecewise,agreed,claude,176.443,1472.832,,1800.1,1775.5
+FC-6D,1,n1761,trace,50,1815,1772.5,0,6.0,,,179.0051,1482.292,0.1125,23.575,piecewise,agreed,claude,179.005,1477.842,,1815.1,1773.9
+FC-6D,1,n1761,trace,51,1830,1771.5,0,6.0,,,181.563,1485.102,0.1126,23.572,piecewise,agreed,claude,181.563,1483.094,,1830.1,1772.2
+FC-6D,1,n1761,trace,52,1840,1769.0,0,6.5,,,183.2728,1493.212,0.1139,25.268,piecewise,agreed,claude,183.273,1491.713,,1840.1,1769.5
+FC-6D,1,n1761,trace,61,1844,1768.5,1,6.0,,Column dark-run center; guide used only to select ink.,183.9352,1495.052,0.2775,23.908,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 222 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,62,1884,1763.0,1,3.5,,Column dark-run center; guide used only to select ink.,190.7573,1512.196,0.2682,15.402,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 222 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,53,1885,1762.5,0,6.0,,,190.9552,1513.546,0.1131,23.55,piecewise,agreed,claude,190.955,1512.447,,1885.2,1762.9
+FC-6D,1,n1761,trace,54,1900,1762.5,0,6.0,,,193.5106,1512.955,0.1133,23.55,piecewise,agreed,claude,193.511,1515.685,,1900.2,1761.8
+FC-6D,1,n1761,trace,55,1915,1759.5,0,6.0,,,196.0734,1522.567,0.1134,23.543,piecewise,agreed,claude,196.073,1519.885,,1915.2,1760.4
+FC-6D,1,n1761,trace,56,1925,1759.5,0,6.0,,,197.777,1522.173,0.1135,23.543,piecewise,agreed,claude,197.777,1523.498,,1925.2,1759.2
+FC-6D,1,n1761,trace,57,1950,1754.5,0,6.0,,,202.049,1538.192,0.1131,23.53,piecewise,agreed,claude,202.049,1534.484,,1950.2,1755.7
+FC-6D,1,n1761,trace,58,1960,1754.0,0,6.5,,,203.7544,1539.498,0.1139,25.231,piecewise,agreed,claude,203.754,1539.397,,1960.2,1754.1
+FC-6D,1,n1761,trace,67,1961,1754.0,1,5.5,,Column dark-run center; guide used only to select ink.,203.8929,1539.796,0.2693,22.204,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 223 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,68,2010,1749.0,1,4.5,,Column dark-run center; guide used only to select ink.,212.2605,1554.884,0.2667,18.801,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 223 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n1761,trace,59,2010,1749.0,0,7.5,,,212.2877,1554.529,0.1138,28.621,piecewise,agreed,claude,212.288,1554.918,,2010.2,1749.0
+FC-6D,1,n1761,trace,60,2025,1747.5,0,6.0,,,214.8476,1559.039,0.1094,23.513,piecewise,agreed,claude,214.848,1558.157,,2025.2,1747.9
+FC-6D,1,n1761,trace,61,2040,1745.0,0,6.5,,,217.41,1566.948,0.1098,25.208,piecewise,agreed,claude,217.410,1563.987,,2040.2,1746.0
+FC-6D,1,n1761,trace,62,2055,1744.5,0,6.0,,,219.9675,1568.056,0.1079,23.505,piecewise,agreed,claude,219.968,1570.166,,2055.1,1744.0
+FC-6D,1,n1761,trace,63,2070,1742.0,0,6.5,,,222.5297,1575.965,0.1083,25.201,piecewise,agreed,claude,222.530,1574.704,,2070.1,1742.5
+FC-6D,1,n1761,trace,64,2085,1741.5,0,6.0,,,225.0872,1577.074,0.1064,23.498,piecewise,agreed,claude,225.087,1581.754,,2085.1,1740.2
+FC-6D,1,n1761,trace,65,2100,1739.0,0,6.5,,,227.6495,1584.982,0.1068,25.193,piecewise,agreed,claude,227.649,1585.386,,2100.1,1739.0
+FC-6D,1,n1761,trace,66,2115,1738.5,0,6.0,,,230.2069,1586.09,0.1049,23.491,piecewise,agreed,claude,230.207,1587.848,,2115.1,1738.1
+FC-6D,1,n1761,trace,67,2130,1737.0,0,4.5,,,232.7668,1590.598,0.1006,18.383,piecewise,agreed,claude,232.767,1591.295,,2130.1,1736.9
+FC-6D,1,n1761,trace,68,2170,1733.0,0,6.5,,,239.5929,1602.619,0.1033,25.178,piecewise,agreed,claude,239.593,1600.672,,2170.1,1733.7
+FC-6D,1,n1761,trace,69,2185,1732.5,0,6.0,,,242.1503,1603.727,0.1014,23.476,piecewise,agreed,claude,242.150,1603.907,,2185.1,1732.6
+FC-6D,1,n1761,trace,70,2205,1730.5,0,6.0,,,245.5633,1609.737,0.1004,23.471,piecewise,one-sided-verified,claude,245.563,1610.078,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 078 (Claude's adjudicator: all yes; Codex's: all yes)",2205.1,1730.5
+FC-6D,1,n1761,trace,71,2208,1731.5,0,5,,last ink of the drawn line before the circle on the 250 gridline,246.0722,1606.219,0.0979,20.071,piecewise,one-sided-verified,claude,246.072,1608.426,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 078 (Claude's adjudicator: all yes; Codex's: all yes)",2206.0,1731.0
+FC-6D,1,n2934,feature,2,2190,1423.5,20,6,,feature: peak of the drawn line; flat at v 1423.5 from u 2125 to the end,243.7223,2660.755,3.5075,25.249,piecewise,agreed,claude,246.7719,2661.302,,2208,1423.5
+FC-6D,1,n2934,feature,3,2208,1423.5,0,6,,feature: last point of the drawn line,246.7874,2660.044,0.1,24.457,piecewise,agreed,claude,246.7719,2661.302,,2208,1423.5
+FC-6D,1,n2934,marker,1,825.0,1999.5,2,2,square,curve ink touches the top-right corner,12.7051,740.487,0.4009,11.388,piecewise,agreed,claude,12.8689,740.689,,826.0,1999.5
+FC-6D,1,n2934,marker,2,933.0,1846.5,2,2,square,,30.1477,1265.101,0.4005,10.208,piecewise,agreed,claude,30.2941,1263.502,,934.0,1847.0
+FC-6D,1,n2934,marker,3,1050.5,1803.0,3,3,square,right side on the 50 gridline,48.8081,1408.583,0.5605,13.547,piecewise,agreed,claude,48.7044,1412.129,,1050.0,1802.0
+FC-6D,1,n2934,marker,4,1163.0,1699.5,2,2,square,,68.2596,1756.45,0.4335,9.845,piecewise,agreed,claude,68.1478,1756.555,,1162.5,1699.5
+FC-6D,1,n2934,marker,5,1277.0,1645.5,2,2,square,,87.918,1935.704,0.4333,9.712,piecewise,agreed,claude,87.985,1935.793,,1277.5,1645.5
+FC-6D,1,n2934,marker,6,1389.0,1587.5,2,2,square,,107.1644,2129.675,0.4302,9.951,piecewise,agreed,claude,107.1515,2126.428,,1389.0,1588.5
+FC-6D,1,n2934,marker,7,1507.2,1535.3,2,2,square,,127.3128,2304.066,0.4341,10.22,piecewise,agreed,claude,127.1092,2307.175,,1506.0,1534.5
+FC-6D,1,n2934,marker,8,1624.0,1496.8,2,2,square,,147.1815,2431.54,0.438,10.418,piecewise,agreed,claude,147.0195,2436.511,,1623.0,1495.5
+FC-6D,1,n2934,marker,9,1739.5,1464.0,2,2,square,,166.9137,2539.536,0.4423,10.585,piecewise,agreed,claude,166.6504,2536.796,,1738,1465
+FC-6D,1,n2934,marker,10,1856.5,1433.5,2,2,square,,186.9106,2639.606,0.4435,10.74,piecewise,agreed,claude,186.8048,2635.3,,1856.0,1435.0
+FC-6D,1,n2934,marker,11,1969.5,1420.5,2,2,square,,206.1826,2679.774,0.4428,10.804,piecewise,agreed,claude,206.2447,2680.745,,1970.0,1420.5
+FC-6D,1,n2934,marker,12,2149.0,1421.0,2,2,square,,236.7466,2670.963,0.4342,10.792,piecewise,agreed,claude,236.56,2673.919,,2148.0,1420.5
+FC-6D,1,n2934,marker,13,2225.5,1420.0,3,3,square,on the 250 gridline,249.7754,2671.373,0.6043,14.273,piecewise extrapolated x,agreed,claude,249.0825,2677.975,,2221.5,1418.5
+FC-6D,1,n2934,trace,14,833,1980.5,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,14.0217,807.126,0.2882,21.378,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 225 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,1,838,1977.5,0,8,,"first ink of the drawn line, just above the top-right corner of the first square",14.8134,817.223,0.1009,32.24,piecewise,one-sided-verified,claude,14.813,818.999,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 079 (Claude's adjudicator: all yes; Codex's: all yes)",838.0,1977.1
+FC-6D,1,n2934,trace,2,842,1975.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,15.4497,824.086,0.1035,35.743,piecewise,one-sided-verified,claude,15.450,828.542,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 079 (Claude's adjudicator: all yes; Codex's: all yes)",842.0,1974.3
+FC-6D,1,n2934,trace,3,857,1961.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,17.8543,874.403,0.1022,33.858,piecewise,agreed,claude,17.854,871.579,,857.0,1961.9
+FC-6D,1,n2934,trace,4,872,1947.5,0,8.0,,,20.2564,921.208,0.1008,31.981,piecewise,agreed,claude,20.256,921.280,,872.0,1947.5
+FC-6D,1,n2934,trace,5,882,1939.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,21.8552,948.898,0.1034,35.433,piecewise,agreed,claude,21.855,958.490,,882.0,1936.8
+FC-6D,1,n2934,trace,6,897,1925.5,0,9,,"crossing of the 1000 gridline: the gridline lies inside the line band, so the run is the line band",24.2588,997.455,0.1034,35.312,piecewise,agreed,claude,24.259,998.880,,897.0,1925.1
+FC-6D,1,n2934,trace,7,917,1908.5,0,8.0,,,27.4594,1054.635,0.1007,30.728,piecewise,agreed,claude,27.459,1052.959,,917.1,1909.1
+FC-6D,1,n2934,trace,8,932,1896.0,0,7.5,,,29.8594,1096.61,0.0993,28.993,piecewise,agreed,claude,29.859,1095.354,,932.1,1896.4
+FC-6D,1,n2934,trace,9,947,1883.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,32.2608,1140.285,0.102,32.367,piecewise,agreed,claude,32.261,1137.713,,947.1,1883.8
+FC-6D,1,n2934,trace,10,962,1871.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,34.6597,1180.554,0.1019,32.337,piecewise,agreed,claude,34.660,1180.298,,962.1,1871.1
+FC-6D,1,n2934,trace,11,977,1857.5,0,8.0,,,37.0627,1225.929,0.1006,30.6,piecewise,agreed,claude,37.063,1223.186,,977.1,1858.4
+FC-6D,1,n2934,trace,12,992,1845.5,0,8.0,,,39.4618,1266.195,0.1005,30.57,piecewise,agreed,claude,39.462,1266.001,,992.1,1845.6
+FC-6D,1,n2934,trace,13,1007,1834.0,0,7.5,,,41.8598,1304.758,0.0992,28.837,piecewise,agreed,claude,41.860,1306.591,,1007.1,1833.5
+FC-6D,1,n2934,trace,14,1027,1820.0,0,6.5,,,45.0536,1351.634,0.0964,25.395,piecewise,agreed,claude,45.054,1350.124,,1027.2,1820.5
+FC-6D,1,n2934,trace,15,1072,1783.0,0,7.5,,,52.4456,1475.82,0.1073,28.709,piecewise,agreed,claude,52.446,1477.509,,1072.2,1782.5
+FC-6D,1,n2934,trace,16,1087,1773.0,0,7.5,,,55.042,1509.27,0.1073,28.684,piecewise,agreed,claude,55.042,1511.367,,1087.2,1772.4
+FC-6D,1,n2934,trace,17,1102,1763.0,0,6.5,,,57.6382,1542.719,0.1043,25.253,piecewise,agreed,claude,57.638,1546.247,,1102.2,1762.0
+FC-6D,1,n2934,trace,18,1117,1752.0,0,7.5,,,60.2372,1579.57,0.1071,28.632,piecewise,agreed,claude,60.237,1580.199,,1117.2,1751.8
+FC-6D,1,n2934,trace,19,1132,1742.0,0,6.5,,,62.8331,1613.016,0.1042,25.2,piecewise,agreed,claude,62.833,1613.518,,1132.2,1741.9
+FC-6D,1,n2934,trace,20,1152,1727.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,66.2988,1663.282,0.1098,31.975,piecewise,agreed,claude,66.299,1663.767,,1152.2,1726.9
+FC-6D,1,n2934,trace,21,1182,1703.0,0,3.5,,,71.501,1743.783,0.0955,14.884,piecewise,agreed,claude,71.501,1739.197,,1182.2,1704.4
+FC-6D,1,n2934,trace,22,1197,1698.0,0,7.5,,,74.082,1760.206,0.1068,28.496,piecewise,agreed,claude,74.082,1766.705,,1197.1,1696.1
+FC-6D,1,n2934,trace,23,1212,1688.0,0,6.5,,,76.6771,1793.646,0.1039,25.065,piecewise,agreed,claude,76.677,1793.652,,1212.1,1688.0
+FC-6D,1,n2934,trace,24,1227,1677.5,0,7.0,,,79.2733,1828.787,0.1052,26.742,piecewise,agreed,claude,79.273,1822.259,,1227.2,1679.4
+FC-6D,1,n2934,trace,25,1242,1669.0,0,7.5,,,81.8638,1857.119,0.1066,28.423,piecewise,agreed,claude,81.864,1854.791,,1242.1,1669.7
+FC-6D,1,n2934,trace,26,1257,1664.0,0,3.5,,,84.4444,1873.539,0.0953,14.787,piecewise,agreed,claude,84.444,1876.060,,1257.1,1663.3
+FC-6D,1,n2934,trace,27,1300,1636.5,0,6,,dash just before it meets the 2000 gridline,91.8782,1965.415,0.1022,23.233,piecewise,agreed,claude,91.878,1967.560,,1300.1,1635.9
+FC-6D,1,n2934,trace,28,1315,1627.5,0,6,,"crossing of the 2000 gridline: the gridline lies inside the line band, so the run is the line band",94.4694,1995.445,0.1021,23.371,piecewise,agreed,claude,94.469,1993.785,,1315.1,1628.0
+FC-6D,1,n2934,trace,29,1320,1625.5,0,6,,"crossing of the 2000 gridline: the gridline lies inside the line band, so the run is the line band",95.3304,2002.068,0.1021,23.419,piecewise,agreed,claude,95.330,2002.707,,1320.1,1625.4
+FC-6D,1,n2934,trace,38,1338,1615.5,1,6.0,,Column dark-run center; guide used only to select ink.,98.4233,2035.792,0.2733,24.091,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 226 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,39,1341,1614.5,1,7.0,,Column dark-run center; guide used only to select ink.,98.9395,2039.104,0.2761,27.522,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 226 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,40,1354,1607.0,1,6.5,,Column dark-run center; guide used only to select ink.,101.1729,2064.325,0.2724,25.805,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 226 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,30,1365,1602.0,0,7.5,,,103.0618,2080.887,0.1056,28.696,piecewise,agreed,claude,103.062,2080.355,,1365.1,1602.2
+FC-6D,1,n2934,trace,31,1370,1600.5,0,6.0,,,103.9124,2085.832,0.1017,23.549,piecewise,agreed,claude,103.912,2087.772,,1370.1,1600.0
+FC-6D,1,n2934,trace,32,1410,1580.0,0,5.5,,,110.7399,2154.567,0.1016,21.938,piecewise,agreed,claude,110.740,2153.232,,1410.1,1580.4
+FC-6D,1,n2934,trace,33,1425,1575.0,0,7.5,,,113.2928,2171.122,0.1074,28.837,piecewise,agreed,claude,113.293,2171.565,,1425.0,1574.9
+FC-6D,1,n2934,trace,34,1440,1567.5,0,6.0,,,115.8522,2196.256,0.1039,23.721,piecewise,agreed,claude,115.852,2193.838,,1440.1,1568.3
+FC-6D,1,n2934,trace,35,1455,1561.5,0,6.0,,,118.4075,2216.244,0.1043,23.752,piecewise,agreed,claude,118.407,2220.473,,1455.0,1560.3
+FC-6D,1,n2934,trace,36,1470,1555.0,0,7.5,,,120.964,2237.949,0.1087,28.941,piecewise,agreed,claude,120.964,2248.141,,1470.0,1552.1
+FC-6D,1,n2934,trace,37,1480,1552.0,0,6.5,,,122.6647,2247.844,0.1064,25.52,piecewise,agreed,claude,122.665,2251.554,,1480.0,1551.0
+FC-6D,1,n2934,trace,46,1482,1551.0,1,4.5,,Column dark-run center; guide used only to select ink.,123.0018,2251.476,0.2761,18.933,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 227 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,47,1527,1532.0,1,4.5,,Column dark-run center; guide used only to select ink.,130.6717,2314.936,0.2793,18.93,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 227 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,38,1530,1531.0,0,6.5,,,131.1835,2317.912,0.1079,25.629,piecewise,agreed,claude,131.184,2318.174,,1530.0,1531.0
+FC-6D,1,n2934,trace,39,1545,1525.5,0,6.0,,,133.7367,2336.188,0.1071,23.939,piecewise,agreed,claude,133.737,2334.328,,1545.0,1526.1
+FC-6D,1,n2934,trace,40,1560,1520.5,0,7.0,,,136.2886,2352.749,0.1101,27.402,piecewise,agreed,claude,136.289,2350.476,,1560.0,1521.3
+FC-6D,1,n2934,trace,41,1575,1515.0,0,7.5,,,138.8417,2371.027,0.1119,29.149,piecewise,agreed,claude,138.842,2368.001,,1575.0,1516.0
+FC-6D,1,n2934,trace,42,1590,1510.0,0,6.5,,,141.3934,2387.59,0.1098,25.738,piecewise,agreed,claude,141.393,2386.163,,1590.0,1510.5
+FC-6D,1,n2934,trace,43,1600,1507.0,0,6.5,,,143.0936,2397.488,0.1101,25.754,piecewise,agreed,claude,143.094,2396.803,,1600.0,1507.3
+FC-6D,1,n2934,trace,51,1601,1507.0,1,5.5,,Column dark-run center; guide used only to select ink.,143.2657,2397.88,0.2872,22.361,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 228 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,52,1647,1489.5,1,6.0,,Column dark-run center; guide used only to select ink.,151.1035,2456.181,0.2922,24.076,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 228 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n2934,trace,44,1650,1489.0,0,6.5,,,151.6114,2457.278,0.1121,25.847,piecewise,agreed,claude,151.611,2458.619,,1650.0,1488.8
+FC-6D,1,n2934,trace,45,1665,1485.0,0,7.5,,,154.1756,2470.411,0.1147,29.306,piecewise,agreed,claude,154.176,2470.925,,1665.0,1485.0
+FC-6D,1,n2934,trace,46,1680,1480.0,0,6.5,,,156.7424,2486.977,0.1124,25.894,piecewise,agreed,claude,156.742,2487.692,,1680.0,1480.0
+FC-6D,1,n2934,trace,47,1695,1475.5,0,7.0,,,159.3078,2501.827,0.1138,27.636,piecewise,agreed,claude,159.308,2502.403,,1695.0,1475.5
+FC-6D,1,n2934,trace,48,1710,1471.0,0,6.5,,,161.8732,2516.678,0.1127,25.94,piecewise,agreed,claude,161.873,2512.593,,1710.0,1472.4
+FC-6D,1,n2934,trace,49,1720,1472.0,0,4.5,,,163.5734,2512.849,0.1078,19.059,piecewise,agreed,claude,163.573,2515.459,,1720.0,1471.4
+FC-6D,1,n2934,trace,50,1760,1459.5,0,6.0,,,170.4155,2554.17,0.1119,24.281,piecewise,agreed,claude,170.416,2553.886,,1760.0,1459.8
+FC-6D,1,n2934,trace,51,1775,1457.5,0,7.0,,,172.9745,2560.441,0.1145,27.729,piecewise,agreed,claude,172.975,2561.497,,1775.1,1457.4
+FC-6D,1,n2934,trace,52,1790,1454.5,0,7.0,,,175.536,2570.145,0.1147,27.744,piecewise,agreed,claude,175.536,2569.434,,1790.1,1454.9
+FC-6D,1,n2934,trace,53,1805,1451.5,0,7.0,,,178.0975,2579.85,0.1148,27.76,piecewise,agreed,claude,178.097,2577.530,,1805.1,1452.4
+FC-6D,1,n2934,trace,54,1820,1450.0,0,6.5,,,180.6552,2584.405,0.1137,26.048,piecewise,agreed,claude,180.655,2584.680,,1820.1,1450.1
+FC-6D,1,n2934,trace,55,1835,1447.5,0,6.0,,,183.2154,2592.393,0.1126,24.342,piecewise,agreed,claude,183.215,2598.344,,1835.1,1446.0
+FC-6D,1,n2934,trace,56,1875,1441.0,0,5.5,,,190.0421,2613.125,0.1118,22.656,piecewise,agreed,claude,190.042,2613.182,,1875.1,1441.2
+FC-6D,1,n2934,trace,57,1890,1439.5,0,7.0,,,192.5997,2617.681,0.1156,27.821,piecewise,agreed,claude,192.600,2619.009,,1890.1,1439.4
+FC-6D,1,n2934,trace,58,1905,1438.5,0,6.0,,,195.1562,2620.521,0.1133,24.387,piecewise,agreed,claude,195.156,2624.176,,1905.1,1437.7
+FC-6D,1,n2934,trace,59,1920,1436.5,0,7.0,,,197.715,2626.794,0.1159,27.836,piecewise,agreed,claude,197.715,2628.758,,1920.1,1436.2
+FC-6D,1,n2934,trace,60,1945,1432.5,0,6.0,,,201.9816,2639.539,0.1131,24.417,piecewise,agreed,claude,201.982,2635.366,,1945.2,1434.0
+FC-6D,1,n2934,trace,61,1950,1433.5,0,5.0,,,202.8306,2635.908,0.1104,20.973,piecewise,agreed,claude,202.831,2636.885,,1950.1,1433.5
+FC-6D,1,n2934,trace,62,1990,1429.5,0,6.0,,,209.6516,2648.06,0.1108,24.432,piecewise,agreed,claude,209.652,2649.056,,1990.1,1429.5
+FC-6D,1,n2934,trace,63,2005,1429.0,0,6.5,,,212.207,2649.184,0.1113,26.154,piecewise,agreed,claude,212.207,2649.769,,2005.1,1429.1
+FC-6D,1,n2934,trace,64,2020,1429.0,0,6.5,,,214.7613,2648.59,0.1105,26.153,piecewise,agreed,claude,214.761,2652.219,,2020.1,1428.2
+FC-6D,1,n2934,trace,65,2035,1427.5,0,7.0,,,217.3191,2653.148,0.111,27.88,piecewise,agreed,claude,217.319,2655.070,,2035.1,1427.2
+FC-6D,1,n2934,trace,66,2050,1426.5,0,6.0,,,219.8757,2655.989,0.1078,24.446,piecewise,agreed,claude,219.876,2657.062,,2050.1,1426.5
+FC-6D,1,n2934,trace,67,2065,1426.5,0,6.0,,,222.43,2655.396,0.1071,24.445,piecewise,agreed,claude,222.430,2657.775,,2065.1,1426.1
+FC-6D,1,n2934,trace,68,2080,1426.0,0,6.5,,,224.9854,2656.519,0.1075,26.167,piecewise,agreed,claude,224.985,2658.487,,2080.1,1425.7
+FC-6D,1,n2934,trace,69,2095,1424.5,0,7.0,,,227.5432,2661.078,0.108,27.895,piecewise,agreed,claude,227.543,2659.641,,2095.1,1425.2
+FC-6D,1,n2934,trace,70,2110,1424.5,0,7.0,,,230.0974,2660.484,0.1072,27.894,piecewise,agreed,claude,230.097,2661.644,,2110.1,1424.5
+FC-6D,1,n2934,trace,71,2130,1423.5,0,6.0,,,233.5054,2663.128,0.1039,24.459,piecewise,agreed,claude,233.505,2664.292,,2130.1,1423.5
+FC-6D,1,n2934,trace,72,2170,1423.5,0,6.0,,,240.3166,2661.546,0.1019,24.458,piecewise,agreed,claude,240.317,2662.757,,2170.1,1423.5
+FC-6D,1,n2934,trace,73,2185,1423.5,0,6.0,,,242.8709,2660.953,0.1011,24.458,piecewise,agreed,claude,242.871,2662.182,,2185.1,1423.5
+FC-6D,1,n2934,trace,74,2205,1423.5,0,6.0,,,246.2765,2660.162,0.1001,24.457,piecewise,one-sided-verified,claude,246.276,2661.414,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 080 (Claude's adjudicator: all yes; Codex's: all yes)",2205.1,1423.5
+FC-6D,1,n2934,trace,75,2208,1423.5,0,6,,last ink of the drawn line before the square on the 250 gridline,246.7874,2660.044,0.1,24.457,piecewise,one-sided-verified,claude,246.787,2661.302,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 080 (Claude's adjudicator: all yes; Codex's: all yes)",2208.0,1423.5
+FC-6D,1,n3814,feature,2,2196,1102.5,8,6,,"feature: peak of the drawn line; the line still rises slightly to its end, so the maximum is at the last ink (flat within 2 px from u 2165)",245.4898,3751.632,1.4618,23.758,piecewise,agreed,claude,246.6551,3749.999,,2203,1103.5
+FC-6D,1,n3814,feature,3,2202,1102.5,0,6,,feature: last point of the drawn line,246.5106,3751.402,0.1,23.451,piecewise,agreed,claude,246.6551,3749.999,,2203,1103.5
+FC-6D,1,n3814,marker,1,812.8,1843.2,2,2,triangle-down,centroid; curve ink touches the top-right corner,11.1861,1281.045,0.4011,10.198,piecewise,agreed,claude,11.1398,1273.349,,812.5,1845.5
+FC-6D,1,n3814,marker,2,924.5,1656.3,2,2,triangle-down,centroid,29.3075,1913.003,0.4007,9.733,piecewise,agreed,claude,29.2854,1898.655,,924.5,1660.5
+FC-6D,1,n3814,marker,3,1096.5,1508.5,2,2,triangle-down,centroid,57.4302,2412.386,0.4333,10.382,piecewise,agreed,claude,57.3004,2398.654,,1096.0,1512.5
+FC-6D,1,n3814,marker,4,1152.5,1445.0,2,2,triangle-down,centroid,67.1881,2627.98,0.4332,10.713,piecewise,agreed,claude,66.9814,2619.454,,1151.5,1447.5
+FC-6D,1,n3814,marker,5,1210.5,1385.7,2,2.5,triangle-down,centroid; the drawn curve passes through the lower-left side,77.2722,2829.117,0.4344,12.741,piecewise,agreed,claude,77.1512,2814.466,,1210.0,1390.0
+FC-6D,1,n3814,marker,6,1326.5,1310.3,3,3,triangle-down,centroid; right corner on the 100 gridline and vertex on the 3000 gridline,97.3104,3082.08,0.6065,14.428,piecewise,agreed,claude,97.2928,3074.873,,1326.5,1312.5
+FC-6D,1,n3814,marker,7,1488.5,1211.0,2,2,triangle-down,centroid,124.9953,3411.741,0.4331,10.495,piecewise,agreed,claude,124.9845,3403.727,,1488.5,1213.5
+FC-6D,1,n3814,marker,8,1618.5,1172.7,3,3,triangle-down,centroid; right corner merges with the 150 gridline,147.0689,3536.305,0.609,13.73,piecewise,agreed,claude,147.0596,3525.833,,1618.5,1176.0
+FC-6D,1,n3814,marker,9,1730.5,1145.7,2,2,triangle-down,centroid,166.1769,3623.342,0.442,10.17,piecewise,agreed,claude,165.9939,3614.836,,1729.5,1148.5
+FC-6D,1,n3814,marker,10,1844.0,1117.7,2,2,triangle-down,centroid; a small speck above the top-left corner is not part of the symbol,185.5609,3713.71,0.4432,10.031,piecewise,agreed,claude,185.6278,3705.412,,1844.5,1120.5
+FC-6D,1,n3814,marker,11,1975.5,1103.0,2,2,triangle-down,centroid,207.9725,3758.397,0.4419,9.963,piecewise,agreed,claude,207.8652,3751.46,,1975.0,1105.5
+FC-6D,1,n3814,marker,12,2140.5,1100.3,2,2,triangle-down,centroid,236.0521,3761.204,0.434,9.959,piecewise,agreed,claude,235.9404,3755.659,,2140.0,1102.5
+FC-6D,1,n3814,marker,13,2221.5,1099.5,3,3,triangle-down,"centroid; on the 250 gridline, vertex hidden in it",249.8353,3760.804,0.604,13.386,piecewise extrapolated x,agreed,claude,250.2286,3750.934,,2224,1103
+FC-6D,1,n3814,trace,1,830,1819.5,0,9,,"first ink of the drawn line, just above where it runs into the top-right corner of the first triangle",13.9624,1361.071,0.1035,33.913,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 081 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,2,835,1812.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,14.771,1386.412,0.1074,39.005,piecewise,one-sided-verified,claude,14.771,1384.392,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 081 (Claude's adjudicator: all yes; Codex's: all yes)",835.0,1812.6
+FC-6D,1,n3814,trace,3,850,1791.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,17.1934,1457.327,0.1074,38.953,piecewise,agreed,claude,17.193,1457.852,,850.0,1790.9
+FC-6D,1,n3814,trace,4,865,1770.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,19.6146,1526.537,0.1061,37.197,piecewise,agreed,claude,19.615,1527.279,,865.0,1770.3
+FC-6D,1,n3814,trace,5,880,1750.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,22.0347,1594.042,0.1034,33.74,piecewise,agreed,claude,22.035,1594.497,,880.0,1750.4
+FC-6D,1,n3814,trace,6,895,1731.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,24.4537,1659.843,0.1074,38.801,piecewise,agreed,claude,24.454,1660.121,,895.0,1730.9
+FC-6D,1,n3814,trace,7,910,1710.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,26.8755,1729.045,0.106,37.046,piecewise,agreed,claude,26.875,1724.583,,910.1,1711.8
+FC-6D,1,n3814,trace,8,930,1686.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,30.0975,1811.666,0.1073,38.688,piecewise,agreed,claude,30.098,1812.090,,930.1,1685.9
+FC-6D,1,n3814,trace,9,945,1665.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,32.5211,1882.566,0.1073,38.635,piecewise,agreed,claude,32.521,1877.933,,945.1,1666.3
+FC-6D,1,n3814,trace,10,960,1647.5,0,11.0,,steep part of the line: the column run is long and the v bound is half of it,34.9357,1941.547,0.1086,40.295,piecewise,agreed,claude,34.936,1946.133,,960.1,1646.1
+FC-6D,1,n3814,trace,11,975,1629.0,0,10.5,,"crossing of the 2000 gridline: the gridline lies inside the line band, so the run is the line band",37.3531,2003.96,0.1072,38.869,piecewise,agreed,claude,37.353,2009.551,,975.1,1627.4
+FC-6D,1,n3814,trace,12,990,1611.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,39.7693,2065.089,0.1072,38.963,piecewise,agreed,claude,39.769,2068.903,,990.1,1609.9
+FC-6D,1,n3814,trace,13,1005,1593.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,42.1857,2126.219,0.1072,39.058,piecewise,agreed,claude,42.186,2125.079,,1005.2,1593.3
+FC-6D,1,n3814,trace,14,1020,1575.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,44.601,2185.638,0.1058,37.433,piecewise,agreed,claude,44.601,2184.984,,1020.2,1575.7
+FC-6D,1,n3814,trace,15,1040,1554.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,47.8167,2258.577,0.1018,32.393,piecewise,agreed,claude,47.817,2262.188,,1040.2,1552.9
+FC-6D,1,n3814,trace,16,1065,1527.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,51.9896,2350.186,0.1159,39.405,piecewise,agreed,claude,51.990,2346.853,,1065.2,1528.0
+FC-6D,1,n3814,trace,17,1070,1524.0,0,7.5,,,52.8534,2360.276,0.1072,29.115,piecewise,agreed,claude,52.853,2356.658,,1070.2,1525.0
+FC-6D,1,n3814,trace,18,1110,1481.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,59.8165,2504.462,0.1142,37.927,piecewise,agreed,claude,59.816,2501.595,,1110.2,1482.3
+FC-6D,1,n3814,trace,19,1130,1462.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,63.2909,2568.842,0.1113,34.591,piecewise,agreed,claude,63.291,2567.920,,1130.2,1462.8
+FC-6D,1,n3814,trace,30,1131,1462.0,1,8.5,,Column dark-run center; guide used only to select ink.,63.433,2570.507,0.2809,32.616,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 231 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,31,1172,1423.5,1,6.0,,Column dark-run center; guide used only to select ink.,70.5564,2700.994,0.2736,24.033,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 231 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,20,1175,1423.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,71.0976,2702.559,0.1096,33.081,piecewise,agreed,claude,71.098,2708.915,,1175.1,1421.2
+FC-6D,1,n3814,trace,21,1190,1410.0,0,7.5,,,73.699,2746.563,0.1067,29.713,piecewise,agreed,claude,73.699,2747.058,,1190.1,1409.9
+FC-6D,1,n3814,trace,22,1230,1373.5,0,5.0,,,80.64,2870.205,0.0995,21.315,piecewise,agreed,claude,80.640,2868.032,,1230.1,1374.2
+FC-6D,1,n3814,trace,23,1245,1366.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,83.2252,2895.346,0.1093,33.38,piecewise,agreed,claude,83.225,2903.463,,1245.1,1363.7
+FC-6D,1,n3814,trace,24,1265,1349.5,0,8.0,,,86.69,2951.169,0.1078,31.749,piecewise,agreed,claude,86.690,2955.772,,1265.1,1348.2
+FC-6D,1,n3814,trace,25,1285,1334.5,0,8,,"crossing of the 3000 gridline: the gridline lies inside the line band, so the run is the line band",90.1503,3001.822,0.1077,31.704,piecewise,agreed,claude,90.150,3004.691,,1285.1,1333.7
+FC-6D,1,n3814,trace,26,1305,1322.5,0,7.0,,,93.602,3041.642,0.1048,27.925,piecewise,agreed,claude,93.602,3043.551,,1305.1,1322.0
+FC-6D,1,n3814,trace,37,1306,1321.5,1,6.0,,Column dark-run center; guide used only to select ink.,93.762,3045.197,0.2732,23.66,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 232 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,38,1349,1293.0,1,7.5,,Column dark-run center; guide used only to select ink.,101.1814,3139.983,0.2748,28.704,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 232 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,27,1355,1290.0,0,7.5,,,102.2134,3149.649,0.1053,29.453,piecewise,agreed,claude,102.213,3151.009,,1355.0,1289.7
+FC-6D,1,n3814,trace,28,1370,1281.0,0,7.5,,,104.7742,3179.514,0.1058,29.407,piecewise,agreed,claude,104.774,3178.192,,1370.1,1281.5
+FC-6D,1,n3814,trace,29,1385,1276.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,107.3241,3195.85,0.1089,32.77,piecewise,agreed,claude,107.324,3202.934,,1385.0,1274.0
+FC-6D,1,n3814,trace,30,1400,1266.0,0,7.5,,,109.8873,3229.099,0.1067,29.331,piecewise,agreed,claude,109.887,3226.878,,1400.1,1266.7
+FC-6D,1,n3814,trace,31,1415,1259.0,0,7.5,,,112.4423,3252.2,0.1071,29.296,piecewise,agreed,claude,112.442,3251.429,,1415.0,1259.3
+FC-6D,1,n3814,trace,32,1430,1251.0,0,7.5,,,114.9997,3278.684,0.1076,29.255,piecewise,agreed,claude,115.000,3277.070,,1430.0,1251.6
+FC-6D,1,n3814,trace,33,1445,1246.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,117.5491,3295.02,0.1106,32.618,piecewise,agreed,claude,117.549,3296.788,,1445.0,1245.6
+FC-6D,1,n3814,trace,34,1460,1238.5,0,8.0,,,120.105,3319.813,0.1098,30.886,piecewise,agreed,claude,120.105,3319.292,,1460.0,1238.8
+FC-6D,1,n3814,trace,35,1470,1233.0,0,7.5,,,121.8101,3338.033,0.1088,29.164,piecewise,agreed,claude,121.810,3334.639,,1470.0,1234.1
+FC-6D,1,n3814,trace,36,1510,1217.0,0,7.5,,,128.6144,3390.618,0.1099,29.084,piecewise,agreed,claude,128.614,3390.710,,1510.0,1217.1
+FC-6D,1,n3814,trace,37,1525,1210.5,0,6.0,,,131.167,3412.029,0.1065,23.969,piecewise,agreed,claude,131.167,3409.201,,1525.0,1211.5
+FC-6D,1,n3814,trace,38,1540,1205.5,0,7.0,,,133.7157,3428.366,0.1095,27.332,piecewise,agreed,claude,133.716,3427.665,,1540.0,1205.9
+FC-6D,1,n3814,trace,39,1555,1203.0,0,4.5,,,136.2579,3436.247,0.1036,18.85,piecewise,agreed,claude,136.258,3445.878,,1555.0,1200.3
+FC-6D,1,n3814,trace,40,1570,1193.5,0,7.0,,,138.8179,3467.806,0.1105,27.271,piecewise,agreed,claude,138.818,3473.471,,1570.0,1192.0
+FC-6D,1,n3814,trace,41,1585,1188.0,0,7.5,,,141.3675,3485.835,0.1122,28.938,piecewise,agreed,claude,141.368,3483.196,,1585.0,1189.0
+FC-6D,1,n3814,trace,42,1600,1185.0,0,4.5,,,143.9107,3495.407,0.105,18.759,piecewise,agreed,claude,143.911,3497.961,,1600.0,1184.4
+FC-6D,1,n3814,trace,43,1645,1171.5,0,6.0,,,151.5618,3539.347,0.1108,23.774,piecewise,agreed,claude,151.562,3539.146,,1645.0,1171.8
+FC-6D,1,n3814,trace,44,1660,1168.0,0,6.5,,,154.1233,3550.611,0.1122,25.451,piecewise,agreed,claude,154.123,3553.757,,1660.0,1167.3
+FC-6D,1,n3814,trace,45,1675,1162.5,0,6.0,,,156.6899,3568.64,0.111,23.729,piecewise,agreed,claude,156.690,3568.455,,1675.0,1162.8
+FC-6D,1,n3814,trace,46,1690,1159.5,0,6.0,,,159.2501,3578.213,0.1112,23.714,piecewise,agreed,claude,159.250,3581.428,,1690.0,1158.8
+FC-6D,1,n3814,trace,47,1710,1156.5,0,6.0,,,162.6612,3587.594,0.1114,23.7,piecewise,agreed,claude,162.661,3589.231,,1710.0,1156.3
+FC-6D,1,n3814,trace,57,1755,1146.5,1,6.0,,Column dark-run center; guide used only to select ink.,170.3371,3620.678,0.2835,23.481,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 233 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n3814,trace,48,1755,1147.0,0,6.5,,,170.3429,3618.004,0.1131,25.348,piecewise,agreed,claude,170.343,3620.700,,1755.0,1146.5
+FC-6D,1,n3814,trace,49,1770,1143.5,0,6.0,,,172.9043,3629.269,0.112,23.636,piecewise,agreed,claude,172.904,3630.314,,1770.0,1143.5
+FC-6D,1,n3814,trace,50,1785,1141.0,0,6.5,,,175.4631,3637.15,0.1134,25.318,piecewise,agreed,claude,175.463,3640.766,,1785.0,1140.2
+FC-6D,1,n3814,trace,51,1800,1137.5,0,6.0,,,178.0244,3648.415,0.1123,23.607,piecewise,agreed,claude,178.024,3649.943,,1800.1,1137.4
+FC-6D,1,n3814,trace,52,1815,1135.5,0,6.0,,,180.582,3654.605,0.1124,23.598,piecewise,agreed,claude,180.582,3655.765,,1815.1,1135.5
+FC-6D,1,n3814,trace,53,1825,1133.5,0,7.0,,,182.2887,3660.987,0.115,26.976,piecewise,agreed,claude,182.289,3662.564,,1825.1,1133.4
+FC-6D,1,n3814,trace,54,1865,1129.0,0,6.5,,,189.1066,3674.676,0.1141,25.261,piecewise,agreed,claude,189.107,3677.631,,1865.1,1128.5
+FC-6D,1,n3814,trace,55,1880,1126.5,0,6.0,,,191.6654,3682.558,0.1131,23.555,piecewise,agreed,claude,191.665,3684.705,,1880.1,1126.2
+FC-6D,1,n3814,trace,56,1895,1124.5,0,7.0,,,194.2228,3688.749,0.1157,26.934,piecewise,agreed,claude,194.223,3690.075,,1895.1,1124.5
+FC-6D,1,n3814,trace,57,1910,1121.5,0,5.0,,,196.7827,3698.322,0.1109,20.143,piecewise,agreed,claude,196.783,3695.766,,1910.1,1122.6
+FC-6D,1,n3814,trace,58,1920,1120.5,0,6.0,,,198.4869,3701.322,0.1135,23.526,piecewise,agreed,claude,198.487,3701.040,,1920.1,1121.0
+FC-6D,1,n3814,trace,59,1940,1119.5,0,6.0,,,201.8924,3703.938,0.113,23.523,piecewise,agreed,claude,201.892,3703.416,,1940.1,1120.1
+FC-6D,1,n3814,trace,60,1955,1117.5,0,6.0,,,204.4495,3710.128,0.1123,23.513,piecewise,agreed,claude,204.450,3708.219,,1955.1,1118.5
+FC-6D,1,n3814,trace,61,1995,1114.5,0,6.0,,,211.2626,3718.743,0.1103,23.5,piecewise,agreed,claude,211.263,3720.291,,1995.1,1114.5
+FC-6D,1,n3814,trace,62,2010,1113.5,0,6.0,,,213.8171,3721.551,0.1095,23.496,piecewise,agreed,claude,213.817,3722.289,,2010.1,1113.7
+FC-6D,1,n3814,trace,63,2025,1112.5,0,7.0,,,216.3717,3724.359,0.1112,26.88,piecewise,agreed,claude,216.372,3725.995,,2025.1,1112.5
+FC-6D,1,n3814,trace,64,2040,1111.5,0,6.0,,,218.9262,3727.167,0.108,23.487,piecewise,agreed,claude,218.926,3729.234,,2040.1,1111.4
+FC-6D,1,n3814,trace,65,2055,1111.0,0,6.5,,,221.4796,3728.283,0.1085,25.18,piecewise,agreed,claude,221.480,3729.999,,2055.1,1111.0
+FC-6D,1,n3814,trace,66,2070,1108.5,0,6.0,,,224.0377,3736.165,0.1065,23.474,piecewise,agreed,claude,224.038,3735.808,,2070.1,1109.1
+FC-6D,1,n3814,trace,67,2085,1108.5,0,6.0,,,226.5898,3735.59,0.1058,23.475,piecewise,agreed,claude,226.590,3738.186,,2085.1,1108.2
+FC-6D,1,n3814,trace,68,2100,1108.0,0,6.5,,,229.1432,3736.706,0.1062,25.167,piecewise,agreed,claude,229.143,3739.779,,2100.1,1107.6
+FC-6D,1,n3814,trace,69,2120,1106.5,0,7.0,,,232.5496,3741.014,0.1064,26.855,piecewise,agreed,claude,232.550,3742.851,,2120.1,1106.5
+FC-6D,1,n3814,trace,70,2160,1105.0,0,6.5,,,239.3588,3744.555,0.1032,25.156,piecewise,agreed,claude,239.359,3746.524,,2160.1,1105.0
+FC-6D,1,n3814,trace,71,2175,1103.5,0,7.0,,,241.9145,3749.054,0.1037,26.843,piecewise,agreed,claude,241.915,3752.329,,2175.1,1103.1
+FC-6D,1,n3814,trace,72,2190,1102.5,0,6.0,,,244.4689,3751.862,0.1006,23.45,piecewise,agreed,claude,244.469,3753.849,,2190.1,1102.5
+FC-6D,1,n3814,trace,73,2202,1102.5,0,6,,last ink of the drawn line before the triangle on the 250 gridline,246.5106,3751.402,0.1,23.451,piecewise,one-sided-verified,claude,246.511,3752.946,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 082 (Claude's adjudicator: all yes; Codex's: all yes)",2202.1,1102.6
+FC-6D,1,n3814,trace,80,2203,1103.5,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,246.6551,3749.999,0.2666,20.065,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 234 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,feature,1,826,1732.5,0,9,,feature: first point of the drawn line,13.5574,1657.468,0.1036,33.695,piecewise,resolved,claude,13.5605,1655.756,both readings are on the feature; the difference is within its size (blind adjudication item 083 (Claude's adjudicator: both; Codex's: both)),826,1733
+FC-6D,1,n4695,feature,2,2068,844.5,18,5,,"feature: peak of the drawn line, flat between u 2050 and 2085 (the plus at u 2026 interrupts the ink just before)",224.3246,4629.41,3.1654,24.917,piecewise extrapolated y,agreed,claude,222.9569,4647.039,,2060,840
+FC-6D,1,n4695,feature,3,2199,864.0,0,6.5,,feature: last point of the drawn line; the line falls from the peak to here,246.5532,4558.441,0.1011,28.838,piecewise extrapolated y,agreed,claude,246.8686,4567.634,,2201,862
+FC-6D,1,n4695,marker,1,813.5,1750.5,3,3,plus,left arm of the plus not printed; center at the crossing of the vertical bar and the right arm,11.5374,1596.671,0.5616,13.413,piecewise,agreed,claude,11.7816,1598.322,,815,1750
+FC-6D,1,n4695,marker,2,923.5,1558.5,2,2,plus,,29.4074,2247.802,0.4008,10.127,piecewise,agreed,claude,29.1613,2251.14,,922.0,1557.5
+FC-6D,1,n4695,marker,3,1038.8,1405.5,3,3,plus,right arm reaches the 50 gridline; curve ink adjacent,48.0247,2767.953,0.561,14.401,piecewise,agreed,claude,48.1821,2769.48,,1040,1405
+FC-6D,1,n4695,marker,4,1095.0,1363.5,2,2,plus,,57.5911,2909.803,0.4331,11.145,piecewise,agreed,claude,57.5535,2906.29,,1095.0,1364.5
+FC-6D,1,n4695,marker,5,1151.5,1301.5,2,2,plus,,67.4257,3118.587,0.433,10.945,piecewise,agreed,claude,67.2236,3116.869,,1150.5,1302.0
+FC-6D,1,n4695,marker,6,1207.5,1253.5,2,2,plus,,77.1316,3278.787,0.4328,10.698,piecewise,agreed,claude,77.2017,3288.87,,1208.0,1250.5
+FC-6D,1,n4695,marker,7,1325.5,1149.5,3,3,plus,right arm touches the 100 gridline,97.5817,3626.032,0.6062,13.591,piecewise,agreed,claude,97.8298,3627.731,,1327,1149
+FC-6D,1,n4695,marker,8,1431.5,1086.0,3,3,plus,upper and left arms merge with the drawn curve; center from the free right and lower arms,115.6905,3836.762,0.6027,13.267,piecewise,agreed,claude,116.6169,3840.194,,1437,1085
+FC-6D,1,n4695,marker,9,1546.5,979.0,2,2,plus,,135.3964,4194.308,0.4348,11.012,piecewise extrapolated y,agreed,claude,135.3061,4193.127,,1546.0,979.5
+FC-6D,1,n4695,marker,10,1663.0,931.5,2,2,plus,,155.2292,4350.54,0.4411,12.114,piecewise extrapolated y,agreed,claude,155.0538,4351.392,,1662.0,931.5
+FC-6D,1,n4695,marker,11,1787.0,881.5,2,2,plus,,176.447,4514.952,0.4424,13.274,piecewise extrapolated y,agreed,claude,176.0975,4512.843,,1785.0,882.5
+FC-6D,1,n4695,marker,12,1900.0,851.0,2,2,plus,,195.7427,4613.825,0.4437,13.971,piecewise extrapolated y,agreed,claude,195.5705,4622.206,,1899.0,849.0
+FC-6D,1,n4695,marker,13,2026.5,844.5,2,2,plus,,217.2685,4630.992,0.439,14.093,piecewise extrapolated y,agreed,claude,217.1681,4632.996,,2026.0,844.5
+FC-6D,1,n4695,marker,14,2147.0,846.5,2,2,plus,,237.7522,4619.632,0.4333,14.013,piecewise extrapolated y,agreed,claude,237.2997,4618.698,,2144.5,847.5
+FC-6D,1,n4695,marker,15,2212.0,855.5,3,3,plus,against the 250 gridline and the end of the curve ink,248.7833,4586.704,0.6026,17.227,piecewise extrapolated y,resolved,claude,251.3035,4590.421,the claude reading is on the symbol center; credit claude (blind adjudication item 235 (Claude's adjudicator: q; Codex's: q)),2227,855
+FC-6D,1,n4695,trace,1,826,1732.5,0,9,,"first ink of the drawn line: its lower-left tip, just above the right arm of the first plus",13.5574,1657.468,0.1036,33.695,piecewise,one-sided-verified,claude,13.557,1655.756,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 084 (Claude's adjudicator: all yes; Codex's: all yes)",826.0,1733.0
+FC-6D,1,n4695,trace,2,835,1720.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,15.0094,1697.972,0.1114,43.887,piecewise,one-sided-verified,claude,15.009,1707.866,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 084 (Claude's adjudicator: all yes; Codex's: all yes)",834.9,1717.6
+FC-6D,1,n4695,trace,3,850,1693.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,17.4479,1789.311,0.1114,43.819,piecewise,agreed,claude,17.448,1793.055,,850.0,1692.4
+FC-6D,1,n4695,trace,4,865,1667.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,19.884,1877.242,0.1113,43.754,piecewise,agreed,claude,19.884,1877.071,,865.0,1667.5
+FC-6D,1,n4695,trace,5,875,1649.0,0,11.5,,steep part of the line: the column run is long and the v bound is half of it,21.5113,1939.833,0.11,42.004,piecewise,agreed,claude,21.511,1933.873,,875.1,1650.7
+FC-6D,1,n4695,trace,6,885,1632.5,0,13,,"crossing of the 2000 gridline: the gridline lies inside the line band, so the run is the line band",23.1335,1995.614,0.1139,47.406,piecewise,agreed,claude,23.134,1992.301,,885.1,1633.5
+FC-6D,1,n4695,trace,7,900,1609.0,0,13.5,,steep part of the line: the column run is long and the v bound is half of it,25.5636,2075.565,0.1153,49.279,piecewise,agreed,claude,25.564,2074.025,,900.1,1609.4
+FC-6D,1,n4695,trace,8,915,1586.0,0,11.5,,steep part of the line: the column run is long and the v bound is half of it,27.9927,2153.836,0.11,42.531,piecewise,agreed,claude,27.993,2155.146,,915.1,1585.6
+FC-6D,1,n4695,trace,9,945,1540.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,32.8503,2308.672,0.1113,44.488,piecewise,agreed,claude,32.850,2312.960,,945.1,1539.2
+FC-6D,1,n4695,trace,10,960,1519.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,35.2747,2380.092,0.1113,44.598,piecewise,agreed,claude,35.275,2375.503,,960.1,1520.8
+FC-6D,1,n4695,trace,11,975,1498.5,0,12.0,,steep part of the line: the column run is long and the v bound is half of it,37.6994,2451.515,0.1112,44.709,piecewise,agreed,claude,37.699,2452.028,,975.1,1498.3
+FC-6D,1,n4695,trace,12,990,1479.0,0,10.5,,steep part of the line: the column run is long and the v bound is half of it,40.1203,2517.797,0.1072,39.659,piecewise,agreed,claude,40.120,2519.112,,990.1,1478.6
+FC-6D,1,n4695,trace,13,1005,1460.5,0,11.0,,steep part of the line: the column run is long and the v bound is half of it,42.5388,2580.651,0.1085,41.474,piecewise,agreed,claude,42.539,2581.330,,1005.2,1460.3
+FC-6D,1,n4695,trace,14,1025,1435.0,0,9.5,,steep part of the line: the column run is long and the v bound is half of it,45.7659,2667.318,0.1045,36.456,piecewise,agreed,claude,45.766,2665.585,,1025.2,1435.5
+FC-6D,1,n4695,trace,15,1065,1388.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,52.3906,2825.23,0.1144,38.418,piecewise,agreed,claude,52.391,2821.395,,1065.2,1389.6
+FC-6D,1,n4695,trace,16,1075,1378.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,54.129,2859.137,0.1115,35.035,piecewise,agreed,claude,54.129,2856.136,,1075.2,1379.3
+FC-6D,1,n4695,trace,17,1115,1337.5,0,10,,"crossing of the 3000 gridline: the gridline lies inside the line band, so the run is the line band",61.0844,2998.202,0.1141,38.568,piecewise,agreed,claude,61.084,2994.943,,1115.2,1338.4
+FC-6D,1,n4695,trace,18,1130,1321.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,63.694,3051.767,0.1112,34.683,piecewise,agreed,claude,63.694,3051.535,,1130.2,1321.5
+FC-6D,1,n4695,trace,19,1170,1283.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,70.6385,3178.757,0.1138,37.876,piecewise,agreed,claude,70.638,3180.535,,1170.2,1283.0
+FC-6D,1,n4695,trace,20,1185,1267.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,73.2472,3232.299,0.1109,34.406,piecewise,agreed,claude,73.247,3228.223,,1185.2,1268.7
+FC-6D,1,n4695,trace,21,1225,1232.5,0,10.0,,steep part of the line: the column run is long and the v bound is half of it,80.1809,3349.145,0.1135,37.614,piecewise,agreed,claude,80.181,3347.817,,1225.1,1232.9
+FC-6D,1,n4695,trace,22,1240,1219.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,82.7803,3392.541,0.1106,34.16,piecewise,agreed,claude,82.780,3392.860,,1240.1,1219.4
+FC-6D,1,n4695,trace,23,1255,1207.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,85.3781,3434.245,0.1091,32.402,piecewise,agreed,claude,85.378,3437.881,,1255.1,1205.9
+FC-6D,1,n4695,trace,24,1270,1192.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,87.9813,3482.715,0.1105,34.022,piecewise,agreed,claude,87.981,3480.872,,1270.1,1193.0
+FC-6D,1,n4695,trace,25,1285,1180.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,90.5773,3522.729,0.1104,33.96,piecewise,agreed,claude,90.577,3519.637,,1285.1,1181.4
+FC-6D,1,n4695,trace,26,1305,1165.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,94.037,3574.39,0.1089,32.187,piecewise,agreed,claude,94.037,3574.615,,1305.1,1164.9
+FC-6D,1,n4695,trace,41,1310,1161.0,1,7.5,,Column dark-run center; guide used only to select ink.,94.8905,3587.769,0.2772,28.552,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 236 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,42,1346,1127.0,1,7.5,,Column dark-run center; guide used only to select ink.,101.1255,3701.438,0.2745,28.516,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 236 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,27,1350,1123.5,0,9.0,,steep part of the line: the column run is long and the v bound is half of it,101.8185,3713.039,0.1092,33.668,piecewise,agreed,claude,101.819,3710.890,,1350.1,1124.2
+FC-6D,1,n4695,trace,28,1365,1113.0,0,7.5,,,104.3816,3747.98,0.1056,28.533,piecewise,agreed,claude,104.382,3745.849,,1365.1,1113.7
+FC-6D,1,n4695,trace,29,1380,1103.5,0,8.0,,,106.9418,3779.54,0.1074,30.178,piecewise,agreed,claude,106.942,3780.774,,1380.0,1103.2
+FC-6D,1,n4695,trace,30,1395,1094.0,0,7.5,,,109.5019,3811.1,0.1065,28.436,piecewise,agreed,claude,109.502,3814.193,,1395.0,1093.1
+FC-6D,1,n4695,trace,31,1410,1083.0,0,7.5,,,112.0657,3847.734,0.107,28.38,piecewise,agreed,claude,112.066,3843.658,,1410.1,1084.3
+FC-6D,1,n4695,trace,32,1445,1060.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,118.0401,3924.193,0.1106,31.65,piecewise,agreed,claude,118.040,3917.894,,1445.1,1061.9
+FC-6D,1,n4695,trace,33,1460,1051.0,0,8.5,,steep part of the line: the column run is long and the v bound is half of it,120.598,3954.063,0.1111,31.605,piecewise,agreed,claude,120.598,3953.930,,1460.0,1051.1
+FC-6D,1,n4695,trace,34,1480,1038.0,0,7.5,,"crossing of the 4000 gridline: the gridline lies inside the line band, so the run is the line band",124.0108,3997.272,0.1091,28.282,piecewise extrapolated y,agreed,claude,124.011,3997.153,,1480.0,1038.1
+FC-6D,1,n4695,trace,35,1505,1023.0,0,7.5,,,128.2731,4047.056,0.1098,28.633,piecewise extrapolated y,agreed,claude,128.273,4045.762,,1505.0,1023.5
+FC-6D,1,n4695,trace,36,1520,1013.5,0,8.0,,,130.8315,4078.617,0.1115,30.559,piecewise extrapolated y,agreed,claude,130.832,4078.090,,1520.0,1013.8
+FC-6D,1,n4695,trace,37,1535,1005.0,0,7.5,,,133.3872,4106.797,0.1107,29.055,piecewise extrapolated y,agreed,claude,133.387,4107.226,,1535.0,1005.0
+FC-6D,1,n4695,trace,38,1565,986.5,0,7.0,,,138.5018,4168.23,0.1103,27.785,piecewise extrapolated y,agreed,claude,138.502,4172.175,,1565.0,985.5
+FC-6D,1,n4695,trace,39,1580,980.5,0,8.0,,,141.0506,4187.953,0.1133,31.33,piecewise extrapolated y,agreed,claude,141.051,4196.974,,1580.0,978.0
+FC-6D,1,n4695,trace,40,1595,971.5,0,7.0,,,143.6068,4217.825,0.1112,28.135,piecewise extrapolated y,agreed,claude,143.607,4219.831,,1595.0,971.1
+FC-6D,1,n4695,trace,41,1610,963.0,0,7.5,,,146.1616,4246.005,0.1129,30.037,piecewise extrapolated y,agreed,claude,146.162,4243.946,,1610.0,963.8
+FC-6D,1,n4695,trace,42,1620,957.0,0,7.5,,,147.8656,4265.92,0.1132,30.177,piecewise extrapolated y,agreed,claude,147.866,4261.371,,1620.0,958.5
+FC-6D,1,n4695,trace,43,1645,946.5,0,6,,short dash between the 150 gridline and the plus at u 1663 (below its left arm),152.1294,4300.485,0.1107,25.311,piecewise extrapolated y,agreed,claude,152.129,4301.297,,1645.0,946.5
+FC-6D,1,n4695,trace,44,1685,925.5,0,6.0,,,158.9867,4369.997,0.1111,25.802,piecewise extrapolated y,agreed,claude,158.987,4370.249,,1685.0,925.7
+FC-6D,1,n4695,trace,45,1700,919.5,0,6.0,,,161.5534,4389.721,0.1113,25.941,piecewise extrapolated y,agreed,claude,161.553,4390.022,,1700.0,919.7
+FC-6D,1,n4695,trace,46,1715,914.5,0,8.0,,,164.1175,4406.063,0.1164,32.87,piecewise extrapolated y,agreed,claude,164.118,4408.763,,1715.0,914.0
+FC-6D,1,n4695,trace,47,1730,909.0,0,7.5,,,166.6829,4424.096,0.1153,31.293,piecewise extrapolated y,agreed,claude,166.683,4428.447,,1730.0,908.0
+FC-6D,1,n4695,trace,48,1745,903.0,0,7.5,,,169.2494,4443.821,0.1155,31.433,piecewise extrapolated y,agreed,claude,169.249,4448.802,,1745.0,901.8
+FC-6D,1,n4695,trace,49,1765,896.0,0,7.5,,,172.6689,4466.739,0.1156,31.594,piecewise extrapolated y,agreed,claude,172.669,4468.728,,1765.0,895.7
+FC-6D,1,n4695,trace,64,1767,895.5,1,6.0,,Column dark-run center; guide used only to select ink.,173.0035,4469.489,0.2822,26.498,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 237 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,65,1809,878.5,1,5.0,,Column dark-run center; guide used only to select ink.,180.1896,4525.535,0.2765,23.452,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 237 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,50,1810,878.0,0,5.5,,,180.3679,4525.915,0.1111,25.198,piecewise extrapolated y,agreed,claude,180.368,4526.382,,1810.0,878.2
+FC-6D,1,n4695,trace,51,1830,873.5,0,7.0,,,183.781,4540.376,0.115,30.411,piecewise extrapolated y,agreed,claude,183.781,4541.787,,1830.0,873.5
+FC-6D,1,n4695,trace,52,1840,870.0,0,6.5,,,185.4905,4551.835,0.1139,28.788,piecewise extrapolated y,agreed,claude,185.490,4555.930,,1840.0,869.2
+FC-6D,1,n4695,trace,53,1855,867.5,0,6.0,,,188.0481,4559.72,0.1128,27.14,piecewise extrapolated y,agreed,claude,188.048,4563.021,,1855.0,866.9
+FC-6D,1,n4695,trace,54,1870,865.0,0,7.5,,,190.6057,4567.606,0.1166,32.307,piecewise extrapolated y,agreed,claude,190.606,4572.142,,1870.0,864.1
+FC-6D,1,n4695,trace,55,1880,862.0,0,7.5,,,192.3139,4577.374,0.1167,32.376,piecewise extrapolated y,agreed,claude,192.314,4577.185,,1880.0,862.5
+FC-6D,1,n4695,trace,71,1882,862.5,1,5.0,,Column dark-run center; guide used only to select ink.,192.6456,4577.117,0.2709,23.784,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 238 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,72,1931,851.5,1,6.0,,Column dark-run center; guide used only to select ink.,201.0062,4612.627,0.2697,27.419,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 238 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,56,1935,851.5,0,6.0,,,201.694,4610.799,0.113,27.501,piecewise extrapolated y,agreed,claude,201.694,4614.536,,1935.0,850.9
+FC-6D,1,n4695,trace,57,1950,849.0,0,6.5,,,204.2505,4618.685,0.1134,29.26,piecewise extrapolated y,agreed,claude,204.250,4621.630,,1950.0,848.6
+FC-6D,1,n4695,trace,58,1965,849.0,0,6.5,,,206.8009,4618.113,0.1127,29.257,piecewise extrapolated y,agreed,claude,206.801,4621.589,,1965.1,848.5
+FC-6D,1,n4695,trace,59,1980,847.5,0,7.0,,,209.355,4622.616,0.1132,30.992,piecewise extrapolated y,agreed,claude,209.355,4624.900,,1980.1,847.4
+FC-6D,1,n4695,trace,60,2000,847.0,0,4.5,,,212.7567,4623.545,0.1061,22.481,piecewise extrapolated y,agreed,claude,212.757,4627.464,,2000.1,846.4
+FC-6D,1,n4695,trace,61,2050,844.0,0,4.5,,,221.2653,4631.788,0.1037,22.54,piecewise extrapolated y,agreed,claude,221.265,4633.703,,2050.1,844.0
+FC-6D,1,n4695,trace,62,2065,844.5,0,5.0,,,223.8145,4629.525,0.1042,24.227,piecewise extrapolated y,agreed,claude,223.815,4631.629,,2065.1,844.5
+FC-6D,1,n4695,trace,63,2080,844.5,0,5.0,,,226.3649,4628.953,0.1034,24.223,piecewise extrapolated y,agreed,claude,226.365,4629.560,,2080.1,845.0
+FC-6D,1,n4695,trace,64,2095,846.0,0,6.5,,,228.9118,4623.306,0.1062,29.294,piecewise extrapolated y,agreed,claude,228.912,4625.100,,2095.1,846.1
+FC-6D,1,n4695,trace,65,2115,849.0,0,6.5,,,232.3053,4612.394,0.1052,29.217,piecewise extrapolated y,agreed,claude,232.305,4618.663,,2115.1,847.8
+FC-6D,1,n4695,trace,82,2117,847.5,1,5.0,,Column dark-run center; guide used only to select ink.,232.6261,4619.66,0.2667,24.064,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 239 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,83,2162,856.5,1,7.0,,Column dark-run center; guide used only to select ink.,240.2529,4587.619,0.2712,30.674,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 239 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,66,2170,857.5,0,6.0,,,241.6372,4581.539,0.1013,27.297,piecewise extrapolated y,agreed,claude,241.637,4581.804,,2170.2,858.1
+FC-6D,1,n4695,trace,67,2190,862.0,0,7.5,,,245.0275,4565.551,0.1038,32.295,piecewise extrapolated y,agreed,claude,245.028,4570.791,,2190.2,861.2
+FC-6D,1,n4695,trace,68,2199,864.0,0,6.5,,last ink of the drawn line before the plus on the 250 gridline,246.5532,4558.441,0.1011,28.838,piecewise extrapolated y,one-sided-verified,claude,246.553,4567.941,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 085 (Claude's adjudicator: all yes; Codex's: all yes)",2199.1,861.9
+FC-6D,1,n4695,trace,85,2200,862.0,1,7.5,,Column dark-run center; guide used only to select ink.,246.6986,4567.669,0.2721,32.251,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 240 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-6D,1,n4695,trace,86,2201,862,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,246.8686,4567.634,0.2664,23.733,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 240 (Claude's adjudicator: all yes; Codex's: all yes)",,

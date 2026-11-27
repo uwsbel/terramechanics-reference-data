@@ -1,0 +1,48 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-2C,2,n4400,marker,1,1164,3221,2,2,asterisk,,81.6374,7.7591,0.4339,0.9219,piecewise
+FC-2C,2,n4400,marker,2,1224,3227,2,2,asterisk,,91.9096,5.8026,0.4309,0.9222,piecewise
+FC-2C,2,n4400,marker,3,1279,3224,8,8,asterisk,star on vertical grid; symbol intersects vertical grid,101.3088,6.9209,1.4381,2.9875,piecewise
+FC-2C,2,n4400,marker,4,1340,3217,2,2,asterisk,,111.6051,9.419,0.4222,0.9213,piecewise
+FC-2C,2,n4400,marker,5,1397,3216,2,2,asterisk,,121.225,9.8553,0.4222,0.9212,piecewise
+FC-2C,2,n4400,marker,6,1453,3199,2,2,asterisk,,130.6774,15.7694,0.4221,0.9199,piecewise
+FC-2C,2,n4400,marker,7,1519,3199,2,2,asterisk,,141.8153,15.8776,0.422,0.9198,piecewise
+FC-2C,2,n4400,marker,8,1572,3191,6,6,asterisk,star on vertical grid; symbol intersects vertical grid,150.7739,18.7039,1.1179,2.2957,piecewise
+FC-2C,2,n4400,marker,9,1629,3188,2,2,asterisk,,160.5765,19.8244,0.43,0.9189,piecewise
+FC-2C,2,n4400,marker,10,1688,3179,2,2,asterisk,,170.7226,23.0024,0.43,0.9181,piecewise
+FC-2C,2,n3660,marker,1,1166,3187,8,8,x,x immediately under square,81.9884,19.4097,1.4628,2.985,piecewise
+FC-2C,2,n3660,marker,2,1227,3197,8,8,x,x under triangle,92.4301,16.084,1.4597,2.9856,piecewise
+FC-2C,2,n3660,marker,3,1279,3206,8,8,x,x and square beneath triangle on grid; symbol intersects vertical grid,101.3124,13.0865,1.438,2.9861,piecewise
+FC-2C,2,n3660,marker,4,1339,3199,2,2,x,,111.4392,15.5826,0.4222,0.92,piecewise
+FC-2C,2,n3660,marker,5,1396,3185,7,7,x,x close to square/triangle,121.0599,20.4709,1.2665,2.6399,piecewise
+FC-2C,2,n3660,marker,6,1450,3177,7,7,x,x touches triangle/square,130.1729,23.2989,1.2662,2.6392,piecewise
+FC-2C,2,n3660,marker,7,1519,3167,2,2,x,,141.8164,26.836,0.4219,0.9174,piecewise
+FC-2C,2,n3660,marker,8,1574,3162,7,7,x,x on vertical grid; symbol intersects vertical grid,151.1178,28.6377,1.2898,2.6377,piecewise
+FC-2C,2,n3660,marker,9,1629,3164,2,2,x,,160.5759,28.0423,0.43,0.9171,piecewise
+FC-2C,2,n2995,marker,1,704,3226,6,6,square,first square close to left frame,1.9745,5.2875,1.1547,2.3006,piecewise
+FC-2C,2,n2995,marker,2,737,3212,6,6,square,square shares adjacent early ink,7.725,10.1399,1.1541,2.2995,piecewise
+FC-2C,2,n2995,marker,3,920,3200,2,2,square,,39.6666,14.5528,0.4515,0.9206,piecewise
+FC-2C,2,n2995,marker,4,985,3199,8,8,square,square under circle on vertical grid; symbol intersects vertical grid,50.9951,15.0021,1.4814,2.9865,piecewise
+FC-2C,2,n2995,marker,5,1043,3189,2,2,square,,60.9287,18.5233,0.4398,0.9197,piecewise
+FC-2C,2,n2995,marker,6,1103,3187,7,7,square,square is rounded; possible circle ambiguity,71.202,19.3067,1.2945,2.6409,piecewise
+FC-2C,2,n2995,marker,7,1167,3174,7,7,square,square close to x and circle,82.1629,23.8648,1.2912,2.6398,piecewise
+FC-2C,2,n2995,marker,8,1220,3163,2,2,square,,91.2394,27.7193,0.4311,0.9175,piecewise
+FC-2C,2,n2995,marker,9,1271,3155,7,7,square,square centered on vertical grid; symbol intersects vertical grid,99.9724,30.5426,1.2858,2.638,piecewise
+FC-2C,2,n2200,marker,1,806,3224,8,8,triangle-up,early triangle and circle/filled dot shared ink,19.7715,6.1412,1.5015,2.989,piecewise
+FC-2C,2,n2200,marker,2,864,3223,7,7,triangle-up,small triangle,29.892,6.5795,1.3248,2.6444,piecewise
+FC-2C,2,n2200,marker,3,924,3221,8,8,triangle-up,triangle sits near square,40.3621,7.3637,1.4993,2.9884,piecewise
+FC-2C,2,n2200,marker,4,985,3220,8,8,triangle-up,triangle touches x/star/frame grid; symbol intersects vertical grid,50.9883,7.8069,1.4813,2.9881,piecewise
+FC-2C,2,n2200,marker,5,1044,3218,2,2,triangle-up,,61.0912,8.5893,0.4397,0.9218,piecewise
+FC-2C,2,n2200,marker,6,1104,3212,8,8,triangle-up,triangle/square/x shared ink,71.3663,10.7436,1.4661,2.9871,piecewise
+FC-2C,2,n2200,marker,7,1166,3200,7,7,triangle-up,triangle below x/square,81.9851,14.9564,1.2913,2.6417,piecewise
+FC-2C,2,n2200,marker,8,1225,3189,7,7,triangle-up,triangle beside x,92.0895,18.8212,1.2883,2.6407,piecewise
+FC-2C,2,n2200,marker,9,1279,3180,8,8,triangle-up,triangle and square share grid ink; symbol intersects vertical grid,101.3176,21.9923,1.4377,2.9841,piecewise
+FC-2C,2,n2200,marker,10,1339,3172,8,8,triangle-up,triangle and square overlap,111.4434,24.8304,1.4356,2.9833,piecewise
+FC-2C,2,n2200,marker,11,1398,3163,8,8,triangle-up,triangle and square overlap,121.4,28.009,1.4352,2.9825,piecewise
+FC-2C,2,n2200,marker,12,1451,3153,8,8,triangle-up,triangle and square overlap,130.3436,31.5199,1.4349,2.9815,piecewise
+FC-2C,2,n1468,marker,1,894,3198,2,2,circle,,35.1276,15.1954,0.4515,0.9205,piecewise
+FC-2C,2,n1468,marker,2,984,3184,8,8,circle,circle/filled-circle/grid overlap; symbol intersects vertical grid,50.8287,20.1399,1.4848,2.9854,piecewise
+FC-2C,2,n1468,marker,3,1040,3175,2,2,circle,,60.4193,23.3149,0.4399,0.9186,piecewise
+FC-2C,2,n1468,marker,4,1154,3153,2,2,circle,,79.9426,31.0376,0.4343,0.9169,piecewise
+FC-2C,2,n734,marker,1,805,3208,4,4,circle,solid filled circle,19.5923,11.6225,0.8024,1.6102,piecewise
+FC-2C,2,n734,marker,2,863,3196,4,4,circle,solid filled circle,29.7152,15.8299,0.8014,1.6092,piecewise
+FC-2C,2,n734,marker,3,1042,3148,4,4,circle,solid filled circle,60.7698,32.5687,0.7829,1.6053,piecewise

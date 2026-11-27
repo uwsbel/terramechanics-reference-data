@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-10C,1,ps-loose,marker,1,522.2,3751.5,2,5.5,triangle-up,centroid of the outline (ink u 503..541 v 3730..3762); below the drawn line; a speck at u 547..550 v 3759 beside it is not part of the symbol
+FC-10C,1,ps-loose,marker,2,697.8,3512.2,2.5,6.5,triangle-up,centroid; apex v 3490 clear; the base lies on the y = 1000 grid line and the drawn line also passes through its lower corners: base bottom taken 8 px below the hollow interior (v 3523.5 +-1.5) and the base corners by symmetry about the apex (u 697.5); v bound widened; the drawn line has no ink across the symbol's interior
+FC-10C,1,ps-loose,marker,3,909.3,3267.5,2,5.5,triangle-up,centroid; outline ink u 890..928 v 3246..3278; clean (the drawn line passes below its right corner)
+FC-10C,1,ps-loose,marker,4,1124.8,3037.8,2,5.8,triangle-up,centroid; outline ink u 1106..1144 v 3015..3049; clean
+FC-10C,1,ps-loose,marker,5,1167.8,3111.5,2,5.5,triangle-up,centroid; outline ink u 1149..1187 v 3090..3122 (a nub to u 1189 at v 3117 not counted); below the drawn line
+FC-10C,1,ps-loose,marker,6,1337.3,2862.2,2.5,5.7,triangle-up,centroid; outline ink u 1319..~1356 v 2840..2873; the x = 3000 grid line runs 4 px right of its right base corner and the drawn line passes just below that corner
+FC-10C,1,ps-loose,marker,7,1545.0,2681.0,2.5,6,triangle-up,centroid; outline ink u 1527..~1564 v ~2658..2692; the apex touches the underside of the y = 4000 grid line and the lower right corner touches the drawn line (taken by symmetry about the apex u 1545)
+FC-10C,1,ps-loose,marker,8,1763.8,2577.8,2,5.8,triangle-up,centroid; outline ink u 1746..1782 v 2555..2589 (a dash at u 1783..1790 v 2585 not counted); the lower of the two symbols at x ~4400; clear of the line
+FC-10C,1,ps-loose,marker,9,1765.2,2497.5,2.5,5.5,triangle-up,centroid; outline ink u ~1746..1784 v 2476..2508; the upper of the two symbols at x ~4400; the drawn line ends in its lower left corner (left base corner taken by symmetry about the apex u 1765.5)
+FC-10C,1,ps-loose,trace,1,485.6,3713.5,5.4,5.4,,left end: the line runs into the x = 0 frame line (no ink left of the frame at u 470..480); end taken where the line's centre (fitted on its ink at u 495..600) meets the frame's centre line
+FC-10C,1,ps-loose,trace,2,633.8,3573.2,5.4,5.4,,x = 500 psf
+FC-10C,1,ps-loose,trace,3,781.9,3432.5,5.4,5.4,,x = 1000 psf on the vertical grid line; centre from the line's ink 6 to 14 px either side
+FC-10C,1,ps-loose,trace,4,926.3,3295.5,5.4,5.4,,x = 1500 psf; on the line's ink just below the lower right corner of marker 3
+FC-10C,1,ps-loose,trace,5,1070.8,3157.1,5.4,5.4,,x = 2000 psf on the vertical grid line; centre from the line's ink either side
+FC-10C,1,ps-loose,trace,6,1217.1,3017.0,5.4,5.4,,x = 2500 psf
+FC-10C,1,ps-loose,trace,7,1363.3,2877.3,5.4,5.4,,x = 3000 psf on the vertical grid line; centre from the line's ink either side
+FC-10C,1,ps-loose,trace,8,1510.0,2737.8,5.4,5.4,,x = 3500 psf
+FC-10C,1,ps-loose,trace,9,1656.7,2598.8,5.4,5.4,,x = 4000 psf on the vertical grid line; centre from the line's ink either side
+FC-10C,1,ps-loose,trace,10,1750.5,2509.7,5.4,5.4,,right end: the line's ink runs into the lower left corner of marker 9 and is not seen beyond it (the symbol's interior is white); end taken where the line's centre meets the bottom of that symbol's base
+FC-10C,1,ps-loose,feature,1,485.6,3713.5,5.4,5.4,,first point of the line (= trace 1)
+FC-10C,1,ps-loose,feature,2,1750.5,2509.7,5.4,5.4,,last point of the line (= trace 10); also its maximum
+FC-10C,1,ps-loose,feature,3,485.6,3713.5,5.4,5.4,,intercept: the line reaches the normal-stress-zero axis (frame line x = 0); its centre extrapolated from u 495..600 to the frame's centre line

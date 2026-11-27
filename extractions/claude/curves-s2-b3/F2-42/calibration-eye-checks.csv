@@ -1,0 +1,14 @@
+figure_id,panel,axis,printed_label,value,label_center_px,line_position_px,offset_px,checked_by,outcome,note
+F2-42,1,x,0,0,u 853.5,u 842.8 (left frame at the bottom),+10.7,eye on crop xlab-left.png + ink bbox,consistent,"label printed under the frame corner, a little right of the frame line; the next line (1 in) is 309 px away"
+F2-42,1,x,1,1,u 1154.5,u 1151.9,+2.6,eye on crop xlab-left.png + ink bbox,consistent,label centered under its line
+F2-42,1,x,2,2,u 1452.5,u 1460.7,-8.2,eye on crop xlab-right.png + ink bbox,consistent,label slightly left of its line; neighbors are 300 px away
+F2-42,1,x,3,3,u 1755.0,u 1764.3 (right frame),-9.3,eye on crop xlab-right.png + ink bbox,consistent,"label under the right frame line, so the right frame is the 3 in line"
+F2-42,1,y,0,0,v 3340.0,v 3352.8 (bottom frame),-12.8,eye on crop ylab-0.png + ink bbox,consistent,label printed just above the thick bottom frame line
+F2-42,1,y,200,200,v 3035.5,v 3039.8,-4.3,eye on crop ylab-200.png + ink bbox,consistent,
+F2-42,1,y,400,400,v 2728,v 2730.7,-2.7,eye on crop ylab-400.png + ink bbox,consistent,"label underlined by a short stroke at v 2743 that runs to the frame; the grid line itself is at v 2731; drawn only from the frame to the key box (u 840 to 1208)"
+F2-42,1,y,600,600,v 2416.0,v 2420.9,-4.9,eye on crop ylab-600.png + ink bbox,consistent,
+F2-42,1,y,800,800,v 2106.5,v 2108.8,-2.3,eye on crop ylab-800.png + ink bbox,consistent,
+F2-42,1,y,1000,1000,v 1794.5,v 1799.6,-5.1,eye on crop ylab-1000.png + ink bbox,consistent,
+F2-42,1,y,1200,1200,v 1481.5,v 1487.5,-6.0,eye on crop ylab-1200.png + ink bbox,consistent,thin line (1 to 3 px) but found in 8 of 10 bands and verified on the ink
+F2-42,1,y,627 (tick),627,v 2372.5,tick at v 2381 to 2382,not a grid line,eye on crop ylab-600.png,not anchored,"a short tick crossing the frame (u 825 to 858); by the 600 and 800 lines it sits at 625 lb, 2 lb from its label; it marks a value, not a grid line"
+F2-42,1,y,(none: top frame),1300 by spacing,,v 1332.5,,eye on page,not anchored,"top frame 156.5 px above the 1200 line, half a 200 lb spacing, so it would be 1300 lb; unlabeled, so not a knot (task)"

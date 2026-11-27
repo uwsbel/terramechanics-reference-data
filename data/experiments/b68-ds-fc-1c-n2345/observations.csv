@@ -1,0 +1,84 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-ds-fc-1c-n2345,n2345,1,feature,1,0.000259255,72202.99962,1.5446e-05,607.839888,10.2069,1507.991,0.6081,12.695,mil,psf,685,2410,agreed,claude,first point: the line starts at the first marker
+b68-ds-fc-1c-n2345,n2345,1,feature,2,0.004432617,149132.163843,0.000166573,943.863545,174.5125,3114.69,6.558,19.713,mil,psf,1650,1948,agreed,claude,peak of the drawn line; flat top from u=1642 to 1657 (v within 1 px of the minimum) | decision: rule: peak compared in y only; x bound widened from 1.464 to cover the other reading's x 169.423 +- 1.469
+b68-ds-fc-1c-n2345,n2345,1,feature,3,0.006386995,131255.925512,1.696e-05,621.581522,251.4565,2741.337,0.6677,12.982,mil,psf,2096,2054,agreed,claude,last point: the line ends at the last marker
+b68-ds-fc-1c-n2345,n2345,1,feature,4,0.002826715,147636.288792,2.4237e-05,968.378238,111.288,3083.448,0.9542,20.225,mil,psf,1280,1958,one-sided,codex,first broad local maximum
+b68-ds-fc-1c-n2345,n2345,1,feature,5,0.003567455,146571.479713,2.4511e-05,968.186717,140.451,3061.209,0.965,20.221,mil,psf,1450,1964,one-sided,codex,shallow local minimum
+b68-ds-fc-1c-n2345,n2345,1,marker,1,0.000259255,72202.99962,1.1113e-05,440.354742,10.2069,1507.991,0.4375,9.197,mil,psf,685,2410,audited,claude,"audit: confirmed by R3 (W1-02), R4 (W1-02); was agreed"
+b68-ds-fc-1c-n2345,n2345,1,marker,2,0.000784939,102588.05137,1.1011e-05,458.597121,30.9031,2142.596,0.4335,9.578,mil,psf,806,2228,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,3,0.001322316,124863.480016,1.5116e-05,623.06581,52.0597,2607.828,0.5951,13.013,mil,psf,930,2095,agreed,claude,on the 50 gridline
+b68-ds-fc-1c-n2345,n2345,1,marker,4,0.001828612,138745.978065,1.0803e-05,452.372687,71.9926,2897.77,0.4253,9.448,mil,psf,1048,2012,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,5,0.002295416,146039.482155,1.0792e-05,444.568205,90.3707,3050.098,0.4249,9.285,mil,psf,1157,1968,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,6,0.002791912,147639.401009,1.1062e-05,445.47793,109.9178,3083.513,0.4355,9.304,mil,psf,1272,1958,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,7,0.003549904,146743.561364,1.1252e-05,445.142768,139.76,3064.803,0.443,9.297,mil,psf,1446,1963,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,8,0.004040015,148180.400055,1.1224e-05,446.004612,159.0557,3094.812,0.4419,9.315,mil,psf,1559,1954,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,9,0.004311828,148978.755494,1.125e-05,446.435535,169.757,3111.486,0.4429,9.324,mil,psf,1622,1949,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,10,0.004820509,146127.103029,1.1295e-05,445.047007,189.7838,3051.928,0.4447,9.295,mil,psf,1740,1966,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,11,0.005604576,136363.360618,1.1885e-05,452.564208,220.6526,2848.008,0.4679,9.452,mil,psf,1919,2024,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,marker,12,0.006386995,131255.925512,1.696e-05,621.581522,251.4565,2741.337,0.6677,12.982,mil,psf,2096,2054,agreed,claude,on the 250 gridline
+b68-ds-fc-1c-n2345,n2345,1,marker,11,0.005140747,142258.665385,2.4928e-05,980.061021,202.3916,2971.134,0.9814,20.469,mil,psf,1814,1989,one-sided-verified,codex,center checked against local symbol image template; hand crop inspected; symbol intersects horizontal grid | decision: verified on the page by claude's adjudicator; blind adjudication item 008 (Claude's adjudicator: yes; Codex's: yes)
+b68-ds-fc-1c-n2345,n2345,1,trace,1,0.000346123,77207.157007,6.927e-06,1613.660488,13.6269,1612.505,0.2727,33.702,mil,psf,705,2380,one-sided-verified,claude,"column moved off a marker; steep segment: the vertical cut of the line is 17 px, bound is half of it | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 015 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-1c-n2345,n2345,1,trace,2,0.000450459,83879.175335,6.886e-06,1451.25065,17.7346,1751.853,0.2711,30.31,mil,psf,729,2340,agreed,claude,"steep segment: the vertical cut of the line is 16 px, bound is half of it"
+b68-ds-fc-1c-n2345,n2345,1,trace,3,0.000576542,91884.036433,6.904e-06,1791.200488,22.6985,1919.038,0.2718,37.41,mil,psf,758,2292,agreed,claude,"steep segment: the vertical cut of the line is 20 px, bound is half of it"
+b68-ds-fc-1c-n2345,n2345,1,trace,4,0.0006982,98902.851477,6.82e-06,1298.368983,27.4882,2065.629,0.2685,27.117,mil,psf,786,2250,confirmed,claude,"column moved off a marker | audit: confirmed by R3 (W1-02), R4 (W1-02); was one-sided"
+b68-ds-fc-1c-n2345,n2345,1,trace,5,0.000871835,107448.232819,6.807e-06,1464.752883,34.3242,2244.103,0.268,30.592,mil,psf,826,2199,agreed,claude,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+b68-ds-fc-1c-n2345,n2345,1,trace,6,0.000958609,111301.061498,6.749e-06,1128.298303,37.7405,2324.571,0.2657,23.565,mil,psf,846,2176,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,7,0.00108441,116660.921329,6.746e-06,1295.256766,42.6933,2436.514,0.2656,27.052,mil,psf,875,2144,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,8,0.001210117,121181.29658,6.744e-06,1462.35887,47.6424,2530.924,0.2655,30.542,mil,psf,904,2117,agreed,claude,"steep segment: the vertical cut of the line is 15 px, bound is half of it"
+b68-ds-fc-1c-n2345,n2345,1,trace,9,0.001408214,127708.764406,6.645e-06,1293.293675,55.4415,2667.253,0.2616,27.011,mil,psf,950,2078,agreed,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,10,0.001459743,129382.370978,6.622e-06,1125.138206,57.4702,2702.207,0.2607,23.499,mil,psf,962,2068,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,11,0.001588447,132726.902829,6.617e-06,1124.515762,62.5373,2772.059,0.2605,23.486,mil,psf,992,2048,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,12,0.001712813,135736.033465,6.632e-06,1291.857268,67.4336,2834.906,0.2611,26.981,mil,psf,1021,2030,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,13,0.001914274,140080.257242,6.604e-06,1123.222995,75.3651,2925.637,0.26,23.459,mil,psf,1068,2004,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,14,0.001961436,141250.546532,6.584e-06,955.163286,77.2219,2950.079,0.2592,19.949,mil,psf,1079,1997,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,15,0.002089935,143419.761666,6.596e-06,1122.648432,82.2809,2995.384,0.2597,23.447,mil,psf,1109,1984,agreed,claude,merged with the horizontal gridline
+b68-ds-fc-1c-n2345,n2345,1,trace,16,0.002209813,145059.421134,6.556e-06,773.266183,87.0005,3029.629,0.2581,16.15,mil,psf,1137,1974,agreed,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,17,0.002380945,146360.662933,6.551e-06,773.984386,93.738,3056.806,0.2579,16.165,mil,psf,1177,1966,agreed,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,18,0.002466505,147011.355652,6.584e-06,1104.023012,97.1065,3070.396,0.2592,23.058,mil,psf,1197,1962,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,19,0.002591473,147328.89753,6.703e-06,939.410681,102.0265,3077.028,0.2639,19.62,mil,psf,1226,1960,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,20,0.00270478,147647.684294,6.731e-06,939.602202,106.4874,3083.686,0.265,19.624,mil,psf,1252,1958,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,21,0.002879047,147631.165605,6.741e-06,609.946619,113.3483,3083.341,0.2654,12.739,mil,psf,1292,1958,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,22,0.002974861,147292.556413,6.812e-06,1104.406054,117.1205,3076.269,0.2682,23.066,mil,psf,1314,1960,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,23,0.003101175,146950.978646,6.843e-06,1104.262413,122.0935,3069.135,0.2694,23.063,mil,psf,1343,1962,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,24,0.003231833,146444.213985,6.888e-06,1268.922623,127.2375,3058.551,0.2712,26.502,mil,psf,1373,1965,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,25,0.003358164,146267.392188,6.904e-06,1104.023012,132.2112,3054.858,0.2718,23.058,mil,psf,1402,1966,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,26,0.003449671,146423.481832,6.896e-06,774.319548,135.8138,3058.118,0.2715,16.172,mil,psf,1423,1965,one-sided,claude,column moved off a marker; column moved -3 px off a gap in the dashed line
+b68-ds-fc-1c-n2345,n2345,1,trace,27,0.00365011,146734.033192,6.96e-06,939.458561,143.7051,3064.604,0.274,19.621,mil,psf,1469,1963,agreed,claude,column moved off a marker; column moved 3 px off a gap in the dashed line
+b68-ds-fc-1c-n2345,n2345,1,trace,28,0.003741641,147219.8263,6.98e-06,939.745843,147.3087,3074.75,0.2748,19.627,mil,psf,1490,1960,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,29,0.003867419,147372.707967,6.944e-06,1104.789096,152.2606,3077.943,0.2734,23.074,mil,psf,1519,1959,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,30,0.003940757,147530.5213,6.939e-06,939.985244,155.1479,3081.239,0.2732,19.632,mil,psf,1536,1958,agreed,claude,column moved off a marker; column moved -3 px off a gap in the dashed line
+b68-ds-fc-1c-n2345,n2345,1,trace,31,0.004126309,148501.868114,6.932e-06,610.712703,162.4531,3101.526,0.2729,12.755,mil,psf,1579,1952,agreed,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,32,0.004225547,148822.139167,6.988e-06,1105.698821,166.3601,3108.215,0.2751,23.093,mil,psf,1602,1950,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,33,0.004398112,149135.419701,7.005e-06,1105.938222,173.154,3114.758,0.2758,23.098,mil,psf,1642,1948,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,34,0.004501617,148960.704636,7.003e-06,940.942849,177.229,3111.109,0.2757,19.652,mil,psf,1666,1949,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,35,0.004626623,148124.380152,7.015e-06,940.559807,182.1505,3093.642,0.2762,19.644,mil,psf,1695,1954,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,36,0.004734352,147124.736105,7.026e-06,940.081005,186.3918,3072.764,0.2766,19.634,mil,psf,1720,1960,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,37,0.004919599,145128.177186,7.028e-06,774.080147,193.685,3031.065,0.2767,16.167,mil,psf,1763,1972,one-sided,claude,column moved off a marker; column moved 3 px off a gap in the dashed line
+b68-ds-fc-1c-n2345,n2345,1,trace,38,0.005005746,144130.400469,7.074e-06,1113.551183,197.0766,3010.226,0.2785,23.257,mil,psf,1783,1978,agreed,claude,merged with the horizontal gridline
+b68-ds-fc-1c-n2345,n2345,1,trace,93,0.005035898,143693.876148,7.12e-06,1480.457608,198.2637,3001.109,0.2803,30.92,mil,psf,1790,1980.5,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain
+b68-ds-fc-1c-n2345,n2345,1,trace,94,0.005109931,143519.208963,7.452e-06,2822.253985,201.1784,2997.461,0.2934,58.944,mil,psf,1807,1981.5,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain
+b68-ds-fc-1c-n2345,n2345,1,trace,95,0.005136467,143516.479789,7.447e-06,2822.253985,202.2231,2997.404,0.2932,58.944,mil,psf,1813,1981.5,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain
+b68-ds-fc-1c-n2345,n2345,1,trace,96,0.005193789,142001.692035,7.44e-06,2822.110345,204.4799,2965.767,0.2929,58.941,mil,psf,1826,1990.5,one-sided,codex,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain
+b68-ds-fc-1c-n2345,n2345,1,trace,97,0.005246688,140487.478845,7.259e-06,1313.403384,206.5625,2934.142,0.2858,27.431,mil,psf,1838,1999.5,one-sided,codex,visible author-line ink; column displaced from vertical grid
+b68-ds-fc-1c-n2345,n2345,1,trace,40,0.005264391,140254.828667,7.381e-06,1290.51662,207.2595,2929.283,0.2906,26.953,mil,psf,1842,2001,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,41,0.005392506,138732.523713,7.447e-06,1290.756022,212.3034,2897.489,0.2932,26.958,mil,psf,1871,2010,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,42,0.005516217,137378.469989,7.47e-06,955.354807,217.1739,2869.209,0.2941,19.953,mil,psf,1899,2018,agreed,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,43,0.005692935,135348.299128,7.541e-06,787.917542,224.1313,2826.808,0.2969,16.456,mil,psf,1939,2030,one-sided,claude,column moved off a marker
+b68-ds-fc-1c-n2345,n2345,1,trace,44,0.005781294,134333.285518,7.607e-06,955.88149,227.61,2805.609,0.2995,19.964,mil,psf,1959,2036,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,45,0.00591389,133314.010564,7.694e-06,1123.797559,232.8303,2784.321,0.3029,23.471,mil,psf,1989,2042,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,46,0.006042101,132630.759269,7.76e-06,1123.941199,237.878,2770.051,0.3055,23.474,mil,psf,2018,2046,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,47,0.00617031,131947.555853,7.823e-06,1124.03696,242.9256,2755.782,0.308,23.476,mil,psf,2047,2050,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,1,trace,48,0.006285271,131433.321872,7.844e-06,788.539985,247.4516,2745.042,0.3088,16.469,mil,psf,2073,2053,confirmed,claude,"column moved off a marker; column moved -3 px off a gap in the dashed line | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 016 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R3 (W1-03), R1 (W1-03); was one-sided-verified"
+b68-ds-fc-1c-n2345,n2345,2,marker,1,0.000277305,-0.000349,1.1336e-05,2.6e-05,10.9175,-13.7295,0.4463,1.0091,mil,mil,694,3315,agreed,claude,
+b68-ds-fc-1c-n2345,n2345,2,marker,2,0.000761784,-0.000349,1.1229e-05,2.6e-05,29.9915,-13.7328,0.4421,1.0091,mil,mil,806,3315,confirmed,claude,"decision: the claude reading is on the symbol center; credit claude (blind adjudication item 028 (Claude's adjudicator: q; Codex's: q)) | audit: confirmed by R3 (W1-02), R4 (W1-02); was resolved"
+b68-ds-fc-1c-n2345,n2345,2,marker,3,0.001047862,-0.000119,1.5519e-05,3.5e-05,41.2544,-4.6728,0.611,1.3614,mil,mil,872,3289,agreed,claude,touches the asterisk to its left
+b68-ds-fc-1c-n2345,n2345,2,marker,4,0.001272532,-0.000225,1.5441e-05,3.5e-05,50.0997,-8.8568,0.6079,1.3597,mil,mil,924,3301,one-sided-verified,claude,"cluster on the 50 gridline | decision: verified on the page by codex's adjudicator; blind adjudication item 025 (Claude's adjudicator: yes; Codex's: yes) | audit: ok + cannot tell by R3 (W1-03), R1 (W1-03)"
+b68-ds-fc-1c-n2345,n2345,2,marker,5,0.001798886,-0.000172,1.5766e-05,3.5e-05,70.8223,-6.7694,0.6207,1.3605,mil,mil,1047,3295,agreed,claude,round-cornered outline; could be a circle; x marker touches it below
+b68-ds-fc-1c-n2345,n2345,2,marker,6,0.002304125,-1.3e-05,1.6203e-05,3.5e-05,90.7136,-0.4993,0.6379,1.3701,mil,mil,1165,3277,confirmed,claude,"on the 0 gridline; x marker touches it below | decision: the claude reading is on the symbol center; credit claude (blind adjudication item 026 (Claude's adjudicator: p; Codex's: p)) | audit: confirmed by R3 (W1-02), R4 (W1-02); was resolved"
+b68-ds-fc-1c-n2345,n2345,2,marker,7,0.002810398,7.6e-05,1.6767e-05,3.5e-05,110.6456,3.0094,0.6601,1.3737,mil,mil,1282,3267,agreed,claude,on the 0 gridline; x marker touches it below
+b68-ds-fc-1c-n2345,n2345,2,marker,8,0.003575027,0.000264,1.6858e-05,3.5e-05,140.7491,10.384,0.6637,1.3674,mil,mil,1457,3246,confirmed,claude,"touches the asterisk and the plus | decision: the claude reading is on the symbol center; credit claude (blind adjudication item 029 (Claude's adjudicator: q; Codex's: q)) | audit: confirmed by R3 (W1-02), R4 (W1-02); was resolved"
+b68-ds-fc-1c-n2345,n2345,2,marker,9,0.004078211,0.000335,1.6487e-05,3.5e-05,160.5595,13.1881,0.6491,1.3648,mil,mil,1573,3238,agreed,claude,touches the asterisk above
+b68-ds-fc-1c-n2345,n2345,2,marker,10,0.004574372,0.000549,1.6134e-05,3.4e-05,180.0934,21.6108,0.6352,1.3579,mil,mil,1688,3214,confirmed,claude,"touches the asterisk and the plus | decision: the claude reading is on the symbol center; credit claude (blind adjudication item 027 (Claude's adjudicator: q; Codex's: q)) | audit: confirmed by R3 (W1-02), R4 (W1-02); was resolved"
+b68-ds-fc-1c-n2345,n2345,2,marker,11,0.005078938,0.000647,1.6124e-05,3.4e-05,199.9582,25.4627,0.6348,1.3545,mil,mil,1805,3203,confirmed,claude,"on the 200 gridline | decision: the claude reading is on the symbol center; credit claude (blind adjudication item 028 (Claude's adjudicator: q; Codex's: q)) | audit: confirmed by R3 (W1-03), R1 (W1-03); was resolved"
+b68-ds-fc-1c-n2345,n2345,2,marker,12,0.005605112,0.000771,1.5911e-05,3.4e-05,220.6737,30.3649,0.6264,1.3503,mil,mil,1924,3189,agreed,claude,touches the plus below
+b68-ds-fc-1c-n2345,n2345,2,marker,13,0.006352344,0.000896,1.5611e-05,3.4e-05,250.0923,35.2572,0.6146,1.3459,mil,mil,2093,3175,agreed,claude,on the 250 gridline

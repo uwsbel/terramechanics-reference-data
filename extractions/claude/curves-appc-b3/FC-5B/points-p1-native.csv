@@ -1,0 +1,403 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-5B,1,n4695,marker,1,707,1900.5,2,2,plus,,4.961,1881.112,1.291,10.398
+FC-5B,1,n4695,marker,2,791.5,1818,2,2,plus,,19.296,2161.049,1.291,10.398
+FC-5B,1,n4695,marker,3,852.5,1777.5,2,2,plus,,29.629,2298.347,1.291,10.398
+FC-5B,1,n4695,marker,4,969.5,1731.5,2,2,plus,right arm touches the 50 vertical gridline,49.422,2453.983,1.291,10.398
+FC-5B,1,n4695,marker,5,1082,1706,2,2,plus,,68.439,2539.952,1.291,10.398
+FC-5B,1,n4695,marker,6,1229,1686,2,3,plus,"small, asymmetric plus: vertical bar 1673-1694, arms at 1685-1690; center taken at the crossing",93.276,2607.001,1.292,13.798
+FC-5B,1,n4695,marker,7,1314.5,1682,3,4,plus,"faint, broken plus merged with the drawn line; only its vertical bar shows above and below the line; read as a marker from that bar and the 13-point spacing",107.717,2620.049,1.461,17.204
+FC-5B,1,n4695,marker,8,1432.5,1677,2,2,plus,horizontal arms merged with the drawn line; center from the vertical bar,127.646,2636.288,1.291,10.398
+FC-5B,1,n4695,marker,9,1551,1676,2,2,plus,horizontal arms merged with the drawn line; right arm reaches the 150 vertical gridline,147.656,2638.924,1.291,10.398
+FC-5B,1,n4695,marker,10,1673.5,1677.5,2,2,plus,,168.34,2633.035,1.291,10.398
+FC-5B,1,n4695,marker,11,1842.5,1678.5,2,2,plus,,196.875,2628.547,1.291,10.398
+FC-5B,1,n4695,marker,12,1968.5,1681,2,2,plus,,218.149,2619.236,1.291,10.398
+FC-5B,1,n4695,marker,13,2130,1691,2,2,plus,last marker; drawn line ends at u~2107 short of it,245.411,2584.198,1.291,10.398
+FC-5B,1,n4695,trace,1,725.5,1890,4.0,1,,"first point of the drawn line (lowest ink at u 722-729, v~1892); row sample on the steep start",8.094,1916.691,1.628,7.012
+FC-5B,1,n4695,trace,2,728.5,1883,7.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",8.606,1940.47,2.134,7.031
+FC-5B,1,n4695,trace,3,733.5,1877,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",9.455,1960.836,1.966,7.024
+FC-5B,1,n4695,trace,4,748.5,1859,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",12.002,2021.936,1.966,7.024
+FC-5B,1,n4695,trace,5,761.0,1847,7.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",14.123,2062.652,2.219,7.034
+FC-5B,1,n4695,trace,6,773.0,1835,7.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",16.158,2103.372,2.219,7.034
+FC-5B,1,n4695,trace,7,815,1802.5,1,6.0,,,23.277,2213.594,1.125,23.991
+FC-5B,1,n4695,trace,8,830,1792.5,1,6.0,,,25.817,2247.496,1.125,23.991
+FC-5B,1,n4695,trace,9,875,1766.5,1,6.0,,,33.437,2335.6,1.125,23.991
+FC-5B,1,n4695,trace,10,890,1759.5,1,6.0,,,35.975,2359.302,1.125,23.991
+FC-5B,1,n4695,trace,11,910,1751.0,1,5.5,,,39.359,2388.071,1.125,22.291
+FC-5B,1,n4695,trace,12,930,1745.0,1,6.5,,,42.741,2408.341,1.126,25.691
+FC-5B,1,n4695,trace,13,945,1738.5,1,6.0,,,45.279,2430.342,1.125,23.991
+FC-5B,1,n4695,trace,14,1000,1722.5,1,5.0,,,54.579,2484.384,1.125,20.591
+FC-5B,1,n4695,trace,15,1020,1717.5,1,6.0,,,57.96,2501.254,1.125,23.991
+FC-5B,1,n4695,trace,16,1040,1712.0,1,5.5,,,61.342,2519.824,1.125,22.291
+FC-5B,1,n4695,trace,17,1060,1709.0,1,5.5,,,64.721,2529.895,1.125,22.291
+FC-5B,1,n4695,trace,18,1110,1700.0,1,5.5,,,73.171,2560.171,1.125,22.291
+FC-5B,1,n4695,trace,19,1130,1696.5,1,6.0,,,76.551,2571.941,1.125,23.991
+FC-5B,1,n4695,trace,20,1150,1693.5,1,6.0,,,79.931,2582.012,1.125,23.991
+FC-5B,1,n4695,trace,21,1170,1691.0,1,5.5,,,83.31,2590.382,1.125,22.291
+FC-5B,1,n4695,trace,22,1190,1688.5,1,6.0,,,86.689,2598.753,1.125,23.991
+FC-5B,1,n4695,trace,23,1200,1687.5,1,6.0,,,88.378,2602.088,1.125,23.991
+FC-5B,1,n4695,trace,24,1260,1683.0,1,4.5,,,98.513,2617.001,1.124,18.891
+FC-5B,1,n4695,trace,25,1290,1681.5,1,6.0,,,103.58,2621.907,1.125,23.991
+FC-5B,1,n4695,trace,26,1340,1679.0,1,5.5,,,112.025,2630.084,1.125,22.291
+FC-5B,1,n4695,trace,27,1360,1678.5,1,6.0,,,115.403,2631.655,1.125,23.991
+FC-5B,1,n4695,trace,28,1380,1677.5,1,5.0,,,118.78,2634.926,1.125,20.591
+FC-5B,1,n4695,trace,29,1400,1676.5,1,6.0,,,122.158,2638.197,1.125,23.991
+FC-5B,1,n4695,trace,30,1410,1677.5,1,5.0,,,123.846,2634.733,1.125,20.591
+FC-5B,1,n4695,trace,31,1460,1677.5,1,5.0,,,132.289,2634.411,1.125,20.591
+FC-5B,1,n4695,trace,32,1480,1676.5,1,6.0,,,135.667,2637.682,1.125,23.991
+FC-5B,1,n4695,trace,33,1500,1677.5,1,5.0,,,139.043,2634.153,1.125,20.591
+FC-5B,1,n4695,trace,34,1520,1677.5,1,5.0,,,142.42,2634.024,1.125,20.591
+FC-5B,1,n4695,trace,35,1530,1678.5,1,6.0,,,144.108,2630.56,1.125,23.991
+FC-5B,1,n4695,trace,36,1585,1677.5,1,5.0,,,153.396,2633.606,1.125,20.591
+FC-5B,1,n4695,trace,37,1600,1678.5,1,6.0,,,155.928,2630.109,1.125,23.991
+FC-5B,1,n4695,trace,38,1620,1678.5,1,6.0,,,159.305,2629.98,1.125,23.991
+FC-5B,1,n4695,trace,39,1640,1678.5,1,6.0,,,162.682,2629.851,1.125,23.991
+FC-5B,1,n4695,trace,40,1650,1678.5,1,6.0,,,164.371,2629.787,1.125,23.991
+FC-5B,1,n4695,trace,41,1700,1678.5,1,6.0,,,172.813,2629.465,1.125,23.991
+FC-5B,1,n4695,trace,42,1720,1677.5,1,5.0,,,176.191,2632.736,1.125,20.591
+FC-5B,1,n4695,trace,43,1740,1678.5,1,6.0,,,179.568,2629.207,1.125,23.991
+FC-5B,1,n4695,trace,44,1760,1677.5,1,5.0,,,182.946,2632.478,1.125,20.591
+FC-5B,1,n4695,trace,45,1780,1679.0,1,6.5,,,186.321,2627.25,1.126,25.691
+FC-5B,1,n4695,trace,46,1800,1678.5,1,6.0,,,189.699,2628.821,1.125,23.991
+FC-5B,1,n4695,trace,47,1820,1679.0,1,5.5,,,193.076,2626.992,1.125,22.291
+FC-5B,1,n4695,trace,48,1875,1679.0,1,5.5,,,202.363,2626.638,1.125,22.291
+FC-5B,1,n4695,trace,49,1890,1680.5,1,5.0,,"first point of the drawn line (lowest ink at u 722-729, v~1892); row sample on the steep start",204.894,2621.441,1.125,20.591
+FC-5B,1,n4695,trace,50,1910,1680.5,1,5.0,,,208.272,2621.312,1.125,20.591
+FC-5B,1,n4695,trace,51,1930,1681.5,1,6.0,,,211.648,2617.784,1.125,23.991
+FC-5B,1,n4695,trace,52,1940,1682.0,1,5.5,,,213.336,2616.02,1.125,22.291
+FC-5B,1,n4695,trace,53,2000,1683.5,1,5.0,,,223.466,2610.533,1.125,20.591
+FC-5B,1,n4695,trace,54,2020,1684.5,1,6.0,,,226.842,2607.005,1.125,23.991
+FC-5B,1,n4695,trace,55,2040,1684.5,1,6.0,,,230.22,2606.876,1.125,23.991
+FC-5B,1,n4695,trace,56,2060,1685.5,1,6.0,,,233.596,2603.347,1.125,23.991
+FC-5B,1,n4695,trace,57,2080,1687.5,1,6.0,,,236.971,2596.419,1.125,23.991
+FC-5B,1,n4695,trace,58,2100,1687.5,1,6.0,,,240.348,2596.29,1.125,23.991
+FC-5B,1,n4695,trace,59,2104,1689.0,1,4.5,,"last point of the drawn line (ink ends at u~2106, short of the last plus)",241.023,2591.165,1.124,18.891
+FC-5B,1,n4695,feature,1,725.5,1890,4.0,1,,first point of the drawn line (same location as trace 1),8.094,1916.691,1.628,7.012
+FC-5B,1,n4695,feature,2,1475,1676.5,50,5.5,,peak of the drawn line (minimum v of the line center): flat top; line center within 1 px of its minimum from u 1400 to 1498 and within 3 px from u~1340 to ~1830; x of the peak is not determinate,134.823,2637.714,9.399,22.607
+FC-5B,1,n4695,feature,3,2104,1689.0,1,4.5,,last point of the drawn line (same location as the last trace sample),241.023,2591.165,1.124,18.891
+FC-5B,1,n3815,marker,1,707.5,2123.7,2,2,triangle-down,drawn line attached at its top-right corner,4.866,1122.28,1.291,10.398
+FC-5B,1,n3815,marker,2,794,1974.7,2,2,triangle-down,,19.592,1628.289,1.291,10.398
+FC-5B,1,n3815,marker,3,853.5,1937.7,2,2,triangle-down,,29.669,1753.697,1.291,10.398
+FC-5B,1,n3815,marker,4,968,1885.3,2,2,triangle-down,right corner touches the 50 vertical gridline,49.045,1931.108,1.291,10.398
+FC-5B,1,n3815,marker,5,1142.5,1841.7,2,3,triangle-down,apex merged with the 2000 psf gridline,78.545,2078.213,1.292,13.798
+FC-5B,1,n3815,marker,6,1233,1817.5,2,2,triangle-down,drawn line enters and leaves through its sides,93.846,2159.905,1.291,10.398
+FC-5B,1,n3815,marker,7,1316,1800,2,2,triangle-down,,107.875,2218.866,1.291,10.398
+FC-5B,1,n3815,marker,8,1434,1791,2,2,triangle-down,,127.807,2248.704,1.291,10.398
+FC-5B,1,n3815,marker,9,1558,1792.3,3,3,triangle-down,right corner merged with the 150 vertical gridline,148.744,2243.486,1.461,13.805
+FC-5B,1,n3815,marker,10,1696.5,1800,2,2,triangle-down,,172.125,2216.415,1.291,10.398
+FC-5B,1,n3815,marker,11,1817,1805.7,2,2,triangle-down,,192.467,2196.26,1.291,10.398
+FC-5B,1,n3815,marker,12,1963,1814.7,2,2,triangle-down,,217.113,2164.721,1.291,10.398
+FC-5B,1,n3815,marker,13,2131,1829.7,2,2,triangle-down,last marker,245.469,2112.643,1.291,10.398
+FC-5B,1,n3815,trace,1,722.5,2110,7.0,1,,"first point of the drawn line, where it leaves the top-right corner of the first triangle-down; row sample",7.41,1168.76,2.134,7.031
+FC-5B,1,n3815,trace,2,727.5,2096,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",8.266,1216.325,1.966,7.024
+FC-5B,1,n3815,trace,3,732.5,2084,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",9.12,1257.09,1.966,7.024
+FC-5B,1,n3815,trace,4,738.5,2072,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",10.142,1297.848,1.966,7.024
+FC-5B,1,n3815,trace,5,744.5,2060,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",11.165,1338.607,1.966,7.024
+FC-5B,1,n3815,trace,6,751.5,2048,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",12.357,1379.359,1.966,7.024
+FC-5B,1,n3815,trace,7,758.5,2036,7.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",13.549,1420.111,2.134,7.031
+FC-5B,1,n3815,trace,8,767.5,2024,7.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",15.078,1460.851,2.134,7.031
+FC-5B,1,n3815,trace,9,778.0,2012,6.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",16.86,1501.58,2.05,7.028
+FC-5B,1,n3815,trace,10,782.5,2004,5.0,1,,"end of the first drawn segment (ink stops at v~2000, u~782, below the second triangle-down); row sample",17.627,1528.75,1.797,7.018
+FC-5B,1,n3815,trace,11,820,1971.0,1,7.5,,,23.985,1640.7,1.127,29.091
+FC-5B,1,n3815,trace,12,830,1962.0,1,7.5,,,25.681,1671.234,1.127,29.091
+FC-5B,1,n3815,trace,13,838,1958.0,1,6.5,,,27.035,1684.782,1.126,25.691
+FC-5B,1,n3815,trace,14,880,1930.5,1,6.0,,,34.149,1778.005,1.125,23.991
+FC-5B,1,n3815,trace,15,900,1919.0,1,6.5,,,37.536,1816.973,1.126,25.691
+FC-5B,1,n3815,trace,16,920,1909.5,1,6.0,,,40.92,1849.142,1.125,23.991
+FC-5B,1,n3815,trace,17,940,1901.0,1,6.5,,,44.304,1877.912,1.126,25.691
+FC-5B,1,n3815,trace,18,950,1897.5,1,6.0,,,45.996,1889.746,1.125,23.991
+FC-5B,1,n3815,trace,19,1000,1882.5,1,6.0,,,54.451,1940.421,1.125,23.991
+FC-5B,1,n3815,trace,20,1010,1879.5,1,6.0,,,56.141,1950.556,1.125,23.991
+FC-5B,1,n3815,trace,21,1030,1871.0,1,7,,crosses the 2000 psf gridline here; dark run 1865-1877 includes gridline ink; bound widened,59.525,1979.325,1.126,27.391
+FC-5B,1,n3815,trace,22,1060,1864.5,1,7,,crosses the 2000 psf gridline here; dark run 1859-1870 includes gridline ink; bound widened,64.596,2001.23,1.126,27.391
+FC-5B,1,n3815,trace,23,1090,1855.5,1,6.0,,,69.669,2031.635,1.125,23.991
+FC-5B,1,n3815,trace,24,1100,1852.5,1,6.0,,,71.36,2041.77,1.125,23.991
+FC-5B,1,n3815,trace,25,1110,1849.5,1,6.0,,,73.051,2051.905,1.125,23.991
+FC-5B,1,n3815,trace,26,1120,1847.5,1,6.0,,,74.741,2058.64,1.125,23.991
+FC-5B,1,n3815,trace,27,1170,1836.5,1,7.0,,,83.193,2095.715,1.126,27.391
+FC-5B,1,n3815,trace,28,1180,1834.5,1,6.0,,,84.883,2102.45,1.125,23.991
+FC-5B,1,n3815,trace,29,1190,1831.5,1,6.0,,,86.574,2112.585,1.125,23.991
+FC-5B,1,n3815,trace,30,1200,1829.5,1,6.0,,,88.264,2119.32,1.125,23.991
+FC-5B,1,n3815,trace,31,1210,1828.5,1,6.0,,,89.954,2122.656,1.125,23.991
+FC-5B,1,n3815,trace,32,1260,1818.5,1,5.0,,,98.404,2156.331,1.125,20.591
+FC-5B,1,n3815,trace,33,1290,1814.0,1,5.5,,,103.474,2171.437,1.125,22.291
+FC-5B,1,n3815,trace,34,1350,1804.5,1,6.0,,,113.613,2203.348,1.125,23.991
+FC-5B,1,n3815,trace,35,1370,1802.5,1,6.0,,,116.991,2210.019,1.125,23.991
+FC-5B,1,n3815,trace,36,1390,1801.5,1,6.0,,,120.369,2213.29,1.125,23.991
+FC-5B,1,n3815,trace,37,1410,1799.0,1,6.5,,,123.748,2221.66,1.126,25.691
+FC-5B,1,n3815,trace,38,1460,1797.5,1,5.0,,,132.192,2226.438,1.125,20.591
+FC-5B,1,n3815,trace,39,1480,1796.0,1,5.5,,,135.571,2231.409,1.125,22.291
+FC-5B,1,n3815,trace,40,1500,1796.5,1,6.0,,,138.947,2229.58,1.125,23.991
+FC-5B,1,n3815,trace,41,1520,1796.0,1,5.5,,,142.325,2231.151,1.125,22.291
+FC-5B,1,n3815,trace,42,1530,1796.0,1,5.5,,,144.014,2231.087,1.125,22.291
+FC-5B,1,n3815,trace,43,1590,1796.5,1,6.0,,,154.144,2229.0,1.125,23.991
+FC-5B,1,n3815,trace,44,1610,1798.5,1,6.0,,,157.52,2222.072,1.125,23.991
+FC-5B,1,n3815,trace,45,1630,1798.5,1,6.0,,,160.897,2221.943,1.125,23.991
+FC-5B,1,n3815,trace,46,1650,1799.5,1,6.0,,,164.273,2218.414,1.125,23.991
+FC-5B,1,n3815,trace,47,1670,1801.5,1,6.0,,,167.649,2211.486,1.125,23.991
+FC-5B,1,n3815,trace,48,1720,1805.0,1,5.5,,,176.089,2199.265,1.125,22.291
+FC-5B,1,n3815,trace,49,1740,1805.5,1,6.0,,,179.466,2197.436,1.125,23.991
+FC-5B,1,n3815,trace,50,1760,1806.5,1,5.0,,,182.842,2193.907,1.125,20.591
+FC-5B,1,n3815,trace,51,1780,1808.5,1,6.0,,,186.217,2186.979,1.125,23.991
+FC-5B,1,n3815,trace,52,1790,1808.5,1,6.0,,,187.906,2186.915,1.125,23.991
+FC-5B,1,n3815,trace,53,1846,1811.0,1,5.5,,line resumes after the triangle-down at u~1817; a thin stray stroke at v 1820-1822 (u~1815 to 1855) below the line is not part of it,197.36,2178.054,1.125,22.291
+FC-5B,1,n3815,trace,54,1870,1813.5,1,6.0,,,201.41,2169.4,1.125,23.991
+FC-5B,1,n3815,trace,55,1880,1814.0,1,5.5,,,203.099,2167.636,1.125,22.291
+FC-5B,1,n3815,trace,56,1900,1816.5,1,6.0,,,206.474,2159.008,1.125,23.991
+FC-5B,1,n3815,trace,57,1920,1817.0,1,5.5,,,209.85,2157.179,1.125,22.291
+FC-5B,1,n3815,trace,58,1930,1818.5,1,5.0,,,211.538,2152.015,1.125,20.591
+FC-5B,1,n3815,trace,59,1990,1824.5,1,7.0,,,221.664,2131.23,1.126,27.391
+FC-5B,1,n3815,trace,60,2000,1825.5,1,6.0,,,223.352,2127.766,1.125,23.991
+FC-5B,1,n3815,trace,61,2020,1826.0,1,6.5,,,226.729,2125.937,1.126,25.691
+FC-5B,1,n3815,trace,62,2040,1828.5,1,6.0,,,230.104,2117.309,1.125,23.991
+FC-5B,1,n3815,trace,63,2060,1829.5,1,6.0,,,233.48,2113.78,1.125,23.991
+FC-5B,1,n3815,trace,64,2080,1832.0,1,5.5,,,236.855,2105.152,1.125,22.291
+FC-5B,1,n3815,trace,65,2100,1834.5,1,6.0,,,240.23,2096.523,1.125,23.991
+FC-5B,1,n3815,trace,66,2112,1835.0,1,5.5,,"last point of the drawn line (ink ends at u~2114, before the last triangle-down)",242.256,2094.746,1.125,22.291
+FC-5B,1,n3815,feature,1,722.5,2110,7.0,1,,first point of the drawn line (same location as trace 1),7.41,1168.76,2.134,7.031
+FC-5B,1,n3815,feature,2,1520,1796.0,65,5.5,,peak of the drawn line (minimum v of the line center): flat top; line center at its minimum (1796) from u 1464 to 1594 (the stretch around the 150 gridline and the marker at u~1558 not sampled); x of the peak is not determinate,142.325,2231.151,11.932,22.703
+FC-5B,1,n3815,feature,3,2112,1835.0,1,5.5,,last point of the drawn line (same location as the last trace sample),242.256,2094.746,1.125,22.291
+FC-5B,1,n2934,marker,1,711.5,2221.5,2,2,circle,drawn line leaves from its top,5.463,789.756,1.291,10.398
+FC-5B,1,n2934,marker,2,797.5,2074.5,2,2,circle,drawn line overlaps its lower right,20.103,1288.969,1.291,10.398
+FC-5B,1,n2934,marker,3,856.5,2059.5,2,2,circle,,30.077,1339.585,1.291,10.398
+FC-5B,1,n2934,marker,4,972,2042,2,2,circle,"sits below the drawn line, touching its lower edge; right side hidden in the 50 vertical gridline",49.594,1398.337,1.291,10.398
+FC-5B,1,n2934,marker,5,1088.5,2012.5,2,2,circle,"sits below the drawn line (top touches the line), off the curve",69.29,1497.88,1.291,10.398
+FC-5B,1,n2934,marker,6,1261,1977,2,2,circle,,98.446,1617.461,1.291,10.398
+FC-5B,1,n2934,marker,7,1437,1980,2,2,circle,,128.162,1606.128,1.291,10.398
+FC-5B,1,n2934,marker,8,1558.5,1979,3,2,circle,right side merged with the 150 vertical gridline,148.679,1608.745,1.46,10.405
+FC-5B,1,n2934,marker,9,1701,1982.5,2,2,circle,,172.738,1595.927,1.291,10.398
+FC-5B,1,n2934,marker,10,1795.5,1983.5,2,2,circle,,188.694,1591.919,1.291,10.398
+FC-5B,1,n2934,marker,11,1965.5,1985,2,2,circle,,217.398,1585.724,1.291,10.398
+FC-5B,1,n2934,marker,12,2150,1979,3,2,circle,straddles the 250 vertical gridline; last marker,248.557,1604.934,1.46,10.405
+FC-5B,1,n2934,trace,1,717.5,2206,6.0,1,,"first point of the drawn line, just above the first circle's outline; row sample",6.489,842.414,1.966,7.024
+FC-5B,1,n2934,trace,2,719.5,2200,5.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",6.831,862.8,1.797,7.018
+FC-5B,1,n2934,trace,3,721.5,2194,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",7.174,883.186,1.966,7.024
+FC-5B,1,n2934,trace,4,725.5,2188,5.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",7.854,903.559,1.797,7.018
+FC-5B,1,n2934,trace,5,728.5,2182,7.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",8.366,923.938,2.134,7.031
+FC-5B,1,n2934,trace,6,732.5,2176,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",9.046,944.311,1.966,7.024
+FC-5B,1,n2934,trace,7,735.5,2170,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",9.557,964.69,1.966,7.024
+FC-5B,1,n2934,trace,8,750.5,2146,6.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",12.109,1046.188,1.966,7.024
+FC-5B,1,n2934,trace,9,754.0,2140,6.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",12.705,1066.564,2.05,7.028
+FC-5B,1,n2934,trace,10,759.0,2134,7.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",13.554,1086.93,2.219,7.034
+FC-5B,1,n2934,trace,11,765.0,2128,7.5,1,,"row sample on a steep part (u is the reading, v the chosen row)",14.572,1107.29,2.219,7.034
+FC-5B,1,n2934,trace,12,770.5,2122,8.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",15.506,1127.654,2.303,7.037
+FC-5B,1,n2934,trace,13,776.5,2116,8.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",16.524,1148.014,2.303,7.037
+FC-5B,1,n2934,trace,14,782.5,2110,8.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",17.542,1168.374,2.303,7.037
+FC-5B,1,n2934,trace,15,789.5,2104,9.0,1,,"row sample on a steep part (u is the reading, v the chosen row)",18.728,1188.727,2.472,7.044
+FC-5B,1,n2934,trace,16,820,2080.5,1,6.0,,,23.897,1268.425,1.125,23.991
+FC-5B,1,n2934,trace,17,830,2073.5,1,7.0,,,25.592,1292.159,1.126,27.391
+FC-5B,1,n2934,trace,18,840,2068.5,1,6.0,,,27.284,1309.094,1.125,23.991
+FC-5B,1,n2934,trace,19,880,2049.0,1,7.5,,,34.054,1375.132,1.127,29.091
+FC-5B,1,n2934,trace,20,890,2045.5,1,6.0,,,35.745,1386.966,1.125,23.991
+FC-5B,1,n2934,trace,21,900,2041.5,1,6.0,,,37.437,1400.501,1.125,23.991
+FC-5B,1,n2934,trace,22,920,2035.5,1,6.0,,,40.819,1420.771,1.125,23.991
+FC-5B,1,n2934,trace,23,940,2029.5,1,6.0,,,44.201,1441.041,1.125,23.991
+FC-5B,1,n2934,trace,24,950,2027.0,1,6.5,,,45.892,1449.476,1.126,25.691
+FC-5B,1,n2934,trace,25,960,2023.5,1,6.0,,"line passes above the circle at u~972 without a gap; sampled on the line, clear of the circle's outline",47.583,1461.31,1.125,23.991
+FC-5B,1,n2934,trace,26,970,2020.5,1,6.0,,"line passes above the circle at u~972 without a gap; sampled on the line, clear of the circle's outline",49.274,1471.445,1.125,23.991
+FC-5B,1,n2934,trace,27,1000,2014.5,1,6.0,,,54.344,1491.651,1.125,23.991
+FC-5B,1,n2934,trace,28,1020,2008.5,1,6.0,,,57.726,1511.921,1.125,23.991
+FC-5B,1,n2934,trace,29,1040,2005.5,1,6.0,,,61.106,1521.991,1.125,23.991
+FC-5B,1,n2934,trace,30,1060,2002.5,1,6.0,,,64.485,1532.061,1.125,23.991
+FC-5B,1,n2934,trace,31,1070,1999.5,1,6.0,,,66.176,1542.196,1.125,23.991
+FC-5B,1,n2934,trace,32,1110,1993.5,1,6.0,,,72.935,1562.337,1.125,23.991
+FC-5B,1,n2934,trace,33,1130,1990.5,1,6.0,,,76.315,1572.408,1.125,23.991
+FC-5B,1,n2934,trace,34,1150,1988.0,1,5.5,,,79.694,1580.778,1.125,22.291
+FC-5B,1,n2934,trace,35,1170,1987.5,1,6.0,,,83.072,1582.349,1.125,23.991
+FC-5B,1,n2934,trace,36,1190,1984.5,1,6.0,,,86.451,1592.42,1.125,23.991
+FC-5B,1,n2934,trace,37,1210,1984.5,1,6.0,,,89.828,1592.291,1.125,23.991
+FC-5B,1,n2934,trace,38,1230,1981.5,1,6.0,,,93.208,1602.362,1.125,23.991
+FC-5B,1,n2934,trace,39,1240,1981.5,1,6.0,,,94.896,1602.297,1.125,23.991
+FC-5B,1,n2934,trace,40,1290,1981.5,1,6.0,,,103.339,1601.975,1.125,23.991
+FC-5B,1,n2934,trace,41,1310,1980.5,1,5.0,,,106.717,1605.246,1.125,20.591
+FC-5B,1,n2934,trace,42,1330,1980.5,1,7.0,,,110.094,1605.117,1.126,27.391
+FC-5B,1,n2934,trace,43,1350,1980.5,1,5.0,,,113.471,1604.988,1.125,20.591
+FC-5B,1,n2934,trace,44,1370,1980.5,1,5.0,,,116.848,1604.859,1.125,20.591
+FC-5B,1,n2934,trace,45,1390,1980.5,1,5.0,,,120.225,1604.731,1.125,20.591
+FC-5B,1,n2934,trace,46,1410,1980.5,1,5.0,,,123.603,1604.602,1.125,20.591
+FC-5B,1,n2934,trace,47,1460,1981.5,1,6.0,,,132.045,1600.88,1.125,23.991
+FC-5B,1,n2934,trace,48,1480,1980.5,1,5.0,,,135.422,1604.151,1.125,20.591
+FC-5B,1,n2934,trace,49,1500,1980.5,1,5.0,,,138.8,1604.022,1.125,20.591
+FC-5B,1,n2934,trace,50,1520,1981.5,1,6.0,,,142.176,1600.493,1.125,23.991
+FC-5B,1,n2934,trace,51,1530,1981.5,1,6.0,,,143.864,1600.429,1.125,23.991
+FC-5B,1,n2934,trace,52,1590,1981.5,1,6.0,,,153.996,1600.042,1.125,23.991
+FC-5B,1,n2934,trace,53,1610,1982.0,1,6.5,,,157.373,1598.214,1.126,25.691
+FC-5B,1,n2934,trace,54,1630,1981.5,1,6.0,,,160.75,1599.785,1.125,23.991
+FC-5B,1,n2934,trace,55,1650,1982.5,1,6.0,,,164.126,1596.256,1.125,23.991
+FC-5B,1,n2934,trace,56,1670,1982.5,1,6.0,,,167.503,1596.127,1.125,23.991
+FC-5B,1,n2934,trace,57,1680,1982.5,1,6.0,,,169.192,1596.063,1.125,23.991
+FC-5B,1,n2934,trace,58,1730,1983.5,1,7.0,,,177.634,1592.341,1.126,27.391
+FC-5B,1,n2934,trace,59,1750,1984.5,1,6.0,,,181.01,1588.812,1.125,23.991
+FC-5B,1,n2934,trace,60,1770,1984.5,1,6.0,,,184.387,1588.683,1.125,23.991
+FC-5B,1,n2934,trace,61,1820,1984.5,1,6.0,,,192.83,1588.361,1.125,23.991
+FC-5B,1,n2934,trace,62,1840,1984.5,1,6.0,,,196.207,1588.232,1.125,23.991
+FC-5B,1,n2934,trace,63,1870,1985.5,1,6.0,,,201.272,1584.639,1.125,23.991
+FC-5B,1,n2934,trace,64,1890,1985.5,1,6.0,,,204.649,1584.511,1.125,23.991
+FC-5B,1,n2934,trace,65,1910,1985.5,1,6.0,,,208.026,1584.382,1.125,23.991
+FC-5B,1,n2934,trace,66,1930,1985.5,1,6.0,,,211.404,1584.253,1.125,23.991
+FC-5B,1,n2934,trace,67,1940,1985.5,1,6.0,,,213.092,1584.188,1.125,23.991
+FC-5B,1,n2934,trace,68,1990,1987.5,1,6.0,,,221.533,1577.067,1.125,23.991
+FC-5B,1,n2934,trace,69,2010,1985.5,1,6.0,,,224.912,1583.737,1.125,23.991
+FC-5B,1,n2934,trace,70,2030,1985.5,1,6.0,,,228.289,1583.609,1.125,23.991
+FC-5B,1,n2934,trace,71,2050,1985.0,1,5.5,,,231.667,1585.18,1.125,22.291
+FC-5B,1,n2934,trace,72,2070,1984.5,1,6.0,,,235.044,1586.751,1.125,23.991
+FC-5B,1,n2934,trace,73,2090,1984.5,1,6.0,,,238.421,1586.622,1.125,23.991
+FC-5B,1,n2934,trace,74,2110,1984.5,1,6.0,,,241.798,1586.493,1.125,23.991
+FC-5B,1,n2934,trace,75,2130,1983.5,1,7.0,,,245.176,1589.764,1.126,27.391
+FC-5B,1,n2934,trace,76,2136,1983.5,1,7.0,,"last point of the drawn line, where it meets the last circle (on the 250 gridline)",246.189,1589.725,1.126,27.391
+FC-5B,1,n2934,feature,1,717.5,2206,6.0,1,,first point of the drawn line (same location as trace 1),6.489,842.414,1.966,7.024
+FC-5B,1,n2934,feature,2,1320,1980.0,95,5.5,,peak of the drawn line (minimum v of the line center): flat top; line center within 1 px of its minimum from u 1310 to 1500; x of the peak is not determinate,108.406,1606.881,16.997,22.897
+FC-5B,1,n2934,feature,3,2136,1983.5,1,7.0,,last point of the drawn line (same location as the last trace sample),246.189,1589.725,1.126,27.391
+FC-5B,1,n1761,marker,1,712,2284.5,2,3,square,top edge merged with the base of the n734 triangle-up above it; center from the square's hole and bottom edge,5.497,575.567,1.292,13.798
+FC-5B,1,n1761,marker,2,797,2216,2,3,square,bottom edge merged with the apex of the n734 triangle-up below it,19.905,807.904,1.292,13.798
+FC-5B,1,n1761,marker,3,853,2201.5,2,2,square,,29.372,856.84,1.291,10.398
+FC-5B,1,n1761,marker,4,965,2190.5,2,2,square,right edge touches the 50 vertical gridline,48.293,893.516,1.291,10.398
+FC-5B,1,n1761,marker,5,1092,2182.5,2,2,square,,69.744,919.896,1.291,10.398
+FC-5B,1,n1761,marker,6,1205,2175.5,2,2,square,top edge touches the 1000 psf gridline,88.83,942.967,1.291,10.398
+FC-5B,1,n1761,marker,7,1323.5,2170,2,3,square,top edge merged with the 1000 psf gridline,108.844,960.902,1.292,13.798
+FC-5B,1,n1761,marker,8,1441,2168,2,3,square,top edge on the 1000 psf gridline,128.686,966.945,1.292,13.798
+FC-5B,1,n1761,marker,9,1557.5,2161.5,3,3,square,on the 1000 psf gridline and the 150 vertical gridline,148.363,988.293,1.461,13.805
+FC-5B,1,n1761,marker,10,1672.5,2159,2,3,square,straddles the 1000 psf gridline,167.784,996.051,1.292,13.798
+FC-5B,1,n1761,marker,11,1790.5,2158.5,2,3,square,straddles the 1000 psf gridline,187.709,996.991,1.292,13.798
+FC-5B,1,n1761,marker,12,1974,2167.5,2,3,square,top edge on the 1000 psf gridline,218.687,965.211,1.292,13.798
+FC-5B,1,n1761,marker,13,2156,2175,3,2,square,straddles the 250 vertical gridline; last marker,249.413,938.54,1.46,10.405
+FC-5B,1,n1761,trace,1,730,2269.0,1,7.5,,first point of the drawn line: first column clear of the first square's right edge; run may include the square's top-right corner,8.549,628.148,1.127,29.091
+FC-5B,1,n1761,trace,2,748,2250.0,1,6.5,,the n1761 and n734 lines cross here and share one dark run (2244-2256); the same ink is filed under both series,11.604,692.628,1.126,25.691
+FC-5B,1,n1761,trace,3,766,2237.5,1,6.0,,,14.653,735.009,1.125,23.991
+FC-5B,1,n1761,trace,4,778,2231.5,1,6.0,,,16.684,755.33,1.125,23.991
+FC-5B,1,n1761,trace,5,820,2214.5,1,5.0,,,23.79,812.856,1.125,20.591
+FC-5B,1,n1761,trace,6,832,2211.5,1,5.0,,,25.818,822.978,1.125,20.591
+FC-5B,1,n1761,trace,7,880,2201.5,1,6.0,,,33.931,856.666,1.125,23.991
+FC-5B,1,n1761,trace,8,892,2200.5,1,6.0,,,35.959,859.989,1.125,23.991
+FC-5B,1,n1761,trace,9,904,2198.0,1,5.5,,,37.987,868.411,1.125,22.291
+FC-5B,1,n1761,trace,10,916,2197.5,1,6.0,,,40.013,870.033,1.125,23.991
+FC-5B,1,n1761,trace,11,928,2197.5,1,6.0,,,42.04,869.956,1.125,23.991
+FC-5B,1,n1761,trace,12,940,2195.5,1,6.0,,,44.068,876.678,1.125,23.991
+FC-5B,1,n1761,trace,13,994,2190.5,1,5.0,,,53.19,893.329,1.125,20.591
+FC-5B,1,n1761,trace,14,1000,2191.5,1,6.0,,,54.202,889.891,1.125,23.991
+FC-5B,1,n1761,trace,15,1018,2188.5,1,6.0,,,57.244,899.974,1.125,23.991
+FC-5B,1,n1761,trace,16,1036,2186.5,1,6.0,,,60.285,906.658,1.125,23.991
+FC-5B,1,n1761,trace,17,1054,2185.5,1,6.0,,,63.325,909.942,1.125,23.991
+FC-5B,1,n1761,trace,18,1072,2183.5,1,6.0,,,66.366,916.625,1.125,23.991
+FC-5B,1,n1761,trace,19,1114,2181.0,1,4.5,,,73.46,924.854,1.124,18.891
+FC-5B,1,n1761,trace,20,1132,2180.0,1,5.5,,,76.5,928.138,1.125,22.291
+FC-5B,1,n1761,trace,21,1150,2178.5,1,5.0,,,79.541,933.122,1.125,20.591
+FC-5B,1,n1761,trace,22,1168,2177.5,1,6.0,,,82.581,936.405,1.125,23.991
+FC-5B,1,n1761,trace,23,1186,2176.5,1,6.0,,,85.621,939.689,1.125,23.991
+FC-5B,1,n1761,trace,24,1234,2174.0,1,5.5,,,93.728,947.879,1.125,22.291
+FC-5B,1,n1761,trace,25,1250,2173.5,1,6.0,,,96.431,949.476,1.125,23.991
+FC-5B,1,n1761,trace,26,1290,2171.0,1,5.5,,,103.187,957.718,1.125,22.291
+FC-5B,1,n1761,trace,27,1306,2171.0,1,5.5,,,105.888,957.615,1.125,22.291
+FC-5B,1,n1761,trace,28,1346,2170.5,1,6.0,,,112.643,959.057,1.125,23.991
+FC-5B,1,n1761,trace,29,1362,2168.5,1,6.0,,,115.346,965.754,1.125,23.991
+FC-5B,1,n1761,trace,30,1386,2169.0,1,4.5,,,119.399,963.899,1.124,18.891
+FC-5B,1,n1761,trace,31,1410,2167.5,1,6.0,,,123.452,968.844,1.125,23.991
+FC-5B,1,n1761,trace,32,1466,2165.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2171 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",132.91,975.283,1.126,27.391
+FC-5B,1,n1761,trace,33,1490,2165.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2171 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",136.962,975.128,1.126,27.391
+FC-5B,1,n1761,trace,34,1514,2165.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2171 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",141.015,974.974,1.126,27.391
+FC-5B,1,n1761,trace,35,1530,2165.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2171 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",143.717,974.871,1.126,27.391
+FC-5B,1,n1761,trace,36,1586,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",153.173,977.91,1.126,27.391
+FC-5B,1,n1761,trace,37,1610,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",157.226,977.755,1.126,27.391
+FC-5B,1,n1761,trace,38,1634,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",161.278,977.6,1.126,27.391
+FC-5B,1,n1761,trace,39,1650,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",163.98,977.497,1.126,27.391
+FC-5B,1,n1761,trace,40,1706,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",173.436,977.137,1.126,27.391
+FC-5B,1,n1761,trace,41,1730,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",177.489,976.982,1.126,27.391
+FC-5B,1,n1761,trace,42,1754,2161.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2167 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",181.543,987.027,1.126,27.391
+FC-5B,1,n1761,trace,43,1770,2162.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2168 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",184.244,983.524,1.126,27.391
+FC-5B,1,n1761,trace,44,1818,2162.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2168 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",192.349,983.215,1.126,27.391
+FC-5B,1,n1761,trace,45,1842,2162.5,1,7,,"merged with the 1000 psf gridline: dark run 2154-2168 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",196.402,983.06,1.126,27.391
+FC-5B,1,n1761,trace,46,1874,2162.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2168 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",201.805,982.854,1.126,27.391
+FC-5B,1,n1761,trace,47,1898,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",205.856,975.9,1.126,27.391
+FC-5B,1,n1761,trace,48,1922,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2154-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",209.909,975.745,1.126,27.391
+FC-5B,1,n1761,trace,49,1946,2164.5,1,7,,"merged with the 1000 psf gridline: dark run 2156-2170 is gridline plus line, the line's upper edge is hidden; center = lower edge - 5.5 (half the 11 px line width seen elsewhere)",213.961,975.59,1.126,27.391
+FC-5B,1,n1761,trace,50,1994,2167.5,1,6.0,,,222.064,965.082,1.125,23.991
+FC-5B,1,n1761,trace,51,2018,2167.5,1,6.0,,,226.117,964.927,1.125,23.991
+FC-5B,1,n1761,trace,52,2042,2168.5,1,6.0,,,230.168,961.373,1.125,23.991
+FC-5B,1,n1761,trace,53,2066,2170.5,1,6.0,,,234.219,954.419,1.125,23.991
+FC-5B,1,n1761,trace,54,2090,2170.5,1,6.0,,,238.272,954.264,1.125,23.991
+FC-5B,1,n1761,trace,55,2114,2172.5,1,7.0,,,242.323,947.31,1.126,27.391
+FC-5B,1,n1761,trace,56,2138,2173.5,1,6.0,,"last point of the drawn line, where it meets the last square",246.374,943.756,1.125,23.991
+FC-5B,1,n1761,feature,1,730,2269.0,1,7.5,,first point of the drawn line (same location as trace 1),8.549,628.148,1.127,29.091
+FC-5B,1,n1761,feature,2,1800,2162.0,90,7,,peak of the drawn line (minimum v of the line center): the line is merged with the 1000 psf gridline here (center = lower edge - 5.5); within 1 px of the minimum from u 1714 to 1896; x of the peak is not determinate,189.31,985.03,16.154,27.964
+FC-5B,1,n1761,feature,3,2138,2173.5,1,6.0,,last point of the drawn line (same location as the last trace sample),246.374,943.756,1.125,23.991
+FC-5B,1,n734,marker,1,710.5,2258,3,3,triangle-up,base merged with the top edge of the n1761 square below; right side merged with the start of the n734 line,5.265,665.671,1.461,13.805
+FC-5B,1,n734,marker,2,799.5,2243,2,3,triangle-up,apex merged with the bottom edge of the n1761 square above,20.305,716.094,1.292,13.798
+FC-5B,1,n734,marker,3,862,2238.5,2,2,triangle-up,,30.862,730.991,1.291,10.398
+FC-5B,1,n734,marker,4,975.5,2236.5,3,2,triangle-up,right side merged with the 50 vertical gridline,50.029,737.059,1.46,10.405
+FC-5B,1,n734,marker,5,1093,2233,2,2,triangle-up,,69.872,748.201,1.291,10.398
+FC-5B,1,n734,marker,6,1206,2227.3,2,2,triangle-up,,88.958,766.852,1.291,10.398
+FC-5B,1,n734,marker,7,1321.5,2222.7,2,3,triangle-up,outer-edge and hole estimates differ by 2 px,108.464,781.747,1.292,13.798
+FC-5B,1,n734,marker,8,1437,2219,2,2,triangle-up,,127.97,793.582,1.291,10.398
+FC-5B,1,n734,marker,9,1558.5,2218.5,3,4,triangle-up,thick base; right corner merged with the 150 vertical gridline; outer-edge and hole estimates differ by 4 px,148.486,794.499,1.461,17.204
+FC-5B,1,n734,marker,10,1674,2219.5,2,3,triangle-up,outer-edge and hole estimates differ by 2 px,167.988,790.355,1.292,13.798
+FC-5B,1,n734,marker,11,1792.5,2215.3,2,2,triangle-up,,188.001,803.871,1.291,10.398
+FC-5B,1,n734,marker,12,1967.5,2213.7,2,2,triangle-up,,217.552,808.183,1.291,10.398
+FC-5B,1,n734,marker,13,2149.5,2216.5,3,3,triangle-up,apex and right corner hidden in the 250 vertical gridline; base merged with the drawn line; last marker,248.282,797.491,1.461,13.805
+FC-5B,1,n734,trace,1,727,2255.0,1,4.5,,first point of the drawn line: leaves the right side of the first triangle-up; first column clear of the triangle,8.054,675.764,1.124,18.891
+FC-5B,1,n734,trace,2,748,2250.0,1,6.5,,the n1761 and n734 lines cross here and share one dark run (2244-2256); the same ink is filed under both series,11.604,692.628,1.126,25.691
+FC-5B,1,n734,trace,3,766,2250.5,1,6.0,,,14.643,690.812,1.125,23.991
+FC-5B,1,n734,trace,4,776,2249.5,1,6.0,,,16.332,694.147,1.125,23.991
+FC-5B,1,n734,trace,5,820,2244.0,1,6.5,,,23.766,712.562,1.126,25.691
+FC-5B,1,n734,trace,6,828,2242.5,1,5.0,,,25.118,717.611,1.125,20.591
+FC-5B,1,n734,trace,7,836,2241.5,1,6.0,,,26.47,720.959,1.125,23.991
+FC-5B,1,n734,trace,8,884,2238.5,1,6.0,,,34.577,730.849,1.125,23.991
+FC-5B,1,n734,trace,9,900,2238.0,1,6.5,,,37.279,732.446,1.126,25.691
+FC-5B,1,n734,trace,10,916,2235.5,1,6.0,,,39.983,740.842,1.125,23.991
+FC-5B,1,n734,trace,11,932,2235.5,1,6.0,,,42.685,740.739,1.125,23.991
+FC-5B,1,n734,trace,12,948,2234.5,1,6.0,,,45.387,744.036,1.125,23.991
+FC-5B,1,n734,trace,13,956,2234.5,1,6.0,,,46.738,743.984,1.125,23.991
+FC-5B,1,n734,trace,14,1004,2231.5,1,6.0,,,54.845,753.874,1.125,23.991
+FC-5B,1,n734,trace,15,1020,2229.5,1,6.0,,,57.549,760.571,1.125,23.991
+FC-5B,1,n734,trace,16,1036,2229.5,1,6.0,,,60.25,760.468,1.125,23.991
+FC-5B,1,n734,trace,17,1052,2229.5,1,6.0,,,62.952,760.365,1.125,23.991
+FC-5B,1,n734,trace,18,1068,2229.0,1,6.5,,,65.654,761.961,1.126,25.691
+FC-5B,1,n734,trace,19,1116,2226.5,1,6.0,,,73.761,770.152,1.125,23.991
+FC-5B,1,n734,trace,20,1132,2224.5,1,5.0,,,76.465,776.848,1.125,20.591
+FC-5B,1,n734,trace,21,1148,2224.5,1,5.0,,,79.166,776.745,1.125,20.591
+FC-5B,1,n734,trace,22,1164,2223.5,1,6.0,,,81.869,780.042,1.125,23.991
+FC-5B,1,n734,trace,23,1180,2223.5,1,6.0,,,84.57,779.939,1.125,23.991
+FC-5B,1,n734,trace,24,1228,2222.5,1,6.0,,,92.676,783.029,1.125,23.991
+FC-5B,1,n734,trace,25,1244,2222.5,1,6.0,,,95.378,782.926,1.125,23.991
+FC-5B,1,n734,trace,26,1260,2222.5,1,6.0,,,98.08,782.823,1.125,23.991
+FC-5B,1,n734,trace,27,1292,2221.5,1,7.0,,,103.484,786.017,1.126,27.391
+FC-5B,1,n734,trace,28,1300,2222.5,1,6.0,,,104.834,782.565,1.125,23.991
+FC-5B,1,n734,trace,29,1356,2220.0,1,5.5,,,114.292,790.704,1.125,22.291
+FC-5B,1,n734,trace,30,1372,2220.0,1,5.5,,,116.994,790.601,1.125,22.291
+FC-5B,1,n734,trace,31,1388,2220.0,1,5.5,,,119.695,790.498,1.125,22.291
+FC-5B,1,n734,trace,32,1404,2220.0,1,5.5,,,122.397,790.395,1.125,22.291
+FC-5B,1,n734,trace,33,1412,2220.0,1,5.5,,,123.748,790.343,1.125,22.291
+FC-5B,1,n734,trace,34,1468,2220.0,1,5.5,,,133.204,789.982,1.125,22.291
+FC-5B,1,n734,trace,35,1484,2220.0,1,5.5,,,135.905,789.879,1.125,22.291
+FC-5B,1,n734,trace,36,1500,2220.0,1,5.5,,,138.607,789.776,1.125,22.291
+FC-5B,1,n734,trace,37,1516,2219.5,1,6.0,,,141.309,791.373,1.125,23.991
+FC-5B,1,n734,trace,38,1532,2219.5,1,6.0,,,144.011,791.27,1.125,23.991
+FC-5B,1,n734,trace,39,1588,2217.5,1,6.0,,,153.468,797.709,1.125,23.991
+FC-5B,1,n734,trace,40,1604,2217.5,1,6.0,,,156.17,797.606,1.125,23.991
+FC-5B,1,n734,trace,41,1620,2217.5,1,6.0,,,158.872,797.503,1.125,23.991
+FC-5B,1,n734,trace,42,1636,2217.5,1,6.0,,,161.573,797.4,1.125,23.991
+FC-5B,1,n734,trace,43,1652,2217.5,1,6.0,,,164.275,797.296,1.125,23.991
+FC-5B,1,n734,trace,44,1700,2217.5,1,6.0,,,172.38,796.987,1.125,23.991
+FC-5B,1,n734,trace,45,1716,2217.5,1,6.0,,,175.082,796.884,1.125,23.991
+FC-5B,1,n734,trace,46,1732,2217.5,1,6.0,,,177.784,796.781,1.125,23.991
+FC-5B,1,n734,trace,47,1748,2218.5,1,7.0,,,180.485,793.278,1.126,27.391
+FC-5B,1,n734,trace,48,1764,2218.5,1,7.0,,,183.186,793.175,1.126,27.391
+FC-5B,1,n734,trace,49,1820,2218.0,1,7.5,,,192.643,794.514,1.127,29.091
+FC-5B,1,n734,trace,50,1836,2218.5,1,7.0,,,195.344,792.711,1.126,27.391
+FC-5B,1,n734,trace,51,1868,2217.0,1,5.5,,,200.748,797.605,1.125,22.291
+FC-5B,1,n734,trace,52,1884,2216.5,1,6.0,,,203.451,799.202,1.125,23.991
+FC-5B,1,n734,trace,53,1900,2217.0,1,5.5,,,206.152,797.399,1.125,22.291
+FC-5B,1,n734,trace,54,1916,2216.5,1,6.0,,,208.854,798.995,1.125,23.991
+FC-5B,1,n734,trace,55,1932,2216.5,1,6.0,,,211.556,798.892,1.125,23.991
+FC-5B,1,n734,trace,56,1940,2217.0,1,5.5,,,212.906,797.141,1.125,22.291
+FC-5B,1,n734,trace,57,1988,2217.5,1,6.0,,,221.011,795.132,1.125,23.991
+FC-5B,1,n734,trace,58,2004,2217.0,1,6.5,,,223.713,796.729,1.126,25.691
+FC-5B,1,n734,trace,59,2020,2217.5,1,6.0,,,226.414,794.926,1.125,23.991
+FC-5B,1,n734,trace,60,2036,2217.0,1,6.5,,,229.116,796.523,1.126,25.691
+FC-5B,1,n734,trace,61,2052,2217.0,1,6.5,,,231.818,796.419,1.126,25.691
+FC-5B,1,n734,trace,62,2068,2217.0,1,6.5,,,234.52,796.316,1.126,25.691
+FC-5B,1,n734,trace,63,2084,2216.5,1,6.0,,,237.222,797.913,1.125,23.991
+FC-5B,1,n734,trace,64,2100,2217.0,1,5.5,,,239.923,796.11,1.125,22.291
+FC-5B,1,n734,trace,65,2116,2216.5,1,6.0,,,242.625,797.707,1.125,23.991
+FC-5B,1,n734,trace,66,2136,2217.5,1,6.0,,"last point of the drawn line, where it meets the base of the last triangle-up",246.001,794.178,1.125,23.991
+FC-5B,1,n734,feature,1,727,2255.0,1,4.5,,first point of the drawn line (same location as trace 1),8.054,675.764,1.124,18.891
+FC-5B,1,n734,feature,2,1970,2216.5,160,6,,peak of the drawn line (minimum v of the line center): nearly flat right part; line center within 1 px of its minimum from u~1816 to 2128 (rises only about 1 px over the last 600 px); x of the peak is not determinate,217.972,798.648,27.973,25.015
+FC-5B,1,n734,feature,3,2136,2217.5,1,6.0,,last point of the drawn line (same location as the last trace sample),246.001,794.178,1.125,23.991

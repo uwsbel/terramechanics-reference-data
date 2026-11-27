@@ -1,0 +1,91 @@
+---
+title: "b68-sonic-fb-5-dr26: provenance"
+---
+Provenance and review record of [b68-sonic-fb-5-dr26](../experiments/b68-sonic-fb-5-dr26.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 18 points recovered, agreed 15, one-sided-verified 3 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 17, merged 1 |
+| human audit | 7 points sampled by the student reviewers, 0 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+18 points (from FB-5) read by two readings made separately and reconciled (batch `curves-appb-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FB-5-p1](../img/overlays/FB-5-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | confining pressure (Pa, from psi) | modulus E = ρc² (wave velocity) (Pa, from ksi) | 18 |
+
+Points by status: [agreed]{.status .status-agreed} 15, [one-sided-verified]{.status .status-one-sided-verified} 3; by kind: `feature` 3, `marker` 6, `trace` 9.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 25 | 0.00813 / 0.0238 | 0.0185 / 0.0483 |
+| codex | cal-p1 | 615 | 0.00982 / 0.0245 | 0.0176 / 0.0484 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-sonic-fb-5-dr26/observations.csv), [series.json](../files/data/experiments/b68-sonic-fb-5-dr26/series.json) (repository paths `data/experiments/b68-sonic-fb-5-dr26/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | Loose |
+| Dr | 0.26 |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | shock tube using compressed air; piezoelectric stress gages at each end of a triaxial specimen; oscilloscope arrival times | compressed-air shock tube; triaxial specimen; piezoelectric stress gages; oscilloscope |
+| loading | stress wave from the shock tube driver pressurized to the same pressure each time (peak stress somewhat less than 2 psi); confining pressure by partial vacuum inside a rubber diaphragm | partial-vacuum confinement; axial stress wave with peak stress somewhat less than 2 psi |
+| test_label_printed | Loose Dr = 0.26 | Loose, Dr = 0.26 |
+
+## Notes from the two readings
+
+- Claude: Label damaged: the 0 and point before 26 are partly lost; 26 legible. Loose specimen poured through a slotted funnel (text 2). Markers about 2.4 to 9.3 psi. One specimen per printed Dr assumed (text 2: several measurements on each sample at different confining pressures); paired markers at one pressure may be repeat shots. E = ρc² with no Poisson correction; mass density and specimen size not printed.
+- Codex: Density group with repeated stress-wave measurements; E = ρc²; no Poisson correction. Specimen dimensions and pulse duration missing. Dr 0.26 partly broken but readable. AM-68-1 Vol. II, Fig. 5, printed 8, PDF 111
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

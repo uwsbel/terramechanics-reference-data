@@ -1,0 +1,41 @@
+item,answer,confidence,comment
+001,all yes,high,Both P samples lie on the straight line's own ink away from triangle outlines.
+002,all yes,high,The P sample is on the diagonal line below the nearby triangle outline.
+003,all yes,high,Both P samples lie on the diagonal line; the first is a grid crossing.
+004,all yes,high,The Q sample is within 2 px of the mean line's first distinguishable ink beside the frame.
+005,all yes,high,Both Q samples meet the upper dash ink; the first is at the near frame edge.
+006,all yes,high,The P sample is on the upper dash immediately before it merges into the frame.
+007,all no,medium,"Off-line (2169,2479): inside the frame more than 2 px beyond the lower dash's visible ink."
+008,some,medium,"Off-line (635,1911): more than 2 px inside the left frame; (788,1966) is on the lower dash."
+009,all no,high,"Off-line (635,1845): inside the frame about 5 px from the mean line's distinguishable ink."
+010,all yes,medium,Both Q samples qualify; the endpoint is within 2 px of the mean line's last visible ink.
+011,all no,high,"Off-line (635,1788): inside the frame about 5 px from the upper dash's distinguishable ink."
+012,some,medium,"Off-line (2170,2356): more than 2 px inside the right frame; (2013,2299) is on the upper dash."
+013,all no,high,"Off-line (752,1174): inside the thick left frame beyond the 2 px tolerance."
+014,all yes,high,Both Q samples lie on lower dash ink; the endpoint precedes the near frame edge.
+015,all no,high,"Off-line (2314,2025): inside the thick frame beyond the mean line's visible ink."
+016,all no,high,"Off-line (752,1126): inside the thick left frame more than 2 px from visible mean line ink."
+017,all no,high,"Off-line (2310,1680): in the frame/grid junction beyond distinguishable upper dash ink."
+018,all no,medium,"Off-line (752,1066): more than 2 px inside the frame from the upper dash's visible start."
+019,all no,high,"Off-line (852,2518): inside the left frame more than 2 px from the lower dash's own ink."
+020,all no,high,"Off-line (2245,3543): inside the right frame more than 2 px beyond visible lower dash ink."
+021,all yes,high,Both P samples qualify; the first is at the near frame edge beside visible mean line ink.
+022,some,medium,"Off-line (2239,3156): more than 2 px inside the right frame; (2093,3041) is within tolerance of the mean line."
+023,all yes,medium,The P sample is within 2 px of the upper dash's first visible ink at the near frame edge.
+024,all yes,medium,The Q sample is within 2 px of upper dash ink immediately before the near frame edge.
+025,all no,high,"Off-line (685,3163): inside the thick left frame more than 2 px from lower dash ink."
+026,some,medium,"Off-line (2224,3686): more than 2 px inside the right frame; (2073,3631) is on the lower dash."
+027,all no,high,"Off-line (685,3155): inside the thick left frame more than 2 px from mean line ink."
+028,some,medium,"Off-line (2224,3627): more than 2 px inside the right frame; (2073,3580) is on the mean line."
+029,all no,high,"Off-line (685,3142): inside the frame/grid junction more than 2 px from distinguishable upper dash ink."
+030,some,medium,"Off-line (2224,3577): more than 2 px inside the right frame; (2073,3538) is on the upper dash."
+031,all yes,medium,Both P samples qualify; the first is within 2 px of lower dash ink beside the frame.
+032,all yes,medium,The Q sample is within 2 px of the lower dash's last visible ink at the near frame edge.
+033,all yes,medium,The Q sample is within 2 px of the mean line's first distinguishable ink beside the frame.
+034,all yes,medium,The Q sample is within 2 px of the mean line's last distinguishable ink beside the frame.
+035,all no,medium,"Off-line (873,1937): more than 2 px inside the left frame from visible upper dash ink."
+036,all yes,medium,Both P samples qualify; the endpoint is within 2 px of the upper dash's last visible ink.
+037,some,high,"Off-line (891,2435): on the frame before the lower dash's visible start; (1042,2496) is on dash ink."
+038,all no,medium,"Off-line (889,2383): more than 2 px inside the left frame from visible mean line ink."
+039,all yes,medium,The Q sample is within 2 px of the mean line's last visible ink at the near frame edge.
+040,some,medium,"Off-line (1028,2401): on a vertical grid line in the upper curve's dash gap; (889,2336) is within 2 px of its visible start."

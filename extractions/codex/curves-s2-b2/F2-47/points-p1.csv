@@ -1,0 +1,78 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,target_x_in
+F2-47,1,lpt101,trace,1,500.0,3218.0,18.0,28.0,,first; visible trace ink start; initial dash next to solid trace and zero frame; overlap bound widened; half dot/dash repeat spacing included,0
+F2-47,1,lpt101,feature,2,500.0,3218.0,18.0,28.0,,first; visible trace ink start; initial dash next to solid trace and zero frame; overlap bound widened; half dot/dash repeat spacing included,
+F2-47,1,lpt101,trace,3,576.52,3076.16,14.84,17.5,,target penetration 0.25 in; measured normal half-width 7.12 px; on dash ink; half repeat spacing 16.25 px; traces cross/run together; bound widened for branch overlap,0.25
+F2-47,1,lpt101,feature,4,622.54,3003.73,21.22,23.23,,knee; initial rounding; measured normal half-width 5.25 px; on dot/dash ink; half repeat spacing 26.25 px,0.42
+F2-47,1,lpt101,trace,5,651.06,2977.56,24.88,20.98,,target penetration 0.50 in; measured normal half-width 3.88 px; on dash ink; half repeat spacing 28.75 px; traces cross/run together; bound widened for branch overlap,0.5
+F2-47,1,lpt101,trace,6,725.22,2939.98,25.56,11.7,,target penetration 0.75 in; measured normal half-width 7.62 px; on dash ink; half repeat spacing 24.62 px,0.75
+F2-47,1,lpt101,feature,7,735.38,2939.6,31.09,10.0,,"knee; local load maximum on first hump, not global peak; measured normal half-width 6.00 px; on dot/dash ink; half repeat spacing 30.75 px",0.78
+F2-47,1,lpt101,trace,8,810.16,2948.0,31.1,9.64,,"target penetration 1.00 in; measured normal half-width 5.62 px; on dash ink; half repeat spacing 30.62 px; close to grid crossing, shifted to distinguish trace ink",1.0
+F2-47,1,lpt101,trace,9,882.62,2961.46,29.88,10,,target penetration 1.25 in; measured normal half-width 5.00 px; on dash ink; half repeat spacing 29.50 px; traces cross/run together; bound widened for branch overlap,1.25
+F2-47,1,lpt101,feature,10,938.02,2970.02,26.06,10.0,,knee; local load minimum after hump; measured normal half-width 4.50 px; on dot/dash ink; half repeat spacing 25.81 px,1.43
+F2-47,1,lpt101,trace,11,963.75,2971.32,11.34,10,,target penetration 1.50 in; measured normal half-width 3.12 px; on dash ink; half repeat spacing 11.12 px; traces cross/run together; bound widened for branch overlap,1.5
+F2-47,1,lpt101,feature,12,1027.14,2954.03,26.44,11.81,,knee; transition into rising segment; measured normal half-width 5.75 px; on dot/dash ink; half repeat spacing 25.81 px,1.72
+F2-47,1,lpt101,trace,13,1036.31,2951.27,31.56,15.54,,target penetration 1.75 in; measured normal half-width 5.62 px; on dash ink; half repeat spacing 31.44 px,1.75
+F2-47,1,lpt101,trace,14,1115.98,2912.37,32.76,22.86,,"target penetration 2.00 in; measured normal half-width 10.75 px; on dash ink; half repeat spacing 31.12 px; close to grid crossing, shifted to distinguish trace ink",2.0
+F2-47,1,lpt101,trace,15,1184.74,2890.13,27.87,14.49,,target penetration 2.25 in; measured normal half-width 1.88 px; on dash ink; half repeat spacing 29.94 px,2.25
+F2-47,1,lpt101,trace,16,1267.47,2846.93,31.4,19.95,,"target penetration 2.50 in; measured normal half-width 6.88 px; on dash ink; half repeat spacing 31.56 px; close to grid crossing, shifted to distinguish trace ink",2.5
+F2-47,1,lpt101,trace,17,1343.96,2807.53,30.54,18.8,,target penetration 2.75 in; measured normal half-width 5.62 px; on dash ink; half repeat spacing 31.25 px,2.75
+F2-47,1,lpt101,trace,18,1426.27,2762.98,29.59,18.61,,"target penetration 3.00 in; measured normal half-width 5.00 px; on dash ink; half repeat spacing 30.75 px; close to grid crossing, shifted to distinguish trace ink",3.0
+F2-47,1,lpt101,trace,19,1497.98,2725.0,30.42,19.9,,target penetration 3.25 in; measured normal half-width 5.25 px; on dash ink; half repeat spacing 31.81 px,3.25
+F2-47,1,lpt101,trace,20,1573.74,2685.05,29.43,19.11,,target penetration 3.50 in; measured normal half-width 5.12 px; on dash ink; half repeat spacing 30.69 px,3.5
+F2-47,1,lpt101,trace,21,1650.14,2645.48,18.53,13.44,,target penetration 3.75 in; measured normal half-width 5.62 px; on dash ink; half repeat spacing 18.00 px,3.75
+F2-47,1,lpt101,trace,22,1725.19,2610.52,32.46,23.13,,"target penetration 4.00 in; measured normal half-width 9.12 px; on dash ink; half repeat spacing 31.94 px; close to grid crossing, shifted to distinguish trace ink",4.0
+F2-47,1,lpt101,trace,23,1803.0,2568.4,27.45,15.47,,target penetration 4.25 in; measured normal half-width 1.12 px; on dash ink; half repeat spacing 30.56 px,4.25
+F2-47,1,lpt101,trace,24,1881.4,2522.25,30.83,20.77,,target penetration 4.50 in; measured normal half-width 6.00 px; on dash ink; half repeat spacing 31.94 px,4.5
+F2-47,1,lpt101,trace,25,1957.83,2479.0,30.2,20.4,,target penetration 4.75 in; measured normal half-width 5.25 px; on dash ink; half repeat spacing 31.81 px,4.75
+F2-47,1,lpt101,trace,26,2040.44,2433.55,29.62,20.25,,"target penetration 5.00 in; measured normal half-width 5.75 px; on dash ink; half repeat spacing 30.81 px; close to grid crossing, shifted to distinguish trace ink",5.0
+F2-47,1,lpt101,trace,27,2110.77,2394.04,30.16,20.34,,target penetration 5.25 in; measured normal half-width 5.25 px; on dash ink; half repeat spacing 31.75 px,5.25
+F2-47,1,lpt101,trace,28,2186.99,2352.08,29.22,19.44,,target penetration 5.50 in; measured normal half-width 5.12 px; on dash ink; half repeat spacing 30.62 px,5.5
+F2-47,1,lpt101,trace,29,2262.09,2307.96,29.38,19.23,,target penetration 5.75 in; measured normal half-width 5.12 px; on dash ink; half repeat spacing 30.69 px; traces cross/run together; bound widened for branch overlap,5.75
+F2-47,1,lpt101,trace,30,2341.71,2256.68,17.48,15.61,,"target penetration 6.00 in; measured normal half-width 10.75 px; on dash ink; half repeat spacing 14.38 px; close to grid crossing, shifted to distinguish trace ink; traces cross/run together; bound widened for branch overlap",6.0
+F2-47,1,lpt101,trace,31,2343.0,2262.0,29.0,20.0,,"last; last visible trace ink; last distinguishable dash cap near 6 in, nearly merges with solid; no separable dashed continuation; half dot/dash repeat spacing included",
+F2-47,1,lpt101,feature,32,2343.0,2262.0,29.0,20.0,,"last; last visible trace ink; last distinguishable dash cap near 6 in, nearly merges with solid; no separable dashed continuation; half dot/dash repeat spacing included",
+F2-47,1,lpt101,feature,33,2343.0,2262.0,29.0,20.0,,peak; maximum visible load; coincides with last ink endpoint,
+F2-47,1,lpt91,trace,1,502.0,3241.0,6.0,6.0,,"first; visible trace ink start; origin/frame overlap with other trace, bound widened",0
+F2-47,1,lpt91,feature,2,502.0,3241.0,6.0,6.0,,"first; visible trace ink start; origin/frame overlap with other trace, bound widened",
+F2-47,1,lpt91,trace,3,576.46,3076.02,10,10,,target penetration 0.25 in; measured normal half-width 7.25 px; traces cross/run together; bound widened for branch overlap,0.25
+F2-47,1,lpt91,feature,4,633.22,3032.61,4.62,4.62,,knee; end of initial steep rise; measured normal half-width 4.62 px,0.44
+F2-47,1,lpt91,trace,5,652.53,3023.0,10,10,,target penetration 0.50 in; measured normal half-width 3.62 px; traces cross/run together; bound widened for branch overlap,0.5
+F2-47,1,lpt91,trace,6,729.33,3015.92,4.5,4.5,,target penetration 0.75 in; measured normal half-width 4.50 px,0.75
+F2-47,1,lpt91,feature,7,753.93,3016.93,3.5,3.5,,knee; end of nearly level shoulder; measured normal half-width 3.50 px,0.83
+F2-47,1,lpt91,trace,8,811.18,3004.0,4.62,4.62,,"target penetration 1.00 in; measured normal half-width 4.62 px; close to grid crossing, shifted to distinguish trace ink",1.0
+F2-47,1,lpt91,feature,9,846.03,2994.52,4.12,4.12,,knee; start of sustained rise; measured normal half-width 4.12 px,1.13
+F2-47,1,lpt91,trace,10,880.27,2977.99,10,10,,target penetration 1.25 in; measured normal half-width 3.75 px; traces cross/run together; bound widened for branch overlap,1.25
+F2-47,1,lpt91,trace,11,959.18,2943.56,10,10,,target penetration 1.50 in; measured normal half-width 4.38 px; traces cross/run together; bound widened for branch overlap,1.5
+F2-47,1,lpt91,trace,12,1035.69,2909.59,4.38,4.38,,target penetration 1.75 in; measured normal half-width 4.38 px,1.75
+F2-47,1,lpt91,feature,13,1107.52,2871.43,4.62,4.62,,knee; small recorder shoulder; measured normal half-width 4.62 px,1.99
+F2-47,1,lpt91,trace,14,1105.99,2870.88,3.25,3.25,,"target penetration 2.00 in; measured normal half-width 3.25 px; close to grid crossing, shifted to distinguish trace ink",2.0
+F2-47,1,lpt91,feature,15,1158.88,2842.96,4.12,4.12,,knee; end of recorder shoulder; measured normal half-width 4.12 px,2.16
+F2-47,1,lpt91,trace,16,1188.6,2825.14,4.0,4.0,,target penetration 2.25 in; measured normal half-width 4.00 px,2.25
+F2-47,1,lpt91,trace,17,1265.53,2780.56,4.25,4.25,,target penetration 2.50 in; measured normal half-width 4.25 px,2.5
+F2-47,1,lpt91,trace,18,1340.53,2743.89,3.88,3.88,,target penetration 2.75 in; measured normal half-width 3.88 px,2.75
+F2-47,1,lpt91,trace,19,1415.0,2709.27,3.12,3.12,,"target penetration 3.00 in; measured normal half-width 3.12 px; close to grid crossing, shifted to distinguish trace ink",3.0
+F2-47,1,lpt91,trace,20,1496.15,2665.73,3.12,3.12,,target penetration 3.25 in; measured normal half-width 3.12 px,3.25
+F2-47,1,lpt91,trace,21,1574.51,2625.29,4.0,4.0,,target penetration 3.50 in; measured normal half-width 4.00 px,3.5
+F2-47,1,lpt91,feature,22,1645.99,2587.6,3.38,3.38,,knee; small recorder shoulder; measured normal half-width 3.38 px,3.73
+F2-47,1,lpt91,trace,23,1652.46,2584.59,3.38,3.38,,target penetration 3.75 in; measured normal half-width 3.38 px,3.75
+F2-47,1,lpt91,trace,24,1722.79,2546.8,5.12,5.12,,"target penetration 4.00 in; measured normal half-width 5.12 px; close to grid crossing, shifted to distinguish trace ink",4.0
+F2-47,1,lpt91,feature,25,1735.78,2540.97,5.0,5.0,,knee; end of shoulder; measured normal half-width 5.00 px,4.03
+F2-47,1,lpt91,trace,26,1804.15,2512.95,3.88,3.88,,target penetration 4.25 in; measured normal half-width 3.88 px,4.25
+F2-47,1,lpt91,trace,27,1881.7,2476.45,3.25,3.25,,target penetration 4.50 in; measured normal half-width 3.25 px,4.5
+F2-47,1,lpt91,trace,28,1958.01,2444.18,3.38,3.38,,"target penetration 4.75 in; measured normal half-width 3.38 px; close to grid crossing, shifted to distinguish trace ink",4.75
+F2-47,1,lpt91,trace,29,2039.54,2400.57,4.62,4.62,,"target penetration 5.00 in; measured normal half-width 4.62 px; close to grid crossing, shifted to distinguish trace ink",5.0
+F2-47,1,lpt91,feature,30,2066.11,2391.55,4.5,4.5,,knee; small recorder shoulder; measured normal half-width 4.50 px,5.1
+F2-47,1,lpt91,feature,31,2107.55,2374.48,3.38,3.38,,knee; end of shoulder; measured normal half-width 3.38 px,5.24
+F2-47,1,lpt91,trace,32,2114.46,2370.75,2.38,2.38,,target penetration 5.25 in; measured normal half-width 2.38 px,5.25
+F2-47,1,lpt91,trace,33,2187.64,2334.47,4.5,4.5,,target penetration 5.50 in; measured normal half-width 4.50 px,5.5
+F2-47,1,lpt91,trace,34,2262.43,2286.66,10,10,,target penetration 5.75 in; measured normal half-width 4.25 px; traces cross/run together; bound widened for branch overlap,5.75
+F2-47,1,lpt91,trace,35,2343.87,2247.6,14.0,14.0,,"target penetration 6.00 in; measured normal half-width 14.00 px; close to grid crossing, shifted to distinguish trace ink; traces cross/run together; bound widened for branch overlap",6.0
+F2-47,1,lpt91,feature,36,2361.43,2239.23,3.38,3.38,,knee; steepening next to dashed endpoint; measured normal half-width 3.38 px,6.07
+F2-47,1,lpt91,feature,37,2400.9,2194.82,3.5,3.5,,knee; end of steepening; measured normal half-width 3.50 px,6.21
+F2-47,1,lpt91,trace,38,2414.27,2187.55,10,10,,target penetration 6.25 in; measured normal half-width 4.75 px; traces cross/run together; bound widened for branch overlap,6.25
+F2-47,1,lpt91,trace,39,2490.79,2158.98,10,10,,target penetration 6.50 in; measured normal half-width 3.62 px; traces cross/run together; bound widened for branch overlap,6.5
+F2-47,1,lpt91,trace,40,2567.07,2130.03,10,10,,target penetration 6.75 in; measured normal half-width 4.75 px; traces cross/run together; bound widened for branch overlap,6.75
+F2-47,1,lpt91,trace,41,2638.15,2103.01,10,10,,"target penetration 7.00 in; measured normal half-width 4.50 px; close to grid crossing, shifted to distinguish trace ink; traces cross/run together; bound widened for branch overlap",7.0
+F2-47,1,lpt91,trace,42,2638.0,2101.0,6.0,6.0,,"last; last visible trace ink; meets plot frame, endpoint bound widened",
+F2-47,1,lpt91,feature,43,2638.0,2101.0,6.0,6.0,,"last; last visible trace ink; meets plot frame, endpoint bound widened",
+F2-47,1,lpt91,feature,44,2638.0,2101.0,6.0,6.0,,peak; maximum visible load; coincides with last ink endpoint,

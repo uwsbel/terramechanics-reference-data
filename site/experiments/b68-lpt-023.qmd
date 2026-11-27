@@ -1,0 +1,86 @@
+---
+title: "Load penetration: RS soil, dense, LPT No. 23"
+record: "b68-lpt-023"
+kind: "single"
+test-type: "Load penetration"
+family: "RS"
+state: "dense"
+printed-label: "LPT No. 23"
+evidence: "F2-42"
+setup: "incomplete"
+record-status: "agreed"
+priority: "1"
+mcc: "no"
+---
+Load penetration test on RS soil (Red Crushed Volcanic Scoria (narrowly graded)), dense; apparatus: LPT fixture; loading: static penetration. Recorded: load vs penetration. One of 3 tests drawn from the same figures.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 13 of the 27 points, and 1 is still under review. Student reviewers have looked at 8 of the 27 points on the scan; two reviewers confirmed all of them (see the provenance page). The test setup is incomplete: relative density Dr, bin or mold, fill depth are not reported.
+:::
+
+## Data
+
+![load against penetration, SI units, this test in red and the other tests printed in Fig. 2-42 in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-lpt-023.png){.lightbox}
+
+Peak load 5029 N at 53.95 mm penetration, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-lpt-023/observations.csv) (27 points: 0 plotted symbols, 23 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: load in N against penetration in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-lpt-023/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 484 micrometers in penetration, 17.92 N in load (0.4 percent of the peak). Both independent readings agree within these bounds at 13 of the 27 points; 1 is still under review (hollow in the plot) and 13 were settled against the scan. [Check the digitized points against the scan](../figures/index.qmd#check-f2-42).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | RS Dense, Red Crushed Volcanic Scoria (narrowly graded) (soil No. 4 of Table 2-3) | RS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | *not reported* |  | F2-42 |
+| state | unit weight | 7949 N/m^3 (bulk density 810.5 kg/m^3) | 50.6 pcf | F2-42 |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | DPT index Gp | 99 g | 99 g | F2-42; density read through the Fig. 2-55 correlation |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | 101.6 mm cylinder | 4 inch cylinder | F2-42 |
+| geometry | bin or mold | *not reported* |  | F2-42; the report's standard LPT container is 18 by 36 in (0.457 by 0.914 m) and 36 in (0.914 m) deep (text 2-56, PDF 81); this test's bin is not stated |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | static penetration |  | F2-42 |
+| loading | start depth below surface | 0 m (started at the surface) | 0 in | F2-42 |
+| loading | rate | 0.423 mm/s | 1 in/min | F2-42 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | load vs penetration |  | F2-42 |
+| soil strength | friction angle at this density (report's direct shear average) | 47.3 degrees | 47.3 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 75.2 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| test | record |
+| --- | --- |
+| LPT No. 22 | [b68-lpt-022](b68-lpt-022.qmd) |
+| LPT No. 23 | **b68-lpt-023** (this page) |
+| LPT No. 25 | [b68-lpt-025](b68-lpt-025.qmd) |
+
+## Source pages
+
+F2-42, *Load-Penetration Curves for Four-Inch Cylinder in RS Dense at Different Rates of Penetration*, AM-68-1 Vol. I, printed 2-77, PDF 102.
+
+::: {layout-ncol=2}
+![PDF page 102](../img/1968/p0102.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-lpt-023` in `data/experiments/index.csv` of this repository, and the source: F2-42, *Load-Penetration Curves for Four-Inch Cylinder in RS Dense at Different Rates of Penetration*, AM-68-1 Vol. I, printed 2-77, PDF 102.
+
+<small>Maintainers: the [provenance and review record](../review/b68-lpt-023.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

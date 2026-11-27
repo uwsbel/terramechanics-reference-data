@@ -1,0 +1,13 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,fit,feature,1,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 051 (Claude's adjudicator: q; Codex's: q))
+1,fit,trace,1,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 052 (Claude's adjudicator: p; Codex's: p))
+1,fit,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 053 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt87,feature,3,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 054 (Claude's adjudicator: q; Codex's: both))
+1,lpt87,feature,7,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 055 (Claude's adjudicator: no; Codex's: no): On lpt87 ink, but the line is straight there (slope about 0.07 to 0.1 px/px); the bend starts above the pen 1 grid line (v 3390)."
+1,lpt87,trace,8,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 056 (Claude's adjudicator: p; Codex's: p))
+1,lpt87,trace,9,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 057 (Claude's adjudicator: q; Codex's: q))
+1,lpt87,trace,20,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 058 (Claude's adjudicator: p; Codex's: p))
+1,lpt87,trace,30,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 059 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt88,feature,3,codex,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 061 (Claude's adjudicator: no; Codex's: no): At the point where lpt88 merges into the pen 2 grid line; the trace descends onto the grid at only about 7 degrees and no turn is visible there; lpt88's bend is
+1,lpt88,trace,30,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 065 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt88,feature,7,codex,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 013 (Claude's adjudicator: no; Codex's: no): P is on the thick straight line's ink (u 1846-1852 on v 2940); thin lpt88 is 6-9 px to the right (u 1858-1860). lpt88's bend where it merges with that line is n

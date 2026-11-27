@@ -1,0 +1,12 @@
+figure_id,panel,axis,printed_label,label_center_u,label_center_v,grid_line_position_px,offset_px,value_at_label_center,result
+FC-6A,1,x,1000,1229.5,3071.0,1228.3,1.2,1006.3,confirmed: label centered under the grid line it names
+FC-6A,1,x,2000,1520.5,3068.5,1521.0,-0.5,1998.6,confirmed: label centered under the grid line it names
+FC-6A,1,x,3000,1812.5,3067.0,1812.4,0.1,2994.2,confirmed: label centered under the grid line it names
+FC-6A,1,x,4000,2105.5,3065.0,2108.2,-2.7,3993.3,confirmed: label centered under the grid line it names
+FC-6A,1,x,5000,2408.5,3062.5,2401.8,6.7,5026.5,confirmed: label centered under the right frame line
+FC-6A,1,y,1000,824.5,2709.0,2712.3,-3.3,1012.0,confirmed: label level with the grid line it names
+FC-6A,1,y,2000,821.5,2416.5,2416.8,-0.3,2006.5,confirmed: label level with the grid line it names
+FC-6A,1,y,3000,817.0,2121.5,2123.5,-2.0,3009.4,confirmed: label level with the grid line it names
+FC-6A,1,y,4000,814.0,1823.0,1829.4,-6.4,4024.2,confirmed: label level with the grid line it names
+FC-6A,1,y,5000,811.5,1529.5,1534.3,-4.8,5022.0,"confirmed: label level with the grid line it names; this line is hidden behind the legend inside the frame and was measured on its two visible segments (stub left of the frame, segment right of the legend)"
+FC-6A,1,y,6000,806.5,1241.0,1245.4,-4.4,6002.9,confirmed: label level with the top frame line

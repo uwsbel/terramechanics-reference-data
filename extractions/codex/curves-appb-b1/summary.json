@@ -1,0 +1,106 @@
+[
+  {
+    "figure_id": "FB-3",
+    "counts": {
+      "dr99": {
+        "marker": 5,
+        "feature": 4,
+        "trace": 9
+      },
+      "dr30": {
+        "marker": 6,
+        "feature": 4,
+        "trace": 12
+      }
+    },
+    "rms_x": 0.011261605518572458,
+    "rms_y": 0.007382997544155958,
+    "max_x": 0.029842137393931267,
+    "max_y": 0.024695911793255476,
+    "omitted_trace_samples": 3
+  },
+  {
+    "figure_id": "FB-4",
+    "counts": {
+      "dr86": {
+        "marker": 7,
+        "feature": 4,
+        "trace": 10
+      },
+      "dr22": {
+        "marker": 8,
+        "feature": 5,
+        "trace": 11
+      }
+    },
+    "rms_x": 0.009275841786386692,
+    "rms_y": 0.004752333258096929,
+    "max_x": 0.020104490464481373,
+    "max_y": 0.01666425380155445,
+    "omitted_trace_samples": 1
+  },
+  {
+    "figure_id": "FB-5",
+    "counts": {
+      "dr84": {
+        "marker": 7,
+        "feature": 4,
+        "trace": 9
+      },
+      "dr26": {
+        "marker": 6,
+        "feature": 4,
+        "trace": 8
+      }
+    },
+    "rms_x": 0.00982088090022472,
+    "rms_y": 0.01758805619260249,
+    "max_x": 0.024451200330608103,
+    "max_y": 0.04844821811741795,
+    "omitted_trace_samples": 3
+  },
+  {
+    "figure_id": "FB-6",
+    "counts": {
+      "dr82": {
+        "marker": 7,
+        "feature": 4,
+        "trace": 10
+      },
+      "dr02": {
+        "marker": 6,
+        "feature": 4,
+        "trace": 11
+      }
+    },
+    "rms_x": 0.008166662191762125,
+    "rms_y": 0.012300564082769465,
+    "max_x": 0.027133767823635857,
+    "max_y": 0.039664821995280874,
+    "omitted_trace_samples": 0
+  },
+  {
+    "figure_id": "FB-7",
+    "counts": {
+      "dr104": {
+        "marker": 9,
+        "feature": 1
+      },
+      "dr99p5": {
+        "marker": 7,
+        "feature": 5,
+        "trace": 10
+      },
+      "dr77": {
+        "marker": 9,
+        "feature": 5,
+        "trace": 12
+      }
+    },
+    "rms_x": 0.009926821964214525,
+    "rms_y": 0.0066195721179769865,
+    "max_x": 0.023696899488093948,
+    "max_y": 0.019821637331290276,
+    "omitted_trace_samples": 6
+  }
+]

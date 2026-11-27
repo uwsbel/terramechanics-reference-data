@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,at_other_coord,note
+FC-1D,1,y,6000,1173.5,1174.4,u=620,band v 1170-1179 read on crops/eye/p1-y6000.png
+FC-1D,1,y,3000,2044.2,2044.2,u=620,band v 2041-2047.5
+FC-1D,1,y,0,2912.1,2913.0,u=620,band v 2909-2917
+FC-1D,1,x,0,589.3,590.0,v=2895,band u 587.5-592.5
+FC-1D,1,x,100,1176.2,1177.0,v=2880,band u 1175-1179
+FC-1D,1,x,250,2050.6,2052.0,v=2860,band u 2050-2054
+FC-1D,2,y,100,3058.8,3059.2,u=620,band v 3056-3062.5
+FC-1D,2,y,0,3340.2,3340.8,u=680,band v 3339-3342.5 (read right of the symbol cluster)
+FC-1D,2,y,-100,3628.4,3628.8,u=640,band v 3626-3632
+FC-1D,2,x,0,604.2,605.4,v=3610,band u 602.5-608.5
+FC-1D,2,x,100,1190.8,1192.0,v=3590,band u 1190-1194
+FC-1D,2,x,250,2064.1,2066.3,v=3570,band u 2063-2069; fitted line slope (0.0080) differs from the other verticals (0.021) but the position checks to about 2 px

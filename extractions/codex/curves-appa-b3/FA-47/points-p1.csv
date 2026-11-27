@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,sample_dr_target
+FA-47,1,mean,trace,1,889.02,2384.6,4.25,4.25,,first point; stroke meets plot frame,0.0
+FA-47,1,mean,trace,2,1029.05,2441.91,3.25,3.25,,,0.1
+FA-47,1,mean,trace,3,1167.98,2500.97,3.75,3.75,,,0.2
+FA-47,1,mean,trace,4,1309.29,2559.77,3.0,3.0,,,0.3
+FA-47,1,mean,trace,5,1446.55,2617.82,4.5,4.5,,,0.4
+FA-47,1,mean,trace,6,1585.45,2675.23,3.0,3.0,,,0.5
+FA-47,1,mean,trace,7,1725.78,2734.52,3.5,3.5,,,0.6
+FA-47,1,mean,trace,8,1867.13,2793.62,3.0,3.0,,,0.7
+FA-47,1,mean,trace,9,2006.61,2851.83,4.5,4.5,,,0.8
+FA-47,1,mean,trace,10,2146.11,2909.89,3.5,3.5,,,0.9
+FA-47,1,mean,trace,11,2284,2975,5,5,,last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4,1.0
+FA-47,1,mean,feature,1,889.02,2384.6,4.25,4.25,,first point,
+FA-47,1,mean,feature,2,2284,2975,5,5,,last point,
+FA-47,1,mean,feature,3,796.0,2367.5,2,2,,label: 74.4,
+FA-47,1,mean,feature,4,2415.5,2957.5,2,2,,label: 89.4,
+FA-47,1,upper,trace,1,889.0,2336.05,3.5,3.5,,first point; stroke meets plot frame,0.0
+FA-47,1,upper,trace,2,1027.96,2401.17,5.0,5.0,,,0.1
+FA-47,1,upper,trace,3,1178,2468.0,3.5,3.5,,target Dr=0.2; gap: nearest dash end checked by eye,0.2
+FA-47,1,upper,trace,4,1308.37,2525.15,4.0,4.0,,,0.3
+FA-47,1,upper,trace,5,1445.73,2587.63,3.0,3.0,,,0.4
+FA-47,1,upper,trace,6,1584.77,2648.11,3.0,3.0,,,0.5
+FA-47,1,upper,trace,7,1725.18,2711.25,3.0,3.0,,,0.6
+FA-47,1,upper,trace,8,1866.64,2773.79,4.5,4.5,,,0.7
+FA-47,1,upper,trace,9,2006.21,2836.13,3.0,3.0,,,0.8
+FA-47,1,upper,trace,10,2145.84,2898.58,3.0,3.0,,,0.9
+FA-47,1,upper,trace,11,2277,2963,3.5,3.5,,last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4,1.0
+FA-47,1,upper,feature,1,889.0,2336.05,3.5,3.5,,first point,
+FA-47,1,upper,feature,2,2277,2963,3.5,3.5,,last point,
+FA-47,1,upper,feature,3,793.5,2313.5,2,2,,label: 73.5,
+FA-47,1,upper,feature,4,2415.5,2957.5,2,2,,label: 89.4,
+FA-47,1,lower,trace,1,891.0,2434.87,2.0,2.0,,first point; stroke meets plot frame,0.0
+FA-47,1,lower,trace,2,1042.0,2496.0,4.5,4.5,,target Dr=0.1; gap: moved +11.74 px to nearest dash end,0.1
+FA-47,1,lower,trace,3,1167.0,2541.5,4.0,4.0,,target Dr=0.2; gap: moved -2.08 px to nearest dash end,0.2
+FA-47,1,lower,trace,4,1310.27,2597.58,3.0,3.0,,,0.3
+FA-47,1,lower,trace,5,1447.41,2650.11,3.0,3.0,,,0.4
+FA-47,1,lower,trace,6,1586.17,2702.51,4.5,4.5,,,0.5
+FA-47,1,lower,trace,7,1726.39,2757.62,3.0,3.0,,,0.6
+FA-47,1,lower,trace,8,1870.0,2817.5,7.0,7.0,,target Dr=0.7; gap: moved +2.40 px to nearest dash end,0.7
+FA-47,1,lower,trace,9,2018,2874,3.5,3.5,,target Dr=0.8; gap: nearest dash end checked by eye; grid ink excluded,0.8
+FA-47,1,lower,trace,10,2137.0,2916.5,4.0,4.0,,target Dr=0.9; gap: moved -9.32 px to nearest dash end,0.9
+FA-47,1,lower,trace,11,2284,2975,5,5,,last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4,1.0
+FA-47,1,lower,feature,1,891.0,2434.87,2.0,2.0,,first point,
+FA-47,1,lower,feature,2,2284,2975,5,5,,last point,
+FA-47,1,lower,feature,3,798.5,2460.5,2,2,,label: 75.3,
+FA-47,1,lower,feature,4,2415.5,2957.5,2,2,,label: 89.4,

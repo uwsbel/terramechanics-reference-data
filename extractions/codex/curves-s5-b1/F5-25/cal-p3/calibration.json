@@ -1,0 +1,152 @@
+{
+  "image": "packet/p0330.png",
+  "box": [
+    1838,
+    1832,
+    2296,
+    3540
+  ],
+  "model": "Affine diagnostic on measured shared time ticks and labelled load rules",
+  "ax": [
+    3.5184626425758856e-07,
+    -5.864104404293142e-05,
+    0.20635829550954182
+  ],
+  "ay": [
+    0.23435779018920322,
+    0.0004907005278523002,
+    -533.6730088410578
+  ],
+  "x_per_px": 5.864209957222452e-05,
+  "y_per_px": 0.23435830390531212,
+  "rms_residual_x": 5.1032852396796995e-05,
+  "max_residual_x": 0.00016702229174029616,
+  "rms_residual_y": 0.1583478032933729,
+  "max_residual_y": 0.4039385828758668,
+  "n_anchors": 699,
+  "x_direction": "up",
+  "y_direction": "right",
+  "horizontal_lines": [
+    {
+      "x_value": 0,
+      "slope_dv_du": 0.00524188020027488,
+      "v_at_u0": 3520.378544889687,
+      "source": "detected shared time-zero frame",
+      "samples": 56
+    },
+    {
+      "x_value": 0.01,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 3346.4970000000003,
+      "source": "detected shared lower time-axis tick",
+      "samples": 12
+    },
+    {
+      "x_value": 0.02,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 3178.626,
+      "source": "detected shared lower time-axis tick",
+      "samples": 19
+    },
+    {
+      "x_value": 0.03,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 3007.563,
+      "source": "detected shared lower time-axis tick",
+      "samples": 14
+    },
+    {
+      "x_value": 0.04,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 2836.56,
+      "source": "detected shared lower time-axis tick",
+      "samples": 17
+    },
+    {
+      "x_value": 0.05,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 2665.982,
+      "source": "detected shared lower time-axis tick",
+      "samples": 11
+    },
+    {
+      "x_value": 0.06,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 2495.605,
+      "source": "detected shared lower time-axis tick",
+      "samples": 12
+    },
+    {
+      "x_value": 0.07,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 2326.204,
+      "source": "detected shared lower time-axis tick",
+      "samples": 17
+    },
+    {
+      "x_value": 0.08,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 2155.444,
+      "source": "detected shared lower time-axis tick",
+      "samples": 19
+    },
+    {
+      "x_value": 0.09,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 1982.683,
+      "source": "detected shared lower time-axis tick",
+      "samples": 10
+    },
+    {
+      "x_value": 0.1,
+      "slope_dv_du": 0.006,
+      "v_at_u0": 1814.447714932127,
+      "source": "detected shared lower time-axis tick",
+      "samples": 6
+    }
+  ],
+  "vertical_lines": [
+    {
+      "y_value": -100,
+      "slope_du_dv": -0.002093050368426761,
+      "u_at_v0": 1850.9076909552837,
+      "source": "detected labelled load rule",
+      "samples": 88
+    },
+    {
+      "y_value": -80,
+      "slope_du_dv": -0.0020864082346686,
+      "u_at_v0": 1935.0493651743682,
+      "source": "detected labelled load rule",
+      "samples": 82
+    },
+    {
+      "y_value": -60,
+      "slope_du_dv": -0.0018360855529966308,
+      "u_at_v0": 2020.190979546148,
+      "source": "detected labelled load rule",
+      "samples": 83
+    },
+    {
+      "y_value": -40,
+      "slope_du_dv": -0.002183193101533838,
+      "u_at_v0": 2107.4642764598693,
+      "source": "detected labelled load rule",
+      "samples": 86
+    },
+    {
+      "y_value": -20,
+      "slope_du_dv": -0.0018508367328453931,
+      "u_at_v0": 2191.3540255630637,
+      "source": "detected labelled load rule",
+      "samples": 83
+    },
+    {
+      "y_value": 0,
+      "slope_du_dv": -0.002513281994541752,
+      "u_at_v0": 2277.9719495391346,
+      "source": "detected labelled load rule",
+      "samples": 84
+    }
+  ]
+}

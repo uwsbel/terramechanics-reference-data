@@ -1,0 +1,15 @@
+item,answer,confidence,comment
+001,no,medium,"P is on the diagonal stroke entering the grid crossing. Fits over v3246-3279 and v3307-3463 turn 2.4 degrees near (2077,3301), about 19 px from P."
+002,no,high,The centerline retreats 1.5 px toward smaller v and 17 px toward larger v. Half the 4 px stroke is 2 px. A single fit stays within 1 px over v3111-3144.
+003,no,high,The centerline retreats 5.5 px toward smaller v and 1.5 px toward larger v. Half the 5 px stroke is 2.5 px.
+004,no,high,The centerline retreats 2 px toward smaller v and 12 px toward larger v. Half the 6 px stroke is 3 px. A single fit stays within 1 px over v2280-2317.
+005,no,high,The centerline retreats 16 px toward smaller v and 2 px toward larger v. Half the 6 px stroke is 3 px.
+006,yes,medium,"Centerline fits over v2111-2139 and v2161-2204 turn 12.9 degrees. The corner at (1065.5,2152) is 7.4 px from Q."
+007,yes,medium,"Centerline fits over v1977-2034 and v2038-2102 turn 6.3 degrees. The corner at (1527.5,2036) is 7.2 px from P."
+008,yes,high,"Centerline fits over v2035-2056 and v2058-2084 turn 16.3 degrees. The corner at (2129,2058) is 4.5 px from Q."
+009,cannot tell,low,"The curve's left edge continues beside the ruling from v1500. Edge-based fits over v1450-1505 and v1506-1541 give 2.3 degrees near (949,1496). Reconstructing the hidden edge instead puts the corner near (953,1512), across the 8 px cutoff."
+010,all yes,high,"At v3495, Q (1949,3495) is in the diagonal stroke at u1943-1954. A white gap separates it from the ruling at u1958-1963. The bottom frame starts at v3502."
+011,yes,medium,"Centerline fits over v3417-3436 and v3438-3460 turn 17.9 degrees. The corner at (1746.5,3439) is 1.1 px from P."
+012,no,medium,"Centerline fits over v2885-2953 and v2957-3018 turn 7.5 degrees. The corner at (1620.5,2950) is 13.5 px from P."
+013,no,high,The centerline retreats 0.5 px toward smaller v and 4 px toward larger v. Half the 6 px stroke is 3 px.
+014,cannot tell,medium,"The two bends appear near (2122,3432) and (2142,3453). The stroke thickens to the right of the ruling near P. Fits over v3361-3428, v3433-3452 and v3457-3487 suggest turns of 37 and 30 degrees. The intervening straight stretch is only about 26 px, so neither corner is defined."

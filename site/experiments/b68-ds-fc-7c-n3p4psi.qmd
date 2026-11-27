@@ -1,0 +1,87 @@
+---
+title: "Direct shear of RSM-b soil, sigma 3.4 PSI, gamma 82 PCF"
+record: "b68-ds-fc-7c-n3p4psi"
+kind: "single"
+test-type: "Direct shear"
+family: "RSM-b"
+state: "state not printed"
+printed-label: "sigma 3.4 PSI, gamma 82 PCF"
+evidence: "FC-7A;FC-7C;text C-1 (PDF 115)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+Direct shear test on RSM-b soil at relative density 0.53; apparatus: direct shear (University of Notre Dame); loading: normal load 3.4 psi. Recorded: horizontal load vs horizontal motion (markers only).
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately that agree within the stated reading bounds at every point. Student reviewers have looked at 7 of the 16 points on the scan; two reviewers confirmed all of them (see the provenance page). The test setup is incomplete: specimen height, normal stress, held constant, displacement rate are not reported.
+:::
+
+## Data
+
+![horizontal load (shear stress) against horizontal motion (shear displacement), SI units, this test in red and the other tests printed in Fig. C-7C in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-ds-fc-7c-n3p4psi.png){.lightbox}
+
+Peak horizontal load (shear stress) 34.5 kPa at 3.05 mm horizontal motion (shear displacement); 24.5 kPa at 6.35 mm, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-ds-fc-7c-n3p4psi/observations.csv) (16 points: 16 plotted symbols, 0 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: horizontal load (shear stress) in Pa against horizontal motion (shear displacement) in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-ds-fc-7c-n3p4psi/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 13 micrometers in horizontal motion (shear displacement), 406 Pa in horizontal load (1.2 percent of the peak). Both independent readings agree within these bounds at every point. [Check the digitized points against the scan](../figures/index.qmd#check-fc-7c).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil family | RSM-b | RSM-b | FC-7A, FC-7C |
+| material | gradation | *not yet extracted* |  | F2-14 average curve for the family; individual analyses in Vol. II Appendix A |
+| state | relative density Dr | 0.53 | 0.53 | FC-7A, FC-7C |
+| state | unit weight | 12881 N/m^3 (bulk density 1313.5 kg/m^3) | 82 pcf | FC-7A, FC-7C |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| apparatus | shear box | direct shear (University of Notre Dame) | direct shear (University of Notre Dame) | text 2-40, PDF 65; Fig. 2-20 |
+| apparatus | specimen height | *not reported* |  |  |
+| loading | normal stress, held constant | *not reported* |  | FC-7C legend |
+| loading | displacement rate | *not reported* |  | text 2-40, PDF 65 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | horizontal load vs horizontal motion (markers only) |  | FC-7A, FC-7C |
+| measured | dilation zero | *not reported* |  | FC-7C, lower panel |
+| soil strength | friction angle | *not yet extracted* |  | Fig. 2-23 for the family against Dr |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| normal stress | record |
+| --- | --- |
+| sigma 10.2 PSI, gamma 82 PCF | [b68-ds-fc-7c-n10p2psi](b68-ds-fc-7c-n10p2psi.qmd) |
+| sigma 13.8 PSI, gamma 82 PCF | [b68-ds-fc-7c-n13p8psi](b68-ds-fc-7c-n13p8psi.qmd) |
+| sigma 26.5 PSI, gamma 82 PCF | [b68-ds-fc-7c-n26p5psi](b68-ds-fc-7c-n26p5psi.qmd) |
+| sigma 3.4 PSI, gamma 82 PCF | **b68-ds-fc-7c-n3p4psi** (this page) |
+| sigma 5.1 PSI, gamma 82 PCF | [b68-ds-fc-7c-n5p1psi](b68-ds-fc-7c-n5p1psi.qmd) |
+| sigma 6.6 PSI, gamma 82 PCF | [b68-ds-fc-7c-n6p6psi](b68-ds-fc-7c-n6p6psi.qmd) |
+
+The failure envelope drawn from the peaks of these tests is a derived result, not an extra measurement; see the envelope figures in the [figures index](../figures/index.qmd).
+
+## Source pages
+
+FC-7C, *Direct Shear Test Data - Shear Stress vs. Shear Displacement*, AM-68-1 Vol. II (NASA CR-92215), printed C-23, PDF 137.
+Text: FC-7A.
+Text: FC-7C.
+Text: text C-1 (PDF 115).
+
+::: {layout-ncol=2}
+![Vol. II PDF page 137](../img/1968-vol2/p0137.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-ds-fc-7c-n3p4psi` in `data/experiments/index.csv` of this repository, and the source: FC-7C, *Direct Shear Test Data - Shear Stress vs. Shear Displacement*, AM-68-1 Vol. II (NASA CR-92215), printed C-23, PDF 137.
+
+<small>Maintainers: the [provenance and review record](../review/b68-ds-fc-7c-n3p4psi.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

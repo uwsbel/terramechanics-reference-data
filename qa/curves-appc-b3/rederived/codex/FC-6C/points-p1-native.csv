@@ -1,0 +1,422 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-6C,1,n4695,marker,1,700,1829,7,7,plus,Small plus on 2000-psf gridline; short vertical arm visible.,8.6907,1998.2,1.2854,27.921,piecewise
+FC-6C,1,n4695,marker,2,766.0,1668.0,2,2,plus,,19.8792,2549.214,0.4695,13.078,piecewise
+FC-6C,1,n4695,marker,3,881.0,1466.0,2,2,plus,,39.2067,3234.821,0.5049,13.935,piecewise
+FC-6C,1,n4695,marker,4,1101.0,1314.0,2,2,plus,,77.03,3740.165,0.4977,12.024,piecewise
+FC-6C,1,n4695,marker,5,1227,1282,2,2,plus,,98.9083,3844.192,0.4543,11.63,piecewise
+FC-6C,1,n4695,marker,6,1385,1250,2,2,plus,,126.1885,3947.256,0.4414,11.239,piecewise
+FC-6C,1,n4695,marker,7,1508,1240,5,5,plus,Plus and stroke near 4000-psf gridline.,147.3927,3977.291,0.9578,21.347,piecewise
+FC-6C,1,n4695,marker,8,1624,1233,2,2,plus,,167.1969,3997.432,0.4438,11.307,piecewise
+FC-6C,1,n4695,marker,9,1738,1224,2,2,plus,,186.6361,4025.316,0.4594,11.395,piecewise
+FC-6C,1,n4695,marker,10,1911,1223,2,2,plus,,216.499,4023.522,0.4722,11.4,piecewise
+FC-6C,1,n4695,marker,11,2098,1228,7,7,plus,Plus touches right vertical line.,249.1146,4000.317,1.337,28.998,piecewise extrapolated x
+FC-6C,1,n4695,trace,12,710,1805,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,10.386,2080.312,0.2922,21.269,piecewise
+FC-6C,1,n4695,trace,13,717,1788.0,1,16.5,,Column dark-run center; guide used only to select ink.,11.573,2138.502,0.3155,61.205,piecewise
+FC-6C,1,n4695,trace,14,737,1729.5,1,13.0,,Column dark-run center; guide used only to select ink.,14.9815,2338.842,0.3152,50.039,piecewise
+FC-6C,1,n4695,trace,15,749,1699.0,1,12.5,,Column dark-run center; guide used only to select ink.,17.0175,2443.243,0.3179,48.788,piecewise
+FC-6C,1,n4695,trace,16,783,1623.5,1,13.0,,Column dark-run center; guide used only to select ink.,22.7643,2701.531,0.3292,51.683,piecewise
+FC-6C,1,n4695,trace,17,803,1584.0,1,10.5,,Column dark-run center; guide used only to select ink.,26.1346,2836.583,0.3308,43.672,piecewise
+FC-6C,1,n4695,trace,18,823,1551.0,1,10.5,,Column dark-run center; guide used only to select ink.,29.4923,2949.308,0.3369,44.182,piecewise
+FC-6C,1,n4695,trace,19,843,1519.5,1,9.0,,Column dark-run center; guide used only to select ink.,32.8466,3055.777,0.3403,38.242,piecewise
+FC-6C,1,n4695,trace,20,863,1486.0,1,3.5,,Column dark-run center; guide used only to select ink.,36.2036,3167.999,0.3368,19.229,piecewise
+FC-6C,1,n4695,trace,21,864,1486.0,1,3.5,,Column dark-run center; guide used only to select ink.,36.3686,3167.97,0.3371,19.229,piecewise
+FC-6C,1,n4695,trace,22,899,1446.5,1,6.0,,Column dark-run center; guide used only to select ink.,42.2084,3299.957,0.3521,27.179,piecewise
+FC-6C,1,n4695,trace,23,919,1429.0,1,8.5,,Column dark-run center; guide used only to select ink.,45.5361,3358.299,0.3625,35.407,piecewise
+FC-6C,1,n4695,trace,24,939,1409.5,1,7.0,,Column dark-run center; guide used only to select ink.,48.8668,3423.373,0.366,30.091,piecewise
+FC-6C,1,n4695,trace,25,952,1400.5,1,7.0,,Column dark-run center; guide used only to select ink.,51.0765,3453.298,0.3844,29.977,piecewise
+FC-6C,1,n4695,trace,26,972,1384.0,1,6.5,,Column dark-run center; guide used only to select ink.,54.5682,3508.268,0.3767,28.08,piecewise
+FC-6C,1,n4695,trace,27,992,1369.5,1,6.0,,Column dark-run center; guide used only to select ink.,58.0566,3556.504,0.3689,26.207,piecewise
+FC-6C,1,n4695,trace,28,1012,1357.0,1,6.5,,Column dark-run center; guide used only to select ink.,61.5417,3598.004,0.363,27.74,piecewise
+FC-6C,1,n4695,trace,29,1032,1345.0,1,6.5,,Column dark-run center; guide used only to select ink.,65.0261,3637.82,0.3561,27.589,piecewise
+FC-6C,1,n4695,trace,30,1052,1335.0,1,7.5,,Column dark-run center; guide used only to select ink.,68.5071,3670.902,0.3511,30.842,piecewise
+FC-6C,1,n4695,trace,31,1072,1325.5,1,7.0,,Column dark-run center; guide used only to select ink.,71.9874,3702.299,0.3433,29.034,piecewise
+FC-6C,1,n4695,trace,32,1081,1322.5,1,5.0,,Column dark-run center; guide used only to select ink.,73.5513,3712.135,0.3366,22.238,piecewise
+FC-6C,1,n4695,trace,33,1123,1305.0,1,4.5,,Column dark-run center; guide used only to select ink.,80.8561,3769.818,0.3212,20.33,piecewise
+FC-6C,1,n4695,trace,34,1143,1300.5,1,6.0,,Column dark-run center; guide used only to select ink.,84.3276,3784.38,0.3172,25.343,piecewise
+FC-6C,1,n4695,trace,35,1163,1294.5,1,6.0,,Column dark-run center; guide used only to select ink.,87.8021,3803.992,0.3103,25.268,piecewise
+FC-6C,1,n4695,trace,36,1183,1288.5,1,6.0,,Column dark-run center; guide used only to select ink.,91.2766,3823.602,0.3035,25.194,piecewise
+FC-6C,1,n4695,trace,37,1203,1284.0,1,4.5,,Column dark-run center; guide used only to select ink.,94.7484,3838.164,0.2938,20.071,piecewise
+FC-6C,1,n4695,trace,38,1204,1284.0,1,4.5,,Column dark-run center; guide used only to select ink.,94.9216,3838.134,0.2934,20.071,piecewise
+FC-6C,1,n4695,trace,39,1245,1273.5,1,6.0,,Column dark-run center; guide used only to select ink.,102.0306,3872.274,0.2837,25.009,piecewise
+FC-6C,1,n4695,trace,40,1265,1270.5,1,6.0,,Column dark-run center; guide used only to select ink.,105.4811,3881.785,0.2827,24.972,piecewise
+FC-6C,1,n4695,trace,41,1285,1267.0,1,5.5,,Column dark-run center; guide used only to select ink.,108.9325,3892.978,0.2807,23.24,piecewise
+FC-6C,1,n4695,trace,42,1305,1263.0,1,4.5,,Column dark-run center; guide used only to select ink.,112.3848,3905.854,0.2778,19.813,piecewise
+FC-6C,1,n4695,trace,43,1325,1260.5,1,6.0,,Column dark-run center; guide used only to select ink.,115.8343,3913.681,0.2797,24.851,piecewise
+FC-6C,1,n4695,trace,44,1345,1258.0,1,5.5,,Column dark-run center; guide used only to select ink.,119.2839,3921.507,0.2777,23.131,piecewise
+FC-6C,1,n4695,trace,45,1363,1255.5,1,6.0,,Column dark-run center; guide used only to select ink.,122.3889,3929.392,0.2778,24.79,piecewise
+FC-6C,1,n4695,trace,46,1408,1249.5,1,6.0,,Column dark-run center; guide used only to select ink.,130.1509,3948.262,0.2755,24.718,piecewise
+FC-6C,1,n4695,trace,47,1428,1235.5,1,4.0,,Column dark-run center; guide used only to select ink.,133.6222,3994.789,0.2707,18.156,piecewise
+FC-6C,1,n4695,trace,48,1448,1245.0,1,4.5,,Column dark-run center; guide used only to select ink.,137.049,3962.23,0.2707,19.598,piecewise
+FC-6C,1,n4695,trace,49,1468,1243.5,1,6.0,,Column dark-run center; guide used only to select ink.,140.4966,3966.69,0.2725,24.647,piecewise
+FC-6C,1,n4695,trace,50,1484,1240.0,1,8.5,,Column dark-run center; guide used only to select ink.,143.259,3977.997,0.2765,33.239,piecewise
+FC-6C,1,n4695,trace,51,1530,1239.0,1,7.5,,Column dark-run center; guide used only to select ink.,151.1709,3980.009,0.2707,29.823,piecewise
+FC-6C,1,n4695,trace,52,1550,1237.5,1,6.0,,Column dark-run center; guide used only to select ink.,154.5811,3984.468,0.2707,24.754,piecewise
+FC-6C,1,n4695,trace,53,1570,1237.5,1,6.0,,Column dark-run center; guide used only to select ink.,157.9885,3983.88,0.2734,24.732,piecewise
+FC-6C,1,n4695,trace,54,1590,1236.0,1,4.5,,Column dark-run center; guide used only to select ink.,161.3987,3988.339,0.2734,19.663,piecewise
+FC-6C,1,n4695,trace,55,1607,1235.5,1,5.0,,Column dark-run center; guide used only to select ink.,164.2959,3989.521,0.2766,21.451,piecewise
+FC-6C,1,n4695,trace,56,1642,1233.0,1,4.5,,Column dark-run center; guide used only to select ink.,170.2635,3996.903,0.2805,19.978,piecewise
+FC-6C,1,n4695,trace,57,1662,1232.5,1,5.0,,Column dark-run center; guide used only to select ink.,173.6719,3997.996,0.2842,21.762,piecewise
+FC-6C,1,n4695,trace,58,1682,1231.0,1,5.5,,Column dark-run center; guide used only to select ink.,177.0821,4002.551,0.2879,23.574,piecewise
+FC-6C,1,n4695,trace,59,1702,1231.5,1,6.0,,Column dark-run center; guide used only to select ink.,180.4885,4000.191,0.2916,25.324,piecewise
+FC-6C,1,n4695,trace,60,1717,1231.0,1,3.5,,Column dark-run center; guide used only to select ink.,183.045,4001.48,0.2889,16.6,piecewise
+FC-6C,1,n4695,trace,61,1755,1228.0,1,5.5,,Column dark-run center; guide used only to select ink.,189.5248,4010.809,0.2979,23.555,piecewise
+FC-6C,1,n4695,trace,62,1756,1229.0,1,4.5,,Column dark-run center; guide used only to select ink.,189.6932,4007.281,0.2961,20.075,piecewise
+FC-6C,1,n4695,trace,63,1769,1230.0,1,4.5,,Column dark-run center; guide used only to select ink.,191.9061,4003.387,0.2979,20.084,piecewise
+FC-6C,1,n4695,trace,64,1789,1228.5,1,6.0,,Column dark-run center; guide used only to select ink.,195.3164,4008.02,0.3036,25.306,piecewise
+FC-6C,1,n4695,trace,65,1809,1227.5,1,6.0,,Column dark-run center; guide used only to select ink.,198.7257,4010.905,0.3063,25.299,piecewise
+FC-6C,1,n4695,trace,66,1810,1227.5,1,6.0,,Column dark-run center; guide used only to select ink.,198.8961,4010.875,0.3064,25.299,piecewise
+FC-6C,1,n4695,trace,67,1823,1227.5,1,6.0,,Column dark-run center; guide used only to select ink.,201.1376,4010.477,0.314,25.3,piecewise
+FC-6C,1,n4695,trace,68,1843,1227.0,1,7.5,,Column dark-run center; guide used only to select ink.,204.6278,4011.614,0.315,30.531,piecewise
+FC-6C,1,n4695,trace,69,1863,1227.0,1,7.5,,Column dark-run center; guide used only to select ink.,208.1171,4011.002,0.313,30.532,piecewise
+FC-6C,1,n4695,trace,70,1883,1227.0,1,7.5,,Column dark-run center; guide used only to select ink.,211.6064,4010.39,0.311,30.534,piecewise
+FC-6C,1,n4695,trace,71,1889,1228.5,1,6.0,,Column dark-run center; guide used only to select ink.,212.6503,4004.961,0.3075,25.314,piecewise
+FC-6C,1,n4695,trace,72,1949,1225.0,1,8.5,,Column dark-run center; guide used only to select ink.,223.1248,4015.365,0.3063,34.011,piecewise
+FC-6C,1,n4695,trace,73,1969,1225.5,1,9.0,,Column dark-run center; guide used only to select ink.,226.6132,4013.005,0.3053,35.761,piecewise
+FC-6C,1,n4695,trace,74,1989,1224.0,1,7.5,,Column dark-run center; guide used only to select ink.,230.1053,4017.639,0.3005,30.517,piecewise
+FC-6C,1,n4695,trace,75,2009,1225.0,1,8.5,,Column dark-run center; guide used only to select ink.,233.5927,4013.53,0.3004,34.016,piecewise
+FC-6C,1,n4695,trace,76,2029,1225.0,1,8.5,,Column dark-run center; guide used only to select ink.,237.082,4012.919,0.2984,34.018,piecewise
+FC-6C,1,n4695,trace,77,2030,1225.0,1,8.5,,Column dark-run center; guide used only to select ink.,237.2565,4012.888,0.2983,34.018,piecewise
+FC-6C,1,n4695,trace,78,2049,1224.0,1,7.5,,Column dark-run center; guide used only to select ink.,240.5731,4015.804,0.2945,30.522,piecewise
+FC-6C,1,n4695,trace,79,2061,1225,1,8.5,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,242.6649,4011.94,0.2952,34.02,piecewise
+FC-6C,1,n4695,feature,80,710,1805,2,5.0,,first point of drawn trace,10.386,2080.312,0.4576,21.296,piecewise
+FC-6C,1,n4695,feature,81,2030,1223,170,5.0,,peak point of drawn trace; broad/flat maximum,237.2602,4019.882,29.8472,26.946,piecewise extrapolated x
+FC-6C,1,n4695,feature,82,2061,1225,2,8.5,,last point of drawn trace,242.6649,4011.94,0.4697,34.051,piecewise
+FC-6C,1,n3815,marker,1,707.0,2010.5,2,2,triangle-down,,9.5123,1387.494,0.4508,9.196,piecewise
+FC-6C,1,n3815,marker,2,769.0,1875.5,2,2,triangle-down,,20.0005,1839.976,0.4701,10.037,piecewise
+FC-6C,1,n3815,marker,3,881,1723,7,7,triangle-down,Broken triangle contour with dashed printing remnants; orientation identifiable by lower apex.,38.7622,2357.161,1.3401,29.584,piecewise
+FC-6C,1,n3815,marker,4,992.5,1633.5,2,2,triangle-down,,57.6697,2661.24,0.5356,13.581,piecewise
+FC-6C,1,n3815,marker,5,1109.5,1570.5,2,2,triangle-down,,78.0269,2874.088,0.4953,14.545,piecewise
+FC-6C,1,n3815,marker,6,1230.5,1539.5,7,7,triangle-down,Triangle on 100-displacement gridline and near 3000-psf line.,99.0224,2976.941,1.3302,32.134,piecewise
+FC-6C,1,n3815,marker,7,1336.0,1537.5,6,6,triangle-down,Triangle near 3000-psf gridline.,117.2032,2980.736,1.1408,28.662,piecewise
+FC-6C,1,n3815,marker,8,1521.5,1522.5,2,2,triangle-down,,149.1842,3026.279,0.4348,14.715,piecewise
+FC-6C,1,n3815,marker,9,1626.0,1522.0,2,2,triangle-down,,166.9927,3024.976,0.4435,14.718,piecewise
+FC-6C,1,n3815,marker,10,1746.0,1519.5,2,2,triangle-down,,187.4357,3029.959,0.4599,14.698,piecewise
+FC-6C,1,n3815,marker,11,1919.5,1516.0,2,2,triangle-down,,217.4213,3036.777,0.4721,14.67,piecewise
+FC-6C,1,n3815,marker,12,2101,1516,7,7,triangle-down,Triangle touches right gridline.,249.114,3031.592,1.3381,31.711,piecewise extrapolated x
+FC-6C,1,n3815,trace,13,711,1995,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,10.2018,1439.53,0.2921,19.377,piecewise
+FC-6C,1,n3815,trace,14,726,1962.0,1,13.5,,Column dark-run center; guide used only to select ink.,12.7406,1550.148,0.3123,48.227,piecewise
+FC-6C,1,n3815,trace,15,746,1918.5,1,12.0,,Column dark-run center; guide used only to select ink.,16.1239,1695.948,0.3157,43.441,piecewise
+FC-6C,1,n3815,trace,16,749,1913.5,1,12.0,,Column dark-run center; guide used only to select ink.,16.6285,1712.687,0.3166,43.472,piecewise
+FC-6C,1,n3815,trace,17,789,1846.0,1,10.5,,Column dark-run center; guide used only to select ink.,23.3564,1938.667,0.326,38.835,piecewise
+FC-6C,1,n3815,trace,18,809,1818.5,1,11.0,,Column dark-run center; guide used only to select ink.,26.7081,2031.266,0.333,41.736,piecewise
+FC-6C,1,n3815,trace,19,829,1789.5,1,9.0,,Column dark-run center; guide used only to select ink.,30.0616,2130.29,0.3355,35.286,piecewise
+FC-6C,1,n3815,trace,20,849,1765.5,1,9.0,,Column dark-run center; guide used only to select ink.,33.4057,2212.14,0.3416,35.657,piecewise
+FC-6C,1,n3815,trace,21,861,1752.0,1,7.5,,Column dark-run center; guide used only to select ink.,35.4103,2258.157,0.3427,30.692,piecewise
+FC-6C,1,n3815,trace,22,901,1710.0,1,7.5,,Column dark-run center; guide used only to select ink.,42.0858,2401.231,0.3548,31.339,piecewise
+FC-6C,1,n3815,trace,23,921,1689.5,1,7.0,,Column dark-run center; guide used only to select ink.,45.4218,2471.043,0.3601,29.931,piecewise
+FC-6C,1,n3815,trace,24,941,1674.0,1,7.5,,Column dark-run center; guide used only to select ink.,48.7489,2523.687,0.367,31.893,piecewise
+FC-6C,1,n3815,trace,25,942,1671.5,1,7.0,,Column dark-run center; guide used only to select ink.,48.9182,2532.24,0.3665,30.208,piecewise
+FC-6C,1,n3815,trace,26,955,1662.5,1,7.0,,Column dark-run center; guide used only to select ink.,51.1308,2562.765,0.3841,30.346,piecewise
+FC-6C,1,n3815,trace,27,972,1650.5,1,7.0,,Column dark-run center; guide used only to select ink.,54.0929,2603.473,0.3782,30.53,piecewise
+FC-6C,1,n3815,trace,28,1015,1620.5,1,5.0,,Column dark-run center; guide used only to select ink.,61.5856,2705.216,0.3599,24.094,piecewise
+FC-6C,1,n3815,trace,29,1035,1610.0,1,6.5,,Column dark-run center; guide used only to select ink.,65.0647,2740.68,0.3558,29.425,piecewise
+FC-6C,1,n3815,trace,30,1055,1599.5,1,7.0,,Column dark-run center; guide used only to select ink.,68.544,2776.141,0.3498,31.309,piecewise
+FC-6C,1,n3815,trace,31,1075,1591.5,1,9.0,,Column dark-run center; guide used only to select ink.,72.019,2803.021,0.3467,38.324,piecewise
+FC-6C,1,n3815,trace,32,1089,1584.0,1,7.5,,Column dark-run center; guide used only to select ink.,74.455,2828.355,0.3392,33.267,piecewise
+FC-6C,1,n3815,trace,33,1131,1565.0,1,5.5,,Column dark-run center; guide used only to select ink.,81.7573,2892.339,0.3211,26.662,piecewise
+FC-6C,1,n3815,trace,34,1151,1560.0,1,7.5,,Column dark-run center; guide used only to select ink.,85.2272,2908.916,0.318,33.629,piecewise
+FC-6C,1,n3815,trace,35,1171,1552.5,1,6.0,,Column dark-run center; guide used only to select ink.,88.702,2934.069,0.3083,28.572,piecewise
+FC-6C,1,n3815,trace,36,1191,1546.5,1,6.0,,Column dark-run center; guide used only to select ink.,92.174,2954.074,0.3015,28.662,piecewise
+FC-6C,1,n3815,trace,37,1210,1543.5,1,6.0,,Column dark-run center; guide used only to select ink.,95.4675,2963.815,0.295,28.705,piecewise
+FC-6C,1,n3815,trace,38,1254,1537.0,1,5.5,,Column dark-run center; guide used only to select ink.,103.0795,2984.834,0.2824,26.831,piecewise
+FC-6C,1,n3815,trace,39,1274,1534.0,1,5.5,,Column dark-run center; guide used only to select ink.,106.5303,2994.543,0.2814,26.874,piecewise
+FC-6C,1,n3815,trace,40,1294,1533.5,1,6.0,,Column dark-run center; guide used only to select ink.,109.9762,2995.676,0.2814,28.585,piecewise
+FC-6C,1,n3815,trace,41,1314,1533.5,1,6.0,,Column dark-run center; guide used only to select ink.,113.4213,2995.095,0.2804,28.581,piecewise
+FC-6C,1,n3815,trace,42,1316,1532.5,1,5.0,,Column dark-run center; guide used only to select ink.,113.7677,2998.466,0.2784,25.182,piecewise
+FC-6C,1,n3815,trace,43,1360,1530.0,1,4.5,,Column dark-run center; guide used only to select ink.,121.3515,3005.653,0.2753,23.398,piecewise
+FC-6C,1,n3815,trace,44,1380,1529.5,1,7.0,,Column dark-run center; guide used only to select ink.,124.7974,3006.764,0.279,31.916,piecewise
+FC-6C,1,n3815,trace,45,1400,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,128.2443,3009.558,0.2761,28.461,piecewise
+FC-6C,1,n3815,trace,46,1420,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,131.6894,3008.987,0.2751,28.468,piecewise
+FC-6C,1,n3815,trace,47,1440,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,135.1344,3008.416,0.2741,28.475,piecewise
+FC-6C,1,n3815,trace,48,1460,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,138.5794,3007.845,0.2731,28.482,piecewise
+FC-6C,1,n3815,trace,49,1480,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,142.0244,3007.274,0.2721,28.49,piecewise
+FC-6C,1,n3815,trace,50,1481,1528.5,1,6.0,,Column dark-run center; guide used only to select ink.,142.1967,3007.245,0.2721,28.49,piecewise
+FC-6C,1,n3815,trace,51,1496,1516.0,1,5.5,,Column dark-run center; guide used only to select ink.,144.8041,3048.881,0.2704,26.423,piecewise
+FC-6C,1,n3815,trace,52,1501,1528.0,1,5.5,,Column dark-run center; guide used only to select ink.,145.6426,3008.357,0.2701,26.767,piecewise
+FC-6C,1,n3815,trace,53,1542,1528.0,1,6.5,,Column dark-run center; guide used only to select ink.,152.6746,3007.186,0.27,30.194,piecewise
+FC-6C,1,n3815,trace,54,1562,1527.0,1,7.5,,Column dark-run center; guide used only to select ink.,156.0828,3009.98,0.2746,33.566,piecewise
+FC-6C,1,n3815,trace,55,1582,1528.0,1,6.5,,Column dark-run center; guide used only to select ink.,159.4873,3006.044,0.2755,30.208,piecewise
+FC-6C,1,n3815,trace,56,1601,1527.5,1,6.0,,Column dark-run center; guide used only to select ink.,162.7243,3007.184,0.2772,28.485,piecewise
+FC-6C,1,n3815,trace,57,1648,1526.5,1,7.0,,Column dark-run center; guide used only to select ink.,170.7312,3009.207,0.2855,31.866,piecewise
+FC-6C,1,n3815,trace,58,1668,1525.5,1,6.0,,Column dark-run center; guide used only to select ink.,174.1395,3012.0,0.2864,28.414,piecewise
+FC-6C,1,n3815,trace,59,1688,1525.5,1,6.0,,Column dark-run center; guide used only to select ink.,177.5458,3011.429,0.2891,28.421,piecewise
+FC-6C,1,n3815,trace,60,1708,1525.5,1,6.0,,Column dark-run center; guide used only to select ink.,180.9522,3010.858,0.2919,28.428,piecewise
+FC-6C,1,n3815,trace,61,1723,1526.5,1,5.0,,Column dark-run center; guide used only to select ink.,183.5051,3007.065,0.292,25.069,piecewise
+FC-6C,1,n3815,trace,62,1768,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,191.1742,3014.191,0.303,33.495,piecewise
+FC-6C,1,n3815,trace,63,1788,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,194.5805,3013.62,0.3057,33.502,piecewise
+FC-6C,1,n3815,trace,64,1808,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,197.9869,3013.049,0.3085,33.509,piecewise
+FC-6C,1,n3815,trace,65,1813,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,198.8385,3012.907,0.3092,33.511,piecewise
+FC-6C,1,n3815,trace,66,1826,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,201.0792,3012.535,0.3173,33.515,piecewise
+FC-6C,1,n3815,trace,67,1846,1523.5,1,8.0,,Column dark-run center; guide used only to select ink.,204.5725,3013.646,0.3162,35.204,piecewise
+FC-6C,1,n3815,trace,68,1866,1524.0,1,7.5,,Column dark-run center; guide used only to select ink.,208.0639,3011.393,0.3133,33.529,piecewise
+FC-6C,1,n3815,trace,69,1881,1523.0,1,7.5,,Column dark-run center; guide used only to select ink.,210.6851,3014.329,0.3118,33.488,piecewise
+FC-6C,1,n3815,trace,70,1887,1538.5,1,5.0,,Column dark-run center; guide used only to select ink.,211.7029,2961.319,0.3064,25.212,piecewise
+FC-6C,1,n3815,trace,71,1890,1537.5,1,6.0,,Column dark-run center; guide used only to select ink.,212.2287,2964.658,0.308,28.668,piecewise
+FC-6C,1,n3815,trace,72,1946,1522.0,1,8.5,,Column dark-run center; guide used only to select ink.,222.0372,3015.837,0.3072,36.873,piecewise
+FC-6C,1,n3815,trace,73,1966,1522.0,1,8.5,,Column dark-run center; guide used only to select ink.,225.5295,3015.266,0.3052,36.88,piecewise
+FC-6C,1,n3815,trace,74,1986,1522.0,1,8.5,,Column dark-run center; guide used only to select ink.,229.0219,3014.695,0.3032,36.887,piecewise
+FC-6C,1,n3815,trace,75,2006,1520.5,1,8.0,,Column dark-run center; guide used only to select ink.,232.517,3019.17,0.3003,35.12,piecewise
+FC-6C,1,n3815,trace,76,2026,1521.5,1,9.0,,Column dark-run center; guide used only to select ink.,236.0075,3015.235,0.3002,38.582,piecewise
+FC-6C,1,n3815,trace,77,2046,1519.5,1,9.0,,Column dark-run center; guide used only to select ink.,239.5036,3021.391,0.2982,38.497,piecewise
+FC-6C,1,n3815,trace,78,2066,1520.5,1,10.0,,Column dark-run center; guide used only to select ink.,242.9941,3017.456,0.298,41.958,piecewise
+FC-6C,1,n3815,trace,79,2076,1519.5,1,9.0,,Column dark-run center; guide used only to select ink.,244.7421,3020.534,0.2952,38.507,piecewise
+FC-6C,1,n3815,trace,80,2077,1519,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,244.9177,3022.187,0.2877,24.839,piecewise
+FC-6C,1,n3815,feature,81,711,1995,2,5.0,,first point of drawn trace,10.2018,1439.53,0.4576,19.403,piecewise
+FC-6C,1,n3815,feature,82,2077,1519,90,5.0,,peak point of drawn trace; broad/flat maximum,244.9177,3022.187,15.8751,27.402,piecewise extrapolated x
+FC-6C,1,n3815,feature,83,2077,1519,2,5.0,,last point of drawn trace,244.9177,3022.187,0.4624,24.867,piecewise
+FC-6C,1,n2934,marker,1,708.0,2088.5,2,2,square,,9.5339,1125.095,0.451,8.707,piecewise
+FC-6C,1,n2934,marker,2,766,1976,6,6,square,Outline interrupted by trace/grid; manual center with wider bound.,19.3237,1502.034,1.1383,22.99,piecewise
+FC-6C,1,n2934,marker,3,881.5,1857.5,2,2,square,,38.6117,1897.557,0.5046,10.142,piecewise
+FC-6C,1,n2934,marker,4,993.0,1743.0,2,2,square,,57.56,2285.406,0.5356,11.872,piecewise
+FC-6C,1,n2934,marker,5,1110.5,1680.5,2,2,square,,77.9965,2496.617,0.4952,12.829,piecewise
+FC-6C,1,n2934,marker,6,1224.0,1631.0,2,2,square,,97.7233,2663.241,0.4562,13.583,piecewise
+FC-6C,1,n2934,marker,7,1336.0,1596.5,2,2,square,,117.0912,2778.385,0.444,14.103,piecewise
+FC-6C,1,n2934,marker,8,1508.0,1570.5,2,2,square,,146.7681,2862.601,0.4355,14.481,piecewise
+FC-6C,1,n2934,marker,9,1629.0,1552.0,2,2,square,,167.4471,2922.528,0.4439,14.749,piecewise
+FC-6C,1,n2934,marker,10,1743,1541,6,6,square,Outline interrupted by trace/grid; manual center with wider bound.,186.8838,2956.927,1.1489,28.788,piecewise
+FC-6C,1,n2934,marker,11,1919.0,1540.0,5,5,square,Square close to down-triangle and its curve.,217.288,2955.253,1.0022,25.299,piecewise
+FC-6C,1,n2934,marker,12,2105,1562,7,7,square,Square on right gridline.,249.7287,2874.535,1.3411,31.86,piecewise extrapolated x
+FC-6C,1,n2934,trace,13,718,2070,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,11.2207,1187.075,0.294,18.907,piecewise
+FC-6C,1,n2934,trace,14,728,2061.0,1,10.5,,Column dark-run center; guide used only to select ink.,12.8899,1217.097,0.3072,37.497,piecewise
+FC-6C,1,n2934,trace,15,746,2030.0,1,11.5,,Column dark-run center; guide used only to select ink.,15.9211,1320.916,0.3145,41.059,piecewise
+FC-6C,1,n2934,trace,16,786,1965.5,1,7.0,,Column dark-run center; guide used only to select ink.,22.6468,1536.837,0.3186,26.295,piecewise
+FC-6C,1,n2934,trace,17,796,1949.0,1,6.5,,Column dark-run center; guide used only to select ink.,24.3284,1592.073,0.3208,24.712,piecewise
+FC-6C,1,n2934,trace,18,803,1940.0,1,6.5,,Column dark-run center; guide used only to select ink.,25.5009,1622.162,0.3229,24.768,piecewise
+FC-6C,1,n2934,trace,19,823,1915.5,1,9.0,,Column dark-run center; guide used only to select ink.,28.8482,1704.04,0.3335,33.342,piecewise
+FC-6C,1,n2934,trace,20,843,1891.5,1,9.0,,Column dark-run center; guide used only to select ink.,32.1939,1784.231,0.3396,33.49,piecewise
+FC-6C,1,n2934,trace,21,858,1876.5,1,6.0,,Column dark-run center; guide used only to select ink.,34.6976,1834.282,0.3389,23.475,piecewise
+FC-6C,1,n2934,trace,22,902,1824.0,1,7.5,,Column dark-run center; guide used only to select ink.,42.0548,2009.865,0.3549,29.561,piecewise
+FC-6C,1,n2934,trace,23,922,1806.0,1,7.5,,Column dark-run center; guide used only to select ink.,45.3881,2071.111,0.361,29.838,piecewise
+FC-6C,1,n2934,trace,24,942,1787.0,1,6.5,,Column dark-run center; guide used only to select ink.,48.7226,2135.785,0.3654,26.682,piecewise
+FC-6C,1,n2934,trace,25,943,1787.0,1,6.5,,Column dark-run center; guide used only to select ink.,48.8877,2135.758,0.3657,26.682,piecewise
+FC-6C,1,n2934,trace,26,956,1775.0,1,6.5,,Column dark-run center; guide used only to select ink.,51.1043,2176.592,0.3831,26.867,piecewise
+FC-6C,1,n2934,trace,27,970,1765.5,1,6.0,,Column dark-run center; guide used only to select ink.,53.5422,2208.815,0.3774,25.289,piecewise
+FC-6C,1,n2934,trace,28,1018,1728.0,1,4.5,,Column dark-run center; guide used only to select ink.,61.9107,2336.195,0.3583,20.694,piecewise
+FC-6C,1,n2934,trace,29,1038,1715.0,1,6.5,,Column dark-run center; guide used only to select ink.,65.3933,2380.254,0.355,27.788,piecewise
+FC-6C,1,n2934,trace,30,1058,1704.0,1,7.5,,Column dark-run center; guide used only to select ink.,68.8725,2417.446,0.35,31.403,piecewise
+FC-6C,1,n2934,trace,31,1078,1692.5,1,7.0,,Column dark-run center; guide used only to select ink.,72.3528,2456.351,0.3423,29.855,piecewise
+FC-6C,1,n2934,trace,32,1087,1689.5,1,5.0,,Column dark-run center; guide used only to select ink.,73.9151,2466.393,0.3355,23.006,piecewise
+FC-6C,1,n2934,trace,33,1132,1666.5,1,6.0,,Column dark-run center; guide used only to select ink.,81.7415,2544.049,0.322,26.803,piecewise
+FC-6C,1,n2934,trace,34,1152,1658.0,1,6.5,,Column dark-run center; guide used only to select ink.,85.217,2572.65,0.316,28.655,piecewise
+FC-6C,1,n2934,trace,35,1172,1650.5,1,7.0,,Column dark-run center; guide used only to select ink.,88.6908,2597.817,0.3102,30.491,piecewise
+FC-6C,1,n2934,trace,36,1192,1643.0,1,6.5,,Column dark-run center; guide used only to select ink.,92.1647,2622.982,0.3024,28.881,piecewise
+FC-6C,1,n2934,trace,37,1197,1641.5,1,4.0,,Column dark-run center; guide used only to select ink.,93.0325,2627.986,0.2959,20.288,piecewise
+FC-6C,1,n2934,trace,38,1249,1622.0,1,3.5,,Column dark-run center; guide used only to select ink.,102.0566,2693.404,0.2789,18.86,piecewise
+FC-6C,1,n2934,trace,39,1269,1617.5,1,7.0,,Column dark-run center; guide used only to select ink.,105.5102,2708.271,0.2846,30.987,piecewise
+FC-6C,1,n2934,trace,40,1289,1611.5,1,7.0,,Column dark-run center; guide used only to select ink.,108.9667,2728.281,0.2836,31.076,piecewise
+FC-6C,1,n2934,trace,41,1296,1609.5,1,6.0,,Column dark-run center; guide used only to select ink.,110.1763,2734.941,0.2813,27.661,piecewise
+FC-6C,1,n2934,trace,42,1305,1605.0,1,4.5,,Column dark-run center; guide used only to select ink.,111.7352,2750.119,0.278,22.561,piecewise
+FC-6C,1,n2934,trace,43,1315,1605.5,1,5.0,,Column dark-run center; guide used only to select ink.,113.4568,2748.118,0.2785,24.274,piecewise
+FC-6C,1,n2934,trace,44,1360,1593.5,1,5.0,,Column dark-run center; guide used only to select ink.,121.231,2787.986,0.2762,24.453,piecewise
+FC-6C,1,n2934,trace,45,1380,1590.5,1,7.0,,Column dark-run center; guide used only to select ink.,124.6818,2797.701,0.279,31.386,piecewise
+FC-6C,1,n2934,trace,46,1400,1586.5,1,6.0,,Column dark-run center; guide used only to select ink.,128.1344,2810.845,0.2761,27.999,piecewise
+FC-6C,1,n2934,trace,47,1420,1582.5,1,6.0,,Column dark-run center; guide used only to select ink.,131.5871,2823.987,0.2751,28.058,piecewise
+FC-6C,1,n2934,trace,48,1440,1579.5,1,6.0,,Column dark-run center; guide used only to select ink.,135.0378,2833.7,0.2741,28.101,piecewise
+FC-6C,1,n2934,trace,49,1460,1576.5,1,6.0,,Column dark-run center; guide used only to select ink.,138.4886,2843.411,0.2731,28.143,piecewise
+FC-6C,1,n2934,trace,50,1480,1573.5,1,6.0,,Column dark-run center; guide used only to select ink.,141.9393,2853.122,0.2721,28.186,piecewise
+FC-6C,1,n2934,trace,51,1484,1573.5,1,6.0,,Column dark-run center; guide used only to select ink.,142.6283,2853.007,0.2719,28.186,piecewise
+FC-6C,1,n2934,trace,52,1541,1564.0,1,4.5,,Column dark-run center; guide used only to select ink.,152.4369,2883.934,0.2661,23.157,piecewise
+FC-6C,1,n2934,trace,53,1561,1562.5,1,6.0,,Column dark-run center; guide used only to select ink.,155.846,2888.5,0.2716,28.342,piecewise
+FC-6C,1,n2934,trace,54,1581,1561.5,1,6.0,,Column dark-run center; guide used only to select ink.,159.2541,2891.351,0.2744,28.354,piecewise
+FC-6C,1,n2934,trace,55,1601,1558.5,1,6.0,,Column dark-run center; guide used only to select ink.,162.666,2901.057,0.2771,28.397,piecewise
+FC-6C,1,n2934,trace,56,1609,1557.0,1,4.5,,Column dark-run center; guide used only to select ink.,164.0314,2905.968,0.2754,23.254,piecewise
+FC-6C,1,n2934,trace,57,1652,1553.0,1,5.5,,Column dark-run center; guide used only to select ink.,171.3624,2918.435,0.2832,26.751,piecewise
+FC-6C,1,n2934,trace,58,1672,1551.5,1,5.0,,Column dark-run center; guide used only to select ink.,174.7715,2922.998,0.285,25.049,piecewise
+FC-6C,1,n2934,trace,59,1692,1551.5,1,5.0,,Column dark-run center; guide used only to select ink.,178.1778,2922.42,0.2877,25.046,piecewise
+FC-6C,1,n2934,trace,60,1712,1548.0,1,7.5,,Column dark-run center; guide used only to select ink.,181.5907,2933.836,0.2952,33.703,piecewise
+FC-6C,1,n2934,trace,61,1718,1548.5,1,5.0,,Column dark-run center; guide used only to select ink.,182.6117,2931.949,0.2913,25.088,piecewise
+FC-6C,1,n2934,trace,62,1769,1545.0,1,4.5,,Column dark-run center; guide used only to select ink.,191.3044,2942.467,0.2973,23.411,piecewise
+FC-6C,1,n2934,trace,63,1789,1544.0,1,6.5,,Column dark-run center; guide used only to select ink.,194.7126,2945.314,0.3039,30.307,piecewise
+FC-6C,1,n2934,trace,64,1809,1543.5,1,6.0,,Column dark-run center; guide used only to select ink.,198.1198,2946.448,0.3057,28.59,piecewise
+FC-6C,1,n2934,trace,65,1813,1543.5,1,6.0,,Column dark-run center; guide used only to select ink.,198.8011,2946.332,0.3063,28.59,piecewise
+FC-6C,1,n2934,trace,66,1826,1542.5,1,5.0,,Column dark-run center; guide used only to select ink.,201.0429,2949.382,0.3124,25.161,piecewise
+FC-6C,1,n2934,trace,67,1846,1540.5,1,6.0,,Column dark-run center; guide used only to select ink.,204.5393,2955.655,0.3124,28.63,piecewise
+FC-6C,1,n2934,trace,68,1850,1540.5,1,6.0,,Column dark-run center; guide used only to select ink.,205.2378,2955.539,0.312,28.629,piecewise
+FC-6C,1,n2934,trace,69,1866,1540.5,1,6.0,,Column dark-run center; guide used only to select ink.,208.0318,2955.076,0.3104,28.626,piecewise
+FC-6C,1,n2934,trace,70,1886,1538.5,1,5.0,,Column dark-run center; guide used only to select ink.,211.5282,2961.348,0.3065,25.212,piecewise
+FC-6C,1,n2934,trace,71,1893,1539.0,1,4.5,,Column dark-run center; guide used only to select ink.,212.7496,2959.432,0.3048,23.482,piecewise
+FC-6C,1,n2934,trace,72,1947,1543.0,1,3.5,,Column dark-run center; guide used only to select ink.,222.1719,2944.166,0.2977,19.97,piecewise
+FC-6C,1,n2934,trace,73,1967,1544.0,1,6.5,,Column dark-run center; guide used only to select ink.,225.6625,2940.162,0.3014,30.273,piecewise
+FC-6C,1,n2934,trace,74,1987,1546.5,1,6.0,,Column dark-run center; guide used only to select ink.,229.1504,2931.021,0.2985,28.51,piecewise
+FC-6C,1,n2934,trace,75,2007,1548.0,1,5.5,,Column dark-run center; guide used only to select ink.,232.6402,2925.305,0.2956,26.763,piecewise
+FC-6C,1,n2934,trace,76,2027,1551.0,1,5.5,,Column dark-run center; guide used only to select ink.,236.1273,2914.453,0.2936,26.712,piecewise
+FC-6C,1,n2934,trace,77,2047,1553.0,1,6.5,,Column dark-run center; guide used only to select ink.,239.6163,2907.026,0.2935,30.118,piecewise
+FC-6C,1,n2934,trace,78,2058,1554.5,1,5.0,,Column dark-run center; guide used only to select ink.,241.5345,2901.572,0.2897,24.932,piecewise
+FC-6C,1,n2934,trace,79,2064,1557.0,1,4.5,,Column dark-run center; guide used only to select ink.,242.5777,2892.838,0.2881,23.172,piecewise
+FC-6C,1,n2934,trace,80,2077,1558.5,1,6.0,,Column dark-run center; guide used only to select ink.,244.8452,2887.326,0.2896,28.306,piecewise
+FC-6C,1,n2934,trace,81,2078,1558,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,245.0208,2889.01,0.2877,24.874,piecewise
+FC-6C,1,n2934,feature,82,718,2070,2,5.0,,first point of drawn trace,11.2207,1187.075,0.4596,18.933,piecewise
+FC-6C,1,n2934,feature,83,1850,1537,80,5.0,,peak point of drawn trace; broad/flat maximum,205.2446,2967.53,14.0973,27.548,piecewise
+FC-6C,1,n2934,feature,84,2078,1558,2,5.0,,last point of drawn trace,245.0208,2889.01,0.4624,24.903,piecewise
+FC-6C,1,n1961,marker,1,707.5,2173.5,2,2,triangle-up,,9.2945,837.754,0.4507,8.563,piecewise
+FC-6C,1,n1961,marker,2,770.5,2098.5,2,2,triangle-up,,19.8462,1089.906,0.4702,8.641,piecewise
+FC-6C,1,n1961,marker,3,884.5,2035.5,2,2,triangle-up,,38.7989,1298.925,0.5053,9.028,piecewise
+FC-6C,1,n1961,marker,4,1000.5,2020.5,2,2,triangle-up,,58.3594,1346.432,0.5336,9.115,piecewise
+FC-6C,1,n1961,marker,5,1115.0,2018.0,2,2,triangle-up,,78.1507,1351.941,0.4945,9.123,piecewise
+FC-6C,1,n1961,marker,6,1234,2011,6,6,triangle-up,Outline interrupted by trace/grid; manual center with wider bound.,98.7284,1372.456,1.154,22.728,piecewise
+FC-6C,1,n1961,marker,7,1346.0,2017.5,2,2,triangle-up,,118.0147,1347.782,0.4438,9.111,piecewise
+FC-6C,1,n1961,marker,8,1516.5,2014.0,2,2,triangle-up,,147.3941,1355.231,0.4353,9.122,piecewise
+FC-6C,1,n1961,marker,9,1647,2001,6,6,triangle-up,Outline interrupted by trace/grid; manual center with wider bound.,169.6651,1395.587,1.1345,22.754,piecewise
+FC-6C,1,n1961,marker,10,1752.5,1997.0,2,2,triangle-up,,187.6327,1406.343,0.4599,9.213,piecewise
+FC-6C,1,n1961,marker,11,1937,2013,6,6,triangle-up,Outline interrupted by trace/grid; manual center with wider bound.,219.5283,1347.968,1.1792,22.653,piecewise
+FC-6C,1,n1961,marker,12,2107.0,2019.0,7,7,triangle-up,Triangle on right gridline.,249.2458,1323.548,1.3407,25.987,piecewise extrapolated x
+FC-6C,1,n1961,trace,13,714,2157,1,0.5,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,10.3995,893.587,0.2843,3.437,piecewise
+FC-6C,1,n1961,trace,14,728,2148.5,1,10.0,,Column dark-run center; guide used only to select ink.,12.7297,922.083,0.3061,35.68,piecewise
+FC-6C,1,n1961,trace,15,748,2127.5,1,8.0,,Column dark-run center; guide used only to select ink.,16.0744,992.858,0.3085,28.881,piecewise
+FC-6C,1,n1961,trace,16,750,2125.5,1,9.0,,Column dark-run center; guide used only to select ink.,16.4086,999.597,0.311,32.275,piecewise
+FC-6C,1,n1961,trace,17,795,2088.5,1,7,,Additional column-run reading on visible early stroke.,23.9138,1122.93,0.3211,25.524,piecewise
+FC-6C,1,n1961,trace,18,815,2075,1,6.5,,Additional column-run reading on visible early stroke.,27.2435,1167.835,0.3263,23.922,piecewise
+FC-6C,1,n1961,trace,19,822,2069.5,1,6.0,,Column dark-run center; guide used only to select ink.,28.4102,1186.157,0.3275,22.271,piecewise
+FC-6C,1,n1961,trace,20,824,2069.0,1,6.5,,Column dark-run center; guide used only to select ink.,28.7416,1187.788,0.329,23.959,piecewise
+FC-6C,1,n1961,trace,21,828,2067.0,1,6.5,,Column dark-run center; guide used only to select ink.,29.4063,1194.414,0.3303,23.971,piecewise
+FC-6C,1,n1961,trace,22,848,2057.0,1,6.5,,Column dark-run center; guide used only to select ink.,32.7293,1227.543,0.3364,24.032,piecewise
+FC-6C,1,n1961,trace,23,864,2050.5,1,6.0,,Column dark-run center; guide used only to select ink.,35.385,1249.0,0.3404,22.387,piecewise
+FC-6C,1,n1961,trace,24,905,2035.5,1,6.0,,Column dark-run center; guide used only to select ink.,42.1866,1298.409,0.3529,22.477,piecewise
+FC-6C,1,n1961,trace,25,925,2032.5,1,6.0,,Column dark-run center; guide used only to select ink.,45.4968,1307.992,0.359,22.494,piecewise
+FC-6C,1,n1961,trace,26,945,2029.5,1,6.0,,Column dark-run center; guide used only to select ink.,48.807,1317.575,0.3651,22.511,piecewise
+FC-6C,1,n1961,trace,27,946,2029.5,1,6.0,,Column dark-run center; guide used only to select ink.,48.9723,1317.549,0.3654,22.511,piecewise
+FC-6C,1,n1961,trace,28,959,2027.5,1,6.0,,Column dark-run center; guide used only to select ink.,51.1753,1323.946,0.3818,22.522,piecewise
+FC-6C,1,n1961,trace,29,979,2026.5,1,6.0,,Column dark-run center; guide used only to select ink.,54.6332,1326.803,0.375,22.526,piecewise
+FC-6C,1,n1961,trace,30,1021,2022.5,1,4.0,,Column dark-run center; guide used only to select ink.,61.8984,1339.19,0.3571,15.812,piecewise
+FC-6C,1,n1961,trace,31,1041,2021.0,1,5.5,,Column dark-run center; guide used only to select ink.,65.3573,1343.727,0.353,20.871,piecewise
+FC-6C,1,n1961,trace,32,1061,2021.0,1,5.5,,Column dark-run center; guide used only to select ink.,68.8134,1343.222,0.3462,20.87,piecewise
+FC-6C,1,n1961,trace,33,1081,2020.5,1,6.0,,Column dark-run center; guide used only to select ink.,72.2705,1344.397,0.3403,22.555,piecewise
+FC-6C,1,n1961,trace,34,1092,2021.0,1,3.5,,Column dark-run center; guide used only to select ink.,74.1705,1342.438,0.3319,14.132,piecewise
+FC-6C,1,n1961,trace,35,1135,2019.0,1,4.5,,Column dark-run center; guide used only to select ink.,81.605,1348.074,0.3191,17.508,piecewise
+FC-6C,1,n1961,trace,36,1155,2020.5,1,6.0,,Column dark-run center; guide used only to select ink.,85.0584,1342.527,0.3151,22.548,piecewise
+FC-6C,1,n1961,trace,37,1175,2021.0,1,5.5,,Column dark-run center; guide used only to select ink.,88.5136,1340.341,0.3074,20.86,piecewise
+FC-6C,1,n1961,trace,38,1195,2021.0,1,5.5,,Column dark-run center; guide used only to select ink.,91.9698,1339.836,0.3006,20.858,piecewise
+FC-6C,1,n1961,trace,39,1206,2022.0,1,4.5,,Column dark-run center; guide used only to select ink.,93.8688,1336.198,0.2949,17.484,piecewise
+FC-6C,1,n1961,trace,40,1210,2022.5,1,4.0,,Column dark-run center; guide used only to select ink.,94.5591,1334.416,0.2926,15.797,piecewise
+FC-6C,1,n1961,trace,41,1214,2019.5,1,7.0,,Column dark-run center; guide used only to select ink.,95.256,1344.397,0.2969,25.916,piecewise
+FC-6C,1,n1961,trace,42,1254,2023.5,1,6.0,,Column dark-run center; guide used only to select ink.,102.154,1329.945,0.2837,22.521,piecewise
+FC-6C,1,n1961,trace,43,1274,2022.5,1,7.0,,Column dark-run center; guide used only to select ink.,105.6014,1332.801,0.2846,25.892,piecewise
+FC-6C,1,n1961,trace,44,1294,2021.5,1,6.0,,Column dark-run center; guide used only to select ink.,109.0488,1335.656,0.2817,22.53,piecewise
+FC-6C,1,n1961,trace,45,1314,2022.5,1,7.0,,Column dark-run center; guide used only to select ink.,112.4924,1331.791,0.2826,25.888,piecewise
+FC-6C,1,n1961,trace,46,1318,2021.5,1,6.0,,Column dark-run center; guide used only to select ink.,113.1834,1335.05,0.2805,22.528,piecewise
+FC-6C,1,n1961,trace,47,1372,2022.5,1,7.0,,Column dark-run center; guide used only to select ink.,122.4843,1330.327,0.2797,25.883,piecewise
+FC-6C,1,n1961,trace,48,1392,2022.0,1,7.5,,Column dark-run center; guide used only to select ink.,125.9308,1331.502,0.2797,27.567,piecewise
+FC-6C,1,n1961,trace,49,1412,2022.0,1,7.5,,Column dark-run center; guide used only to select ink.,129.3763,1330.997,0.2787,27.565,piecewise
+FC-6C,1,n1961,trace,50,1432,2018.5,1,6.0,,Column dark-run center; guide used only to select ink.,132.8284,1342.25,0.2748,22.536,piecewise
+FC-6C,1,n1961,trace,51,1452,2018.0,1,5.5,,Column dark-run center; guide used only to select ink.,136.2748,1343.425,0.2729,20.855,piecewise
+FC-6C,1,n1961,trace,52,1472,2017.5,1,6.0,,Column dark-run center; guide used only to select ink.,139.7213,1344.599,0.2728,22.539,piecewise
+FC-6C,1,n1961,trace,53,1487,2017.5,1,6.0,,Column dark-run center; guide used only to select ink.,142.3054,1344.22,0.2721,22.538,piecewise
+FC-6C,1,n1961,trace,54,1544,2013.5,1,4.0,,Column dark-run center; guide used only to select ink.,152.1073,1356.215,0.2647,15.828,piecewise
+FC-6C,1,n1961,trace,55,1564,2013.0,1,7.5,,Column dark-run center; guide used only to select ink.,155.513,1357.389,0.274,27.606,piecewise
+FC-6C,1,n1961,trace,56,1584,2011.5,1,6.0,,Column dark-run center; guide used only to select ink.,158.9205,1361.921,0.274,22.567,piecewise
+FC-6C,1,n1961,trace,57,1604,2009.0,1,6.5,,Column dark-run center; guide used only to select ink.,162.3299,1369.811,0.2777,24.263,piecewise
+FC-6C,1,n1961,trace,58,1613,2009.0,1,5.5,,Column dark-run center; guide used only to select ink.,163.862,1369.583,0.277,20.897,piecewise
+FC-6C,1,n1961,trace,59,1625,2007.0,1,4.5,,Column dark-run center; guide used only to select ink.,165.9086,1375.996,0.2768,17.545,piecewise
+FC-6C,1,n1961,trace,60,1627,2001.5,1,5.0,,Column dark-run center; guide used only to select ink.,166.2594,1394.415,0.278,19.261,piecewise
+FC-6C,1,n1961,trace,61,1667,2003.0,1,6.5,,Column dark-run center; guide used only to select ink.,173.0661,1388.364,0.2863,24.294,piecewise
+FC-6C,1,n1961,trace,62,1680,1999.5,1,6.0,,Column dark-run center; guide used only to select ink.,175.2857,1399.787,0.2872,22.633,piecewise
+FC-6C,1,n1961,trace,63,1687,1999.5,1,6.0,,Column dark-run center; guide used only to select ink.,176.4774,1399.61,0.2881,22.632,piecewise
+FC-6C,1,n1961,trace,64,1707,1999.5,1,6.0,,Column dark-run center; guide used only to select ink.,179.8821,1399.103,0.2909,22.63,piecewise
+FC-6C,1,n1961,trace,65,1727,2001.5,1,7.0,,Column dark-run center; guide used only to select ink.,183.2831,1391.881,0.2955,25.98,piecewise
+FC-6C,1,n1961,trace,66,1732,2001.5,1,5.0,,Column dark-run center; guide used only to select ink.,184.1343,1391.754,0.2924,19.252,piecewise
+FC-6C,1,n1961,trace,67,1777,2006.0,1,6.5,,Column dark-run center; guide used only to select ink.,191.7863,1375.508,0.3014,24.265,piecewise
+FC-6C,1,n1961,trace,68,1797,2007.5,1,7.0,,Column dark-run center; guide used only to select ink.,195.1881,1369.966,0.3051,25.936,piecewise
+FC-6C,1,n1961,trace,69,1817,2009.0,1,6.5,,Column dark-run center; guide used only to select ink.,198.59,1364.425,0.3069,24.243,piecewise
+FC-6C,1,n1961,trace,70,1819,2009.0,1,6.5,,Column dark-run center; guide used only to select ink.,198.9304,1364.374,0.3072,24.243,piecewise
+FC-6C,1,n1961,trace,71,1832,2010.5,1,5.0,,Column dark-run center; guide used only to select ink.,201.1716,1359.011,0.3127,19.188,piecewise
+FC-6C,1,n1961,trace,72,1852,2012.0,1,5.5,,Column dark-run center; guide used only to select ink.,204.6661,1353.47,0.3118,20.858,piecewise
+FC-6C,1,n1961,trace,73,1872,2014.5,1,6.0,,Column dark-run center; guide used only to select ink.,208.1587,1344.574,0.3108,22.522,piecewise
+FC-6C,1,n1961,trace,74,1892,2014.5,1,6.0,,Column dark-run center; guide used only to select ink.,211.6561,1344.069,0.3088,22.521,piecewise
+FC-6C,1,n1961,trace,75,1910,2016.0,1,4.5,,Column dark-run center; guide used only to select ink.,214.8009,1338.58,0.3041,17.466,piecewise
+FC-6C,1,n1961,trace,76,1916,2021.0,1,8.5,,Column dark-run center; guide used only to select ink.,215.8406,1321.648,0.3112,30.884,piecewise
+FC-6C,1,n1961,trace,77,1917,2021.0,1,8.5,,Column dark-run center; guide used only to select ink.,216.0154,1321.622,0.3111,30.884,piecewise
+FC-6C,1,n1961,trace,78,1957,2018.0,1,6.5,,Column dark-run center; guide used only to select ink.,223.0162,1330.683,0.3033,24.174,piecewise
+FC-6C,1,n1961,trace,79,1977,2018.5,1,6.0,,Column dark-run center; guide used only to select ink.,226.5128,1328.501,0.3004,22.488,piecewise
+FC-6C,1,n1961,trace,80,1997,2018.5,1,6.0,,Column dark-run center; guide used only to select ink.,230.0103,1327.997,0.2984,22.486,piecewise
+FC-6C,1,n1961,trace,81,2017,2019.5,1,5.0,,Column dark-run center; guide used only to select ink.,233.5059,1324.137,0.2946,19.117,piecewise
+FC-6C,1,n1961,trace,82,2037,2019.5,1,5.0,,Column dark-run center; guide used only to select ink.,237.0034,1323.633,0.2926,19.115,piecewise
+FC-6C,1,n1961,trace,83,2057,2019.5,1,5.0,,Column dark-run center; guide used only to select ink.,240.501,1323.129,0.2906,19.113,piecewise
+FC-6C,1,n1961,trace,84,2077,2018.5,1,6.0,,Column dark-run center; guide used only to select ink.,244.0004,1325.981,0.2905,22.479,piecewise
+FC-6C,1,n1961,trace,85,2087,2018.0,1,5.5,,Column dark-run center; guide used only to select ink.,245.75,1327.407,0.2886,20.801,piecewise
+FC-6C,1,n1961,trace,86,2088,2018.0,1,5.5,,Column dark-run center; guide used only to select ink.,245.9249,1327.381,0.2885,20.801,piecewise
+FC-6C,1,n1961,trace,87,2090,2019,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,246.2728,1323.976,0.2874,19.114,piecewise
+FC-6C,1,n1961,feature,88,714,2157,2,0.5,,first point of drawn trace,10.3995,893.587,0.45,3.462,piecewise
+FC-6C,1,n1961,feature,89,1680,2001,40,5.0,,peak point of drawn trace; broad/flat maximum,175.2829,1394.751,6.9298,20.251,piecewise
+FC-6C,1,n1961,feature,90,2090,2019,2,5.0,,last point of drawn trace,246.2728,1323.976,0.4624,19.139,piecewise
+FC-6C,1,n714,marker,1,714.5,2244.0,2,2,circle,,10.3221,598.314,0.4527,8.604,piecewise
+FC-6C,1,n714,marker,2,772.0,2203.5,2,2,circle,,19.9047,734.29,0.4705,8.582,piecewise
+FC-6C,1,n714,marker,3,882.5,2192.0,2,2,circle,,38.1968,770.506,0.5044,8.579,piecewise
+FC-6C,1,n714,marker,4,999.5,2196.5,2,2,circle,,57.8714,752.234,0.5343,8.585,piecewise
+FC-6C,1,n714,marker,5,1118.5,2194.5,2,2,circle,,78.4292,755.985,0.4937,8.587,piecewise
+FC-6C,1,n714,marker,6,1226.5,2197.5,2,2,circle,,97.0777,743.025,0.4567,8.592,piecewise
+FC-6C,1,n714,marker,7,1349.0,2197.5,2,2,circle,,118.1898,739.886,0.4438,8.595,piecewise
+FC-6C,1,n714,marker,8,1463.5,2197.5,2,2,circle,,137.9162,736.949,0.4381,8.598,piecewise
+FC-6C,1,n714,marker,9,1579.5,2196.5,2,2,circle,,157.8076,737.374,0.4359,8.601,piecewise
+FC-6C,1,n714,marker,10,1695.0,2195.0,2,2,circle,,177.4689,739.514,0.4516,8.603,piecewise
+FC-6C,1,n714,marker,11,1816.5,2194.5,2,2,circle,,198.1495,738.096,0.4682,8.607,piecewise
+FC-6C,1,n714,marker,12,1925.5,2194.5,2,2,circle,,217.169,735.297,0.4732,8.61,piecewise
+FC-6C,1,n714,marker,13,2046.5,2194.5,2,2,circle,,238.34,732.187,0.4615,8.613,piecewise
+FC-6C,1,n714,marker,14,2119.0,2196.5,7,7,circle,Circle on right gridline.,251.0215,723.508,1.3496,25.783,piecewise extrapolated x
+FC-6C,1,n714,trace,15,729,2228,1,4.5,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,12.7494,652.24,0.2961,17.056,piecewise
+FC-6C,1,n714,trace,16,732,2227.5,1,7.0,,Column dark-run center; guide used only to select ink.,13.2465,653.859,0.3016,25.542,piecewise
+FC-6C,1,n714,trace,17,752,2214.0,1,6.5,,Column dark-run center; guide used only to select ink.,16.5784,699.164,0.3068,23.838,piecewise
+FC-6C,1,n714,trace,18,755,2212.0,1,5.5,,Column dark-run center; guide used only to select ink.,17.0782,705.875,0.3059,20.443,piecewise
+FC-6C,1,n714,trace,19,789,2199.5,1,5.0,,Column dark-run center; guide used only to select ink.,22.7229,747.432,0.3154,18.74,piecewise
+FC-6C,1,n714,trace,20,809,2196.5,1,7.0,,Column dark-run center; guide used only to select ink.,26.0354,757.105,0.3251,25.53,piecewise
+FC-6C,1,n714,trace,21,829,2193.5,1,5.0,,Column dark-run center; guide used only to select ink.,29.3478,766.778,0.3277,18.739,piecewise
+FC-6C,1,n714,trace,22,849,2192.0,1,5.5,,Column dark-run center; guide used only to select ink.,32.6575,771.36,0.3346,20.437,piecewise
+FC-6C,1,n714,trace,23,850,2192.0,1,5.5,,Column dark-run center; guide used only to select ink.,32.8228,771.335,0.335,20.437,piecewise
+FC-6C,1,n714,trace,24,863,2192.0,1,3.5,,Column dark-run center; guide used only to select ink.,34.9724,771.003,0.3354,13.646,piecewise
+FC-6C,1,n714,trace,25,909,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,42.5717,756.247,0.3512,17.047,piecewise
+FC-6C,1,n714,trace,26,929,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,45.8797,757.433,0.3599,22.142,piecewise
+FC-6C,1,n714,trace,27,947,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,48.856,756.973,0.3654,22.143,piecewise
+FC-6C,1,n714,trace,28,960,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,51.0505,756.641,0.3819,22.144,piecewise
+FC-6C,1,n714,trace,29,979,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,54.3314,754.457,0.3727,17.05,piecewise
+FC-6C,1,n714,trace,30,1024,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,62.1058,756.703,0.3592,20.449,piecewise
+FC-6C,1,n714,trace,31,1044,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,65.5594,754.493,0.3533,22.15,piecewise
+FC-6C,1,n714,trace,32,1064,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,69.0148,755.68,0.3456,20.452,piecewise
+FC-6C,1,n714,trace,33,1084,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,72.4684,753.47,0.3397,22.152,piecewise
+FC-6C,1,n714,trace,34,1096,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,74.5402,751.464,0.3329,17.056,piecewise
+FC-6C,1,n714,trace,35,1140,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,82.1419,753.736,0.3198,20.456,piecewise
+FC-6C,1,n714,trace,36,1160,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,85.5964,753.224,0.313,20.458,piecewise
+FC-6C,1,n714,trace,37,1180,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,89.0499,751.013,0.3071,22.159,piecewise
+FC-6C,1,n714,trace,38,1200,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,92.5053,752.2,0.2993,20.46,piecewise
+FC-6C,1,n714,trace,39,1209,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,94.0579,748.571,0.2944,17.062,piecewise
+FC-6C,1,n714,trace,40,1250,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,101.1367,747.522,0.2812,17.064,piecewise
+FC-6C,1,n714,trace,41,1270,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,104.5833,748.709,0.283,22.164,piecewise
+FC-6C,1,n714,trace,42,1290,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,108.0289,748.197,0.282,22.166,piecewise
+FC-6C,1,n714,trace,43,1310,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,111.4746,747.684,0.281,22.167,piecewise
+FC-6C,1,n714,trace,44,1330,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,114.9202,747.172,0.28,22.168,piecewise
+FC-6C,1,n714,trace,45,1332,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,115.2639,745.421,0.2771,17.069,piecewise
+FC-6C,1,n714,trace,46,1374,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,122.5007,746.045,0.2778,22.171,piecewise
+FC-6C,1,n714,trace,47,1394,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,125.9464,745.532,0.2768,22.173,piecewise
+FC-6C,1,n714,trace,48,1414,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,129.392,745.02,0.2758,22.174,piecewise
+FC-6C,1,n714,trace,49,1434,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,132.8377,744.507,0.2748,22.175,piecewise
+FC-6C,1,n714,trace,50,1441,2196.5,1,5.0,,Column dark-run center; guide used only to select ink.,134.0418,740.927,0.2726,18.775,piecewise
+FC-6C,1,n714,trace,51,1489,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,142.3132,743.097,0.2721,22.179,piecewise
+FC-6C,1,n714,trace,52,1509,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,145.7599,744.285,0.2701,20.479,piecewise
+FC-6C,1,n714,trace,53,1527,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,148.86,742.122,0.2702,22.181,piecewise
+FC-6C,1,n714,trace,54,1540,2195.5,1,6.0,,Column dark-run center; guide used only to select ink.,151.0864,741.789,0.2676,22.182,piecewise
+FC-6C,1,n714,trace,55,1559,2196.0,1,4.5,,Column dark-run center; guide used only to select ink.,154.3193,739.601,0.2674,17.08,piecewise
+FC-6C,1,n714,trace,56,1607,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,162.491,741.771,0.2759,20.485,piecewise
+FC-6C,1,n714,trace,57,1627,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,165.895,741.258,0.2786,20.486,piecewise
+FC-6C,1,n714,trace,58,1647,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,169.3001,742.447,0.2823,22.189,piecewise
+FC-6C,1,n714,trace,59,1667,2195.0,1,6.5,,Column dark-run center; guide used only to select ink.,172.7032,740.232,0.286,23.892,piecewise
+FC-6C,1,n714,trace,60,1673,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,173.7244,740.078,0.2849,20.489,piecewise
+FC-6C,1,n714,trace,61,1720,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,181.7249,740.573,0.2923,22.193,piecewise
+FC-6C,1,n714,trace,62,1740,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,185.128,738.358,0.2941,20.493,piecewise
+FC-6C,1,n714,trace,63,1760,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,188.533,739.547,0.2978,22.196,piecewise
+FC-6C,1,n714,trace,64,1780,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,191.9361,737.331,0.2996,20.495,piecewise
+FC-6C,1,n714,trace,65,1798,2195.0,1,3.5,,Column dark-run center; guide used only to select ink.,194.9998,736.869,0.2982,13.687,piecewise
+FC-6C,1,n714,trace,66,1842,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,202.5593,737.441,0.3141,22.201,piecewise
+FC-6C,1,n714,trace,67,1862,2196.0,1,7.5,,Column dark-run center; guide used only to select ink.,206.0557,731.821,0.3151,27.311,piecewise
+FC-6C,1,n714,trace,68,1882,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,209.5579,736.414,0.3101,22.204,piecewise
+FC-6C,1,n714,trace,69,1902,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,213.0572,735.9,0.3082,22.205,piecewise
+FC-6C,1,n714,trace,70,1907,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,213.9311,734.069,0.3067,20.503,piecewise
+FC-6C,1,n714,trace,71,1953,2193.5,1,5.0,,Column dark-run center; guide used only to select ink.,221.9824,737.995,0.3012,18.802,piecewise
+FC-6C,1,n714,trace,72,1973,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,225.4799,734.076,0.3011,22.21,piecewise
+FC-6C,1,n714,trace,73,1993,2195.0,1,6.5,,Column dark-run center; guide used only to select ink.,228.9783,731.859,0.3001,23.915,piecewise
+FC-6C,1,n714,trace,74,2013,2195.0,1,6.5,,Column dark-run center; guide used only to select ink.,232.4776,731.345,0.2981,23.916,piecewise
+FC-6C,1,n714,trace,75,2027,2195.0,1,5.5,,Column dark-run center; guide used only to select ink.,234.9272,730.985,0.2949,20.511,piecewise
+FC-6C,1,n714,trace,76,2066,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,241.7518,731.685,0.2919,22.216,piecewise
+FC-6C,1,n714,trace,77,2086,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,245.2512,731.171,0.2899,22.217,piecewise
+FC-6C,1,n714,trace,78,2088,2194.5,1,6.0,,Column dark-run center; guide used only to select ink.,245.6011,731.12,0.2898,22.218,piecewise
+FC-6C,1,n714,trace,79,2089,2194,1,5.0,,Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit.,245.777,732.797,0.2878,18.81,piecewise
+FC-6C,1,n714,feature,80,729,2228,2,4.5,,first point of drawn trace,12.7494,652.24,0.4618,17.082,piecewise
+FC-6C,1,n714,feature,81,850,2194,100,5.0,,peak point of drawn trace; broad/flat maximum,32.8193,764.545,16.7343,21.275,piecewise
+FC-6C,1,n714,feature,82,2089,2194,2,5.0,,last point of drawn trace,245.777,732.797,0.4629,18.836,piecewise

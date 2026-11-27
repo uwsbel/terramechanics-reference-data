@@ -1,0 +1,42 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F5-32,3,strut1,trace,1,2264.0,3493.0,4.25,4.25,,earliest identifiable junction with left frame,0.00015904,-5.8472,0.00029198,1.1486,piecewise extrapolated x
+F5-32,3,strut1,feature,2,2264.0,3493.0,4.25,4.25,,"first, earliest identifiable junction with left frame",0.00015904,-5.8472,0.00029198,1.1486,piecewise extrapolated x
+F5-32,3,strut1,trace,3,2240.65,3485.98,3.75,3.75,,shifted to surviving ink beside scan break,0.00058236,-11.4272,0.00026102,1.0275,piecewise
+F5-32,3,strut1,trace,4,2223.7,3481.41,4.25,4.25,,,0.00085859,-15.4791,0.00029029,1.1485,piecewise
+F5-32,3,strut1,trace,5,2199.9,3473.52,3.125,3.125,,shifted to surviving ink beside scan break,0.00133269,-21.1478,0.00022324,0.8658,piecewise
+F5-32,3,strut1,trace,6,2182.5,3468.0,3.625,3.625,,,0.00166451,-25.2436,0.00025287,0.9905,piecewise
+F5-32,3,strut1,trace,7,2164.97,3463.54,4.25,4.25,,,0.00193405,-29.3723,0.00029007,1.1451,piecewise
+F5-32,3,strut1,feature,8,2141.82,3453.33,3.5,3.5,,"knee, initial compression rise eases",0.00254311,-34.8145,0.00024629,0.9732,piecewise
+F5-32,3,strut1,trace,9,2138.24,3452.43,3.375,3.375,,,0.00259745,-35.6577,0.00023905,0.9444,piecewise
+F5-32,3,strut1,trace,10,2122.22,3429.0,2.875,2.875,,ruling or frame meets trace; measured nearby stroke thickness,0.00397797,-39.385,0.00021066,0.8289,piecewise
+F5-32,3,strut1,trace,11,2117.83,3395.0,4.125,4.125,,ruling or frame meets trace; measured nearby stroke thickness,0.00597284,-40.3399,0.00028556,1.125,piecewise
+F5-32,3,strut1,trace,12,2113.0,3360.0,2.625,2.625,,,0.00802623,-41.393,0.0001985,0.7695,piecewise
+F5-32,3,strut1,trace,13,2107.0,3326.0,3.625,3.625,,,0.01002116,-42.7237,0.00025973,1.0091,piecewise
+F5-32,3,strut1,feature,14,2105.5,3305.0,2.125,2.125,,"knee, minimum, first compression crest",0.01125487,-43.0271,0.00017131,0.653,piecewise
+F5-32,3,strut1,trace,15,2106.5,3292.0,3.125,3.125,,,0.01201807,-42.7616,0.00023006,0.8903,piecewise
+F5-32,3,strut1,trace,16,2114.0,3258.0,2.25,2.25,,ruling or frame meets trace; measured nearby stroke thickness,0.01401384,-40.919,0.00017711,0.6798,piecewise
+F5-32,3,strut1,trace,17,2118.67,3224.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness,0.01601122,-39.7405,0.00022767,0.8873,piecewise
+F5-32,3,strut1,trace,18,2124.5,3190.0,3.125,3.125,,,0.0180096,-38.2847,0.00022688,0.8876,piecewise
+F5-32,3,strut1,trace,19,2127.62,3156.0,3.0,3.0,,,0.02000876,-37.4686,0.00022008,0.8567,piecewise
+F5-32,3,strut1,feature,20,2128.0,3134.0,2.625,2.625,,"peak, signed-load maximum between compression crests",0.02130691,-37.3273,0.0001977,0.767,piecewise
+F5-32,3,strut1,trace,21,2122.0,3071.0,2.625,2.625,,,0.02502483,-38.5949,0.00019882,0.7685,piecewise
+F5-32,3,strut1,trace,22,2094.18,2994.69,2.875,2.875,,,0.02953912,-44.9626,0.0002191,0.8343,piecewise
+F5-32,3,strut1,trace,23,2091.51,2986.5,3.25,3.25,,,0.03002413,-45.5713,0.0002417,0.9244,piecewise
+F5-32,3,strut1,feature,24,2074.02,2949.13,2.625,2.625,,"knee, second rise in compression eases",0.03222376,-49.5973,0.00020591,0.7814,piecewise
+F5-32,3,strut1,trace,25,2066.5,2902.0,2.125,2.125,,,0.0349918,-51.2561,0.00017752,0.6648,piecewise
+F5-32,3,strut1,trace,26,2060.5,2817.0,2.125,2.125,,,0.0399808,-52.4694,0.00017839,0.6666,piecewise
+F5-32,3,strut1,trace,27,2053.5,2731.0,3.125,3.125,,,0.04502392,-53.916,0.00023827,0.9066,piecewise
+F5-32,3,strut1,trace,28,2044.5,2646.0,3.125,3.125,,,0.050009,-55.8359,0.00023964,0.9094,piecewise
+F5-32,3,strut1,trace,29,2035.5,2560.0,3.125,3.125,,,0.05502369,-57.7539,0.00024212,0.9122,piecewise
+F5-32,3,strut1,trace,30,2026.5,2475.0,2.125,2.125,,ruling or frame meets trace; measured nearby stroke thickness,0.0599801,-59.6748,0.00018846,0.6787,piecewise
+F5-32,3,strut1,trace,31,2023.0,2390.0,2.375,2.375,,ruling or frame meets trace; measured nearby stroke thickness,0.06497732,-60.3044,0.00020185,0.74,piecewise
+F5-32,3,strut1,trace,32,2022.5,2305.0,3.0,3.0,,ruling or frame meets trace; measured nearby stroke thickness,0.06997372,-60.2244,0.00023728,0.89,piecewise
+F5-32,3,strut1,feature,33,2020.5,2241.0,3.125,3.125,,"knee, minimum, broad compression crest near the −60 lb ruling, ruling or frame meets trace; measured nearby stroke thickness",0.07375052,-60.55,0.00024511,0.9192,piecewise
+F5-32,3,strut1,trace,34,2020.5,2220.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness,0.0749896,-60.5009,0.00024511,0.9194,piecewise
+F5-32,3,strut1,trace,35,2021.5,2135.0,2.125,2.125,,ruling or frame meets trace; measured nearby stroke thickness,0.08000455,-60.0643,0.00018559,0.6814,piecewise
+F5-32,3,strut1,trace,36,2026.0,2050.0,2.625,2.625,,,0.0849894,-58.8068,0.00021333,0.7953,piecewise
+F5-32,3,strut1,trace,37,2032.0,1965.0,2.625,2.625,,,0.08997377,-57.1963,0.00021454,0.7931,piecewise extrapolated x
+F5-32,3,strut1,trace,38,2041.0,1879.0,2.625,2.625,,,0.0950158,-54.8764,0.00027026,0.79,piecewise extrapolated x
+F5-32,3,strut1,trace,39,2050.5,1794.0,3.125,3.125,,,0.09999902,-52.4404,0.00035197,0.9058,piecewise extrapolated x
+F5-32,3,strut1,trace,40,2057.0,1742.0,2.125,2.125,,free tip beyond .10 s,0.10304734,-50.7877,0.00032215,0.6653,piecewise extrapolated x
+F5-32,3,strut1,feature,41,2057.0,1742.0,2.125,2.125,,"last, free tip beyond .10 s",0.10304734,-50.7877,0.00032215,0.6653,piecewise extrapolated x

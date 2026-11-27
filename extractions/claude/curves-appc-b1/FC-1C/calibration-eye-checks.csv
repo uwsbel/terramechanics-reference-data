@@ -1,0 +1,14 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,crop_file,note
+FC-1C,1,y,6000,1109.3,1109,crops/eye-p1-y6000.png,v at u 620
+FC-1C,1,y,5000,1398.8,1402,crops/eye-p1-y5000.png,predicted line; faint and broken by the legend text; scan at u 1900 and 2050 gives v 1398.5
+FC-1C,1,y,3000,1983.9,1984,crops/eye-p1-y3000.png,v at u 640
+FC-1C,1,y,0,2846.3,2845,crops/eye-p1-y0.png,v at u 640
+FC-1C,1,x,0,627.0,626,crops/eye-p1-x0.png,u at v 2840
+FC-1C,1,x,100,1217.6,1219,crops/eye-p1-x100.png,u at v 2840
+FC-1C,1,x,250,2091.1,2091,crops/eye-p1-x250.png,u at v 2840
+FC-1C,2,y,100,2991.8,2992,crops/eye-p2-y100.png,v at u 640
+FC-1C,2,y,0,3275.6,3276,crops/eye-p2-y0.png,v at u 640
+FC-1C,2,y,-100,3562.6,3562,crops/eye-p2-ym100.png,v at u 640
+FC-1C,2,x,0,630.7,633,crops/eye-p2-x0.png,u at v 3560
+FC-1C,2,x,150,1512.2,1512,crops/eye-p2-x150.png,u at v 3560
+FC-1C,2,x,250,2094.5,2094,crops/eye-p2-x250.png,u at v 3560

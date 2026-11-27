@@ -1,0 +1,17 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-10B,1,ps-loose,marker,1,623.2,3676.8,2,5.6,triangle-up,centroid of the outline (ink u 606..642 v 3655..3687; apex u 621.5); the drawn line has no ink through this symbol (gap u 604..633) and resumes on both sides; a short horizontal speck at u 643..660 v 3684 is not part of the symbol
+FC-10B,1,ps-loose,marker,2,1261.0,3036.2,2.5,5.7,triangle-up,centroid; outline ink u 1244..~1279 v 3014..3047; the lower right corner merges with the drawn line so the right base corner is taken by symmetry about the apex (u 1261)
+FC-10B,1,ps-loose,marker,3,1856.8,2501.5,2,5.5,triangle-up,centroid; outline ink u 1838..1876 v 2480..2512; the drawn line ends at the lower left corner of this symbol and does not reach its centre
+FC-10B,1,ps-loose,trace,1,573.6,3719.7,4.7,4.7,,left end: the line runs into the x = 0 frame line (ink to u 579; none left of the frame at u 560..567); end taken where the line's centre meets the frame's centre line
+FC-10B,1,ps-loose,trace,2,720.0,3580.1,4.7,4.7,,x = 500 psf
+FC-10B,1,ps-loose,trace,3,866.3,3440.0,4.7,4.7,,x = 1000 psf on the vertical grid line; centre from the line's ink 6 to 14 px either side
+FC-10B,1,ps-loose,trace,4,1010.9,3302.0,4.7,4.7,,x = 1500 psf
+FC-10B,1,ps-loose,trace,5,1155.6,3162.9,4.7,4.7,,x = 2000 psf on the vertical grid line (and next to the y = 2000 line); centre from the line's ink either side
+FC-10B,1,ps-loose,trace,6,1300.9,3025.0,4.7,4.7,,x = 2500 psf
+FC-10B,1,ps-loose,trace,7,1446.2,2885.2,4.7,4.7,,x = 3000 psf on the vertical grid line; centre from the line's ink either side
+FC-10B,1,ps-loose,trace,8,1591.9,2745.5,4.7,4.7,,x = 3500 psf
+FC-10B,1,ps-loose,trace,9,1737.6,2605.1,4.7,4.7,,x = 4000 psf on the vertical grid line; centre from the line's ink either side
+FC-10B,1,ps-loose,trace,10,1837.0,2511.0,4.7,4.7,,right end: last column of the line's ink (u 1837) just left of the lower left corner of marker 3
+FC-10B,1,ps-loose,feature,1,573.6,3719.7,4.7,4.7,,first point of the line (= trace 1)
+FC-10B,1,ps-loose,feature,2,1837.0,2511.0,4.7,4.7,,last point of the line (= trace 10); also its maximum
+FC-10B,1,ps-loose,feature,3,573.6,3719.7,4.7,4.7,,intercept: the line reaches the normal-stress-zero axis (frame line x = 0); centre of the line extrapolated 6 to 14 px from its ink right of the frame to the frame's centre line

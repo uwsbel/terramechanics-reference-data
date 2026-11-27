@@ -1,0 +1,6 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+2,n1761,marker,2,claude,excluded,,"the symbol is n741, not n1761; credit codex (blind adjudication item 303 (Claude's adjudicator: n741; Codex's: n741))"
+2,n2934,marker,1,claude,excluded,,"second round: the symbol is n4695, not n2934; credit codex (blind adjudication item 304 (Claude's adjudicator: n4695; Codex's: n4695))"
+2,n3815,marker,9,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 306 (Claude's adjudicator: yes; Codex's: yes)
+2,n3815,marker,2,codex,excluded,,"second round: the symbol is n4695, not n3815; credit claude (blind adjudication item 305 (Claude's adjudicator: n4695; Codex's: n4695))"
+2,n741,marker,3,codex,resolved,,the codex reading is on the symbol center; credit codex (blind adjudication item 307 (Claude's adjudicator: p; Codex's: p))

@@ -1,0 +1,93 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-ds-fc-6c-n714,n714,1,feature,1,0.000334023,30543.104485,1.5166e-05,601.232412,13.1505,637.906,0.5971,12.557,mil,psf,731.5,2232,agreed,claude,first point: lower end of the drawn line
+b68-ds-fc-6c-n714,n714,1,feature,2,0.000853994,36894.420839,4.5105e-05,1019.993157,33.6218,770.556,1.7758,21.303,mil,psf,855,2192,agreed,claude,peak: the line is nearly flat from x about 40 to 250; its highest stretch (u 848 to 863) is only about 3 px above the plateau
+b68-ds-fc-6c-n714,n714,1,feature,3,0.006281285,35026.468295,1.1476e-05,1096.122769,247.2947,731.543,0.4518,22.893,mil,psf,2098,2194.5,resolved,claude,last point: right end of the drawn line next to the last circle | decision: the claude reading is on the feature; credit claude (blind adjudication item 213 (Claude's adjudicator: p; Codex's: p))
+b68-ds-fc-6c-n714,n714,1,marker,1,0.000257922,28534.862783,1.0856e-05,436.28492,10.1544,595.963,0.4274,9.112,mil,psf,713.5,2244.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,2,0.000505277,35204.82226,1.1064e-05,440.498383,19.8928,735.268,0.4356,9.2,mil,psf,772,2203,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,3,0.000969343,36781.040386,1.1455e-05,441.647509,38.1631,768.188,0.451,9.224,mil,psf,882.5,2192.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,4,0.001468867,35831.383329,1.2156e-05,441.264467,57.8294,748.354,0.4786,9.216,mil,psf,999.5,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,5,0.001995973,36097.070886,1.1905e-05,441.647509,78.5816,753.903,0.4687,9.224,mil,psf,1119.5,2195,audited,claude,"audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,1,marker,6,0.00247014,35563.58904,1.1681e-05,441.503868,97.2496,742.761,0.4599,9.221,mil,psf,1227.5,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,7,0.003002173,35420.666467,1.1402e-05,441.647509,118.1958,739.776,0.4489,9.224,mil,psf,1349,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,8,0.003503338,35285.883538,1.1179e-05,441.743269,137.9267,736.961,0.4401,9.226,mil,psf,1463.5,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,9,0.004008511,35149.185399,1.1123e-05,441.83903,157.8154,734.106,0.4379,9.228,mil,psf,1579.5,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,10,0.004507669,35175.950464,1.1661e-05,442.078431,177.4673,734.665,0.4591,9.233,mil,psf,1695,2196.5,agreed,claude,audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6c-n714,n714,1,marker,11,0.005034966,35358.182729,1.6553e-05,443.562719,198.227,738.471,0.6517,9.264,mil,psf,1817,2194.5,agreed,claude,right edge on the 200 vertical gridline
+b68-ds-fc-6c-n714,n714,1,marker,12,0.005522072,35146.839266,1.2123e-05,442.461473,217.4044,734.057,0.4773,9.241,mil,psf,1927,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,13,0.006054834,35005.1137,1.1534e-05,442.605114,238.3793,731.097,0.4541,9.244,mil,psf,2047,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,marker,14,0.006358837,34515.968974,1.1288e-05,442.413593,250.3479,720.881,0.4444,9.24,mil,psf,2115.5,2197.5,audited,claude,"on the 250 vertical gridline | audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,1,trace,15,0.000323835,31229.420117,7.521e-06,816.645697,12.7494,652.24,0.2961,17.056,mil,psf,729,2228,confirmed,codex,"Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 072 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R2 (W2-04), R4 (W6-09); was one-sided-verified"
+b68-ds-fc-6c-n714,n714,1,trace,1,0.000334023,30543.104485,1.5166e-05,601.232412,13.1505,637.906,0.5971,12.557,mil,psf,731.5,2232,agreed,claude,"first ink of the drawn line; it does not touch the first circle (gap of about 6 px) | audit: problem + cannot tell by R2 (W2-04), R4 (W6-09)"
+b68-ds-fc-6c-n714,n714,1,trace,2,0.000416621,33280.658292,6.952e-06,1006.873966,16.4024,695.081,0.2737,21.029,mil,psf,751,2215,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,3,0.000441909,33679.59661,6.949e-06,925.860568,17.398,703.413,0.2736,19.337,mil,psf,757,2212.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,4,0.000572564,35754.535513,7.013e-06,764.743496,22.5419,746.749,0.2761,15.972,mil,psf,788,2199.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,5,0.000656562,36055.941744,7.173e-06,1090.089856,25.8489,753.044,0.2824,22.767,mil,psf,808,2197.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,6,0.000740651,36682.311292,7.198e-06,928.01518,29.1595,766.126,0.2834,19.382,mil,psf,828,2193.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,7,0.000824626,36902.608363,7.292e-06,1009.50738,32.4656,770.727,0.2871,21.084,mil,psf,848,2192,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,8,0.000887555,36885.084188,7.254e-06,684.400422,34.9431,770.361,0.2856,14.294,mil,psf,863,2192,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,9,0.001080366,36181.292262,7.46e-06,846.66662,42.5341,755.662,0.2937,17.683,mil,psf,909,2196,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,10,0.001164295,36239.131614,7.597e-06,1090.7123,45.8384,756.87,0.2991,22.78,mil,psf,929,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,11,0.001235616,36219.213427,7.656e-06,1090.76018,48.6463,756.454,0.3014,22.781,mil,psf,946,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,12,0.001321841,36195.7521,8.016e-06,1090.85594,52.041,755.964,0.3156,22.783,mil,psf,966,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,13,0.001378885,36017.972698,7.897e-06,765.4617,54.2868,752.251,0.3109,15.987,mil,psf,979,2196.5,audited,claude,"audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,1,trace,14,0.001572209,36291.512618,7.76e-06,603.099742,61.898,757.964,0.3055,12.596,mil,psf,1023,2194.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,15,0.001659994,36105.497812,7.859e-06,1091.095342,65.3541,754.079,0.3094,22.788,mil,psf,1043,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,16,0.001747848,36163.337164,7.795e-06,1009.890422,68.8129,755.287,0.3069,21.092,mil,psf,1063,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,17,0.001835655,36058.575158,7.777e-06,1091.238982,72.2699,753.099,0.3062,22.791,mil,psf,1083,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,18,0.001892699,35880.699996,7.656e-06,765.748982,74.5157,749.384,0.3014,15.993,mil,psf,1096,2196.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,19,0.00207724,36156.729689,7.521e-06,603.291263,81.7811,755.149,0.2961,12.6,mil,psf,1138,2194.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,20,0.002165048,36051.919802,7.6e-06,1010.177704,85.2381,752.96,0.2992,21.098,mil,psf,1158,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,21,0.002252856,35947.109915,7.582e-06,1091.574144,88.6951,750.771,0.2985,22.798,mil,psf,1178,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,22,0.002340709,36004.949268,7.516e-06,1010.321345,92.1539,751.979,0.2959,21.101,mil,psf,1198,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,23,0.002393287,35584.129672,7.371e-06,603.099742,94.2239,743.19,0.2902,12.596,mil,psf,1210,2197.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,24,0.002577704,35860.207245,7.407e-06,1091.861426,101.4844,748.956,0.2916,22.804,mil,psf,1252,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,25,0.002665242,35836.698038,7.366e-06,1091.909306,104.9308,748.465,0.29,22.805,mil,psf,1272,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,26,0.002752783,35813.236711,7.328e-06,1092.005067,108.3773,747.975,0.2885,22.807,mil,psf,1292,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,27,0.002840322,35789.727504,7.29e-06,1092.052947,111.8237,747.484,0.287,22.808,mil,psf,1312,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,28,0.002927838,35684.821856,7.178e-06,847.767866,115.2692,745.293,0.2826,17.706,mil,psf,1332,2196,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,29,0.00311167,35635.457309,7.094e-06,847.863626,122.5067,744.262,0.2793,17.708,mil,psf,1374,2196,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,30,0.003199234,35693.344542,7.127e-06,1092.340228,125.9541,745.471,0.2806,22.814,mil,psf,1394,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,31,0.003286773,35669.787455,7.089e-06,1092.435989,129.4005,744.979,0.2791,22.816,mil,psf,1414,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,32,0.003374314,35646.278248,7.051e-06,1092.483869,132.847,744.488,0.2776,22.817,mil,psf,1434,2195.5,audited,claude,"audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,1,trace,33,0.003404903,35475.202082,6.988e-06,929.451587,134.0513,740.915,0.2751,19.412,mil,psf,1441,2196.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,34,0.003615022,35500.147697,6.871e-06,848.198788,142.3237,741.436,0.2705,17.715,mil,psf,1489,2196,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,35,0.003702611,35639.479251,6.878e-06,1011.32683,145.7721,744.346,0.2708,21.122,mil,psf,1509,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,36,0.003772619,35539.217989,6.873e-06,1092.819031,148.5283,742.252,0.2706,22.824,mil,psf,1525,2195.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,37,0.003859543,35597.105222,6.802e-06,1011.422591,151.9505,743.461,0.2678,21.124,mil,psf,1545,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,38,0.003928542,35089.526596,6.736e-06,522.134224,154.667,732.86,0.2652,10.905,mil,psf,1561,2198,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,39,0.004123169,35606.777034,6.967e-06,604.057347,162.3295,743.663,0.2743,12.616,mil,psf,1606,2194.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,40,0.004209572,35501.775626,7.181e-06,1011.709872,165.7312,741.47,0.2827,21.13,mil,psf,1626,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,41,0.004296021,35559.662859,7.3e-06,1093.345714,169.1347,742.679,0.2874,22.835,mil,psf,1646,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,42,0.004382447,35536.153652,7.391e-06,1093.441474,172.5373,742.188,0.291,22.837,mil,psf,1666,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,43,0.004412602,35201.901564,7.328e-06,767.041749,173.7245,735.207,0.2885,16.02,mil,psf,1673,2196.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,44,0.004615774,35391.028587,7.62e-06,1011.997154,181.7234,739.157,0.3,21.136,mil,psf,1720,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,45,0.0047022,35367.423619,7.714e-06,1012.045034,185.126,738.664,0.3037,21.137,mil,psf,1740,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,46,0.004788652,35425.358733,7.831e-06,1093.776636,188.5296,739.874,0.3083,22.844,mil,psf,1760,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,47,0.004875055,35320.261564,7.902e-06,1012.188675,191.9313,737.679,0.3111,21.14,mil,psf,1780,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,48,0.004952837,35299.05061,7.887e-06,685.93259,194.9936,737.236,0.3105,14.326,mil,psf,1798,2195,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,49,0.005140284,35329.885496,8.153e-06,604.440389,202.3734,737.88,0.321,12.624,mil,psf,1841,2194.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,50,0.005229052,35224.740448,8.23e-06,1175.651879,205.8682,735.684,0.324,24.554,mil,psf,1861,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,51,0.005317871,35282.675561,8.105e-06,1094.207558,209.365,736.894,0.3191,22.853,mil,psf,1881,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,52,0.005406664,35259.118474,8.006e-06,1094.255439,212.8608,736.402,0.3152,22.854,mil,psf,1901,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,53,0.005437693,35087.707146,7.823e-06,604.440389,214.0824,732.822,0.308,12.624,mil,psf,1908,2195.5,agreed,claude,short run: tapered end of a dash next to a marker
+b68-ds-fc-6c-n714,n714,1,trace,54,0.005637578,35360.911904,7.699e-06,931.271037,221.9519,738.528,0.3031,19.45,mil,psf,1953,2193.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,55,0.005726321,35174.131014,7.65e-06,1094.49484,225.4457,734.627,0.3012,22.859,mil,psf,1973,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,56,0.005815091,35068.890205,7.574e-06,1176.178562,228.9406,732.429,0.2982,24.565,mil,psf,1993,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,57,0.005903885,35045.285237,7.475e-06,1176.274322,232.4364,731.936,0.2943,24.567,mil,psf,2013,2195,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,58,0.005970481,35027.569541,7.206e-06,523.043949,235.0583,731.566,0.2837,10.924,mil,psf,2028,2195,agreed,claude,short run: tapered end of a dash next to a marker | audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6c-n714,n714,1,trace,59,0.006139261,35227.517503,7.092e-06,768.238755,241.7032,735.742,0.2792,16.045,mil,psf,2066,2193.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,60,0.006228009,35040.640852,7.089e-06,1094.925762,245.1972,731.839,0.2791,22.868,mil,psf,2086,2194.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,1,trace,61,0.006281285,35026.468295,1.1476e-05,1096.122769,247.2947,731.543,0.4518,22.893,mil,psf,2098,2194.5,confirmed,claude,"last ink of the drawn line, about 6 px short of the last circle | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 071 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R2 (W2-04), R4 (W6-09); was one-sided-verified"
+b68-ds-fc-6c-n714,n714,2,marker,1,-8.791e-06,-0.000146,1.0968e-05,3.1e-05,-0.3461,-5.7356,0.4318,1.2281,mil,mil,658,2880,agreed,claude,on the left frame; top touches the 0 gridline; center = bounding-box center
+b68-ds-fc-6c-n714,n714,2,marker,2,0.000506517,-8.9e-05,1.0803e-05,3.1e-05,19.9416,-3.5046,0.4253,1.2279,mil,mil,780.5,2872.5,agreed,claude,top merged with the 0 gridline; v from the bottom and the symbol width
+b68-ds-fc-6c-n714,n714,2,marker,3,0.000995296,0.00011,1.0706e-05,3.1e-05,39.1849,4.34,0.4215,1.2263,mil,mil,896.5,2848.5,agreed,claude,bottom touches the 0 gridline
+b68-ds-fc-6c-n714,n714,2,marker,4,0.001483909,0.000116,1.1156e-05,3.1e-05,58.4216,4.5522,0.4392,1.2264,mil,mil,1010.5,2847,audited,claude,"bottom touches the 0 gridline | audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,2,marker,5,0.002024817,0.000133,1.1133e-05,2.3e-05,79.7172,5.2494,0.4383,0.8876,mil,mil,1133.5,2844,agreed,claude,audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6c-n714,n714,2,marker,6,0.002528197,0.000126,1.1161e-05,2.3e-05,99.5353,4.9519,0.4394,0.8874,mil,mil,1248,2844,agreed,claude,on the 100 vertical gridline
+b68-ds-fc-6c-n714,n714,2,marker,7,0.003023804,0.000131,1.1158e-05,2.3e-05,119.0474,5.1654,0.4393,0.8875,mil,mil,1361.5,2842.5,agreed,claude,audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6c-n714,n714,2,marker,8,0.003530389,0.000158,1.1237e-05,2.3e-05,138.9917,6.2196,0.4424,0.888,mil,mil,1477.5,2838.5,agreed,claude,
+b68-ds-fc-6c-n714,n714,2,marker,9,0.004032905,0.000176,1.1473e-05,2.3e-05,158.7758,6.9361,0.4517,0.8883,mil,mil,1593,2835.5,audited,claude,"audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"
+b68-ds-fc-6c-n714,n714,2,marker,10,0.004555261,0.000263,1.2113e-05,2.3e-05,179.341,10.3505,0.4769,0.89,mil,mil,1713.5,2824.5,agreed,claude,audit: single (ok) by R1 (W2-05)
+b68-ds-fc-6c-n714,n714,2,marker,11,0.005068534,0.00029,1.2763e-05,2.3e-05,199.5486,11.3978,0.5025,0.8905,mil,mil,1832,2820.5,agreed,claude,on the 200 vertical gridline
+b68-ds-fc-6c-n714,n714,2,marker,12,0.005595391,0.00029,1.2383e-05,2.7e-05,220.291,11.4273,0.4875,1.06,mil,mil,1951,2819.5,agreed,claude,small bump on the top of the outline (2806-2808)
+b68-ds-fc-6c-n714,n714,2,marker,13,0.006337734,0.000348,1.1346e-05,2.3e-05,249.5171,13.7025,0.4467,0.8916,mil,mil,2118.5,2811.5,audited,claude,"on the 250 vertical gridline | audit: confirmed by R2 (W2-04), R4 (W6-09); was agreed"

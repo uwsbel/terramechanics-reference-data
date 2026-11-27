@@ -1,0 +1,74 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-1A,1,dr50-57,marker,1,1006.5,3144.1,2,2,circle,lowest normal stress of the group; 31 px (perpendicular) below the 45.5 deg dashed extension; hole centroid,293.152,573.127,30.677,17.132
+FC-1A,1,dr50-57,marker,2,1102.4,3000.2,2.5,2.5,circle,on the 45.5 deg line where its dashed part ends and the solid part begins; dash ink merges with the lower-left of the outline; hole centroid,619.82,1073.361,32.379,18.871
+FC-1A,1,dr50-57,marker,3,1268.1,2807.8,2,2,circle,touches the 45.5 deg line from above; hole centroid,1183.917,1742.375,30.677,17.132
+FC-1A,1,dr50-57,marker,4,1446.0,2615.0,2,2,circle,above the 45.5 deg line; hole centroid,1789.466,2412.838,30.677,17.132
+FC-1A,1,dr50-57,marker,5,1611.3,2490.9,2,2,circle,on the 45.5 deg line (line interrupted at the symbol); hole centroid,2351.801,2844.642,30.677,17.132
+FC-1A,1,dr50-57,marker,6,1777.6,2318.6,2.5,2.5,circle,"on the 45.5 deg line, line ink merges with the outline (thick ring); hole centroid",2917.818,3443.851,32.379,18.871
+FC-1A,1,dr50-57,marker,7,1949.1,2139.5,2,2,circle,last symbol; the 45.5 deg line ends at its lower-left outline; hole centroid,3501.543,4066.702,30.677,17.132
+FC-1A,1,dr73-88,marker,1,1012.8,3087.6,2.5,2.5,filled circle,"IDENTITY: filled circle (legend dr73-88) sitting ON the 45.5 deg dashed extension (3 px from its centerline), 42 px below the 47 deg dashed line. Kept dr73-88 by legend; the literal task rule (assign by the line it sits on) would give dr50-57. For dr73-88: fill matches the legend; dr50-57 already has its lowest-stress point (open circle at u 1006.5); same normal stress as the triangle at u 1014.3. Center from disk edges (a dash merges at lower-left)",314.89,769.384,32.379,18.871
+FC-1A,1,dr73-88,marker,2,1092.4,2916.5,2.5,2.5,circle,"IDENTITY: open circle (legend symbol of dr50-57) on the 47 deg line: the 47 deg solid part starts at this symbol (line interrupted around it, tangent to its lower-right); 67 px above the 45.5 deg line, 23 px below the 51 deg line. Assigned dr73-88 by the line it sits on (task rule); hole centroid",586.339,1364.006,32.379,18.871
+FC-1A,1,dr73-88,marker,3,1440.0,2483.5,2,2,filled circle,between the 51 and 47 deg lines (57 px above the 47 deg line); legend symbol; disk edges,1769.857,2869.513,30.677,17.132
+FC-1A,1,dr73-88,marker,4,1608.6,2412.9,2,2,circle,"IDENTITY: open circle (legend symbol of dr50-57) tangent to the solid 47 deg line (19 px below its centerline), 51 px above the 45.5 deg line; dr50-57 already has an open circle at this normal stress (u 1611.3 on the 45.5 deg line). Assigned dr73-88 by the line it sits on (task rule); hole centroid",2343.088,3115.525,30.677,17.132
+FC-1A,1,dr73-88,marker,5,1781.6,2135.2,2.5,2.5,filled circle,above the 47 deg line; right edge near the 3000-psf gridline; disk edges,2932.491,4080.825,32.379,18.871
+FC-1A,1,dr73-88,marker,6,1952.5,2058.6,2,2,filled circle,below the right end of the 47 deg line; disk edges,3513.572,4347.687,30.677,17.132
+FC-1A,1,dr100-116,marker,1,928.3,3169.5,2.5,3,triangle-down,IDENTITY: triangle on the shear-stress axis (normal stress 0 as drawn) at the left end of the 45.5 deg dashed extension (7 px from its centerline; the dash stops at its upper-right corner); 51 px below the 51 deg dashed line. Kept dr100-116 by shape (the only triangle group); the literal task rule (assign by the line it sits on) would give dr50-57. May also be a mark rather than a test. Center = incenter (hole centroid); the axis ink is interrupted inside the symbol,27.32,484.533,32.382,20.607
+FC-1A,1,dr100-116,marker,2,1014.3,2995.9,2.5,3,triangle-down,on the 51 deg dashed extension (line passes its top-left corner); dash ink merges with the outline; incenter (hole centroid),320.527,1087.868,32.382,20.607
+FC-1A,1,dr100-116,marker,3,1091.7,2885.4,2.5,3,triangle-down,on the 51 deg line where its dashed part ends and the solid part begins; incenter (hole centroid),584.144,1472.014,32.382,20.607
+FC-1A,1,dr100-116,marker,4,1377.4,2541.6,2,3,triangle-down,"14 px below the 51 deg line, which is interrupted at its top-left corner; incenter (hole centroid)",1556.832,2667.426,30.683,20.605
+FC-1A,1,dr100-116,marker,5,1611.6,2190.8,2,3,triangle-down,above-left of the 51 deg line; incenter (hole centroid),2354.591,3886.901,30.683,20.605
+FC-1A,1,dr100-116,marker,6,1781.5,1996.9,2.5,3,triangle-down,on the 51 deg line (line interrupted from u 1777 to 1804); right corner merges with the 3000-psf gridline; incenter (hole centroid),2932.967,4561.146,32.382,20.607
+FC-1A,1,dr100-116,marker,7,1955.6,1839.9,2,3,triangle-down,below-right of the right end of the 51 deg line; incenter (hole centroid),3525.394,5107.255,30.683,20.605
+FC-1A,1,dr100-116,trace,1,927.0,3087.5,5.3,5.3,,left end on the shear-stress axis (the dash reaches the axis; centerline of the dashed part extrapolated 3 px into the axis ink); dashed,23.387,769.316,41.908,28.609
+FC-1A,1,dr100-116,trace,2,994,3005.0,5.3,5.3,,250 psf; dashed,251.505,1056.165,41.908,28.609
+FC-1A,1,dr100-116,trace,3,1067,2910.5,5.3,5.3,,500 psf; dashed,500.078,1384.721,41.908,28.609
+FC-1A,1,dr100-116,trace,4,1140,2818.0,5.3,5.3,,750 psf,748.64,1706.33,41.908,28.609
+FC-1A,1,dr100-116,trace,5,1220,2718.0,5.3,5.3,,1000 psf target u 1213.8 is on the 1000-psf gridline; shifted +6 px,1021.028,2054.021,41.908,28.609
+FC-1A,1,dr100-116,trace,6,1287,2633.0,5.3,5.3,,1250 psf,1249.161,2349.553,41.908,28.609
+FC-1A,1,dr100-116,trace,7,1352,2552.5,5.3,5.3,,1500 psf target u 1360.7 falls in the gap where the line is interrupted at the triangle (u 1361-1375); shifted -9 px,1470.472,2629.447,41.908,28.609
+FC-1A,1,dr100-116,trace,8,1421,2466.5,5.3,5.3,,1750 psf target u 1434.1 is on the crossing with the 3000-psf gridline; shifted -13 px,1705.405,2928.463,41.908,28.609
+FC-1A,1,dr100-116,trace,9,1508,2353.0,5.3,5.3,,2000 psf,2001.656,3323.073,41.908,28.609
+FC-1A,1,dr100-116,trace,10,1581,2262.5,5.3,5.3,,2250 psf,2250.205,3637.737,41.908,28.609
+FC-1A,1,dr100-116,trace,11,1649,2178.0,5.3,5.3,,2500 psf target u 1654.4 is near the crossing with the 4000-psf gridline; shifted -5 px,2481.732,3931.537,41.908,28.609
+FC-1A,1,dr100-116,trace,12,1728,2076.5,5.3,5.3,,2750 psf,2750.732,4284.433,41.908,28.609
+FC-1A,1,dr100-116,trace,13,1806,1976.0,5.3,5.3,,3000 psf target u 1801.2 falls in the gap at the triangle and the 3000-psf gridline (u 1777-1804); shifted +5 px,3016.328,4633.851,41.908,28.609
+FC-1A,1,dr100-116,trace,14,1875,1892.0,5.3,5.3,,3250 psf,3251.25,4925.92,41.908,28.609
+FC-1A,1,dr100-116,trace,15,1948,1797.5,5.3,5.3,,3500 psf,3499.824,5254.475,41.908,28.609
+FC-1A,1,dr100-116,trace,16,1969.0,1774.5,5.3,5.3,,right end: last column with at least half the line width (ink ends at u 1972),3571.306,5334.457,41.908,28.609
+FC-1A,1,dr73-88,trace,1,927.1,3117.5,4.8,4.8,,left end on the shear-stress axis (the dash reaches the axis; centerline of the dashed part extrapolated 3 px into the axis ink); dashed,23.55,665.125,40.206,26.87
+FC-1A,1,dr73-88,trace,2,992,3048.5,4.8,4.8,,"250 psf (target u 993.6, moved -2 px to a full-width part of the dash); dashed",244.453,905.079,40.206,26.87
+FC-1A,1,dr73-88,trace,3,1067,2968.0,4.8,4.8,,500 psf; dashed,499.739,1185.021,40.206,26.87
+FC-1A,1,dr73-88,trace,4,1141,2889.5,4.8,4.8,,750 psf,751.615,1458.013,40.206,26.87
+FC-1A,1,dr73-88,trace,5,1220,2803.5,4.8,4.8,,1000 psf target u 1214.0 is on the 1000-psf gridline; shifted +6 px,1020.524,1757.076,40.206,26.87
+FC-1A,1,dr73-88,trace,6,1299,2719.0,4.8,4.8,,1250 psf target u 1287.4 is on the crossing with the 2000-psf gridline; shifted +12 px,1289.423,2050.93,40.206,26.87
+FC-1A,1,dr73-88,trace,7,1361,2653.0,4.8,4.8,,1500 psf,1500.456,2280.451,40.206,26.87
+FC-1A,1,dr73-88,trace,8,1434,2573.0,4.8,4.8,,1750 psf,1748.944,2558.647,40.206,26.87
+FC-1A,1,dr73-88,trace,9,1508,2494.0,4.8,4.8,,2000 psf,2000.824,2833.375,40.206,26.87
+FC-1A,1,dr73-88,trace,10,1581,2415.5,4.8,4.8,,2250 psf,2249.303,3106.362,40.206,26.87
+FC-1A,1,dr73-88,trace,11,1655,2335.5,4.8,4.8,,2500 psf,2501.188,3384.563,40.206,26.87
+FC-1A,1,dr73-88,trace,12,1728,2256.0,4.8,4.8,,2750 psf,2749.673,3661.023,40.206,26.87
+FC-1A,1,dr73-88,trace,13,1802,2177.0,4.8,4.8,,3000 psf,3001.552,3935.751,40.206,26.87
+FC-1A,1,dr73-88,trace,14,1875,2098.5,4.8,4.8,,3250 psf,3250.032,4208.738,40.206,26.87
+FC-1A,1,dr73-88,trace,15,1948,2018.0,4.8,4.8,,3500 psf,3498.522,4488.67,40.206,26.87
+FC-1A,1,dr73-88,trace,16,1959.0,2011.5,4.8,4.8,,right end: last column of ink,3535.933,4511.298,40.206,26.87
+FC-1A,1,dr50-57,trace,1,947.0,3156.0,5.3,5.3,,"left end: lower-left end of the first dash, at the upper-right corner of the triangle on the axis; the ink does not reach the axis; dashed",90.932,531.509,41.908,28.609
+FC-1A,1,dr50-57,trace,2,994,3112.0,5.3,5.3,,250 psf; dashed,250.873,684.551,41.908,28.609
+FC-1A,1,dr50-57,trace,3,1060,3046.0,5.3,5.3,,500 psf target u 1067.2 falls in a dash gap (u 1065-1072); moved -7 px onto the dash; dashed,475.496,914.09,41.908,28.609
+FC-1A,1,dr50-57,trace,4,1141,2962.0,5.3,5.3,,750 psf,751.188,1206.218,41.908,28.609
+FC-1A,1,dr50-57,trace,5,1221,2880.5,5.3,5.3,,1000 psf target u 1214.1 is on the 1000-psf gridline; shifted +7 px,1023.467,1489.657,41.908,28.609
+FC-1A,1,dr50-57,trace,6,1288,2814.0,5.3,5.3,,1250 psf,1251.49,1720.939,41.908,28.609
+FC-1A,1,dr50-57,trace,7,1352,2749.0,5.3,5.3,,1500 psf target u 1361.0 is on the crossing with the 2000-psf gridline; shifted -9 px,1469.312,1946.996,41.908,28.609
+FC-1A,1,dr50-57,trace,8,1434,2663.5,5.3,5.3,,1750 psf,1748.41,2244.337,41.908,28.609
+FC-1A,1,dr50-57,trace,9,1508,2589.0,5.3,5.3,,2000 psf,2000.263,2503.437,41.908,28.609
+FC-1A,1,dr50-57,trace,10,1581,2515.0,5.3,5.3,,2250 psf,2248.715,2760.795,41.908,28.609
+FC-1A,1,dr50-57,trace,11,1659,2434.0,5.3,5.3,,2500 psf target u 1654.8 is on the crossing with the 3000-psf gridline; shifted +4 px,2514.197,3042.488,41.908,28.609
+FC-1A,1,dr50-57,trace,12,1728,2363.0,5.3,5.3,,2750 psf,2749.042,3289.408,41.908,28.609
+FC-1A,1,dr50-57,trace,13,1802,2289.0,5.3,5.3,,3000 psf,3000.892,3546.771,41.908,28.609
+FC-1A,1,dr50-57,trace,14,1875,2213.5,5.3,5.3,,3250 psf,3249.353,3809.338,41.908,28.609
+FC-1A,1,dr50-57,trace,15,1938.0,2150.5,5.3,5.3,,"right end: the line ends at the lower-left outline of the last circle (u 1949.1); no 3500-psf sample because the ink stops near 3465 psf; v from the line centerline, its lower edge merges with the 4000-psf gridline",3463.766,4028.445,41.908,28.609
+FC-1A,1,dr100-116,feature,1,927.0,3087.5,5.3,5.3,,intercept: dashed 51 deg line meets the drawn shear-stress axis (axis centerline); the dash ink reaches the axis,23.387,769.316,41.908,28.609
+FC-1A,1,dr100-116,feature,2,1687.5,2055.0,8,8,,label: 51°,2613.261,4358.907,51.097,37.999
+FC-1A,1,dr73-88,feature,1,927.1,3117.5,4.8,4.8,,intercept: dashed 47 deg line meets the drawn shear-stress axis (axis centerline); the dash ink reaches the axis,23.55,665.125,40.206,26.87
+FC-1A,1,dr73-88,feature,2,1684.5,2233.0,8,8,,label: 47°,2602.018,3740.692,51.097,37.999
+FC-1A,1,dr50-57,feature,1,927.3,3179.3,5.3,5.3,,"intercept: 45.5 deg line extended along its dashed part to the drawn axis; no ink over the last 20 px (the triangle on the axis), position from a straight fit to the dashed part (rms 0.95 px)",23.864,450.492,41.908,28.609
+FC-1A,1,dr50-57,feature,2,1811.5,2214.0,8,8,,label: 45.5°,3033.61,3807.295,51.097,37.999

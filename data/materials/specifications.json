@@ -1,0 +1,30 @@
+{
+  "file": "specifications.csv",
+  "source": "Bendix AM-68-1 Vol. II (NASA CR-92215), Appendix A, PDF 2 to 98",
+  "method": "canonical page transcriptions (two independent readings, mechanical diff, decisions in qa/pages-vol2-ab-b1 to b5), parsed by tools/build_specifications.py",
+  "units": {
+    "pcf": "lbf/ft^3 as printed",
+    "kg/m^3": "mass density under standard gravity 9.80665 m/s^2",
+    "psi": "as printed",
+    "Pa": "SI",
+    "mm": "grain size, as printed",
+    "deg": "degrees"
+  },
+  "factors": {
+    "pcf->kg_m3": 16.018463373960138,
+    "psi->Pa": 6894.757293168
+  },
+  "rules": [
+    "1. Values are taken from the page text exactly as printed; `value_native` is the printed number,",
+    "`printed_text` the sentence or table row it came from. Words (\"zero\", \"Small\", \"Large\") become",
+    "numbers only where the word is a number (\"zero\" -> 0).",
+    "2. Density chart end labels are split into minimum and maximum axis labels by their count on the",
+    "page: 6 labels are 3 + 3; 5 labels (SS) are 2 + 3, the third minimum line starting at the 95",
+    "tick, which is not a printed label; 4 labels (RSM-b) are 3 + 1, the three lines meeting at one",
+    "maximum. Any other count stops the build.",
+    "3. SI: unit weights in pcf become mass density in kg/m^3 under standard gravity, moduli in psi",
+    "become Pa, with the factors of tools/to_si.py. Grain sizes stay in mm, as in materials.csv.",
+    "4. The relative density implied by a unit weight is Vol. I equation 2-2 (printed 2-30, PDF 55),",
+    "Dr = (g - gmin)/(gmax - gmin) * gmax/g, with the chart's middle labels as gmin and gmax."
+  ]
+}

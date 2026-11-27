@@ -1,0 +1,39 @@
+{
+  "agent": "claude",
+  "batch": "curves-appc-b9",
+  "date": "2026-10-14",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session)",
+  "prompt": "TASK.md plus a task naming the workspace and the figures of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appc-b9/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "readers": {
+    "FC-12": {
+      "reader": "one subagent for FC-12, FC-13, FC-14 and FC-15, one after the other",
+      "elapsed_sec": 2101.9,
+      "subagent_tokens": 403758,
+      "tool_uses": 156,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FC-13": {
+      "reader": "one subagent for FC-12, FC-13, FC-14 and FC-15, one after the other",
+      "elapsed_sec": 2101.9,
+      "subagent_tokens": 403758,
+      "tool_uses": 156,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FC-14": {
+      "reader": "one subagent for FC-12, FC-13, FC-14 and FC-15, one after the other",
+      "elapsed_sec": 2101.9,
+      "subagent_tokens": 403758,
+      "tool_uses": 156,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FC-15": {
+      "reader": "one subagent for FC-12, FC-13, FC-14 and FC-15, one after the other",
+      "elapsed_sec": 2101.9,
+      "subagent_tokens": 403758,
+      "tool_uses": 156,
+      "note": "totals of the one reader for the four figures"
+    }
+  }
+}

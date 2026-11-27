@@ -1,0 +1,51 @@
+line fit: v = 4232.32 + -0.93021 u over 751 clean columns; residual rms 0.86 px, max 2.45
+  vertical run median 15.0 px -> perpendicular thickness 11.0 px (half 5.5)
+  mean residual by thirds (px): +0.09, -0.20, +0.11
+ink intervals along the fitted centreline (u):
+    518 ..   522   (v 3750 .. 3747)
+    528 ..   536   (v 3741 .. 3734)
+    543 ..   551   (v 3727 .. 3720)
+    576 ..   787   (v 3697 .. 3500)
+    792 ..   808   (v 3496 .. 3481)
+    813 ..  1263   (v 3476 .. 3057)
+   1269 ..  1282   (v 3052 .. 3040)
+   1290 ..  1408   (v 3032 .. 2923)
+   1420 ..  1436   (v 2911 .. 2897)
+   1449 ..  1685   (v 2884 .. 2665)
+   1688 ..  1837   (v 2662 .. 2524)
+   1845 ..  1870   (v 2516 .. 2493)
+   1874 ..  1964   (v 2489 .. 2405)
+   2036 ..  2046   (v 2338 .. 2329)
+  mirror axis u = 630.0 (base row runs [(612, 648)])
+triangle 1: stroke 7.0; centres: apex (630.0,3645.3) base v 3675.0 u 614.1..645.9 h 29.7 b 31.9 -> centroid (630.0,3665.1) [rows 13/13, 13/13, base cols 16]
+            edges inset: apex (630.0,3646.6) base v 3675.0 u 613.8..646.2 h 28.4 b 32.4 -> centroid (630.0,3665.5); ink bbox mid (628.5,3662.0); mirrored left
+triangle 2: stroke 9.0; centres: apex (806.3,3482.2) base v 3512.0 u 793.1..825.4 h 29.8 b 32.3 -> centroid (808.3,3502.1) [rows 14/14, 14/14, base cols 15]
+            edges inset: apex (807.1,3484.4) base v 3512.0 u 793.3..824.4 h 27.6 b 31.1 -> centroid (808.2,3502.8); ink bbox mid (808.5,3498.5)
+triangle 3: stroke 7.0; centres: apex (1099.1,3142.7) base v 3173.0 u 1085.2..1116.2 h 30.3 b 31.0 -> centroid (1100.2,3162.9) [rows 17/17, 17/17, base cols 15]
+            edges inset: apex (1099.0,3143.7) base v 3173.0 u 1084.8..1116.7 h 29.3 b 32.0 -> centroid (1100.2,3163.2); ink bbox mid (1100.5,3162.5)
+triangle 4: stroke 6.0; centres: apex (1266.5,3014.0) base v 3046.5 u 1249.5..1280.4 h 32.5 b 30.9 -> centroid (1265.5,3035.7) [rows 16/16, 6/16, base cols 15]
+            edges inset: apex (1265.7,3014.4) base v 3046.5 u 1248.9..1281.8 h 32.1 b 33.0 -> centroid (1265.5,3035.8); ink bbox mid (1267.5,3033.5)
+triangle 5: stroke 7.0; centres: apex (1435.3,2898.0) base v 2927.0 u 1419.7..1450.2 h 29.0 b 30.6 -> centroid (1435.1,2917.3) [rows 16/16, 16/16, base cols 15]
+            edges inset: apex (1435.6,2899.4) base v 2927.0 u 1419.5..1450.1 h 27.6 b 30.6 -> centroid (1435.1,2917.8); ink bbox mid (1434.5,2914.0)
+  mirror axis u = 1695.0 (base row runs [(1676, 1699), (1705, 1714)])
+triangle 6: stroke 8.0; centres: apex (1695.0,2624.0) base v 2655.5 u 1679.0..1711.0 h 31.5 b 32.0 -> centroid (1695.0,2645.0) [rows 9/11, 9/11, base cols 16]
+            edges inset: apex (1695.0,2628.3) base v 2655.5 u 1677.9..1712.1 h 27.2 b 34.2 -> centroid (1695.0,2646.4); ink bbox mid (1695.0,2645.5); mirrored right
+triangle 7: stroke 7.0; centres: apex (1864.4,2490.9) base v 2519.0 u 1849.3..1881.2 h 28.1 b 31.9 -> centroid (1864.9,2509.6) [rows 17/17, 15/17, base cols 16]
+            edges inset: apex (1864.3,2491.7) base v 2519.0 u 1849.4..1881.4 h 27.3 b 32.0 -> centroid (1865.0,2509.9); ink bbox mid (1866.5,2507.0)
+triangle 8: stroke 9.0; centres: apex (1946.6,2386.6) base v 2415.0 u 1933.0..1964.7 h 28.4 b 31.7 -> centroid (1948.1,2405.5) [rows 11/11, 11/11, base cols 8]
+            edges inset: apex (1948.0,2385.2) base v 2415.0 u 1932.6..1963.2 h 29.8 b 30.6 -> centroid (1948.0,2405.1); ink bbox mid (1949.0,2404.0)
+samples at multiples of 500 psf (local ink centre from clean neighbouring columns):
+  x     -0: u   583.6  v_fit  3689.4  v_local 3685.4  (9 cols) on vertical grid line  
+  x    500: u   730.6  v_fit  3552.7  v_local 3550.0  (30 cols)   
+  x   1000: u   877.6  v_fit  3415.9  v_local 3415.5  (9 cols) on vertical grid line  
+  x   1500: u  1021.6  v_fit  3282.0  v_local 3282.1  (33 cols)   
+  x   2000: u  1165.6  v_fit  3148.1  v_local 3148.6  (10 cols) on vertical grid line  
+  x   2500: u  1311.0  v_fit  3012.8  v_local 3012.6  (29 cols)   
+  x   3000: u  1456.3  v_fit  2877.6  v_local 2878.9  (9 cols) on vertical grid line  
+  x   3500: u  1603.0  v_fit  2741.2  v_local 2741.6  (33 cols)   
+  x   4000: u  1749.6  v_fit  2604.8  v_local 2604.1  (19 cols) on vertical grid line  
+  x   4500: u  1895.1  v_fit  2469.5  v_local 2468.0  (25 cols)   
+  x   5000: u  2040.6  v_fit  2334.2  v_local None  (0 cols) on vertical grid line  CHECK
+left end: u 583.5 v 3685.4 (15 cols, right side); right end: u 1948.5 v 2417.0 (17 cols, left side)
+intercept: u 583.5 v 3685.4 (15 cols)
+wrote points-p1.csv: 8 markers, 11 trace, 3 features

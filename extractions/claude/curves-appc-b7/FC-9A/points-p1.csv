@@ -1,0 +1,18 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-9A,1,rs-dense,marker,1,738.9,3440.1,2,6,triangle-up,centroid from the side and base strokes (rule 8); the base sits on the y = 1000 grid line and merges with it; base taken as 6 px thick from its visible top edge (rows 3448 to 3453); symbol in a gap of the fitted line
+FC-9A,1,rs-dense,marker,2,825.5,3317.4,2,5.5,triangle-up,centroid from the side and base strokes; symbol in a gap of the fitted line; a stray horizontal stroke runs right from the base (u 845 to 923 at v 3327 to 3330) and is not part of the symbol
+FC-9A,1,rs-dense,marker,3,1076.2,2970.6,2,5.5,triangle-up,centroid from the side and base strokes; symbol in a gap of the fitted line
+FC-9A,1,rs-dense,marker,4,1329.8,2619.6,2.5,5.5,triangle-up,centroid from the side and base strokes; right base corner touches the fitted line's ink (line pixels masked)
+FC-9A,1,rs-dense,marker,5,1499.4,2422.0,3,5.5,triangle-up,centroid from the strokes; right base corner merges with the x = 3000 grid line; symbol in a gap of the fitted line
+FC-9A,1,rs-dense,marker,6,1668.5,2270.5,2,5.5,triangle-up,centroid from the side and base strokes; clean symbol right of the line's upper end
+FC-9A,1,rs-dense,trace,1,650.0,3565.4,4,9,,left end: the line's ink starts at the left frame (x = 0) and merges with it; centre from the line's straight-line fit at the x = 0 line
+FC-9A,1,rs-dense,trace,2,796.6,3372.0,0.5,9,,x = 500 psf; local fit of 41 columns
+FC-9A,1,rs-dense,trace,3,943.0,3177.4,0.5,9,,x = 1000 psf; on the x = 1000 grid line; centre from the columns either side
+FC-9A,1,rs-dense,trace,4,1231.7,2796.7,0.5,9,,x = 2000 psf; on the x = 2000 grid line; x = 1500 not sampled because it falls in the drawn gap around marker 3 (no ink there)
+FC-9A,1,rs-dense,trace,5,1375.9,2605.4,0.5,9,,x = 2500 psf
+FC-9A,1,rs-dense,trace,6,1519.9,2415.8,0.5,9,,x = 3000 psf; on the x = 3000 grid line at the lower end of the segment above the gap around marker 5 (pen-centre start about u 1520); centre from the columns to the right
+FC-9A,1,rs-dense,trace,7,1665.3,2223.3,0.5,9,,x = 3500 psf
+FC-9A,1,rs-dense,trace,8,1679.5,2204.5,3,9,,right end: between the pen-centre end (about u 1677.5) and the last ink (about u 1682 at v 2198)
+FC-9A,1,rs-dense,feature,1,650.0,3565.4,4,9,,first point of the line (= trace 1)
+FC-9A,1,rs-dense,feature,2,1679.5,2204.5,3,9,,last point of the line (= trace 8); also the maximum of the trace
+FC-9A,1,rs-dense,feature,3,650.0,3565.4,0.5,9,,intercept: the line reaches the normal-stress-zero axis (left frame)

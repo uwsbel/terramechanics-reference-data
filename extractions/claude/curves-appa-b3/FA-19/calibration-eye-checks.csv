@@ -1,0 +1,14 @@
+figure_id,panel,axis,printed_label,label_side,label_centre_u,label_centre_v,line_value_anchored,line_position_at_label_px,label_offset_px,verdict,note
+FA-19,1,y,55,left,687.0,838.0,55,v 836.5,+1.5,agrees,"the unit-weight scale of this figure runs 55 to 115, not 25 to 65 as TASK.md describes; the top frame line carries 55"
+FA-19,1,y,60,left,680.5,1307.5,60,v 1306.8,+0.7,agrees,
+FA-19,1,y,65,left,688.0,1701.0,65,v 1698.5,+2.5,agrees,
+FA-19,1,y,70,left,691.5,2037.5,70,v 2033.9,+3.6,agrees,
+FA-19,1,y,75,left,696.5,2327.0,75,v 2327.0,+0.0,agrees,
+FA-19,1,y,115,left,739.5,3740.0,115,v 3742.2,-2.2,agrees,"bottom frame line; its ink is too thick for the ink check (rejected as a knot, insufficient ink), which does not matter: nothing is read below 76"
+FA-19,1,y,55,right,2360.5,825.5,55,v 813.5,+12.0,agrees,printed just below the top frame line on the right; no other line within 90 px
+FA-19,1,y,65,right,2349.5,1671.0,65,v 1675.5,-4.5,agrees,the 65.1 leader leaves the frame just below this label
+FA-19,1,y,70,right,2354.0,2007.5,70,v 2011.5,-4.0,agrees,
+FA-19,1,y,75,right,2356.0,2308.0,75,v 2308.8,-0.8,agrees,
+FA-19,1,x,0.0,bottom,799.5,3801.5,0,u 801.1,-1.6,agrees,
+FA-19,1,x,0.5,bottom,1561.5,3791.5,0.5,u 1565.9,-4.4,agrees,
+FA-19,1,x,1.0,bottom,2308.5,3783.0,1.0,u 2335.1,-26.6,agrees,"printed 27 px left of the right frame line and 125 px right of the 0.9 line; the right frame leans less than the other vertical lines (see notes.md)"

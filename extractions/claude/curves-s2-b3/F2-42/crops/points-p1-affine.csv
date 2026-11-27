@@ -1,0 +1,87 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+F2-42,1,lpt25,feature,1,848.0,3229.0,8,8,dashed,"first: lowest ink of D that can be told apart; its dashes run along the right edge of the left frame and merge into the frame at about 75 lb, so below this D is hidden in the frame line or not drawn",0.016313,79.2515,0.032312,5.7699
+F2-42,1,lpt25,trace,2,849.5,3210.0,6,6,dashed,"about 100 lb; dash along the right edge of the left frame, its left half merged with the frame (center = right edge - 4.5 px)",0.021274,91.4858,0.025806,4.4803
+F2-42,1,lpt25,trace,3,856.5,3054.0,7,7,dashed,about 200 lb; runs together with B on its right (center = left edge + 4.5 px),0.044732,191.9308,0.029059,5.1251
+F2-42,1,lpt25,trace,4,860.5,2898.0,7,7,dashed,about 300 lb; runs together with B on its right (center = left edge + 4.5 px),0.058444,292.3729,0.029059,5.1251
+F2-42,1,lpt25,trace,5,873.0,2743.0,6,6,dashed,about 400 lb (row 12 px below the 400 lb line),0.099764,392.1795,0.025806,4.4803
+F2-42,1,lpt25,trace,6,892.5,2582.0,7,7,dashed,about 500 lb; runs together with B on its right (center = left edge + 4.5 px),0.16385,495.8559,0.029059,5.1251
+F2-42,1,lpt25,trace,7,913.0,2431.0,6,6,dashed,about 600 lb (row 10 px below the 600 lb line),0.231138,593.095,0.025806,4.4803
+F2-42,1,lpt25,trace,8,919.0,2394.0,6,6,dashed,x 0.25 in,0.250799,616.9228,0.025806,4.4803
+F2-42,1,lpt25,trace,9,937.0,2268.0,6,6,dashed,about 700 lb,0.309851,698.0635,0.025806,4.4803
+F2-42,1,lpt25,trace,10,965.5,2120.0,7,7,dashed,about 800 lb (row 10 px below the 800 lb line); runs together with B on its right (center = left edge + 4.5 px),0.403112,793.379,0.029059,5.1251
+F2-42,1,lpt25,trace,11,995.5,2020.0,7,7,dashed,"x 0.5 in; D and B coincide here (D crosses B from its left to its right between about 2060 and 1950 px), one run 12 px wide",0.501024,857.7918,0.029059,5.1251
+F2-42,1,lpt25,trace,12,1014.0,1954.0,7,7,dashed,about 900 lb; D and B coincide (one run 11 px wide),0.561424,900.303,0.029059,5.1251
+F2-42,1,lpt25,feature,13,1068.5,1864.0,8,8,dashed,"knee: the steep rise bends into the gentle middle part; corner of the two tangents at about (1044, 1845)",0.738876,958.3015,0.032312,5.7699
+F2-42,1,lpt25,trace,14,1073.0,1857.0,6,6,dashed,x 0.75 in,0.753526,962.8128,0.025806,4.4803
+F2-42,1,lpt25,trace,15,1157.0,1787.5,6,6,dashed,"x 1.0 in (column 7 px right of the 1 in line, x about 1.02)",1.026711,1007.6416,0.025806,4.4803
+F2-42,1,lpt25,trace,16,1228.0,1752.5,6,6,dashed,x 1.25 in,1.257507,1030.2454,0.025806,4.4803
+F2-42,1,lpt25,trace,17,1308.0,1708.0,6,6,dashed,"x 1.5 in (start of a dash, x about 1.51)",1.517583,1058.9744,0.025806,4.4803
+F2-42,1,lpt25,trace,18,1382.0,1647.0,7,7,dashed,"x 1.75 in; D crosses B here (D below B at u 1360, above it at u 1390); center taken 5 px below the top edge of the merged run",1.758245,1098.3209,0.029059,5.1251
+F2-42,1,lpt25,trace,19,1469.5,1548.0,6,6,dashed,"x 2.0 in (row clear of the 2 in line, x about 2.03)",2.042935,1162.1462,0.025806,4.4803
+F2-42,1,lpt25,trace,20,1534.5,1459.0,6,6,dashed,x 2.25 in,2.25449,1219.5112,0.025806,4.4803
+F2-42,1,lpt25,feature,21,1612.0,1340.0,6,6,dashed,last: D meets the top edge of the frame (about 1300 lb) at x about 2.51 in,2.506789,1296.2035,0.025806,4.4803
+F2-42,1,lpt23,feature,1,857.0,3124.0,8,8,solid,"first: lowest ink of the solid line B, at about 145 lb, x about 0.05 in; rows 3128 to 3142 hold no ink between the frame (u 846) and u 861, so a solid line does not continue below here outside the frame; where B starts is uncertain",0.046033,146.8629,0.032312,5.7699
+F2-42,1,lpt23,trace,2,862.5,3054.0,7,7,solid,about 200 lb; runs together with D on its left (center = right edge - 4.5 px),0.064222,191.9367,0.029059,5.1251
+F2-42,1,lpt23,trace,3,874.5,2880.0,5,5,solid,"about 300 lb; B alone in this row (D, A and C in gaps)",0.104005,303.9757,0.022553,3.8355
+F2-42,1,lpt23,trace,4,886.5,2740.0,5,5,solid,about 400 lb (row 9 px below the 400 lb line),0.143631,394.1242,0.022553,3.8355
+F2-42,1,lpt23,trace,5,907.5,2569.0,5,5,solid,about 500 lb,0.212635,504.2405,0.022553,3.8355
+F2-42,1,lpt23,trace,6,919.5,2481.0,5,5,solid,x 0.25 in,0.252022,560.9097,0.022553,3.8355
+F2-42,1,lpt23,trace,7,927.0,2431.0,5,5,solid,about 600 lb (row 10 px below the 600 lb line),0.276615,593.1087,0.022553,3.8355
+F2-42,1,lpt23,trace,8,949.5,2268.0,5,5,solid,about 700 lb,0.350455,698.0758,0.022553,3.8355
+F2-42,1,lpt23,trace,9,972.0,2132.0,5,5,solid,"about 800 lb (row 22 px below the 800 lb line, in a gap of D)",0.424171,785.6593,0.022553,3.8355
+F2-42,1,lpt23,trace,10,995.5,2020.0,7,7,solid,x 0.5 in; B and D coincide here (one run 12 px wide),0.501024,857.7918,0.029059,5.1251
+F2-42,1,lpt23,trace,11,1014.0,1954.0,7,7,solid,about 900 lb; B and D coincide (one run 11 px wide),0.561424,900.303,0.029059,5.1251
+F2-42,1,lpt23,trace,12,1056.0,1810.0,5,5,solid,about 1000 lb (row 8 px below the 1000 lb line),0.69852,993.0563,0.022553,3.8355
+F2-42,1,lpt23,trace,13,1073.0,1771.0,5,5,solid,x 0.75 in,0.753922,1018.1825,0.022553,3.8355
+F2-42,1,lpt23,feature,14,1134.0,1704.0,8,8,solid,knee: the steep rise bends into the plateau; the circled B touches the line here,0.952383,1061.3792,0.032312,5.7699
+F2-42,1,lpt23,trace,15,1157.0,1685.5,5,5,solid,"x 1.0 in (column 7 px right of the 1 in line, x about 1.02)",1.027181,1073.3127,0.022553,3.8355
+F2-42,1,lpt23,trace,16,1228.0,1666.0,5,5,solid,x 1.25 in; plateau,1.257906,1085.9371,0.022553,3.8355
+F2-42,1,lpt23,trace,17,1305.0,1666.5,5,5,solid,x 1.5 in; plateau,1.508029,1085.6906,0.022553,3.8355
+F2-42,1,lpt23,feature,18,1355.0,1666.0,6,6,solid,"knee: end of the plateau, B starts to rise again; a dash of D touches B from below at u 1360 to 1390",1.670451,1086.0615,0.025806,4.4803
+F2-42,1,lpt23,trace,19,1382.0,1657.0,7,7,solid,x 1.75 in; B and D cross here (merged run 1642 to 1663); center from B on either side,1.758199,1091.8825,0.029059,5.1251
+F2-42,1,lpt23,trace,20,1466.0,1615.0,5,5,solid,"x 2.0 in (column clear of the 2 in line, x about 2.02)",2.031257,1119.0059,0.022553,3.8355
+F2-42,1,lpt23,feature,21,1495.0,1596.0,5,5,solid,last: end of the solid line (also its highest load),2.125547,1131.2672,0.022553,3.8355
+F2-42,1,lpt22,feature,1,847.0,3324.0,8,8,dotted,"first: the dots run down along the left frame; the last separate dot is at (850, 3304); below it the dots merge with the frame near the origin",0.012627,18.0862,0.032312,5.7699
+F2-42,1,lpt22,trace,2,853.1,3269.2,5,5,dotted,"about 50 lb; isolated dot (centroid), between the frame and C",0.032695,53.3743,0.022553,3.8355
+F2-42,1,lpt22,trace,3,859.0,3199.0,7,7,dotted,about 100 lb; dot merged with C on its right (center = left edge + 4.5 px),0.052184,98.5773,0.029059,5.1251
+F2-42,1,lpt22,trace,4,871.5,3048.0,7,7,dotted,about 200 lb; dot merged with B on its left and C on its right (center = right edge of the merged run - 4.5 px),0.093485,195.8085,0.029059,5.1251
+F2-42,1,lpt22,trace,5,883.5,2889.0,5,5,dotted,about 300 lb; dot between B and C,0.133199,298.19,0.022553,3.8355
+F2-42,1,lpt22,trace,6,895.5,2749.0,5,5,dotted,about 400 lb; dot against B on its left (center = right edge - 4.5 px),0.172825,388.3385,0.022553,3.8355
+F2-42,1,lpt22,trace,7,917.0,2578.0,5,5,dotted,about 500 lb and x 0.25 in; dot against B on its left,0.243453,498.4553,0.022553,3.8355
+F2-42,1,lpt22,trace,8,937.5,2440.0,5,5,dotted,about 600 lb; dot between B and C,0.310682,587.3245,0.022553,3.8355
+F2-42,1,lpt22,trace,9,964.8,2268.0,5,5,dotted,about 700 lb; isolated dot (centroid),0.400156,698.0908,0.022553,3.8355
+F2-42,1,lpt22,trace,10,994.8,2150.9,5,5,dotted,x 0.5 in; isolated dot (centroid),0.498147,773.5132,0.022553,3.8355
+F2-42,1,lpt22,trace,11,1000.5,2134.6,5,5,dotted,about 800 lb; isolated dot (centroid); above it A runs on top of C (about 2125 to 2040 px) and comes out on C's right,0.516738,784.0133,0.022553,3.8355
+F2-42,1,lpt22,trace,12,1080.4,2024.0,5,5,dotted,x 0.75 in (dot at x about 0.78; the dot at x 0.73 is merged with the end of a dash of C),0.776794,855.2997,0.022553,3.8355
+F2-42,1,lpt22,feature,13,1138.6,1990.6,5,5,dotted,"peak, first maximum: highest dot (centroid)",0.966004,876.8608,0.022553,3.8355
+F2-42,1,lpt22,trace,14,1155.0,1997.5,7,7,dotted,x 1.0 in; dot partly merged with the 1 in line,1.019245,872.4344,0.029059,5.1251
+F2-42,1,lpt22,trace,15,1231.1,2032.9,5,5,dotted,x 1.25 in; dot (centroid),1.266284,849.7173,0.022553,3.8355
+F2-42,1,lpt22,feature,16,1264.7,2042.3,5,5,dotted,"knee, minimum: lowest dot after the peak (centroid)",1.375387,843.6982,0.022553,3.8355
+F2-42,1,lpt22,trace,17,1302.8,2008.4,5,5,dotted,x 1.5 in; dot (centroid); A has crossed C between u 1280 and 1300 (one dot hidden under C),1.499306,865.5615,0.022553,3.8355
+F2-42,1,lpt22,trace,18,1382.9,1896.2,5,5,dotted,x 1.75 in; dot (centroid),1.760019,937.8782,0.022553,3.8355
+F2-42,1,lpt22,trace,19,1449.0,1791.5,5,5,dotted,x 2.0 in (dot at x about 1.96; the next dots touch the 1000 lb and 2 in lines),1.97522,1005.3525,0.022553,3.8355
+F2-42,1,lpt22,trace,20,1539.8,1644.1,5,5,dotted,x 2.25 in; dot (centroid),2.270853,1100.3427,0.022553,3.8355
+F2-42,1,lpt22,feature,21,1613.0,1525.0,7,7,dotted,"last: last dot of A, merged into the lower end of a dash of C as a bulge on its left; the dot before it (1604, 1541) is isolated; above it no dot shows beside C, so A ends here or runs on hidden under C",2.509184,1177.0951,0.029059,5.1251
+F2-42,1,lpt24,feature,1,859.0,3345.0,6,6,dashed,first: C's ink meets the bottom edge of the frame at x about 0.06 in,0.051511,4.5775,0.025806,4.4803
+F2-42,1,lpt24,trace,2,871.0,3192.0,6,6,dashed,about 100 lb,0.091197,103.0959,0.025806,4.4803
+F2-42,1,lpt24,trace,3,883.5,3053.0,6,6,dashed,about 200 lb (row 12 px below the 200 lb line),0.132442,192.6011,0.025806,4.4803
+F2-42,1,lpt24,trace,4,895.5,2896.0,6,6,dashed,about 300 lb (first rows of a dash; the gap is at 2878 to 2890),0.172147,293.6949,0.025806,4.4803
+F2-42,1,lpt24,trace,5,910.5,2740.0,6,6,dashed,about 400 lb (row 9 px below the 400 lb line),0.221592,394.1478,0.025806,4.4803
+F2-42,1,lpt24,trace,6,919.0,2667.0,6,6,dashed,x 0.25 in,0.24954,441.156,0.025806,4.4803
+F2-42,1,lpt24,trace,7,930.0,2575.0,6,6,dashed,about 500 lb,0.285696,500.3995,0.025806,4.4803
+F2-42,1,lpt24,trace,8,949.0,2431.0,6,6,dashed,about 600 lb (row 10 px below the 600 lb line),0.34808,593.1303,0.025806,4.4803
+F2-42,1,lpt24,trace,9,977.0,2272.0,6,6,dashed,about 700 lb,0.439767,695.5274,0.025806,4.4803
+F2-42,1,lpt24,trace,10,996.0,2192.0,6,6,dashed,x 0.5 in,0.501856,747.0528,0.025806,4.4803
+F2-42,1,lpt24,trace,11,1015.5,2132.0,6,6,dashed,about 800 lb (row 22 px below the 800 lb line); above it A runs on top of C up to about 2040 px,0.565476,785.702,0.025806,4.4803
+F2-42,1,lpt24,trace,12,1072.5,2004.0,6,6,dashed,x 0.75 in,0.751224,868.1686,0.025806,4.4803
+F2-42,1,lpt24,feature,13,1116.0,1949.5,6,6,dashed,"peak, first maximum: top of the line (run 1944 to 1955)",0.89278,903.3002,0.025806,4.4803
+F2-42,1,lpt24,trace,14,1156.0,1958.5,6,6,dashed,"x 1.0 in (column 6 px right of the 1 in line, x about 1.02)",1.022674,897.5449,0.025806,4.4803
+F2-42,1,lpt24,trace,15,1228.0,1991.5,6,6,dashed,x 1.25 in,1.256405,876.369,0.025806,4.4803
+F2-42,1,lpt24,trace,16,1305.0,2023.0,6,6,dashed,x 1.5 in,1.506385,856.1637,0.025806,4.4803
+F2-42,1,lpt24,feature,17,1313.0,2024.5,6,6,dashed,"knee, minimum: bottom of the trough (flat from u 1306 to 1324); A crosses C just before it",1.532366,855.2058,0.025806,4.4803
+F2-42,1,lpt24,trace,18,1382.5,1965.0,6,6,dashed,x 1.75 in,1.758403,893.582,0.025806,4.4803
+F2-42,1,lpt24,trace,19,1471.0,1793.0,6,6,dashed,"x 2.0 in (row clear of the 1000 lb line, x about 2.03; C passes 6 px from the grid crossing)",2.046678,1004.4083,0.025806,4.4803
+F2-42,1,lpt24,trace,20,1535.5,1682.0,6,6,dashed,x 2.25 in,2.25671,1075.9371,0.025806,4.4803
+F2-42,1,lpt24,trace,21,1618.0,1537.0,6,6,dashed,"x 2.5 in (lower end of a dash, x about 2.52; C is in a gap at x 2.5)",2.525371,1169.374,0.025806,4.4803
+F2-42,1,lpt24,trace,22,1687.5,1417.0,6,6,dashed,x 2.75 in,2.751687,1246.7022,0.025806,4.4803
+F2-42,1,lpt24,feature,23,1735.5,1340.0,6,6,dashed,last: C meets the top edge of the frame (about 1300 lb) at x about 2.92 in,2.907964,1296.3245,0.025806,4.4803

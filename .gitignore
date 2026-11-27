@@ -1,0 +1,32 @@
+# Agent scaffolding (decision logs, consultation records, run ledgers) stays local by lab convention
+.agent-related/
+
+# Rendered page and figure images are regenerated from the PDFs; do not track them
+corpus/images/
+corpus/**/images/
+work/
+out/
+*.png
+*.jpg
+*.tif
+
+# Acquired source bundles: videos and high-resolution scans stay out of git (300 MB in the two
+# Apollo PDS bundles); they are pinned by nasa-reports/<source>/SHA256SUMS.txt and come back with
+# tools/acquire_source.py
+*.mp4
+nasa-reports/*/document/videos/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Quarto site build outputs and render-time files (tools/render_site.py)
+site/_site/
+site/.quarto/
+site/_footer.html
+site/_changes.md

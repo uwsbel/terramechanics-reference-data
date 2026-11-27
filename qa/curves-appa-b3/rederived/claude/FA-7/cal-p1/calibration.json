@@ -1,0 +1,2078 @@
+{
+ "image": "packet/p0015.png",
+ "box": [
+  600,
+  1710,
+  2200,
+  3520
+ ],
+ "bands": 8,
+ "dark": 200,
+ "min_frac": 0.6,
+ "snap": 10,
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine, least squares on the grid intersections) (D-027: x and y here are the plotting coordinates T(value) of the axes' transforms)",
+ "ax": [
+  0.0006512099304287436,
+  7.726876823353535e-06,
+  -0.42823411900766584
+ ],
+ "ay": [
+  2.1875647936304716e-07,
+  -1.63721866562131e-05,
+  0.07226962756311262
+ ],
+ "x_per_px": 0.000651255770119891,
+ "y_per_px": 1.6373648045049264e-05,
+ "rms_residual_x": 0.0013580810992900832,
+ "rms_residual_y": 3.539027832684274e-05,
+ "max_residual_x": 0.004275810989575302,
+ "max_residual_y": 9.956361606922384e-05,
+ "n_anchors": 440,
+ "vertical_lines": [
+  {
+   "x_value": 0.0,
+   "slope_du_dv": -0.011083049637423974,
+   "u_at_v0": 655.7849771334307,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     636.5
+    ],
+    [
+     2049.0,
+     633.5
+    ],
+    [
+     2275.0,
+     630.5
+    ],
+    [
+     2501.0,
+     627.5
+    ],
+    [
+     2727.0,
+     624.5
+    ],
+    [
+     2953.0,
+     622.0
+    ],
+    [
+     3179.0,
+     619.5
+    ],
+    [
+     3406.0,
+     620.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.1,
+   "slope_du_dv": -0.010162220666011695,
+   "u_at_v0": 808.0653150985378,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     790.0
+    ],
+    [
+     2049.0,
+     787.0
+    ],
+    [
+     2275.0,
+     785.5
+    ],
+    [
+     2501.0,
+     782.5
+    ],
+    [
+     2727.0,
+     779.5
+    ],
+    [
+     2953.0,
+     777.5
+    ],
+    [
+     3179.0,
+     775.5
+    ],
+    [
+     3406.0,
+     774.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.2,
+   "slope_du_dv": -0.010136047684086876,
+   "u_at_v0": 960.3093956521635,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     942.5
+    ],
+    [
+     2049.0,
+     939.5
+    ],
+    [
+     2275.0,
+     937.0
+    ],
+    [
+     2501.0,
+     935.0
+    ],
+    [
+     2727.0,
+     932.0
+    ],
+    [
+     2953.0,
+     929.5
+    ],
+    [
+     3179.0,
+     928.5
+    ],
+    [
+     3406.0,
+     926.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.3,
+   "slope_du_dv": -0.010478101482345497,
+   "u_at_v0": 1114.016067037536,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1095.5
+    ],
+    [
+     2049.0,
+     1092.5
+    ],
+    [
+     2275.0,
+     1090.0
+    ],
+    [
+     2501.0,
+     1088.0
+    ],
+    [
+     2727.0,
+     1085.0
+    ],
+    [
+     2953.0,
+     1082.0
+    ],
+    [
+     3179.0,
+     1080.5
+    ],
+    [
+     3406.0,
+     1079.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.4,
+   "slope_du_dv": -0.010530738580587945,
+   "u_at_v0": 1267.1536669919794,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1248.5
+    ],
+    [
+     2049.0,
+     1246.0
+    ],
+    [
+     2275.0,
+     1242.5
+    ],
+    [
+     2501.0,
+     1241.0
+    ],
+    [
+     2727.0,
+     1238.0
+    ],
+    [
+     2953.0,
+     1235.0
+    ],
+    [
+     3179.0,
+     1233.5
+    ],
+    [
+     3406.0,
+     1232.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.5,
+   "slope_du_dv": -0.011057400697406232,
+   "u_at_v0": 1420.1554275981066,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1400.5
+    ],
+    [
+     2049.0,
+     1398.0
+    ],
+    [
+     2275.0,
+     1395.0
+    ],
+    [
+     2501.0,
+     1392.0
+    ],
+    [
+     2727.0,
+     1389.0
+    ],
+    [
+     2953.0,
+     1386.5
+    ],
+    [
+     3179.0,
+     1385.5
+    ],
+    [
+     3406.0,
+     1383.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.6,
+   "slope_du_dv": -0.012189302103696073,
+   "u_at_v0": 1581.5518593618237,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1560.0
+    ],
+    [
+     2049.0,
+     1557.0
+    ],
+    [
+     2275.0,
+     1553.0
+    ],
+    [
+     2501.0,
+     1551.0
+    ],
+    [
+     2727.0,
+     1548.0
+    ],
+    [
+     2953.0,
+     1545.0
+    ],
+    [
+     3179.0,
+     1542.0
+    ],
+    [
+     3406.0,
+     1541.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.7,
+   "slope_du_dv": -0.012215707993135079,
+   "u_at_v0": 1731.8083876575536,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1710.0
+    ],
+    [
+     2049.0,
+     1707.0
+    ],
+    [
+     2275.0,
+     1704.0
+    ],
+    [
+     2501.0,
+     1701.0
+    ],
+    [
+     2727.0,
+     1698.0
+    ],
+    [
+     2953.0,
+     1695.0
+    ],
+    [
+     3179.0,
+     1692.5
+    ],
+    [
+     3406.0,
+     1691.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.8,
+   "slope_du_dv": -0.012347271625302348,
+   "u_at_v0": 1886.089811437493,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     1864.0
+    ],
+    [
+     2049.0,
+     1861.0
+    ],
+    [
+     2275.0,
+     1858.0
+    ],
+    [
+     2501.0,
+     1855.0
+    ],
+    [
+     2727.0,
+     1852.0
+    ],
+    [
+     2953.0,
+     1849.0
+    ],
+    [
+     3179.0,
+     1846.0
+    ],
+    [
+     3406.0,
+     1845.5
+    ]
+   ]
+  },
+  {
+   "x_value": 0.9,
+   "slope_du_dv": -0.016270394910411424,
+   "u_at_v0": 2050.907846095179,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     2021.5
+    ],
+    [
+     2049.0,
+     2018.0
+    ],
+    [
+     2275.0,
+     2014.0
+    ],
+    [
+     2501.0,
+     2009.5
+    ],
+    [
+     2727.0,
+     2006.5
+    ],
+    [
+     2953.0,
+     2002.0
+    ],
+    [
+     3179.0,
+     1999.0
+    ],
+    [
+     3406.0,
+     1996.5
+    ]
+   ]
+  },
+  {
+   "x_value": 1.0,
+   "slope_du_dv": -0.014084819909213219,
+   "u_at_v0": 2203.7569798451714,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     1823.0,
+     2178.5
+    ],
+    [
+     2049.0,
+     2175.5
+    ],
+    [
+     2275.0,
+     2171.5
+    ],
+    [
+     2501.0,
+     2168.5
+    ],
+    [
+     2727.0,
+     2164.5
+    ],
+    [
+     2953.0,
+     2161.0
+    ],
+    [
+     3179.0,
+     2158.5
+    ],
+    [
+     3406.0,
+     2157.5
+    ]
+   ]
+  }
+ ],
+ "horizontal_lines": [
+  {
+   "y_value": 23.0,
+   "slope_dv_du": 0.01187499999999937,
+   "v_at_u0": 1758.0625000000018,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     1766.5
+    ],
+    [
+     900.0,
+     1769.5
+    ],
+    [
+     1100.0,
+     1771.0
+    ],
+    [
+     1300.0,
+     1772.5
+    ],
+    [
+     1500.0,
+     1775.5
+    ],
+    [
+     1700.0,
+     1778.5
+    ],
+    [
+     1900.0,
+     1780.5
+    ],
+    [
+     2100.0,
+     1783.5
+    ]
+   ]
+  },
+  {
+   "y_value": 24.0,
+   "slope_dv_du": 0.01110119047619009,
+   "v_at_u0": 1870.5208333333342,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     1878.5
+    ],
+    [
+     900.0,
+     1881.0
+    ],
+    [
+     1100.0,
+     1883.0
+    ],
+    [
+     1300.0,
+     1884.5
+    ],
+    [
+     1500.0,
+     1886.0
+    ],
+    [
+     1700.0,
+     1889.0
+    ],
+    [
+     1900.0,
+     1892.0
+    ],
+    [
+     2100.0,
+     1894.5
+    ]
+   ]
+  },
+  {
+   "y_value": 25.0,
+   "slope_dv_du": 0.011547619047618543,
+   "v_at_u0": 1970.4583333333344,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     1979.0
+    ],
+    [
+     900.0,
+     1981.5
+    ],
+    [
+     1100.0,
+     1982.5
+    ],
+    [
+     1300.0,
+     1984.5
+    ],
+    [
+     1500.0,
+     1987.5
+    ],
+    [
+     1700.0,
+     1990.5
+    ],
+    [
+     1900.0,
+     1992.5
+    ],
+    [
+     2100.0,
+     1995.0
+    ]
+   ]
+  },
+  {
+   "y_value": 26.0,
+   "slope_dv_du": 0.011398809523809252,
+   "v_at_u0": 2067.6041666666674,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2076.0
+    ],
+    [
+     900.0,
+     2078.0
+    ],
+    [
+     1100.0,
+     2080.0
+    ],
+    [
+     1300.0,
+     2082.0
+    ],
+    [
+     1500.0,
+     2084.0
+    ],
+    [
+     1700.0,
+     2087.0
+    ],
+    [
+     1900.0,
+     2090.0
+    ],
+    [
+     2100.0,
+     2091.5
+    ]
+   ]
+  },
+  {
+   "y_value": 27.0,
+   "slope_dv_du": 0.011369047619047288,
+   "v_at_u0": 2155.208333333334,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2163.0
+    ],
+    [
+     900.0,
+     2166.0
+    ],
+    [
+     1100.0,
+     2168.0
+    ],
+    [
+     1300.0,
+     2169.5
+    ],
+    [
+     1500.0,
+     2172.0
+    ],
+    [
+     1700.0,
+     2174.0
+    ],
+    [
+     1900.0,
+     2177.0
+    ],
+    [
+     2100.0,
+     2179.5
+    ]
+   ]
+  },
+  {
+   "y_value": 28.0,
+   "slope_dv_du": 0.01205357142857122,
+   "v_at_u0": 2235.9375000000014,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2244.5
+    ],
+    [
+     900.0,
+     2247.0
+    ],
+    [
+     1100.0,
+     2249.0
+    ],
+    [
+     1300.0,
+     2251.5
+    ],
+    [
+     1500.0,
+     2253.5
+    ],
+    [
+     1700.0,
+     2256.5
+    ],
+    [
+     1900.0,
+     2259.5
+    ],
+    [
+     2100.0,
+     2261.0
+    ]
+   ]
+  },
+  {
+   "y_value": 29.0,
+   "slope_dv_du": 0.012321428571428197,
+   "v_at_u0": 2312.2500000000014,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2321.0
+    ],
+    [
+     900.0,
+     2324.0
+    ],
+    [
+     1100.0,
+     2325.5
+    ],
+    [
+     1300.0,
+     2328.0
+    ],
+    [
+     1500.0,
+     2330.0
+    ],
+    [
+     1700.0,
+     2333.0
+    ],
+    [
+     1900.0,
+     2336.0
+    ],
+    [
+     2100.0,
+     2338.5
+    ]
+   ]
+  },
+  {
+   "y_value": 30.0,
+   "slope_dv_du": 0.012440476190476535,
+   "v_at_u0": 2384.333333333334,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     2393.5
+    ],
+    [
+     900.0,
+     2395.5
+    ],
+    [
+     1100.0,
+     2398.5
+    ],
+    [
+     1300.0,
+     2399.5
+    ],
+    [
+     1500.0,
+     2402.5
+    ],
+    [
+     1700.0,
+     2405.5
+    ],
+    [
+     1900.0,
+     2408.0
+    ],
+    [
+     2100.0,
+     2411.0
+    ]
+   ]
+  },
+  {
+   "y_value": 31.0,
+   "slope_dv_du": 0.012619047619047193,
+   "v_at_u0": 2446.708333333335,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2456.0
+    ],
+    [
+     900.0,
+     2458.0
+    ],
+    [
+     1100.0,
+     2460.5
+    ],
+    [
+     1300.0,
+     2463.0
+    ],
+    [
+     1500.0,
+     2465.0
+    ],
+    [
+     1700.0,
+     2468.0
+    ],
+    [
+     1900.0,
+     2471.0
+    ],
+    [
+     2100.0,
+     2473.5
+    ]
+   ]
+  },
+  {
+   "y_value": 32.0,
+   "slope_dv_du": 0.014047619047618221,
+   "v_at_u0": 2505.5833333333358,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2516.0
+    ],
+    [
+     900.0,
+     2518.5
+    ],
+    [
+     1100.0,
+     2520.5
+    ],
+    [
+     1300.0,
+     2523.5
+    ],
+    [
+     1500.0,
+     2526.0
+    ],
+    [
+     1700.0,
+     2529.5
+    ],
+    [
+     1900.0,
+     2532.5
+    ],
+    [
+     2100.0,
+     2535.5
+    ]
+   ]
+  },
+  {
+   "y_value": 33.0,
+   "slope_dv_du": 0.014077380952380886,
+   "v_at_u0": 2563.854166666668,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2574.0
+    ],
+    [
+     900.0,
+     2577.0
+    ],
+    [
+     1100.0,
+     2579.0
+    ],
+    [
+     1300.0,
+     2581.5
+    ],
+    [
+     1500.0,
+     2584.5
+    ],
+    [
+     1700.0,
+     2588.0
+    ],
+    [
+     1900.0,
+     2591.0
+    ],
+    [
+     2100.0,
+     2593.5
+    ]
+   ]
+  },
+  {
+   "y_value": 34.0,
+   "slope_dv_du": 0.013422619047618871,
+   "v_at_u0": 2621.520833333334,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2631.0
+    ],
+    [
+     900.0,
+     2634.0
+    ],
+    [
+     1100.0,
+     2636.0
+    ],
+    [
+     1300.0,
+     2638.5
+    ],
+    [
+     1500.0,
+     2641.5
+    ],
+    [
+     1700.0,
+     2644.5
+    ],
+    [
+     1900.0,
+     2647.5
+    ],
+    [
+     2100.0,
+     2649.5
+    ]
+   ]
+  },
+  {
+   "y_value": 35.0,
+   "slope_dv_du": 0.01443452380952367,
+   "v_at_u0": 2667.9791666666674,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     2678.5
+    ],
+    [
+     900.0,
+     2681.0
+    ],
+    [
+     1100.0,
+     2683.5
+    ],
+    [
+     1300.0,
+     2686.5
+    ],
+    [
+     1500.0,
+     2689.5
+    ],
+    [
+     1700.0,
+     2692.5
+    ],
+    [
+     1900.0,
+     2695.5
+    ],
+    [
+     2100.0,
+     2698.5
+    ]
+   ]
+  },
+  {
+   "y_value": 36.0,
+   "slope_dv_du": 0.012976190476190141,
+   "v_at_u0": 2716.0833333333353,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2725.5
+    ],
+    [
+     900.0,
+     2727.5
+    ],
+    [
+     1100.0,
+     2730.5
+    ],
+    [
+     1300.0,
+     2733.0
+    ],
+    [
+     1500.0,
+     2735.0
+    ],
+    [
+     1700.0,
+     2738.0
+    ],
+    [
+     1900.0,
+     2741.0
+    ],
+    [
+     2100.0,
+     2743.5
+    ]
+   ]
+  },
+  {
+   "y_value": 37.0,
+   "slope_dv_du": 0.012976190476190464,
+   "v_at_u0": 2761.083333333334,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2770.5
+    ],
+    [
+     900.0,
+     2772.5
+    ],
+    [
+     1100.0,
+     2775.5
+    ],
+    [
+     1300.0,
+     2778.0
+    ],
+    [
+     1500.0,
+     2780.0
+    ],
+    [
+     1700.0,
+     2783.0
+    ],
+    [
+     1900.0,
+     2786.0
+    ],
+    [
+     2100.0,
+     2788.5
+    ]
+   ]
+  },
+  {
+   "y_value": 38.0,
+   "slope_dv_du": 0.012648809523809488,
+   "v_at_u0": 2804.8541666666674,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2814.0
+    ],
+    [
+     900.0,
+     2816.0
+    ],
+    [
+     1100.0,
+     2818.5
+    ],
+    [
+     1300.0,
+     2821.5
+    ],
+    [
+     1500.0,
+     2823.5
+    ],
+    [
+     1700.0,
+     2826.5
+    ],
+    [
+     1900.0,
+     2829.5
+    ],
+    [
+     2100.0,
+     2831.0
+    ]
+   ]
+  },
+  {
+   "y_value": 39.0,
+   "slope_dv_du": 0.013452380952380242,
+   "v_at_u0": 2845.2916666666683,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2855.0
+    ],
+    [
+     900.0,
+     2857.5
+    ],
+    [
+     1100.0,
+     2859.5
+    ],
+    [
+     1300.0,
+     2862.5
+    ],
+    [
+     1500.0,
+     2865.5
+    ],
+    [
+     1700.0,
+     2868.5
+    ],
+    [
+     1900.0,
+     2871.5
+    ],
+    [
+     2100.0,
+     2873.0
+    ]
+   ]
+  },
+  {
+   "y_value": 40.0,
+   "slope_dv_du": 0.013035714285713934,
+   "v_at_u0": 2887.250000000002,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     2896.5
+    ],
+    [
+     900.0,
+     2899.5
+    ],
+    [
+     1100.0,
+     2901.5
+    ],
+    [
+     1300.0,
+     2903.5
+    ],
+    [
+     1500.0,
+     2906.5
+    ],
+    [
+     1700.0,
+     2909.5
+    ],
+    [
+     1900.0,
+     2912.0
+    ],
+    [
+     2100.0,
+     2915.0
+    ]
+   ]
+  },
+  {
+   "y_value": 41.0,
+   "slope_dv_du": 0.013601190476190265,
+   "v_at_u0": 2924.145833333335,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2934.5
+    ],
+    [
+     900.0,
+     2936.0
+    ],
+    [
+     1100.0,
+     2938.5
+    ],
+    [
+     1300.0,
+     2941.5
+    ],
+    [
+     1500.0,
+     2944.5
+    ],
+    [
+     1700.0,
+     2947.5
+    ],
+    [
+     1900.0,
+     2950.5
+    ],
+    [
+     2100.0,
+     2952.5
+    ]
+   ]
+  },
+  {
+   "y_value": 42.0,
+   "slope_dv_du": 0.013214285714284868,
+   "v_at_u0": 2960.8750000000023,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     2970.5
+    ],
+    [
+     900.0,
+     2973.0
+    ],
+    [
+     1100.0,
+     2975.0
+    ],
+    [
+     1300.0,
+     2977.5
+    ],
+    [
+     1500.0,
+     2980.5
+    ],
+    [
+     1700.0,
+     2983.5
+    ],
+    [
+     1900.0,
+     2986.5
+    ],
+    [
+     2100.0,
+     2988.5
+    ]
+   ]
+  },
+  {
+   "y_value": 43.0,
+   "slope_dv_du": 0.013511904761903698,
+   "v_at_u0": 2994.5833333333358,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3004.5
+    ],
+    [
+     900.0,
+     3006.5
+    ],
+    [
+     1100.0,
+     3009.5
+    ],
+    [
+     1300.0,
+     3012.0
+    ],
+    [
+     1500.0,
+     3014.0
+    ],
+    [
+     1700.0,
+     3018.0
+    ],
+    [
+     1900.0,
+     3020.5
+    ],
+    [
+     2100.0,
+     3023.0
+    ]
+   ]
+  },
+  {
+   "y_value": 44.0,
+   "slope_dv_du": 0.013601190476189807,
+   "v_at_u0": 3027.395833333335,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3037.5
+    ],
+    [
+     900.0,
+     3039.5
+    ],
+    [
+     1100.0,
+     3042.0
+    ],
+    [
+     1300.0,
+     3045.0
+    ],
+    [
+     1500.0,
+     3047.0
+    ],
+    [
+     1700.0,
+     3051.0
+    ],
+    [
+     1900.0,
+     3053.5
+    ],
+    [
+     2100.0,
+     3056.0
+    ]
+   ]
+  },
+  {
+   "y_value": 45.0,
+   "slope_dv_du": 0.014166666666666534,
+   "v_at_u0": 3061.1666666666674,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     3071.5
+    ],
+    [
+     900.0,
+     3073.5
+    ],
+    [
+     1100.0,
+     3076.5
+    ],
+    [
+     1300.0,
+     3079.5
+    ],
+    [
+     1500.0,
+     3082.5
+    ],
+    [
+     1700.0,
+     3085.5
+    ],
+    [
+     1900.0,
+     3088.5
+    ],
+    [
+     2100.0,
+     3090.5
+    ]
+   ]
+  },
+  {
+   "y_value": 46.0,
+   "slope_dv_du": 0.013898809523808793,
+   "v_at_u0": 3084.229166666668,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3094.5
+    ],
+    [
+     900.0,
+     3096.5
+    ],
+    [
+     1100.0,
+     3099.5
+    ],
+    [
+     1300.0,
+     3102.0
+    ],
+    [
+     1500.0,
+     3104.0
+    ],
+    [
+     1700.0,
+     3108.5
+    ],
+    [
+     1900.0,
+     3111.5
+    ],
+    [
+     2100.0,
+     3113.0
+    ]
+   ]
+  },
+  {
+   "y_value": 47.0,
+   "slope_dv_du": 0.013065476190475602,
+   "v_at_u0": 3111.895833333335,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3121.5
+    ],
+    [
+     900.0,
+     3123.5
+    ],
+    [
+     1100.0,
+     3126.0
+    ],
+    [
+     1300.0,
+     3129.0
+    ],
+    [
+     1500.0,
+     3131.0
+    ],
+    [
+     1700.0,
+     3134.0
+    ],
+    [
+     1900.0,
+     3137.0
+    ],
+    [
+     2100.0,
+     3139.5
+    ]
+   ]
+  },
+  {
+   "y_value": 48.0,
+   "slope_dv_du": 0.013749999999998937,
+   "v_at_u0": 3140.1250000000023,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3150.5
+    ],
+    [
+     900.0,
+     3152.0
+    ],
+    [
+     1100.0,
+     3155.0
+    ],
+    [
+     1300.0,
+     3157.5
+    ],
+    [
+     1500.0,
+     3160.5
+    ],
+    [
+     1700.0,
+     3164.0
+    ],
+    [
+     1900.0,
+     3167.0
+    ],
+    [
+     2100.0,
+     3168.5
+    ]
+   ]
+  },
+  {
+   "y_value": 49.0,
+   "slope_dv_du": 0.013928571428571358,
+   "v_at_u0": 3165.2500000000005,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3175.5
+    ],
+    [
+     900.0,
+     3177.5
+    ],
+    [
+     1100.0,
+     3180.5
+    ],
+    [
+     1300.0,
+     3183.0
+    ],
+    [
+     1500.0,
+     3186.0
+    ],
+    [
+     1700.0,
+     3189.0
+    ],
+    [
+     1900.0,
+     3192.0
+    ],
+    [
+     2100.0,
+     3194.5
+    ]
+   ]
+  },
+  {
+   "y_value": 50.0,
+   "slope_dv_du": 0.014404761904761173,
+   "v_at_u0": 3191.3333333333358,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     3201.5
+    ],
+    [
+     900.0,
+     3204.5
+    ],
+    [
+     1100.0,
+     3207.5
+    ],
+    [
+     1300.0,
+     3210.0
+    ],
+    [
+     1500.0,
+     3211.5
+    ],
+    [
+     1700.0,
+     3216.0
+    ],
+    [
+     1900.0,
+     3219.5
+    ],
+    [
+     2100.0,
+     3221.5
+    ]
+   ]
+  },
+  {
+   "y_value": 51.0,
+   "slope_dv_du": 0.014166666666666421,
+   "v_at_u0": 3212.5416666666683,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3222.5
+    ],
+    [
+     900.0,
+     3225.0
+    ],
+    [
+     1100.0,
+     3228.0
+    ],
+    [
+     1300.0,
+     3231.0
+    ],
+    [
+     1500.0,
+     3234.0
+    ],
+    [
+     1700.0,
+     3237.0
+    ],
+    [
+     1900.0,
+     3240.0
+    ],
+    [
+     2100.0,
+     3241.5
+    ]
+   ]
+  },
+  {
+   "y_value": 52.0,
+   "slope_dv_du": 0.013422619047618337,
+   "v_at_u0": 3238.2708333333353,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3248.5
+    ],
+    [
+     900.0,
+     3250.5
+    ],
+    [
+     1100.0,
+     3252.5
+    ],
+    [
+     1300.0,
+     3255.0
+    ],
+    [
+     1500.0,
+     3258.0
+    ],
+    [
+     1700.0,
+     3261.0
+    ],
+    [
+     1900.0,
+     3264.0
+    ],
+    [
+     2100.0,
+     3267.0
+    ]
+   ]
+  },
+  {
+   "y_value": 53.0,
+   "slope_dv_du": 0.013541666666665906,
+   "v_at_u0": 3263.1041666666683,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3273.5
+    ],
+    [
+     900.0,
+     3275.0
+    ],
+    [
+     1100.0,
+     3277.5
+    ],
+    [
+     1300.0,
+     3280.5
+    ],
+    [
+     1500.0,
+     3282.5
+    ],
+    [
+     1700.0,
+     3286.5
+    ],
+    [
+     1900.0,
+     3289.5
+    ],
+    [
+     2100.0,
+     3291.5
+    ]
+   ]
+  },
+  {
+   "y_value": 54.0,
+   "slope_dv_du": 0.014226190476189865,
+   "v_at_u0": 3283.458333333335,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3294.0
+    ],
+    [
+     900.0,
+     3296.0
+    ],
+    [
+     1100.0,
+     3299.0
+    ],
+    [
+     1300.0,
+     3301.5
+    ],
+    [
+     1500.0,
+     3304.5
+    ],
+    [
+     1700.0,
+     3308.0
+    ],
+    [
+     1900.0,
+     3310.5
+    ],
+    [
+     2100.0,
+     3313.5
+    ]
+   ]
+  },
+  {
+   "y_value": 55.0,
+   "slope_dv_du": 0.014374999999999534,
+   "v_at_u0": 3302.9375000000014,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     3313.5
+    ],
+    [
+     900.0,
+     3315.5
+    ],
+    [
+     1100.0,
+     3318.5
+    ],
+    [
+     1300.0,
+     3321.5
+    ],
+    [
+     1500.0,
+     3324.5
+    ],
+    [
+     1700.0,
+     3327.5
+    ],
+    [
+     1900.0,
+     3330.5
+    ],
+    [
+     2100.0,
+     3333.0
+    ]
+   ]
+  },
+  {
+   "y_value": 56.0,
+   "slope_dv_du": 0.01440476190476116,
+   "v_at_u0": 3321.0833333333358,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3331.5
+    ],
+    [
+     900.0,
+     3333.5
+    ],
+    [
+     1100.0,
+     3337.5
+    ],
+    [
+     1300.0,
+     3339.5
+    ],
+    [
+     1500.0,
+     3342.5
+    ],
+    [
+     1700.0,
+     3345.5
+    ],
+    [
+     1900.0,
+     3348.5
+    ],
+    [
+     2100.0,
+     3351.5
+    ]
+   ]
+  },
+  {
+   "y_value": 57.0,
+   "slope_dv_du": 0.01416666666666629,
+   "v_at_u0": 3340.916666666668,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3351.5
+    ],
+    [
+     900.0,
+     3354.0
+    ],
+    [
+     1100.0,
+     3356.0
+    ],
+    [
+     1300.0,
+     3358.5
+    ],
+    [
+     1500.0,
+     3361.5
+    ],
+    [
+     1700.0,
+     3365.0
+    ],
+    [
+     1900.0,
+     3369.0
+    ],
+    [
+     2100.0,
+     3370.5
+    ]
+   ]
+  },
+  {
+   "y_value": 58.0,
+   "slope_dv_du": 0.0139583333333327,
+   "v_at_u0": 3359.0208333333353,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3369.5
+    ],
+    [
+     900.0,
+     3372.0
+    ],
+    [
+     1100.0,
+     3373.5
+    ],
+    [
+     1300.0,
+     3376.5
+    ],
+    [
+     1500.0,
+     3379.5
+    ],
+    [
+     1700.0,
+     3383.0
+    ],
+    [
+     1900.0,
+     3386.0
+    ],
+    [
+     2100.0,
+     3388.5
+    ]
+   ]
+  },
+  {
+   "y_value": 59.0,
+   "slope_dv_du": 0.014374999999999747,
+   "v_at_u0": 3377.312500000001,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3387.5
+    ],
+    [
+     900.0,
+     3390.0
+    ],
+    [
+     1100.0,
+     3393.0
+    ],
+    [
+     1300.0,
+     3396.0
+    ],
+    [
+     1500.0,
+     3399.0
+    ],
+    [
+     1700.0,
+     3402.0
+    ],
+    [
+     1900.0,
+     3405.0
+    ],
+    [
+     2100.0,
+     3407.0
+    ]
+   ]
+  },
+  {
+   "y_value": 60.0,
+   "slope_dv_du": 0.014285714285713513,
+   "v_at_u0": 3395.8750000000023,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     3406.5
+    ],
+    [
+     900.0,
+     3408.5
+    ],
+    [
+     1100.0,
+     3411.5
+    ],
+    [
+     1300.0,
+     3414.0
+    ],
+    [
+     1500.0,
+     3417.0
+    ],
+    [
+     1700.0,
+     3420.0
+    ],
+    [
+     1900.0,
+     3423.5
+    ],
+    [
+     2100.0,
+     3426.0
+    ]
+   ]
+  },
+  {
+   "y_value": 61.0,
+   "slope_dv_du": 0.01422619047618986,
+   "v_at_u0": 3410.0833333333353,
+   "source": "detected in 8/8 bands; unlabelled line, named by the 1 pcf subdivision: four lines between labels 5 pcf apart, each within 6.3 px of its 1/value position in its interval; 23 and 24 are the two lines above 25, spaced 100.6 and 111.4 px (1 pcf steps on the reciprocal scale)",
+   "samples": [
+    [
+     700.0,
+     3420.5
+    ],
+    [
+     900.0,
+     3423.0
+    ],
+    [
+     1100.0,
+     3426.0
+    ],
+    [
+     1300.0,
+     3427.5
+    ],
+    [
+     1500.0,
+     3431.0
+    ],
+    [
+     1700.0,
+     3434.0
+    ],
+    [
+     1900.0,
+     3438.0
+    ],
+    [
+     2100.0,
+     3440.0
+    ]
+   ]
+  },
+  {
+   "y_value": 65.0,
+   "slope_dv_du": 0.014761904761904442,
+   "v_at_u0": 3474.458333333335,
+   "source": "detected in 8/8 bands",
+   "samples": [
+    [
+     700.0,
+     3484.5
+    ],
+    [
+     900.0,
+     3488.0
+    ],
+    [
+     1100.0,
+     3491.0
+    ],
+    [
+     1300.0,
+     3493.5
+    ],
+    [
+     1500.0,
+     3496.5
+    ],
+    [
+     1700.0,
+     3499.5
+    ],
+    [
+     1900.0,
+     3502.5
+    ],
+    [
+     2100.0,
+     3505.5
+    ]
+   ]
+  }
+ ],
+ "x_direction": "right",
+ "y_direction": "down",
+ "y_transform": "reciprocal"
+}

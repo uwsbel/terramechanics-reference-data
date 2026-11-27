@@ -1,0 +1,21 @@
+{
+ "image": "packet/p0148.png", "cal_dir": "out/FC-12/cal-p1", "tools_dir": "tools",
+ "figure_id": "FC-12", "series_id": "rc2-loose", "out": "out/FC-12",
+ "line_p1": [600, 3668], "line_p2": [1935, 2433],
+ "triangles": [[609,3644,651,3683],[787,3478,829,3520],[1080,3138,1123,3180],[1245,3013,1288,3054],
+               [1414,2894,1462,2935],[1672,2622,1717,2664],[1846,2486,1889,2527],[1927,2381,1972,2423]],
+ "line_mask": ["all", [809,830], "none", "none", "none", [1700,1720], [1870,1892], [1900,1950]],
+ "tri_opts": [{"mirror": "left", "rows": [3656, 3670]}, {}, {}, {}, {}, {"mirror": "right", "rows": [2636, 2652], "method": "edge"}, {}, {"base_cols": [1952, 1965]}],
+ "tri_bounds": [[3,6],[2,5.5],[2,5.5],[2,5.5],[2,5.5],[3,6],[2,5.5],[2,5.5]],
+ "tri_notes": ["apex and upper left side lie under the drawn line, which touches the symbol; left side taken as the mirror of the right side about the base midpoint (the other symbols are isosceles)",
+               "sits in a gap of the drawn line",
+               "apex touches the y = 2000 grid line",
+               "sits in a gap of the drawn line",
+               "sits in a gap of the drawn line; right base corner touches the x = 3000 grid line",
+               "lower right side covered by the start of the next dash; right side taken as the mirror of the left side about the base midpoint",
+               "sits in a gap of the drawn line",
+               "the drawn line ends in its base; base centre read on the clean right part of the base"],
+ "left_end": {"u": 583.5, "side": "right", "bu": 4.5, "bv": 9.5, "note": "the line runs into the left frame (x = 0 line); its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width"},
+ "right_end": {"u": 1948.5, "side": "left", "bu": 4.5, "bv": 9.5, "note": "the line runs into the base of the last triangle; its end is hidden in the base stroke (the triangle's hole stays white, so it ends before u 1952)"},
+ "intercept": {"u": 583.5, "side": "right", "bu": 1, "bv": 5.5, "note": "the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line"}
+}

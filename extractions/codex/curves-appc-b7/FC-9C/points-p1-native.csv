@@ -1,0 +1,24 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_target_psf,x_unit,y_unit,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-9C,1,rs-dense,marker,1,555.0,3623.0,5,8,triangle-up,"Triangle centroid from reconstructed vertices. Zero-axis line runs through triangle; centroid lies slightly left of axis, retained as read.",,psf,psf,-17.333,472.137,20.529,28.449,piecewise extrapolated x
+FC-9C,1,rs-dense,marker,2,638.0,3464.0,5,8,triangle-up,Triangle centroid from reconstructed vertices. 100.00 horizontal grid line crosses triangle; centroid reconstructed.,,psf,psf,267.199,1004.411,20.108,28.933,piecewise
+FC-9C,1,rs-dense,marker,3,723.333,3339.0,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,559.039,1429.932,9.616,18.723,piecewise
+FC-9C,1,rs-dense,marker,4,851.333,3239.333,5,8,triangle-up,Triangle centroid from reconstructed vertices. Vertical grid line runs through triangle; centroid reconstructed.,,psf,psf,995.154,1769.318,19.788,28.94,piecewise
+FC-9C,1,rs-dense,marker,5,981.333,2995.333,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,1450.188,2601.41,9.817,18.83,piecewise
+FC-9C,1,rs-dense,marker,6,1148.333,2948.0,5,8,triangle-up,Triangle centroid from reconstructed vertices. Left base touches vertical grid line; reconstructed from visible sides.,,psf,psf,2029.3,2762.942,20.628,29.077,piecewise
+FC-9C,1,rs-dense,marker,7,1232.333,2643.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,2324.703,3809.557,9.798,19.012,piecewise
+FC-9C,1,rs-dense,marker,8,1402.333,2625.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. Right base near vertical grid; centroid reconstructed.,,psf,psf,2911.54,3871.76,19.393,29.358,piecewise
+FC-9C,1,rs-dense,marker,9,1405.333,2445.0,5,8,triangle-up,Triangle centroid from reconstructed vertices. Right vertex touches vertical grid; centroid reconstructed.,,psf,psf,2925.381,4500.627,19.377,30.659,piecewise
+FC-9C,1,rs-dense,marker,10,1580.333,2301.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. 500.00 horizontal grid line crosses triangle; centroid reconstructed.,,psf,psf,3526.558,5000.086,19.645,31.43,piecewise
+FC-9C,1,rs-dense,marker,11,1750.333,2305.333,5,8,triangle-up,Triangle centroid from reconstructed vertices. 500.00 horizontal grid line crosses triangle; centroid reconstructed.,,psf,psf,4107.608,4986.669,20.245,31.382,piecewise
+FC-9C,1,rs-dense,trace,1,559.751,3559.105,8.202,9.5,,first point; line begins on zero axis; centre of short diagonal stroke meeting axis ink,,psf,psf,-0.001,685.988,31.382,33.472,piecewise extrapolated x
+FC-9C,1,rs-dense,trace,2,706.219,3390.0,8.202,9.5,,,500,psf,psf,500.002,1256.326,30.807,34.044,piecewise
+FC-9C,1,rs-dense,trace,3,996.01,3048.0,3.885,4.5,,Sample lies on rounded stroke-cap ink adjacent to a symbol interruption; no sample in the white gap.,1500,psf,psf,1500.001,2421.74,16.385,17.107,piecewise
+FC-9C,1,rs-dense,trace,4,1139.517,2887.876,8.202,9.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,2000,psf,psf,2000.0,2968.019,31.81,34.238,piecewise
+FC-9C,1,rs-dense,trace,5,1283.56,2719.5,5.181,6.0,,Sample lies on rounded stroke-cap ink adjacent to a symbol interruption; no sample in the white gap.,2500,psf,psf,2500.0,3548.161,20.558,22.48,piecewise
+FC-9C,1,rs-dense,trace,6,1427.565,2552.961,8.202,9.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3000,psf,psf,3000.001,4123.929,30.363,35.213,piecewise
+FC-9C,1,rs-dense,trace,7,1573.03,2383.5,7.771,9.0,,,3500,psf,psf,3500.002,4714.809,29.107,34.526,piecewise
+FC-9C,1,rs-dense,trace,8,1718.448,2215.204,8.202,9.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,4000,psf,psf,3999.999,5294.808,31.263,35.504,piecewise
+FC-9C,1,rs-dense,trace,9,1740.5,2187.0,8.202,9.5,,last point; peak of monotonically increasing straight trace,,psf,psf,4076.259,5391.053,31.263,35.33,piecewise
+FC-9C,1,rs-dense,feature,1,559.751,3559.105,8.202,9.5,,first point,,psf,psf,-0.001,685.988,31.382,33.472,piecewise extrapolated x
+FC-9C,1,rs-dense,feature,2,1740.5,2187.0,8.202,9.5,,last point; peak of monotonically increasing straight trace,,psf,psf,4076.259,5391.053,31.263,35.33,piecewise
+FC-9C,1,rs-dense,feature,3,559.751,3559.105,8.202,9.5,,intercept,,psf,psf,-0.001,685.988,31.382,33.472,piecewise extrapolated x

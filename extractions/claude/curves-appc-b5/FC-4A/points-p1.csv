@@ -1,0 +1,57 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-4A,1,dr95,marker,1,1136.5,2766.0,2,2,square,left tick mark at u 1120-1122 beside the square is not part of it; square sits below the start of the solid line
+FC-4A,1,dr95,marker,2,1421.5,2200.5,2,2,square,square left of the line; line has a gap beside it (u 1462-1491)
+FC-4A,1,dr95,marker,3,1770.5,1871.0,2,2,square,"square on the line (center about 5 px below the line centerline), drawn in a gap of the line (u 1750-1792); top edge broken"
+FC-4A,1,dr95,marker,4,2031.5,1382.5,2,2,square,"square clearly above the line; bottom edge mostly unprinted, sides and corners clear"
+FC-4A,1,dr95,marker,5,2280.5,1353.5,2,2,square,square clearly below the dashed upper extension of the line
+FC-4A,1,dr0,marker,1,1147.5,3257.5,3,4,circle,"circle touching the solid line from below: its top arc is hidden under the line ink; center from the left and right arcs (u 1132-1163), the bottom arc (v 3273) and the height of the other circles (33 to 35 px); bound widened"
+FC-4A,1,dr0,marker,2,1438.0,2915.0,2,2,circle,circle above the line; line has a gap beside it (u 1460-1470)
+FC-4A,1,dr0,marker,3,1780.0,2685.0,2,2,circle,"circle just below the line, beside a gap of the line (u 1750-1773)"
+FC-4A,1,dr0,marker,4,2034.0,2401.0,2,2,circle,"circle on the line, in a line gap (u 2024-2054); a stray horizontal stroke runs right from the line at v 2389-2395, u 2054-2112"
+FC-4A,1,dr0,marker,5,2290.0,2159.5,2,2,circle,circle at the end of the solid part; dashed extension starts right of it
+FC-4A,1,dr95,trace,1,922.5,3000.3,4.5,8.0,,"left end; dashed; the first dash meets the shear-stress axis: point is the straight centerline of the left dashes at the calibrated sigma=0 line; ink at the junction spans v 2984-3001 (center 2992.5), bound widened to 8 px to cover it"
+FC-4A,1,dr95,trace,2,1003,2892.0,4.5,4.5,,dashed; sampling column 995 for sigma 250 falls on a dash gap; sampled at the nearest full-width ink column
+FC-4A,1,dr95,trace,3,1065,2808.5,4.5,4.5,,dashed; sampling column 1068 for sigma 500 falls on the rounded end of an ink segment (dash or line piece); sampled at the nearest full-width ink column
+FC-4A,1,dr95,trace,4,1141,2706.5,4.5,4.5,,
+FC-4A,1,dr95,trace,5,1213,2611.0,4.5,4.5,,
+FC-4A,1,dr95,trace,6,1286,2512.0,4.5,4.5,,
+FC-4A,1,dr95,trace,7,1359,2417.0,4.5,4.5,,
+FC-4A,1,dr95,trace,8,1432,2318.0,4.5,4.5,,
+FC-4A,1,dr95,trace,9,1504,2224.0,4.5,4.5,,
+FC-4A,1,dr95,trace,10,1577,2124.0,4.5,4.5,,
+FC-4A,1,dr95,trace,11,1650,2029.0,4.5,4.5,,
+FC-4A,1,dr95,trace,12,1723,1930.0,4.5,4.5,,
+FC-4A,1,dr95,trace,13,1799,1828.0,4.5,4.5,,sampling column 1795 for sigma 3000 falls on the rounded end of an ink segment (dash or line piece); sampled at the nearest full-width ink column
+FC-4A,1,dr95,trace,14,1868,1736.0,4.5,4.5,,
+FC-4A,1,dr95,trace,15,1941,1639.5,4.5,4.5,,
+FC-4A,1,dr95,trace,16,2014,1540.5,4.5,4.5,,
+FC-4A,1,dr95,trace,17,2101,1425.5,4.5,4.5,,sampling column 2086 for sigma 4000 falls on a gap in the line; sampled at the nearest full-width ink column
+FC-4A,1,dr95,trace,18,2159,1347.0,4.5,4.5,,
+FC-4A,1,dr95,trace,19,2226,1256.0,4.5,4.5,,dashed; sampling column 2232 for sigma 4500 falls on the rounded end of an ink segment (dash or line piece); sampled at the nearest full-width ink column
+FC-4A,1,dr95,trace,20,2305,1151.5,4.5,4.5,,dashed
+FC-4A,1,dr95,trace,21,2378.5,1049.0,4.5,4.5,,"right end; dashed; tip of the last dash, above the top frame (beyond tau = 8000) at sigma about 5000; serves as the 5000 psf sample"
+FC-4A,1,dr0,trace,1,922.8,3451.0,4.5,6.0,,"left end; dashed; the first dash meets the shear-stress axis: point is the straight centerline of the left dashes at the calibrated sigma=0 line; ink at the junction (u 927) is centered about 2.8 px above that line, bound widened to 6 px"
+FC-4A,1,dr0,trace,2,989,3390.5,4.5,4.5,,dashed; sampling column 995 for sigma 250 falls on a dash gap; sampled at the nearest full-width ink column
+FC-4A,1,dr0,trace,3,1068,3315.5,4.5,4.5,,dashed
+FC-4A,1,dr0,trace,4,1125,3262.5,4.5,4.5,,sampling column 1141 for sigma 750 falls on a plotted symbol outline (where the line merges with or breaks around the symbol); sampled at the nearest full-width ink column
+FC-4A,1,dr0,trace,5,1213,3181.5,4.5,4.5,,
+FC-4A,1,dr0,trace,6,1286,3111.5,4.5,4.5,,
+FC-4A,1,dr0,trace,7,1359,3044.5,4.5,4.5,,
+FC-4A,1,dr0,trace,8,1432,2975.5,4.5,4.5,,
+FC-4A,1,dr0,trace,9,1504,2908.5,4.5,4.5,,
+FC-4A,1,dr0,trace,10,1577,2839.5,4.5,4.5,,
+FC-4A,1,dr0,trace,11,1650,2771.5,4.5,4.5,,
+FC-4A,1,dr0,trace,12,1723,2703.5,4.5,4.5,,
+FC-4A,1,dr0,trace,13,1795,2636.5,4.5,4.5,,
+FC-4A,1,dr0,trace,14,1868,2568.5,4.5,4.5,,
+FC-4A,1,dr0,trace,15,1941,2500.5,4.5,4.5,,
+FC-4A,1,dr0,trace,16,2014,2431.0,4.5,4.5,,
+FC-4A,1,dr0,trace,17,2087,2363.5,4.5,4.5,,
+FC-4A,1,dr0,trace,18,2159,2294.5,4.5,4.5,,
+FC-4A,1,dr0,trace,19,2232,2227.5,4.5,4.5,,
+FC-4A,1,dr0,trace,20,2315,2148.0,4.5,4.5,,dashed; sampling column 2305 for sigma 4750 falls on a plotted symbol outline (where the line merges with or breaks around the symbol); sampled at the nearest full-width ink column
+FC-4A,1,dr0,trace,21,2377.6,2091.5,4.5,4.5,,right end; dashed; last dash runs into the right frame line (sigma = 5000) and nothing is drawn beyond it; point is the dash centerline at the frame center; serves as the 5000 psf sample
+FC-4A,1,dr95,feature,1,922.5,3000.3,4.5,8.0,,intercept
+FC-4A,1,dr95,feature,2,1587.5,2037.5,6,6,,label: 53°
+FC-4A,1,dr0,feature,1,922.8,3451.0,4.5,6.0,,intercept
+FC-4A,1,dr0,feature,2,1802.5,2571.0,6,6,,label: 43°

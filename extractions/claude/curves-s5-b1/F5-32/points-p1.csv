@@ -1,0 +1,44 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F5-32,1,strut3,trace,1,1357.0,3500.0,3.2,3.2,,first ink of the trace
+F5-32,1,strut3,trace,2,1336.8,3468.8,3.2,3.2,,t = 0.002 s
+F5-32,1,strut3,trace,3,1313.4,3446.1,3.0,3.0,,-10 lb level on a steep part
+F5-32,1,strut3,trace,4,1300.8,3434.6,3.0,3.0,,t = 0.004 s
+F5-32,1,strut3,trace,5,1292.0,3426.7,2.9,2.9,,-15 lb level on a steep part
+F5-32,1,strut3,trace,6,1277.5,3400.3,2.4,2.4,,t = 0.006 s
+F5-32,1,strut3,trace,7,1291.6,3383.2,3.1,3.1,,-15 lb level on a steep part
+F5-32,1,strut3,trace,8,1309.2,3365.6,3.0,3.0,,t = 0.008 s
+F5-32,1,strut3,trace,9,1312.6,3362.5,3.0,3.0,,-10 lb level on a steep part
+F5-32,1,strut3,trace,10,1333.6,3342.4,3.0,3.0,,-5 lb level on a steep part
+F5-32,1,strut3,trace,11,1346.5,3330.9,3.9,3.9,,t = 0.01 s; trace over a load grid line here (bound widened 1 px)
+F5-32,1,strut3,trace,12,1355.5,3322.0,3.1,3.1,,"+0 lb level on a steep part; moved 2 px along the trace off the grid line it crosses here, to the trace's own ink"
+F5-32,1,strut3,trace,13,1374.5,3296.8,3.0,3.0,,t = 0.012 s
+F5-32,1,strut3,trace,14,1357.5,3264.0,3.6,3.6,,"t = 0.014 s; moved 3 px along the trace off the grid line it crosses here, to the trace's own ink; trace over a load grid line here (bound widened 1 px)"
+F5-32,1,strut3,trace,15,1338.5,3229.2,2.8,2.8,,t = 0.016 s
+F5-32,1,strut3,trace,16,1334.5,3195.4,2.0,2.0,,t = 0.018 s
+F5-32,1,strut3,trace,17,1336.5,3161.4,2.5,2.5,,t = 0.02 s
+F5-32,1,strut3,trace,18,1342.0,3076.2,3.0,3.0,,t = 0.025 s
+F5-32,1,strut3,trace,19,1336.5,2991.0,2.5,2.5,,t = 0.03 s
+F5-32,1,strut3,trace,20,1333.0,2905.9,2.5,2.5,,t = 0.035 s
+F5-32,1,strut3,trace,21,1340.5,2820.8,2.5,2.5,,t = 0.04 s
+F5-32,1,strut3,trace,22,1347.5,2735.4,3.0,3.0,,t = 0.045 s
+F5-32,1,strut3,trace,23,1346.5,2649.0,4.0,4.0,,"t = 0.05 s; moved 1 px along the trace off the grid line it crosses here, to the trace's own ink; trace over a load grid line here (bound widened 1 px)"
+F5-32,1,strut3,trace,24,1341.0,2564.3,2.0,2.0,,t = 0.055 s
+F5-32,1,strut3,trace,25,1329.5,2478.7,2.5,2.5,,t = 0.06 s
+F5-32,1,strut3,trace,26,1311.5,2393.7,2.5,2.5,,t = 0.065 s
+F5-32,1,strut3,trace,27,1293.5,2308.7,2.5,2.5,,t = 0.07 s
+F5-32,1,strut3,trace,28,1274.5,2224.1,2.3,2.3,,t = 0.075 s
+F5-32,1,strut3,trace,29,1256.1,2139.6,3.9,3.9,,t = 0.08 s; trace over a load grid line here (bound widened 1 px)
+F5-32,1,strut3,trace,30,1240.0,2054.4,2.5,2.5,,t = 0.085 s
+F5-32,1,strut3,trace,31,1231.5,1969.1,2.5,2.5,,t = 0.09 s
+F5-32,1,strut3,trace,32,1228.5,1883.9,3.0,3.0,,t = 0.095 s
+F5-32,1,strut3,trace,33,1232.5,1798.6,3.0,3.0,,t = 0.1 s
+F5-32,1,strut3,trace,34,1237.5,1745.5,2.5,2.5,,last ink of the trace
+F5-32,1,strut3,feature,1,1357.0,3500.0,4.2,4.2,,first: the trace's ink meets the bottom frame (t = 0) at the 0 lb line; the last 15 px before the frame run over the 0 lb grid line
+F5-32,1,strut3,feature,2,1277.5,3406.0,2.6,2.6,,"peak: sharp vertex of the first compression pulse, about -18 lb at t about 0.0057 s"
+F5-32,1,strut3,feature,3,1374.5,3298.0,3.0,3.0,,"knee, minimum: the trace dips below the 0 lb line (about +5 lb as the scale gives it) at t about 0.012 s"
+F5-32,1,strut3,feature,4,1334.5,3205.0,2.0,2.0,,"peak: small rounded maximum of compression, about -4.5 lb at t about 0.017 s"
+F5-32,1,strut3,feature,5,1342.5,3052.0,3.0,3.0,,"knee, minimum: shallow, about -2 lb at t about 0.026 s"
+F5-32,1,strut3,feature,6,1333.0,2944.0,2.5,2.5,,"peak: shallow, about -4 lb at t about 0.033 s"
+F5-32,1,strut3,feature,7,1348.0,2682.0,4.0,4.0,,"knee, minimum: flat stretch on the 0 lb grid line from t about 0.043 to 0.055 s (trace merged with the grid line, its centre known to about 1.5 px); value about 0 lb, t of the minimum ill defined"
+F5-32,1,strut3,feature,8,1228.0,1885.0,3.0,3.0,,"peak: rounded maximum of compression, about -26.5 lb at t about 0.095 s (beyond the last verified time line 0.09: extrapolated in t)"
+F5-32,1,strut3,feature,9,1237.5,1745.5,2.5,2.5,,"last: top of the trace's ink, t about 0.103 s, beyond the printed 0.10 (extrapolated in t)"

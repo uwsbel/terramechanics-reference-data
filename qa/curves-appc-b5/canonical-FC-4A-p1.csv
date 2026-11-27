@@ -1,0 +1,60 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-4A,1,dr0,feature,1,922.86,3444.13,5.0,5.0,,intercept,0.005,146.146,18.989,22.129,piecewise extrapolated x,agreed,codex,-0.083,121.065,,922.8,3451.0
+FC-4A,1,dr0,feature,2,1802.5,2571,3,3,,label: 43°,3007.834,3150.989,12.07,12.074,piecewise,agreed,codex,3024.271,3165.015,,1802.5,2571.0
+FC-4A,1,dr0,marker,1,1148.1,3258.9,2,2,circle,,773.273,780.572,8.597,12.023,piecewise,agreed,codex,772.658,791.155,,1147.5,3257.5
+FC-4A,1,dr0,marker,2,1438.3,2914.1,2,2,circle,,1756.221,1964.752,8.427,11.472,piecewise,agreed,codex,1771.539,1974.953,,1438.0,2915.0
+FC-4A,1,dr0,marker,3,1779.9,2684.4,2,2,circle,,2929.373,2760.538,8.63,9.349,piecewise,resolved,codex,2946.909,2772.482,both readings are on the symbol center; the difference is within its size (blind adjudication item 246 (Claude's adjudicator: both; Codex's: both)),1780.0,2685.0
+FC-4A,1,dr0,marker,4,2034.5,2401.3,2,2,circle,,3807.272,3737.719,8.615,8.622,piecewise,resolved,codex,3819.645,3753.939,both readings are on the symbol center; the difference is within its size (blind adjudication item 115 (Claude's adjudicator: both; Codex's: both)),2034.0,2401.0
+FC-4A,1,dr0,marker,5,2294,2163,2,2,circle,,4713.991,4557.736,14.051,8.578,piecewise,resolved,codex,4698.986,4589.092,both readings are on the symbol center; the difference is within its size (blind adjudication item 116 (Claude's adjudicator: both; Codex's: both)),2290.0,2159.5
+FC-4A,1,dr0,trace,1,922.8,3451.0,4.5,6.0,,"left end; dashed; the first dash meets the shear-stress axis: point is the straight centerline of the left dashes at the calibrated sigma=0 line; ink at the junction (u 927) is centered about 2.8 px above that line, bound widened to 6 px",-0.083,121.065,17.213,23.755,piecewise extrapolated x,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 247 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4A,1,dr0,trace,1,923,3444,5.0,5.0,,left end; dashed,0.486,146.591,18.987,22.129,piecewise extrapolated x,one-sided-verified,codex,0.486,121.588,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 118 (Claude's adjudicator: all yes; Codex's: all yes)",923.0,3450.8
+FC-4A,1,dr0,trace,2,992,3389.0,4.5,4.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=234.2 psf,237.295,334.967,17.201,20.467,piecewise,agreed,codex,237.295,339.768,,991.8,3387.8
+FC-4A,1,dr0,trace,3,1069,3315.0,6.5,6.5,,dashed,501.676,588.231,24.062,27.378,piecewise,agreed,codex,501.676,592.304,,1068.7,3314.9
+FC-4A,1,dr0,trace,4,1158,3232.5,6.0,6.0,,target x=750 psf falls in a gap/marker/grid interference; nearest visible ink at x=804.1 psf,807.354,870.685,22.339,25.74,piecewise,agreed,codex,807.354,877.326,,1157.6,3232.5
+FC-4A,1,dr0,trace,5,1215,3178.5,6.0,6.0,,,1003.13,1055.848,22.275,25.874,piecewise,agreed,codex,1003.130,1058.914,,1214.5,3180.0
+FC-4A,1,dr0,trace,6,1288,3109.5,6.0,6.0,,,1249.245,1293.269,21.914,25.708,piecewise,agreed,codex,1249.245,1296.398,,1286.1,3111.4
+FC-4A,1,dr0,trace,7,1361,3041.5,6.0,6.0,,,1495.355,1527.265,21.914,25.546,piecewise,agreed,codex,1495.355,1523.780,,1357.7,3045.7
+FC-4A,1,dr0,trace,8,1433,2974.5,6.0,6.0,,,1738.094,1757.821,21.914,25.385,piecewise,agreed,codex,1738.094,1754.582,,1428.3,2979.0
+FC-4A,1,dr0,trace,9,1506,2906.5,6.0,6.0,,,1984.204,1991.816,22.061,25.238,piecewise,agreed,codex,1984.204,1985.299,,1499.9,2912.3
+FC-4A,1,dr0,trace,10,1579,2838.5,5.0,5.0,,,2235.874,2226.978,18.99,21.283,piecewise,agreed,codex,2235.874,2224.526,,1573.1,2843.2
+FC-4A,1,dr0,trace,11,1652,2769.5,5.0,5.0,,,2487.929,2465.625,18.99,20.598,piecewise,agreed,codex,2487.929,2461.062,,1646.4,2774.8
+FC-4A,1,dr0,trace,12,1725,2701.5,6.0,6.0,,,2739.98,2700.829,22.443,23.391,piecewise,agreed,codex,2739.980,2697.416,,1719.8,2706.5
+FC-4A,1,dr0,trace,13,1798,2634.5,6.0,6.0,,,2992.026,2932.59,22.443,22.726,piecewise,agreed,codex,2992.026,2933.542,,1793.1,2638.2
+FC-4A,1,dr0,trace,14,1870,2566.5,6.0,6.0,,,3240.214,3167.491,22.404,22.429,piecewise,agreed,codex,3240.214,3166.279,,1865.4,2571.0
+FC-4A,1,dr0,trace,15,1943,2497.5,6.0,6.0,,,3491.836,3405.727,22.404,22.429,piecewise,agreed,codex,3491.836,3402.249,,1938.6,2502.7
+FC-4A,1,dr0,trace,16,2016,2429.5,7.0,7.0,,,3743.453,3640.527,25.851,25.881,piecewise,agreed,codex,3743.453,3643.225,,2011.8,2433.1
+FC-4A,1,dr0,trace,17,2089,2362.0,6.5,6.5,,,3995.068,3873.609,24.607,24.155,piecewise,agreed,codex,3995.068,3877.680,,2085.1,2365.3
+FC-4A,1,dr0,trace,18,2162,2292.5,6.0,6.0,,,4251.012,4112.981,24.798,22.314,piecewise,agreed,codex,4251.012,4124.292,,2159.6,2294.0
+FC-4A,1,dr0,trace,19,2234,2225.5,7.0,7.0,,,4503.529,4343.143,30.178,25.748,piecewise,agreed,codex,4503.529,4357.811,,2233.1,2226.5
+FC-4A,1,dr0,trace,20,2320,2145.0,7.5,7.5,,dashed; target x=4750 psf falls in a gap/marker/grid interference; nearest visible ink at x=4793.7 psf,4805.147,4619.673,34.15,27.465,piecewise,agreed,codex,4805.147,4647.531,,2320.9,2142.7
+FC-4A,1,dr0,trace,21,2377,2088,5.0,5.0,,right end; dashed,5005.075,4815.417,26.892,18.88,piecewise extrapolated x,one-sided-verified,codex,5005.075,4824.496,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 248 (Claude's adjudicator: all yes; Codex's: all yes)",2377.6,2091.5
+FC-4A,1,dr95,feature,1,922.54,2993.62,5.5,5.5,,intercept,0.045,1684.521,20.731,23.715,piecewise extrapolated x,agreed,codex,-0.119,1671.797,,922.5,3000.3
+FC-4A,1,dr95,feature,2,1587.5,2037.5,3,3,,label: 53°,2269.015,4975.993,12.083,12.012,piecewise,agreed,codex,2286.065,4996.27,,1587.5,2037.5
+FC-4A,1,dr95,marker,1,1136,2766.6,2,2,square,,733.808,2467.662,8.608,10.189,piecewise,agreed,codex,735.727,2481.932,,1136.5,2766.0
+FC-4A,1,dr95,marker,2,1421.5,2201.5,2,2,square,,1702.983,4412.768,8.427,8.578,piecewise,resolved,codex,1715.71,4432.604,both readings are on the symbol center; the difference is within its size (blind adjudication item 119 (Claude's adjudicator: both; Codex's: both)),1421.5,2200.5
+FC-4A,1,dr95,marker,3,1771,1867,2,2,square,,2902.593,5559.793,8.63,9.271,piecewise,agreed,codex,2914.699,5572.204,,1770.5,1871.0
+FC-4A,1,dr95,marker,4,2034,1378,2,2,square,,3810.437,7238.344,8.615,11.331,piecewise extrapolated y,resolved,codex,3811.071,7256.876,both readings are on the symbol center; the difference is within its size (blind adjudication item 120 (Claude's adjudicator: both; Codex's: both)),2031.5,1382.5
+FC-4A,1,dr95,marker,5,2283,1348,2,2,square,,4679.422,7345.082,13.798,11.969,piecewise extrapolated y,agreed,codex,4665.97,7360.792,,2280.5,1353.5
+FC-4A,1,dr95,trace,1,922.5,3000.3,4.5,8.0,,"left end; dashed; the first dash meets the shear-stress axis: point is the straight centerline of the left dashes at the calibrated sigma=0 line; ink at the junction spans v 2984-3001 (center 2992.5), bound widened to 8 px to cover it",-0.119,1671.797,17.213,30.448,piecewise extrapolated x,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 249 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4A,1,dr95,trace,1,923,2993,5.5,5.5,,left end; dashed,1.625,1686.651,20.726,23.713,piecewise extrapolated x,one-sided-verified,codex,1.625,1674.154,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 121 (Claude's adjudicator: all yes; Codex's: all yes)",923.0,2999.6
+FC-4A,1,dr95,trace,2,999,2894.0,5.5,5.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=260.5 psf,262.845,2026.996,20.656,23.59,piecewise,agreed,codex,262.845,2027.149,,999.0,2897.4
+FC-4A,1,dr95,trace,3,1069,2805.5,5.0,5.0,,dashed,503.535,2332.722,18.932,20.979,piecewise,agreed,codex,503.535,2352.680,,1068.9,2803.2
+FC-4A,1,dr95,trace,4,1141,2706.5,8.0,8.0,,,751.235,2674.624,29.246,30.401,piecewise,agreed,codex,751.235,2686.642,,1141.0,2706.5
+FC-4A,1,dr95,trace,5,1214,2610.0,7.5,7.5,,,1002.418,3007.921,27.475,27.697,piecewise,agreed,codex,1002.418,3021.480,,1214.0,2609.6
+FC-4A,1,dr95,trace,6,1287,2512.0,8.5,8.5,,,1248.669,3345.814,30.343,31.059,piecewise,agreed,codex,1248.669,3356.992,,1285.7,2512.4
+FC-4A,1,dr95,trace,7,1360,2414.5,8.0,8.0,,,1494.917,3681.989,28.657,29.333,piecewise,agreed,codex,1494.917,3679.082,,1357.3,2419.2
+FC-4A,1,dr95,trace,8,1433,2316.0,7.5,7.5,,,1741.169,4021.49,26.971,27.496,piecewise,agreed,codex,1741.169,4014.316,,1429.0,2322.1
+FC-4A,1,dr95,trace,9,1505,2220.0,7.5,7.5,,,1984.043,4350.797,27.237,27.465,piecewise,agreed,codex,1984.043,4333.516,,1499.6,2229.7
+FC-4A,1,dr95,trace,10,1578,2124.0,7.5,7.5,,,2235.843,4680.12,27.622,27.465,piecewise,agreed,codex,2235.843,4679.152,,1572.9,2129.6
+FC-4A,1,dr95,trace,11,1651,2027.0,7.5,7.5,,,2488.032,5012.817,27.622,27.423,piecewise,agreed,codex,2488.032,5009.990,,1646.3,2033.8
+FC-4A,1,dr95,trace,12,1724,1927.5,8.0,8.0,,,2740.234,5352.943,29.349,29.568,piecewise,agreed,codex,2740.234,5353.034,,1719.7,1934.5
+FC-4A,1,dr95,trace,13,1796,1830.0,6.5,6.5,,,2988.978,5686.239,24.169,24.852,piecewise,agreed,codex,2988.978,5688.742,,1792.1,1837.2
+FC-4A,1,dr95,trace,14,1869,1736.0,7.5,7.5,,,3240.738,6007.678,27.575,28.836,piecewise,agreed,codex,3240.738,6026.374,,1865.4,1739.4
+FC-4A,1,dr95,trace,15,1942,1637.0,7.5,7.5,,,3492.503,6348.422,27.575,28.825,piecewise,agreed,codex,3492.503,6361.049,,1938.7,1642.5
+FC-4A,1,dr95,trace,16,2015,1538.5,9.0,9.0,,,3744.265,6687.451,32.745,33.981,piecewise,agreed,codex,3744.265,6704.007,,2012.0,1543.2
+FC-4A,1,dr95,trace,17,2096,1426.5,5.0,5.0,,target x=4000 psf falls in a gap/marker/grid interference; nearest visible ink at x=4029.1 psf,4024.045,7072.914,19.606,20.741,piecewise extrapolated y,agreed,codex,4024.045,7076.065,,2093.5,1435.4
+FC-4A,1,dr95,trace,18,2160,1347.0,7.5,7.5,,dashed,4248.601,7346.625,30.08,31.044,piecewise extrapolated y,agreed,codex,4248.601,7380.813,,2158.9,1347.1
+FC-4A,1,dr95,trace,19,2231,1253.0,3.5,3.5,,dashed; target x=4500 psf falls in a gap/marker/grid interference; nearest visible ink at x=4492.8 psf,4497.746,7670.185,17.77,19.114,piecewise extrapolated y,agreed,codex,4497.746,7720.371,,2231.5,1248.7
+FC-4A,1,dr95,trace,20,2306,1150.0,7.5,7.5,,dashed,4760.944,8024.682,33.827,35.101,piecewise extrapolated y,agreed,codex,4760.944,8071.258,,2308.2,1147.0
+FC-4A,1,dr95,trace,21,2379,1053.5,7.0,7.0,,dashed,5017.107,8356.85,34.114,35.355,piecewise extrapolated x y,one-sided-verified,codex,5017.107,8409.588,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 250 (Claude's adjudicator: all yes; Codex's: all yes)",2378.5,1049.0
+FC-4A,1,dr95,trace,22,2380,1053.5,6.0,6.0,,right end; dashed; above plot frame,5020.609,8356.865,30.606,31.889,piecewise extrapolated x y,one-sided-verified,codex,5020.609,8409.588,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 122 (Claude's adjudicator: all yes; Codex's: all yes)",2378.5,1049.0

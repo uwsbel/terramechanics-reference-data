@@ -1,0 +1,49 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F5-25,1,strut3,trace,1,1249.0,3523.0,3.0,3.0,,ink starts: the trace comes down along the 0 line into the baseline (the t = 0 line); below v 3524 its ink is lost in the baseline,0.00018053,-0.0445,0.00020703,0.9035,piecewise extrapolated y
+F5-25,1,strut3,trace,2,1242.5,3492.02,2.8,2.8,,time sample t = 0.002 s,0.00200008,1.4952,0.00020009,0.8403,piecewise
+F5-25,1,strut3,trace,3,1227.56,3470.95,3.2,3.2,,5 lb sample at 5 lb,0.0032357,5.0011,0.00022698,0.9363,piecewise
+F5-25,1,strut3,trace,4,1206.5,3457.88,3.0,3.0,,time sample t = 0.004 s,0.00399986,9.9326,0.00021715,0.8924,piecewise
+F5-25,1,strut3,trace,5,1184.86,3444.7,3.2,3.2,,5 lb sample at 15 lb,0.00476986,15.0003,0.00023095,0.9425,piecewise
+F5-25,1,strut3,trace,6,1163.47,3431.75,2.6,2.6,,5 lb sample at 20 lb; across a grid line,0.00552589,20.0098,0.00019749,0.8037,piecewise
+F5-25,1,strut3,trace,7,1151.5,3423.63,3.1,3.1,,time sample t = 0.006 s,0.00599996,22.7893,0.00022824,0.9072,piecewise
+F5-25,1,strut3,trace,8,1141.97,3419.59,3.1,3.1,,5 lb sample at 25 lb,0.00623503,25.0002,0.00022883,0.8998,piecewise
+F5-25,1,strut3,trace,9,1120.43,3406.43,3.3,3.3,,5 lb sample at 30 lb,0.00700233,29.9998,0.00024262,0.9298,piecewise
+F5-25,1,strut3,trace,10,1098.89,3392.61,2.9,2.9,,5 lb sample at 35 lb,0.00780778,34.9991,0.00022109,0.8199,piecewise
+F5-25,1,strut3,trace,11,1094.0,3389.31,2.9,2.9,,time sample t = 0.008 s,0.00800009,36.134,0.00022159,0.8161,piecewise
+F5-25,1,strut3,trace,12,1077.43,3370.5,2.9,2.9,,5 lb sample at 40 lb; across a grid line,0.00909851,39.9843,0.00022448,0.8158,piecewise
+F5-25,1,strut3,trace,13,1066.5,3355.07,2.6,2.6,,time sample t = 0.01 s,0.00999983,42.5713,0.00021031,0.7487,piecewise
+F5-25,1,strut3,trace,14,1049.5,3321.22,2.8,2.8,,time sample t = 0.012 s,0.01200008,46.6036,0.00021803,0.8018,piecewise
+F5-25,1,strut3,trace,15,1042.5,3287.42,3.0,3.0,,time sample t = 0.014 s,0.01399999,48.2785,0.00022465,0.8517,piecewise
+F5-25,1,strut3,trace,16,1043.5,3253.66,3.0,3.0,,time sample t = 0.016 s,0.01599971,48.0662,0.00021934,0.8516,piecewise
+F5-25,1,strut3,trace,17,1050.5,3219.92,2.8,2.8,,time sample t = 0.018 s,0.01799999,46.4375,0.0002021,0.8022,piecewise
+F5-25,1,strut3,trace,18,1060.5,3186.2,2.9,2.9,,time sample t = 0.02 s,0.02000003,44.0995,0.00020276,0.8229,piecewise
+F5-25,1,strut3,trace,19,1068.5,3100.16,3.0,3.0,,time sample t = 0.025 s,0.02500025,42.2671,0.00020424,0.8446,piecewise
+F5-25,1,strut3,trace,20,1071.0,3014.1,2.5,2.5,,time sample t = 0.03 s,0.03000012,41.7327,0.00017601,0.7257,piecewise
+F5-25,1,strut3,trace,21,1070.5,2928.47,2.5,2.5,,time sample t = 0.035 s,0.03500009,41.907,0.00017601,0.7265,piecewise
+F5-25,1,strut3,trace,22,1056.5,2842.76,2.5,2.5,,time sample t = 0.04 s,0.0400002,45.2777,0.00017668,0.7316,piecewise
+F5-25,1,strut3,trace,23,1042.5,2757.37,2.5,2.5,,time sample t = 0.045 s,0.0450001,48.6525,0.00017669,0.7367,piecewise
+F5-25,1,strut3,trace,24,1032.5,2672.0,2.5,2.5,,time sample t = 0.05 s,0.04999999,51.0835,0.00017671,0.7405,piecewise
+F5-25,1,strut3,trace,25,1029.0,2586.31,2.5,2.5,,time sample t = 0.055 s,0.05499978,51.9761,0.00017602,0.7423,piecewise
+F5-25,1,strut3,trace,26,1026.5,2500.62,3.0,3.0,,time sample t = 0.06 s,0.05999983,52.6326,0.0002086,0.8629,piecewise
+F5-25,1,strut3,trace,27,1035.5,2416.3,2.9,2.9,,time sample t = 0.065 s,0.06500026,50.5574,0.0002026,0.8367,piecewise
+F5-25,1,strut3,trace,28,1050.0,2332.02,2.5,2.5,,time sample t = 0.07 s,0.07000015,47.1723,0.0001787,0.7371,piecewise
+F5-25,1,strut3,trace,29,1050.5,2246.36,3.0,3.0,,time sample t = 0.075 s,0.07499975,47.1134,0.00020541,0.8569,piecewise
+F5-25,1,strut3,trace,30,1062.5,2160.77,2.8,2.8,,time sample t = 0.08 s,0.07999978,44.3175,0.0001937,0.8058,piecewise
+F5-25,1,strut3,trace,31,1080.76,2119.01,3.8,3.8,,5 lb sample at 40 lb where the center line crosses the +40 line; read from the ink run with the grid line inside it,0.08242593,39.9989,0.00025058,1.0391,piecewise
+F5-25,1,strut3,trace,32,1102.61,2081.53,2.6,2.6,,5 lb sample at 35 lb,0.08460567,34.9995,0.00018061,0.7442,piecewise
+F5-25,1,strut3,trace,33,1106.5,2074.75,2.7,2.7,,time sample t = 0.085 s,0.08499996,34.1097,0.00018644,0.7702,piecewise
+F5-25,1,strut3,trace,34,1124.46,2047.32,3.0,3.0,,5 lb sample at 30 lb,0.08659607,29.9999,0.00020395,0.853,piecewise
+F5-25,1,strut3,trace,35,1146.32,2014.76,2.6,2.6,,5 lb sample at 25 lb,0.08849098,24.9989,0.00018062,0.7768,piecewise
+F5-25,1,strut3,trace,36,1159.5,1988.8,2.6,2.6,,time sample t = 0.09 s,0.09000015,21.9892,0.00018509,0.7866,piecewise
+F5-25,1,strut3,trace,37,1168.2,1974.62,3.8,3.8,,5 lb sample at 20 lb where the center line crosses the +20 line; read from the ink run with the grid line inside it,0.09084048,20.0009,0.00026182,1.092,piecewise
+F5-25,1,strut3,trace,38,1189.59,1933.03,2.8,2.8,,5 lb sample at 15 lb,0.09330369,14.9992,0.00021672,0.8543,piecewise
+F5-25,1,strut3,trace,39,1206.5,1904.41,2.7,2.7,,time sample t = 0.095 s,0.09499985,11.0408,0.00022085,0.8284,piecewise
+F5-25,1,strut3,trace,40,1210.95,1893.89,2.8,2.8,,5 lb sample at 10 lb,0.09562261,10.001,0.00023054,0.8514,piecewise
+F5-25,1,strut3,trace,41,1232.31,1855.78,2.8,2.8,,5 lb sample at 5 lb,0.09788105,5.0004,0.000244,0.8485,piecewise
+F5-25,1,strut3,trace,42,1250.5,1819.5,3.0,3.0,,ink ends at the 0 line where the grid stops (t = 0.10); the trace merges with the top of the 0 line,0.10003037,0.7432,0.00027056,0.8952,piecewise extrapolated x
+F5-25,1,strut3,feature,1,1249.0,3523.0,3.0,3.0,,first: ink starts: the trace comes down along the 0 line into the baseline (the t = 0 line); below v 3524 its ink is lost in the baseline,0.00018053,-0.0445,0.00020703,0.9035,piecewise extrapolated y
+F5-25,1,strut3,feature,2,1244.0,3495.0,3.0,3.0,,knee: the trace leaves the 0 line and the load starts to rise (t about 0.0018 s),0.00182519,1.1426,0.00021143,0.887,piecewise
+F5-25,1,strut3,feature,3,1041.5,3272.22,2.8,27.0,,peak: first load maximum (within half a line width of the extreme from t = 0.0134 to 0.0165 s),0.01489993,48.5251,0.00164738,0.822,piecewise
+F5-25,1,strut3,feature,4,1072.5,2996.99,2.8,71.9,,"knee, minimum: local minimum between the two maxima, a flat stretch (within half a line width of the extreme from t = 0.0285 to 0.0352 s)",0.03099971,41.3892,0.00422855,0.8421,piecewise
+F5-25,1,strut3,feature,5,1025.57,2522.89,2.8,49.3,,"peak: largest load of the record, a broad top (within half a line width of the extreme from t = 0.0563 to 0.0616 s)",0.05869977,52.8368,0.00293228,0.8502,piecewise
+F5-25,1,strut3,feature,6,1250.5,1819.5,3.0,3.0,,last: ink ends at the 0 line where the grid stops (t = 0.10); the trace merges with the top of the 0 line,0.10003037,0.7432,0.00027056,0.8952,piecewise extrapolated x

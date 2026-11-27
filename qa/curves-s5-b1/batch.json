@@ -1,0 +1,39 @@
+{
+  "batch": "curves-s5-b1",
+  "source": "1968",
+  "context_pages": [324, 325],
+  "figures": {
+    "F5-24": {
+      "series": [
+        {"series_id": "pen", "role": "recorded trace, the only line", "label_printed": "Footpad Penetration Depth (NASA Test No. 1)", "soil": "RS loose, level surface"}
+      ]
+    },
+    "F5-25": {
+      "series": [
+        {"series_id": "strut3", "role": "recorded trace, the only line of panel 1 (top)", "label_printed": "(Tension) Load on Strut No. 3", "soil": "RS loose, level surface"},
+        {"series_id": "strut2", "role": "recorded trace, the only line of panel 2 (middle)", "label_printed": "(Tension) Load on Strut No. 2", "soil": "RS loose, level surface"},
+        {"series_id": "strut1", "role": "recorded trace, the only line of panel 3 (bottom)", "label_printed": "(Compression) Load on Strut No. 1", "soil": "RS loose, level surface"}
+      ]
+    },
+    "F5-31": {
+      "series": [
+        {"series_id": "pen", "role": "recorded trace, the only line", "label_printed": "Footpad Penetration Depth (NASA Test No. 2)", "soil": "RS loose, level surface"}
+      ]
+    },
+    "F5-32": {
+      "series": [
+        {"series_id": "strut3", "role": "recorded trace, the only line of panel 1 (top)", "label_printed": "(Compression) Load on Strut No. 3", "soil": "RS loose, level surface"},
+        {"series_id": "strut2", "role": "recorded trace, the only line of panel 2 (middle)", "label_printed": "(Tension) Load on Strut No. 2", "soil": "RS loose, level surface"},
+        {"series_id": "strut1", "role": "recorded trace, the only line of panel 3 (bottom)", "label_printed": "(Compression) Load on Strut No. 1", "soil": "RS loose, level surface"}
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFour figures of Section V of Volume I record two drops of the 1/6-scale Lunar Module model onto loose RS soil, NASA Test No. 1 (a vertical drop) and NASA Test No. 2 (a drop with horizontal velocity). All four are printed **sideways** (rotation 90 in the figures index: turn the page to read it); work in the pixel coordinates of the unrotated image, as always. Context pages: PDF 324 (printed 5-44, the correlation tests) and PDF 325 (Table 5-T3, the detail correlation drops); nothing on them is a point.\n\n1. **Figure 5-24** (`p0329.png`, NASA Test No. 1) and **Figure 5-31** (`p0336.png`, NASA Test No. 2): one panel each, footpad penetration depth (inches) against time (seconds, 0 to 0.1), one solid line, series `pen`.\n2. **Figure 5-25** (`p0330.png`, NASA Test No. 1) and **Figure 5-32** (`p0337.png`, NASA Test No. 2): three panels sharing the time axis (seconds, 0 to 0.10), read upright top to bottom: panel 1 Strut No. 3 (`strut3`), panel 2 Strut No. 2 (`strut2`), panel 3 Strut No. 1 (`strut1`), each the axial load in pounds, one solid line per panel. Each panel's axis title says (Tension) or (Compression), and its labels may carry a sign (`+40`, `-60`): record every label exactly as printed in `calibration-eye-checks.csv`, anchor each line at the value its printed label gives, and where a label's sign or digits break the panel's own sequence (a `-60` above `+40`, a damaged `.09`), anchor the line from the sequence, not the misprint, and say so in `notes.md`. A trace that crosses below a panel's 0 line takes values beyond 0 on that panel's scale; record them as the scale gives them. An inset diagram and the drop's conditions are printed at the right of Figures 5-25 and 5-32: they are not points; quote the conditions in `notes.md`.\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p<n>/` for each panel and `calibration-eye-checks.csv`.\n2. `points-p<n>.csv` and `points-p<n>-native.csv`: every trace as `trace` samples in drawing order from where its ink starts to where it ends: one sample every 0.002 s up to 0.02 s and every 0.005 s after, and on steep parts also one every 0.2 in (Figures 5-24 and 5-31) or every 5 lb (Figures 5-25 and 5-32), whichever spacing is finer there; plus the features of rule 3 as `feature` rows, each note **beginning with its role word**: `first`, `peak` for each local maximum, `knee, minimum` for a local minimum, `knee` for another clear bend, `last`. Bound: half the line thickness (rule 7). No markers: the figures plot no symbols.\n3. `overlay-p<n>.png` and `notes.md` (the labels as printed, any label slip and how you anchored it, the inset's conditions, where a trace is hard to follow).",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a grid line, a label or the inset; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Check every printed axis label by eye against the line you anchor it to: a label printed off its line, a label missing from an evenly spaced sequence, a label with a wrong sign or digit, or a frame that extends past the last labelled line, has misled readers before (Figure 4-19 of this report skips the label 110 on its time axis).",
+    "A thick line's center is known to within half its width: measure the width where you sample it and give that half-width as the bound, not a fixed number.",
+    "The description of a figure in this task is itself a reading and has been wrong before (it once called a dashed reference line the zero of a scale, which the printed ruler contradicted): trust the page, keep the ids given, and report every difference in notes.md.",
+    "Begin every feature note with its role word (first, peak, knee, last): the comparison of the two readings pairs features by that word."
+  ]
+}

@@ -1,0 +1,63 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,x_unit,y_unit
+F2-33,1,lpt74,feature,1,2268.0,3610.0,5,5,,"first; grid crossing, thickness from adjacent clean stroke",0.013809,60.469,0.019323,7.143,piecewise extrapolated x,inch,lb
+F2-33,1,lpt74,trace,2,2268.0,3610.0,5,5,,"target penetration 0 in; grid crossing, thickness from adjacent clean stroke",0.013809,60.469,0.019323,7.143,piecewise extrapolated x,inch,lb
+F2-33,1,lpt74,trace,3,1870.5,3539.0,9,9,,target penetration 0.25 in; thin trace crosses bearing-capacity line,0.251247,571.952,0.032393,12.44,piecewise,inch,lb
+F2-33,1,lpt74,feature,4,1642.5,3465.0,9.88,9.88,,knee; local turn or recorder step; thin trace crosses fit,0.497135,865.089,0.035159,13.506,piecewise,inch,lb
+F2-33,1,lpt74,trace,5,1642.5,3464.0,10.25,10.25,,target penetration 0.5 in; thin trace crosses fit,0.500433,865.081,0.036381,13.986,piecewise,inch,lb
+F2-33,1,lpt74,trace,6,1695.0,3388.0,3.75,3.75,,target penetration 0.75 in,0.750689,796.875,0.014738,5.577,piecewise,inch,lb
+F2-33,1,lpt74,trace,7,1744.82,3312.31,5,5,,"target penetration 1 in; grid crossing, thickness from adjacent clean stroke",0.999958,732.143,0.018731,7.213,piecewise,inch,lb
+F2-33,1,lpt74,feature,8,1754.5,3285.0,3.0,3.0,,knee; local turn or recorder step,1.085576,719.473,0.011782,4.625,piecewise,inch,lb
+F2-33,1,lpt74,trace,9,1731.5,3233.0,3.5,3.5,,target penetration 1.25 in,1.248887,748.692,0.013802,5.264,piecewise,inch,lb
+F2-33,1,lpt74,feature,10,1732.5,3230.0,3.5,3.5,,knee; local turn or recorder step,1.258293,747.382,0.013828,5.264,piecewise,inch,lb
+F2-33,1,lpt74,trace,11,1675.5,3153.0,2.75,2.75,,target penetration 1.5 in,1.500269,820.167,0.01212,4.273,piecewise,inch,lb
+F2-33,1,lpt74,trace,12,1623.0,3074.0,2.75,2.75,,target penetration 1.75 in,1.748473,887.123,0.012794,4.255,piecewise,inch,lb
+F2-33,1,lpt74,trace,13,1567.26,2993.97,5,5,,"target penetration 2 in; grid crossing, thickness from adjacent clean stroke",1.999913,958.217,0.021559,7.15,piecewise,inch,lb
+F2-33,1,lpt74,trace,14,1520.5,2918.0,9,9,,target penetration 2.25 in; recorded traces cross,2.251341,1017.9,0.034388,12.409,piecewise,inch,lb
+F2-33,1,lpt74,feature,15,1495.5,2890.0,9,9,,knee; local turn or recorder step; recorded traces cross,2.344091,1050.076,0.034187,12.412,piecewise,inch,lb
+F2-33,1,lpt74,trace,16,1463.0,2843.0,3.0,3.0,,target penetration 2.5 in,2.49973,1091.819,0.013918,4.588,piecewise,inch,lb
+F2-33,1,lpt74,trace,17,1412.5,2767.0,3.25,3.25,,target penetration 2.75 in,2.751448,1156.659,0.014194,4.919,piecewise,inch,lb
+F2-33,1,lpt74,trace,18,1368.56,2692.0,5,5,,"target penetration 3 in; grid crossing, thickness from adjacent clean stroke",2.99987,1213.006,0.019463,7.207,piecewise,inch,lb
+F2-33,1,lpt74,trace,19,1305.5,2615.0,2.5,2.5,,target penetration 3.25 in,3.249037,1294.122,0.011874,3.952,piecewise,inch,lb
+F2-33,1,lpt74,trace,20,1244.0,2537.0,3.5,3.5,,target penetration 3.5 in,3.501385,1373.21,0.016106,5.262,piecewise,inch,lb
+F2-33,1,lpt74,feature,21,1229.0,2530.0,3.0,3.0,,knee; local turn or recorder step,3.524118,1392.598,0.01457,4.612,piecewise,inch,lb
+F2-33,1,lpt74,trace,22,1173.0,2460.0,3.0,3.0,,target penetration 3.75 in,3.750562,1464.624,0.015451,4.617,piecewise,inch,lb
+F2-33,1,lpt74,trace,23,1085.09,2382.96,5,5,,"target penetration 4 in; grid crossing, thickness from adjacent clean stroke",3.999986,1577.63,0.022977,7.248,piecewise,inch,lb
+F2-33,1,lpt74,feature,24,1005.5,2330.0,3.12,3.12,,knee; local turn or recorder step,4.173585,1679.919,0.016209,4.863,piecewise,inch,lb
+F2-33,1,lpt74,trace,25,988.5,2307.0,2.75,2.75,,target penetration 4.25 in,4.248843,1701.666,0.014642,4.395,piecewise,inch,lb
+F2-33,1,lpt74,feature,26,935.0,2238.0,3.0,3.0,,peak; maximum load of whole trace,4.474725,1770.119,0.014414,4.759,piecewise,inch,lb
+F2-33,1,lpt74,feature,27,935.0,2238.0,3.0,3.0,,last,4.474725,1770.119,0.014414,4.759,piecewise,inch,lb
+F2-33,1,lpt75,feature,1,2311.0,2992.0,5,5,,"first; grid crossing, thickness from adjacent clean stroke",2.001265,0.228,0.021512,7.15,piecewise extrapolated y,inch,lb
+F2-33,1,lpt75,trace,2,2311.0,2992.0,5,5,,"target penetration 2 in; grid crossing, thickness from adjacent clean stroke",2.001265,0.228,0.021512,7.15,piecewise extrapolated y,inch,lb
+F2-33,1,lpt75,feature,3,1897.0,2960.0,9,9,,knee; local turn or recorder step; thick trace crosses bearing-capacity line,2.109781,533.674,0.034658,12.435,piecewise,inch,lb
+F2-33,1,lpt75,trace,4,1562.0,2918.0,9,9,,target penetration 2.25 in; recorded traces cross,2.251022,964.375,0.034384,12.327,piecewise,inch,lb
+F2-33,1,lpt75,trace,5,1270.0,2843.0,6.25,6.25,,target penetration 2.5 in,2.501363,1341.988,0.024725,8.847,piecewise,inch,lb
+F2-33,1,lpt75,feature,6,1228.0,2830.0,6.25,6.25,,knee; local turn or recorder step,2.544727,1396.324,0.024632,8.851,piecewise,inch,lb
+F2-33,1,lpt75,trace,7,1078.0,2768.0,9,9,,target penetration 2.75 in; thick recorded trace and fit cross/run together,2.751228,1589.952,0.033335,12.464,piecewise,inch,lb
+F2-33,1,lpt75,feature,8,1068.0,2755.0,9,9,,knee; local turn or recorder step; thick recorded trace and fit cross/run together,2.79435,1602.763,0.033242,12.472,piecewise,inch,lb
+F2-33,1,lpt75,trace,9,1013.01,2693.05,9,9,,"target penetration 3 in; thick recorded trace and fit cross/run together; grid crossing, thickness from adjacent clean stroke",2.99995,1673.28,0.032795,12.512,piecewise,inch,lb
+F2-33,1,lpt75,feature,10,965.0,2630.0,9,9,,knee; local turn or recorder step; thick recorded trace and fit cross/run together,3.203875,1734.753,0.032813,12.547,piecewise,inch,lb
+F2-33,1,lpt75,trace,11,958.0,2616.0,11.25,11.25,,target penetration 3.25 in; thick recorded trace and fit cross/run together,3.249118,1743.674,0.040299,15.479,piecewise,inch,lb
+F2-33,1,lpt75,trace,12,1005.0,2538.0,5.75,5.75,,target penetration 3.5 in,3.500377,1682.318,0.023409,8.287,piecewise,inch,lb
+F2-33,1,lpt75,feature,13,1018.0,2490.0,5.0,5.0,,knee; local turn or recorder step,3.655154,1665.129,0.021575,7.301,piecewise,inch,lb
+F2-33,1,lpt75,trace,14,1015.0,2461.0,5.25,5.25,,target penetration 3.75 in,3.748766,1668.758,0.022751,7.628,piecewise,inch,lb
+F2-33,1,lpt75,trace,15,990.98,2383.21,5,5,,"target penetration 4 in; grid crossing, thickness from adjacent clean stroke",4.000009,1699.11,0.022989,7.319,piecewise,inch,lb
+F2-33,1,lpt75,trace,16,953.0,2307.0,5.5,5.5,,target penetration 4.25 in,4.249206,1747.482,0.023692,7.996,piecewise,inch,lb
+F2-33,1,lpt75,feature,17,909.0,2234.0,5.5,5.5,,peak; maximum load of whole trace,4.488087,1803.635,0.022586,8.028,piecewise,inch,lb
+F2-33,1,lpt75,feature,18,909.0,2234.0,5.5,5.5,,last,4.488087,1803.635,0.022586,8.028,piecewise,inch,lb
+F2-33,1,fit,trace,1,1750.0,3613.0,5,5,,"ink start; grid crossing, thickness from adjacent clean stroke",0.008132,727.744,0.019346,7.218,piecewise extrapolated x,inch,lb
+F2-33,1,fit,feature,2,1750.0,3613.0,5,5,,"intercept; terminal ink merges with load axis; grid crossing, thickness from adjacent clean stroke",0.008132,727.744,0.019346,7.218,piecewise extrapolated x,inch,lb
+F2-33,1,fit,trace,3,1516.08,3312.83,5,5,,"labelled penetration 1 in; grid crossing, thickness from adjacent clean stroke",0.999969,1026.853,0.018729,7.192,piecewise,inch,lb
+F2-33,1,fit,trace,4,1263.66,2994.59,5,5,,"labelled penetration 2 in; grid crossing, thickness from adjacent clean stroke",1.999964,1351.435,0.021581,7.217,piecewise,inch,lb
+F2-33,1,fit,trace,5,1012.99,2693.02,9,9,,"labelled penetration 3 in; thick recorded trace and fit cross/run together; grid crossing, thickness from adjacent clean stroke",3.000049,1673.305,0.032794,12.512,piecewise,inch,lb
+F2-33,1,fit,trace,6,771.16,2383.82,5,5,,"labelled penetration 4 in; grid crossing, thickness from adjacent clean stroke",3.99998,1982.861,0.023015,7.486,piecewise,inch,lb
+F2-33,1,fit,trace,7,543.0,2098.0,5.38,5.38,,ink end,4.937355,2268.075,0.020138,7.614,piecewise,inch,lb
+F2-33,1,fit,feature,8,635,1634,5,5,,label: Slope = AγNq = 316 lbs./in.,6.453747,2148.136,0.031621,7.215,piecewise extrapolated x,inch,lb
+F2-33,1,bce,trace,1,2092.0,3612.0,5.25,5.25,,"ink start; grid crossing, thickness from adjacent clean stroke",0.008644,287.168,0.020178,7.535,piecewise extrapolated x,inch,lb
+F2-33,1,bce,feature,2,2092.0,3612.0,5.25,5.25,,"intercept; terminal ink merges with load axis; grid crossing, thickness from adjacent clean stroke",0.008644,287.168,0.020178,7.535,piecewise extrapolated x,inch,lb
+F2-33,1,bce,trace,3,1983.4,3311.75,5,5,,"labelled penetration 1 in; grid crossing, thickness from adjacent clean stroke",1.000005,424.881,0.018734,7.256,piecewise,inch,lb
+F2-33,1,bce,trace,4,1864.56,2993.32,5.0,5.0,,"labelled penetration 2 in; grid crossing, thickness from adjacent clean stroke",1.999998,575.655,0.021544,7.248,piecewise,inch,lb
+F2-33,1,bce,trace,5,1754.24,2690.79,5,5,,"labelled penetration 3 in; grid crossing, thickness from adjacent clean stroke",3.000017,715.337,0.019439,7.208,piecewise,inch,lb
+F2-33,1,bce,trace,6,1638.69,2381.43,5,5,,"labelled penetration 4 in; grid crossing, thickness from adjacent clean stroke",4.000039,861.51,0.022911,7.166,piecewise,inch,lb
+F2-33,1,bce,trace,7,1520.0,2074.57,5,5,,"labelled penetration 5 in; grid crossing, thickness from adjacent clean stroke",5.000142,1011.658,0.018575,7.192,piecewise extrapolated x,inch,lb
+F2-33,1,bce,trace,8,1501.0,1998.0,5.5,5.5,,ink end,5.249724,1035.664,0.022442,7.846,piecewise extrapolated x,inch,lb
+F2-33,1,bce,feature,9,1862,2290,5,5,,"label: Bearing Capacity Equation, φ = 49.5°",4.295192,573.867,0.021729,7.238,piecewise,inch,lb

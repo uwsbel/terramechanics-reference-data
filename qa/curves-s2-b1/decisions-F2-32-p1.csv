@@ -1,0 +1,13 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,fit,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 022 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt52,trace,2,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 024 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt53,feature,3,claude,resolved,codex,the codex reading is on the feature; credit codex (blind adjudication item 025 (Claude's adjudicator: q; Codex's: both))
+1,lpt53,feature,7,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 026 (Claude's adjudicator: no; Codex's: no): On lpt53 ink, but the line is straight there (slope about 1.0 to 1.1 px/px on both sides); no turn."
+1,lpt53,trace,24,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 027 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt93,feature,3,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 029 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt93,feature,8,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 031 (Claude's adjudicator: no; Codex's: no): On a dash of lpt93, but the dashes are collinear (slope about 1.17 px/px) through the mark; no turn."
+1,lpt93,trace,31,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 032 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt93,trace,2,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 033 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,fit,trace,10,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 002 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt52,feature,3,claude,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 003 (Claude's adjudicator: no; Codex's: no): The marked dot lies on a locally straight run of dots; no visible knee occurs at the mark.
+1,lpt93,feature,4,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 005 (Claude's adjudicator: no; Codex's: no): Mark is on shared ink where dashed lpt93 crosses the fit, at the upper end of a straight dash. lpt93 bends gradually over several dashes (about 12 deg at each g"

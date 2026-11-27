@@ -1,0 +1,23 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,n0,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 032 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n1468,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 033 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2345,trace,1,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 034 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2345,trace,2,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 034 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2935,marker,1,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 035 (Claude's adjudicator: p; Codex's: p))
+1,n2935,marker,2,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 036 (Claude's adjudicator: q; Codex's: q))
+1,n2935,marker,4,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 037 (Claude's adjudicator: p; Codex's: p))
+1,n2935,marker,5,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 038 (Claude's adjudicator: q; Codex's: q))
+1,n2935,marker,6,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 039 (Claude's adjudicator: p; Codex's: p))
+1,n2935,marker,8,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 040 (Claude's adjudicator: p; Codex's: p))
+1,n2935,trace,46,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 041 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n2935,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 042 (Claude's adjudicator: some; Codex's: some)
+1,n2935,trace,2,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 042 (Claude's adjudicator: some; Codex's: some)
+1,n294,feature,3,claude,excluded,,"second round: neither reading is this point of the drawn line; Claude's adjudicator: Line ink ends at ~(1512,2694) (band v 2690-2698); a 3 px white gap (u 1513-1515) separates it from the circle (u 1516-1545, centre ~(1530.5,2698.5)), ; Codex's: Last ink is approximately (1512,2694), separated from the circle by a white gap. Q is on the circle edge; P is inside it. (blind adjudication item 043 (Claude's adjudicator: neither; Codex's: neither))"
+1,n294,feature,3,codex,excluded,,"second round: neither reading is this point of the drawn line; Claude's adjudicator: Line ink ends at ~(1512,2694) (band v 2690-2698); a 3 px white gap (u 1513-1515) separates it from the circle (u 1516-1545, centre ~(1530.5,2698.5)), ; Codex's: Last ink is approximately (1512,2694), separated from the circle by a white gap. Q is on the circle edge; P is inside it. (blind adjudication item 043 (Claude's adjudicator: neither; Codex's: neither))"
+1,n294,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 044 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n294,trace,30,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 045 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3520,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 046 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n3520,trace,46,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 047 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,n587,feature,2,claude,resolved,codex,the codex reading is on the feature; credit codex (blind adjudication item 048 (Claude's adjudicator: q; Codex's: q))
+1,n587,feature,3,claude,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 049 (Claude's adjudicator: no; Codex's: no): P is on the triangle's right outline beyond the frame; it is not the drawn-line endpoint.
+1,n587,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 050 (Claude's adjudicator: all yes; Codex's: all yes)"

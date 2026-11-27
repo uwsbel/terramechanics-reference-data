@@ -1,0 +1,96 @@
+---
+title: "b68-ds-fc-6d-n147: provenance"
+---
+Provenance and review record of [b68-ds-fc-6d-n147](../experiments/b68-ds-fc-6d-n147.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 108 points recovered, agreed 86, audited 16, confirmed 2, one-sided-verified 3, resolved 1 |
+| index row reconciliation | [agreed]{.status .status-agreed}: agreed 18 |
+| human audit | 34 points sampled by the student reviewers, 18 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+108 points (from FC-6D) read by two readings made separately and reconciled (batch `curves-appc-b3`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FC-6D-p1](../img/overlays/FC-6D-p1.png){.lightbox}
+
+![Overlay FC-6D-p2](../img/overlays/FC-6D-p2.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | shear displacement (m, from mil) | shear stress (Pa, from psf) | 83 |
+| 2 | shear displacement (m, from mil) | dilation (normal displacement; positive up) (m, from mil) | 25 |
+
+Points by status: [agreed]{.status .status-agreed} 86, [audited]{.status .status-audited} 16, [confirmed]{.status .status-confirmed} 2, [one-sided-verified]{.status .status-one-sided-verified} 3, [resolved]{.status .status-resolved} 1; by kind: `feature` 2, `marker` 49, `trace` 57.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 25 | 0.128 / 0.263 | 8.61 / 12.3 |
+| claude | cal-p2 | 20 | 0.0969 / 0.211 | 0.0655 / 0.127 |
+| codex | cal-p1 | 30 | 1.08 / 1.89 | 8.62 / 12 |
+| codex | cal-p2 | 12 | 1.14 / 1.99 | 0.0681 / 0.114 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-ds-fc-6d-n147/observations.csv), [series.json](../files/data/experiments/b68-ds-fc-6d-n147/series.json) (repository paths `data/experiments/b68-ds-fc-6d-n147/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | 0.05 to 0.40 |
+| unit weight, pcf | 71.9 |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [agreed]{.status .status-agreed} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | direct shear (University of Notre Dame) | direct shear (Notre Dame) |
+| loading | normal stress 147 psf | shear; normal stress 147 PSF |
+| test_label_printed | sigma 147, gamma 71.9 | sigma 147 PSF, gamma 71.9 PCF |
+
+## Notes from the two readings
+
+- Claude: header prints sigma and gamma without units; FC-21 plots this Dr range from about -.05 (66.8 pcf is below the LSM minimum density in FA-39), no minus printed; box geometry and shear rate not printed in App. C; word Rebound printed beside this test's dilation markers
+- Codex: Geometry and rate missing; Dr is group range. State outside Table 2-3. AM-68-1 Vol. II, Fig. C-6D, printed C-20, PDF 134
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

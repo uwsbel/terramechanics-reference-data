@@ -1,0 +1,110 @@
+---
+title: "LM model drop (1/6 scale): RS soil, loose, NASA Test No. 1"
+record: "b68-mdrop-10"
+kind: "single"
+test-type: "LM model drop (1/6 scale)"
+family: "RS"
+state: "loose"
+printed-label: "NASA Test No. 1"
+evidence: "F5-10;F5-12;F5-22;F5-23;F5-24;F5-25;F5-26;F5-27;F5-28;F5-6;T-p302;T5-2;T5-3;text 5-22 (PDF 302);text 5-4 (PDF 283);text 5-43 (PDF 323);text 5-44 (PDF 324);text 5-9 (PDF 289)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+LM model drop (1/6 scale) test on RS soil (Red Crushed Volcanic Scoria (narrowly graded)) at relative density 0; apparatus: modified 1/6-scale LM model; six-degree-of-freedom drop test rig; loading: free drop; Total Model Weight 68.4 Lbs.; yaw 45 deg (2-2 landing), zero pitch and roll, zero angular rates; level surface (ground slope 0). Recorded: absolute footpad velocity VAP vs time; footpad heading theta vs time; footpad penetration depth vs time; strut No. 1 axial load vs time; strut No. 2 axial load vs time; strut No. 3 axial load vs time; CG vertical acceleration vs time; CG vertical velocity vs time; CG vertical displacement vs time.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 196 of the 207 points, and 4 are still under review. They have not yet been checked by a person. The test setup is incomplete: fill depth is not reported.
+:::
+
+## Data
+
+![footpad penetration depth and axial load, strut No. 3 and axial load, strut No. 2 and axial load, strut No. 1 against time, SI units. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-mdrop-10.png){.lightbox}
+
+Peak footpad penetration depth 112.57 mm at 80 ms time; 109.87 mm at 99.8 ms, the end of the record. Axial load, strut No. 3 3.306 N at the end. Axial load, strut No. 2 42.83 N at the end. Axial load, strut No. 1 -20.21 N at the end.
+
+Download: [observations.csv](../files/data/experiments/b68-mdrop-10/observations.csv) (207 points: 0 plotted symbols, 178 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1 (Fig. 5-24): footpad penetration depth in m against time in s; panel 2 (Fig. 5-25): axial load, strut No. 3 in N against time in s; panel 3 (Fig. 5-25): axial load, strut No. 2 in N against time in s; panel 4 (Fig. 5-25): axial load, strut No. 1 in N against time in s; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-mdrop-10/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on these figures (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 0.22 ms in time, 551 micrometers in footpad penetration depth (Fig. 5-24) (0.5 percent of the peak), 3.722 N in axial load, strut No. 3 (Fig. 5-25), 3.948 N in axial load, strut No. 2 (Fig. 5-25), 4.001 N in axial load, strut No. 1 (Fig. 5-25). Both independent readings agree within these bounds at 196 of the 207 points; 4 are still under review (hollow in the plot) and 7 were settled against the scan. Check the digitized points against the scan: [F5-24](../figures/index.qmd#check-f5-24), [F5-25](../figures/index.qmd#check-f5-25).
+
+**About these values.** No. 1 footpad of the 1/6-scale model, NASA Test No. 1. The depth is a computed output, not a direct measurement: the report's data reduction program took the 13 tape-recorded signals every 1/1000 s and calculated the footpad's penetration by numerical integration (AM-68-1 Vol. I, Section 5.5.2, printed 5-41, PDF 321). Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense. On the Strut No. 2 panel the top load label is printed -60; the panel's own sequence (0, +20, +40) and the (Tension) title make it +60, and both readings anchor that line at +60 lbf. Where the scan has no ink the line is left open: a break in the drawn line at about 0.0138 to 0.0140 s, about 4 px of the page with no ink, the line resuming about 1.5 px to the side.
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | RS Loose, Red Crushed Volcanic Scoria (narrowly graded) (soil No. 1 of Table 2-3) | RS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | 0 | 0 | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| state | unit weight | 7367 N/m^3 (bulk density 751.3 kg/m^3) | 46.9 pcf | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | scaled LM footpads, leg set No. 1 instrumented (diameter not printed in Section V) | scaled LM footpads, leg set No. 1 instrumented (diameter not printed in Section V) | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| geometry | bin or mold | 5.4864 m by 3.6576 m | 18 by 12 ft | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | free drop; Total Model Weight 68.4 Lbs.; yaw 45 deg (2-2 landing), zero pitch and roll, zero angular rates; level surface (ground slope 0) |  | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| loading | model mass | 31.03 kg | 68.4 lb | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| loading | rate | Vv = -2.919 m/s; Vh = 0 | Vv = -114.93 in./sec.; Vh = 0 | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| loading | touchdown velocities and time from release to touchdown, printed in the table of the detail correlation drops (the line above is the strut-load figure's inset) | [V_v]{.term title="vertical velocity of the LM model at touchdown; Table 5-T3 prints it negative, the downward direction" tabindex="0"} -2.918 m/s, [V_h]{.term title="horizontal velocity of the LM model at touchdown" tabindex="0"} 0 m/s; [tau]{.term title="time from the release of the LM model to its touchdown, measured from an accelerometer record" tabindex="0"} 0.298 s | V_v -114.9 In./Sec., V_h 0 In./Sec., tau .298 Sec. | Table 5-T3, printed 5-45, PDF 325 (NASA Test No. 1 of [b68-mdrop-t5-3-rs](b68-mdrop-t5-3-rs.qmd)) |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | absolute footpad velocity VAP vs time; footpad heading theta vs time; footpad penetration depth vs time; strut No. 1 axial load vs time; strut No. 2 axial load vs time; strut No. 3 axial load vs time; CG vertical acceleration vs time; CG vertical velocity vs time; CG vertical displacement vs time |  | F5-10, F5-12, F5-22, F5-23, F5-24, F5-25, F5-26, F5-27, F5-28, F5-6, T-p302, T5-2, T5-3 |
+| soil strength | friction angle at this density (report's direct shear average) | 40 degrees | 40 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | friction angle printed for this bed (the line above is the soil's average at this density) | 41 degrees | 41 Deg. | Table 5-T3, printed 5-45, PDF 325 (NASA Test No. 1 of [b68-mdrop-t5-3-rs](b68-mdrop-t5-3-rs.qmd)) |
+| soil strength | sonic modulus E at 4 psi confinement | 37.9 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+F5-10, *Comparison of Modified 1/6-Scale Model and Present LM Loads versus Strokes*, AM-68-1 Vol. I, printed 5-16, PDF 296; F5-12, *Sketch of Six Degree of Freedom Drop Test System and Soil Bed*, AM-68-1 Vol. I, printed 5-23, PDF 303; F5-22, *Absolute Footpad Velocity vs. Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-47, PDF 327; F5-23, *Footpad Heading With Respect to Vertical (theta) versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-48, PDF 328; F5-24, *Footpad Penetration Depth versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-49, PDF 329; F5-25, *Strut Axial Load versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-50, PDF 330; F5-26, *CG Vertical Acceleration versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-51, PDF 331; F5-27, *CG Vertical Velocity versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-52, PDF 332; F5-28, *CG Vertical Displacement versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-53, PDF 333; F5-6, *Instrumentation to Measure Pad Forces, Moments, and Angular Displacement on Dynamic Model (This Instrumentation on Leg Set No. 1 Only)*, AM-68-1 Vol. I, printed 5-11, PDF 291; T-p302, *(unnumbered) summary of the important physical quantities of the LM model*, AM-68-1 Vol. I, printed 5-22, PDF 302; T5-2, *List of Model Drop Tests*, AM-68-1 Vol. I, printed 5-28, PDF 308; T5-3, *Detail Correlation Drops*, AM-68-1 Vol. I, printed 5-45, PDF 325.
+Text: text 5-22 (PDF 302).
+Text: text 5-4 (PDF 283).
+Text: text 5-43 (PDF 323).
+Text: text 5-44 (PDF 324).
+Text: text 5-9 (PDF 289).
+
+::: {layout-ncol=2}
+![PDF page 296](../img/1968/p0296.png){.lightbox}
+
+![PDF page 303](../img/1968/p0303.png){.lightbox}
+
+![PDF page 327](../img/1968/p0327.png){.lightbox}
+
+![PDF page 328](../img/1968/p0328.png){.lightbox}
+
+![PDF page 329](../img/1968/p0329.png){.lightbox}
+
+![PDF page 330](../img/1968/p0330.png){.lightbox}
+
+![PDF page 331](../img/1968/p0331.png){.lightbox}
+
+![PDF page 332](../img/1968/p0332.png){.lightbox}
+
+![PDF page 333](../img/1968/p0333.png){.lightbox}
+
+![PDF page 291](../img/1968/p0291.png){.lightbox}
+
+![PDF page 302](../img/1968/p0302.png){.lightbox}
+
+![PDF page 308](../img/1968/p0308.png){.lightbox}
+
+![PDF page 325](../img/1968/p0325.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-mdrop-10` in `data/experiments/index.csv` of this repository, and the source: F5-10, *Comparison of Modified 1/6-Scale Model and Present LM Loads versus Strokes*, AM-68-1 Vol. I, printed 5-16, PDF 296; F5-12, *Sketch of Six Degree of Freedom Drop Test System and Soil Bed*, AM-68-1 Vol. I, printed 5-23, PDF 303; F5-22, *Absolute Footpad Velocity vs. Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-47, PDF 327; F5-23, *Footpad Heading With Respect to Vertical (theta) versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-48, PDF 328; F5-24, *Footpad Penetration Depth versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-49, PDF 329; F5-25, *Strut Axial Load versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-50, PDF 330; F5-26, *CG Vertical Acceleration versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-51, PDF 331; F5-27, *CG Vertical Velocity versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-52, PDF 332; F5-28, *CG Vertical Displacement versus Time (NASA Test No. 1)*, AM-68-1 Vol. I, printed 5-53, PDF 333; F5-6, *Instrumentation to Measure Pad Forces, Moments, and Angular Displacement on Dynamic Model (This Instrumentation on Leg Set No. 1 Only)*, AM-68-1 Vol. I, printed 5-11, PDF 291; T-p302, *(unnumbered) summary of the important physical quantities of the LM model*, AM-68-1 Vol. I, printed 5-22, PDF 302; T5-2, *List of Model Drop Tests*, AM-68-1 Vol. I, printed 5-28, PDF 308; T5-3, *Detail Correlation Drops*, AM-68-1 Vol. I, printed 5-45, PDF 325.
+
+<small>Maintainers: the [provenance and review record](../review/b68-mdrop-10.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

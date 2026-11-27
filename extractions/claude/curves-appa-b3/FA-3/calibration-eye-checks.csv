@@ -1,0 +1,15 @@
+figure_id,panel,axis,printed_label,label_side,label_centre_u,label_centre_v,line_value_anchored,line_position_at_label_px,label_offset_px,verdict,note
+FA-3,1,y,25,left,847.5,1865.0,25,v 1864.9,+0.1,agrees,label and its tick on the 25 line; the frame continues 3 unlabelled lines above 25 (about 24 and 23 and a top frame line near 22) which were left out of the box
+FA-3,1,y,30,left,849.0,2277.0,30,v 2279.4,-2.4,agrees,
+FA-3,1,y,40,left,838.5,2778.0,40,v 2782.3,-4.3,agrees,"label glyphs printed just above the line; the 40.1 leader runs under it at v 2799 to the frame, it is not the 40 line"
+FA-3,1,y,45,left,848.0,2955.0,45,v 2956.5,-1.5,agrees,the 45 line sits about 4.8 px below a smooth reciprocal fit through all lines (see notes.md)
+FA-3,1,y,55,left,843.0,3199.5,55,v 3198.8,+0.7,agrees,
+FA-3,1,y,65,left,844.5,3364.0,65,v 3369.8,-5.8,agrees,label printed slightly above the thick bottom frame line which carries 65
+FA-3,1,y,25,right,2481.5,1856.5,25,v 1855.1,+1.4,agrees,right scale (maximum density) on the same lines as the left
+FA-3,1,y,40,right,2488.5,2775.0,40,v 2773.9,+1.1,agrees,
+FA-3,1,y,55,right,2483.0,3193.5,55,v 3192.7,+0.8,agrees,
+FA-3,1,x,0,bottom,917.5,3421.0,0,u 904.9,+12.6,agrees,the 0 is printed just right of the left frame line; no other line within 140 px
+FA-3,1,x,0.1,bottom,1054.0,3421.5,0.1,u 1058.6,-4.6,agrees,
+FA-3,1,x,0.5,bottom,1659.5,3420.0,0.5,u 1667.8,-8.3,agrees,
+FA-3,1,x,0.9,bottom,2274.0,3420.0,0.9,u 2280.4,-6.4,agrees,
+FA-3,1,x,1.0,bottom,2427.5,3419.0,1.0,u 2440.4,-12.9,agrees,the 1.0 is printed centred a little left of the right frame line; no other line within 140 px

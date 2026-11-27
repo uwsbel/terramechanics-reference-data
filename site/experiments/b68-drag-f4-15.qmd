@@ -1,0 +1,101 @@
+---
+title: "Footpad drag: LSM soil, Subscale Drag Test Results - Soil No. 10 - LSM Intermediate"
+record: "b68-drag-f4-15"
+kind: "run-table"
+test-type: "Footpad drag"
+family: "LSM"
+state: "intermediate"
+printed-label: "Subscale Drag Test Results - Soil No. 10 - LSM Intermediate"
+evidence: "F3-1;F3-10;F3-11;F3-2;F3-3;F3-4;F3-7;F3-8;F3-9;F4-15;F4-2;F4-3;F4-4;text 2-103 (PDF 128);text 2-107 (PDF 132);text 2-110 (PDF 135);text 3-13 (PDF 154);text 3-15 (PDF 156);text 3-16 (PDF 157);text 3-2 (PDF 143);text 3-5 (PDF 146);text 3-7 (PDF 148);text 4-4 (PDF 189);text 4-7 (PDF 192)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+Footpad drag test on LSM soil (Mixture of RC and Air-Floated Clay) at relative density 0.50; apparatus: subscale drag test equipment (SSD); loading: constant penetration drag: depth d 1 to 3 inch (table) held by locking the piston to the air cylinder; carriage accelerated by rubber bungee cords, then pulled at constant V_H by cam rod and friction drive wheel, then decelerated by springs and damper. Recorded: horizontal velocity V_H; drag load F_D; vertical load F_V; footpad pitch angle alpha; bed g_p from dynamic penetrometer with D_r and gamma; derived F_D/(d gamma A_ft), V_H/sqrt(dg), F_D/A_ft, F_V/A_pt as printed; one midpoint reading per run.
+
+::: {.callout-note appearance="simple"}
+The measurements of this test have not been digitized yet; the setup and the source pages are indexed. The setup below rests on two agent readings of the report that were reconciled; no person has checked it yet. The test setup is incomplete: fill depth is not reported.
+:::
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | LSM Inter., Mixture of RC and Air-Floated Clay (soil No. 10 of Table 2-3) | LSM | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 0.07 mm | 0.07 mm | Table 2-3 |
+| material | uniformity coefficient Cu | large | large | Table 2-3 |
+| material | D95 | 4 mm | 4 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | 51 percent | 51% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | 0.50 | 0.50 | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| state | unit weight | 12174 N/m^3 (bulk density 1241.4 kg/m^3) | 77.5 pcf | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | D 6 and 101.6 mm (table); 1/6-scale steel LM footpad with ball pivot and antiyaw link (Fig. 3-10); the 101.6 mm pad is not described | D 6 and 4 inch (table); 1/6-scale steel LM footpad with ball pivot and antiyaw link (Fig. 3-10); the 4 inch pad is not described | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| geometry | bin or mold | approx 3.0480 m by 914.4 mm; soil depth 279.4 mm to 304.8 mm (false bottom) | approx 10 by 3 ft; soil depth 11 to 12 in (false bottom) | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | constant penetration drag: depth d 1 to 3 inch (table) held by locking the piston to the air cylinder; carriage accelerated by rubber bungee cords, then pulled at constant V_H by cam rod and friction drive wheel, then decelerated by springs and damper |  | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| loading | rate | V_H 0.8748 to 3.38 m/s | V_H 2.87 to 11.09 fps | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | horizontal velocity V_H; drag load F_D; vertical load F_V; footpad pitch angle alpha; bed g_p from dynamic penetrometer with D_r and gamma; derived F_D/(d gamma A_ft), V_H/sqrt(dg), F_D/A_ft, F_V/A_pt as printed; one midpoint reading per run |  | F3-1, F3-10, F3-11, F3-2, F3-3, F3-4, F3-7, F3-8, F3-9, F4-15, F4-2, F4-3, F4-4 |
+| soil strength | friction angle at this density (report's direct shear average) | 42 degrees | 42 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 27.6 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+F3-1, *Subscale Drag Test Equipment*, AM-68-1 Vol. I, printed 3-3, PDF 144; F3-10, *Subscale Instrumented Footpad for Drag Test*, AM-68-1 Vol. I, printed 3-15, PDF 156; F3-11, *Diagram of Subscale Drag Test Data Recording Instrumentation*, AM-68-1 Vol. I, printed 3-16, PDF 157; F3-2, *Subscale Drag Test Setup*, AM-68-1 Vol. I, printed 3-6, PDF 147; F3-3, *Rear View of Drag Test Equipment (Before Modification) Showing Acceleration Device*, AM-68-1 Vol. I, printed 3-8, PDF 149; F3-4, *Close Up View of Constant Velocity Drive Mechanism*, AM-68-1 Vol. I, printed 3-8, PDF 149; F3-7, *Schematic Diagram of Three-Dimensional Load Cell for Subscale Drag Test System*, AM-68-1 Vol. I, printed 3-12, PDF 153; F3-8, *Effect of Drag Load on Vertical Load Sensor*, AM-68-1 Vol. I, printed 3-14, PDF 155; F3-9, *Effect of Vertical Load on Drag Load Sensors*, AM-68-1 Vol. I, printed 3-14, PDF 155; F4-15, *Subscale Drag Test Results - Soil No. 10 - LSM Intermediate*, AM-68-1 Vol. I, printed 4-19, PDF 204; F4-2, *Subscale Drag Test Parameter Values*, AM-68-1 Vol. I, printed 4-5, PDF 190; F4-3, *Number of Subscale Drag Tests for Each of the Soils Studied*, AM-68-1 Vol. I, printed 4-5, PDF 190; F4-4, *Nomenclature for Constant Penetration Drag Tests*, AM-68-1 Vol. I, printed 4-6, PDF 191.
+Text: text 2-103 (PDF 128).
+Text: text 2-107 (PDF 132).
+Text: text 2-110 (PDF 135).
+Text: text 3-13 (PDF 154).
+Text: text 3-15 (PDF 156).
+Text: text 3-16 (PDF 157).
+Text: text 3-2 (PDF 143).
+Text: text 3-5 (PDF 146).
+Text: text 3-7 (PDF 148).
+Text: text 4-4 (PDF 189).
+Text: text 4-7 (PDF 192).
+
+::: {layout-ncol=2}
+![PDF page 144](../img/1968/p0144.png){.lightbox}
+
+![PDF page 156](../img/1968/p0156.png){.lightbox}
+
+![PDF page 157](../img/1968/p0157.png){.lightbox}
+
+![PDF page 147](../img/1968/p0147.png){.lightbox}
+
+![PDF page 149](../img/1968/p0149.png){.lightbox}
+
+![PDF page 149](../img/1968/p0149.png){.lightbox}
+
+![PDF page 153](../img/1968/p0153.png){.lightbox}
+
+![PDF page 155](../img/1968/p0155.png){.lightbox}
+
+![PDF page 155](../img/1968/p0155.png){.lightbox}
+
+![PDF page 204](../img/1968/p0204.png){.lightbox}
+
+![PDF page 190](../img/1968/p0190.png){.lightbox}
+
+![PDF page 190](../img/1968/p0190.png){.lightbox}
+
+![PDF page 191](../img/1968/p0191.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-drag-f4-15` in `data/experiments/index.csv` of this repository, and the source: F3-1, *Subscale Drag Test Equipment*, AM-68-1 Vol. I, printed 3-3, PDF 144; F3-10, *Subscale Instrumented Footpad for Drag Test*, AM-68-1 Vol. I, printed 3-15, PDF 156; F3-11, *Diagram of Subscale Drag Test Data Recording Instrumentation*, AM-68-1 Vol. I, printed 3-16, PDF 157; F3-2, *Subscale Drag Test Setup*, AM-68-1 Vol. I, printed 3-6, PDF 147; F3-3, *Rear View of Drag Test Equipment (Before Modification) Showing Acceleration Device*, AM-68-1 Vol. I, printed 3-8, PDF 149; F3-4, *Close Up View of Constant Velocity Drive Mechanism*, AM-68-1 Vol. I, printed 3-8, PDF 149; F3-7, *Schematic Diagram of Three-Dimensional Load Cell for Subscale Drag Test System*, AM-68-1 Vol. I, printed 3-12, PDF 153; F3-8, *Effect of Drag Load on Vertical Load Sensor*, AM-68-1 Vol. I, printed 3-14, PDF 155; F3-9, *Effect of Vertical Load on Drag Load Sensors*, AM-68-1 Vol. I, printed 3-14, PDF 155; F4-15, *Subscale Drag Test Results - Soil No. 10 - LSM Intermediate*, AM-68-1 Vol. I, printed 4-19, PDF 204; F4-2, *Subscale Drag Test Parameter Values*, AM-68-1 Vol. I, printed 4-5, PDF 190; F4-3, *Number of Subscale Drag Tests for Each of the Soils Studied*, AM-68-1 Vol. I, printed 4-5, PDF 190; F4-4, *Nomenclature for Constant Penetration Drag Tests*, AM-68-1 Vol. I, printed 4-6, PDF 191.
+
+<small>Maintainers: the [provenance and review record](../review/b68-drag-f4-15.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

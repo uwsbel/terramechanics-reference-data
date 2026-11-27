@@ -1,0 +1,33 @@
+{
+  "F2-42": {
+    "source": "1968",
+    "title": "Figure 2-42: Load-Penetration Curves for Four-Inch Cylinder in RS Dense at Different Rates of Penetration (printed 2-77, PDF 102)",
+    "rotation": 0,
+    "legend_hint": "the letters A to D on the figure and the key printed with it",
+    "series_noun": "record",
+    "series": {
+      "lpt22": {"label": "LPT 22", "symbol": "", "noun": "record (curve A, the dotted line)"},
+      "lpt23": {"label": "LPT 23", "symbol": "", "noun": "record (curve B, the solid line)"},
+      "lpt24": {"label": "LPT 24", "symbol": "", "noun": "record (curve C, the line of long dashes)"},
+      "lpt25": {"label": "LPT 25", "symbol": "", "noun": "record (curve D, the line of shorter dashes)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load against penetration for a 4-inch cylinder in dense RS soil at four rates of penetration. Printed upright. Four lines: A (LPT 22) dotted, B (LPT 23) solid, C (LPT 24) long dashes with short gaps, D (LPT 25) shorter dashes. Near zero penetration all four rise in one bundle next to the left frame; tell them apart by line style, and answer cannot tell where you cannot. A crosshair inside the frame line, or in the white gap between dots or dashes, is a no."
+  },
+  "F2-44": {
+    "source": "1968",
+    "title": "Figure 2-44: Load-Penetration Curves for Four-Inch Cylinder in RS Dense Soil in Bins of Various Sizes (printed 2-79, PDF 104)",
+    "rotation": 0,
+    "legend_hint": "the labels printed along the lines and the bin key printed with the figure",
+    "series_noun": "record",
+    "series": {
+      "lpt24": {"label": "LPT 24", "symbol": "", "noun": "record (18 by 36 in bin, the dashed line the label arrow points to)"},
+      "lpt73": {"label": "LPT 73", "symbol": "", "noun": "record (18 by 36 in bin, the dashed line labeled along it)"},
+      "lpt74": {"label": "LPT 74", "symbol": "", "noun": "record (36 by 36 in bin, the dotted line)"},
+      "lpt69": {"label": "LPT 69", "symbol": "", "noun": "record (54 by 36 in bin, the upper solid line)"},
+      "lpt64a": {"label": "LPT 64A", "symbol": "", "noun": "record (54 by 36 in bin, the lower solid line)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load against penetration for a 4-inch cylinder in dense RS soil in three bin sizes. Printed upright. Five lines: LPT 74 is the only dotted line; LPT 69 and 64A are solid (69 stays above 64A); LPT 24 and 73 are dashed with the same dash pattern (LPT 73 is labeled along its line; the arrow of the LPT 24 label points to the other dashed line). Below about 200 lb all five lines run together into one band beside the left frame; a crosshair there can rarely be told to belong to one test, so answer cannot tell unless the line style shows it."
+  }
+}

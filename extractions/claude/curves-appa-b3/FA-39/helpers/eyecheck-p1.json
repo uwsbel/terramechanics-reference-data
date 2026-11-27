@@ -1,0 +1,10 @@
+{"figure_id": "FA-39", "v_bottom": 3675,
+ "checks": [
+  ["y", "65", 65, 802.5, 1846.5, "ok", "left-axis label 65 with its tick on the heavy line it names; the topmost line of this calibration"],
+  ["y", "75", 75, 806.5, 2407.5, "ok", "left-axis label 75 with its tick on the heavy line"],
+  ["y", "85", 85, 808.5, 2839.5, "ok", "left-axis label 85 with its tick on the heavy line"],
+  ["y", "95", 95, 809.5, 3175, "ok", "left-axis label 95 with its tick on the heavy line; the bottom line of this calibration. The light lines between labels are named by count (four light lines between every two labels, 1 pcf each, from 55 to 115)"],
+  ["x", "0.0", 0.0, 884.5, 3735, "ok", "label under the left frame line"],
+  ["x", "0.5", 0.5, 1565.5, 3730, "ok", "label printed 9 px left of the line it names, still across it; the sixth vertical line"],
+  ["x", "1.0", 1.0, 2240, 3722, "ok", "label printed 26 px left of the right frame line (its right edge reaches u 2270, across the frame); the frame is the eleventh vertical line, so it is 1.0 by count as well"]
+ ]}

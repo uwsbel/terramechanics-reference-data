@@ -1,0 +1,161 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-23,1,rc2,trace,1,926,2257.1,4.0,5.0,,left end: where the line's ink starts; starts just below the start of PS; line style: solid line
+FC-23,1,rc2,trace,2,948,2253.5,4.0,6.0,,Dr 0.00 sampling column u 948.2; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,3,1024,2237.0,4.0,4.5,,Dr 0.05 sampling column u 1024.2; on the ink; close to PS; PS in a gap here
+FC-23,1,rc2,trace,4,1100,2211.9,4.0,6.0,,"Dr 0.10 sampling column u 1100.2; on a vertical grid line: centre from the line's ink within 15 px either side; near PS; RC2 and PS cross here (u about 1094); the two lines coincide, centre of the joint ink"
+FC-23,1,rc2,trace,5,1175,2183.0,4.0,4.5,,Dr 0.15 sampling column u 1174.7; on the ink
+FC-23,1,rc2,trace,6,1249,2149.6,4.0,5.0,,Dr 0.20 sampling column u 1249.2; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,7,1325,2112.5,4.0,6.0,,Dr 0.25 sampling column u 1325.4; on the ink
+FC-23,1,rc2,trace,8,1402,2069.7,4.0,6.6,,Dr 0.30 sampling column u 1401.7; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,rc2,trace,9,1481,2025.5,4.0,6.0,,Dr 0.35 sampling column u 1481.2; on the ink
+FC-23,1,rc2,trace,10,1561,1979.0,4.0,5.5,,Dr 0.40 sampling column u 1560.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,11,1640,1932.0,4.0,5.5,,Dr 0.45 sampling column u 1639.9; on the ink
+FC-23,1,rc2,trace,12,1719,1882.7,4.0,5.0,,Dr 0.50 sampling column u 1719.3; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,13,1798,1833.0,4.0,5.5,,Dr 0.55 sampling column u 1798.5; on the ink
+FC-23,1,rc2,trace,14,1878,1784.5,4.0,5.0,,Dr 0.60 sampling column u 1877.7; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,15,1953,1740.0,4.0,5.5,,Dr 0.65 sampling column u 1952.5; on the ink
+FC-23,1,rc2,trace,16,2027,1696.8,4.0,5.0,,Dr 0.70 sampling column u 2027.3; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,rc2,trace,17,2103,1654.5,4.0,5.0,,Dr 0.75 sampling column u 2103.2; on the ink
+FC-23,1,rc2,trace,18,2179,1611.4,4.0,5.0,,Dr 0.80 sampling column u 2179.0; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,19,2256,1572.0,4.0,4.5,,Dr 0.85 sampling column u 2255.7; on the ink
+FC-23,1,rc2,trace,20,2332,1532.5,4.0,5.0,,Dr 0.90 sampling column u 2332.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,21,2411,1497.0,4.0,4.5,,Dr 0.95 sampling column u 2410.5; on the ink
+FC-23,1,rc2,trace,22,2489,1464.6,4.0,5.0,,Dr 1.00 sampling column u 2488.7; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rc2,trace,23,2510,1457.1,4.0,4.5,,right end: where the line's ink ends
+FC-23,1,rc2,feature,1,926,2257.1,4.0,5.0,,first point (left end of the line's ink); starts just below the start of PS
+FC-23,1,rc2,feature,2,2510,1457.1,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically"
+FC-23,1,rc2,feature,3,1633,1894,5,5,,label: RC2
+FC-23,1,ps,trace,1,924,2245.6,4.0,4.0,,left end: where the line's ink starts; starts just above the start of RC2; line style: short dashes
+FC-23,1,ps,trace,2,944,2241.5,4.0,4.0,,Dr 0.00 sampling column u 948.1; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,ps,trace,3,1026,2226.5,4.0,5.6,,Dr 0.05 sampling column u 1024.2; in a gap between dashes: moved +2 px to the nearest dash end on the ink (rule 7); dash start touching RC2 below it; centre from the top edge
+FC-23,1,ps,trace,4,1100,2211.9,4.0,6.0,,"Dr 0.10 sampling column u 1100.2; on a vertical grid line: centre from the line's ink within 15 px either side; near RC2; RC2 and PS cross here (u about 1094); the two lines coincide, centre of the joint ink"
+FC-23,1,ps,trace,5,1175,2195.0,4.0,4.5,,Dr 0.15 sampling column u 1174.8; on the ink
+FC-23,1,ps,trace,6,1249,2173.2,4.0,5.0,,Dr 0.20 sampling column u 1249.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ps,trace,7,1326,2150.0,4.0,4.5,,Dr 0.25 sampling column u 1325.7; on the ink
+FC-23,1,ps,trace,8,1402,2127.2,4.0,6.0,,Dr 0.30 sampling column u 1402.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ps,trace,9,1482,2102.0,4.0,4.5,,Dr 0.35 sampling column u 1481.8; on the ink
+FC-23,1,ps,trace,10,1561,2075.3,4.0,4.2,,Dr 0.40 sampling column u 1561.4; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,ps,trace,11,1641,2047.5,4.0,4.2,,Dr 0.45 sampling column u 1640.9; on the ink
+FC-23,1,ps,trace,12,1720,2021.7,4.0,6.0,,Dr 0.50 sampling column u 1720.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ps,trace,13,1800,1993.0,4.0,4.5,,Dr 0.55 sampling column u 1799.7; on the ink
+FC-23,1,ps,trace,14,1875,1965.5,4.0,5.0,,Dr 0.60 sampling column u 1879.1; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,ps,trace,15,1951,1941.8,4.0,4.5,,Dr 0.65 sampling column u 1954.1; in a gap between dashes: moved -3 px to the nearest dash end on the ink (rule 7)
+FC-23,1,ps,trace,16,2025,1918.1,4.0,4.5,,Dr 0.70 sampling column u 2029.1; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,ps,trace,17,2105,1895.0,4.0,4.5,,Dr 0.75 sampling column u 2105.2; on the ink
+FC-23,1,ps,trace,18,2177,1872.2,4.0,4.5,,Dr 0.80 sampling column u 2181.3; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,ps,trace,19,2256,1849.0,4.0,4.5,,Dr 0.85 sampling column u 2258.3; in a gap between dashes: moved -2 px to the nearest dash end on the ink (rule 7)
+FC-23,1,ps,trace,20,2339,1824.0,4.0,4.5,,Dr 0.90 sampling column u 2335.3; dash ends at the vertical grid line: moved +4 px to the dash end on the ink (rule 7)
+FC-23,1,ps,trace,21,2414,1804.5,4.0,6.0,,Dr 0.95 sampling column u 2413.5; this line and another coincide here: centre of the joint ink; near RS; PS dash; the RS dash that crosses PS starts about 3 px to the right
+FC-23,1,ps,trace,22,2492,1785.0,4.0,6.1,,Dr 1.00 sampling column u 2491.7; on a vertical grid line: centre from the line's ink within 15 px either side; near RS; RS crosses PS near u 2430 and lies just above here
+FC-23,1,ps,trace,23,2570,1765.5,4.0,4.2,,Dr 1.05 sampling column u 2570.0; on the ink
+FC-23,1,ps,trace,24,2646,1748.1,4.0,4.5,,right end: where the line's ink ends; runs into the right frame
+FC-23,1,ps,feature,1,924,2245.6,4.0,4.0,,first point (left end of the line's ink); starts just above the start of RC2
+FC-23,1,ps,feature,2,2646,1748.1,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically; runs into the right frame"
+FC-23,1,ps,feature,3,1662,2007,5,5,,label: PS
+FC-23,1,rs,trace,1,799,2545.0,4.0,5.0,,left end: where the line's ink starts; ink runs into the left frame (frame at u about 792); the end is cut by the frame; line style: medium dashes
+FC-23,1,rs,trace,2,875,2504.5,4.0,5.0,,Dr -0.05 sampling column u 874.7; on the ink
+FC-23,1,rs,trace,3,950,2464.9,4.0,6.5,,Dr 0.00 sampling column u 950.3; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,rs,trace,4,1019,2428.6,4.0,4.5,,Dr 0.05 sampling column u 1025.9; in a gap between dashes: moved -7 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rs,trace,5,1102,2383.9,4.0,6.0,,Dr 0.10 sampling column u 1101.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rs,trace,6,1176,2345.0,4.0,4.5,,Dr 0.15 sampling column u 1176.0; on the ink
+FC-23,1,rs,trace,7,1250,2308.3,4.0,5.0,,Dr 0.20 sampling column u 1250.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rs,trace,8,1328,2267.6,4.0,5.0,,Dr 0.25 sampling column u 1326.6; in a gap between dashes: moved +1 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rs,trace,9,1403,2230.4,4.0,6.5,,Dr 0.30 sampling column u 1402.8; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rs,trace,10,1482,2192.0,4.0,4.5,,Dr 0.35 sampling column u 1482.4; on the ink
+FC-23,1,rs,trace,11,1566,2151.8,4.0,5.0,,Dr 0.40 sampling column u 1562.1; dash ends at the vertical grid line: moved +4 px to the dash end on the ink (rule 7)
+FC-23,1,rs,trace,12,1641,2116.0,4.0,4.5,,Dr 0.45 sampling column u 1641.4; on the ink
+FC-23,1,rs,trace,13,1713,2085.5,4.0,5.0,,Dr 0.50 sampling column u 1720.9; in a gap between dashes: moved -8 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rs,trace,14,1800,2045.0,4.0,4.5,,Dr 0.55 sampling column u 1800.1; on the ink
+FC-23,1,rs,trace,15,1879,2012.6,4.0,6.4,,Dr 0.60 sampling column u 1879.4; on a vertical grid line: centre from the line's ink within 15 px either side; near RSM-b; RS and RSM-b overlap here (RSM-b crosses RS near u 1850 in a gap of RS); RS centre from the bottom edge of the joint ink
+FC-23,1,rs,trace,16,1954,1984.0,4.0,4.5,,Dr 0.65 sampling column u 1954.4; on the ink
+FC-23,1,rs,trace,17,2025,1957.8,4.0,4.5,,Dr 0.70 sampling column u 2029.4; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,rs,trace,18,2110,1924.3,4.0,4.5,,Dr 0.75 sampling column u 2105.5; in a gap between dashes: moved +5 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rs,trace,19,2182,1897.6,4.0,5.0,,Dr 0.80 sampling column u 2181.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rs,trace,20,2259,1869.0,4.0,5.5,,Dr 0.85 sampling column u 2258.5; on the ink
+FC-23,1,rs,trace,21,2331,1841.3,4.0,4.5,,Dr 0.90 sampling column u 2335.4; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,rs,trace,22,2417,1804.8,4.0,6.0,,Dr 0.95 sampling column u 2413.5; in a gap between dashes: moved +3 px to the nearest dash end on the ink (rule 7); near PS; RS dash start inside the PS ink: RS and PS cross near u 2430 and their ink cannot be separated here; wide bound
+FC-23,1,rs,trace,23,2492,1773.6,4.0,6.3,,Dr 1.00 sampling column u 2491.6; on a vertical grid line: centre from the line's ink within 15 px either side; near PS
+FC-23,1,rs,trace,24,2570,1740.0,4.0,5.5,,Dr 1.05 sampling column u 2569.7; on the ink
+FC-23,1,rs,trace,25,2644,1706.4,4.0,4.5,,right end: where the line's ink ends; ends about 3 px short of the right frame
+FC-23,1,rs,feature,1,799,2545.0,4.0,5.0,,first point (left end of the line's ink); ink runs into the left frame (frame at u about 792); the end is cut by the frame
+FC-23,1,rs,feature,2,2644,1706.4,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically; ends about 3 px short of the right frame"
+FC-23,1,rs,feature,3,1361.5,2218,5,5,,label: RS
+FC-23,1,rsm-b,trace,1,936,2605.1,4.0,4.5,,left end: where the line's ink starts; line style: long dash and two short dashes
+FC-23,1,rsm-b,trace,2,952,2599.4,4.0,5.5,,Dr 0.00 sampling column u 951.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,3,1027,2558.0,4.0,4.5,,Dr 0.05 sampling column u 1027.1; on the ink
+FC-23,1,rsm-b,trace,4,1099,2515.6,4.0,5.0,,Dr 0.10 sampling column u 1102.7; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,rsm-b,trace,5,1177,2468.0,4.0,4.7,,"Dr 0.15 sampling column u 1177.0; on the ink; close to a horizontal grid line; on the 40 deg grid line, just below the printed label RSM-b"
+FC-23,1,rsm-b,trace,6,1251,2423.8,4.0,5.0,,Dr 0.20 sampling column u 1251.3; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,7,1327,2377.0,4.0,4.7,,Dr 0.25 sampling column u 1327.4; on the ink
+FC-23,1,rsm-b,trace,8,1403,2326.7,4.0,5.0,,Dr 0.30 sampling column u 1403.5; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,9,1483,2273.5,4.0,5.0,,Dr 0.35 sampling column u 1483.1; on the ink
+FC-23,1,rsm-b,trace,10,1563,2221.1,4.0,4.8,,Dr 0.40 sampling column u 1562.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,11,1642,2167.5,4.0,5.0,,Dr 0.45 sampling column u 1641.9; on the ink
+FC-23,1,rsm-b,trace,12,1717,2116.3,4.0,4.8,,Dr 0.50 sampling column u 1721.1; dash ends at the vertical grid line: moved -4 px to the dash end on the ink (rule 7)
+FC-23,1,rsm-b,trace,13,1797,2062.2,4.0,6.2,,Dr 0.55 sampling column u 1800.2; in a gap between dashes: moved -3 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rsm-b,trace,14,1879,2004.5,4.0,6.9,,Dr 0.60 sampling column u 1879.4; on a vertical grid line: centre from the line's ink within 15 px either side; near RS; RS and RSM-b overlap here (RSM-b crosses RS near u 1850 in a gap of RS); RSM-b centre from the top edge of the joint ink
+FC-23,1,rsm-b,trace,15,1954,1952.0,4.0,4.8,,Dr 0.65 sampling column u 1954.2; on the ink
+FC-23,1,rsm-b,trace,16,2029,1900.0,4.0,5.5,,Dr 0.70 sampling column u 2029.0; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,17,2105,1848.5,4.0,6.0,,Dr 0.75 sampling column u 2104.8; on the ink
+FC-23,1,rsm-b,trace,18,2181,1799.3,4.0,6.0,,Dr 0.80 sampling column u 2180.7; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,19,2257,1749.0,4.0,5.5,,Dr 0.85 sampling column u 2257.4; on the ink
+FC-23,1,rsm-b,trace,20,2334,1701.2,4.0,5.5,,Dr 0.90 sampling column u 2334.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,21,2412,1656.0,4.0,5.5,,Dr 0.95 sampling column u 2412.1; on the ink
+FC-23,1,rsm-b,trace,22,2490,1612.6,4.0,5.5,,Dr 1.00 sampling column u 2490.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-b,trace,23,2504,1606.5,4.0,4.5,,right end: where the line's ink ends
+FC-23,1,rsm-b,feature,1,936,2605.1,4.0,4.5,,first point (left end of the line's ink)
+FC-23,1,rsm-b,feature,2,2504,1606.5,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically"
+FC-23,1,rsm-b,feature,3,1209,2410.5,5,5,,label: RSM-b
+FC-23,1,rsm-a,trace,1,935,2715.7,4.0,4.7,,left end: where the line's ink starts; line style: long dashes with medium dashes between
+FC-23,1,rsm-a,trace,2,953,2706.6,4.0,6.0,,Dr 0.00 sampling column u 952.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,3,1028,2666.0,4.0,4.5,,Dr 0.05 sampling column u 1028.1; on the ink
+FC-23,1,rsm-a,trace,4,1104,2624.8,4.0,7.0,,Dr 0.10 sampling column u 1103.6; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,5,1178,2584.5,4.0,6.0,,Dr 0.15 sampling column u 1177.9; on the ink
+FC-23,1,rsm-a,trace,6,1252,2545.2,4.0,6.0,,Dr 0.20 sampling column u 1252.2; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,7,1328,2504.5,4.0,4.5,,Dr 0.25 sampling column u 1328.3; on the ink
+FC-23,1,rsm-a,trace,8,1404,2466.8,4.0,6.5,,Dr 0.30 sampling column u 1404.5; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,rsm-a,trace,9,1484,2427.5,4.0,6.0,,Dr 0.35 sampling column u 1484.3; on the ink
+FC-23,1,rsm-a,trace,10,1564,2387.8,4.0,6.0,,Dr 0.40 sampling column u 1564.0; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,11,1643,2350.5,4.0,4.5,,Dr 0.45 sampling column u 1643.4; on the ink
+FC-23,1,rsm-a,trace,12,1723,2310.1,4.0,5.0,,Dr 0.50 sampling column u 1722.7; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,13,1802,2273.0,4.0,4.5,,Dr 0.55 sampling column u 1801.9; on the ink
+FC-23,1,rsm-a,trace,14,1881,2235.2,4.0,5.0,,Dr 0.60 sampling column u 1881.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,15,1956,2198.5,4.0,4.5,,Dr 0.65 sampling column u 1956.1; on the ink
+FC-23,1,rsm-a,trace,16,2036,2163.7,4.0,5.0,,Dr 0.70 sampling column u 2031.1; in a gap between dashes: moved +5 px to the nearest dash end on the ink (rule 7)
+FC-23,1,rsm-a,trace,17,2107,2133.0,4.0,5.5,,Dr 0.75 sampling column u 2107.3; on the ink
+FC-23,1,rsm-a,trace,18,2183,2099.1,4.0,5.0,,Dr 0.80 sampling column u 2183.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,19,2260,2066.0,4.0,4.5,,Dr 0.85 sampling column u 2260.4; on the ink; close to a horizontal grid line
+FC-23,1,rsm-a,trace,20,2337,2033.3,4.0,4.5,,Dr 0.90 sampling column u 2337.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,21,2415,2002.5,4.0,5.0,,Dr 0.95 sampling column u 2415.4; on the ink
+FC-23,1,rsm-a,trace,22,2493,1971.9,4.0,5.0,,Dr 1.00 sampling column u 2493.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,rsm-a,trace,23,2572,1941.5,4.0,6.0,,Dr 1.05 sampling column u 2571.5; on the ink
+FC-23,1,rsm-a,trace,24,2648,1916.8,4.0,4.5,,right end: where the line's ink ends; runs into the right frame
+FC-23,1,rsm-a,feature,1,935,2715.7,4.0,4.7,,first point (left end of the line's ink)
+FC-23,1,rsm-a,feature,2,2648,1916.8,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically; runs into the right frame"
+FC-23,1,rsm-a,feature,3,1786.5,2240,5,5,,label: RSM-a
+FC-23,1,ss,trace,1,945,3295.8,4.0,4.5,,left end: where the line's ink starts; line style: solid line
+FC-23,1,ss,trace,2,958,3292.3,4.0,5.0,,Dr 0.00 sampling column u 958.3; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,3,1033,3265.0,4.0,4.5,,Dr 0.05 sampling column u 1033.4; on the ink
+FC-23,1,ss,trace,4,1108,3236.9,4.0,5.5,,Dr 0.10 sampling column u 1108.5; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,5,1183,3205.0,4.0,4.5,,Dr 0.15 sampling column u 1182.7; on the ink
+FC-23,1,ss,trace,6,1257,3170.4,4.0,5.5,,Dr 0.20 sampling column u 1256.8; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,7,1333,3130.0,4.0,4.6,,Dr 0.25 sampling column u 1332.9; on the ink
+FC-23,1,ss,trace,8,1409,3083.2,4.0,5.0,,Dr 0.30 sampling column u 1408.8; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,9,1489,3022.0,4.0,5.3,,Dr 0.35 sampling column u 1488.9; on the ink
+FC-23,1,ss,trace,10,1569,2946.9,4.0,6.5,,Dr 0.40 sampling column u 1568.7; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,11,1648,2858.0,4.0,6.5,,Dr 0.45 sampling column u 1647.6; on the ink
+FC-23,1,ss,trace,12,1726,2766.8,4.0,6.5,,Dr 0.50 sampling column u 1726.4; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,13,1805,2693.0,4.0,5.3,,Dr 0.55 sampling column u 1805.1; on the ink
+FC-23,1,ss,trace,14,1884,2626.3,4.0,5.0,,Dr 0.60 sampling column u 1884.0; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,15,1959,2579.0,4.0,4.6,,Dr 0.65 sampling column u 1959.0; on the ink
+FC-23,1,ss,trace,16,2034,2535.8,4.0,5.0,,Dr 0.70 sampling column u 2034.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,17,2110,2498.5,4.0,4.5,,Dr 0.75 sampling column u 2110.4; on the ink
+FC-23,1,ss,trace,18,2187,2466.6,4.0,6.5,,Dr 0.80 sampling column u 2186.7; on a vertical grid line: centre from the line's ink within 15 px either side; near a horizontal grid line
+FC-23,1,ss,trace,19,2264,2437.0,4.0,4.2,,Dr 0.85 sampling column u 2263.9; on the ink
+FC-23,1,ss,trace,20,2341,2407.2,4.0,5.0,,Dr 0.90 sampling column u 2341.1; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,21,2419,2381.0,4.0,4.5,,Dr 0.95 sampling column u 2419.0; on the ink
+FC-23,1,ss,trace,22,2497,2353.1,4.0,5.0,,Dr 1.00 sampling column u 2497.0; on a vertical grid line: centre from the line's ink within 15 px either side
+FC-23,1,ss,trace,23,2515,2348.9,4.0,4.5,,right end: where the line's ink ends
+FC-23,1,ss,feature,1,945,3295.8,4.0,4.5,,first point (left end of the line's ink)
+FC-23,1,ss,feature,2,2515,2348.9,4.0,4.5,,"last point (right end of the line's ink); also the maximum of the trace, which rises monotonically"
+FC-23,1,ss,feature,3,1789.5,2650,5,5,,label: SS

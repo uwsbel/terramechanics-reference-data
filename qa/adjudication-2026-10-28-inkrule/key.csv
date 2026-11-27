@@ -1,0 +1,401 @@
+item,batch,figure_id,panel,reader,series_id,sequence,stratum,verdict,reason
+001,curves-appc-b3,FC-6D,1,codex,n1761,60,eligible-far,eligible,own line ink 0.0 px away
+002,curves-appc-b1,FC-1D,1,claude,n294,15,eligible-near,eligible,own line ink 0.5 px away
+003,curves-appc-b1,FC-1C,1,codex,n3520,88,excluded,excluded,"on the stroke of x of n3520 at (1744,1605)"
+004,curves-appc-b1,FC-1C,1,codex,n1172,20,eligible-near,eligible,own line ink 0.5 px away
+005,curves-pilot-b1,FC-1B,1,codex,n294,9,excluded,excluded,"inside circle of n294 at (975,2739), white interior"
+006,curves-appc-b6,FC-6A,1,claude,dr19-28,12,eligible-far,eligible,own line ink 0.0 px away
+007,curves-appc-b1,FC-1C,1,codex,n1172,2,excluded,excluded,"on the stroke of triangle-down of n1172 at (742,2556)"
+008,curves-appa-b2,FA-2,1,claude,lower,47,eligible-near,eligible,own line ink 0.1 px away
+009,curves-appc-b3,FC-6D,1,claude,n4695,42,eligible-far,eligible,own line ink 0.0 px away
+010,curves-appa-b2,FA-38,1,codex,average,20,eligible-far,eligible,own line ink 0.6 px away
+011,curves-appc-b2,FC-3B,1,codex,n2934,62,eligible-far,eligible,own line ink 0.5 px away
+012,curves-pilot-b1,FC-1B,1,codex,n1760,38,excluded,excluded,"on the stroke of plus of n1760 at (1498,2150)"
+013,curves-appc-b1,FC-2B,1,codex,n4400,78,eligible-far,eligible,own line ink 0.5 px away
+014,curves-appc-b2,FC-4B,1,codex,n1761,43,eligible-far,eligible,own line ink 0.5 px away
+015,curves-appc-b1,FC-1C,1,codex,n587,14,review,review,"on a grid line, own line ink 3.6 px away"
+016,curves-appa-b2,FA-6,1,claude,lower,39,review,review,"on the stroke of circle of lower at (992,1750), a symbol only codex recorded"
+017,curves-appc-b1,FC-2B,1,claude,n1468,18,excluded,excluded,"on the stroke of circle of n1468 at (1170,2443)"
+018,curves-appc-b1,FC-2B,1,codex,n1468,25,excluded,excluded,"on the stroke of circle of n1468 at (1112,2462)"
+019,curves-appa-b3,FA-27,1,claude,upper,6,eligible-far,eligible,own line ink 0.1 px away
+020,curves-appc-b1,FC-2C,1,codex,n2200,38,eligible-near,eligible,own line ink 0.5 px away
+021,curves-appc-b1,FC-1C,1,codex,n1172,69,excluded,excluded,"on the stroke of triangle-down of n1172 at (1569,2350)"
+022,curves-appc-b9,FC-14,1,codex,lsm-loose,1,eligible-far,eligible,on a grid line the curve crosses (own ink 2.5 px)
+023,curves-appa-b2,FA-6,1,claude,lower,4,review,review,"on the stroke of circle of upper at (2235,2824), a symbol only codex recorded"
+024,curves-appc-b1,FC-1C,1,claude,n2345,17,eligible-near,eligible,own line ink 0.0 px away
+025,curves-appc-b3,FC-6B,1,claude,n734,49,eligible-near,eligible,own line ink 0.2 px away
+026,curves-appc-b2,FC-4B,1,codex,n3815,85,eligible-far,eligible,own line ink 0.5 px away
+027,curves-appa-b2,FA-22,1,claude,lower,5,review,review,"on the stroke of circle of lower at (2027,2982), a symbol only codex recorded"
+028,curves-appc-b1,FC-1C,1,codex,n1760,26,eligible-far,eligible,own line ink 0.5 px away
+029,curves-appc-b2,FC-3C,1,codex,n4695,14,eligible-far,eligible,own line ink 0.5 px away
+030,curves-appc-b3,FC-6D,1,codex,n1761,24,eligible-near,eligible,own line ink 0.0 px away
+031,curves-appa-b3,FA-27,1,codex,lower,1,review,review,"on a grid line, own line ink 6.1 px away"
+032,curves-appc-b3,FC-6C,1,claude,n714,3,eligible-near,eligible,own line ink 0.5 px away
+033,curves-appc-b1,FC-1C,1,codex,n3520,25,review,review,"inside asterisk of n2935 at (992,1838), on line ink through its interior"
+034,curves-appc-b2,FC-4B,1,claude,n1761,31,eligible-near,eligible,own line ink 0.0 px away
+035,curves-appc-b1,FC-1C,1,claude,n1760,35,eligible-far,eligible,own line ink 0.0 px away
+036,curves-appc-b1,FC-2B,1,codex,n3660,56,eligible-near,eligible,own line ink 0.5 px away
+037,curves-appc-b1,FC-1C,1,codex,n587,11,excluded,excluded,"on the stroke of triangle-up of n587 at (814,2574)"
+038,curves-appc-b1,FC-2B,1,codex,n2200,29,excluded,excluded,"on the stroke of triangle-up of n2200 at (1167,2279)"
+039,curves-appc-b1,FC-1D,1,codex,n0,45,excluded,excluded,"on the stroke of circle of n0 at (1231,2783)"
+040,curves-appc-b2,FC-3B,1,claude,n734,17,eligible-far,eligible,own line ink 0.0 px away
+041,curves-appa-b2,FA-38,1,claude,upper,6,eligible-near,eligible,own line ink 0.7 px away
+042,curves-appa-b2,FA-22,1,claude,average,43,eligible-near,eligible,own line ink 0.0 px away
+043,curves-appa-b2,FA-22,1,codex,upper,12,eligible-near,eligible,own line ink 0.3 px away
+044,curves-appc-b1,FC-2B,1,codex,n734,39,review,review,grow 2: eligible (own line ink 1.8 px away); grow 3: excluded (own line ink 3.0 px away); grow 4: excluded (own line ink 4.0 px away)
+045,curves-appc-b1,FC-2C,1,codex,n3660,63,excluded,excluded,"on the stroke of x of n3660 at (1459,1505)"
+046,curves-appc-b2,FC-3C,1,codex,n1761,64,eligible-near,eligible,own line ink 0.0 px away
+047,curves-appc-b3,FC-5B,1,codex,n2934,15,eligible-far,eligible,own line ink 0.0 px away
+048,curves-appc-b2,FC-3B,1,codex,n734,9,eligible-far,eligible,own line ink 0.5 px away
+049,curves-appc-b1,FC-1D,1,claude,n2345,37,review,review,grow 2: eligible (own line ink 0.5 px away); grow 3: eligible (own line ink 1.1 px away); grow 4: excluded (own line ink 2.1 px away)
+050,curves-appc-b1,FC-2B,1,claude,n734,1,eligible-near,eligible,own line ink 0.0 px away
+051,curves-pilot-b1,FC-1B,1,codex,n2935,16,excluded,excluded,own line ink 3.1 px away
+052,curves-appc-b10,FC-19,1,claude,mean,1,excluded,excluded,"on the stroke of circle of data at (971,2214)"
+053,curves-appc-b1,FC-2B,1,codex,n2200,88,excluded,excluded,"on the stroke of triangle-up of n2200 at (1865,2045)"
+054,curves-pilot-b1,FC-1B,1,codex,n294,66,excluded,excluded,"on the stroke of circle of n294 at (1911,2677)"
+055,curves-appc-b1,FC-1D,1,codex,n3520,48,eligible-near,eligible,own line ink 1.4 px away
+056,curves-appc-b1,FC-2B,1,codex,n734,102,excluded,excluded,"on the stroke of circle of n734 at (2032,2529)"
+057,curves-pilot-b1,FC-1B,1,codex,n1760,80,eligible-far,eligible,own line ink 0.5 px away
+058,curves-appc-b3,FC-6D,1,codex,n2934,64,eligible-far,eligible,own line ink 0.5 px away
+059,curves-appc-b2,FC-3C,1,claude,n3815,74,eligible-far,eligible,own line ink 0.0 px away
+060,curves-pilot-b1,FC-1B,1,codex,n1172,44,excluded,excluded,"inside triangle-down of n1172 at (1552,2346), white interior"
+061,curves-appc-b1,FC-1D,1,codex,n2935,29,excluded,excluded,"on the stroke of asterisk of n2935 at (974,1666)"
+062,curves-appc-b3,FC-6C,1,codex,n4695,22,eligible-near,eligible,own line ink 0.5 px away
+063,curves-appc-b2,FC-4C,1,codex,n2934,58,eligible-far,eligible,own line ink 0.5 px away
+064,curves-appc-b1,FC-2C,1,claude,n3660,18,eligible-near,eligible,own line ink 0.4 px away
+065,curves-appa-b2,FA-22,1,codex,average,16,eligible-near,eligible,own line ink 0.4 px away
+066,curves-appc-b10,FC-19,1,claude,lower,18,eligible-far,eligible,own line ink 1.5 px away
+067,curves-appc-b1,FC-2B,1,claude,n2200,35,eligible-near,eligible,own line ink 0.5 px away
+068,curves-appa-b2,FA-6,1,codex,average,37,review,review,grow 2: eligible (own line ink 1.7 px away); grow 3: excluded (own line ink 3.1 px away); grow 4: excluded (own line ink 4.3 px away)
+069,curves-appc-b1,FC-2C,1,claude,n4400,8,eligible-near,eligible,own line ink 0.4 px away
+070,curves-pilot-b1,FC-1B,1,codex,n1760,6,review,review,grow 2: eligible (own line ink 1.8 px away); grow 3: excluded (own line ink 2.8 px away); grow 4: excluded (own line ink 3.8 px away)
+071,curves-appc-b1,FC-2B,1,claude,n1468,51,eligible-near,eligible,own line ink 0.0 px away
+072,curves-appc-b3,FC-5B,1,codex,n734,53,eligible-far,eligible,own line ink 0.5 px away
+073,curves-appc-b3,FC-6D,1,codex,n147,50,eligible-near,eligible,own line ink 0.0 px away
+074,curves-appc-b3,FC-5B,1,codex,n4695,18,eligible-near,eligible,own line ink 0.5 px away
+075,curves-appc-b1,FC-1C,1,codex,n294,27,eligible-far,eligible,own line ink 0.0 px away
+076,curves-appc-b1,FC-2B,1,codex,n4400,1,excluded,excluded,"on the stroke of asterisk of n4400 at (816,2312)"
+077,curves-appa-b2,FA-26,1,codex,average,6,eligible-near,eligible,own line ink 0.3 px away
+078,curves-appc-b1,FC-1D,1,codex,n294,65,eligible-near,eligible,own line ink 0.5 px away
+079,curves-appc-b2,FC-4B,1,codex,n4695,66,eligible-far,eligible,own line ink 0.5 px away
+080,curves-appc-b1,FC-1C,1,codex,n3520,41,eligible-near,eligible,own line ink 0.5 px away
+081,curves-appa-b2,FA-2,1,codex,average,23,eligible-far,eligible,own line ink 0.1 px away
+082,curves-appc-b10,FC-17,1,claude,upper,1,eligible-far,eligible,own line ink 0.0 px away
+083,curves-appc-b1,FC-1D,1,codex,n2935,28,excluded,excluded,"on the stroke of asterisk of n2935 at (974,1666)"
+084,curves-appc-b3,FC-6B,1,claude,n4695,15,eligible-far,eligible,own line ink 0.0 px away
+085,curves-appc-b1,FC-2B,1,claude,n1468,16,excluded,excluded,"on the stroke of circle of n1468 at (1112,2462)"
+086,curves-appc-b1,FC-2B,1,claude,n734,61,eligible-near,eligible,on a grid line the curve crosses (own ink 3.5 px)
+087,curves-appc-b1,FC-1C,1,codex,n2345,22,eligible-near,eligible,own line ink 0.5 px away
+088,curves-appc-b3,FC-6B,1,claude,n1761,49,eligible-near,eligible,own line ink 0.5 px away
+089,curves-appc-b1,FC-2B,1,codex,n734,35,excluded,excluded,"on the stroke of circle of n734 at (1224,2599)"
+090,curves-appc-b8,FC-11C,1,codex,rsm-loose,4,eligible-far,eligible,own line ink 0.2 px away
+091,curves-appc-b2,FC-4C,1,codex,n3815,14,eligible-far,eligible,own line ink 0.0 px away
+092,curves-appc-b1,FC-1D,1,codex,n2935,91,excluded,excluded,"on the stroke of asterisk of n2935 at (1736,1716)"
+093,curves-appc-b1,FC-1D,1,claude,n294,19,eligible-near,eligible,own line ink 0.3 px away
+094,curves-appc-b1,FC-1D,1,codex,n587,38,eligible-far,eligible,own line ink 0.5 px away
+095,curves-appc-b1,FC-1C,1,codex,n294,12,excluded,excluded,"on the stroke of circle of n294 at (866,2672)"
+096,curves-appa-b1,FA-8,1,codex,curve,21,review,review,"on a grid line, own line ink 4.9 px away"
+097,curves-appc-b1,FC-2B,1,codex,n3660,1,review,review,"inside asterisk of n4400 at (823,2492), on line ink through its interior"
+098,curves-appc-b1,FC-1D,1,codex,n1468,62,eligible-near,eligible,own line ink 0.0 px away
+099,curves-appc-b1,FC-2B,1,codex,n734,7,eligible-near,eligible,own line ink 0.5 px away
+100,curves-appc-b3,FC-6C,1,codex,n2934,55,eligible-far,eligible,own line ink 0.5 px away
+101,curves-pilot-b1,FC-1B,1,claude,n587,40,excluded,excluded,"on the stroke of triangle-up of n587 at (1030,2561)"
+102,curves-appc-b2,FC-4C,1,claude,n2934,22,review,review,grow 2: eligible (own line ink 1.4 px away); grow 3: excluded (own line ink 5.5 px away); grow 4: excluded (own line ink 5.5 px away)
+103,curves-pilot-b1,FC-1B,1,codex,n3520,50,review,review,grow 2: eligible (own line ink 1.0 px away); grow 3: eligible (own line ink 1.0 px away); grow 4: excluded (own line ink 2.0 px away)
+104,curves-appc-b6,FC-7A,1,claude,dr53,12,eligible-far,eligible,own line ink 0.1 px away
+105,curves-appc-b1,FC-1C,1,codex,n2935,68,excluded,excluded,"on the stroke of asterisk of n2935 at (1790,1728)"
+106,curves-appc-b1,FC-2B,1,claude,n4400,59,eligible-near,eligible,own line ink 0.5 px away
+107,curves-appc-b1,FC-2B,1,codex,n734,73,review,review,"on the stroke of circle of n734 at (1681,2548), a symbol only claude recorded"
+108,curves-appc-b1,FC-2B,1,claude,n734,69,eligible-far,eligible,own line ink 0.0 px away
+109,curves-appc-b3,FC-5B,1,codex,n4695,68,eligible-near,eligible,own line ink 0.0 px away
+110,curves-appc-b3,FC-6C,1,codex,n2934,56,eligible-near,eligible,own line ink 0.0 px away
+111,curves-appa-b2,FA-46,1,claude,upper,7,eligible-near,eligible,own line ink 0.5 px away
+112,curves-appa-b3,FA-39,1,codex,upper,3,eligible-far,eligible,own line ink 1.5 px away
+113,curves-pilot-b1,FC-1B,1,codex,n3520,48,excluded,excluded,"on the stroke of x of n3520 at (1726,1697)"
+114,curves-appc-b3,FC-6D,1,claude,n2934,43,eligible-far,eligible,own line ink 0.0 px away
+115,curves-appc-b3,FC-6D,1,claude,n3814,73,eligible-near,eligible,own line ink 0.5 px away
+116,curves-appa-b2,FA-2,1,claude,lower,12,excluded,excluded,"on the stroke of circle of average at (2153,2646)"
+117,curves-appc-b5,FC-1A,1,claude,dr100-116,1,review,review,"on a grid line, own line ink 3.4 px away"
+118,curves-appc-b1,FC-1D,1,codex,n3520,29,excluded,excluded,"on the stroke of x of n3520 at (974,1549)"
+119,curves-appc-b1,FC-1C,1,codex,n3520,40,excluded,excluded,"on the stroke of x of n3520 at (1159,1684)"
+120,curves-appa-b2,FA-46,1,claude,average,40,eligible-near,eligible,on a grid line the curve crosses (own ink 2.8 px)
+121,curves-appc-b1,FC-1D,1,codex,n0,44,excluded,excluded,"on the stroke of circle of n0 at (1231,2783)"
+122,curves-appa-b2,FA-22,1,codex,lower,13,eligible-near,eligible,own line ink 0.1 px away
+123,curves-appc-b1,FC-1D,1,codex,n2345,39,excluded,excluded,"on the stroke of square of n2345 at (1147,1792)"
+124,curves-appa-b2,FA-46,1,claude,average,6,eligible-near,eligible,on a grid line the curve crosses (own ink 2.2 px)
+125,curves-appc-b3,FC-6D,1,codex,n4695,31,eligible-near,eligible,own line ink 0.5 px away
+126,curves-appc-b3,FC-5B,1,codex,n1761,50,eligible-near,eligible,own line ink 0.0 px away
+127,curves-appc-b2,FC-4C,1,claude,n3815,6,eligible-near,eligible,own line ink 0.4 px away
+128,curves-appc-b1,FC-1C,1,claude,n294,13,eligible-near,eligible,own line ink 0.0 px away
+129,curves-appc-b2,FC-4B,1,claude,n1761,35,eligible-near,eligible,own line ink 0.5 px away
+130,curves-appc-b1,FC-2B,1,codex,n3660,111,eligible-near,eligible,own line ink 0.0 px away
+131,curves-appc-b6,FC-7A,1,claude,dr53,14,eligible-far,eligible,own line ink 0.0 px away
+132,curves-appa-b2,FA-2,1,codex,lower,6,eligible-near,eligible,own line ink 0.3 px away
+133,curves-appc-b3,FC-6D,1,codex,n2934,52,eligible-far,eligible,own line ink 0.5 px away
+134,curves-pilot-b1,FC-1B,1,codex,n2935,71,excluded,excluded,"on the stroke of asterisk of n2935 at (2016,1876)"
+135,curves-pilot-b1,FC-1B,1,claude,n587,120,excluded,excluded,"on the stroke of triangle-up of n587 at (1495,2529)"
+136,curves-appa-b2,FA-2,1,claude,average,6,excluded,excluded,"on the stroke of circle of average at (2159,2937)"
+137,curves-appb-b1,FB-3,1,claude,dr99,10,excluded,excluded,own line ink 4.5 px away
+138,curves-appc-b1,FC-2C,1,codex,n4400,17,eligible-near,eligible,own line ink 0.0 px away
+139,curves-pilot-b1,FC-1B,1,codex,n1760,52,excluded,excluded,"on the stroke of plus of n1760 at (1730,2166)"
+140,curves-appc-b3,FC-5B,1,codex,n734,25,eligible-near,eligible,own line ink 0.5 px away
+141,curves-appc-b1,FC-1C,1,codex,n2935,59,review,review,"inside asterisk of n2935 at (1682,1718), on line ink through its interior"
+142,curves-appc-b1,FC-1D,1,codex,n587,104,eligible-near,eligible,own line ink 0.5 px away
+143,curves-appc-b1,FC-2B,1,codex,n734,87,excluded,excluded,"on the stroke of circle of n734 at (1860,2527)"
+144,curves-appc-b2,FC-4C,1,claude,n741,21,eligible-far,eligible,own line ink 0.7 px away
+145,curves-appc-b1,FC-2B,1,claude,n2200,18,eligible-near,eligible,own line ink 0.5 px away
+146,curves-appc-b5,FC-4A,1,codex,dr0,7,eligible-far,eligible,own line ink 0.5 px away
+147,curves-appc-b1,FC-2B,1,codex,n3660,10,excluded,excluded,"on the stroke of x of n3660 at (855,2326)"
+148,curves-appa-b2,FA-38,1,codex,upper,17,eligible-near,eligible,own line ink 1.4 px away
+149,curves-appc-b1,FC-2B,1,codex,n734,16,excluded,excluded,"on the stroke of circle of n734 at (997,2671)"
+150,curves-pilot-b1,FC-1B,1,codex,n1760,23,excluded,excluded,"on the stroke of plus of n1760 at (1266,2198)"
+151,curves-appc-b1,FC-1C,1,codex,n294,42,excluded,excluded,"on the stroke of circle of n294 at (1220,2630)"
+152,curves-appc-b1,FC-2B,1,claude,n4400,23,eligible-near,eligible,own line ink 0.5 px away
+153,curves-appc-b3,FC-6B,1,claude,n734,4,eligible-far,eligible,own line ink 0.3 px away
+154,curves-appc-b1,FC-1C,1,codex,n1172,12,excluded,excluded,"on the stroke of triangle-down of n1172 at (865,2458)"
+155,curves-appc-b3,FC-6C,1,codex,n1961,85,eligible-near,eligible,own line ink 0.0 px away
+156,curves-appc-b1,FC-2C,1,codex,n3660,43,excluded,excluded,"on the stroke of x of n3660 at (1220,1557)"
+157,curves-appa-b2,FA-38,1,codex,lower,17,eligible-near,eligible,own line ink 0.6 px away
+158,curves-appc-b6,FC-5A,1,codex,dr48,9,eligible-far,eligible,own line ink 0.6 px away
+159,curves-appa-b2,FA-26,1,claude,lower,15,eligible-near,eligible,own line ink 2.0 px away
+160,curves-appc-b1,FC-2C,1,codex,n3660,23,review,review,"on the stroke of x of n3660 at (987,1678), a symbol only claude recorded"
+161,curves-appa-b2,FA-22,1,claude,average,28,eligible-near,eligible,own line ink 0.3 px away
+162,curves-appc-b1,FC-1D,1,claude,n587,25,excluded,excluded,"on the stroke of triangle-up of n587 at (1398,2539)"
+163,curves-appc-b2,FC-4B,1,codex,n734,69,eligible-far,eligible,own line ink 0.5 px away
+164,curves-appc-b1,FC-2B,1,codex,n3660,87,excluded,excluded,"on the stroke of x of n3660 at (1800,1729)"
+165,curves-appc-b1,FC-2B,1,claude,n4400,19,eligible-near,eligible,own line ink 0.5 px away
+166,curves-appa-b2,FA-18,1,claude,upper,38,review,review,"on the stroke of circle of lower at (1180,1722), a symbol only codex recorded"
+167,curves-appc-b3,FC-6B,1,codex,n4695,37,eligible-far,eligible,own line ink 0.0 px away
+168,curves-appc-b3,FC-6B,1,codex,n734,61,eligible-near,eligible,own line ink 0.0 px away
+169,curves-appc-b1,FC-1C,1,codex,n2935,48,eligible-near,eligible,own line ink 0.5 px away
+170,curves-appc-b3,FC-5B,1,claude,n3815,1,excluded,excluded,"on the stroke of triangle-down of n3815 at (708,2124)"
+171,curves-appc-b2,FC-3B,1,claude,n4695,9,eligible-near,eligible,own line ink 0.0 px away
+172,curves-appc-b2,FC-4B,1,codex,n1761,1,review,review,grow 2: eligible (own line ink 0.5 px away); grow 3: eligible (own line ink 1.1 px away); grow 4: excluded (own line ink 2.1 px away)
+173,curves-appc-b2,FC-3C,1,claude,n2934,1,eligible-near,eligible,own line ink 0.5 px away
+174,curves-appc-b1,FC-1D,1,codex,n587,84,excluded,excluded,"on the stroke of triangle-up of n587 at (1634,2578)"
+175,curves-appc-b6,FC-6A,1,codex,dr19-28,1,eligible-far,eligible,own line ink 0.0 px away
+176,curves-appa-b2,FA-6,1,codex,upper,13,eligible-near,eligible,own line ink 0.4 px away
+177,curves-pilot-b1,FC-1B,1,codex,n294,44,excluded,excluded,"inside circle of n294 at (1558,2674), white interior"
+178,curves-pilot-b1,FC-1B,1,codex,n1172,51,excluded,excluded,own line ink 8.0 px away
+179,curves-appc-b2,FC-3C,1,claude,n734,78,excluded,excluded,own line ink 7.0 px away
+180,curves-appc-b1,FC-1C,1,codex,n2345,49,excluded,excluded,"on the stroke of square of n2345 at (1272,1958)"
+181,curves-appc-b3,FC-6C,1,codex,n1961,87,eligible-near,eligible,own line ink 0.0 px away
+182,curves-appc-b1,FC-1C,1,codex,n2935,32,review,review,"inside asterisk of n2935 at (1339,1685), on line ink through its interior"
+183,curves-appa-b3,FA-23,1,claude,lower,2,eligible-far,eligible,own line ink 0.6 px away
+184,curves-appc-b1,FC-1D,1,codex,n587,11,excluded,excluded,"on the stroke of triangle-up of n587 at (760,2558)"
+185,curves-appc-b3,FC-6C,1,claude,n2934,29,eligible-near,eligible,own line ink 0.0 px away
+186,curves-appc-b1,FC-2B,1,claude,n4400,10,eligible-near,eligible,own line ink 0.5 px away
+187,curves-appc-b1,FC-2B,1,codex,n2995,23,eligible-near,eligible,own line ink 0.5 px away
+188,curves-pilot-b1,FC-1B,1,codex,n587,65,eligible-near,eligible,own line ink 1.0 px away
+189,curves-appc-b1,FC-2C,1,claude,n3660,22,excluded,excluded,"on the stroke of x of n3660 at (1345,1524)"
+190,curves-appc-b1,FC-2C,1,codex,n3660,41,eligible-near,eligible,own line ink 0.5 px away
+191,curves-appc-b1,FC-1C,1,codex,n294,30,excluded,excluded,"on the stroke of circle of n294 at (1098,2633)"
+192,curves-appa-b3,FA-27,1,claude,upper,11,review,review,"on a grid line, own line ink 6.1 px away"
+193,curves-pilot-b1,FC-1B,1,codex,n294,78,excluded,excluded,"inside circle of n294 at (2144,2675), white interior"
+194,curves-appc-b1,FC-2B,1,codex,n2995,49,excluded,excluded,"on the stroke of square of n2995 at (1402,2000)"
+195,curves-appc-b1,FC-2C,1,codex,n4400,40,excluded,excluded,"on the stroke of asterisk of n4400 at (1285,1338)"
+196,curves-appa-b2,FA-6,1,claude,average,30,review,review,"on the stroke of circle of average at (1584,1885), a symbol only codex recorded"
+197,curves-appa-b1,FA-40,1,codex,band-top,1,review,review,"on a grid line, own line ink 7.4 px away"
+198,curves-appc-b10,FC-16,1,codex,lower,25,review,review,grow 2: eligible (own line ink 2.0 px away); grow 3: excluded (own line ink 3.0 px away); grow 4: excluded (own line ink 4.0 px away)
+199,curves-pilot-b1,FC-1B,1,codex,n1760,14,eligible-near,eligible,own line ink 0.1 px away
+200,curves-appa-b1,FA-20,1,codex,curve,1,review,review,"on a grid line, own line ink 5.8 px away"
+201,curves-appc-b1,FC-2B,1,claude,n1468,50,excluded,excluded,"on the stroke of circle of n1468 at (1807,2292)"
+202,curves-appa-b2,FA-6,1,claude,upper,30,review,review,"on the stroke of circle of upper at (1524,1886), a symbol only codex recorded"
+203,curves-appa-b2,FA-18,1,claude,lower,30,excluded,excluded,own line ink 2.2 px away
+204,curves-appc-b1,FC-2B,1,claude,n2200,16,eligible-near,eligible,own line ink 0.5 px away
+205,curves-appc-b3,FC-6D,1,codex,n3814,68,eligible-near,eligible,own line ink 0.5 px away
+206,curves-appc-b3,FC-6D,1,codex,n2934,68,eligible-near,eligible,own line ink 0.5 px away
+207,curves-appc-b1,FC-1C,1,codex,n587,97,excluded,excluded,"on the stroke of triangle-up of n587 at (1863,2518)"
+208,curves-appc-b1,FC-1D,1,codex,n1468,1,excluded,excluded,"on the stroke of triangle-down of n1468 at (642,2526)"
+209,curves-appc-b1,FC-2C,1,codex,n4400,59,excluded,excluded,"on the stroke of asterisk of n4400 at (1512,1289)"
+210,curves-appc-b2,FC-4B,1,codex,n3815,54,eligible-near,eligible,own line ink 0.0 px away
+211,curves-appc-b1,FC-2B,1,codex,n3660,40,eligible-near,eligible,on a grid line the curve crosses (own ink 3.0 px)
+212,curves-appc-b1,FC-2B,1,codex,n2995,16,eligible-near,eligible,own line ink 0.0 px away
+213,curves-appa-b2,FA-2,1,codex,lower,49,eligible-near,eligible,own line ink 0.5 px away
+214,curves-appc-b1,FC-2B,1,claude,n734,53,review,review,"on a grid line, own line ink 2.2 px away"
+215,curves-appa-b2,FA-6,1,codex,upper,28,eligible-near,eligible,own line ink 0.3 px away
+216,curves-appc-b2,FC-3C,1,claude,n2934,36,excluded,excluded,"on the stroke of triangle-down of n2934 at (1321,1829)"
+217,curves-pilot-b1,FC-1B,1,codex,n1172,28,excluded,excluded,"on the stroke of triangle-down of n1172 at (1324,2358)"
+218,curves-appa-b2,FA-2,1,codex,average,9,eligible-near,eligible,own line ink 0.1 px away
+219,curves-appa-b3,FA-39,1,claude,upper,9,eligible-far,eligible,own line ink 0.1 px away
+220,curves-appc-b3,FC-6C,1,claude,n714,8,eligible-near,eligible,own line ink 0.0 px away
+221,curves-appa-b2,FA-46,1,claude,upper,10,eligible-near,eligible,on a grid line the curve crosses (own ink 4.3 px)
+222,curves-appc-b3,FC-6B,1,codex,n4695,52,eligible-near,eligible,own line ink 0.0 px away
+223,curves-appc-b2,FC-3B,1,claude,n3815,28,eligible-near,eligible,own line ink 0.5 px away
+224,curves-appa-b3,FA-39,1,claude,upper,1,review,review,"on a grid line, own line ink 4.5 px away"
+225,curves-appc-b2,FC-3C,1,claude,n3815,81,eligible-near,eligible,own line ink 0.0 px away
+226,curves-appc-b1,FC-2B,1,codex,n4400,53,excluded,excluded,"on the stroke of asterisk of n4400 at (1452,1670)"
+227,curves-appc-b1,FC-2B,1,claude,n1468,28,review,review,grow 2: eligible (own line ink 1.1 px away); grow 3: excluded (own line ink 2.1 px away); grow 4: excluded (own line ink 3.0 px away)
+228,curves-appc-b3,FC-6B,1,codex,n734,72,eligible-near,eligible,own line ink 0.5 px away
+229,curves-appc-b1,FC-2C,1,codex,n4400,62,eligible-near,eligible,own line ink 0.0 px away
+230,curves-appc-b3,FC-6C,1,codex,n714,75,eligible-near,eligible,own line ink 0.0 px away
+231,curves-appc-b1,FC-1C,1,codex,n294,40,review,review,grow 2: eligible (own line ink 2.0 px away); grow 3: excluded (own line ink 3.0 px away); grow 4: excluded (own line ink 4.0 px away)
+232,curves-appa-b3,FA-39,1,claude,mean,1,review,review,"on a grid line, own line ink 5.9 px away"
+233,curves-appa-b3,FA-39,1,codex,mean,10,eligible-far,eligible,own line ink 0.4 px away
+234,curves-appa-b2,FA-18,1,codex,average,11,eligible-near,eligible,own line ink 0.7 px away
+235,curves-appc-b2,FC-4C,1,claude,n741,36,eligible-far,eligible,own line ink 0.6 px away
+236,curves-appc-b11,FC-22,1,codex,mean,21,excluded,excluded,"on the stroke of circle of data at (2342,1585)"
+237,curves-appc-b1,FC-2B,1,codex,n734,5,excluded,excluded,"on the stroke of circle of n734 at (868,2723)"
+238,curves-appc-b1,FC-1D,1,codex,n2935,84,eligible-near,eligible,own line ink 0.5 px away
+239,curves-appa-b1,FA-40,1,codex,band-bottom,15,review,review,"on a grid line, own line ink 6.3 px away"
+240,curves-appa-b1,FA-4,1,codex,curve,20,eligible-far,eligible,own line ink 0.6 px away
+241,curves-appc-b2,FC-4B,1,claude,n2934,26,eligible-near,eligible,own line ink 0.5 px away
+242,curves-appc-b10,FC-16,1,codex,mean,14,eligible-far,eligible,own line ink 0.0 px away
+243,curves-appc-b1,FC-2B,1,codex,n4400,30,excluded,excluded,"on the stroke of asterisk of n4400 at (1167,1839)"
+244,curves-appc-b3,FC-6D,1,claude,n1761,8,eligible-near,eligible,own line ink 0.5 px away
+245,curves-appc-b1,FC-1C,1,codex,n2935,41,excluded,excluded,"on the stroke of asterisk of n2935 at (1452,1685)"
+246,curves-appc-b1,FC-1D,1,codex,n3520,1,excluded,excluded,"on the stroke of x of n3520 at (626,2134)"
+247,curves-appa-b3,FA-23,1,codex,lower,1,review,review,"on a grid line, own line ink 3.0 px away"
+248,curves-appa-b2,FA-6,1,codex,upper,3,review,review,grow 2: eligible (own line ink 1.0 px away); grow 3: excluded (own line ink 2.0 px away); grow 4: excluded (own line ink 3.0 px away)
+249,curves-appa-b2,FA-18,1,codex,upper,30,eligible-near,eligible,own line ink 0.6 px away
+250,curves-appa-b2,FA-6,1,claude,average,46,eligible-far,eligible,own line ink 0.7 px away
+251,curves-appc-b5,FC-1A,1,claude,dr50-57,6,eligible-near,eligible,own line ink 0.0 px away
+252,curves-appc-b2,FC-3B,1,claude,n734,25,eligible-far,eligible,own line ink 0.5 px away
+253,curves-appc-b2,FC-4C,1,claude,n1761,9,excluded,excluded,own line ink 3.2 px away
+254,curves-appc-b3,FC-5B,1,codex,n4695,49,eligible-near,eligible,own line ink 0.5 px away
+255,curves-appc-b1,FC-2B,1,codex,n734,109,review,review,"on the stroke of circle of n734 at (2102,2536), a symbol only codex recorded"
+256,curves-appc-b1,FC-2B,1,codex,n4400,31,review,review,"inside asterisk of n4400 at (1167,1839), on line ink through its interior"
+257,curves-appa-b1,FA-8,1,claude,curve,20,eligible-far,eligible,own line ink 0.6 px away
+258,curves-appc-b3,FC-6D,1,codex,n4695,59,eligible-near,eligible,own line ink 0.5 px away
+259,curves-appc-b1,FC-1D,1,claude,n0,4,eligible-near,eligible,own line ink 0.5 px away
+260,curves-appc-b1,FC-2B,1,codex,n2995,40,excluded,excluded,"on the stroke of square of n2995 at (1284,2052)"
+261,curves-pilot-b1,FC-1B,1,codex,n2345,35,excluded,excluded,"inside square of n2345 at (1438,2065), white interior"
+262,curves-appc-b1,FC-1C,1,codex,n2345,96,review,review,"on the stroke of square of n2345 at (1814,1989), a symbol only codex recorded"
+263,curves-appc-b5,FC-1A,1,codex,dr50-57,1,eligible-near,eligible,own line ink 0.0 px away
+264,curves-appc-b1,FC-2B,1,claude,n2200,28,excluded,excluded,"on the stroke of triangle-up of n2200 at (1395,2160)"
+265,curves-pilot-b1,FC-1B,1,codex,n294,60,eligible-far,eligible,own line ink 0.5 px away
+266,curves-appc-b1,FC-2B,1,codex,n3660,3,excluded,excluded,own line ink 3.0 px away
+267,curves-appc-b3,FC-6D,1,claude,n2934,15,eligible-far,eligible,own line ink 0.0 px away
+268,curves-appc-b1,FC-1D,1,codex,n2345,48,excluded,excluded,"on the stroke of square of n2345 at (1260,1795)"
+269,curves-appc-b3,FC-5B,1,codex,n734,78,eligible-near,eligible,own line ink 0.0 px away
+270,curves-appc-b1,FC-2B,1,codex,n2995,19,review,review,grow 2: eligible (own line ink 1.1 px away); grow 3: excluded (own line ink 2.1 px away); grow 4: excluded (own line ink 3.0 px away)
+271,curves-appc-b11,FC-20,1,codex,mean,22,excluded,excluded,"on the stroke of circle of data at (2341,2321)"
+272,curves-appc-b3,FC-6D,1,codex,n147,37,eligible-near,eligible,own line ink 0.5 px away
+273,curves-pilot-b1,FC-1B,1,codex,n587,35,eligible-near,eligible,own line ink 0.2 px away
+274,curves-appc-b3,FC-6D,1,claude,n4695,13,eligible-far,eligible,own line ink 0.5 px away
+275,curves-appc-b3,FC-6C,1,codex,n714,15,eligible-near,eligible,own line ink 0.0 px away
+276,curves-appc-b1,FC-1D,1,codex,n3520,116,eligible-near,eligible,own line ink 0.0 px away
+277,curves-appc-b1,FC-1C,1,codex,n587,69,excluded,excluded,"on the stroke of triangle-up of n587 at (1512,2450)"
+278,curves-appc-b1,FC-2B,1,codex,n3660,83,eligible-far,eligible,own line ink 0.5 px away
+279,curves-appc-b1,FC-2C,1,codex,n4400,45,excluded,excluded,"on the stroke of asterisk of n4400 at (1344,1319)"
+280,curves-appc-b1,FC-2C,1,codex,n4400,70,eligible-near,eligible,own line ink 0.0 px away
+281,curves-appc-b2,FC-4C,1,claude,n2934,34,excluded,excluded,own line ink 4.0 px away
+282,curves-appc-b1,FC-2B,1,codex,n2995,61,eligible-far,eligible,own line ink 0.5 px away
+283,curves-appc-b1,FC-1D,1,codex,n2345,38,excluded,excluded,"on the stroke of square of n2345 at (1147,1792)"
+284,curves-appc-b1,FC-2C,1,codex,n1468,17,excluded,excluded,"on the stroke of circle of n1468 at (901,2284)"
+285,curves-pilot-b1,FC-1B,1,claude,n3520,125,eligible-far,eligible,own line ink 0.0 px away
+286,curves-appa-b2,FA-26,1,codex,average,11,eligible-far,eligible,own line ink 0.5 px away
+287,curves-appc-b1,FC-2B,1,codex,n734,27,eligible-near,eligible,own line ink 0.5 px away
+288,curves-appa-b2,FA-26,1,codex,upper,26,eligible-near,eligible,own line ink 0.4 px away
+289,curves-appc-b1,FC-2C,1,codex,n4400,1,excluded,excluded,"on the stroke of asterisk of n4400 at (813,1814)"
+290,curves-appa-b2,FA-22,1,codex,lower,38,eligible-near,eligible,own line ink 0.5 px away
+291,curves-appa-b2,FA-2,1,claude,average,51,eligible-near,eligible,own line ink 0.5 px away
+292,curves-appc-b1,FC-2B,1,codex,n1468,40,excluded,excluded,"on the stroke of circle of n1468 at (1287,2395)"
+293,curves-appc-b1,FC-1C,1,codex,n1760,17,excluded,excluded,"on the stroke of plus of n1760 at (922,2295)"
+294,curves-appa-b2,FA-38,1,claude,upper,29,excluded,excluded,"on the stroke of circle of upper at (969,1878)"
+295,curves-pilot-b1,FC-1B,1,codex,n2345,80,excluded,excluded,"on the stroke of square of n2345 at (2196,2046)"
+296,curves-appc-b3,FC-6B,1,codex,n2934,67,eligible-far,eligible,own line ink 0.5 px away
+297,curves-pilot-b1,FC-1B,1,codex,n2935,10,excluded,excluded,own line ink 2.5 px away
+298,curves-appc-b1,FC-1C,1,claude,n2345,43,eligible-near,eligible,own line ink 0.0 px away
+299,curves-pilot-b1,FC-1B,1,claude,n294,95,excluded,excluded,"on the stroke of circle of n294 at (1329,2676)"
+300,curves-appa-b2,FA-46,1,claude,lower,40,eligible-near,eligible,own line ink 0.4 px away
+301,curves-appc-b2,FC-3C,1,claude,n3815,28,eligible-near,eligible,own line ink 0.5 px away
+302,curves-pilot-b1,FC-1B,1,codex,n294,28,excluded,excluded,"inside circle of n294 at (1329,2676), white interior"
+303,curves-appc-b1,FC-2B,1,codex,n2995,102,excluded,excluded,"on the stroke of square of n2995 at (2042,1858)"
+304,curves-appc-b2,FC-3C,1,codex,n734,70,excluded,excluded,"on the stroke of triangle-up of n734 at (1972,2569)"
+305,curves-appc-b2,FC-4C,1,claude,n2934,25,eligible-far,eligible,own line ink 0.5 px away
+306,curves-appa-b2,FA-22,1,claude,lower,42,eligible-near,eligible,own line ink 0.0 px away
+307,curves-appc-b3,FC-6C,1,claude,n714,38,eligible-near,eligible,own line ink 0.0 px away
+308,curves-appc-b3,FC-6D,1,codex,n4695,35,eligible-near,eligible,own line ink 0.0 px away
+309,curves-appb-b1,FB-6,1,codex,dr02,1,review,review,grow 2: eligible (own line ink 1.5 px away); grow 3: excluded (own line ink 2.8 px away); grow 4: excluded (own line ink 4.2 px away)
+310,curves-appc-b1,FC-2B,1,claude,n1468,22,eligible-near,eligible,own line ink 0.5 px away
+311,curves-appc-b2,FC-4B,1,claude,n4695,19,eligible-near,eligible,own line ink 0.0 px away
+312,curves-appc-b1,FC-1D,1,codex,n294,38,excluded,excluded,"on the stroke of circle of n294 at (1054,2610)"
+313,curves-appc-b2,FC-4B,1,claude,n1761,12,eligible-near,eligible,own line ink 0.5 px away
+314,curves-appc-b1,FC-2B,1,claude,n4400,36,excluded,excluded,"on the stroke of asterisk of n4400 at (1452,1670)"
+315,curves-appc-b2,FC-3C,1,claude,n4695,21,eligible-far,eligible,own line ink 0.5 px away
+316,curves-appc-b2,FC-3C,1,claude,n2934,96,eligible-near,eligible,own line ink 0.0 px away
+317,curves-appc-b1,FC-2B,1,codex,n3660,88,excluded,excluded,"on the stroke of x of n3660 at (1800,1729)"
+318,curves-appc-b1,FC-1D,1,codex,n587,29,excluded,excluded,"on the stroke of triangle-up of n587 at (988,2487)"
+319,curves-appc-b1,FC-2B,1,claude,n3660,34,eligible-near,eligible,own line ink 0.0 px away
+320,curves-appc-b3,FC-6C,1,claude,n714,23,eligible-near,eligible,own line ink 0.5 px away
+321,curves-appc-b1,FC-1D,1,codex,n1468,54,excluded,excluded,"on the stroke of triangle-down of n1468 at (1276,2144)"
+322,curves-appc-b1,FC-1D,1,codex,n2935,49,excluded,excluded,"on the stroke of asterisk of n2935 at (1209,1594)"
+323,curves-appc-b1,FC-1D,1,codex,n2345,37,excluded,excluded,"on the stroke of square of n2345 at (1147,1792)"
+324,curves-appc-b5,FC-1A,1,codex,dr100-116,11,eligible-far,eligible,own line ink 0.5 px away
+325,curves-appc-b2,FC-3C,1,codex,n734,44,review,review,"on a grid line, own line ink 2.7 px away"
+326,curves-appc-b1,FC-2B,1,claude,n2995,18,eligible-near,eligible,own line ink 0.5 px away
+327,curves-appc-b11,FC-20,1,claude,lower,4,eligible-far,eligible,own line ink 0.6 px away
+328,curves-appc-b1,FC-2C,1,codex,n3660,74,review,review,"inside x of n3660 at (1586,1503), on line ink through its interior"
+329,curves-appa-b2,FA-2,1,claude,lower,9,excluded,excluded,"on the stroke of circle of average at (2157,2790)"
+330,curves-appc-b1,FC-1C,1,codex,n2935,60,excluded,excluded,"on the stroke of asterisk of n2935 at (1682,1718)"
+331,curves-appc-b1,FC-1C,1,claude,n3520,18,eligible-far,eligible,own line ink 0.0 px away
+332,curves-appc-b1,FC-2B,1,codex,n2995,29,review,review,"inside square of n2995 at (1167,2115), on line ink through its interior"
+333,curves-appc-b1,FC-1D,1,codex,n1468,53,excluded,excluded,"on the stroke of triangle-down of n1468 at (1276,2144)"
+334,curves-appc-b3,FC-5B,1,codex,n4695,21,eligible-near,eligible,own line ink 0.5 px away
+335,curves-appa-b3,FA-7,1,codex,mean,9,eligible-far,eligible,own line ink 0.5 px away
+336,curves-pilot-b1,FC-1B,1,codex,n2935,24,excluded,excluded,"on the stroke of asterisk of n2935 at (1258,1986)"
+337,curves-appc-b1,FC-1D,1,codex,n2935,69,excluded,excluded,"on the stroke of asterisk of n2935 at (1440,1641)"
+338,curves-appc-b1,FC-1C,1,codex,n2345,90,excluded,excluded,"on the stroke of square of n2345 at (1740,1966)"
+339,curves-appc-b1,FC-2B,1,codex,n734,112,eligible-near,eligible,own line ink 1.0 px away
+340,curves-appc-b3,FC-6B,1,claude,n1761,1,eligible-near,eligible,own line ink 0.5 px away
+341,curves-appc-b1,FC-2B,1,codex,n1468,17,excluded,excluded,"on the stroke of circle of n1468 at (1000,2520)"
+342,curves-pilot-b1,FC-1B,1,codex,n2345,24,excluded,excluded,"on the stroke of square of n2345 at (1263,2122)"
+343,curves-appa-b2,FA-38,1,claude,upper,22,eligible-near,eligible,own line ink 1.7 px away
+344,curves-appc-b2,FC-3C,1,claude,n734,44,eligible-near,eligible,own line ink 0.0 px away
+345,curves-pilot-b1,FC-1B,1,codex,n587,16,excluded,excluded,"on the stroke of triangle-up of n587 at (1146,2534)"
+346,curves-appc-b1,FC-1C,1,claude,n1172,8,eligible-near,eligible,own line ink 0.0 px away
+347,curves-appc-b3,FC-5B,1,codex,n4695,42,eligible-near,eligible,own line ink 0.0 px away
+348,curves-appc-b3,FC-5B,1,codex,n4695,60,eligible-near,eligible,own line ink 0.0 px away
+349,curves-appc-b1,FC-1C,1,codex,n1172,11,excluded,excluded,"on the stroke of triangle-down of n1172 at (865,2458)"
+350,curves-appa-b3,FA-47,1,codex,mean,11,eligible-far,eligible,own line ink 0.0 px away
+351,curves-appc-b1,FC-2B,1,codex,n2995,31,eligible-near,eligible,own line ink 0.0 px away
+352,curves-appc-b2,FC-3B,1,codex,n1761,60,eligible-far,eligible,own line ink 0.0 px away
+353,curves-appc-b1,FC-1C,1,codex,n3520,55,eligible-far,eligible,own line ink 0.0 px away
+354,curves-appc-b1,FC-1C,1,claude,n3520,17,eligible-near,eligible,own line ink 0.0 px away
+355,curves-appc-b1,FC-2B,1,codex,n734,17,review,review,grow 2: eligible (own line ink 1.8 px away); grow 3: excluded (own line ink 3.0 px away); grow 4: excluded (own line ink 4.0 px away)
+356,curves-appc-b1,FC-2B,1,codex,n2200,8,eligible-near,eligible,own line ink 0.5 px away
+357,curves-appc-b1,FC-2B,1,claude,n734,25,eligible-near,eligible,own line ink 0.5 px away
+358,curves-appa-b2,FA-26,1,claude,average,18,eligible-near,eligible,own line ink 0.0 px away
+359,curves-appc-b1,FC-2B,1,codex,n1468,84,excluded,excluded,"on the stroke of circle of n1468 at (1807,2292)"
+360,curves-appc-b1,FC-2B,1,claude,n1468,25,excluded,excluded,"on the stroke of circle of n1468 at (1287,2395)"
+361,curves-appc-b1,FC-1C,1,codex,n2345,88,excluded,excluded,"on the stroke of square of n2345 at (1740,1966)"
+362,curves-appc-b2,FC-4B,1,codex,n1761,63,eligible-near,eligible,own line ink 0.0 px away
+363,curves-appc-b2,FC-4B,1,claude,n3815,33,eligible-far,eligible,own line ink 0.5 px away
+364,curves-appc-b9,FC-12,1,claude,rc2-loose,11,excluded,excluded,"on the stroke of triangle-up of rc2-loose at (1948,2406)"
+365,curves-appa-b2,FA-6,1,codex,upper,20,eligible-far,eligible,own line ink 0.5 px away
+366,curves-appc-b1,FC-1D,1,codex,n294,9,excluded,excluded,"on the stroke of circle of n294 at (710,2698)"
+367,curves-appc-b3,FC-6C,1,codex,n3815,13,review,review,grow 2: eligible (own line ink 1.0 px away); grow 3: eligible (own line ink 2.0 px away); grow 4: excluded (own line ink 3.0 px away)
+368,curves-appc-b1,FC-2C,1,claude,n2200,16,review,review,grow 2: eligible (own line ink 1.0 px away); grow 3: eligible (own line ink 1.4 px away); grow 4: excluded (own line ink 2.8 px away)
+369,curves-appb-b1,FB-4,1,codex,dr86,7,eligible-far,eligible,own line ink 0.3 px away
+370,curves-appa-b1,FA-40,1,claude,band-top,4,review,review,"on a grid line, own line ink 7.5 px away"
+371,curves-appc-b1,FC-1D,1,codex,n587,2,excluded,excluded,"on the stroke of triangle-up of n587 at (638,2694)"
+372,curves-appc-b1,FC-2C,1,codex,n3660,68,review,review,"inside x of n3660 at (1515,1504), on line ink through its interior"
+373,curves-appc-b3,FC-5B,1,claude,n734,47,eligible-far,eligible,own line ink 0.5 px away
+374,curves-appc-b3,FC-6D,1,codex,n1761,77,eligible-near,eligible,own line ink 0.5 px away
+375,curves-appc-b1,FC-1C,1,claude,n2935,4,eligible-near,eligible,own line ink 0.0 px away
+376,curves-appa-b2,FA-46,1,codex,lower,32,eligible-near,eligible,own line ink 0.4 px away
+377,curves-appa-b1,FA-48,1,claude,curve,8,eligible-far,eligible,own line ink 0.4 px away
+378,curves-appa-b2,FA-26,1,codex,upper,14,eligible-far,eligible,own line ink 0.3 px away
+379,curves-appc-b2,FC-3B,1,codex,n3815,57,eligible-far,eligible,own line ink 0.5 px away
+380,curves-appc-b1,FC-2C,1,claude,n4400,19,excluded,excluded,"on the stroke of asterisk of n4400 at (1344,1319)"
+381,curves-appc-b2,FC-3C,1,claude,n4695,1,eligible-near,eligible,own line ink 0.0 px away
+382,curves-appa-b2,FA-38,1,claude,lower,30,review,review,grow 2: eligible (own line ink 1.9 px away); grow 3: excluded (own line ink 3.1 px away); grow 4: excluded (own line ink 4.0 px away)
+383,curves-pilot-b1,FC-1B,1,codex,n1760,73,eligible-near,eligible,own line ink 0.5 px away
+384,curves-appc-b5,FC-1A,1,codex,dr50-57,15,eligible-near,eligible,own line ink 0.0 px away
+385,curves-appa-b2,FA-38,1,codex,average,19,eligible-near,eligible,own line ink 0.3 px away
+386,curves-appc-b3,FC-5B,1,codex,n2934,39,eligible-near,eligible,own line ink 0.0 px away
+387,curves-appc-b2,FC-4C,1,codex,n1761,35,review,review,grow 2: eligible (own line ink 1.0 px away); grow 3: eligible (own line ink 2.0 px away); grow 4: excluded (own line ink 3.0 px away)
+388,curves-appc-b3,FC-6D,1,claude,n3814,32,eligible-far,eligible,own line ink 0.0 px away
+389,curves-appc-b3,FC-6C,1,codex,n714,39,eligible-near,eligible,own line ink 0.0 px away
+390,curves-appc-b1,FC-1C,1,claude,n1172,4,eligible-near,eligible,own line ink 0.0 px away
+391,curves-appc-b2,FC-3B,1,claude,n3815,20,eligible-near,eligible,own line ink 0.5 px away
+392,curves-appc-b1,FC-1C,1,claude,n294,23,eligible-far,eligible,own line ink 0.0 px away
+393,curves-appc-b5,FC-4A,1,codex,dr95,5,eligible-far,eligible,own line ink 0.0 px away
+394,curves-appc-b1,FC-2C,1,codex,n2995,26,eligible-near,eligible,own line ink 0.5 px away
+395,curves-appa-b2,FA-38,1,codex,upper,16,eligible-near,eligible,on a grid line the curve crosses (own ink 2.5 px)
+396,curves-appc-b1,FC-2B,1,codex,n1468,24,eligible-near,eligible,own line ink 0.5 px away
+397,curves-appc-b1,FC-2B,1,codex,n4400,54,excluded,excluded,"on the stroke of asterisk of n4400 at (1452,1670)"
+398,curves-appc-b1,FC-2B,1,codex,n2995,110,eligible-near,eligible,own line ink 0.0 px away
+399,curves-appc-b1,FC-1C,1,codex,n587,38,excluded,excluded,own line ink 3.4 px away
+400,curves-appc-b1,FC-2C,1,claude,n1468,1,excluded,excluded,"on the stroke of circle of n1468 at (705,2685)"

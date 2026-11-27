@@ -1,0 +1,72 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F2-34,1,lpt87,trace,1,2221,3654,6,4,,sample at 0.00 in; first ink at the origin corner on the load axis; sample at 0 in is the first point
+F2-34,1,lpt87,trace,2,2037,3587,5,5,,sample at 0.25 in; at the knee; fit line 13 px to the left
+F2-34,1,lpt87,trace,3,2029,3522,4,4,,sample at 0.50 in
+F2-34,1,lpt87,trace,4,2026,3457,4,4,,sample at 0.75 in
+F2-34,1,lpt87,trace,5,2018.5,3391,4,4,,sample at 1.00 in; on the 1 in grid line; center interpolated from 9 px above and below
+F2-34,1,lpt87,trace,6,2003.5,3326,4,4,,sample at 1.25 in
+F2-34,1,lpt87,trace,7,1982,3261,5,5,,sample at 1.50 in
+F2-34,1,lpt87,trace,8,1955,3195,5,5,,sample at 1.75 in; on the 200 lb grid line
+F2-34,1,lpt87,trace,9,1922.5,3130,4,4,,sample at 2.00 in; on the 2 in grid line; interpolated
+F2-34,1,lpt87,trace,10,1884.5,3065,6,5,,sample at 2.25 in; crossing: A and the fit line coincide between v 3010 and 3075; merged run
+F2-34,1,lpt87,trace,11,1855.5,3000,3,4,,sample at 2.50 in
+F2-34,1,lpt87,trace,12,1823,2935,5,5,,sample at 2.75 in
+F2-34,1,lpt87,trace,13,1786,2869,5,5,,sample at 3.00 in; on the 3 in grid line; interpolated
+F2-34,1,lpt87,trace,14,1752,2804,5,5,,sample at 3.25 in
+F2-34,1,lpt87,trace,15,1718.5,2739,4,4,,sample at 3.50 in
+F2-34,1,lpt87,trace,16,1683.5,2674,7,6,,sample at 3.75 in; on the 400 lb grid line; run merged with the grid line
+F2-34,1,lpt87,trace,17,1650,2609,5,5,,sample at 4.00 in; on the 4 in grid line; interpolated
+F2-34,1,lpt87,trace,18,1614,2543,5,5,,sample at 4.25 in
+F2-34,1,lpt87,trace,19,1578,2478,5,5,,sample at 4.50 in
+F2-34,1,lpt87,trace,20,1541,2413,5,5,,sample at 4.75 in
+F2-34,1,lpt87,trace,21,1504,2348,5,5,,sample at 5.00 in; on the 5 in grid line; interpolated
+F2-34,1,lpt87,trace,22,1466,2283,5,5,,sample at 5.25 in
+F2-34,1,lpt87,trace,23,1427,2217,5,5,,sample at 5.50 in; on the 600 lb grid line
+F2-34,1,lpt87,trace,24,1390,2152,6,5,,sample at 5.75 in
+F2-34,1,lpt87,trace,25,1351.5,2087,5,5,,sample at 6.00 in; on the 6 in grid line; interpolated
+F2-34,1,lpt87,trace,26,1310,2022,5,5,,sample at 6.25 in
+F2-34,1,lpt87,feature,1,2221,3654,6,4,,first
+F2-34,1,lpt87,feature,2,2039,3589,5,5,,knee: shallow start along the load axis turns steep at about 140 lb
+F2-34,1,lpt87,feature,3,1995,3300,8,40,,knee: gradual bend from the near-vertical stretch (1.0 in) to the steady slope (1.8 in); location approximate
+F2-34,1,lpt87,feature,4,1291,1991,5,5,,peak: maximum load is at the end of the trace (same point as last)
+F2-34,1,lpt87,feature,5,1291,1991,5,5,,last
+F2-34,1,fit,trace,1,2041,3651,4,3,,lower end of the ink where it meets the load axis line (axis ink v 3654 to 3659)
+F2-34,1,fit,trace,2,1974.5,3391,4,4,,at the 1 in grid line; interpolated
+F2-34,1,fit,trace,3,1903.8,3130,4,4,,at the 2 in grid line; interpolated
+F2-34,1,fit,trace,4,1828,2869,4,4,,at the 3 in grid line; interpolated
+F2-34,1,fit,trace,5,1758,2608,5,4,,at the 4 in grid line; interpolated; B hidden under the fit here
+F2-34,1,fit,trace,6,1686,2347,5,4,,at the 5 in grid line; on the 400 lb grid line
+F2-34,1,fit,trace,7,1609.8,2086,4,4,,at the 6 in grid line; interpolated
+F2-34,1,fit,trace,8,1534,1825,4,4,,at the 7 in grid line (unlabelled); interpolated
+F2-34,1,fit,trace,9,1529.5,1811,4,4,,upper end of the ink
+F2-34,1,fit,feature,1,2042.5,3657,4,3,,intercept
+F2-34,1,fit,feature,2,1668,1695,22,302,,label: Slope = A gamma Nq = 54 lbs./in.
+F2-34,1,lpt88,trace,1,2210,3125,8,3,,"sample at 2.00 in; ink starts on the load axis at the 2 in grid line and runs along that grid line to u 2100, showing above it only in short stretches; sample at 2 in is the first point"
+F2-34,1,lpt88,trace,2,1899,3065,5,4,,sample at 2.25 in; shallow stretch; joins the fit line just above (v 3060)
+F2-34,1,lpt88,trace,3,1867.5,3000,5,4,,sample at 2.50 in; merged with the fit line (B runs along its right side from v 3060 to 2950)
+F2-34,1,lpt88,trace,4,1858,2934,3,3,,sample at 2.75 in; 2 px right of the fit line
+F2-34,1,lpt88,trace,5,1848.2,2869,3,3,,sample at 3.00 in; on the 3 in grid line; interpolated
+F2-34,1,lpt88,trace,6,1831.5,2804,3,3,,sample at 3.25 in
+F2-34,1,lpt88,trace,7,1808.5,2738,2.5,2.5,,sample at 3.50 in
+F2-34,1,lpt88,trace,8,1784.5,2673,2.5,2.5,,sample at 3.75 in
+F2-34,1,lpt88,trace,9,1758,2608,5,4,,sample at 4.00 in; hidden under the fit line (merged from v 2620 to 2456)
+F2-34,1,lpt88,trace,10,1739,2543,5,4,,sample at 4.25 in; hidden under the fit line
+F2-34,1,lpt88,trace,11,1718,2477,6,4,,sample at 4.50 in; merged with the fit line; B on the left side of the merged run
+F2-34,1,lpt88,trace,12,1692,2412,4,3,,"sample at 4.75 in; on the 400 lb grid line, 13 px left of the fit line"
+F2-34,1,lpt88,trace,13,1667.8,2347,2.5,2.5,,sample at 5.00 in; on the 5 in grid line; interpolated
+F2-34,1,lpt88,trace,14,1644.5,2282,3,3,,sample at 5.25 in
+F2-34,1,lpt88,trace,15,1617.5,2216,3,3,,sample at 5.50 in
+F2-34,1,lpt88,trace,16,1591,2151,3,3,,sample at 5.75 in
+F2-34,1,lpt88,trace,17,1568,2086,3,3,,sample at 6.00 in; on the 6 in grid line; interpolated
+F2-34,1,lpt88,trace,18,1544.5,2021,2.5,2.5,,sample at 6.25 in
+F2-34,1,lpt88,trace,19,1520.5,1955,2.5,2.5,,sample at 6.50 in
+F2-34,1,lpt88,trace,20,1490.5,1890,2.5,2.5,,sample at 6.75 in
+F2-34,1,lpt88,trace,21,1461.5,1825,2.5,2.5,,sample at 7.00 in; on the 7 in grid line (unlabelled); interpolated
+F2-34,1,lpt88,trace,22,1439.5,1760,2.5,2.5,,sample at 7.25 in
+F2-34,1,lpt88,trace,23,1414.5,1694,3,3,,sample at 7.50 in
+F2-34,1,lpt88,trace,24,1387,1629,3.5,3,,sample at 7.75 in
+F2-34,1,lpt88,trace,25,1359.2,1564,2.5,2.5,,sample at 8.00 in; on the 8 in grid line (unlabelled); interpolated
+F2-34,1,lpt88,feature,1,2210,3125,8,3,,first
+F2-34,1,lpt88,feature,2,1888,3060,10,8,,knee: B turns from its shallow start to run along the fit line; the bend spreads from u 2100 to 1890
+F2-34,1,lpt88,feature,3,1347,1528,3,3,,peak: maximum load is at the end of the trace (same point as last)
+F2-34,1,lpt88,feature,4,1347,1528,3,3,,last

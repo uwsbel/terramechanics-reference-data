@@ -1,0 +1,91 @@
+---
+title: "b68-lpt-027: provenance"
+---
+Provenance and review record of [b68-lpt-027](../experiments/b68-lpt-027.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| conflict | *conflicting evidence*: Dense; Intermediate |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 57 points recovered, agreed 10, audited 26, confirmed 2, one-sided-verified 17, resolved 2 |
+| index row reconciliation | [agreed]{.status .status-agreed}: agreed 14, normalized 2 |
+| human audit | 29 points sampled by the student reviewers, 28 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+57 points (from F2-29) read by two readings made separately and reconciled (batch `curves-s2-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay F2-29-p1](../img/overlays/F2-29-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | penetration (m, from inch) | load (N, from lbf) | 57 |
+
+Points by status: [agreed]{.status .status-agreed} 10, [audited]{.status .status-audited} 26, [confirmed]{.status .status-confirmed} 2, [one-sided-verified]{.status .status-one-sided-verified} 17, [resolved]{.status .status-resolved} 2; by kind: `feature` 23, `trace` 34.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 63 | 0.00599 / 0.0146 | 0.883 / 1.8 |
+| codex | cal-p1 | 63 | 0.00616 / 0.014 | 0.797 / 1.36 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-lpt-027/observations.csv), [series.json](../files/data/experiments/b68-lpt-027/series.json) (repository paths `data/experiments/b68-lpt-027/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | Dense; Intermediate |
+| Dr | *not reported* |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | 2 inch cylinder |
+| bin, inches | *not reported* |
+| rate | 0.5 in/min |
+| start depth, inches | 0 |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [agreed]{.status .status-agreed} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [normalized]{.status .status-normalized} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [normalized]{.status .status-normalized} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | LPT fixture | hydraulic LPT |
+| loading | static penetration | continuous penetration |
+| state_printed | RS Dense (F2-29) vs RS Intermediate (F2-43) | Dense; Intermediate |
+| test_label_printed | LPT 27 | LPT No. 27 |
+
+## Notes from the two readings
+
+- Claude: F2-29 is the raw plotter record (inset: plate compactor; DPT record 54074); the same LPT 27 is curve B of F2-43 under RS Intermediate; state conflict to resolve
+- Codex: Dense in F2-29; Intermediate in F2-43. Plate Compactor; DPT record 54074. Test-specific bin missing.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

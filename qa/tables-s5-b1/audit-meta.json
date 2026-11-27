@@ -1,0 +1,28 @@
+{
+  "T5-3": {
+    "kind": "table",
+    "source": "1968",
+    "title": "Table 5-T3: Detail Correlation Drops (printed 5-45, PDF 325)",
+    "image": "corpus/1968/images/p0325.png",
+    "rotation": 90,
+    "key": "nasa_test_no",
+    "row_label": "NASA Test No.",
+    "columns": [
+      ["nasa_test_no", "NASA Test No."],
+      ["bendix_drop_no", "Bendix Drop No."],
+      ["VV_in_s", "V_v (In./Sec.)"],
+      ["Vh_in_s", "V_h (In./Sec.)"],
+      ["tau_s", "τ (Sec.)"],
+      ["soil", "Soil"],
+      ["Dr", "D_r"],
+      ["gamma_pcf", "γ (Lb./Ft.³)"],
+      ["phi_deg", "φ (Deg.)"]
+    ],
+    "aliases": {"nasa_test_no": ["NASA test", "test number"], "VV_in_s": ["V_v"], "Vh_in_s": ["V_h"], "tau_s": ["tau"], "soil": ["Soil"], "Dr": ["D_r"], "gamma_pcf": ["gamma"],
+                "phi_deg": ["phi"]},
+    "check_columns": {"|V_v| against g tau": ["VV_in_s", "tau_s"]},
+    "check_key": "run_number",
+    "flag_verdicts": ["differs"],
+    "notes_for_reviewers": "A printed table of eight model drops, sideways on the page; the packet shows it turned upright. Each row of the checklist names a NASA test number and a column. Its picture shows the test number of that row at the left and, at the right, the column's heading above the cell; the row is boxed in blue in both. A: does the picture show that test and that column? B: does the cell read the value given, character for character, with the minus sign and the decimal point where they are printed (.298 has no zero before the point)? A digit with a break or a missing piece counts as printed if it can still be read with confidence; if it cannot, answer cannot tell and say why in C."
+  }
+}

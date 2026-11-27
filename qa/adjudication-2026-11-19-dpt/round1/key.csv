@@ -1,0 +1,13 @@
+subject_rows,reference_rows,item,P,Q,subject_label,subject_reader,verify,figure,panel,series,kind
+claude|r53958|feature|68,codex|r53958|feature|70,001,claude,codex,P,claude,pair,F2-54,1,r53958,feature-disagree
+codex|r53958|trace|1,claude|r53958|trace|2;claude|r53958|trace|3,002,claude,codex,Q,codex,one-sided,F2-54,1,r53958,curve-start
+codex|r53958|trace|12;codex|r53958|trace|13;codex|r53958|trace|14,claude|r53958|trace|11;claude|r53958|trace|12;claude|r53958|trace|13;claude|r53958|trace|14;claude|r53958|trace|15;claude|r53958|trace|16,003,claude,codex,Q,codex,one-sided,F2-54,1,r53958,trace-gap
+codex|r53958|trace|86,claude|r53958|trace|84;claude|r53958|trace|86,004,codex,claude,P,codex,one-sided,F2-54,1,r53958,curve-end
+codex|r54025|feature|20,claude|r54025|feature|17,005,claude,codex,Q,codex,pair,F2-54,2,r54025,feature-disagree
+codex|r54025|feature|54,,006,claude,codex,Q,codex,one-sided,F2-54,2,r54025,feature-only
+codex|r54025|feature|71,,007,claude,codex,Q,codex,one-sided,F2-54,2,r54025,feature-only
+claude|r54025|feature|81,,008,codex,claude,Q,claude,one-sided,F2-54,2,r54025,feature-only
+claude|r54025|trace|90,codex|r54025|trace|99;codex|r54025|trace|100,009,codex,claude,Q,claude,one-sided,F2-54,2,r54025,curve-end
+codex|r54025|trace|13;codex|r54025|trace|14;codex|r54025|trace|15;codex|r54025|trace|16;codex|r54025|trace|17,claude|r54025|trace|13;claude|r54025|trace|14;claude|r54025|trace|15;claude|r54025|trace|16;claude|r54025|trace|18;claude|r54025|trace|19;claude|r54025|trace|20,010,codex,claude,P,codex,one-sided,F2-54,2,r54025,trace-gap
+codex|r5465|trace|11;codex|r5465|trace|12;codex|r5465|trace|13;codex|r5465|trace|14;codex|r5465|trace|15;codex|r5465|trace|16;codex|r5465|trace|17,claude|r5465|trace|10;claude|r5465|trace|11;claude|r5465|trace|12;claude|r5465|trace|13;claude|r5465|trace|14;claude|r5465|trace|15;claude|r5465|trace|17;claude|r5465|trace|18;claude|r5465|trace|19,011,claude,codex,Q,codex,one-sided,F2-54,3,r5465,trace-gap
+codex|r5465|trace|107,claude|r5465|trace|102;claude|r5465|trace|104,012,claude,codex,Q,codex,one-sided,F2-54,3,r5465,curve-end

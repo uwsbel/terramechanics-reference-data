@@ -1,0 +1,129 @@
+run_number,check,computed,printed,tolerance,verdict
+1-1,VH/sqrt(dg),2.4356,2.4,0.0543,ok
+1-2,VH/sqrt(dg),2.3838,2.4,0.0543,ok
+1-3,VH/sqrt(dg),2.4356,2.4,0.0543,ok
+1-4,VH/sqrt(dg),1.7589,1.8,0.0531,ok
+1-5,VH/sqrt(dg),1.4062,1.4,0.0525,ok
+1-6,VH/sqrt(dg),1.2178,1.2,0.0522,ok
+1-7,VH/sqrt(dg),1.0892,1.1,0.0519,ok
+1-8,VH/sqrt(dg),0.8428,0.8,0.0515,ok
+1-10,VH/sqrt(dg),3.2979,3.2,0.0531,off
+1-11,VH/sqrt(dg),4.7071,4.7,0.0543,ok
+1-12,VH/sqrt(dg),2.6927,2.7,0.0525,ok
+1-13,VH/sqrt(dg),2.3535,2.3,0.0522,off
+1-14,VH/sqrt(dg),1.8864,1.9,0.0518,ok
+1-15,VH/sqrt(dg),1.5787,1.6,0.0515,ok
+1-16,VH/sqrt(dg),5.0201,5.0,0.0531,ok
+1-17,VH/sqrt(dg),7.2549,7.3,0.0543,ok
+1-18,VH/sqrt(dg),4.0141,4.0,0.0525,ok
+1-19,VH/sqrt(dg),4.1288,4.1,0.0525,ok
+1-20,VH/sqrt(dg),3.5022,3.5,0.0522,ok
+1-21,VH/sqrt(dg),2.8772,2.9,0.0518,ok
+1-22,VH/sqrt(dg),2.6833,2.7,0.0516,ok
+1-23,VH/sqrt(dg),11.0724,11.0,0.0543,off
+1-24,VH/sqrt(dg),7.5851,7.6,0.0531,ok
+1-25,VH/sqrt(dg),6.0436,6.1,0.0525,off
+1-26,VH/sqrt(dg),5.1173,5.1,0.0522,ok
+1-27,VH/sqrt(dg),4.1712,4.2,0.0518,ok
+1-28,VH/sqrt(dg),3.7151,3.7,0.0516,ok
+1-29,VH/sqrt(dg),12.9984,13.0,0.0543,ok
+1-30,VH/sqrt(dg),9.0569,9.1,0.0531,ok
+1-31,VH/sqrt(dg),7.3650,7.4,0.0525,ok
+1-32,VH/sqrt(dg),6.3308,6.3,0.0522,ok
+1-33,VH/sqrt(dg),5.0033,5.0,0.0518,ok
+1-1,FD/Aft against FD/(d gamma Aft) x d gamma,0.5839,0.57,0.96545 to 0.98694,fits the common factor
+1-2,FD/Aft against FD/(d gamma Aft) x d gamma,0.7682,0.75,0.96781 to 0.98472,fits the common factor
+1-3,FD/Aft against FD/(d gamma Aft) x d gamma,0.7468,0.73,0.96881 to 0.98613,fits the common factor
+1-4,FD/Aft against FD/(d gamma Aft) x d gamma,0.7564,0.74,0.96906 to 0.98774,fits the common factor
+1-5,FD/Aft against FD/(d gamma Aft) x d gamma,1.1559,1.13,0.97056 to 0.98460,fits the common factor
+1-6,FD/Aft against FD/(d gamma Aft) x d gamma,1.5317,1.5,0.97332 to 0.98527,fits the common factor
+1-7,FD/Aft against FD/(d gamma Aft) x d gamma,1.4925,1.46,0.97176 to 0.98474,fits the common factor
+1-8,FD/Aft against FD/(d gamma Aft) x d gamma,2.7210,2.65,0.96920 to 0.97865,fits the common factor
+1-10,FD/Aft against FD/(d gamma Aft) x d gamma,0.7659,0.75,0.97006 to 0.98855,fits the common factor
+1-11,FD/Aft against FD/(d gamma Aft) x d gamma,0.7575,0.74,0.96830 to 0.98541,fits the common factor
+1-12,FD/Aft against FD/(d gamma Aft) x d gamma,1.0632,1.04,0.97069 to 0.98575,fits the common factor
+1-13,FD/Aft against FD/(d gamma Aft) x d gamma,1.3890,1.36,0.97265 to 0.98559,fits the common factor
+1-14,FD/Aft against FD/(d gamma Aft) x d gamma,2.5973,2.53,0.96965 to 0.97855,fits the common factor
+1-15,FD/Aft against FD/(d gamma Aft) x d gamma,2.6068,2.54,0.96950 to 0.97927,fits the common factor
+1-16,FD/Aft against FD/(d gamma Aft) x d gamma,1.4437,1.41,0.97119 to 0.98210,fits the common factor
+1-17,FD/Aft against FD/(d gamma Aft) x d gamma,1.3201,1.29,0.97183 to 0.98266,fits the common factor
+1-18,FD/Aft against FD/(d gamma Aft) x d gamma,1.5876,1.55,0.97088 to 0.98174,fits the common factor
+1-19,FD/Aft against FD/(d gamma Aft) x d gamma,1.6590,1.62,0.97126 to 0.98176,fits the common factor
+1-20,FD/Aft against FD/(d gamma Aft) x d gamma,1.6459,1.61,0.97256 to 0.98384,fits the common factor
+1-21,FD/Aft against FD/(d gamma Aft) x d gamma,2.3333,2.27,0.96808 to 0.97770,fits the common factor
+1-22,FD/Aft against FD/(d gamma Aft) x d gamma,2.6472,2.59,0.97377 to 0.98301,fits the common factor
+1-23,FD/Aft against FD/(d gamma Aft) x d gamma,1.1583,1.13,0.96956 to 0.98157,fits the common factor
+1-24,FD/Aft against FD/(d gamma Aft) x d gamma,1.4651,1.43,0.97063 to 0.98142,fits the common factor
+1-25,FD/Aft against FD/(d gamma Aft) x d gamma,2.0978,2.05,0.97281 to 0.98162,fits the common factor
+1-26,FD/Aft against FD/(d gamma Aft) x d gamma,2.9778,2.91,0.97357 to 0.98087,fits the common factor
+1-27,FD/Aft against FD/(d gamma Aft) x d gamma,2.8185,2.74,0.96797 to 0.97635,fits the common factor
+1-28,FD/Aft against FD/(d gamma Aft) x d gamma,3.5766,3.49,0.97199 to 0.97959,fits the common factor
+1-29,FD/Aft against FD/(d gamma Aft) x d gamma,1.1167,1.09,0.96992 to 0.98229,fits the common factor
+1-30,FD/Aft against FD/(d gamma Aft) x d gamma,1.4437,1.41,0.97119 to 0.98210,fits the common factor
+1-31,FD/Aft against FD/(d gamma Aft) x d gamma,2.1299,2.08,0.97222 to 0.98092,fits the common factor
+1-32,FD/Aft against FD/(d gamma Aft) x d gamma,2.3357,2.28,0.97186 to 0.98050,fits the common factor
+1-33,FD/Aft against FD/(d gamma Aft) x d gamma,3.3608,3.27,0.96929 to 0.97670,fits the common factor
+1-1,"implied A_ft (D 6, d 0.5 in)",11.581,,0.189,ok
+1-2,"implied A_ft (D 6, d 0.5 in)",11.068,,0.140,ok
+1-3,"implied A_ft (D 6, d 0.5 in)",11.371,,0.146,ok
+1-11,"implied A_ft (D 6, d 0.5 in)",12.163,,0.150,ok
+1-17,"implied A_ft (D 6, d 0.5 in)",13.489,,0.091,ok
+1-23,"implied A_ft (D 6, d 0.5 in)",16.195,,0.116,flag
+1-29,"implied A_ft (D 6, d 0.5 in)",14.404,,0.112,flag
+1-4,"implied A_ft (D 6, d 1 in)",12.163,,0.150,flag
+1-10,"implied A_ft (D 6, d 1 in)",13.868,,0.159,ok
+1-16,"implied A_ft (D 6, d 1 in)",15.178,,0.089,ok
+1-24,"implied A_ft (D 6, d 1 in)",15.595,,0.089,ok
+1-30,"implied A_ft (D 6, d 1 in)",15.249,,0.090,ok
+1-5,"implied A_ft (D 6, d 1.5 in)",13.540,,0.104,ok
+1-12,"implied A_ft (D 6, d 1.5 in)",16.347,,0.127,ok
+1-18,"implied A_ft (D 6, d 1.5 in)",15.549,,0.082,ok
+1-19,"implied A_ft (D 6, d 1.5 in)",14.568,,0.076,ok
+1-25,"implied A_ft (D 6, d 1.5 in)",14.976,,0.061,ok
+1-31,"implied A_ft (D 6, d 1.5 in)",15.433,,0.061,ok
+1-6,"implied A_ft (D 6, d 2 in)",13.867,,0.080,ok
+1-13,"implied A_ft (D 6, d 2 in)",14.780,,0.091,ok
+1-20,"implied A_ft (D 6, d 2 in)",14.597,,0.076,ok
+1-26,"implied A_ft (D 6, d 2 in)",14.914,,0.043,ok
+1-32,"implied A_ft (D 6, d 2 in)",15.790,,0.057,ok
+1-7,"implied A_ft (D 6, d 2.5 in)",15.480,,0.087,too few rows to compare
+1-14,"implied A_ft (D 6, d 3 in)",14.783,,0.049,ok
+1-21,"implied A_ft (D 6, d 3 in)",16.079,,0.057,ok
+1-27,"implied A_ft (D 6, d 3 in)",15.912,,0.047,ok
+1-33,"implied A_ft (D 6, d 3 in)",15.382,,0.039,ok
+1-22,"implied A_ft (D 6, d 3.5 in)",16.100,,0.050,too few rows to compare
+1-28,"implied A_ft (D 6, d 3.75 in)",15.215,,0.036,too few rows to compare
+1-8,"implied A_ft (D 6, d 4 in)",15.208,,0.048,too few rows to compare
+1-15,"implied A_ft (D 6, d 4 in)",15.000,,0.049,too few rows to compare
+1-1,"implied A_pt (D 6, all depths)",29.075,,0.454,ok
+1-2,"implied A_pt (D 6, all depths)",28.981,,0.500,ok
+1-3,"implied A_pt (D 6, all depths)",28.926,,0.526,ok
+1-4,"implied A_pt (D 6, all depths)",28.522,,0.357,ok
+1-5,"implied A_pt (D 6, all depths)",27.840,,0.256,ok
+1-6,"implied A_pt (D 6, all depths)",27.709,,0.196,ok
+1-7,"implied A_pt (D 6, all depths)",27.189,,0.194,ok
+1-8,"implied A_pt (D 6, all depths)",27.321,,0.122,ok
+1-10,"implied A_pt (D 6, all depths)",27.503,,0.335,ok
+1-11,"implied A_pt (D 6, all depths)",28.954,,0.513,ok
+1-12,"implied A_pt (D 6, all depths)",26.712,,0.242,ok
+1-13,"implied A_pt (D 6, all depths)",27.388,,0.212,ok
+1-14,"implied A_pt (D 6, all depths)",27.378,,0.153,ok
+1-15,"implied A_pt (D 6, all depths)",27.431,,0.130,ok
+1-16,"implied A_pt (D 6, all depths)",27.098,,0.199,ok
+1-17,"implied A_pt (D 6, all depths)",27.868,,0.252,ok
+1-18,"implied A_pt (D 6, all depths)",27.189,,0.194,ok
+1-19,"implied A_pt (D 6, all depths)",27.474,,0.206,ok
+1-20,"implied A_pt (D 6, all depths)",27.388,,0.168,ok
+1-21,"implied A_pt (D 6, all depths)",26.617,,0.138,ok
+1-22,"implied A_pt (D 6, all depths)",26.735,,0.125,ok
+1-23,"implied A_pt (D 6, all depths)",26.787,,0.219,ok
+1-24,"implied A_pt (D 6, all depths)",26.940,,0.188,ok
+1-25,"implied A_pt (D 6, all depths)",27.273,,0.154,ok
+1-26,"implied A_pt (D 6, all depths)",30.377,,0.152,ok
+1-27,"implied A_pt (D 6, all depths)",28.232,,0.130,ok
+1-28,"implied A_pt (D 6, all depths)",57.383,,0.401,flag
+1-29,"implied A_pt (D 6, all depths)",22.042,,0.163,flag
+1-30,"implied A_pt (D 6, all depths)",21.653,,0.131,flag
+1-31,"implied A_pt (D 6, all depths)",22.721,,0.111,flag
+1-32,"implied A_pt (D 6, all depths)",23.549,,0.108,ok
+1-33,"implied A_pt (D 6, all depths)",28.192,,0.108,ok

@@ -1,0 +1,118 @@
+---
+title: "b68-mdrop-10: provenance"
+---
+Provenance and review record of [b68-mdrop-10](../experiments/b68-mdrop-10.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 207 points recovered, agreed 196, one-sided 4, one-sided-verified 4, resolved 3 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 14, merged 1, normalized 1, resolved 2 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+207 points (43 from F5-24; 164 from F5-25) read by two readings made separately and reconciled (batch `curves-s5-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay F5-24-p1](../img/overlays/F5-24-p1.png){.lightbox}
+
+![Overlay F5-25-p1](../img/overlays/F5-25-p1.png){.lightbox}
+
+![Overlay F5-25-p2](../img/overlays/F5-25-p2.png){.lightbox}
+
+![Overlay F5-25-p3](../img/overlays/F5-25-p3.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 (F5-24 panel 1) | time (s, from s) | footpad penetration depth (m, from inch) | 43 |
+| 2 (F5-25 panel 1) | time (s, from s) | axial load, strut No. 3 (N, from lbf) | 49 |
+| 3 (F5-25 panel 2) | time (s, from s) | axial load, strut No. 2 (N, from lbf) | 48 |
+| 4 (F5-25 panel 3) | time (s, from s) | axial load, strut No. 1 (N, from lbf) | 67 |
+Panel 1: No. 1 footpad of the 1/6-scale model, NASA Test No. 1.
+The depth is a computed output, not a direct measurement: the report's data reduction program took the 13 tape-recorded signals every 1/1000 s and calculated the footpad's penetration by numerical integration (AM-68-1 Vol. I, Section 5.5.2, printed 5-41, PDF 321).
+
+Panel 2: Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+
+Panel 3: Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+On the Strut No. 2 panel the top load label is printed -60; the panel's own sequence (0, +20, +40) and the (Tension) title make it +60, and both readings anchor that line at +60 lbf.
+
+Panel 4: Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+
+Panel 4, strut1: the line is broken after claude sample 21: a break in the drawn line at about 0.0138 to 0.0140 s, about 4 px of the page with no ink, the line resuming about 1.5 px to the side; seen by the Claude reader and in Codex's review, confirmed on the page; the line is not drawn across it.
+
+
+Points by status: [agreed]{.status .status-agreed} 196, [one-sided]{.status .status-one-sided} 4, [one-sided-verified]{.status .status-one-sided-verified} 4, [resolved]{.status .status-resolved} 3; by kind: `feature` 29, `trace` 178.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | F5-24/cal-p1 | 77 | 5.71e-05 / 0.000149 | 0.00614 / 0.011 |
+| claude | F5-25/cal-p1 | 379 | 4.76e-05 / 9.35e-05 | 0.116 / 0.248 |
+| claude | F5-25/cal-p2 | 477 | 4.41e-05 / 8.26e-05 | 0.186 / 0.276 |
+| claude | F5-25/cal-p3 | 654 | 4.4e-05 / 8.95e-05 | 0.12 / 0.199 |
+| codex | F5-24/cal-p1 | 88 | 5.7e-05 / 0.000141 | 0.00584 / 0.0104 |
+| codex | F5-25/cal-p1 | 386 | 5.1e-05 / 0.000167 | 0.14 / 0.405 |
+| codex | F5-25/cal-p2 | 517 | 5.1e-05 / 0.000167 | 0.198 / 0.471 |
+| codex | F5-25/cal-p3 | 699 | 5.1e-05 / 0.000167 | 0.158 / 0.404 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-mdrop-10/observations.csv), [series.json](../files/data/experiments/b68-mdrop-10/series.json) (repository paths `data/experiments/b68-mdrop-10/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | RS Loose |
+| Dr | 0 |
+| unit weight, pcf | 46.9 |
+| Gp, g | *not reported* |
+| tool | scaled LM footpads, leg set No. 1 instrumented (diameter not printed in Section V) |
+| bin, inches | 18 by 12 ft |
+| rate | Vv = -114.93 in./sec.; Vh = 0 |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [normalized]{.status .status-normalized} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [resolved]{.status .status-resolved} | both readings agree in substance; wording merged; Claude noted the missing diameter, Codex the instrumented leg set |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [resolved]{.status .status-resolved} | both readings agree in substance; wording merged (Fig. 5-25 inset; Table 5-T3 prints -114.9 In./Sec.) |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | modified 1/6-scale LM model; six-degree-of-freedom drop test rig | six-degree-of-freedom drop rig; modified 1/6-scale LM model |
+| loading | free drop; Total Model Weight 68.4 Lbs.; yaw 45 deg (2-2 landing), zero pitch and roll, zero angular rates; level surface (ground slope 0) | pure vertical free drop; 0 degrees from vertical; 45-degree yaw (2-2 landing); 0 deg ground slope; zero initial pitch and roll and angular rates; 68.4 Lbs. total model weight |
+| measured_channels | absolute footpad velocity VAP vs time; footpad heading theta vs time; footpad penetration depth vs time; strut No. 1 axial load vs time; strut No. 2 axial load vs time; strut No. 3 axial load vs time; CG vertical acceleration vs time; CG vertical velocity vs time; CG vertical displacement vs time | absolute footpad velocity vs time; footpad heading relative to vertical vs time; footpad penetration depth vs time; strut No. 3 axial load (tension) vs time; strut No. 2 axial load (tension) vs time; strut No. 1 axial load (compression) vs time; CG vertical acceleration vs time; CG vertical velocity vs time; CG vertical displacement vs time |
+
+## Notes from the two readings
+
+- Claude: Bendix drop No. 10 (7-18-67, test type C detail correlation) is NASA Test No. 1; the T5-2 remark prints NASA Drop No. 1 and Tests No. 1-8 McDonnell reduced. Velocity: -114.93 in. sec. in the F5-25 inset, VV -114.9 In./Sec. and Vh 0 in T5-3, VV 10 and VH 0 with no unit in T5-2, nominal ten ft/s in text 5-44 (printed teen). Release to touchdown time .298 sec (T5-3). Dr 0 printed with 46.9 pcf and phi 41 (T5-2 and T5-3) whereas soil 1 RS Loose is Dr 0 at 41.4 pcf and phi 40 in Table 2-3; soil 1 mapped by state only. Loose bed depth not printed (18 inches is printed for the RS intermediate beds only). Histories reduced from 13 tape signals at 1/1000 s (text 5-43). NASA Test No. 4 (drop 13) duplicates this condition.
+- Codex: NASA Test No. 1. F5-25 gives -114.93 and 0 in./sec. T5-3 gives -114.9 and 0 In./Sec. T5-2 nominal Vv 10 and Vh 0 fps. Loose-bed fill depth, model pad diameter and run Gp unreported. Earth gravity inferred.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

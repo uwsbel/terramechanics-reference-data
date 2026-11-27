@@ -1,0 +1,93 @@
+---
+title: "b68-ds-f2-23-rsm-b: provenance"
+---
+Provenance and review record of [b68-ds-f2-23-rsm-b](../experiments/b68-ds-f2-23-rsm-b.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 26 points recovered, agreed 24, one-sided-verified 2 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 12, convention 1, merged 1, one-sided-cell 1, rule 1 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+26 points (from FC-23) read by two readings made separately and reconciled (batch `curves-appc-b11`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FC-23-p1](../img/overlays/FC-23-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | relative density (none, from none) | angle of internal friction (direct shear) (deg, from deg) | 26 |
+
+Points by status: [agreed]{.status .status-agreed} 24, [one-sided-verified]{.status .status-one-sided-verified} 2; by kind: `feature` 2, `trace` 24.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 55 | 0.00229 / 0.00507 | 0.0388 / 0.0649 |
+| codex | cal-p1 | 55 | 0.00227 / 0.00503 | 0.0386 / 0.0651 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-ds-f2-23-rsm-b/observations.csv), [series.json](../files/data/experiments/b68-ds-f2-23-rsm-b/series.json) (repository paths `data/experiments/b68-ds-f2-23-rsm-b/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | *not reported* |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | approx 0.07 in/min |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [rule]{.status .status-rule} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [convention]{.status .status-convention} | Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index. |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [one-sided-cell]{.status .status-one-sided-cell} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | direct shear | 2-1/2-inch diameter shear box |
+| loading |  | constant normal stress; lateral shear |
+| measured_channels | friction angle vs relative density | angle of internal friction vs relative density |
+| state_printed | all states |  |
+| test_label_printed | F2-23 RSM-b | RSM-b |
+| apparatus | direct shear (University of Notre Dame) |  |
+| measured_channels | friction angle vs relative density (average curve) | average friction angle vs relative density |
+
+## Notes from the two readings
+
+- Claude: (none)
+- Codex: Average relationship; individual tests missing. Dr precedes normal loading; no measurement markers.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

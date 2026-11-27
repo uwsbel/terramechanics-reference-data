@@ -1,0 +1,35 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_est,y_est
+F5-32,1,strut3,trace,1,1357.0,3500.0,3.2,3.2,,first ink of the trace,0.00018,0.15
+F5-32,1,strut3,trace,2,1336.8,3468.8,3.2,3.2,,t = 0.002 s,0.002,-4.53
+F5-32,1,strut3,trace,3,1313.4,3446.1,3.0,3.0,,-10 lb level on a steep part,0.00333,-10.0
+F5-32,1,strut3,trace,4,1300.8,3434.6,3.0,3.0,,t = 0.004 s,0.004,-12.94
+F5-32,1,strut3,trace,5,1292.0,3426.7,2.9,2.9,,-15 lb level on a steep part,0.00446,-15.0
+F5-32,1,strut3,trace,6,1277.5,3400.3,2.4,2.4,,t = 0.006 s,0.006,-18.36
+F5-32,1,strut3,trace,7,1291.6,3383.2,3.1,3.1,,-15 lb level on a steep part,0.00698,-15.0
+F5-32,1,strut3,trace,8,1309.2,3365.6,3.0,3.0,,t = 0.008 s,0.008,-10.8
+F5-32,1,strut3,trace,9,1312.6,3362.5,3.0,3.0,,-10 lb level on a steep part,0.00818,-10.0
+F5-32,1,strut3,trace,10,1333.6,3342.4,3.0,3.0,,-5 lb level on a steep part,0.00934,-5.0
+F5-32,1,strut3,trace,11,1346.5,3330.9,3.9,3.9,,t = 0.01 s; trace over a load grid line here (bound widened 1 px),0.01,-1.93
+F5-32,1,strut3,trace,12,1355.5,3322.0,3.1,3.1,,"+0 lb level on a steep part; moved 2 px along the trace off the grid line it crosses here, to the trace's own ink",0.01052,0.21
+F5-32,1,strut3,trace,13,1374.5,3296.8,3.0,3.0,,t = 0.012 s,0.012,4.75
+F5-32,1,strut3,trace,14,1357.5,3264.0,3.6,3.6,,"t = 0.014 s; moved 3 px along the trace off the grid line it crosses here, to the trace's own ink; trace over a load grid line here (bound widened 1 px)",0.01394,0.81
+F5-32,1,strut3,trace,15,1338.5,3229.2,2.8,2.8,,t = 0.016 s,0.016,-3.59
+F5-32,1,strut3,trace,16,1334.5,3195.4,2.0,2.0,,t = 0.018 s,0.018,-4.45
+F5-32,1,strut3,trace,17,1336.5,3161.4,2.5,2.5,,t = 0.02 s,0.02,-3.9
+F5-32,1,strut3,trace,18,1342.0,3076.2,3.0,3.0,,t = 0.025 s,0.025,-2.41
+F5-32,1,strut3,trace,19,1336.5,2991.0,2.5,2.5,,t = 0.03 s,0.03,-3.51
+F5-32,1,strut3,trace,20,1333.0,2905.9,2.5,2.5,,t = 0.035 s,0.035,-4.14
+F5-32,1,strut3,trace,21,1340.5,2820.8,2.5,2.5,,t = 0.04 s,0.04,-2.17
+F5-32,1,strut3,trace,22,1347.5,2735.4,3.0,3.0,,t = 0.045 s,0.045,-0.32
+F5-32,1,strut3,trace,23,1346.5,2649.0,4.0,4.0,,"t = 0.05 s; moved 1 px along the trace off the grid line it crosses here, to the trace's own ink; trace over a load grid line here (bound widened 1 px)",0.05006,-0.36
+F5-32,1,strut3,trace,24,1341.0,2564.3,2.0,2.0,,t = 0.055 s,0.055,-1.46
+F5-32,1,strut3,trace,25,1329.5,2478.7,2.5,2.5,,t = 0.06 s,0.06,-3.98
+F5-32,1,strut3,trace,26,1311.5,2393.7,2.5,2.5,,t = 0.065 s,0.065,-8.04
+F5-32,1,strut3,trace,27,1293.5,2308.7,2.5,2.5,,t = 0.07 s,0.07,-12.1
+F5-32,1,strut3,trace,28,1274.5,2224.1,2.3,2.3,,t = 0.075 s,0.075,-16.4
+F5-32,1,strut3,trace,29,1256.1,2139.6,3.9,3.9,,t = 0.08 s; trace over a load grid line here (bound widened 1 px),0.08,-20.55
+F5-32,1,strut3,trace,30,1240.0,2054.4,2.5,2.5,,t = 0.085 s,0.085,-24.13
+F5-32,1,strut3,trace,31,1231.5,1969.1,2.5,2.5,,t = 0.09 s,0.09,-25.94
+F5-32,1,strut3,trace,32,1228.5,1883.9,3.0,3.0,,t = 0.095 s,0.095,-26.45
+F5-32,1,strut3,trace,33,1232.5,1798.6,3.0,3.0,,t = 0.1 s,0.1,-25.32
+F5-32,1,strut3,trace,34,1237.5,1745.5,2.5,2.5,,last ink of the trace,0.10311,-24.03

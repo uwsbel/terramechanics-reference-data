@@ -1,0 +1,97 @@
+---
+title: "Footpad impact: RS soil, intermediate, Run No. 10"
+record: "b68-imp-10"
+kind: "single"
+test-type: "Footpad impact"
+family: "RS"
+state: "intermediate"
+printed-label: "Run No. 10"
+evidence: "F3-15;F4-17;F4-18;F4-19;F4-20;text 3-17 (PDF 158);text 3-23 (PDF 164);text 4-22 (PDF 207)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+Footpad impact test on RS soil (Red Crushed Volcanic Scoria (narrowly graded)) at relative density 0.45; apparatus: subscale oblique impact test equipment; loading: vertical impact; moving weight not printed. Recorded: vertical force vs time; displacement vs time; vertical force vs displacement. One of 2 tests drawn from the same figures.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 128 of the 142 points, and 3 are still under review. They have not yet been checked by a person. The test setup is incomplete: fill depth, moving mass are not reported.
+:::
+
+## Data
+
+![vertical force against time; displacement against time; vertical force against displacement, SI units, this test in red and the other tests printed in Fig. 4-19 in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-imp-10.png){.lightbox}
+
+Peak vertical force 1264 N at 3.68 ms time; 136.7 N at 130 ms, the end of the record. Displacement 50.60 mm at the end.
+
+Download: [observations.csv](../files/data/experiments/b68-imp-10/observations.csv) (142 points: 0 plotted symbols, 124 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1 (Fig. 4-19): vertical force in N against time in s; panel 2 (Fig. 4-19): displacement in m against time in s; panel 3 (Fig. 4-20): vertical force in N against displacement in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-imp-10/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on these figures (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 0.603 ms in time, typical bound 275 micrometers in displacement, 13.43 N in vertical force (Fig. 4-19) (1.1 percent of the peak), 706 micrometers in displacement (Fig. 4-19), 8.411 N in vertical force (Fig. 4-20). Both independent readings agree within these bounds at 128 of the 142 points; 3 are still under review (hollow in the plot) and 11 were settled against the scan. Check the digitized points against the scan: [F4-19](../figures/index.qmd#check-f4-19), [F4-20](../figures/index.qmd#check-f4-20).
+
+**About these values.** Past 100 ms the printed time labels skip 110: the evenly spaced lines after the 100 ms line are labeled 120, 130 and 140 and the frame after them is unlabeled. The values read those lines as 110, 120 and 130 ms and the frame as 140 ms, from the even spacing. Taken as printed, a time between the 100 ms line and the next would be up to 10 ms later (the difference grows across that interval) and every later time 10 ms later. Fig. 4-20 cannot test this: the same rescaling of both time axes leaves force against displacement unchanged. Fig. 4-20 plots the force of panel 1 against the displacement of panel 2: the same runs, cross-plotted from the same records. Where the scan has no ink the line is left open: scan dropout: no ink, grid lines included, from about 1.61 to 1.92 in (both readers stop at the last dot before it and resume after it).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | RS Inter., Red Crushed Volcanic Scoria (narrowly graded) (soil No. 3 of Table 2-3) | RS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | 0.45 | 0.45 | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| state | unit weight of the nominal soil state | 7210.3 N/m^3 (735.2 kg/m^3 at Dr 0.45) |  | Table 2-3; the bed's own Dr may differ |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | 156.7 mm diameter instrumented 1/6-scale LM footpad | 6.17 inch diameter instrumented 1/6-scale LM footpad | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| geometry | bin or mold | three feet by eight feet by two feet deep soil bed | three feet by eight feet by two feet deep soil bed | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | vertical impact; moving weight not printed |  | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| loading | moving mass | *not reported* |  | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| loading | rate | approx 1.829 m/s | approx 6 fps | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | vertical force vs time; displacement vs time; vertical force vs displacement |  | F3-15, F4-17, F4-18, F4-19, F4-20 |
+| soil strength | friction angle at this density (report's direct shear average) | 44.5 degrees | 44.5 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 59.3 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| test | record |
+| --- | --- |
+| Run No. 10 | **b68-imp-10** (this page) |
+| Run No. 12 | [b68-imp-12](b68-imp-12.qmd) |
+
+## Source pages
+
+F3-15, *Subscale Instrumented Footpad for Oblique Impact Tests*, AM-68-1 Vol. I, printed 3-24, PDF 165; F4-17, *Oblique Impact Test Parameter Values*, AM-68-1 Vol. I, printed 4-21, PDF 206; F4-18, *Number of Impact Tests for Each of the Soils Studied*, AM-68-1 Vol. I, printed 4-21, PDF 206; F4-19, *Force and Displacement versus Time for Vertical Impact Tests on Various RS Soils*, AM-68-1 Vol. I, printed 4-23, PDF 208; F4-20, *Force versus Displacement for Vertical Impact Tests on Various RS Soils*, AM-68-1 Vol. I, printed 4-24, PDF 209.
+Text: text 3-17 (PDF 158).
+Text: text 3-23 (PDF 164).
+Text: text 4-22 (PDF 207).
+
+::: {layout-ncol=2}
+![PDF page 165](../img/1968/p0165.png){.lightbox}
+
+![PDF page 206](../img/1968/p0206.png){.lightbox}
+
+![PDF page 206](../img/1968/p0206.png){.lightbox}
+
+![PDF page 208](../img/1968/p0208.png){.lightbox}
+
+![PDF page 209](../img/1968/p0209.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-imp-10` in `data/experiments/index.csv` of this repository, and the source: F3-15, *Subscale Instrumented Footpad for Oblique Impact Tests*, AM-68-1 Vol. I, printed 3-24, PDF 165; F4-17, *Oblique Impact Test Parameter Values*, AM-68-1 Vol. I, printed 4-21, PDF 206; F4-18, *Number of Impact Tests for Each of the Soils Studied*, AM-68-1 Vol. I, printed 4-21, PDF 206; F4-19, *Force and Displacement versus Time for Vertical Impact Tests on Various RS Soils*, AM-68-1 Vol. I, printed 4-23, PDF 208; F4-20, *Force versus Displacement for Vertical Impact Tests on Various RS Soils*, AM-68-1 Vol. I, printed 4-24, PDF 209.
+
+<small>Maintainers: the [provenance and review record](../review/b68-imp-10.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

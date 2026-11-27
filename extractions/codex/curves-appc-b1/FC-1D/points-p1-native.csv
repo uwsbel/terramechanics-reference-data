@@ -1,0 +1,814 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-1D,1,n3520,marker,1,630,2135,4,4,x,center checked against local symbol image template; hand crop inspected,9.855,2683.795,1.04,19.762
+FC-1D,1,n3520,marker,2,748,1829,4,4,x,center checked against local symbol image template; hand crop inspected,31.098,3732.871,1.04,19.762
+FC-1D,1,n3520,marker,3,859,1666,5,5,x,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,50.632,4288.713,1.214,23.276
+FC-1D,1,n3520,marker,4,976,1548,4,4,x,center checked against local symbol image template; hand crop inspected,71.029,4688.836,1.04,19.762
+FC-1D,1,n3520,marker,5,1090,1480,4,4,x,center checked against local symbol image template; hand crop inspected,90.735,4916.533,1.04,19.762
+FC-1D,1,n3520,marker,6,1207,1443,5,5,x,center checked against local symbol image template; hand crop inspected; symbol intersects horizontal grid,110.841,5037.027,1.214,23.276
+FC-1D,1,n3520,marker,7,1320,1435,4,4,x,center checked against local symbol image template; hand crop inspected,130.16,5057.654,1.04,19.762
+FC-1D,1,n3520,marker,8,1442,1465,5,5,x,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,150.88,4946.54,1.214,23.276
+FC-1D,1,n3520,marker,9,1567,1524,4,4,x,center checked against local symbol image template; hand crop inspected,172.007,4735.127,1.04,19.762
+FC-1D,1,n3520,marker,10,1739,1576,6,6,x,marker above author curve; symbol intersects vertical grid,201.183,4544.972,1.389,26.79
+FC-1D,1,n3520,marker,11,1855,1677,5,5,x,marker below author curve,220.624,4189.123,1.214,23.276
+FC-1D,1,n3520,marker,12,2031,1700,5,5,x,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,250.587,4098.834,1.214,23.276
+FC-1D,1,n3520,trace,1,629,2135.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,9.682,2682.131,0.571,61.002
+FC-1D,1,n3520,trace,2,639,2104.0,1,15.5,,visible author-line ink; column displaced from vertical grid,11.503,2790.257,0.569,59.276
+FC-1D,1,n3520,trace,3,649,2068.5,1,15.0,,visible author-line ink; column displaced from vertical grid,13.337,2912.192,0.568,57.55
+FC-1D,1,n3520,trace,4,665,2043.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,16.16,2999.233,0.542,33.385
+FC-1D,1,n3520,trace,5,675,1996.0,1,13.5,,visible author-line ink; column displaced from vertical grid,18.036,3160.868,0.562,52.372
+FC-1D,1,n3520,trace,6,688,1960.0,1,13.5,,visible author-line ink; column displaced from vertical grid,20.385,3284.343,0.562,52.372
+FC-1D,1,n3520,trace,7,702,1925.5,1,12.0,,visible author-line ink; column displaced from vertical grid,22.898,3402.578,0.557,47.194
+FC-1D,1,n3520,trace,8,714,1895.5,1,12.0,,visible author-line ink; column displaced from vertical grid,25.055,3505.402,0.557,47.194
+FC-1D,1,n3520,trace,9,726,1869.0,1,12.5,,visible author-line ink; column displaced from vertical grid,27.198,3596.143,0.559,48.92
+FC-1D,1,n3520,trace,10,740,1849.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,29.66,3664.321,0.571,61.002
+FC-1D,1,n3520,trace,11,749,1828.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,31.27,3734.535,0.571,61.002
+FC-1D,1,n3520,trace,12,759,1804.0,1,10.5,,visible author-line ink; column displaced from vertical grid,33.065,3818.495,0.551,42.015
+FC-1D,1,n3520,trace,13,771,1783.0,1,10.5,,visible author-line ink; column displaced from vertical grid,35.189,3890.249,0.551,42.015
+FC-1D,1,n3520,trace,14,784,1762.0,1,10.5,,visible author-line ink; column displaced from vertical grid,37.484,3961.941,0.551,42.015
+FC-1D,1,n3520,trace,15,797,1754.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,39.73,3987.029,0.542,33.385
+FC-1D,1,n3520,trace,16,807,1727.5,1,9.0,,visible author-line ink; column displaced from vertical grid,41.534,4079.62,0.546,36.837
+FC-1D,1,n3520,trace,17,822,1706.5,1,9.0,,visible author-line ink; column displaced from vertical grid,44.17,4151.188,0.546,36.837
+FC-1D,1,n3520,trace,18,838,1691.0,1,1.5,,visible author-line ink; column displaced from vertical grid,46.957,4203.707,0.519,10.945
+FC-1D,1,n3520,trace,19,843,1682.5,1,3.0,,visible author-line ink; column displaced from vertical grid,47.841,4232.742,0.524,16.124
+FC-1D,1,n3520,trace,20,859,1665.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,50.634,4290.439,0.571,61.002
+FC-1D,1,n3520,trace,21,866,1658.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,51.854,4314.172,0.571,61.002
+FC-1D,1,n3520,trace,22,882,1634.5,1,6.0,,visible author-line ink; column displaced from vertical grid,54.672,4396.035,0.535,26.48
+FC-1D,1,n3520,trace,23,894,1621.0,1,7.5,,visible author-line ink; column displaced from vertical grid,56.769,4441.897,0.541,31.659
+FC-1D,1,n3520,trace,24,906,1609.5,1,7.0,,visible author-line ink; column displaced from vertical grid,58.858,4480.855,0.539,29.933
+FC-1D,1,n3520,trace,25,916,1600.0,1,7.5,,visible author-line ink; column displaced from vertical grid,60.6,4513.033,0.541,31.659
+FC-1D,1,n3520,trace,26,929,1588.0,1,7.5,,visible author-line ink; column displaced from vertical grid,62.862,4553.655,0.541,31.659
+FC-1D,1,n3520,trace,27,939,1587.0,1,1,,visible author-line ink; column displaced from vertical grid,64.573,4556.489,0.517,9.219
+FC-1D,1,n3520,trace,28,957,1567.0,1,4.5,,visible author-line ink; column displaced from vertical grid,67.717,4624.419,0.53,21.302
+FC-1D,1,n3520,trace,29,967,1556.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,69.462,4660.049,0.571,61.002
+FC-1D,1,n3520,trace,30,976,1547.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,71.031,4690.562,0.571,61.002
+FC-1D,1,n3520,trace,31,989,1537.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,73.288,4726.006,0.571,61.002
+FC-1D,1,n3520,trace,32,1001,1531.5,1,7.0,,visible author-line ink; column displaced from vertical grid,75.356,4744.25,0.539,29.933
+FC-1D,1,n3520,trace,33,1013,1524.0,1,6.5,,visible author-line ink; column displaced from vertical grid,77.432,4769.4,0.537,28.207
+FC-1D,1,n3520,trace,34,1025,1517.5,1,6.0,,visible author-line ink; column displaced from vertical grid,79.504,4791.097,0.535,26.48
+FC-1D,1,n3520,trace,35,1037,1509.0,1,6.5,,visible author-line ink; column displaced from vertical grid,81.583,4819.698,0.537,28.207
+FC-1D,1,n3520,trace,36,1049,1502.5,1,6.0,,visible author-line ink; column displaced from vertical grid,83.655,4841.395,0.535,26.48
+FC-1D,1,n3520,trace,37,1061,1497.0,1,6.5,,visible author-line ink; column displaced from vertical grid,85.723,4859.64,0.537,28.207
+FC-1D,1,n3520,trace,38,1072,1491.5,1,6.0,,visible author-line ink; column displaced from vertical grid,87.62,4877.946,0.535,26.48
+FC-1D,1,n3520,trace,39,1086,1481.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,90.046,4911.602,0.571,61.002
+FC-1D,1,n3520,trace,40,1093,1479.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,91.249,4918.074,0.571,61.002
+FC-1D,1,n3520,trace,41,1109,1472.5,1,6.0,,visible author-line ink; column displaced from vertical grid,94.005,4941.249,0.535,26.48
+FC-1D,1,n3520,trace,42,1121,1469.5,1,6.0,,visible author-line ink; column displaced from vertical grid,96.064,4950.864,0.535,26.48
+FC-1D,1,n3520,trace,43,1133,1463.5,1,6.0,,visible author-line ink; column displaced from vertical grid,98.135,4970.834,0.535,26.48
+FC-1D,1,n3520,trace,44,1140,1460.5,1,6.0,,visible author-line ink; column displaced from vertical grid,99.34,4980.758,0.535,26.48
+FC-1D,1,n3520,trace,45,1157,1455.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,102.262,4998.694,0.542,33.385
+FC-1D,1,n3520,trace,46,1169,1451.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,104.323,5010.034,0.542,33.385
+FC-1D,1,n3520,trace,47,1181,1451.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,106.374,5011.018,0.542,33.385
+FC-1D,1,n3520,trace,48,1192,1450.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,108.255,5013.789,0.571,61.002
+FC-1D,1,n3520,trace,49,1205,1445.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,110.492,5030.246,0.571,61.002
+FC-1D,1,n3520,trace,50,1223,1441.0,1,1.5,,visible author-line ink; column displaced from vertical grid,113.58,5042.941,0.519,10.945
+FC-1D,1,n3520,trace,51,1230,1438.5,1,5.0,,visible author-line ink; column displaced from vertical grid,114.784,5051.139,0.532,23.028
+FC-1D,1,n3520,trace,52,1241,1437.0,1,5.5,,visible author-line ink; column displaced from vertical grid,116.667,5055.637,0.533,24.754
+FC-1D,1,n3520,trace,53,1253,1436.5,1,6.0,,visible author-line ink; column displaced from vertical grid,118.717,5056.62,0.535,26.48
+FC-1D,1,n3520,trace,54,1262,1436.5,1,6.0,,visible author-line ink; column displaced from vertical grid,120.254,5056.064,0.535,26.48
+FC-1D,1,n3520,trace,55,1277,1434.0,1,6.5,,visible author-line ink; column displaced from vertical grid,122.823,5063.766,0.537,28.207
+FC-1D,1,n3520,trace,56,1289,1434.5,1,6.0,,visible author-line ink; column displaced from vertical grid,124.87,5061.298,0.535,26.48
+FC-1D,1,n3520,trace,57,1297,1435.5,1,5.0,,visible author-line ink; column displaced from vertical grid,126.232,5057.351,0.532,23.028
+FC-1D,1,n3520,trace,58,1314,1436.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,129.131,5052.847,0.571,61.002
+FC-1D,1,n3520,trace,59,1324,1437.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,130.836,5050.502,0.571,61.002
+FC-1D,1,n3520,trace,60,1343,1438.0,1,4.5,,visible author-line ink; column displaced from vertical grid,134.076,5045.874,0.53,21.302
+FC-1D,1,n3520,trace,61,1349,1441.0,1,7.5,,visible author-line ink; column displaced from vertical grid,135.09,5035.147,0.541,31.659
+FC-1D,1,n3520,trace,62,1361,1443.0,1,6.5,,visible author-line ink; column displaced from vertical grid,137.131,5027.5,0.537,28.207
+FC-1D,1,n3520,trace,63,1373,1445.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,139.17,5018.127,0.542,33.385
+FC-1D,1,n3520,trace,64,1385,1448.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,141.208,5007.028,0.542,33.385
+FC-1D,1,n3520,trace,65,1397,1450.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,143.25,4999.381,0.542,33.385
+FC-1D,1,n3520,trace,66,1409,1452.0,1,8.5,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,145.293,4993.46,0.544,35.111
+FC-1D,1,n3520,trace,67,1421,1447.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,147.359,5009.979,0.542,33.385
+FC-1D,1,n3520,trace,68,1427,1446.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,148.387,5013.06,0.571,61.002
+FC-1D,1,n3520,trace,69,1447,1457.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,151.762,4973.849,0.571,61.002
+FC-1D,1,n3520,trace,70,1457,1476.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,153.401,4907.638,0.571,61.002
+FC-1D,1,n3520,trace,71,1469,1481.5,1,6.0,,visible author-line ink; column displaced from vertical grid,155.43,4887.908,0.535,26.48
+FC-1D,1,n3520,trace,72,1481,1486.5,1,7.0,,visible author-line ink; column displaced from vertical grid,157.46,4869.905,0.539,29.933
+FC-1D,1,n3520,trace,73,1493,1491.5,1,6.0,,visible author-line ink; column displaced from vertical grid,159.491,4851.902,0.535,26.48
+FC-1D,1,n3520,trace,74,1505,1497.0,1,6.5,,visible author-line ink; column displaced from vertical grid,161.52,4832.172,0.537,28.207
+FC-1D,1,n3520,trace,75,1517,1502.5,1,6.0,,visible author-line ink; column displaced from vertical grid,163.549,4812.443,0.535,26.48
+FC-1D,1,n3520,trace,76,1529,1507.5,1,7.0,,visible author-line ink; column displaced from vertical grid,165.579,4794.439,0.539,29.933
+FC-1D,1,n3520,trace,77,1541,1513.5,1,7.0,,visible author-line ink; column displaced from vertical grid,167.606,4772.984,0.539,29.933
+FC-1D,1,n3520,trace,78,1555,1517.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,169.982,4758.309,0.571,61.002
+FC-1D,1,n3520,trace,79,1565,1523.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,171.668,4736.977,0.571,61.002
+FC-1D,1,n3520,trace,80,1575,1530.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,173.351,4713.919,0.571,61.002
+FC-1D,1,n3520,trace,81,1589,1536.0,1,6.5,,visible author-line ink; column displaced from vertical grid,175.72,4692.34,0.537,28.207
+FC-1D,1,n3520,trace,82,1601,1540.5,1,7.0,,visible author-line ink; column displaced from vertical grid,177.752,4676.062,0.539,29.933
+FC-1D,1,n3520,trace,83,1613,1547.5,1,6.0,,visible author-line ink; column displaced from vertical grid,179.776,4651.154,0.535,26.48
+FC-1D,1,n3520,trace,84,1625,1551.5,1,6.0,,visible author-line ink; column displaced from vertical grid,181.81,4636.603,0.535,26.48
+FC-1D,1,n3520,trace,85,1637,1558.5,1,7.0,,visible author-line ink; column displaced from vertical grid,183.833,4611.695,0.539,29.933
+FC-1D,1,n3520,trace,86,1649,1563.0,1,6.5,,visible author-line ink; column displaced from vertical grid,185.866,4595.418,0.537,28.207
+FC-1D,1,n3520,trace,87,1661,1569.0,1,6.5,,visible author-line ink; column displaced from vertical grid,187.893,4573.963,0.537,28.207
+FC-1D,1,n3520,trace,88,1673,1574.5,1,6.0,,visible author-line ink; column displaced from vertical grid,189.922,4554.233,0.535,26.48
+FC-1D,1,n3520,trace,89,1685,1580.5,1,6.0,,visible author-line ink; column displaced from vertical grid,191.949,4532.777,0.535,26.48
+FC-1D,1,n3520,trace,90,1697,1585.0,1,7.5,,visible author-line ink; column displaced from vertical grid,193.981,4516.5,0.541,31.659
+FC-1D,1,n3520,trace,91,1709,1591.0,1,7.5,,visible author-line ink; column displaced from vertical grid,196.008,4495.045,0.541,31.659
+FC-1D,1,n3520,trace,92,1722,1595.5,1,6.0,,visible author-line ink; column displaced from vertical grid,198.211,4478.705,0.535,26.48
+FC-1D,1,n3520,trace,93,1728,1600.0,1,7.5,,visible author-line ink; column displaced from vertical grid,199.219,4462.799,0.541,31.659
+FC-1D,1,n3520,trace,94,1745,1607.5,1,6.0,,visible author-line ink; column displaced from vertical grid,202.095,4435.856,0.535,26.48
+FC-1D,1,n3520,trace,95,1757,1612.5,1,7.0,,visible author-line ink; column displaced from vertical grid,204.125,4417.853,0.539,29.933
+FC-1D,1,n3520,trace,96,1769,1617.0,1,6.5,,visible author-line ink; column displaced from vertical grid,206.158,4401.575,0.537,28.207
+FC-1D,1,n3520,trace,97,1781,1623.0,1,6.5,,visible author-line ink; column displaced from vertical grid,208.185,4380.12,0.537,28.207
+FC-1D,1,n3520,trace,98,1793,1627.5,1,7.0,,visible author-line ink; column displaced from vertical grid,210.217,4363.842,0.539,29.933
+FC-1D,1,n3520,trace,99,1805,1633.0,1,7.5,,visible author-line ink; column displaced from vertical grid,212.246,4344.113,0.541,31.659
+FC-1D,1,n3520,trace,100,1817,1637.5,1,6.0,,visible author-line ink; column displaced from vertical grid,214.278,4327.836,0.535,26.48
+FC-1D,1,n3520,trace,101,1829,1643.5,1,6.0,,visible author-line ink; column displaced from vertical grid,216.305,4306.38,0.535,26.48
+FC-1D,1,n3520,trace,102,1841,1648.5,1,7.0,,visible author-line ink; column displaced from vertical grid,218.336,4288.377,0.539,29.933
+FC-1D,1,n3520,trace,103,1853,1652.5,1,6.0,,visible author-line ink; column displaced from vertical grid,220.37,4273.825,0.535,26.48
+FC-1D,1,n3520,trace,104,1864,1656.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,222.234,4259.336,0.571,61.002
+FC-1D,1,n3520,trace,105,1876,1661.5,1,6.0,,visible author-line ink; column displaced from vertical grid,224.264,4241.333,0.535,26.48
+FC-1D,1,n3520,trace,106,1888,1665.5,1,6.0,,visible author-line ink; column displaced from vertical grid,226.298,4226.781,0.535,26.48
+FC-1D,1,n3520,trace,107,1899,1668.5,1,6.0,,visible author-line ink; column displaced from vertical grid,228.165,4215.744,0.535,26.48
+FC-1D,1,n3520,trace,108,1912,1673.5,1,6.0,,visible author-line ink; column displaced from vertical grid,230.367,4197.679,0.535,26.48
+FC-1D,1,n3520,trace,109,1924,1677.5,1,6.0,,visible author-line ink; column displaced from vertical grid,232.401,4183.128,0.535,26.48
+FC-1D,1,n3520,trace,110,1937,1680.5,1,6.0,,visible author-line ink; column displaced from vertical grid,234.61,4171.967,0.535,26.48
+FC-1D,1,n3520,trace,111,1947,1683.5,1,6.0,,visible author-line ink; column displaced from vertical grid,236.306,4160.992,0.535,26.48
+FC-1D,1,n3520,trace,112,1959,1686.5,1,6.0,,visible author-line ink; column displaced from vertical grid,238.344,4149.893,0.535,26.48
+FC-1D,1,n3520,trace,113,1972,1689.5,1,6.0,,visible author-line ink; column displaced from vertical grid,240.552,4138.732,0.535,26.48
+FC-1D,1,n3520,trace,114,1985,1692.5,1,6.0,,visible author-line ink; column displaced from vertical grid,242.761,4127.571,0.535,26.48
+FC-1D,1,n3520,trace,115,1997,1695.0,1,5.5,,visible author-line ink; column displaced from vertical grid,244.8,4118.198,0.533,24.754
+FC-1D,1,n3520,trace,116,2008,1696.0,1,1.5,,visible author-line ink; column displaced from vertical grid,246.675,4114.065,0.519,10.945
+FC-1D,1,n3520,trace,117,2021,1694.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,248.899,4118.44,0.571,61.002
+FC-1D,1,n3520,trace,118,2034,1694.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,251.12,4119.361,0.571,61.002
+FC-1D,1,n3520,feature,1,629,2135,5,5,,first trace / symbol interruption,9.684,2683.857,1.214,23.276
+FC-1D,1,n3520,feature,2,1268,1431,6,6,,peak of author trace; broad maximum,121.298,5074.68,1.389,26.79
+FC-1D,1,n3520,feature,3,2039,1699,5,5,,last visible trace,251.956,4101.791,1.214,23.276
+FC-1D,1,n2935,marker,1,646,2184,4,4,asterisk,center checked against local symbol image template; hand crop inspected,12.41,2513.647,1.04,19.762
+FC-1D,1,n2935,marker,2,752,1917,4,4,asterisk,center checked against local symbol image template; hand crop inspected,31.465,3428.829,1.04,19.762
+FC-1D,1,n2935,marker,3,982,1665,4,4,asterisk,center checked against local symbol image template; hand crop inspected,71.633,4284.556,1.04,19.762
+FC-1D,1,n2935,marker,4,1102,1604,4,4,asterisk,center checked against local symbol image template; hand crop inspected,92.338,4487.717,1.04,19.762
+FC-1D,1,n2935,marker,5,1217,1592,4,4,asterisk,center checked against local symbol image template; hand crop inspected,112.013,4522.029,1.04,19.762
+FC-1D,1,n2935,marker,6,1336,1610,4,4,asterisk,center checked against local symbol image template; hand crop inspected,132.264,4452.528,1.04,19.762
+FC-1D,1,n2935,marker,7,1447,1640,5,5,asterisk,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,151.105,4342.095,1.214,23.276
+FC-1D,1,n2935,marker,8,1624,1683,4,4,asterisk,center checked against local symbol image template; hand crop inspected,181.167,4182.7,1.04,19.762
+FC-1D,1,n2935,marker,9,1745,1712,5,5,asterisk,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,201.719,4075.1,1.214,23.276
+FC-1D,1,n2935,marker,10,2041,1761,4,4,asterisk,center checked against local symbol image template; hand crop inspected,252.075,3887.631,1.04,19.762
+FC-1D,1,n2935,trace,1,640,2172.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,11.429,2555.445,0.571,61.002
+FC-1D,1,n2935,trace,2,651,2137.0,1,15.5,,visible author-line ink; column displaced from vertical grid,13.433,2675.592,0.569,59.276
+FC-1D,1,n2935,trace,3,660,2126.5,1,1,,visible author-line ink; column displaced from vertical grid,15.007,2711.283,0.517,9.219
+FC-1D,1,n2935,trace,4,673,2089.0,1,1,,visible author-line ink; column displaced from vertical grid,17.361,2839.937,0.517,9.219
+FC-1D,1,n2935,trace,5,691,2042.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,20.601,2999.351,0.542,33.385
+FC-1D,1,n2935,trace,6,694,2043.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,21.111,2997.439,0.542,33.385
+FC-1D,1,n2935,trace,7,711,1983.5,1,12.0,,visible author-line ink; column displaced from vertical grid,24.227,3201.794,0.557,47.194
+FC-1D,1,n2935,trace,8,723,1958.5,1,12.0,,visible author-line ink; column displaced from vertical grid,26.365,3287.356,0.557,47.194
+FC-1D,1,n2935,trace,9,733,1943.5,1,6.0,,visible author-line ink; column displaced from vertical grid,28.126,3338.521,0.535,26.48
+FC-1D,1,n2935,trace,10,745,1919.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,30.262,3422.358,0.571,61.002
+FC-1D,1,n2935,trace,11,757,1894.5,1,8.0,,visible author-line ink; column displaced from vertical grid,32.399,3506.194,0.542,33.385
+FC-1D,1,n2935,trace,12,771,1874.5,1,9.0,,visible author-line ink; column displaced from vertical grid,34.861,3574.372,0.546,36.837
+FC-1D,1,n2935,trace,13,781,1859.5,1,9.0,,visible author-line ink; column displaced from vertical grid,36.622,3625.537,0.546,36.837
+FC-1D,1,n2935,trace,14,792,1844.5,1,9.0,,visible author-line ink; column displaced from vertical grid,38.553,3676.639,0.546,36.837
+FC-1D,1,n2935,trace,15,805,1826.5,1,9.0,,visible author-line ink; column displaced from vertical grid,40.837,3737.975,0.546,36.837
+FC-1D,1,n2935,trace,16,817,1810.0,1,7.5,,visible author-line ink; column displaced from vertical grid,42.945,3794.194,0.541,31.659
+FC-1D,1,n2935,trace,17,829,1796.5,1,9.0,,visible author-line ink; column displaced from vertical grid,45.042,3840.056,0.546,36.837
+FC-1D,1,n2935,trace,18,841,1782.5,1,9.0,,visible author-line ink; column displaced from vertical grid,47.141,3887.645,0.546,36.837
+FC-1D,1,n2935,trace,19,848,1774.0,1,7.5,,visible author-line ink; column displaced from vertical grid,48.366,3916.556,0.541,31.659
+FC-1D,1,n2935,trace,20,865,1756.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,51.333,3977.644,0.542,33.385
+FC-1D,1,n2935,trace,21,877,1746.0,1,9.5,,visible author-line ink; column displaced from vertical grid,53.418,4011.423,0.548,38.563
+FC-1D,1,n2935,trace,22,889,1732.5,1,8.0,,visible author-line ink; column displaced from vertical grid,55.515,4057.286,0.542,33.385
+FC-1D,1,n2935,trace,23,902,1720.0,1,7.5,,visible author-line ink; column displaced from vertical grid,57.779,4099.634,0.541,31.659
+FC-1D,1,n2935,trace,24,913,1711.0,1,7.5,,visible author-line ink; column displaced from vertical grid,59.689,4130.023,0.541,31.659
+FC-1D,1,n2935,trace,25,926,1700.0,1,7.5,,visible author-line ink; column displaced from vertical grid,61.948,4167.193,0.541,31.659
+FC-1D,1,n2935,trace,26,937,1691.5,1,6.0,,visible author-line ink; column displaced from vertical grid,63.856,4195.857,0.535,26.48
+FC-1D,1,n2935,trace,27,947,1687.5,1,2.0,,visible author-line ink; column displaced from vertical grid,65.578,4209.047,0.521,12.672
+FC-1D,1,n2935,trace,28,961,1675.5,1,5.0,,visible author-line ink; column displaced from vertical grid,68.011,4249.607,0.532,23.028
+FC-1D,1,n2935,trace,29,975,1667.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,70.431,4278.085,0.571,61.002
+FC-1D,1,n2935,trace,30,985,1660.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,72.162,4299.906,0.571,61.002
+FC-1D,1,n2935,trace,31,997,1650.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,74.248,4335.411,0.571,61.002
+FC-1D,1,n2935,trace,32,1009,1643.5,1,6.0,,visible author-line ink; column displaced from vertical grid,76.32,4357.108,0.535,26.48
+FC-1D,1,n2935,trace,33,1021,1637.5,1,6.0,,visible author-line ink; column displaced from vertical grid,78.39,4377.079,0.535,26.48
+FC-1D,1,n2935,trace,34,1033,1631.5,1,6.0,,visible author-line ink; column displaced from vertical grid,80.46,4397.05,0.535,26.48
+FC-1D,1,n2935,trace,35,1045,1624.5,1,7.0,,visible author-line ink; column displaced from vertical grid,82.534,4420.473,0.539,29.933
+FC-1D,1,n2935,trace,36,1057,1619.5,1,6.0,,visible author-line ink; column displaced from vertical grid,84.6,4436.992,0.535,26.48
+FC-1D,1,n2935,trace,37,1067,1615.5,1,5.0,,visible author-line ink; column displaced from vertical grid,86.322,4450.182,0.532,23.028
+FC-1D,1,n2935,trace,38,1085,1602.0,1,3.5,,visible author-line ink; column displaced from vertical grid,89.443,4495.673,0.526,17.85
+FC-1D,1,n2935,trace,39,1091,1599.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,90.476,4503.933,0.571,61.002
+FC-1D,1,n2935,trace,40,1105,1600.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,92.865,4501.34,0.571,61.002
+FC-1D,1,n2935,trace,41,1117,1601.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,94.908,4495.42,0.571,61.002
+FC-1D,1,n2935,trace,42,1130,1599.0,1,6.5,,visible author-line ink; column displaced from vertical grid,97.136,4503.246,0.537,28.207
+FC-1D,1,n2935,trace,43,1141,1599.0,1,6.5,,visible author-line ink; column displaced from vertical grid,99.014,4502.566,0.537,28.207
+FC-1D,1,n2935,trace,44,1156,1596.0,1,5.5,,visible author-line ink; column displaced from vertical grid,101.585,4511.994,0.533,24.754
+FC-1D,1,n2935,trace,45,1165,1596.5,1,6.0,,visible author-line ink; column displaced from vertical grid,103.12,4509.711,0.535,26.48
+FC-1D,1,n2935,trace,46,1179,1596.0,1,6.5,,visible author-line ink; column displaced from vertical grid,105.512,4510.571,0.537,28.207
+FC-1D,1,n2935,trace,47,1189,1596.0,1,3.5,,visible author-line ink; column displaced from vertical grid,107.219,4509.953,0.526,17.85
+FC-1D,1,n2935,trace,48,1202,1593.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,109.447,4517.779,0.571,61.002
+FC-1D,1,n2935,trace,49,1213,1594.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,111.321,4513.646,0.571,61.002
+FC-1D,1,n2935,trace,50,1227,1597.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,113.702,4504.15,0.571,61.002
+FC-1D,1,n2935,trace,51,1237,1596.0,1,5.5,,visible author-line ink; column displaced from vertical grid,115.413,4506.983,0.533,24.754
+FC-1D,1,n2935,trace,52,1250,1598.5,1,6.0,,visible author-line ink; column displaced from vertical grid,117.623,4497.549,0.535,26.48
+FC-1D,1,n2935,trace,53,1261,1599.0,1,5.5,,visible author-line ink; column displaced from vertical grid,119.5,4495.142,0.533,24.754
+FC-1D,1,n2935,trace,54,1273,1601.5,1,6.0,,visible author-line ink; column displaced from vertical grid,121.539,4485.769,0.535,26.48
+FC-1D,1,n2935,trace,55,1286,1604.5,1,6.0,,visible author-line ink; column displaced from vertical grid,123.748,4474.608,0.535,26.48
+FC-1D,1,n2935,trace,56,1297,1605.0,1,5.5,,visible author-line ink; column displaced from vertical grid,125.624,4472.202,0.533,24.754
+FC-1D,1,n2935,trace,57,1306,1609.0,1,1.5,,visible author-line ink; column displaced from vertical grid,127.146,4457.836,0.519,10.945
+FC-1D,1,n2935,trace,58,1322,1611.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,129.87,4449.942,0.571,61.002
+FC-1D,1,n2935,trace,59,1333,1611.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,131.746,4447.535,0.571,61.002
+FC-1D,1,n2935,trace,60,1342,1618.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,133.257,4422.813,0.571,61.002
+FC-1D,1,n2935,trace,61,1357,1619.5,1,6.0,,visible author-line ink; column displaced from vertical grid,135.814,4418.433,0.535,26.48
+FC-1D,1,n2935,trace,62,1369,1621.5,1,5.0,,visible author-line ink; column displaced from vertical grid,137.856,4410.786,0.532,23.028
+FC-1D,1,n2935,trace,63,1380,1626.0,1,6.5,,visible author-line ink; column displaced from vertical grid,139.718,4394.571,0.537,28.207
+FC-1D,1,n2935,trace,64,1393,1630.5,1,7.0,,visible author-line ink; column displaced from vertical grid,141.921,4378.231,0.539,29.933
+FC-1D,1,n2935,trace,65,1405,1634.5,1,6.0,,visible author-line ink; column displaced from vertical grid,143.955,4363.68,0.535,26.48
+FC-1D,1,n2935,trace,66,1417,1638.0,1,6.5,,visible author-line ink; column displaced from vertical grid,145.991,4350.855,0.537,28.207
+FC-1D,1,n2935,trace,67,1429,1638.0,1,3.5,,visible author-line ink; column displaced from vertical grid,148.039,4350.113,0.526,17.85
+FC-1D,1,n2935,trace,68,1444,1638.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,150.6,4349.185,0.571,61.002
+FC-1D,1,n2935,trace,69,1453,1650.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,152.094,4307.201,0.571,61.002
+FC-1D,1,n2935,trace,70,1464,1651.5,1,7.0,,visible author-line ink; column displaced from vertical grid,153.966,4301.343,0.539,29.933
+FC-1D,1,n2935,trace,71,1476,1654.5,1,7.0,,visible author-line ink; column displaced from vertical grid,156.004,4290.244,0.539,29.933
+FC-1D,1,n2935,trace,72,1489,1658.5,1,6.0,,visible author-line ink; column displaced from vertical grid,158.209,4275.631,0.535,26.48
+FC-1D,1,n2935,trace,73,1501,1661.5,1,6.0,,visible author-line ink; column displaced from vertical grid,160.246,4264.532,0.535,26.48
+FC-1D,1,n2935,trace,74,1513,1664.5,1,6.0,,visible author-line ink; column displaced from vertical grid,162.284,4253.433,0.535,26.48
+FC-1D,1,n2935,trace,75,1525,1667.5,1,6.0,,visible author-line ink; column displaced from vertical grid,164.322,4242.334,0.535,26.48
+FC-1D,1,n2935,trace,76,1537,1670.5,1,6.0,,visible author-line ink; column displaced from vertical grid,166.36,4231.235,0.535,26.48
+FC-1D,1,n2935,trace,77,1549,1673.5,1,6.0,,visible author-line ink; column displaced from vertical grid,168.398,4220.136,0.535,26.48
+FC-1D,1,n2935,trace,78,1561,1676.5,1,6.0,,visible author-line ink; column displaced from vertical grid,170.435,4209.037,0.535,26.48
+FC-1D,1,n2935,trace,79,1573,1679.5,1,6.0,,visible author-line ink; column displaced from vertical grid,172.473,4197.938,0.535,26.48
+FC-1D,1,n2935,trace,80,1585,1682.5,1,6.0,,visible author-line ink; column displaced from vertical grid,174.511,4186.839,0.535,26.48
+FC-1D,1,n2935,trace,81,1600,1678.5,1,4.0,,visible author-line ink; column displaced from vertical grid,177.086,4199.72,0.528,19.576
+FC-1D,1,n2935,trace,82,1608,1681.5,1,4.0,,visible author-line ink; column displaced from vertical grid,178.441,4188.868,0.528,19.576
+FC-1D,1,n2935,trace,83,1620,1685.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,180.475,4174.317,0.571,61.002
+FC-1D,1,n2935,trace,84,1635,1687.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,183.029,4166.485,0.571,61.002
+FC-1D,1,n2935,trace,85,1645,1695.0,1,5.5,,visible author-line ink; column displaced from vertical grid,184.709,4139.974,0.533,24.754
+FC-1D,1,n2935,trace,86,1657,1697.5,1,6.0,,visible author-line ink; column displaced from vertical grid,186.749,4130.601,0.535,26.48
+FC-1D,1,n2935,trace,87,1669,1701.0,1,5.5,,visible author-line ink; column displaced from vertical grid,188.785,4117.776,0.533,24.754
+FC-1D,1,n2935,trace,88,1681,1703.5,1,6.0,,visible author-line ink; column displaced from vertical grid,190.824,4108.403,0.535,26.48
+FC-1D,1,n2935,trace,89,1692,1704.5,1,6.0,,visible author-line ink; column displaced from vertical grid,192.698,4104.271,0.535,26.48
+FC-1D,1,n2935,trace,90,1705,1709.5,1,6.0,,visible author-line ink; column displaced from vertical grid,194.9,4086.205,0.535,26.48
+FC-1D,1,n2935,trace,91,1719,1707.0,1,3.5,,visible author-line ink; column displaced from vertical grid,197.299,4093.97,0.526,17.85
+FC-1D,1,n2935,trace,92,1728,1709.5,1,3.0,,visible author-line ink; column displaced from vertical grid,198.826,4084.783,0.524,16.124
+FC-1D,1,n2935,trace,93,1743,1708.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,201.391,4087.307,0.571,61.002
+FC-1D,1,n2935,trace,94,1751,1707.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,202.762,4091.99,0.571,61.002
+FC-1D,1,n2935,trace,95,1765,1720.5,1,5.0,,visible author-line ink; column displaced from vertical grid,205.103,4044.519,0.532,23.028
+FC-1D,1,n2935,trace,96,1777,1721.5,1,6.0,,visible author-line ink; column displaced from vertical grid,207.148,4040.325,0.535,26.48
+FC-1D,1,n2935,trace,97,1789,1724.5,1,6.0,,visible author-line ink; column displaced from vertical grid,209.186,4029.226,0.535,26.48
+FC-1D,1,n2935,trace,98,1799,1725.0,1,5.5,,visible author-line ink; column displaced from vertical grid,210.891,4026.881,0.533,24.754
+FC-1D,1,n2935,trace,99,1813,1731.0,1,8.5,,visible author-line ink; column displaced from vertical grid,213.26,4005.302,0.544,35.111
+FC-1D,1,n2935,trace,100,1825,1732.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,215.305,4001.107,0.542,33.385
+FC-1D,1,n2935,trace,101,1837,1733.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,217.348,3995.186,0.542,33.385
+FC-1D,1,n2935,trace,102,1848,1734.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,219.222,3991.054,0.542,33.385
+FC-1D,1,n2935,trace,103,1861,1737.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,221.432,3981.619,0.542,33.385
+FC-1D,1,n2935,trace,104,1873,1738.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,223.476,3975.698,0.542,33.385
+FC-1D,1,n2935,trace,105,1885,1740.0,1,8.5,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,225.519,3969.778,0.544,35.111
+FC-1D,1,n2935,trace,106,1897,1740.5,1,9.0,,visible author-line ink; column displaced from vertical grid,227.566,3967.309,0.546,36.837
+FC-1D,1,n2935,trace,107,1909,1734.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,229.638,3989.006,0.542,33.385
+FC-1D,1,n2935,trace,108,1921,1748.5,1,6.0,,visible author-line ink; column displaced from vertical grid,231.634,3938.207,0.535,26.48
+FC-1D,1,n2935,trace,109,1933,1749.5,1,6.0,,visible author-line ink; column displaced from vertical grid,233.679,3934.012,0.535,26.48
+FC-1D,1,n2935,trace,110,1945,1751.5,1,6.0,,visible author-line ink; column displaced from vertical grid,235.72,3926.365,0.535,26.48
+FC-1D,1,n2935,trace,111,1957,1754.5,1,6.0,,visible author-line ink; column displaced from vertical grid,237.758,3915.266,0.535,26.48
+FC-1D,1,n2935,trace,112,1969,1757.5,1,6.0,,visible author-line ink; column displaced from vertical grid,239.796,3904.167,0.535,26.48
+FC-1D,1,n2935,trace,113,1981,1758.0,1,5.5,,visible author-line ink; column displaced from vertical grid,241.843,3901.699,0.533,24.754
+FC-1D,1,n2935,trace,114,1993,1760.5,1,6.0,,visible author-line ink; column displaced from vertical grid,243.882,3892.326,0.535,26.48
+FC-1D,1,n2935,trace,115,2005,1761.5,1,6.0,,visible author-line ink; column displaced from vertical grid,245.927,3888.132,0.535,26.48
+FC-1D,1,n2935,trace,116,2017,1755.5,1,3.0,,visible author-line ink; column displaced from vertical grid,247.997,3908.102,0.524,16.124
+FC-1D,1,n2935,trace,117,2035,1763.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,251.043,3881.097,0.571,61.002
+FC-1D,1,n2935,feature,1,637,2185,5,5,,first trace / symbol interruption,10.87,2510.752,1.214,23.276
+FC-1D,1,n2935,feature,2,1175,1596,6,6,,peak of author trace; broad maximum,104.829,4510.819,1.389,26.79
+FC-1D,1,n2935,feature,3,2039,1761,5,5,,last visible trace,251.733,3887.754,1.214,23.276
+FC-1D,1,n2345,marker,1,683,2159,4,4,square,center checked against local symbol image template; hand crop inspected,18.817,2597.664,1.04,19.762
+FC-1D,1,n2345,marker,2,795,1930,5,5,square,square above rising author fit,38.759,3381.29,1.214,23.276
+FC-1D,1,n2345,marker,3,921,1862,4,4,square,center checked against local symbol image template; hand crop inspected,60.513,3608.245,1.04,19.762
+FC-1D,1,n2345,marker,4,1031,1814,4,4,square,center checked against local symbol image template; hand crop inspected,79.464,3767.146,1.04,19.762
+FC-1D,1,n2345,marker,5,1147,1793,5,5,square,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,99.342,3832.466,1.214,23.276
+FC-1D,1,n2345,marker,6,1261,1794,4,4,square,center checked against local symbol image template; hand crop inspected,118.8,3821.962,1.04,19.762
+FC-1D,1,n2345,marker,7,1384,1814,4,4,square,center checked against local symbol image template; hand crop inspected,139.726,3745.308,1.04,19.762
+FC-1D,1,n2345,marker,8,1502,1838,4,4,square,center checked against local symbol image template; hand crop inspected,159.784,3655.155,1.04,19.762
+FC-1D,1,n2345,marker,9,1625,1845,5,5,square,square above author fit,180.756,3623.381,1.214,23.276
+FC-1D,1,n2345,marker,10,1736,1840,6,6,square,square well above fit on vertical grid; symbol intersects vertical grid,199.723,3633.775,1.389,26.79
+FC-1D,1,n2345,marker,11,1863,1970,4,4,square,center checked against local symbol image template; hand crop inspected,220.938,3177.131,1.04,19.762
+FC-1D,1,n2345,marker,12,2047,2043,4,4,square,center checked against local symbol image template; hand crop inspected,252.087,2913.737,1.04,19.762
+FC-1D,1,n2345,trace,1,699,2124.0,1,10.5,,visible author-line ink; column displaced from vertical grid,21.674,2717.501,0.551,42.015
+FC-1D,1,n2345,trace,2,711,2101.0,1,12.5,,visible author-line ink; column displaced from vertical grid,23.805,2796.159,0.559,48.92
+FC-1D,1,n2345,trace,3,723,2077.0,1,11.5,,visible author-line ink; column displaced from vertical grid,25.94,2878.27,0.555,45.468
+FC-1D,1,n2345,trace,4,732,2060.5,1,11.0,,visible author-line ink; column displaced from vertical grid,27.535,2934.675,0.553,43.741
+FC-1D,1,n2345,trace,5,751,2042.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,30.845,2997.365,0.542,33.385
+FC-1D,1,n2345,trace,6,759,2016.0,1,9.5,,visible author-line ink; column displaced from vertical grid,32.304,3086.627,0.548,38.563
+FC-1D,1,n2345,trace,7,774,1995.0,1,8.5,,visible author-line ink; column displaced from vertical grid,34.94,3158.196,0.544,35.111
+FC-1D,1,n2345,trace,8,782,1983.0,1,8.5,,visible author-line ink; column displaced from vertical grid,36.349,3199.127,0.544,35.111
+FC-1D,1,n2345,trace,9,797,1965.0,1,8.5,,visible author-line ink; column displaced from vertical grid,38.974,3260.339,0.544,35.111
+FC-1D,1,n2345,trace,10,809,1951.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,41.073,3307.928,0.571,61.002
+FC-1D,1,n2345,trace,11,820,1940.0,1,7.5,,visible author-line ink; column displaced from vertical grid,42.991,3345.221,0.541,31.659
+FC-1D,1,n2345,trace,12,831,1930.0,1,7.5,,visible author-line ink; column displaced from vertical grid,44.904,3379.063,0.541,31.659
+FC-1D,1,n2345,trace,13,843,1918.5,1,8.0,,visible author-line ink; column displaced from vertical grid,46.994,3418.021,0.542,33.385
+FC-1D,1,n2345,trace,14,852,1910.0,1,7.5,,visible author-line ink; column displaced from vertical grid,48.561,3446.808,0.541,31.659
+FC-1D,1,n2345,trace,15,867,1897.5,1,7.0,,visible author-line ink; column displaced from vertical grid,51.167,3489.033,0.539,29.933
+FC-1D,1,n2345,trace,16,879,1889.0,1,7.5,,visible author-line ink; column displaced from vertical grid,53.246,3517.634,0.541,31.659
+FC-1D,1,n2345,trace,17,891,1879.5,1,7.0,,visible author-line ink; column displaced from vertical grid,55.328,3549.688,0.539,29.933
+FC-1D,1,n2345,trace,18,904,1871.5,1,6.0,,visible author-line ink; column displaced from vertical grid,57.576,3576.501,0.535,26.48
+FC-1D,1,n2345,trace,19,910,1875.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,58.588,3564.047,0.571,61.002
+FC-1D,1,n2345,trace,20,930,1853.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,62.08,3637.032,0.571,61.002
+FC-1D,1,n2345,trace,21,939,1847.5,1,6.0,,visible author-line ink; column displaced from vertical grid,63.638,3657.189,0.535,26.48
+FC-1D,1,n2345,trace,22,951,1842.5,1,6.0,,visible author-line ink; column displaced from vertical grid,65.704,3673.707,0.535,26.48
+FC-1D,1,n2345,trace,23,962,1838.5,1,6.0,,visible author-line ink; column displaced from vertical grid,67.596,3686.836,0.535,26.48
+FC-1D,1,n2345,trace,24,974,1832.5,1,6.0,,visible author-line ink; column displaced from vertical grid,69.666,3706.807,0.535,26.48
+FC-1D,1,n2345,trace,25,987,1826.5,1,6.0,,visible author-line ink; column displaced from vertical grid,71.907,3726.716,0.535,26.48
+FC-1D,1,n2345,trace,26,999,1821.0,1,6.5,,visible author-line ink; column displaced from vertical grid,73.976,3744.96,0.537,28.207
+FC-1D,1,n2345,trace,27,1011,1818.0,1,5.5,,visible author-line ink; column displaced from vertical grid,76.035,3754.575,0.533,24.754
+FC-1D,1,n2345,trace,28,1019,1815.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,77.411,3764.436,0.571,61.002
+FC-1D,1,n2345,trace,29,1041,1808.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,81.19,3785.515,0.571,61.002
+FC-1D,1,n2345,trace,30,1045,1813.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,81.857,3769.732,0.571,61.002
+FC-1D,1,n2345,trace,31,1059,1803.0,1,6.5,,visible author-line ink; column displaced from vertical grid,84.283,3803.388,0.537,28.207
+FC-1D,1,n2345,trace,32,1071,1801.0,1,4.5,,visible author-line ink; column displaced from vertical grid,86.339,3809.55,0.53,21.302
+FC-1D,1,n2345,trace,33,1083,1799.5,1,6.0,,visible author-line ink; column displaced from vertical grid,88.393,3813.986,0.535,26.48
+FC-1D,1,n2345,trace,34,1091,1803.0,1,1,,visible author-line ink; column displaced from vertical grid,89.746,3801.409,0.517,9.219
+FC-1D,1,n2345,trace,35,1105,1796.5,1,6.0,,visible author-line ink; column displaced from vertical grid,92.159,3822.982,0.535,26.48
+FC-1D,1,n2345,trace,36,1119,1793.5,1,6.0,,visible author-line ink; column displaced from vertical grid,94.56,3832.472,0.535,26.48
+FC-1D,1,n2345,trace,37,1131,1792.0,1,13.5,,visible author-line ink; column displaced from vertical grid,96.614,3836.908,0.562,52.372
+FC-1D,1,n2345,trace,38,1143,1807.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,98.609,3784.383,0.571,61.002
+FC-1D,1,n2345,trace,39,1160,1792.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,101.563,3833.388,0.571,61.002
+FC-1D,1,n2345,trace,40,1169,1791.0,1,3.5,,visible author-line ink; column displaced from vertical grid,103.105,3838.01,0.526,17.85
+FC-1D,1,n2345,trace,41,1179,1790.5,1,6.0,,visible author-line ink; column displaced from vertical grid,104.814,3839.117,0.535,26.48
+FC-1D,1,n2345,trace,42,1191,1790.5,1,6.0,,visible author-line ink; column displaced from vertical grid,106.862,3838.375,0.535,26.48
+FC-1D,1,n2345,trace,43,1203,1790.5,1,6.0,,visible author-line ink; column displaced from vertical grid,108.911,3837.632,0.535,26.48
+FC-1D,1,n2345,trace,44,1215,1791.5,1,6.0,,visible author-line ink; column displaced from vertical grid,110.956,3833.438,0.535,26.48
+FC-1D,1,n2345,trace,45,1227,1792.5,1,5.0,,visible author-line ink; column displaced from vertical grid,113.001,3829.243,0.532,23.028
+FC-1D,1,n2345,trace,46,1239,1793.5,1,6.0,,visible author-line ink; column displaced from vertical grid,115.046,3825.049,0.535,26.48
+FC-1D,1,n2345,trace,47,1246,1795.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,116.235,3819.437,0.571,61.002
+FC-1D,1,n2345,trace,48,1263,1807.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,119.092,3775.233,0.571,61.002
+FC-1D,1,n2345,trace,49,1274,1795.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,121.013,3815.979,0.571,61.002
+FC-1D,1,n2345,trace,50,1287,1796.5,1,6.0,,visible author-line ink; column displaced from vertical grid,123.229,3811.723,0.535,26.48
+FC-1D,1,n2345,trace,51,1299,1798.5,1,5.0,,visible author-line ink; column displaced from vertical grid,125.27,3804.076,0.532,23.028
+FC-1D,1,n2345,trace,52,1311,1799.5,1,6.0,,visible author-line ink; column displaced from vertical grid,127.315,3799.881,0.535,26.48
+FC-1D,1,n2345,trace,53,1323,1801.5,1,5.0,,visible author-line ink; column displaced from vertical grid,129.357,3792.235,0.532,23.028
+FC-1D,1,n2345,trace,54,1335,1802.5,1,6.0,,visible author-line ink; column displaced from vertical grid,131.402,3788.04,0.535,26.48
+FC-1D,1,n2345,trace,55,1347,1805.5,1,6.0,,visible author-line ink; column displaced from vertical grid,133.44,3776.941,0.535,26.48
+FC-1D,1,n2345,trace,56,1359,1806.5,1,6.0,,visible author-line ink; column displaced from vertical grid,135.485,3772.746,0.535,26.48
+FC-1D,1,n2345,trace,57,1371,1813.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,137.508,3747.839,0.571,61.002
+FC-1D,1,n2345,trace,58,1383,1825.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,139.514,3705.67,0.571,61.002
+FC-1D,1,n2345,trace,59,1395,1813.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,141.605,3746.354,0.571,61.002
+FC-1D,1,n2345,trace,60,1406,1815.0,1,5.5,,visible author-line ink; column displaced from vertical grid,143.478,3740.495,0.533,24.754
+FC-1D,1,n2345,trace,61,1419,1817.5,1,6.0,,visible author-line ink; column displaced from vertical grid,145.688,3731.06,0.535,26.48
+FC-1D,1,n2345,trace,62,1431,1820.5,1,6.0,,visible author-line ink; column displaced from vertical grid,147.726,3719.961,0.535,26.48
+FC-1D,1,n2345,trace,63,1448,1823.5,1,6.0,,visible author-line ink; column displaced from vertical grid,150.617,3708.553,0.535,26.48
+FC-1D,1,n2345,trace,64,1456,1825.5,1,5.0,,visible author-line ink; column displaced from vertical grid,151.976,3701.154,0.532,23.028
+FC-1D,1,n2345,trace,65,1467,1827.5,1,6.0,,visible author-line ink; column displaced from vertical grid,153.846,3693.569,0.535,26.48
+FC-1D,1,n2345,trace,66,1479,1830.0,1,6.5,,visible author-line ink; column displaced from vertical grid,155.886,3684.196,0.537,28.207
+FC-1D,1,n2345,trace,67,1490,1837.5,1,16.0,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,157.737,3657.624,0.571,61.002
+FC-1D,1,n2345,trace,68,1503,1850.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,159.909,3611.941,0.571,61.002
+FC-1D,1,n2345,trace,69,1516,1846.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,162.145,3626.672,0.571,61.002
+FC-1D,1,n2345,trace,70,1527,1845.5,1,6.0,,visible author-line ink; column displaced from vertical grid,164.025,3627.717,0.535,26.48
+FC-1D,1,n2345,trace,71,1539,1849.5,1,7.0,,visible author-line ink; column displaced from vertical grid,166.059,3613.166,0.539,29.933
+FC-1D,1,n2345,trace,72,1551,1853.5,1,6.0,,visible author-line ink; column displaced from vertical grid,168.093,3598.615,0.535,26.48
+FC-1D,1,n2345,trace,73,1563,1856.5,1,6.0,,visible author-line ink; column displaced from vertical grid,170.131,3587.516,0.535,26.48
+FC-1D,1,n2345,trace,74,1575,1859.5,1,6.0,,visible author-line ink; column displaced from vertical grid,172.169,3576.417,0.535,26.48
+FC-1D,1,n2345,trace,75,1587,1863.0,1,6.5,,visible author-line ink; column displaced from vertical grid,174.205,3563.592,0.537,28.207
+FC-1D,1,n2345,trace,76,1599,1866.5,1,6.0,,visible author-line ink; column displaced from vertical grid,176.241,3550.767,0.535,26.48
+FC-1D,1,n2345,trace,77,1611,1871.5,1,6.0,,visible author-line ink; column displaced from vertical grid,178.271,3532.763,0.535,26.48
+FC-1D,1,n2345,trace,78,1623,1875.0,1,5.5,,visible author-line ink; column displaced from vertical grid,180.307,3519.938,0.533,24.754
+FC-1D,1,n2345,trace,79,1635,1879.5,1,5.0,,visible author-line ink; column displaced from vertical grid,182.34,3503.661,0.532,23.028
+FC-1D,1,n2345,trace,80,1646,1881.5,1,6.0,,visible author-line ink; column displaced from vertical grid,184.21,3496.076,0.535,26.48
+FC-1D,1,n2345,trace,81,1659,1887.0,1,5.5,,visible author-line ink; column displaced from vertical grid,186.41,3476.285,0.533,24.754
+FC-1D,1,n2345,trace,82,1671,1892.5,1,6.0,,visible author-line ink; column displaced from vertical grid,188.439,3456.555,0.535,26.48
+FC-1D,1,n2345,trace,83,1683,1895.5,1,6.0,,visible author-line ink; column displaced from vertical grid,190.476,3445.456,0.535,26.48
+FC-1D,1,n2345,trace,84,1695,1900.5,1,7.0,,visible author-line ink; column displaced from vertical grid,192.507,3427.453,0.539,29.933
+FC-1D,1,n2345,trace,85,1707,1905.5,1,6.0,,visible author-line ink; column displaced from vertical grid,194.538,3409.449,0.535,26.48
+FC-1D,1,n2345,trace,86,1719,1910.5,1,6.0,,visible author-line ink; column displaced from vertical grid,196.568,3391.446,0.535,26.48
+FC-1D,1,n2345,trace,87,1731,1914.0,1,6.5,,visible author-line ink; column displaced from vertical grid,198.604,3378.621,0.537,28.207
+FC-1D,1,n2345,trace,88,1747,1922.5,1,6.0,,visible author-line ink; column displaced from vertical grid,201.305,3348.287,0.535,26.48
+FC-1D,1,n2345,trace,89,1755,1924.5,1,7.0,,visible author-line ink; column displaced from vertical grid,202.664,3340.888,0.539,29.933
+FC-1D,1,n2345,trace,90,1767,1928.5,1,6.0,,visible author-line ink; column displaced from vertical grid,204.698,3326.337,0.535,26.48
+FC-1D,1,n2345,trace,91,1779,1934.5,1,6.0,,visible author-line ink; column displaced from vertical grid,206.725,3304.881,0.535,26.48
+FC-1D,1,n2345,trace,92,1791,1939.5,1,7.0,,visible author-line ink; column displaced from vertical grid,208.756,3286.878,0.539,29.933
+FC-1D,1,n2345,trace,93,1803,1943.5,1,6.0,,visible author-line ink; column displaced from vertical grid,210.79,3272.326,0.535,26.48
+FC-1D,1,n2345,trace,94,1815,1949.5,1,6.0,,visible author-line ink; column displaced from vertical grid,212.817,3250.871,0.535,26.48
+FC-1D,1,n2345,trace,95,1827,1953.5,1,6.0,,visible author-line ink; column displaced from vertical grid,214.851,3236.32,0.535,26.48
+FC-1D,1,n2345,trace,96,1839,1959.0,1,6.5,,visible author-line ink; column displaced from vertical grid,216.88,3216.59,0.537,28.207
+FC-1D,1,n2345,trace,97,1851,1958.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,218.93,3217.574,0.571,61.002
+FC-1D,1,n2345,trace,98,1858,1957.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,220.131,3222.319,0.571,61.002
+FC-1D,1,n2345,trace,99,1875,1970.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,222.984,3174.663,0.571,61.002
+FC-1D,1,n2345,trace,100,1887,1980.0,1,6.5,,visible author-line ink; column displaced from vertical grid,224.999,3141.124,0.537,28.207
+FC-1D,1,n2345,trace,101,1899,1985.5,1,6.0,,visible author-line ink; column displaced from vertical grid,227.028,3121.395,0.535,26.48
+FC-1D,1,n2345,trace,102,1911,1990.5,1,7.0,,visible author-line ink; column displaced from vertical grid,229.058,3103.391,0.539,29.933
+FC-1D,1,n2345,trace,103,1923,1995.0,1,6.5,,visible author-line ink; column displaced from vertical grid,231.091,3087.114,0.537,28.207
+FC-1D,1,n2345,trace,104,1935,2000.5,1,6.0,,visible author-line ink; column displaced from vertical grid,233.119,3067.385,0.535,26.48
+FC-1D,1,n2345,trace,105,1947,2004.5,1,6.0,,visible author-line ink; column displaced from vertical grid,235.154,3052.833,0.535,26.48
+FC-1D,1,n2345,trace,106,1957,2009.5,1,6.0,,visible author-line ink; column displaced from vertical grid,236.843,3034.954,0.535,26.48
+FC-1D,1,n2345,trace,107,1971,2016.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,239.209,3011.648,0.542,33.385
+FC-1D,1,n2345,trace,108,1983,2020.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,241.244,2997.097,0.542,33.385
+FC-1D,1,n2345,trace,109,1995,2024.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,243.278,2982.546,0.542,33.385
+FC-1D,1,n2345,trace,110,2007,2019.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,245.344,2999.065,0.542,33.385
+FC-1D,1,n2345,trace,111,2019,2034.5,1,7.0,,visible author-line ink; column displaced from vertical grid,247.337,2944.813,0.539,29.933
+FC-1D,1,n2345,trace,112,2028,2039.0,1,5.5,,visible author-line ink; column displaced from vertical grid,248.858,2928.721,0.533,24.754
+FC-1D,1,n2345,feature,1,699,2134,5,5,,first trace / symbol interruption,21.638,2682.979,1.214,23.276
+FC-1D,1,n2345,feature,2,1165,1794,6,6,,peak of author trace; broad maximum,102.411,3827.901,1.389,26.79
+FC-1D,1,n2345,feature,3,2039,2034,5,5,,last visible trace,250.753,2945.302,1.214,23.276
+FC-1D,1,n1468,marker,1,646,2525,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,11.186,1336.445,1.04,19.762
+FC-1D,1,n1468,marker,2,754,2316,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,30.374,2051.275,1.04,19.762
+FC-1D,1,n1468,marker,3,870,2206,5,5,triangle-down,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,50.571,2423.841,1.214,23.276
+FC-1D,1,n1468,marker,4,983,2148,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,70.07,2617.079,1.04,19.762
+FC-1D,1,n1468,marker,5,1106,2139,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,91.1,2640.539,1.04,19.762
+FC-1D,1,n1468,marker,6,1223,2139,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,111.074,2633.301,1.04,19.762
+FC-1D,1,n1468,marker,7,1280,2142,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,120.794,2619.418,1.04,19.762
+FC-1D,1,n1468,marker,8,1392,2142,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,139.914,2612.49,1.04,19.762
+FC-1D,1,n1468,marker,9,1509,2145,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,159.877,2594.895,1.04,19.762
+FC-1D,1,n1468,marker,10,1635,2139,6,6,triangle-down,triangle above declining author fit,181.408,2607.813,1.389,26.79
+FC-1D,1,n1468,marker,11,1750,2260,5,5,triangle-down,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,200.606,2182.982,1.214,23.276
+FC-1D,1,n1468,marker,12,1868,2258,4,4,triangle-down,center checked against local symbol image template; hand crop inspected,220.757,2182.586,1.04,19.762
+FC-1D,1,n1468,trace,1,645,2514.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,11.053,1372.755,0.571,61.002
+FC-1D,1,n1468,trace,2,655,2493.5,1,15.0,,visible author-line ink; column displaced from vertical grid,12.836,1444.633,0.568,57.55
+FC-1D,1,n1468,trace,3,666,2467.0,1,12.5,,visible author-line ink; column displaced from vertical grid,14.809,1535.436,0.559,48.92
+FC-1D,1,n1468,trace,4,678,2440.0,1,12.5,,visible author-line ink; column displaced from vertical grid,16.954,1627.903,0.559,48.92
+FC-1D,1,n1468,trace,5,690,2416.0,1,11.5,,visible author-line ink; column displaced from vertical grid,19.089,1710.013,0.555,45.468
+FC-1D,1,n1468,trace,6,702,2394.0,1,10.5,,visible author-line ink; column displaced from vertical grid,21.217,1785.22,0.551,42.015
+FC-1D,1,n1468,trace,7,714,2373.0,1,10.5,,visible author-line ink; column displaced from vertical grid,23.341,1856.974,0.551,42.015
+FC-1D,1,n1468,trace,8,726,2354.0,1,10.5,,visible author-line ink; column displaced from vertical grid,25.457,1921.823,0.551,42.015
+FC-1D,1,n1468,trace,9,735,2339.5,1,11.0,,visible author-line ink; column displaced from vertical grid,27.046,1971.323,0.553,43.741
+FC-1D,1,n1468,trace,10,753,2305.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,30.241,2087.585,0.571,61.002
+FC-1D,1,n1468,trace,11,764,2299.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,32.142,2109.344,0.571,61.002
+FC-1D,1,n1468,trace,12,773,2289.0,1,7.5,,visible author-line ink; column displaced from vertical grid,33.714,2143.309,0.541,31.659
+FC-1D,1,n1468,trace,13,787,2274.0,1,7.5,,visible author-line ink; column displaced from vertical grid,36.158,2194.226,0.541,31.659
+FC-1D,1,n1468,trace,14,797,2265.0,1,7.5,,visible author-line ink; column displaced from vertical grid,37.898,2224.677,0.541,31.659
+FC-1D,1,n1468,trace,15,809,2253.0,1,7.5,,visible author-line ink; column displaced from vertical grid,39.989,2265.361,0.541,31.659
+FC-1D,1,n1468,trace,16,822,2241.0,1,7.5,,visible author-line ink; column displaced from vertical grid,42.252,2305.984,0.541,31.659
+FC-1D,1,n1468,trace,17,832,2232.0,1,7.5,,visible author-line ink; column displaced from vertical grid,43.991,2336.435,0.541,31.659
+FC-1D,1,n1468,trace,18,847,2220.0,1,7.5,,visible author-line ink; column displaced from vertical grid,46.595,2376.933,0.541,31.659
+FC-1D,1,n1468,trace,19,857,2208.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,48.345,2417.741,0.571,61.002
+FC-1D,1,n1468,trace,20,871,2194.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,50.783,2463.48,0.571,61.002
+FC-1D,1,n1468,trace,21,886,2191.0,1,5.5,,visible author-line ink; column displaced from vertical grid,53.357,2474.635,0.533,24.754
+FC-1D,1,n1468,trace,22,894,2188.0,1,6.5,,visible author-line ink; column displaced from vertical grid,54.733,2484.496,0.537,28.207
+FC-1D,1,n1468,trace,23,906,2180.5,1,7.0,,visible author-line ink; column displaced from vertical grid,56.809,2509.645,0.539,29.933
+FC-1D,1,n1468,trace,24,917,2176.0,1,6.5,,visible author-line ink; column displaced from vertical grid,58.703,2524.5,0.537,28.207
+FC-1D,1,n1468,trace,25,930,2167.5,1,6.0,,visible author-line ink; column displaced from vertical grid,60.952,2553.039,0.535,26.48
+FC-1D,1,n1468,trace,26,942,2162.5,1,7.0,,visible author-line ink; column displaced from vertical grid,63.019,2569.558,0.539,29.933
+FC-1D,1,n1468,trace,27,952,2159.0,1,7.5,,visible author-line ink; column displaced from vertical grid,64.739,2581.022,0.541,31.659
+FC-1D,1,n1468,trace,28,962,2155.5,1,3.0,,visible author-line ink; column displaced from vertical grid,66.458,2592.486,0.524,16.124
+FC-1D,1,n1468,trace,29,973,2152.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,68.349,2603.888,0.571,61.002
+FC-1D,1,n1468,trace,30,990,2144.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,71.278,2628.728,0.571,61.002
+FC-1D,1,n1468,trace,31,1002,2144.5,1,5.0,,visible author-line ink; column displaced from vertical grid,73.326,2627.986,0.532,23.028
+FC-1D,1,n1468,trace,32,1014,2142.5,1,6.0,,visible author-line ink; column displaced from vertical grid,75.382,2634.148,0.535,26.48
+FC-1D,1,n1468,trace,33,1026,2140.5,1,6.0,,visible author-line ink; column displaced from vertical grid,77.438,2640.31,0.535,26.48
+FC-1D,1,n1468,trace,34,1038,2139.5,1,6.0,,visible author-line ink; column displaced from vertical grid,79.49,2643.02,0.535,26.48
+FC-1D,1,n1468,trace,35,1050,2137.5,1,6.0,,visible author-line ink; column displaced from vertical grid,81.546,2649.182,0.535,26.48
+FC-1D,1,n1468,trace,36,1062,2137.5,1,6.0,,visible author-line ink; column displaced from vertical grid,83.594,2648.44,0.535,26.48
+FC-1D,1,n1468,trace,37,1074,2137.5,1,6.0,,visible author-line ink; column displaced from vertical grid,85.643,2647.697,0.535,26.48
+FC-1D,1,n1468,trace,38,1086,2138.0,1,4.5,,visible author-line ink; column displaced from vertical grid,87.69,2645.229,0.53,21.302
+FC-1D,1,n1468,trace,39,1094,2140.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,89.048,2637.829,0.571,61.002
+FC-1D,1,n1468,trace,40,1110,2140.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,91.778,2635.113,0.571,61.002
+FC-1D,1,n1468,trace,41,1122,2138.5,1,7.0,,visible author-line ink; column displaced from vertical grid,93.834,2641.276,0.539,29.933
+FC-1D,1,n1468,trace,42,1134,2140.0,1,5.5,,visible author-line ink; column displaced from vertical grid,95.877,2635.355,0.533,24.754
+FC-1D,1,n1468,trace,43,1146,2140.5,1,6.0,,visible author-line ink; column displaced from vertical grid,97.924,2632.886,0.535,26.48
+FC-1D,1,n1468,trace,44,1154,2140.5,1,6.0,,visible author-line ink; column displaced from vertical grid,99.289,2632.391,0.535,26.48
+FC-1D,1,n1468,trace,45,1170,2140.5,1,6.0,,visible author-line ink; column displaced from vertical grid,102.021,2631.402,0.535,26.48
+FC-1D,1,n1468,trace,46,1182,2141.5,1,5.0,,visible author-line ink; column displaced from vertical grid,104.066,2627.207,0.532,23.028
+FC-1D,1,n1468,trace,47,1194,2141.5,1,5.0,,visible author-line ink; column displaced from vertical grid,106.114,2626.465,0.532,23.028
+FC-1D,1,n1468,trace,48,1209,2141.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,108.675,2625.537,0.571,61.002
+FC-1D,1,n1468,trace,49,1213,2146.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,109.34,2608.028,0.571,61.002
+FC-1D,1,n1468,trace,50,1228,2140.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,111.922,2627.814,0.571,61.002
+FC-1D,1,n1468,trace,51,1242,2142.0,1,4.5,,visible author-line ink; column displaced from vertical grid,114.307,2621.769,0.53,21.302
+FC-1D,1,n1468,trace,52,1253,2142.0,1,4.5,,visible author-line ink; column displaced from vertical grid,116.185,2621.089,0.53,21.302
+FC-1D,1,n1468,trace,53,1265,2138.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,118.246,2632.429,0.571,61.002
+FC-1D,1,n1468,trace,54,1284,2143.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,121.471,2613.993,0.571,61.002
+FC-1D,1,n1468,trace,55,1288,2137.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,122.178,2636.184,0.571,61.002
+FC-1D,1,n1468,trace,56,1302,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,124.546,2614.605,0.533,24.754
+FC-1D,1,n1468,trace,57,1314,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,126.595,2613.863,0.533,24.754
+FC-1D,1,n1468,trace,58,1326,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,128.643,2613.12,0.533,24.754
+FC-1D,1,n1468,trace,59,1338,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,130.692,2612.378,0.533,24.754
+FC-1D,1,n1468,trace,60,1350,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,132.74,2611.636,0.533,24.754
+FC-1D,1,n1468,trace,61,1362,2143.0,1,5.5,,visible author-line ink; column displaced from vertical grid,134.789,2610.893,0.533,24.754
+FC-1D,1,n1468,trace,62,1373,2143.0,1,3.5,,visible author-line ink; column displaced from vertical grid,136.667,2610.213,0.526,17.85
+FC-1D,1,n1468,trace,63,1380,2144.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,137.856,2604.601,0.571,61.002
+FC-1D,1,n1468,trace,64,1397,2143.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,140.762,2607.002,0.571,61.002
+FC-1D,1,n1468,trace,65,1409,2141.5,1,5.0,,visible author-line ink; column displaced from vertical grid,142.818,2613.164,0.532,23.028
+FC-1D,1,n1468,trace,66,1422,2142.5,1,6.0,,visible author-line ink; column displaced from vertical grid,145.033,2608.908,0.535,26.48
+FC-1D,1,n1468,trace,67,1434,2143.5,1,6.0,,visible author-line ink; column displaced from vertical grid,147.078,2604.713,0.535,26.48
+FC-1D,1,n1468,trace,68,1442,2143.5,1,6.0,,visible author-line ink; column displaced from vertical grid,148.444,2604.218,0.535,26.48
+FC-1D,1,n1468,trace,69,1457,2143.5,1,6.0,,visible author-line ink; column displaced from vertical grid,151.005,2603.29,0.535,26.48
+FC-1D,1,n1468,trace,70,1470,2146.5,1,6.0,,visible author-line ink; column displaced from vertical grid,153.213,2592.129,0.535,26.48
+FC-1D,1,n1468,trace,71,1481,2146.5,1,6.0,,visible author-line ink; column displaced from vertical grid,155.091,2591.449,0.535,26.48
+FC-1D,1,n1468,trace,72,1494,2144.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,157.318,2597.549,0.571,61.002
+FC-1D,1,n1468,trace,73,1505,2135.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,159.228,2627.938,0.571,61.002
+FC-1D,1,n1468,trace,74,1517,2146.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,161.239,2590.948,0.571,61.002
+FC-1D,1,n1468,trace,75,1529,2155.5,1,6.0,,visible author-line ink; column displaced from vertical grid,163.253,2557.409,0.535,26.48
+FC-1D,1,n1468,trace,76,1542,2158.5,1,6.0,,visible author-line ink; column displaced from vertical grid,165.462,2546.249,0.535,26.48
+FC-1D,1,n1468,trace,77,1554,2162.5,1,5.0,,visible author-line ink; column displaced from vertical grid,167.496,2531.697,0.532,23.028
+FC-1D,1,n1468,trace,78,1565,2164.5,1,6.0,,visible author-line ink; column displaced from vertical grid,169.367,2524.112,0.535,26.48
+FC-1D,1,n1468,trace,79,1577,2168.5,1,7.0,,visible author-line ink; column displaced from vertical grid,171.401,2509.561,0.539,29.933
+FC-1D,1,n1468,trace,80,1590,2173.0,1,6.5,,visible author-line ink; column displaced from vertical grid,173.604,2493.222,0.537,28.207
+FC-1D,1,n1468,trace,81,1601,2175.0,1,7.5,,visible author-line ink; column displaced from vertical grid,175.475,2485.637,0.541,31.659
+FC-1D,1,n1468,trace,82,1614,2179.5,1,6.0,,visible author-line ink; column displaced from vertical grid,177.678,2469.298,0.535,26.48
+FC-1D,1,n1468,trace,83,1626,2184.5,1,6.0,,visible author-line ink; column displaced from vertical grid,179.708,2451.295,0.535,26.48
+FC-1D,1,n1468,trace,84,1638,2188.5,1,6.0,,visible author-line ink; column displaced from vertical grid,181.743,2436.743,0.535,26.48
+FC-1D,1,n1468,trace,85,1650,2192.5,1,7.0,,visible author-line ink; column displaced from vertical grid,183.777,2422.192,0.539,29.933
+FC-1D,1,n1468,trace,86,1662,2197.5,1,6.0,,visible author-line ink; column displaced from vertical grid,185.807,2404.189,0.535,26.48
+FC-1D,1,n1468,trace,87,1674,2200.5,1,6.0,,visible author-line ink; column displaced from vertical grid,187.845,2393.09,0.535,26.48
+FC-1D,1,n1468,trace,88,1685,2203.5,1,6.0,,visible author-line ink; column displaced from vertical grid,189.712,2382.053,0.535,26.48
+FC-1D,1,n1468,trace,89,1698,2209.5,1,6.0,,visible author-line ink; column displaced from vertical grid,191.91,2360.535,0.535,26.48
+FC-1D,1,n1468,trace,90,1710,2214.5,1,6.0,,visible author-line ink; column displaced from vertical grid,193.941,2342.532,0.535,26.48
+FC-1D,1,n1468,trace,91,1722,2218.0,1,5.5,,visible author-line ink; column displaced from vertical grid,195.977,2329.707,0.533,24.754
+FC-1D,1,n1468,trace,92,1734,2221.5,1,6.0,,visible author-line ink; column displaced from vertical grid,198.013,2316.882,0.535,26.48
+FC-1D,1,n1468,trace,93,1741,2224.5,1,6.0,,visible author-line ink; column displaced from vertical grid,199.197,2306.092,0.535,26.48
+FC-1D,1,n1468,trace,94,1758,2230.0,1,5.5,,visible author-line ink; column displaced from vertical grid,202.079,2286.053,0.533,24.754
+FC-1D,1,n1468,trace,95,1770,2233.0,1,5.5,,visible author-line ink; column displaced from vertical grid,204.117,2274.954,0.533,24.754
+FC-1D,1,n1468,trace,96,1782,2236.5,1,6.0,,visible author-line ink; column displaced from vertical grid,206.153,2262.129,0.535,26.48
+FC-1D,1,n1468,trace,97,1793,2239.5,1,6.0,,visible author-line ink; column displaced from vertical grid,208.02,2251.092,0.535,26.48
+FC-1D,1,n1468,trace,98,1805,2242.5,1,6.0,,visible author-line ink; column displaced from vertical grid,210.058,2239.993,0.535,26.48
+FC-1D,1,n1468,trace,99,1817,2245.5,1,6.0,,visible author-line ink; column displaced from vertical grid,212.096,2228.894,0.535,26.48
+FC-1D,1,n1468,trace,100,1830,2250.5,1,6.0,,visible author-line ink; column displaced from vertical grid,214.297,2210.829,0.535,26.48
+FC-1D,1,n1468,trace,101,1840,2252.5,1,1,,visible author-line ink; column displaced from vertical grid,215.997,2203.306,0.517,9.219
+FC-1D,1,n1468,trace,102,1855,2254.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,218.552,2197.199,0.571,61.002
+FC-1D,1,n1468,trace,103,1871,2260.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,221.26,2173.77,0.571,61.002
+FC-1D,1,n1468,trace,104,1872,2260.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,221.431,2173.708,0.571,61.002
+FC-1D,1,n1468,trace,105,1890,2264.0,1,4.5,,visible author-line ink; column displaced from vertical grid,224.491,2160.512,0.53,21.302
+FC-1D,1,n1468,trace,106,1902,2266.0,1,6.5,,visible author-line ink; column displaced from vertical grid,226.533,2152.865,0.537,28.207
+FC-1D,1,n1468,trace,107,1914,2266.5,1,6.0,,visible author-line ink; column displaced from vertical grid,228.58,2150.397,0.535,26.48
+FC-1D,1,n1468,trace,108,1926,2269.0,1,5.5,,visible author-line ink; column displaced from vertical grid,230.619,2141.024,0.533,24.754
+FC-1D,1,n1468,trace,109,1938,2269.5,1,6.0,,visible author-line ink; column displaced from vertical grid,232.666,2138.555,0.535,26.48
+FC-1D,1,n1468,trace,110,1950,2271.5,1,6.0,,visible author-line ink; column displaced from vertical grid,234.707,2130.909,0.535,26.48
+FC-1D,1,n1468,trace,111,1962,2272.5,1,6.0,,visible author-line ink; column displaced from vertical grid,236.752,2126.714,0.535,26.48
+FC-1D,1,n1468,trace,112,1974,2272.5,1,6.0,,visible author-line ink; column displaced from vertical grid,238.801,2125.972,0.535,26.48
+FC-1D,1,n1468,trace,113,1986,2272.5,1,6.0,,visible author-line ink; column displaced from vertical grid,240.849,2125.229,0.535,26.48
+FC-1D,1,n1468,trace,114,1998,2273.5,1,7.0,,visible author-line ink; column displaced from vertical grid,242.894,2121.035,0.539,29.933
+FC-1D,1,n1468,trace,115,2010,2272.5,1,6.0,,visible author-line ink; column displaced from vertical grid,244.947,2123.745,0.535,26.48
+FC-1D,1,n1468,trace,116,2022,2273.5,1,5.0,,visible author-line ink; column displaced from vertical grid,246.992,2119.55,0.532,23.028
+FC-1D,1,n1468,trace,117,2031,2274.0,1,1.5,,visible author-line ink; column displaced from vertical grid,248.526,2117.267,0.519,10.945
+FC-1D,1,n1468,feature,1,642,2520,5,5,,first trace / symbol interruption,10.522,1353.953,1.214,23.276
+FC-1D,1,n1468,feature,2,1105,2138,6,6,,peak of author trace; broad maximum,90.933,2644.053,1.389,26.79
+FC-1D,1,n1468,feature,3,2039,2275,5,5,,last visible trace,249.888,2113.32,1.214,23.276
+FC-1D,1,n587,marker,1,639,2693,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,9.388,756.907,1.04,19.762
+FC-1D,1,n587,marker,2,760,2556,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,30.537,1222.374,1.04,19.762
+FC-1D,1,n587,marker,3,875,2503,5,5,triangle-up,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,50.359,1398.227,1.214,23.276
+FC-1D,1,n587,marker,4,988,2486,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,69.711,1449.923,1.04,19.762
+FC-1D,1,n587,marker,5,1109,2481,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,90.385,1459.699,1.04,19.762
+FC-1D,1,n587,marker,6,1282,2521,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,119.775,1310.908,1.04,19.762
+FC-1D,1,n587,marker,7,1399,2539,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,139.684,1241.53,1.04,19.762
+FC-1D,1,n587,marker,8,1523,2558,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,160.784,1168.267,1.04,19.762
+FC-1D,1,n587,marker,9,1635,2575,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,179.843,1102.651,1.04,19.762
+FC-1D,1,n587,marker,10,1757,2589,5,5,triangle-up,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,200.62,1046.773,1.214,23.276
+FC-1D,1,n587,marker,11,1878,2618,4,4,triangle-up,center checked against local symbol image template; hand crop inspected,221.172,939.173,1.04,19.762
+FC-1D,1,n587,marker,12,2052,2624,5,5,triangle-up,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,250.855,907.696,1.214,23.276
+FC-1D,1,n587,trace,1,639,2704.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,9.347,717.207,0.571,61.002
+FC-1D,1,n587,trace,2,645,2697.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,10.396,741.001,0.571,61.002
+FC-1D,1,n587,trace,3,663,2664.5,1,1,,visible author-line ink; column displaced from vertical grid,13.588,853.81,0.517,9.219
+FC-1D,1,n587,trace,4,675,2638.5,1,9.0,,visible author-line ink; column displaced from vertical grid,15.73,942.825,0.546,36.837
+FC-1D,1,n587,trace,5,682,2628.0,1,10.5,,visible author-line ink; column displaced from vertical grid,16.962,978.641,0.551,42.015
+FC-1D,1,n587,trace,6,705,2618.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,20.923,1010.014,0.542,33.385
+FC-1D,1,n587,trace,7,711,2618.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,21.947,1009.642,0.542,33.385
+FC-1D,1,n587,trace,8,717,2618.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,22.971,1009.271,0.542,33.385
+FC-1D,1,n587,trace,9,735,2579.5,1,7.0,,visible author-line ink; column displaced from vertical grid,26.184,1142.794,0.539,29.933
+FC-1D,1,n587,trace,10,753,2570.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,29.289,1172.75,0.571,61.002
+FC-1D,1,n587,trace,11,755,2569.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,29.634,1176.079,0.571,61.002
+FC-1D,1,n587,trace,12,768,2563.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,31.877,1197.714,0.571,61.002
+FC-1D,1,n587,trace,13,783,2546.5,1,7.0,,visible author-line ink; column displaced from vertical grid,34.497,1253.747,0.539,29.933
+FC-1D,1,n587,trace,14,795,2540.5,1,7.0,,visible author-line ink; column displaced from vertical grid,36.567,1273.718,0.539,29.933
+FC-1D,1,n587,trace,15,807,2533.5,1,6.0,,visible author-line ink; column displaced from vertical grid,38.641,1297.141,0.535,26.48
+FC-1D,1,n587,trace,16,819,2527.5,1,6.0,,visible author-line ink; column displaced from vertical grid,40.711,1317.112,0.535,26.48
+FC-1D,1,n587,trace,17,831,2522.5,1,7.0,,visible author-line ink; column displaced from vertical grid,42.777,1333.631,0.539,29.933
+FC-1D,1,n587,trace,18,843,2518.5,1,6.0,,visible author-line ink; column displaced from vertical grid,44.84,1346.697,0.535,26.48
+FC-1D,1,n587,trace,19,855,2515.0,1,5.5,,visible author-line ink; column displaced from vertical grid,46.902,1358.037,0.533,24.754
+FC-1D,1,n587,trace,20,865,2515.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,48.607,1355.693,0.571,61.002
+FC-1D,1,n587,trace,21,883,2509.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,51.701,1375.292,0.571,61.002
+FC-1D,1,n587,trace,22,891,2502.0,1,4.5,,visible author-line ink; column displaced from vertical grid,53.094,1400.689,0.53,21.302
+FC-1D,1,n587,trace,23,903,2500.0,1,5.5,,visible author-line ink; column displaced from vertical grid,55.15,1406.851,0.533,24.754
+FC-1D,1,n587,trace,24,915,2497.0,1,5.5,,visible author-line ink; column displaced from vertical grid,57.209,1416.465,0.533,24.754
+FC-1D,1,n587,trace,25,927,2494.5,1,6.0,,visible author-line ink; column displaced from vertical grid,59.267,1424.353,0.535,26.48
+FC-1D,1,n587,trace,26,939,2493.5,1,6.0,,visible author-line ink; column displaced from vertical grid,61.319,1427.063,0.535,26.48
+FC-1D,1,n587,trace,27,951,2491.5,1,6.0,,visible author-line ink; column displaced from vertical grid,63.374,1433.225,0.535,26.48
+FC-1D,1,n587,trace,28,963,2490.5,1,6.0,,visible author-line ink; column displaced from vertical grid,65.427,1435.935,0.535,26.48
+FC-1D,1,n587,trace,29,975,2493.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,67.466,1426.562,0.571,61.002
+FC-1D,1,n587,trace,30,987,2497.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,69.499,1410.285,0.571,61.002
+FC-1D,1,n587,trace,31,997,2493.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,71.222,1425.201,0.571,61.002
+FC-1D,1,n587,trace,32,1009,2487.0,1,4.5,,visible author-line ink; column displaced from vertical grid,73.292,1445.172,0.53,21.302
+FC-1D,1,n587,trace,33,1023,2485.5,1,6.0,,visible author-line ink; column displaced from vertical grid,75.687,1449.484,0.535,26.48
+FC-1D,1,n587,trace,34,1035,2485.5,1,6.0,,visible author-line ink; column displaced from vertical grid,77.736,1448.742,0.535,26.48
+FC-1D,1,n587,trace,35,1047,2485.0,1,5.5,,visible author-line ink; column displaced from vertical grid,79.786,1449.726,0.533,24.754
+FC-1D,1,n587,trace,36,1059,2485.5,1,6.0,,visible author-line ink; column displaced from vertical grid,81.833,1447.257,0.535,26.48
+FC-1D,1,n587,trace,37,1071,2485.5,1,6.0,,visible author-line ink; column displaced from vertical grid,83.882,1446.515,0.535,26.48
+FC-1D,1,n587,trace,38,1083,2485.5,1,6.0,,visible author-line ink; column displaced from vertical grid,85.93,1445.773,0.535,26.48
+FC-1D,1,n587,trace,39,1098,2487.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,88.486,1439.666,0.571,61.002
+FC-1D,1,n587,trace,40,1107,2494.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,89.997,1414.944,0.571,61.002
+FC-1D,1,n587,trace,41,1119,2489.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,92.062,1429.737,0.571,61.002
+FC-1D,1,n587,trace,42,1131,2491.5,1,6.0,,visible author-line ink; column displaced from vertical grid,94.103,1422.09,0.535,26.48
+FC-1D,1,n587,trace,43,1143,2494.5,1,6.0,,visible author-line ink; column displaced from vertical grid,96.141,1410.991,0.535,26.48
+FC-1D,1,n587,trace,44,1155,2495.5,1,5.0,,visible author-line ink; column displaced from vertical grid,98.186,1406.796,0.532,23.028
+FC-1D,1,n587,trace,45,1162,2497.0,1,5.5,,visible author-line ink; column displaced from vertical grid,99.375,1401.185,0.533,24.754
+FC-1D,1,n587,trace,46,1179,2500.5,1,6.0,,visible author-line ink; column displaced from vertical grid,102.265,1388.05,0.535,26.48
+FC-1D,1,n587,trace,47,1191,2503.5,1,6.0,,visible author-line ink; column displaced from vertical grid,104.303,1376.952,0.535,26.48
+FC-1D,1,n587,trace,48,1203,2505.5,1,6.0,,visible author-line ink; column displaced from vertical grid,106.344,1369.305,0.535,26.48
+FC-1D,1,n587,trace,49,1215,2508.5,1,6.0,,visible author-line ink; column displaced from vertical grid,108.382,1358.206,0.535,26.48
+FC-1D,1,n587,trace,50,1227,2511.5,1,6.0,,visible author-line ink; column displaced from vertical grid,110.42,1347.107,0.535,26.48
+FC-1D,1,n587,trace,51,1239,2514.5,1,6.0,,visible author-line ink; column displaced from vertical grid,112.457,1336.008,0.535,26.48
+FC-1D,1,n587,trace,52,1251,2517.5,1,6.0,,visible author-line ink; column displaced from vertical grid,114.495,1324.909,0.535,26.48
+FC-1D,1,n587,trace,53,1262,2520.5,1,6.0,,visible author-line ink; column displaced from vertical grid,116.362,1313.872,0.535,26.48
+FC-1D,1,n587,trace,54,1270,2527.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,117.703,1289.211,0.571,61.002
+FC-1D,1,n587,trace,55,1290,2528.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,121.114,1284.522,0.571,61.002
+FC-1D,1,n587,trace,56,1305,2529.0,1,1.5,,visible author-line ink; column displaced from vertical grid,123.673,1281.868,0.519,10.945
+FC-1D,1,n587,trace,57,1311,2530.5,1,6.0,,visible author-line ink; column displaced from vertical grid,124.691,1276.318,0.535,26.48
+FC-1D,1,n587,trace,58,1323,2532.5,1,6.0,,visible author-line ink; column displaced from vertical grid,126.733,1268.671,0.535,26.48
+FC-1D,1,n587,trace,59,1334,2533.5,1,6.0,,visible author-line ink; column displaced from vertical grid,128.607,1264.539,0.535,26.48
+FC-1D,1,n587,trace,60,1347,2536.5,1,6.0,,visible author-line ink; column displaced from vertical grid,130.816,1253.378,0.535,26.48
+FC-1D,1,n587,trace,61,1359,2539.0,1,5.5,,visible author-line ink; column displaced from vertical grid,132.855,1244.005,0.533,24.754
+FC-1D,1,n587,trace,62,1371,2540.5,1,5.0,,visible author-line ink; column displaced from vertical grid,134.898,1238.084,0.532,23.028
+FC-1D,1,n587,trace,63,1379,2541.0,1,4.5,,visible author-line ink; column displaced from vertical grid,136.262,1235.863,0.53,21.302
+FC-1D,1,n587,trace,64,1389,2538.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,137.98,1245.601,0.571,61.002
+FC-1D,1,n587,trace,65,1407,2545.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,141.026,1218.596,0.571,61.002
+FC-1D,1,n587,trace,66,1422,2550.0,1,1.5,,visible author-line ink; column displaced from vertical grid,143.571,1202.133,0.519,10.945
+FC-1D,1,n587,trace,67,1430,2550.0,1,4.5,,visible author-line ink; column displaced from vertical grid,144.936,1201.638,0.53,21.302
+FC-1D,1,n587,trace,68,1443,2552.5,1,5.0,,visible author-line ink; column displaced from vertical grid,147.147,1192.204,0.532,23.028
+FC-1D,1,n587,trace,69,1449,2552.5,1,5.0,,visible author-line ink; column displaced from vertical grid,148.171,1191.832,0.532,23.028
+FC-1D,1,n587,trace,70,1467,2555.5,1,5.0,,visible author-line ink; column displaced from vertical grid,151.233,1180.362,0.532,23.028
+FC-1D,1,n587,trace,71,1479,2557.5,1,6.0,,visible author-line ink; column displaced from vertical grid,153.274,1172.716,0.535,26.48
+FC-1D,1,n587,trace,72,1491,2560.0,1,5.5,,visible author-line ink; column displaced from vertical grid,155.314,1163.343,0.533,24.754
+FC-1D,1,n587,trace,73,1509,2567.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,158.36,1136.338,0.571,61.002
+FC-1D,1,n587,trace,74,1512,2565.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,158.879,1143.056,0.571,61.002
+FC-1D,1,n587,trace,75,1527,2569.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,161.426,1128.32,0.571,61.002
+FC-1D,1,n587,trace,76,1536,2568.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,162.967,1132.941,0.571,61.002
+FC-1D,1,n587,trace,77,1550,2569.0,1,5.5,,visible author-line ink; column displaced from vertical grid,165.354,1128.623,0.533,24.754
+FC-1D,1,n587,trace,78,1564,2570.5,1,5.0,,visible author-line ink; column displaced from vertical grid,167.738,1122.578,0.532,23.028
+FC-1D,1,n587,trace,79,1575,2572.5,1,6.0,,visible author-line ink; column displaced from vertical grid,169.609,1114.993,0.535,26.48
+FC-1D,1,n587,trace,80,1587,2574.0,1,4.5,,visible author-line ink; column displaced from vertical grid,171.652,1109.073,0.53,21.302
+FC-1D,1,n587,trace,81,1599,2575.0,1,5.5,,visible author-line ink; column displaced from vertical grid,173.697,1104.878,0.533,24.754
+FC-1D,1,n587,trace,82,1611,2576.5,1,5.0,,visible author-line ink; column displaced from vertical grid,175.74,1098.958,0.532,23.028
+FC-1D,1,n587,trace,83,1623,2582.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,177.767,1077.502,0.571,61.002
+FC-1D,1,n587,trace,84,1635,2587.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,179.798,1059.499,0.571,61.002
+FC-1D,1,n587,trace,85,1646,2583.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,181.692,1074.353,0.571,61.002
+FC-1D,1,n587,trace,86,1660,2582.5,1,5.0,,visible author-line ink; column displaced from vertical grid,184.084,1075.213,0.532,23.028
+FC-1D,1,n587,trace,87,1671,2583.0,1,4.5,,visible author-line ink; column displaced from vertical grid,185.96,1072.806,0.53,21.302
+FC-1D,1,n587,trace,88,1683,2584.0,1,5.5,,visible author-line ink; column displaced from vertical grid,188.005,1068.612,0.533,24.754
+FC-1D,1,n587,trace,89,1695,2585.5,1,5.0,,visible author-line ink; column displaced from vertical grid,190.048,1062.691,0.532,23.028
+FC-1D,1,n587,trace,90,1707,2587.5,1,6.0,,visible author-line ink; column displaced from vertical grid,192.089,1055.044,0.535,26.48
+FC-1D,1,n587,trace,91,1719,2588.5,1,5.0,,visible author-line ink; column displaced from vertical grid,194.134,1050.85,0.532,23.028
+FC-1D,1,n587,trace,92,1730,2590.0,1,5.5,,visible author-line ink; column displaced from vertical grid,196.007,1044.991,0.533,24.754
+FC-1D,1,n587,trace,93,1737,2590.5,1,3.0,,visible author-line ink; column displaced from vertical grid,197.2,1042.832,0.524,16.124
+FC-1D,1,n587,trace,94,1749,2586.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,199.265,1057.624,0.571,61.002
+FC-1D,1,n587,trace,95,1766,2596.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,202.129,1020.325,0.571,61.002
+FC-1D,1,n587,trace,96,1779,2596.0,1,6.5,,visible author-line ink; column displaced from vertical grid,204.35,1021.246,0.537,28.207
+FC-1D,1,n587,trace,97,1791,2596.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,206.397,1018.778,0.542,33.385
+FC-1D,1,n587,trace,98,1803,2597.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,208.442,1014.583,0.542,33.385
+FC-1D,1,n587,trace,99,1815,2598.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,210.487,1010.389,0.542,33.385
+FC-1D,1,n587,trace,100,1827,2599.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,212.532,1006.194,0.542,33.385
+FC-1D,1,n587,trace,101,1839,2600.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,214.577,1002.0,0.542,33.385
+FC-1D,1,n587,trace,102,1851,2601.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,216.622,997.805,0.542,33.385
+FC-1D,1,n587,trace,103,1863,2602.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,218.669,995.337,0.571,61.002
+FC-1D,1,n587,trace,104,1873,2605.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,220.363,982.635,0.571,61.002
+FC-1D,1,n587,trace,105,1881,2607.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,221.724,976.962,0.571,61.002
+FC-1D,1,n587,trace,106,1899,2603.5,1,8.0,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,224.809,987.931,0.542,33.385
+FC-1D,1,n587,trace,107,1912,2607.5,1,6.0,,visible author-line ink; column displaced from vertical grid,227.014,973.318,0.535,26.48
+FC-1D,1,n587,trace,108,1923,2608.5,1,6.0,,visible author-line ink; column displaced from vertical grid,228.888,969.185,0.535,26.48
+FC-1D,1,n587,trace,109,1935,2608.5,1,6.0,,visible author-line ink; column displaced from vertical grid,230.937,968.443,0.535,26.48
+FC-1D,1,n587,trace,110,1947,2610.5,1,6.0,,visible author-line ink; column displaced from vertical grid,232.978,960.796,0.535,26.48
+FC-1D,1,n587,trace,111,1959,2611.0,1,5.5,,visible author-line ink; column displaced from vertical grid,235.025,958.328,0.533,24.754
+FC-1D,1,n587,trace,112,1971,2611.0,1,5.5,,visible author-line ink; column displaced from vertical grid,237.074,957.585,0.533,24.754
+FC-1D,1,n587,trace,113,1983,2611.5,1,6.0,,visible author-line ink; column displaced from vertical grid,239.12,955.117,0.535,26.48
+FC-1D,1,n587,trace,114,1995,2612.5,1,5.0,,visible author-line ink; column displaced from vertical grid,241.165,950.922,0.532,23.028
+FC-1D,1,n587,trace,115,2007,2614.0,1,5.5,,visible author-line ink; column displaced from vertical grid,243.209,945.002,0.533,24.754
+FC-1D,1,n587,trace,116,2019,2613.5,1,6.0,,visible author-line ink; column displaced from vertical grid,245.259,945.985,0.535,26.48
+FC-1D,1,n587,trace,117,2031,2614.5,1,6.0,,visible author-line ink; column displaced from vertical grid,247.304,941.791,0.535,26.48
+FC-1D,1,n587,feature,1,639,2699,5,5,,first trace / symbol interruption,9.367,736.194,1.214,23.276
+FC-1D,1,n587,feature,2,1060,2488,6,6,,peak of author trace; broad maximum,81.995,1438.565,1.389,26.79
+FC-1D,1,n587,feature,3,2039,2619,5,5,,last visible trace,248.653,925.761,1.214,23.276
+FC-1D,1,n294,marker,1,621,2798,4,4,circle,center checked against local symbol image template; hand crop inspected,5.939,395.539,1.04,19.762
+FC-1D,1,n294,marker,2,708,2698,4,4,circle,center checked against local symbol image template; hand crop inspected,21.15,735.378,1.04,19.762
+FC-1D,1,n294,marker,3,824,2637,4,4,circle,center checked against local symbol image template; hand crop inspected,41.171,938.786,1.04,19.762
+FC-1D,1,n294,marker,4,933,2614,5,5,circle,center checked against local symbol image template; hand crop inspected; symbol intersects horizontal grid,59.862,1011.444,1.214,23.276
+FC-1D,1,n294,marker,5,1053,2610,5,5,circle,center checked against local symbol image template; hand crop inspected; symbol intersects horizontal grid,80.362,1017.829,1.214,23.276
+FC-1D,1,n294,marker,6,1174,2624,5,5,circle,center checked against local symbol image template; hand crop inspected; symbol intersects vertical grid,100.968,962.012,1.214,23.276
+FC-1D,1,n294,marker,7,1401,2669,4,4,circle,center checked against local symbol image template; hand crop inspected,139.558,792.62,1.04,19.762
+FC-1D,1,n294,marker,8,1531,2698,4,4,circle,center checked against local symbol image template; hand crop inspected,161.647,684.464,1.04,19.762
+FC-1D,1,n294,trace,1,626,2787.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,6.832,433.204,0.571,61.002
+FC-1D,1,n294,trace,2,627,2787.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,7.002,433.142,0.571,61.002
+FC-1D,1,n294,trace,3,643,2761.5,1,9.0,,visible author-line ink; column displaced from vertical grid,9.825,520.184,0.546,36.837
+FC-1D,1,n294,trace,4,657,2744.5,1,9.0,,visible author-line ink; column displaced from vertical grid,12.276,578.005,0.546,36.837
+FC-1D,1,n294,trace,5,669,2732.0,1,8.5,,visible author-line ink; column displaced from vertical grid,14.37,620.415,0.544,35.111
+FC-1D,1,n294,trace,6,678,2724.5,1,8.0,,visible author-line ink; column displaced from vertical grid,15.933,645.75,0.542,33.385
+FC-1D,1,n294,trace,7,693,2709.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,18.548,696.605,0.571,61.002
+FC-1D,1,n294,trace,8,698,2707.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,19.408,703.2,0.571,61.002
+FC-1D,1,n294,trace,9,718,2690.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,22.886,762.377,0.571,61.002
+FC-1D,1,n294,trace,10,728,2682.0,1,7.5,,visible author-line ink; column displaced from vertical grid,24.621,789.376,0.541,31.659
+FC-1D,1,n294,trace,11,738,2676.0,1,7.5,,visible author-line ink; column displaced from vertical grid,26.35,809.47,0.541,31.659
+FC-1D,1,n294,trace,12,750,2668.5,1,6.0,,visible author-line ink; column displaced from vertical grid,28.426,834.619,0.535,26.48
+FC-1D,1,n294,trace,13,764,2659.5,1,6.0,,visible author-line ink; column displaced from vertical grid,30.848,864.823,0.535,26.48
+FC-1D,1,n294,trace,14,776,2653.5,1,6.0,,visible author-line ink; column displaced from vertical grid,32.918,884.794,0.535,26.48
+FC-1D,1,n294,trace,15,788,2648.0,1,6.5,,visible author-line ink; column displaced from vertical grid,34.986,903.039,0.537,28.207
+FC-1D,1,n294,trace,16,802,2644.0,1,5.5,,visible author-line ink; column displaced from vertical grid,37.391,915.982,0.533,24.754
+FC-1D,1,n294,trace,17,808,2646.0,1,1.5,,visible author-line ink; column displaced from vertical grid,38.408,908.706,0.519,10.945
+FC-1D,1,n294,trace,18,830,2630.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,42.219,960.854,0.571,61.002
+FC-1D,1,n294,trace,19,831,2630.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,42.39,960.792,0.571,61.002
+FC-1D,1,n294,trace,20,847,2627.5,1,7.0,,visible author-line ink; column displaced from vertical grid,45.132,970.159,0.539,29.933
+FC-1D,1,n294,trace,21,860,2622.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,47.371,988.342,0.542,33.385
+FC-1D,1,n294,trace,22,867,2621.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,48.568,989.635,0.542,33.385
+FC-1D,1,n294,trace,23,883,2619.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,51.306,995.55,0.542,33.385
+FC-1D,1,n294,trace,24,896,2617.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,53.533,1001.65,0.542,33.385
+FC-1D,1,n294,trace,25,908,2614.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,55.592,1011.264,0.542,33.385
+FC-1D,1,n294,trace,26,920,2614.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,57.641,1010.522,0.571,61.002
+FC-1D,1,n294,trace,27,932,2614.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,59.689,1009.779,0.571,61.002
+FC-1D,1,n294,trace,28,944,2615.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,61.734,1005.585,0.571,61.002
+FC-1D,1,n294,trace,29,956,2611.0,1,5.5,,visible author-line ink; column displaced from vertical grid,63.799,1020.377,0.533,24.754
+FC-1D,1,n294,trace,30,968,2610.5,1,6.0,,visible author-line ink; column displaced from vertical grid,65.849,1021.361,0.535,26.48
+FC-1D,1,n294,trace,31,980,2610.5,1,6.0,,visible author-line ink; column displaced from vertical grid,67.898,1020.619,0.535,26.48
+FC-1D,1,n294,trace,32,992,2610.5,1,6.0,,visible author-line ink; column displaced from vertical grid,69.947,1019.876,0.535,26.48
+FC-1D,1,n294,trace,33,1004,2610.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,71.995,1019.134,0.542,33.385
+FC-1D,1,n294,trace,34,1016,2610.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,74.044,1018.392,0.542,33.385
+FC-1D,1,n294,trace,35,1028,2611.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,76.09,1015.923,0.542,33.385
+FC-1D,1,n294,trace,36,1041,2610.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,78.313,1018.571,0.571,61.002
+FC-1D,1,n294,trace,37,1052,2611.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,80.186,1012.712,0.571,61.002
+FC-1D,1,n294,trace,38,1065,2610.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain; curve/marker shared ink; ordinate uncertain,82.41,1017.086,0.571,61.002
+FC-1D,1,n294,trace,39,1076,2614.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,84.272,1000.871,0.542,33.385
+FC-1D,1,n294,trace,40,1088,2614.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,86.321,1000.129,0.542,33.385
+FC-1D,1,n294,trace,41,1099,2614.5,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,88.199,999.448,0.542,33.385
+FC-1D,1,n294,trace,42,1112,2616.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,90.412,993.466,0.542,33.385
+FC-1D,1,n294,trace,43,1124,2616.0,1,8,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,92.461,992.723,0.542,33.385
+FC-1D,1,n294,trace,44,1136,2617.5,1,9.0,,visible author-line ink; column displaced from vertical grid; curve/horizontal-grid shared ink; ordinate uncertain,94.504,986.802,0.546,36.837
+FC-1D,1,n294,trace,45,1148,2620.5,1,6.0,,visible author-line ink; column displaced from vertical grid,96.542,975.703,0.535,26.48
+FC-1D,1,n294,trace,46,1156,2621.5,1,2.0,,visible author-line ink; column displaced from vertical grid,97.904,971.756,0.521,12.672
+FC-1D,1,n294,trace,47,1177,2638.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,101.43,913.496,0.571,61.002
+FC-1D,1,n294,trace,48,1184,2626.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,102.668,954.489,0.571,61.002
+FC-1D,1,n294,trace,49,1196,2627.5,1,5.0,,visible author-line ink; column displaced from vertical grid,104.711,948.569,0.532,23.028
+FC-1D,1,n294,trace,50,1208,2630.5,1,7.0,,visible author-line ink; column displaced from vertical grid,106.749,937.47,0.539,29.933
+FC-1D,1,n294,trace,51,1220,2632.5,1,6.0,,visible author-line ink; column displaced from vertical grid,108.79,929.823,0.535,26.48
+FC-1D,1,n294,trace,52,1232,2635.0,1,6.5,,visible author-line ink; column displaced from vertical grid,110.83,920.45,0.537,28.207
+FC-1D,1,n294,trace,53,1244,2636.5,1,7.0,,visible author-line ink; column displaced from vertical grid,112.873,914.529,0.539,29.933
+FC-1D,1,n294,trace,54,1256,2639.5,1,7.0,,visible author-line ink; column displaced from vertical grid,114.911,903.43,0.539,29.933
+FC-1D,1,n294,trace,55,1268,2641.5,1,6.0,,visible author-line ink; column displaced from vertical grid,116.952,895.783,0.535,26.48
+FC-1D,1,n294,trace,56,1280,2644.5,1,6.0,,visible author-line ink; column displaced from vertical grid,118.99,884.684,0.535,26.48
+FC-1D,1,n294,trace,57,1292,2647.5,1,6.0,,visible author-line ink; column displaced from vertical grid,121.028,873.585,0.535,26.48
+FC-1D,1,n294,trace,58,1304,2649.0,1,5.5,,visible author-line ink; column displaced from vertical grid,123.071,867.665,0.533,24.754
+FC-1D,1,n294,trace,59,1316,2651.5,1,5.0,,visible author-line ink; column displaced from vertical grid,125.111,858.292,0.532,23.028
+FC-1D,1,n294,trace,60,1328,2653.5,1,6.0,,visible author-line ink; column displaced from vertical grid,127.152,850.645,0.535,26.48
+FC-1D,1,n294,trace,61,1340,2656.5,1,6.0,,visible author-line ink; column displaced from vertical grid,129.19,839.546,0.535,26.48
+FC-1D,1,n294,trace,62,1352,2659.5,1,6.0,,visible author-line ink; column displaced from vertical grid,131.228,828.447,0.535,26.48
+FC-1D,1,n294,trace,63,1364,2661.5,1,5.0,,visible author-line ink; column displaced from vertical grid,133.269,820.8,0.532,23.028
+FC-1D,1,n294,trace,64,1376,2665.5,1,6.0,,visible author-line ink; column displaced from vertical grid,135.303,806.249,0.535,26.48
+FC-1D,1,n294,trace,65,1388,2664.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,137.355,808.959,0.571,61.002
+FC-1D,1,n294,trace,66,1400,2657.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,139.431,834.108,0.571,61.002
+FC-1D,1,n294,trace,67,1413,2670.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,141.602,786.699,0.571,61.002
+FC-1D,1,n294,trace,68,1424,2677.0,1,4.5,,visible author-line ink; column displaced from vertical grid,143.456,763.579,0.53,21.302
+FC-1D,1,n294,trace,69,1436,2679.5,1,5.0,,visible author-line ink; column displaced from vertical grid,145.496,754.206,0.532,23.028
+FC-1D,1,n294,trace,70,1448,2681.0,1,5.5,,visible author-line ink; column displaced from vertical grid,147.539,748.286,0.533,24.754
+FC-1D,1,n294,trace,71,1466,2686.5,1,6.0,,visible author-line ink; column displaced from vertical grid,150.592,728.185,0.535,26.48
+FC-1D,1,n294,trace,72,1472,2687.5,1,6.0,,visible author-line ink; column displaced from vertical grid,151.613,724.362,0.535,26.48
+FC-1D,1,n294,trace,73,1484,2689.5,1,6.0,,visible author-line ink; column displaced from vertical grid,153.654,716.715,0.535,26.48
+FC-1D,1,n294,trace,74,1496,2692.5,1,6.0,,visible author-line ink; column displaced from vertical grid,155.692,705.616,0.535,26.48
+FC-1D,1,n294,trace,75,1508,2695.5,1,6.0,,visible author-line ink; column displaced from vertical grid,157.73,694.517,0.535,26.48
+FC-1D,1,n294,trace,76,1521,2691.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,159.965,709.248,0.571,61.002
+FC-1D,1,n294,trace,77,1532,2685.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,161.863,727.554,0.571,61.002
+FC-1D,1,n294,feature,1,620,2794,5,5,,first trace / symbol interruption,5.782,409.41,1.214,23.276
+FC-1D,1,n294,feature,2,1030,2607,6,6,,peak of author trace; broad maximum,76.446,1029.608,1.389,26.79
+FC-1D,1,n294,feature,3,1531,2691,5,5,,last visible trace,161.672,708.629,1.214,23.276
+FC-1D,1,n0,marker,1,700,2817,3,3,circle,solid filled circle,19.357,325.06,0.866,16.248
+FC-1D,1,n0,marker,2,824,2782,3,3,circle,solid filled circle,40.651,438.216,0.866,16.248
+FC-1D,1,n0,marker,3,929,2771,3,3,circle,solid filled circle,58.615,469.695,0.866,16.248
+FC-1D,1,n0,marker,4,1003,2768,3,3,circle,solid filled circle,71.259,475.473,0.866,16.248
+FC-1D,1,n0,marker,5,1120,2773,3,3,circle,solid filled circle,91.215,450.974,0.866,16.248
+FC-1D,1,n0,marker,6,1232,2783,3,3,circle,solid filled circle,110.299,409.523,0.866,16.248
+FC-1D,1,n0,marker,7,1351,2794,3,3,circle,solid filled circle,130.574,364.187,0.866,16.248
+FC-1D,1,n0,trace,1,698,2818.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,19.01,320.005,0.571,61.002
+FC-1D,1,n0,trace,2,709,2817.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,20.891,322.777,0.571,61.002
+FC-1D,1,n0,trace,3,722,2808.5,1,5.0,,visible author-line ink; column displaced from vertical grid,23.143,353.043,0.532,23.028
+FC-1D,1,n0,trace,4,734,2804.0,1,5.5,,visible author-line ink; column displaced from vertical grid,25.208,367.835,0.533,24.754
+FC-1D,1,n0,trace,5,745,2800.5,1,6.0,,visible author-line ink; column displaced from vertical grid,27.098,379.237,0.535,26.48
+FC-1D,1,n0,trace,6,756,2797.5,1,6.0,,visible author-line ink; column displaced from vertical grid,28.987,388.914,0.535,26.48
+FC-1D,1,n0,trace,7,770,2793.5,1,5.0,,visible author-line ink; column displaced from vertical grid,31.391,401.856,0.532,23.028
+FC-1D,1,n0,trace,8,782,2790.5,1,5.0,,visible author-line ink; column displaced from vertical grid,33.45,411.471,0.532,23.028
+FC-1D,1,n0,trace,9,794,2787.5,1,5.0,,visible author-line ink; column displaced from vertical grid,35.51,421.085,0.532,23.028
+FC-1D,1,n0,trace,10,805,2786.0,1,5.5,,visible author-line ink; column displaced from vertical grid,37.393,425.583,0.533,24.754
+FC-1D,1,n0,trace,11,817,2780.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,39.461,443.827,0.571,61.002
+FC-1D,1,n0,trace,12,830,2782.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,41.673,436.119,0.571,61.002
+FC-1D,1,n0,trace,13,842,2778.5,1,5.0,,visible author-line ink; column displaced from vertical grid,43.736,449.185,0.532,23.028
+FC-1D,1,n0,trace,14,854,2777.0,1,5.5,,visible author-line ink; column displaced from vertical grid,45.79,453.621,0.533,24.754
+FC-1D,1,n0,trace,15,866,2776.5,1,6.0,,visible author-line ink; column displaced from vertical grid,47.841,454.605,0.535,26.48
+FC-1D,1,n0,trace,16,883,2774.5,1,6.0,,visible author-line ink; column displaced from vertical grid,50.75,460.458,0.535,26.48
+FC-1D,1,n0,trace,17,890,2774.0,1,5.5,,visible author-line ink; column displaced from vertical grid,51.947,461.751,0.533,24.754
+FC-1D,1,n0,trace,18,902,2773.5,1,6.0,,visible author-line ink; column displaced from vertical grid,53.997,462.734,0.535,26.48
+FC-1D,1,n0,trace,19,918,2771.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,56.738,470.375,0.571,61.002
+FC-1D,1,n0,trace,20,926,2771.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,58.103,469.88,0.571,61.002
+FC-1D,1,n0,trace,21,937,2771.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,59.981,469.2,0.571,61.002
+FC-1D,1,n0,trace,22,961,2769.5,1,5.0,,visible author-line ink; column displaced from vertical grid,64.084,472.893,0.532,23.028
+FC-1D,1,n0,trace,23,974,2769.0,1,4.5,,visible author-line ink; column displaced from vertical grid,66.305,473.815,0.53,21.302
+FC-1D,1,n0,trace,24,986,2769.0,1,4.5,,visible author-line ink; column displaced from vertical grid,68.353,473.073,0.53,21.302
+FC-1D,1,n0,trace,25,998,2768.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,70.405,475.783,0.571,61.002
+FC-1D,1,n0,trace,26,1010,2769.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,72.45,471.588,0.571,61.002
+FC-1D,1,n0,trace,27,1021,2769.5,1,5.0,,visible author-line ink; column displaced from vertical grid,74.326,469.181,0.532,23.028
+FC-1D,1,n0,trace,28,1034,2769.5,1,5.0,,visible author-line ink; column displaced from vertical grid,76.546,468.377,0.532,23.028
+FC-1D,1,n0,trace,29,1046,2769.5,1,5.0,,visible author-line ink; column displaced from vertical grid,78.594,467.635,0.532,23.028
+FC-1D,1,n0,trace,30,1058,2770.5,1,6.0,,visible author-line ink; column displaced from vertical grid,80.639,463.44,0.535,26.48
+FC-1D,1,n0,trace,31,1070,2770.5,1,6.0,,visible author-line ink; column displaced from vertical grid,82.688,462.698,0.535,26.48
+FC-1D,1,n0,trace,32,1082,2771.0,1,5.5,,visible author-line ink; column displaced from vertical grid,84.735,460.229,0.533,24.754
+FC-1D,1,n0,trace,33,1094,2771.5,1,3.0,,visible author-line ink; column displaced from vertical grid,86.781,457.761,0.524,16.124
+FC-1D,1,n0,trace,34,1109,2773.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,89.335,449.929,0.571,61.002
+FC-1D,1,n0,trace,35,1118,2773.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,90.871,449.372,0.571,61.002
+FC-1D,1,n0,trace,36,1129,2773.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,92.749,448.691,0.571,61.002
+FC-1D,1,n0,trace,37,1143,2776.5,1,3.0,,visible author-line ink; column displaced from vertical grid,95.128,437.469,0.524,16.124
+FC-1D,1,n0,trace,38,1154,2777.0,1,5.5,,visible author-line ink; column displaced from vertical grid,97.004,435.062,0.533,24.754
+FC-1D,1,n0,trace,39,1165,2777.0,1,5.5,,visible author-line ink; column displaced from vertical grid,98.882,434.381,0.533,24.754
+FC-1D,1,n0,trace,40,1181,2779.5,1,6.0,,visible author-line ink; column displaced from vertical grid,101.605,424.761,0.535,26.48
+FC-1D,1,n0,trace,41,1190,2780.0,1,5.5,,visible author-line ink; column displaced from vertical grid,103.139,422.478,0.533,24.754
+FC-1D,1,n0,trace,42,1202,2782.5,1,6.0,,visible author-line ink; column displaced from vertical grid,105.179,413.105,0.535,26.48
+FC-1D,1,n0,trace,43,1214,2784.0,1,1.5,,visible author-line ink; column displaced from vertical grid,107.222,407.185,0.519,10.945
+FC-1D,1,n0,trace,44,1225,2783.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,109.104,409.956,0.571,61.002
+FC-1D,1,n0,trace,45,1238,2783.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,111.321,407.426,0.571,61.002
+FC-1D,1,n0,trace,46,1251,2786.0,1,3.5,,visible author-line ink; column displaced from vertical grid,113.531,397.991,0.526,17.85
+FC-1D,1,n0,trace,47,1262,2788.5,1,6.0,,visible author-line ink; column displaced from vertical grid,115.4,388.68,0.535,26.48
+FC-1D,1,n0,trace,48,1274,2788.5,1,6.0,,visible author-line ink; column displaced from vertical grid,117.449,387.938,0.535,26.48
+FC-1D,1,n0,trace,49,1289,2787.5,1,4.0,,visible author-line ink; column displaced from vertical grid,120.013,390.462,0.528,19.576
+FC-1D,1,n0,trace,50,1298,2790.5,1,5.0,,visible author-line ink; column displaced from vertical grid,121.539,379.549,0.532,23.028
+FC-1D,1,n0,trace,51,1310,2791.5,1,6.0,,visible author-line ink; column displaced from vertical grid,123.584,375.354,0.535,26.48
+FC-1D,1,n0,trace,52,1322,2792.0,1,5.5,,visible author-line ink; column displaced from vertical grid,125.631,372.886,0.533,24.754
+FC-1D,1,n0,trace,53,1330,2793.0,1,1.5,,visible author-line ink; column displaced from vertical grid,126.993,368.939,0.519,10.945
+FC-1D,1,n0,trace,54,1346,2793.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,129.722,366.223,0.571,61.002
+FC-1D,1,n0,trace,55,1359,2794.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,131.938,361.966,0.571,61.002
+FC-1D,1,n0,trace,56,1373,2795.0,1,2.5,,visible author-line ink; column displaced from vertical grid,134.326,359.374,0.523,14.398
+FC-1D,1,n0,trace,57,1382,2796.0,1,4.5,,visible author-line ink; column displaced from vertical grid,135.859,355.365,0.53,21.302
+FC-1D,1,n0,trace,58,1394,2796.5,1,5.0,,visible author-line ink; column displaced from vertical grid,137.906,352.897,0.532,23.028
+FC-1D,1,n0,trace,59,1406,2796.5,1,5.0,,visible author-line ink; column displaced from vertical grid,139.954,352.154,0.532,23.028
+FC-1D,1,n0,trace,60,1418,2797.5,1,6.0,,visible author-line ink; column displaced from vertical grid,141.999,347.96,0.535,26.48
+FC-1D,1,n0,trace,61,1430,2798.0,1,5.5,,visible author-line ink; column displaced from vertical grid,144.046,345.491,0.533,24.754
+FC-1D,1,n0,feature,1,698,2814,5,5,,first trace / symbol interruption,19.026,335.54,1.214,23.276
+FC-1D,1,n0,feature,2,1000,2768,6,6,,peak of author trace; broad maximum,70.747,475.659,1.389,26.79
+FC-1D,1,n0,feature,3,1431,2799,5,5,,last visible trace,144.213,341.977,1.214,23.276

@@ -1,0 +1,17 @@
+figure_id,panel,axis,printed_label,value,label_center_u,label_center_v,fitted_line_u,fitted_line_v,offset_px,checked_by_eye,crop,note
+FC-17,1,y,50,50,677,1672,730,1678.1,-6,yes,crops/ylab_50_45.png,"label left of the frame, centred on the 50 line (line at v 1676 by eye at u 730)"
+FC-17,1,y,45,45,683,2066,730,2063.0,3,yes,crops/ylab_50_45.png,label on the 45 line
+FC-17,1,y,40,40,689,2445,740,2446.3,-1,yes,crops/ylab_40_35.png,label on the 40 line; a short stroke joins the 0 of the label to the frame
+FC-17,1,y,35,35,698,2825,750,2829.7,-5,yes,crops/ylab_40_35.png,label on the 35 line
+FC-17,1,y,30,30,702,3210,760,3211.2,-1,yes,crops/ylab_30_bottom.png,label on the 30 line; the bottom frame (about y 25) and top frame (about y 55) carry no label and are not anchored
+FC-17,1,x,0,0,890,3632,903.9,3600,-14,yes,crops/xlab_0_04.png,"label printed 14 px left of the x = 0 line; the next line to the left is the frame, 148 px away, so the label belongs to this line"
+FC-17,1,x,0.1,0.1,1065,3632,1056.5,3600,8,yes,crops/xlab_0_04.png,label straddles the 0.1 line
+FC-17,1,x,0.2,0.2,1206,3632,1216.1,3600,-10,yes,crops/xlab_0_04.png,label straddles the 0.2 line
+FC-17,1,x,0.3,0.3,1371,3632,1375.0,3600,-4,yes,crops/xlab_0_04.png,label centred on the 0.3 line
+FC-17,1,x,0.4,0.4,1536,3632,1528.6,3600,7,yes,crops/xlab_04_09.png,label centred on the 0.4 line
+FC-17,1,x,0.5,0.5,1682,3632,1683.2,3600,-1,yes,crops/xlab_04_09.png,"label centred on the 0.5 line (a stray underscore precedes it: ""_0.5"")"
+FC-17,1,x,0.6,0.6,1838,3630,1838.9,3600,-1,yes,crops/xlab_04_09.png,label centred on the 0.6 line
+FC-17,1,x,0.7,0.7,1992,3628,1994.8,3600,-3,yes,crops/xlab_04_09.png,label centred on the 0.7 line
+FC-17,1,x,0.8,0.8,2138,3624,2140.4,3600,-2,yes,crops/xlab_04_09.png,label centred on the 0.8 line
+FC-17,1,x,0.9,0.9,2293,3617,2299.7,3600,-7,yes,crops/xlab_09_end.png,label centred on the 0.9 line
+FC-17,1,x,1.0,1.0,2462,3614,2456.6,3600,5,yes,crops/xlab_09_end.png,"label centred on the 1.0 line; the right frame (about x 1.10) and left frame (about x -0.10) carry no label and are not anchored"

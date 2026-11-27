@@ -1,0 +1,41 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,trace_segment
+FB-3,1,dr99,marker,1,862.5,3124.5,2.0,2.0,circle,,
+FB-3,1,dr99,marker,2,874.5,2971.5,2.0,2.0,circle,,
+FB-3,1,dr99,marker,3,1237.0,1988.0,20.0,20.0,circle,Unresolved nearly coincident circle cluster at knee: one marker retained; multiplicity cannot be separated.,
+FB-3,1,dr99,marker,4,1936.0,931.0,4.0,4.0,circle,Touches neighbouring circle and line.,
+FB-3,1,dr99,marker,5,1939.0,889.5,3.0,3.0,circle,Touches neighbouring circle.,
+FB-3,1,dr30,marker,1,1099.0,3766.0,9.0,9.0,circle,Overlapping circle pair; upper-right circle.,
+FB-3,1,dr30,marker,2,1086.0,3789.0,9.0,9.0,circle,Overlapping circle pair; lower-left circle.,
+FB-3,1,dr30,marker,3,1105.5,3852.5,3.0,3.0,circle,Line joins upper-left rim.,
+FB-3,1,dr30,marker,4,1384.0,3232.5,3.0,3.0,circle,Circle overlaps knee.,
+FB-3,1,dr30,marker,5,2443.0,2203.5,2.0,2.0,circle,,
+FB-3,1,dr30,marker,6,2444.0,2285.5,2.0,2.0,circle,,
+FB-3,1,dr99,feature,1,856.967,3102.938,4.0,4.0,,first point; visible line end,
+FB-3,1,dr99,feature,2,1246.819,1989.908,22.0,22.0,,vertex; intersection obscured by symbol; reconstructed from adjacent straight ink,
+FB-3,1,dr99,feature,3,1918.748,949.317,4.0,4.0,,last point; peak; visible line end,
+FB-3,1,dr99,feature,4,2148.0,1050.0,2.0,2.0,,label: Dense; Dr = 0.99,
+FB-3,1,dr99,trace,1,856.967,3102.938,5.5,5.5,,first point,1
+FB-3,1,dr99,trace,2,983.998,2739.507,4.0,4.0,,x=3 psi,1
+FB-3,1,dr99,trace,3,1126.026,2334.395,4.0,4.0,,x=4 psi,1
+FB-3,1,dr99,trace,4,1367.459,1802.386,5.0,5.0,,x=6 psi,3
+FB-3,1,dr99,trace,5,1563.659,1500.843,4.5,4.5,,x=7 psi,3
+FB-3,1,dr99,trace,6,1772.548,1174.81,5.0,5.0,,x=8 psi,3
+FB-3,1,dr99,trace,7,1829.791,1085.7,5.0,5.0,,x=9 psi,3
+FB-3,1,dr99,trace,8,1881.47,1004.514,4.0,4.0,,x=10 psi,3
+FB-3,1,dr99,trace,9,1917.488,948.504,4.0,4.0,,last point,3
+FB-3,1,dr30,feature,1,1095.022,3828.018,4.0,4.0,,first point; visible line end,
+FB-3,1,dr30,feature,2,1392.984,3234.194,22.0,22.0,,vertex; intersection obscured by symbol; reconstructed from adjacent straight ink,
+FB-3,1,dr30,feature,3,2483.222,2222.857,4.0,4.0,,last point; peak; visible line end,
+FB-3,1,dr30,feature,4,2188.0,2733.0,2.0,2.0,,label: Loose; Dr = 0.30,
+FB-3,1,dr30,trace,1,1095.022,3828.018,5.5,5.5,,first point,1
+FB-3,1,dr30,trace,2,1106.118,3805.625,5.5,5.5,,x=4 psi,1
+FB-3,1,dr30,trace,3,1245.355,3527.576,5.0,5.0,,x=5 psi,1
+FB-3,1,dr30,trace,4,1379.725,3261.734,5.0,5.0,,x=6 psi,1
+FB-3,1,dr30,trace,5,1538.656,3099.235,5.5,5.5,,x=7 psi,2
+FB-3,1,dr30,trace,6,1705.352,2944.945,5.0,5.0,,x=8 psi,2
+FB-3,1,dr30,trace,7,1816.56,2841.273,5.0,5.0,,x=9 psi,2
+FB-3,1,dr30,trace,8,1921.66,2743.438,4.5,4.5,,x=10 psi,2
+FB-3,1,dr30,trace,9,2083.362,2593.438,4.5,4.5,,x=11 psi,2
+FB-3,1,dr30,trace,10,2250.255,2438.111,5.0,5.0,,x=12 psi,2
+FB-3,1,dr30,trace,11,2383.53,2314.653,5.0,5.0,,x=13 psi,2
+FB-3,1,dr30,trace,12,2483.222,2222.857,3.5,3.5,,last point,3

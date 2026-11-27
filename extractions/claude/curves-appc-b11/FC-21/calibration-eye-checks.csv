@@ -1,0 +1,21 @@
+figure_id,panel,axis,printed_label,anchored_value,label_center_px,line_px_at_label,offset_px,result,crop,note
+FC-21,1,x,0,0,u=760,u=771,-11,ok,crops/xlab1.png,"single digit followed by a dotted leader toward 0.1; sits under the first interior vertical line; the frame line 150 px to its left carries no label"
+FC-21,1,x,0.1,0.1,u=924,u=926,-2,ok,crops/xlab1.png,decimal point under the line
+FC-21,1,x,0.2,0.2,u=1085,u=1083,+2,ok,crops/xlab1.png,decimal point under the line
+FC-21,1,x,0.3,0.3,u=1232,u=1243,-11,ok,crops/xlab1.png,decimal point 11 px left of the line; next line 152 px away
+FC-21,1,x,0.4,0.4,u=1400,u=1395,+5,ok,crops/xlab2.png,decimal point under the line
+FC-21,1,x,0.5,0.5,u=1547,u=1550,-3,ok,crops/xlab2.png,decimal point under the line
+FC-21,1,x,0.6,0.6,u=1712,u=1708,+4,ok,crops/xlab2.png,decimal point under the line
+FC-21,1,x,0.7,0.7,u=1857,u=1864,-7,ok,crops/xlab2.png,decimal point under the line
+FC-21,1,x,0.8,0.8,u=2013,u=2011,+2,ok,crops/xlab3.png,decimal point under the line
+FC-21,1,x,0.9,0.9,u=2167,u=2169,-2,ok,crops/xlab3.png,decimal point under the line
+FC-21,1,x,1.0,1.0,u=2343,u=2326,+17,ok,crops/xlab3.png,"label printed right of its line (decimal point 17 px right, the digit 1 just left of the line); the right frame 155 px further right carries no label"
+FC-21,1,y,50,50,v=1565,v=1568,-3,ok,crops/ylab50.png,label centred on the line
+FC-21,1,y,45,45,v=1954,v=1952,+2,ok,crops/topleft.png,label centred on the line; this line is also the top edge of the hatched band
+FC-21,1,y,40,40,v=2341,v=2336,+6,ok,crops/botleft.png,label centred on the line; this line is also the bottom edge of the hatched band
+FC-21,1,y,35,35,v=2722,v=2718,+4,ok,crops/ylab35.png,label centred on the line
+FC-21,1,y,30,30,v=3104,v=3102,+2,ok,crops/ylab30.png,label centred on the line
+FC-21,1,x,(none),not anchored,,u=591 (left frame),,frame,crops/topleft.png,"left frame unlabelled; by extrapolation of the 0 to 0.1 interval it is at Dr -0.097 (one division left of 0)"
+FC-21,1,x,(none),not anchored,,u=2448 (right frame),,frame,crops/xlab3.png,"right frame unlabelled; by extrapolation of the 0.9 to 1.0 interval it is at Dr 1.098 (one division right of 1.0)"
+FC-21,1,y,(none),not anchored,,v=1166 (top frame),,frame,crops/topframeleft.png,"top frame unlabelled; by extrapolation it is at 55.0 deg"
+FC-21,1,y,(none),not anchored,,v=3470 (bottom frame),,frame,crops/xlab1.png,"bottom frame unlabelled; by extrapolation it is at 25.0 deg"

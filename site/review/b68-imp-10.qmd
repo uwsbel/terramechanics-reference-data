@@ -1,0 +1,108 @@
+---
+title: "b68-imp-10: provenance"
+---
+Provenance and review record of [b68-imp-10](../experiments/b68-imp-10.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 142 points recovered, agreed 128, one-sided 3, one-sided-verified 11 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 15, merged 1, resolved 2 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+142 points (101 from F4-19; 41 from F4-20) read by two readings made separately and reconciled (batch `curves-s4-b1`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay F4-19-p1](../img/overlays/F4-19-p1.png){.lightbox}
+
+![Overlay F4-19-p2](../img/overlays/F4-19-p2.png){.lightbox}
+
+![Overlay F4-20-p1](../img/overlays/F4-20-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 (F4-19 panel 1) | time (s, from ms) | vertical force (N, from lbf) | 63 |
+| 2 (F4-19 panel 2) | time (s, from ms) | displacement (m, from inch) | 38 |
+| 3 (F4-20 panel 1) | displacement (m, from inch) | vertical force (N, from lbf) | 41 |
+Panel 1: Past 100 ms the printed time labels skip 110: the evenly spaced lines after the 100 ms line are labeled 120, 130 and 140 and the frame after them is unlabeled. The values read those lines as 110, 120 and 130 ms and the frame as 140 ms, from the even spacing. Taken as printed, a time between the 100 ms line and the next would be up to 10 ms later (the difference grows across that interval) and every later time 10 ms later. Fig. 4-20 cannot test this: the same rescaling of both time axes leaves force against displacement unchanged.
+
+Panel 2: Past 100 ms the printed time labels skip 110: the evenly spaced lines after the 100 ms line are labeled 120, 130 and 140 and the frame after them is unlabeled. The values read those lines as 110, 120 and 130 ms and the frame as 140 ms, from the even spacing. Taken as printed, a time between the 100 ms line and the next would be up to 10 ms later (the difference grows across that interval) and every later time 10 ms later. Fig. 4-20 cannot test this: the same rescaling of both time axes leaves force against displacement unchanged.
+
+Panel 3: derived-from F4-19; Fig. 4-20 plots the force of panel 1 against the displacement of panel 2: the same runs, cross-plotted from the same records.
+
+Panel 3, run10: the line is broken after codex sample 31: scan dropout: no ink, grid lines included, from about 1.61 to 1.92 in (both readers stop at the last dot before it and resume after it); the line is not drawn across it.
+
+
+Points by status: [agreed]{.status .status-agreed} 128, [one-sided]{.status .status-one-sided} 3, [one-sided-verified]{.status .status-one-sided-verified} 11; by kind: `feature` 18, `trace` 124.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | F4-19/cal-p1 | 143 | 0.0948 / 0.279 | 0.357 / 0.991 |
+| claude | F4-19/cal-p2 | 99 | 0.0776 / 0.239 | 0.00357 / 0.00862 |
+| claude | F4-20/cal-p1 | 130 | 0.0023 / 0.00548 | 0.356 / 0.955 |
+| codex | F4-19/cal-p1 | 195 | 0.0998 / 0.321 | 0.332 / 0.964 |
+| codex | F4-19/cal-p2 | 150 | 0.114 / 0.375 | 0.00561 / 0.022 |
+| codex | F4-20/cal-p1 | 130 | 0.00228 / 0.00548 | 0.356 / 0.948 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-imp-10/observations.csv), [series.json](../files/data/experiments/b68-imp-10/series.json) (repository paths `data/experiments/b68-imp-10/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | intermediate |
+| Dr | 0.45 |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | 6.17 inch diameter instrumented 1/6-scale LM footpad |
+| bin, inches | three feet by eight feet by two feet deep soil bed |
+| rate | approx 6 fps |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [resolved]{.status .status-resolved} | both readings agree in substance; wording merged (the rig's bed, text 3-17, PDF 158; not stated per run) |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [resolved]{.status .status-resolved} | both readings agree in substance; wording merged |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | subscale oblique impact test equipment | subscale oblique impact rig |
+| loading | vertical impact; moving weight not printed | vertical; 0 degrees |
+
+## Notes from the two readings
+
+- Claude: State from text 4-22 (RS loose, intermediate, and dense soil) matched to the legend order Dr 0, 0.45, 0.65. Moving weight M1 not printed for this run. Velocity only about six fps; unit weight, gp and gravity not printed. Displacement trace in F4-19 stops near 80 ms.
+- Codex: Moving weight unreported. Text says six-inch pad. Exact impact speed, bed unit weight and Gp unreported. Earth gravity inferred.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

@@ -1,0 +1,12 @@
+figure_id,panel,axis,value_psf,printed_label,label_centre_u,label_centre_v,fitted_line_px_near_label,label_minus_line_px,agrees,note
+FC-8,1,y,8000,800.00,600,1055,1068.8,-14,yes,label printed a little high but 293 px from the next line; the plot frame continues about 490 px above this line to enclose the text box so the frame top is not a grid line (box chosen to exclude it)
+FC-8,1,y,7000,700.00,620,1359,1362.2,-3,yes,
+FC-8,1,y,4000,400.00,620,2229,2233.7,-5,yes,first digit damaged in the scan but legible
+FC-8,1,y,1000,100.00,620,3107.5,3108.5,-1,yes,
+FC-8,1,y,0,00.,610,3407,3407.7,-1,yes,printed as 00.
+FC-8,1,x,0,00,741,3470,739.8,1,yes,printed as 00 under the left frame
+FC-8,1,x,1000,100.00,1029,3470,1033.0,-4,yes,decimal point at u 1041
+FC-8,1,x,3000,300.00,1607,3470,1611.3,-4,yes,
+FC-8,1,x,4000,400.00,1902,3470,1902.9,-1,yes,
+FC-8,1,x,6000,600.00,2482,3480,2484.9,-3,yes,
+FC-8,1,x,7000,700.00,2780,3485,2774.8,5,yes,right frame is the 7000 line

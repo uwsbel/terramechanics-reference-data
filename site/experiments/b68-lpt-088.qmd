@@ -1,0 +1,78 @@
+---
+title: "Load penetration: SS soil, dense, LPT No. 88"
+record: "b68-lpt-088"
+kind: "single"
+test-type: "Load penetration"
+family: "SS"
+state: "dense"
+printed-label: "LPT No. 88"
+evidence: "F2-34"
+setup: "incomplete"
+record-status: "agreed"
+priority: "1"
+mcc: "no"
+---
+Load penetration test on SS soil (White Silica Sand (Wedron 4040-narrowly graded)) at relative density approx 0.76; apparatus: LPT fixture; loading: static penetration. Recorded: load vs penetration.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 27 of the 31 points, and 3 are still under review. Student reviewers have looked at 16 of the 31 points on the scan; two reviewers confirmed 9 of them (see the provenance page). The test setup is incomplete: fill depth, rate are not reported.
+:::
+
+## Data
+
+![load against penetration, SI units. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-lpt-088.png){.lightbox}
+
+Peak load 2925 N at 206.62 mm penetration, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-lpt-088/observations.csv) (31 points: 0 plotted symbols, 26 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: load in N against penetration in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-lpt-088/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 386 micrometers in penetration, 13 N in load (0.4 percent of the peak). Both independent readings agree within these bounds at 27 of the 31 points; 3 are still under review (hollow in the plot) and 1 was settled against the scan. [Check the digitized points against the scan](../figures/index.qmd#check-f2-34).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | SS Dense, White Silica Sand (Wedron 4040-narrowly graded) (soil No. 9 of Table 2-3) | SS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 0.4 mm | 0.4 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.3 | 1.3 | Table 2-3 |
+| material | D95 | 0.52 mm | 0.52 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | 0 percent | 0% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | approx 0.76 | approx 0.76 | F2-34 |
+| state | unit weight of the nominal soil state | 16808.4 N/m^3 (1714.0 kg/m^3 at Dr 0.69) |  | Table 2-3; the bed's own Dr may differ |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | DPT index Gp | *not reported* |  | F2-34; density read through the Fig. 2-55 correlation |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | 101.6 mm cylinder | 4 inch cylinder | F2-34 |
+| geometry | bin or mold | 2.7432 m by 914.4 mm | 108 by 36 | F2-34 |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | static penetration |  | F2-34 |
+| loading | start depth below surface | 0.0508 m | 2 in | F2-34 |
+| loading | rate | *not reported* |  | F2-34 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | load vs penetration |  | F2-34 |
+| soil strength | friction angle at this density (report's direct shear average) | 39 degrees | 39 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 165.5 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+F2-34, *Load-Penetration Curves for Four-Inch Cylinder in Soil No. 9 (Dr approx 0.76)*, AM-68-1 Vol. I, printed 2-65, PDF 90.
+
+::: {layout-ncol=2}
+![PDF page 90](../img/1968/p0090.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-lpt-088` in `data/experiments/index.csv` of this repository, and the source: F2-34, *Load-Penetration Curves for Four-Inch Cylinder in Soil No. 9 (Dr approx 0.76)*, AM-68-1 Vol. I, printed 2-65, PDF 90.
+
+<small>Maintainers: the [provenance and review record](../review/b68-lpt-088.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

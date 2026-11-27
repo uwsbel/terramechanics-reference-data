@@ -1,0 +1,59 @@
+# Appendix C computer plots: the drawn lines against the printed fits
+
+Source: AM-68-1 Vol. II (NASA CR-92215), Appendix C, Figs. C-8 to C-15 (printed C-24 to C-37, PDF 138
+to 151). Each of these fourteen plots shows the peak shear stresses of one group of direct shear tests
+(triangles), a straight line, and a box that prints the group's average density, angle of friction,
+tan theta and cohesion: the least-squares fit of the group, computed on a Univac 1107 and plotted on a
+CAL-COMP plotter (Appendix C text, printed C-1, PDF 115). Both agents read all fourteen blind (batches
+`curves-appc-b7` to `-b9`, 2026-10-14); each reader also compared its own traced line with the printed
+box, without moving any point toward it. Findings, 2026-10-15:
+
+1. **The two readings agree on every drawn line**: a least-squares line through each reader's trace
+   samples gives slopes within 0.0017 and intercepts within 6 psf of the other reader's, on all
+   fourteen plots. What follows is a property of the pages, not of a reading.
+2. **On most plots the drawn line is not the printed fit.** Intercept of the drawn line at zero normal
+   stress against the printed cohesion (psf; both readings, rounded):
+
+   | Figure | printed tan, cohesion | drawn line tan, intercept | line minus cohesion |
+   |---|---|---|---|
+   | C-8 RS loose (C-24, PDF 138) | 0.7992, 242.12 | 0.800, 243 | +1 |
+   | C-9A RS dense (C-25, PDF 139) | 1.3059, 634.20 | 1.317, 615 | -19 |
+   | C-9B RS dense (C-26, PDF 140) | 1.0594, 698.23 | 1.057, 675 | -23 |
+   | C-9C RS dense (C-27, PDF 141) | 1.1663, 700.44 | 1.153, 677 | -24 |
+   | C-10A PS loose (C-28, PDF 142) | 0.9471, 488.69 | 0.958, 499 | +11 |
+   | C-10B PS loose (C-29, PDF 143) | 0.9459, 169.22 | 0.952, 121 | -48 |
+   | C-10C PS loose (C-30, PDF 144) | 0.9558, 359.69 | 0.962, 344 | -16 |
+   | C-11A RSM loose (C-31, PDF 145) | 0.7244, 444.69 | 0.727, 401 | -44 |
+   | C-11B RSM loose (C-32, PDF 146) | 0.7641, 785.77 | 0.758, 798 | +12 |
+   | C-11C RSM loose (C-33, PDF 149) | 0.7556, 584.29 | 0.755, 588 | +4 |
+   | C-12 RC2 loose (C-34, PDF 148) | 0.9349, 145.81 | 0.929, 138 | -8 |
+   | C-13 SS loose (C-35, PDF 147) | 0.5718, -1.87 or 11.87 | 0.556, 50 | +38 to +52 |
+   | C-14 LSM loose (C-36, PDF 150) | 0.9642, -109.97 | 0.925, -14 | +96 |
+   | C-15 LSM dense (C-37, PDF 151) | 0.8710, 213.76 | 0.869, 156 | -58 |
+
+   A reading bound of a trace sample is about 20 psf, so C-9B, C-9C, C-10B, C-11A, C-13, C-14 and C-15
+   differ beyond it over much of the line. The grid of these plots is drafted unevenly (about 299 px
+   for the first 1000 psf of shear strength, 287 px for the fifth); both readings use the piecewise
+   map between the drawn lines (D-025), so this is accounted for; and a calibration error would not give
+   offsets of opposite sign and different size on pages that carry the same printed grid.
+3. **The printed fits are the ones the data sheets give.** Where the tests of a computer plot are
+   identified, a least-squares line through the peaks of their data sheets, as read in `curves-appc-b1`
+   to `-b3`, reproduces the printed box: C-9A from the seven tests of Fig. C-1D (zero-stress test
+   included) 1.313 and 630 psf against 1.3059 and 634.20; C-10A from the six tests of Fig. C-2B 0.950
+   and 489 psf against 0.9471 and 488.69; C-12 from the five tests of Fig. C-4B 0.927 and 137 psf
+   against 0.9349 and 145.81 (the C-12 relation to C-4B was marked unresolved in the index; this
+   supports it). On C-15 the plotted triangles themselves reproduce the box (a fit through them gives
+   0.867 and 219 psf) while the drawn line runs 58 psf below the printed fit and 63 psf below the
+   triangles' own fit at zero normal stress.
+4. **Fig. C-14**: the printed cohesion is negative (-109.97 psf); the drawn line instead starts at the
+   frame's origin corner and ends near the printed line's end, as if the plotter had clipped the line
+   at the frame and drawn it from there (a hypothesis; nothing else on the page says so).
+5. **Fig. C-13**: the first character of the printed cohesion is a 1 overstruck with a bar, so the
+   value is -1.87 or 11.87 (as the page transcription already records); the triangles fit 0.567 and
+   32 psf and the line 0.556 and 50 psf, so neither settles it.
+
+For use of the data: the printed angle, tan theta and cohesion of each box are the authors' fits, and
+on at least four plots they are reproducible from the data sheets; the drawn lines are kept in the
+records as read, with this note, and should not be used as the fits. The triangles are the evidence of
+the tests. A check against the data sheets of the remaining plots (C-9B, C-10B, C-10C, C-11B, C-11C,
+C-13 to C-15, whose tests are not all identified) is open.

@@ -1,0 +1,48 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F5-25,2,strut2,trace,1,1668.5,3524.0,3.0,3.0,,ink starts: the trace comes down just left of the 0 line into the baseline (the t = 0 line); below v 3525 its ink is lost in the baseline
+F5-25,2,strut2,trace,2,1666.5,3494.51,3.0,3.0,,time sample t = 0.002 s
+F5-25,2,strut2,trace,3,1664.5,3460.32,3.0,3.0,,time sample t = 0.004 s
+F5-25,2,strut2,trace,4,1651.72,3444.02,3.7,3.7,,5 lb sample at 5 lb
+F5-25,2,strut2,trace,5,1630.39,3429.0,3.9,3.9,,5 lb sample at 10 lb
+F5-25,2,strut2,trace,6,1623.95,3425.98,3.5,3.5,,time sample t = 0.006 s
+F5-25,2,strut2,trace,7,1609.05,3418.75,3.7,3.7,,5 lb sample at 15 lb
+F5-25,2,strut2,trace,8,1587.67,3410.5,3.3,3.3,,5 lb sample at 20 lb
+F5-25,2,strut2,trace,9,1566.22,3402.75,3.3,3.3,,5 lb sample at 25 lb
+F5-25,2,strut2,trace,10,1544.75,3395.0,3.8,3.8,,5 lb sample at 30 lb
+F5-25,2,strut2,trace,11,1535.92,3391.42,3.8,3.8,,time sample t = 0.008 s
+F5-25,2,strut2,trace,12,1523.27,3385.5,3.5,3.5,,5 lb sample at 35 lb
+F5-25,2,strut2,trace,13,1501.98,3366.55,3.4,3.4,,5 lb sample at 40 lb; across a grid line
+F5-25,2,strut2,trace,14,1493.0,3357.0,2.9,2.9,,time sample t = 0.01 s
+F5-25,2,strut2,trace,15,1484.5,3323.23,2.9,2.9,,time sample t = 0.012 s
+F5-25,2,strut2,trace,16,1480.0,3289.47,3.0,3.0,,time sample t = 0.014 s
+F5-25,2,strut2,trace,17,1477.0,3255.73,2.5,2.5,,time sample t = 0.016 s
+F5-25,2,strut2,trace,18,1474.5,3221.98,3.0,3.0,,time sample t = 0.018 s
+F5-25,2,strut2,trace,19,1474.5,3188.25,3.0,3.0,,time sample t = 0.02 s
+F5-25,2,strut2,trace,20,1479.5,3102.35,3.0,3.0,,time sample t = 0.025 s
+F5-25,2,strut2,trace,21,1486.0,3016.47,2.5,2.5,,time sample t = 0.03 s
+F5-25,2,strut2,trace,22,1487.5,2930.86,3.0,3.0,,time sample t = 0.035 s
+F5-25,2,strut2,trace,23,1485.5,2845.23,3.0,3.0,,time sample t = 0.04 s
+F5-25,2,strut2,trace,24,1480.5,2759.96,3.0,3.0,,time sample t = 0.045 s
+F5-25,2,strut2,trace,25,1477.0,2674.7,2.5,2.5,,time sample t = 0.05 s
+F5-25,2,strut2,trace,26,1473.5,2589.14,3.0,3.0,,time sample t = 0.055 s
+F5-25,2,strut2,trace,27,1472.5,2503.6,2.5,2.5,,time sample t = 0.06 s
+F5-25,2,strut2,trace,28,1477.0,2419.16,2.5,2.5,,time sample t = 0.065 s
+F5-25,2,strut2,trace,29,1484.5,2334.74,3.0,3.0,,time sample t = 0.07 s
+F5-25,2,strut2,trace,30,1495.0,2249.24,3.0,3.0,,time sample t = 0.075 s
+F5-25,2,strut2,trace,31,1504.5,2163.74,3.9,3.9,,time sample t = 0.08 s; the trace runs along the +40 line here (t 0.077 to 0.083); center from the ink run with the grid line inside it
+F5-25,2,strut2,trace,32,1516.5,2077.55,2.9,2.9,,time sample t = 0.085 s
+F5-25,2,strut2,trace,33,1526.42,2038.07,2.9,2.9,,5 lb sample at 35 lb
+F5-25,2,strut2,trace,34,1541.5,1991.44,2.9,2.9,,time sample t = 0.09 s
+F5-25,2,strut2,trace,35,1547.81,1976.84,2.8,2.8,,5 lb sample at 30 lb
+F5-25,2,strut2,trace,36,1569.15,1932.99,3.0,3.0,,5 lb sample at 25 lb
+F5-25,2,strut2,trace,37,1584.5,1907.12,3.1,3.1,,time sample t = 0.095 s
+F5-25,2,strut2,trace,38,1590.47,1896.19,4.0,4.0,,5 lb sample at 20 lb where the center line crosses the +20 line; read from the ink run with the grid line inside it
+F5-25,2,strut2,trace,39,1612.17,1859.74,2.9,2.9,,5 lb sample at 15 lb
+F5-25,2,strut2,trace,40,1635.5,1823.5,3.0,3.0,,ink ends at t = 0.10 (end of the record)
+F5-25,2,strut2,feature,1,1668.5,3524.0,3.0,3.0,,first: ink starts: the trace comes down just left of the 0 line into the baseline (the t = 0 line); below v 3525 its ink is lost in the baseline
+F5-25,2,strut2,feature,2,1662.7,3455.5,3.0,3.0,,knee: the trace leaves the 0 line and the load starts to rise (t about 0.0043 s)
+F5-25,2,strut2,feature,3,1491.6,3353.5,3.0,3.0,,knee: end of the steep rise (t about 0.0102 s)
+F5-25,2,strut2,feature,4,1474.5,3176.22,3.0,81.2,,"peak: first load maximum, a broad top (within half a line width of the extreme from t = 0.0159 to 0.0241 s)"
+F5-25,2,strut2,feature,5,1488.5,2959.97,3.0,97.6,,"knee, minimum: local minimum between the two maxima, a flat stretch (within half a line width of the extreme from t = 0.0296 to 0.0390 s)"
+F5-25,2,strut2,feature,6,1472.5,2501.91,3.0,128.3,,"peak: largest load of the record, a broad top (within half a line width of the extreme from t = 0.0526 to 0.0637 s)"
+F5-25,2,strut2,feature,7,1635.5,1823.5,3.0,3.0,,last: ink ends at t = 0.10 (end of the record)

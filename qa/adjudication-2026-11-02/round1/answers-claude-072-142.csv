@@ -1,0 +1,72 @@
+item,answer,confidence,comment
+072,p,low,"Both marks are on the same small load step (diagonal, then a ~15 px riser at u ~1502, then a ledge at v ~2640 running left to u ~1476). P sits on the corner where the riser leaves the diagonal (~1502,2659). Q sits on the flat ledge ~8 px left of the riser-to-ledge corner (~1502,2643), a midpoint of the step rather than a bend. If a single mid-step point is an accepted way to mark a step, both."
+073,p,medium,"P is at a distinct bend at (548,1628): the line goes from ~25 deg on the page (v 1632 to 1650) to ~60 deg (v 1602 to 1614) at the 275 lb grid line. Q (675,1724) lies on a long gradual arc (direction easing from ~63 deg at v 1735 to ~25 deg at v 1645) with no corner at the mark; the nearest corner is at the 6 in / 250 lb grid crossing (~694,1764). The marks are on different features ~160 px apart."
+074,yes,low,"On the ink. The initial rounding is a gradual arc (direction about 22 deg near the origin, ~45 deg at the mark, ~57 deg by v 3350) with no sharp corner; the mark sits near the angular middle of the arc."
+075,yes,medium,"On the line about 6 px above the corner (~1888,3177) where the diagonal turns into the vertical riser below the load step at v ~3147."
+076,no,medium,"The mark is midway along a short flatter segment that crosses the 75 lb grid line; the direction changes at the segment ends (~1789,3030 and ~1815,3054), about 15 px from the mark, not at the mark."
+077,yes,medium,"At the upper end of that short flatter segment, where the line steepens again (~1788,3029); the line changes from ~48 deg to ~76 deg there."
+078,no,medium,"The line is straight (du/dv ~0.75 to 0.8) from v 2900 up to ~2852; the only bend is at ~(1655,2850), ~15 px further along. No jog between v 2845 and 2864."
+079,yes,low,"Within ~6 px of the bend at ~(1655,2850) where the line steepens (du/dv 0.8 to 0.45) as it runs along the 100 lb grid line; trace partly merged with the grid line there. Calling it the upper end of a jog is loose, but the line does change direction at the mark."
+080,yes,medium,"At the corner (~1587,2758) where the diagonal turns into the vertical riser that leads to the ledge at v 2742 to 2748; within ~3 px."
+081,yes,medium,"About 4 px above the corner (~1477,2634) where the ledge (v ~2636 to 2642) turns back into the diagonal: end of the jog."
+082,no,medium,"The line is straight (centerline residuals within 2 px) from v 2362 to 2423; the bend is at ~(1328,2428) on the 125 lb grid line, ~16 px below the mark (~22 px along the line)."
+083,no,medium,"Mark is in the middle of the same straight stretch (v 2362 to 2423); nearest bends at ~(1260,2362) and ~(1328,2428), both ~33 px away."
+084,yes,low,"On a short steeper stretch (v 2152 to 2135) about 6 px below its upper corner (~1057,2135); small but visible jog."
+085,no,low,"On the flatter stretch between corners at ~(1057,2135) and ~(1029,2111); ~13 px from the nearer corner, no direction change at the mark."
+086,yes,low,"The line flattens near u ~930 (v ~1993) on its way into the shoulder corner at ~(911,1985); the mark is ~5 px from that flattening and ~13 px from the main corner. Small recorder feature."
+087,yes,medium,"About 5 px from the corner (~905,1967) where the short riser turns back into the diagonal: end of the shoulder."
+088,yes,medium,"At the corner (~828,1899) where the short steep stretch (u 810 to 826) turns flatter."
+089,yes,medium,"At the upper corner (~810,1876) of the same short steep stretch."
+090,all no,high,"Q sample (2274,3593) is inside the frame corner (bottom frame v 3589 to 3603, right frame u 2274 to 2284). The trace's ink merges into the frame top at about (2266,3588), ~9 px away."
+091,all no,medium,"Both P samples (duplicates at 387,1466) are inside the top frame line (v ~1455 to 1468). The trace meets the left frame at v ~1470 to 1481; its last visible ink is ~(389,1470), ~4 px away. The value difference from the trace end is small (~10 px, ~0.03 in)."
+092,p,medium,"Largest turning of the dotted line is at the dot (735,3288): direction ~44 deg before, ~33 deg after; a single-knee fit puts the knee at u ~744. Q's dot (793,3251) is on the tail of the bend (only a few deg of further turning; a two-knee fit puts a minor second knee near u 788)."
+093,yes,low,"On dot ink (dot merged with the 100 lb grid line, ~1075,3116). The dotted line steepens gradually from ~26 to ~38 deg between u ~1000 and 1260; a three-segment fit puts knees near u 1080 and 1210, so the mark matches the first. Gradual, not a sharp corner."
+094,yes,low,"On the first dot after a gap in the dots (1234,3012). The gradual steepening ends around u 1210 to 1260 (three-segment fit knee ~1210); slope is steady after ~1250. The end of a gradual bend is fuzzy by a dot or two."
+095,cannot tell,low,"On a dot (2166,2262). The slope increases only ~2 to 3 deg, spread over u 2000 to 2320; the best single knee falls near u 2127 to 2166. Too slight to say the line visibly changes direction at the mark."
+096,all yes,high,"P sample (614,3419) is on the bottom tip of the first dot (ink u 613 to 616 on that row)."
+097,all yes,high,"Both P samples are on the last dot (u 2432 to 2440, v 2010 to 2021), just left of the right frame (u 2442)."
+098,q,medium,"Q is at a crisp kink: start of a short flat shelf (u ~2018 to 2024, v ~1980). P's mark (1951,2049) is on the steep straight run (~59 deg); that run ends in a bend centered ~(1962,2031), ~20 px further along. The marks are on different features."
+099,q,medium,"Q is at the kink where the line flattens before the step (~2155,1818). P's mark (2296,1666) is in the middle of a short steeper stretch, ~16 px before the local load maximum (2312,1644) where the small drop actually starts (see item 100). Different features."
+100,yes,high,On the ink at the local maximum (top edge v 1640 at u 2312) before a ~5 px (~1.6 lb) dip; matches the note.
+101,no,medium,"The trace runs straight and steep from where it leaves the frame (~613,3385) up to v ~3300 (a single line fits within ~1 px); no direction change at the mark."
+102,yes,medium,At the bend where the slope drops from ~1.0 to ~0.3 to 0.5 (u ~798 to 810).
+103,yes,low,At the start of a small steeper bump (local direction ~31 deg rising to ~40 deg over u 1020 to 1036). Small recorder feature.
+104,yes,low,At the end of a second steeper bump (~44 deg at u 1068 easing to ~37 deg by u 1088). Small recorder feature.
+105,no,low,"Line nearly straight here; the best single knee (43 to 50 deg) is at u ~1640 to 1644, ~19 px beyond the mark."
+106,no,medium,"The steep run continues unchanged (~53 deg on both sides of the mark) to the visible bend at ~(1748,2265), ~21 px further."
+107,no,medium,"On the flatter stretch (~38 deg); the steep rise starts at ~(1925,2090), ~20 px further along the line."
+108,all no,medium,"Q sample (603,3391) is inside the left frame line (u 598 to 606); the trace's last visible ink is at the frame edge ~(607,3391), ~4 px away."
+109,all yes,medium,"P sample (2443,1497) is 1 px into the right frame (u 2442) and within 2 px of the trace's last visible ink (2441,1497)."
+110,p,medium,"The dashed line turns from ~42 deg (dash u 615 to 652) to ~19 deg (next dash u 658 to 704); the extended dash lines meet at ~(665,2960), where P sits at the start of the bent dash. Q's mark (623,3004) is on the straight lower part of the 42 deg dash; only a milder change (~56 to 42 deg) lies in the gap below it near (610,3015)."
+111,yes,low,At the start of the dash (u 1026 to 1068) where the rising slope steps from ~10 deg (previous dash) to ~20 deg; after it the slope stays ~17 to 21 deg.
+112,all no,medium,"Q sample (500,3218) is inside the left frame line (u 496 to 504); the dashed lpt101 segment merges into the frame with its last visible ink at ~(505,3218), ~5 px away."
+113,p,high,"P is at the bend onto the plateau (~656,3021), from ~27 deg to flat. Q's mark (633,3033) is in the middle of a straight ~27 deg stretch between bends at ~(610,3045) and ~(656,3021)."
+114,p,medium,"A two-line fit puts the corner at (1715.5,2546), on P's mark (slope ~39 deg before, ~15 deg after). Q's mark (1736,2541) is ~20 px along the flat stretch, past the x = 4 grid line."
+115,p,medium,"P is at the start of the small step across the x = 5 grid line (~2028 to 2032). Q's mark (2108,2374) is on a straight ~28 deg stretch (u 2084 to 2136); different features."
+116,p,medium,"P is at the top of the step where the trace flattens (~2048,2394). Q's mark (2066,2391) is on the near-flat stretch ~18 px beyond, not at a bend."
+117,cannot tell,medium,"Two distinct bends: ~27 to 42 deg at ~(2359,2240), where Q sits, and ~42 to 58 deg at ~(2385,2218), ~6 px after P. A single-knee fit gives u ~2365 (closer to Q); a two-knee fit matches both marks. Both are on real bends; they could be kept as two knees."
+118,yes,low,Where the slow rise (~13 deg) turns to ~23 deg (u ~845); mild but visible.
+119,yes,low,At the start of a short flattening (~34 to ~15 deg over u 1108 to 1128) just at the x = 2 grid line.
+120,no,medium,"The flattening ends at ~(1128,2865); P's mark is ~31 px later on a straight rise, where the trace crosses a short horizontal bar (v 2850 to 2854)."
+121,yes,medium,At the top of a short steep jog (u 1636 to 1646) where the line flattens again.
+122,all no,medium,"P sample (502,3241) is inside the frame corner (left frame to u 504, bottom frame from v 3241); the solid trace's last visible ink is ~(506,3239), ~4 px away."
+123,all yes,high,"Both Q samples are on the trace's ink right at the right frame's near edge (u 2639, v 2101 and 2103)."
+124,p,medium,"The dotted line turns from ~5 deg off vertical to ~25 deg between v 3480 and 3390; the angular middle and the two-line corner (~2123,3435) fall at the dot (2122,3447) where P sits. Q's dot (2127,3480) is at the very start of the bend, still on the near-vertical plateau."
+125,yes,low,"On dot (2092,3368), at the end of the rounding: the direction reaches ~24 of its final ~25 deg here. The end of a gradual bend is fuzzy by a dot."
+126,all no,medium,"P sample (2268,3766) is the frame corner, inside both frame lines; the nearest lpt85 ink is a dot fragment at ~(2262,3758), ~8 px away, and the last clear dot is ~(2252,3753)."
+127,all yes,high,"Both P samples are on the last dot (u 1130 to 1140, v 1364 to 1375), which touches the 8 in grid line."
+128,q,medium,"The solid line runs down onto the bottom frame and can be followed as a band on the frame top (v 3762) to about u 2246 to 2254, where an lpt85 dot merges; Q's mark (2245,3758) is on that ink near where it vanishes into the frame. P's mark (2268,3766) is the frame corner, inside the frame, ~15 px from the last solid ink."
+129,p,medium,"P is at the clear toe bend (~2218,3738) where the run into the corner (dv/du ~0.6) meets the fast rise (~0.2). Q's mark (2142,3724) is mid-way on the fast-rise stretch with no distinct bend; the end of the initial rise is the turn onto the plateau at ~(2032,3668)."
+130,cannot tell,low,"Different features. P is at the rounded turn onto the plateau (~2030,3667), a clear bend. Q (2032,3595) is at a small (~4 px) recorder jog on the plateau, also a visible kink. Both marks are on real direction changes; they could be kept as two knees."
+131,yes,medium,A two-line fit of plateau and rise puts the knee at v ~3404 to 3412; the mark (v 3416) is on the line within ~8 px of it.
+132,no,low,"On the straight diagonal about 9 px below the corner (~1952,3224) where the trace turns into the near-vertical jog; this part overlaps the 200 lb grid line, which makes the bend look lower than it is."
+133,no,low,"On the straight diagonal about 9 px above the corner (~1942,3192) where the jog ends."
+134,yes,low,At the upper end of a short steeper bump (~41 deg at v 2994 dropping to ~24 deg by v 2976; bend centered v ~2981).
+135,yes,low,"About 6 px above the upper end of the short vertical jog (v ~2952 to 2943), where the line resumes ~23 deg."
+136,yes,low,"About 6 px below the bend (~1535,2391) where the line turns into a short near-vertical stretch (v 2392 to 2382)."
+137,yes,medium,At the bend where the short steeper bump (~40 deg at v 2376) turns into a near-vertical stretch (v 2367 to 2358).
+138,yes,low,"At the best single knee (v ~2068 to 2072), where the line turns from ~32 to ~24 deg; this is where the 600 lb grid line ends at the trace."
+139,no,low,No distinct direction change at the mark; fitted knees lie near v 2068 (item 138) and v ~2000 to 2010; only a tiny wiggle near v 2028.
+140,no,medium,"On a straight ~26 to 33 deg stretch; the bend (from near vertical to ~31 deg) is ~25 px below at ~(1231,1840)."
+141,all no,medium,"Q sample (2268,3766) is the frame corner, inside both frame lines; the solid line's last visible ink is at ~(2246 to 2254, 3758), ~15 px away."
+142,all yes,high,"P sample (983,1350) is on the trace's last ink above the 8 in grid line (row 1350 ink at u 979 to 984)."

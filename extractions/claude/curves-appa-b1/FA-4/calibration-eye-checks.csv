@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,value,label_center_u,label_center_v,fitted_line_at_label_px,offset_px,anchored,check,crop,note
+FA-4,1,y,50,50,790,1379,v 1382.6 (top frame),-3.6,yes,pass,crops/y50.png,"top frame line carries the label; first glyph has a squared top that looks like a 6 at low zoom, but its left side is open below the bowl, the same 5 as in 35 and 45"
+FA-4,1,y,45,45,792,1763,v 1765.5,-2.5,yes,pass,crops/y45.png,label centred on the interior line
+FA-4,1,y,40,40,780,2148,v 2151.6,-3.6,yes,pass,crops/y40.png,"label followed by a short underscore and dots reaching the frame along the line (print artefact)"
+FA-4,1,y,35,35,770,2532,v 2534.5,-2.5,yes,pass,crops/y35.png,label centred on the interior line
+FA-4,1,y,30,30,765,2907,v 2914.7,-7.7,yes,pass,crops/y30.png,"label sits a little high but within its own height of the line (label spans v 2887 to 2926); no other line nearby"
+FA-4,1,y,(none),25,,,v about 3309 (bottom frame),,no,not anchored,crops/y25.png,bottom frame line carries no printed label; left out of the calibration box (the curve stays above y = 40)
+FA-4,1,x,0,0,824,3370,u 825.3 (left frame),-1.3,yes,pass,crops/x0.png,"label under the left frame line; dotted leader to 0.2 is a print artefact"
+FA-4,1,x,0.2,0.2,1139,3370,u 1132.4,6.6,yes,pass,crops/x02.png,decimal point of the label under the line's stub below the frame
+FA-4,1,x,0.4,0.4,1448,3375,u 1443.4,4.6,yes,pass,crops/x04.png,decimal point under the line
+FA-4,1,x,0.6,0.6,1749,3378,u 1747.4,1.6,yes,pass,crops/x06.png,decimal point under the line
+FA-4,1,x,0.8,0.8,2070,3385,u 2065.6,4.4,yes,pass,crops/x08.png,decimal point under the line
+FA-4,1,x,1.0,1.0,2377,3390,u 2374.5,2.5,yes,pass,crops/x10.png,label under the right frame line

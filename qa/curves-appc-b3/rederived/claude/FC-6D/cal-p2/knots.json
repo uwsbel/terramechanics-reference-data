@@ -1,0 +1,761 @@
+{
+ "across_x": [
+  0.999856,
+  -0.016982
+ ],
+ "across_y": [
+  -0.011559,
+  -0.999933
+ ],
+ "x": [
+  {
+   "value": 0.0,
+   "s0_px": 711.55,
+   "tilt": -0.00067,
+   "location_error_px": 0.74,
+   "n_anchors": 17,
+   "ink_check": {
+    "positions": 25,
+    "found": [
+     [
+      2407.2,
+      0.34
+     ],
+     [
+      2432.1,
+      -0.03
+     ],
+     [
+      2469.6,
+      -0.07
+     ],
+     [
+      2507.1,
+      -0.14
+     ],
+     [
+      2532.1,
+      0.23
+     ],
+     [
+      2569.6,
+      -1.57
+     ],
+     [
+      2607.1,
+      0.43
+     ],
+     [
+      2632.1,
+      0.88
+     ],
+     [
+      2669.6,
+      -0.5
+     ],
+     [
+      2707.1,
+      0.12
+     ],
+     [
+      2732.1,
+      -0.2
+     ],
+     [
+      2769.6,
+      0.13
+     ],
+     [
+      2807.1,
+      -0.11
+     ],
+     [
+      2819.6,
+      -0.09
+     ],
+     [
+      2857.1,
+      -0.41
+     ],
+     [
+      2882.1,
+      -0.08
+     ],
+     [
+      2919.6,
+      -0.3
+     ],
+     [
+      2957.1,
+      0.16
+     ],
+     [
+      2982.1,
+      -0.17
+     ],
+     [
+      3019.6,
+      -0.66
+     ],
+     [
+      3057.1,
+      -0.15
+     ],
+     [
+      3082.0,
+      -0.53
+     ],
+     [
+      3119.5,
+      -0.64
+     ],
+     [
+      3157.1,
+      -0.61
+     ],
+     [
+      3182.0,
+      -0.13
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.97,
+    "ink_line_offset_px": [
+     0.26,
+     -0.45
+    ],
+    "ink_scatter_px": 0.29,
+    "set_aside": 1
+   }
+  },
+  {
+   "value": 50.0,
+   "s0_px": 1025.08,
+   "tilt": 0.00095,
+   "location_error_px": 0.76,
+   "n_anchors": 4,
+   "ink_check": {
+    "positions": 9,
+    "found": [
+     [
+      2442.1,
+      0.17
+     ],
+     [
+      2515.5,
+      -0.39
+     ],
+     [
+      2588.8,
+      -0.15
+     ],
+     [
+      2735.5,
+      -0.07
+     ],
+     [
+      2808.8,
+      -0.14
+     ],
+     [
+      2882.1,
+      0.73
+     ],
+     [
+      3028.8,
+      0.13
+     ],
+     [
+      3102.2,
+      0.5
+     ],
+     [
+      3175.5,
+      0.38
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.83,
+    "ink_line_offset_px": [
+     -0.24,
+     0.49
+    ],
+    "ink_scatter_px": 0.27,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 100.0,
+   "s0_px": 1316.32,
+   "tilt": 0.00118,
+   "location_error_px": 0.5,
+   "n_anchors": 4,
+   "ink_check": {
+    "positions": 9,
+    "found": [
+     [
+      2443.5,
+      0.16
+     ],
+     [
+      2516.9,
+      0.27
+     ],
+     [
+      2590.3,
+      -0.2
+     ],
+     [
+      2737.1,
+      -0.12
+     ],
+     [
+      2810.4,
+      -1.81
+     ],
+     [
+      2883.8,
+      -0.07
+     ],
+     [
+      3030.5,
+      -0.35
+     ],
+     [
+      3103.9,
+      0.4
+     ],
+     [
+      3177.2,
+      0.47
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.83,
+    "ink_line_offset_px": [
+     -0.03,
+     0.17
+    ],
+    "ink_scatter_px": 0.27,
+    "set_aside": 1
+   }
+  },
+  {
+   "value": 150.0,
+   "s0_px": 1613.68,
+   "tilt": -9e-05,
+   "location_error_px": 1.22,
+   "n_anchors": 4,
+   "ink_check": {
+    "positions": 9,
+    "found": [
+     [
+      2445.0,
+      0.25
+     ],
+     [
+      2518.4,
+      -0.57
+     ],
+     [
+      2591.8,
+      -1.79
+     ],
+     [
+      2738.6,
+      -0.33
+     ],
+     [
+      2812.0,
+      0.09
+     ],
+     [
+      2885.4,
+      -0.34
+     ],
+     [
+      3032.2,
+      -0.8
+     ],
+     [
+      3105.6,
+      -0.11
+     ],
+     [
+      3179.0,
+      0.17
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.83,
+    "ink_line_offset_px": [
+     -0.64,
+     -0.13
+    ],
+    "ink_scatter_px": 0.58,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 200.0,
+   "s0_px": 1907.45,
+   "tilt": -0.00016,
+   "location_error_px": 0.8,
+   "n_anchors": 4,
+   "ink_check": {
+    "positions": 9,
+    "found": [
+     [
+      2446.5,
+      0.35
+     ],
+     [
+      2519.9,
+      0.09
+     ],
+     [
+      2593.3,
+      1.15
+     ],
+     [
+      2740.2,
+      -0.18
+     ],
+     [
+      2813.6,
+      0.13
+     ],
+     [
+      2887.0,
+      0.18
+     ],
+     [
+      3033.8,
+      0.51
+     ],
+     [
+      3107.3,
+      -0.09
+     ],
+     [
+      3180.7,
+      0.15
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.83,
+    "ink_line_offset_px": [
+     0.45,
+     0.06
+    ],
+    "ink_scatter_px": 0.35,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 250.0,
+   "s0_px": 2204.73,
+   "tilt": -0.00187,
+   "location_error_px": 0.5,
+   "n_anchors": 4,
+   "ink_check": {
+    "positions": 9,
+    "found": [
+     [
+      2447.9,
+      -0.34
+     ],
+     [
+      2521.3,
+      0.07
+     ],
+     [
+      2594.8,
+      0.13
+     ],
+     [
+      2741.7,
+      -0.15
+     ],
+     [
+      2815.2,
+      -0.1
+     ],
+     [
+      2888.6,
+      0.09
+     ],
+     [
+      3035.5,
+      -0.67
+     ],
+     [
+      3109.0,
+      0.21
+     ],
+     [
+      3182.4,
+      0.0
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.83,
+    "ink_line_offset_px": [
+     -0.09,
+     -0.08
+    ],
+    "ink_scatter_px": 0.26,
+    "set_aside": 0
+   }
+  }
+ ],
+ "y": [
+  {
+   "value": -300.0,
+   "s0_px": -3242.54,
+   "tilt": -0.00063,
+   "location_error_px": 0.64,
+   "n_anchors": 5,
+   "ink_check": {
+    "positions": 12,
+    "found": [
+     [
+      1118.8,
+      -0.11
+     ],
+     [
+      1191.8,
+      -0.34
+     ],
+     [
+      1264.8,
+      -0.48
+     ],
+     [
+      1411.1,
+      0.28
+     ],
+     [
+      1484.4,
+      0.89
+     ],
+     [
+      1557.7,
+      -0.34
+     ],
+     [
+      1704.4,
+      0.34
+     ],
+     [
+      1777.8,
+      1.11
+     ],
+     [
+      1851.2,
+      -0.11
+     ],
+     [
+      1997.5,
+      0.57
+     ],
+     [
+      2070.4,
+      -0.42
+     ],
+     [
+      2143.3,
+      -0.89
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.88,
+    "ink_line_offset_px": [
+     0.06,
+     0.02
+    ],
+    "ink_scatter_px": 0.58,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 0.0,
+   "s0_px": -2363.79,
+   "tilt": 0.00061,
+   "location_error_px": 0.57,
+   "n_anchors": 5,
+   "ink_check": {
+    "positions": 12,
+    "found": [
+     [
+      1113.1,
+      -0.11
+     ],
+     [
+      1186.1,
+      -0.16
+     ],
+     [
+      1259.0,
+      -0.34
+     ],
+     [
+      1405.6,
+      -0.58
+     ],
+     [
+      1479.1,
+      0.27
+     ],
+     [
+      1552.7,
+      0.32
+     ],
+     [
+      1699.7,
+      0.19
+     ],
+     [
+      1773.1,
+      -0.09
+     ],
+     [
+      1846.5,
+      0.86
+     ],
+     [
+      1993.2,
+      -0.38
+     ],
+     [
+      2066.5,
+      0.43
+     ],
+     [
+      2139.8,
+      -1.12
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.88,
+    "ink_line_offset_px": [
+     -0.05,
+     -0.07
+    ],
+    "ink_scatter_px": 0.5,
+    "set_aside": 0
+   }
+  }
+ ],
+ "rejected_x": [],
+ "rejected_y": [],
+ "model": "piecewise between verified lines (D-025)",
+ "submitted_calibration": "extractions/claude/curves-appc-b3/FC-6D/cal-p2",
+ "recovered_lines": [
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "750.0",
+   "v": "2382.3",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "750.85",
+   "v": "2432.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "752.51",
+   "v": "2482.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "753.07",
+   "v": "2532.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "753.52",
+   "v": "2582.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "755.34",
+   "v": "2632.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "755.53",
+   "v": "2682.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "756.39",
+   "v": "2732.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "756.53",
+   "v": "2782.2",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "758.4",
+   "v": "2832.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "758.55",
+   "v": "2882.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "759.49",
+   "v": "2932.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "760.5",
+   "v": "2982.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "761.32",
+   "v": "3032.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "762.51",
+   "v": "3082.0",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "762.16",
+   "v": "3132.1",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  },
+  {
+   "figure_id": "FC-6D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "0",
+   "y_value": "",
+   "u": "762.99",
+   "v": "3182.0",
+   "x_source": "left frame, measured on the page (value 0 inferred: the first lower-panel symbols sit on it; D-025)",
+   "y_source": "",
+   "note": "the reader's calibration box left the frame out; recovered by Claude 2026-10-14, independently of the other reading"
+  }
+ ],
+ "image": "corpus/1968-vol2/images/p0134.png"
+}

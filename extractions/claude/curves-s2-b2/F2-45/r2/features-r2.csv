@@ -1,0 +1,13 @@
+series_id,role,u,v,bu,bv,note
+lpt95,first,2254,3583.5,6,5.5,solid line leaves the bottom frame near the origin corner (its lower edge merges with the frame at u 2252; the line is about 10 px thick here); bound widened along the line for where it separates from the frame
+lpt95,knee,2205,3566,10,6,end of the initial steep rise (about 12 lb at 0.1 in); the bend is gradual so the bound is widened along the line
+lpt95,kink,1878,3147.5,14,5,load step at nearly constant penetration: a short vertical stretch at u 1888 (v 3175 to 3148) then a horizontal jog to u 1868 at v 3147; point at the middle of the jog with the u bound spanning it
+lpt95,kink,1575,2744,17,5,load step at nearly constant penetration: horizontal jog at v 2744 from u 1588 to u 1561 followed by a vertical stretch at u 1561 (v 2743 to 2720); point at the middle of the jog with the u bound spanning it
+lpt95,kink,1494,2641.5,14,5,load step: vertical stretch at u 1502 (v 2657 to 2645) then a horizontal jog to u 1482 at v 2641 across the 125 lb grid line (u 1489); point at the middle of the jog with the u bound spanning it
+lpt95,knee,605,1653,10,7,start of a stiff stretch near 6.36 in (the line turns from steep to shallow on the page; the load rises about 9 lb between this knee and the next, 6.36 to 6.45 in); gradual bend so the bound is widened along the line
+lpt95,knee,548,1628,8,6,end of the stiff stretch near 6.45 in where the line steepens again on the page; just right of the 275 lb grid line (u 539)
+lpt95,peak,388,1476,6,6,maximum load: the line runs into the left frame (300 lb line) just below the top-left corner; the peak is at the end of the drawn line and the load beyond the frame cannot be seen
+lpt95,last,388,1476,6,6,the solid line ends where it runs into the left frame just below the top-left corner (its upper edge meets the top frame at u 390); line about 12 px thick here
+lpt79,first,2229.97,3559.42,6.1,7.6,first distinct dot (dot 1 of the chain); the next dot toward the origin seems merged with the solid line near u 2240 v 3573 and the one after would fall in the bottom frame
+lpt79,peak,1150.74,1687.87,6.3,8,maximum load: the last dot of the dotted line (left of the 175 lb grid line)
+lpt79,last,1150.74,1687.87,6.3,8,last dot of the dotted line (left of the 175 lb grid line); no dots beyond it

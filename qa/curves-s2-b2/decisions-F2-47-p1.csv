@@ -1,0 +1,17 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,lpt101,feature,2,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 110 (Claude's adjudicator: p; Codex's: p))
+1,lpt101,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 112 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt91,feature,2,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 113 (Claude's adjudicator: p; Codex's: p))
+1,lpt91,feature,4,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 114 (Claude's adjudicator: p; Codex's: p))
+1,lpt91,feature,5,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 115 (Claude's adjudicator: p; Codex's: p))
+1,lpt91,feature,6,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 116 (Claude's adjudicator: p; Codex's: p))
+1,lpt91,feature,9,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 118 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt91,feature,13,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 119 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt91,feature,15,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 120 (Claude's adjudicator: no; Codex's: no): The flattening ends at ~(1128,2865); P's mark is ~31 px later on a straight rise, where the trace crosses a short horizontal bar (v 2850 to 2854)."
+1,lpt91,feature,22,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 121 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt91,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 122 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt91,trace,41,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 123 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt91,trace,42,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 123 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt101,feature,12,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 036 (Claude's adjudicator: no; Codex's: no): Q is at the start of a dash; dashed lpt101 turns gradually out of its valley (dash directions about 0, 10, 20, 24 deg). The change into this dash falls in the g"
+1,lpt101,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 037 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt91,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 039 (Claude's adjudicator: all yes; Codex's: all yes)"

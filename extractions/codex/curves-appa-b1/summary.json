@@ -1,0 +1,134 @@
+[
+  {
+    "figure_id": "FA-4",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 3
+    },
+    "rms_x": 0.002057213632319158,
+    "rms_y": 0.02231738082547617,
+    "max_x": 0.004043455541742902,
+    "max_y": 0.03440018493386532,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.004026034087022845,
+        "max_abs_y": 0.024657939471964596
+      }
+    },
+    "extrapolated": 4
+  },
+  {
+    "figure_id": "FA-8",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 3
+    },
+    "rms_x": 0.003362209531174745,
+    "rms_y": 0.025888193172236507,
+    "max_x": 0.005477113505658715,
+    "max_y": 0.04543507696693183,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.005343963245793319,
+        "max_abs_y": 0.032936561267497666
+      }
+    },
+    "extrapolated": 4
+  },
+  {
+    "figure_id": "FA-20",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 3
+    },
+    "rms_x": 0.0019586575723651452,
+    "rms_y": 0.0234086687796409,
+    "max_x": 0.0033112071887101413,
+    "max_y": 0.04678250458267286,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.002693186292809984,
+        "max_abs_y": 0.04496839528044205
+      }
+    },
+    "extrapolated": 4
+  },
+  {
+    "figure_id": "FA-24",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 3
+    },
+    "rms_x": 0.0020722388305812176,
+    "rms_y": 0.02675487992740195,
+    "max_x": 0.004036498637741026,
+    "max_y": 0.04863086486454904,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.003991341965425943,
+        "max_abs_y": 0.02257346771906299
+      }
+    },
+    "extrapolated": 9
+  },
+  {
+    "figure_id": "FA-28",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 4
+    },
+    "rms_x": 0.003245289990668724,
+    "rms_y": 0.022175574903099803,
+    "max_x": 0.0048876077655687356,
+    "max_y": 0.04487213780136301,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.004618700535925673,
+        "max_abs_y": 0.04209098646602172
+      }
+    },
+    "extrapolated": 2
+  },
+  {
+    "figure_id": "FA-40",
+    "counts": {
+      "band-top/trace": 21,
+      "band-top/feature": 2,
+      "band-bottom/trace": 21,
+      "band-bottom/feature": 2
+    },
+    "rms_x": 0.0029487356934728252,
+    "rms_y": 0.01834954240552712,
+    "max_x": 0.004815301726613375,
+    "max_y": 0.03500271222524276,
+    "sensitivity": {
+      "band-bottom": {
+        "max_abs_x": 0.004492872604989873,
+        "max_abs_y": 0.026728881510599933
+      },
+      "band-top": {
+        "max_abs_x": 0.004651496582556369,
+        "max_abs_y": 0.01221332035689926
+      }
+    },
+    "extrapolated": 8
+  },
+  {
+    "figure_id": "FA-48",
+    "counts": {
+      "curve/trace": 21,
+      "curve/feature": 3
+    },
+    "rms_x": 0.0030735064007031956,
+    "rms_y": 0.03852267637702723,
+    "max_x": 0.006230359738237712,
+    "max_y": 0.06472521704969836,
+    "sensitivity": {
+      "curve": {
+        "max_abs_x": 0.006071598095054087,
+        "max_abs_y": 0.0628755378164314
+      }
+    },
+    "extrapolated": 5
+  }
+]

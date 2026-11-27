@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,value,label_center_u,label_center_v,fitted_line_at_label_px,offset_px,anchored,check,crop,note
+FA-20,1,y,50,50,774,1494,v 1493.1 (top frame),0.9,yes,pass,crops/y50.png,top frame line carries the label
+FA-20,1,y,45,45,780,1870,v 1876.6,-6.6,yes,pass,crops/y45.png,label sits a little high but within its own height of the line (label spans v 1852 to 1890)
+FA-20,1,y,40,40,780,2264,v 2266.0,-1.5,yes,pass,crops/y40.png,label centred on the interior line
+FA-20,1,y,35,35,770,2648,v 2646.7,1.3,yes,pass,crops/y35.png,label centred on the interior line; a few dots to its left (print artefact)
+FA-20,1,y,30,30,780,3032,v 3029.5,2.5,yes,pass,crops/y30.png,label centred on the interior line
+FA-20,1,y,(none),25,,,v about 3412 (bottom frame),,no,not anchored,crops/y25.png,bottom frame line carries no printed label; left out of the calibration box (the curve stays above y = 36)
+FA-20,1,x,0,0,828,3478,u 811.3 (left frame),16.7,yes,pass,crops/x0.png,"label printed 17 px right of the left frame line it labels; no other line within 280 px, so the assignment is unambiguous"
+FA-20,1,x,0.2,0.2,1122,3478,u 1115.1,6.9,yes,pass,crops/x02.png,decimal point a few px right of the line
+FA-20,1,x,0.4,0.4,1423,3478,u 1425.3,-2.3,yes,pass,crops/x04.png,decimal point under the line
+FA-20,1,x,0.6,0.6,1734,3478,u 1730.1,3.9,yes,pass,crops/x06.png,decimal point under the line
+FA-20,1,x,0.8,0.8,2055,3478,u 2048.3,6.7,yes,pass,crops/x08.png,decimal point a few px right of the line
+FA-20,1,x,1.0,1.0,2364,3478,u 2356.9,7.1,yes,pass,crops/x10.png,label a few px right of the right frame line

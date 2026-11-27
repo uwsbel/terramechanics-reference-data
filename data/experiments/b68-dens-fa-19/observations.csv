@@ -1,0 +1,36 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-dens-fa-19,lower,1,feature,1,-2.14e-05,9180.67,0.0042996,10.4777,-2.14e-05,58.44306,0.0042996,0.0667,none,pcf,751.6,1170.0,agreed,claude,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+b68-dens-fa-19,lower,1,feature,2,1.0000267,11852.1,0.004309,19.7113,1.0000267,75.44934,0.004309,0.12548,none,pcf,2317.6,2330.8,agreed,claude,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+b68-dens-fa-19,lower,1,trace,2,0.0999796,9394.13,0.0041166,11.4265,0.0999796,59.80192,0.0041166,0.07274,none,pcf,907.7,1287.2,agreed,claude,
+b68-dens-fa-19,lower,1,trace,3,0.2000204,9616.29,0.0042436,10.9207,0.2000204,61.21615,0.0042436,0.06952,none,pcf,1062.4,1403.8,agreed,claude,"the dash ends at the Dr 0.2 grid line (ink to its left edge, u 1060; none from u 1065)"
+b68-dens-fa-19,lower,1,trace,4,0.2999904,9848.34,0.0042771,10.8265,0.2999904,62.69334,0.0042771,0.06892,none,pcf,1220.3,1521.4,agreed,claude,
+b68-dens-fa-19,lower,1,trace,5,0.4000132,10088.8,0.0045011,13.1074,0.4000132,64.22381,0.0045011,0.08344,none,pcf,1373.9,1634.9,agreed,claude,
+b68-dens-fa-19,lower,1,trace,6,0.5000205,10354.5,0.0039787,13.5676,0.5000205,65.91532,0.0039787,0.08637,none,pcf,1531.6,1750.8,agreed,claude,a dash starts just left of the Dr 0.5 grid line (u about 1525)
+b68-dens-fa-19,lower,1,trace,7,0.600026,10624.8,0.0040511,12.845,0.600026,67.63608,0.0040511,0.08177,none,pcf,1688.0,1866.1,agreed,claude,
+b68-dens-fa-19,lower,1,trace,8,0.6999867,10910.6,0.0036481,14.1536,0.6999867,69.45555,0.0036481,0.0901,none,pcf,1846.4,1983.9,agreed,claude,"the dash ends at the Dr 0.7 grid line (ink to its left edge, u 1843; none from u 1850)"
+b68-dens-fa-19,lower,1,trace,9,0.799974,11203.0,0.0038488,14.9029,0.799974,71.31679,0.0038488,0.09487,none,pcf,2001.7,2098.2,agreed,claude,
+b68-dens-fa-19,lower,1,trace,10,0.8999797,11516.4,0.0036434,17.9127,0.8999797,73.312,0.0036434,0.11403,none,pcf,2158.6,2213.6,agreed,claude,
+b68-dens-fa-19,lower,1,trace,10,0.900009,11510.9,0.0032781,13.7342,0.900009,73.27724,0.0032781,0.08743,none,pcf,2158.63,2213.17,one-sided-verified,codex,"| decision: second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 014 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-dens-fa-19,lower,1,trace,11,0.9977113,11837.3,0.0037559,16.3685,0.9977113,75.35498,0.0037559,0.1042,none,pcf,2314.0,2328.04,one-sided-verified,codex,"last point; stroke meets plot frame | decision: second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 014 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-dens-fa-19,mean,1,feature,2,1.0000191,11027.5,0.0039513,13.2975,1.0000191,70.19978,0.0039513,0.08465,none,pcf,2313.9,2024.6,agreed,claude,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+b68-dens-fa-19,mean,1,trace,2,0.0999761,9248.21,0.0037818,9.67816,0.0999761,58.87299,0.0037818,0.06161,none,pcf,906.2,1206.4,agreed,claude,
+b68-dens-fa-19,mean,1,trace,3,0.199987,9416.19,0.00391,10.561,0.199987,59.94235,0.00391,0.06723,none,pcf,1060.4,1297.3,agreed,claude,
+b68-dens-fa-19,mean,1,trace,4,0.3000045,9592.57,0.0039396,9.91065,0.3000045,61.06513,0.0039396,0.06309,none,pcf,1217.9,1389.5,agreed,claude,
+b68-dens-fa-19,mean,1,trace,5,0.4000325,9769.36,0.0041642,9.66716,0.4000325,62.19057,0.0041642,0.06154,none,pcf,1371.1,1478.4,agreed,claude,
+b68-dens-fa-19,mean,1,trace,6,0.4999869,9952.78,0.0036519,10.9506,0.4999869,63.35818,0.0036519,0.06971,none,pcf,1528.5,1569.2,agreed,claude,
+b68-dens-fa-19,mean,1,trace,7,0.6000284,10154.6,0.0037254,11.9638,0.6000284,64.64278,0.0037254,0.07616,none,pcf,1684.4,1660.0,agreed,claude,
+b68-dens-fa-19,mean,1,trace,8,0.700022,10366.9,0.0033184,12.6534,0.700022,65.99437,0.0033184,0.08055,none,pcf,1842.6,1752.2,agreed,claude,
+b68-dens-fa-19,mean,1,trace,9,0.8000238,10580.1,0.0035204,11.5915,0.8000238,67.35135,0.0035204,0.07379,none,pcf,1997.4,1841.7,agreed,claude,
+b68-dens-fa-19,mean,1,trace,10,0.8999823,10794.8,0.0033085,12.6942,0.8999823,68.71823,0.0033085,0.08081,none,pcf,2154.1,1932.3,agreed,claude,
+b68-dens-fa-19,mean,1,trace,10,0.9000078,10792.9,0.0027798,10.6144,0.9000078,68.70604,0.0027798,0.06757,none,pcf,2154.11,1932.04,one-sided,codex,
+b68-dens-fa-19,upper,1,feature,1,-1.34e-05,8998.27,0.0039619,9.21004,-1.34e-05,57.2819,0.0039619,0.05863,none,pcf,749.6,1063.2,agreed,claude,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+b68-dens-fa-19,upper,1,feature,2,0.9999912,10218.2,0.0039166,11.6873,0.9999912,65.04793,0.0039166,0.0744,none,pcf,2309.7,1679.6,agreed,claude,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+b68-dens-fa-19,upper,1,trace,2,0.0999679,9108.35,0.0037813,9.47866,0.0999679,57.98265,0.0037813,0.06034,none,pcf,904.7,1126.0,agreed,claude,
+b68-dens-fa-19,upper,1,trace,3,0.1999893,9219.11,0.0039095,9.62318,0.1999893,58.68773,0.0039095,0.06126,none,pcf,1058.4,1187.8,agreed,claude,
+b68-dens-fa-19,upper,1,trace,4,0.2999749,9334.23,0.0039378,10.1337,0.2999749,59.42062,0.0039378,0.06451,none,pcf,1215.3,1250.4,agreed,claude,
+b68-dens-fa-19,upper,1,trace,5,0.400002,9445.89,0.0041637,10.5531,0.400002,60.13142,0.0041637,0.06718,none,pcf,1368.0,1309.6,agreed,claude,
+b68-dens-fa-19,upper,1,trace,6,0.5000007,9565.42,0.0036554,9.97662,0.5000007,60.89234,0.0036554,0.06351,none,pcf,1525.2,1371.3,agreed,claude,
+b68-dens-fa-19,upper,1,trace,7,0.6000121,9688.09,0.0037294,9.97348,0.6000121,61.67321,0.0037294,0.06349,none,pcf,1680.4,1432.7,agreed,claude,"a dash starts at the Dr 0.6 grid line (ink from its right edge, u 1684); gap u 1665 to 1677 left of it"
+b68-dens-fa-19,upper,1,trace,8,0.7000059,9812.97,0.0033208,9.78027,0.7000059,62.46817,0.0033208,0.06226,none,pcf,1838.3,1495.2,agreed,claude,
+b68-dens-fa-19,upper,1,trace,9,0.8000066,9938.17,0.0035233,10.927,0.8000066,63.26518,0.0035233,0.06956,none,pcf,1992.5,1556.1,agreed,claude,
+b68-dens-fa-19,upper,1,trace,10,0.9000101,10073.7,0.0033011,11.9528,0.9000101,64.12778,0.0033011,0.07609,none,pcf,2149.1,1617.3,agreed,claude,

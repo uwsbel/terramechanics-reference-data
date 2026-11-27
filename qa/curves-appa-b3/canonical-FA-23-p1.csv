@@ -1,0 +1,44 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FA-23,1,lower,feature,1,851.2,2515.4,4.0,4.0,,"first point (where the line's ink starts, at the Dr = 0 frame line)",7.4e-06,69.27764,0.0037898,0.08166,piecewise extrapolated x,agreed,claude,0.0005704,69.33219,,852.0,2518.45
+FA-23,1,lower,feature,2,2244.7,3543.8,4.0,4.0,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)",1.0000245,94.28344,0.0034698,0.13884,piecewise extrapolated x,agreed,claude,1.0000203,94.16496,,2244.8,3542.62
+FA-23,1,lower,feature,3,794.5,2503.5,45.5,17.5,,label: 69.2,-0.0422583,69.0574,0.0357746,0.32745,piecewise extrapolated x,agreed,claude,-0.0426305,69.0581,,794.0,2503.5
+FA-23,1,lower,feature,4,2339.5,3515.5,44.5,17.5,,label: 94.0,1.0658673,93.37785,0.0329545,0.66031,piecewise extrapolated x,agreed,claude,1.0677516,93.30549,,2342.0,3514.5
+FA-23,1,lower,trace,2,986.4,2617.4,4.0,4.0,,,0.0999757,71.19335,0.0034202,0.09123,piecewise,agreed,claude,0.0999757,71.1416,,986.5,2617.4
+FA-23,1,lower,trace,3,1137.0,2729.4,4.0,4.0,,"Dr 0.2 falls in a gap (u 1115 to 1136): the two dash ends are equally near (u 1114 is 11.6 px away, u 1137 11.4 px); moved to the dash start at u 1137 (rule 7)",0.2081564,73.33368,0.0034118,0.09256,piecewise,agreed,claude,0.208156,73.2863,,1137.1,2728.9
+FA-23,1,lower,trace,4,1259.0,2819.6,4.0,4.0,,"Dr 0.3 falls in a gap (u 1260 to 1279): moved to the nearer dash end, u 1259 (rule 7)",0.2955852,75.15105,0.0034199,0.11327,piecewise,agreed,claude,0.295585,75.0588,,1259.1,2816.1
+FA-23,1,lower,trace,5,1401.2,2924.7,4.0,4.0,,,0.3999789,77.47005,0.0034579,0.0994,piecewise,agreed,claude,0.399979,77.3833,,1401.3,2924.0
+FA-23,1,lower,trace,6,1540.2,3025.8,4.0,4.0,,"the dash ends at the Dr 0.5 grid line (ink to its left edge, u 1538)",0.500018,79.71879,0.0033607,0.10815,piecewise,agreed,claude,0.500018,79.6885,,1540.5,3024.8
+FA-23,1,lower,trace,7,1679.7,3128.3,4.0,4.0,,,0.6000151,82.24818,0.0033753,0.12582,piecewise,agreed,claude,0.600015,82.2097,,1680.0,3128.9
+FA-23,1,lower,trace,8,1821.2,3233.1,4.0,4.0,,,0.7000201,84.91009,0.0033206,0.11154,piecewise,agreed,claude,0.70002,84.8513,,1821.1,3231.4
+FA-23,1,lower,trace,9,1961.9,3337.1,4.0,4.0,,,0.8000274,88.03742,0.0034226,0.1439,piecewise,agreed,claude,0.800027,87.8316,,1962.0,3336.9
+FA-23,1,lower,trace,10,2098.7,3437.6,4.0,4.0,,"the dash ends at the Dr 0.9 grid line (ink to its left edge, u 2097)",0.9000296,90.83235,0.0038317,0.1414,piecewise,agreed,claude,0.90003,90.7939,,2097.0,3435.5
+FA-23,1,mean,feature,1,843.9,2015.7,4.5,4.5,,"first point (where the line's ink starts, at the Dr = 0 frame line)",8.9e-06,61.45934,0.0041749,0.07324,piecewise extrapolated x,agreed,claude,0.001628,61.52804,,846.0,2018.79
+FA-23,1,mean,feature,3,787.5,2012.0,44.5,18.0,,label: 61.4,-0.0421382,61.39893,0.0350364,0.26991,piecewise extrapolated x,agreed,claude,-0.0431543,61.41891,,786.0,2011.5
+FA-23,1,mean,feature,4,2337.0,3143.5,43.0,17.5,,label: 83.1,1.0674662,82.82806,0.0318798,0.4954,piecewise extrapolated x,agreed,claude,1.0675365,82.73103,,2337.0,3143.0
+FA-23,1,mean,trace,1,846.0,2018.79,5.0,5.0,,first point; stroke meets plot frame,0.001628,61.52804,0.004225,0.07896,piecewise extrapolated x,one-sided-verified,codex,,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 021 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FA-23,1,mean,trace,2,979.21,2130.02,4.5,4.5,,,0.099997,63.12312,0.00379,0.07464,piecewise,one-sided-verified,codex,,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 021 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FA-23,1,mean,trace,2,979.3,2130.6,4.5,4.5,,,0.100023,63.0867,0.0038014,0.07732,piecewise,agreed,claude,0.100023,63.1236,,979.2,2130.0
+FA-23,1,mean,trace,3,1118.6,2245.9,4.5,4.5,,,0.2000125,64.87272,0.0037844,0.08065,piecewise,agreed,claude,0.200013,64.8667,,1118.7,2245.3
+FA-23,1,mean,trace,4,1258.2,2360.8,4.5,4.5,,,0.3000284,66.78598,0.0039006,0.09174,piecewise,agreed,claude,0.300028,66.7215,,1258.4,2360.5
+FA-23,1,mean,trace,5,1393.9,2471.9,4.5,4.5,,,0.3999929,68.61977,0.0038494,0.08874,piecewise,agreed,claude,0.399993,68.6146,,1394.0,2471.5
+FA-23,1,mean,trace,6,1533.5,2585.4,4.5,4.5,,,0.4999986,70.69651,0.0037246,0.10458,piecewise,agreed,claude,0.499999,70.6607,,1533.7,2585.2
+FA-23,1,mean,trace,7,1672.9,2699.7,4.5,4.5,,,0.6000285,72.8605,0.0037519,0.09863,piecewise,agreed,claude,0.600028,72.8148,,1673.1,2698.8
+FA-23,1,mean,trace,8,1815.1,2817.2,4.5,4.5,,,0.700027,75.22571,0.0036838,0.12501,piecewise,agreed,claude,0.700027,75.1652,,1815.0,2815.3
+FA-23,1,mean,trace,9,1956.0,2933.0,4.5,4.5,,,0.8000195,77.75481,0.0037906,0.11048,piecewise,agreed,claude,0.800019,77.6524,,1956.0,2930.3
+FA-23,1,mean,trace,10,2093.2,3045.4,4.5,4.5,,,0.8999787,80.30641,0.0041976,0.12237,piecewise,agreed,claude,0.899979,80.1983,,2093.5,3040.7
+FA-23,1,mean,trace,10,2093.49,3040.74,5.0,5.0,,,0.8999803,80.19837,0.0040996,0.13247,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 022 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FA-23,1,upper,feature,1,834.6,1379.7,4.5,4.5,,"first point (where the line's ink starts, at the Dr = 0 frame line)",4.2e-06,53.85742,0.0041771,0.07003,piecewise extrapolated x y,agreed,claude,0.0012717,53.78673,,836,1377
+FA-23,1,upper,feature,2,2232.4,2622.1,4.5,4.5,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)",0.9999952,71.51563,0.0038116,0.10028,piecewise extrapolated x,agreed,claude,0.9982911,71.44946,,2230.0,2620.64
+FA-23,1,upper,feature,3,771.5,1378.5,44.5,17.5,,label: 53.6,-0.0472052,53.84006,0.0351041,0.20726,piecewise extrapolated x y,agreed,claude,-0.0379959,53.79235,,783.5,1378.0
+FA-23,1,upper,feature,4,2330.0,2609.0,45.0,18.0,,label: 71.2,1.0674061,71.29257,0.0332174,0.35829,piecewise extrapolated x,agreed,claude,1.0690866,71.24519,,2332.5,2608.5
+FA-23,1,upper,trace,1,836,1377,4,4,,first point; stroke meets plot frame; endpoint checked by eye,0.0012717,53.78673,0.0034631,0.05147,piecewise extrapolated x y,one-sided,codex,,,,,
+FA-23,1,upper,trace,2,970.0,1502.6,4.5,4.5,,,0.0999804,55.155,0.0038041,0.05546,piecewise,agreed,claude,0.0999804,55.1494,,969.9,1501.8
+FA-23,1,upper,trace,3,1102.0,1621.2,4.5,4.5,,"Dr 0.2 falls in a gap (u 1103 to 1120): moved to the nearer dash end, u 1102 (rule 7)",0.1946725,56.49694,0.0037885,0.06407,piecewise,agreed,claude,0.194672,56.5272,,1102.0,1621.8
+FA-23,1,upper,trace,4,1249.0,1752.8,4.5,4.5,,,0.3000172,58.1034,0.0039194,0.06779,piecewise,agreed,claude,0.300017,58.1175,,1249.2,1753.1
+FA-23,1,upper,trace,5,1384.2,1872.8,4.5,4.5,,,0.3999807,59.64304,0.0038677,0.07016,piecewise,agreed,claude,0.399981,59.6522,,1384.3,1873.0
+FA-23,1,upper,trace,6,1524.6,1997.4,4.5,4.5,,,0.5000057,61.30481,0.0037367,0.07238,piecewise,agreed,claude,0.500006,61.3309,,1524.8,1997.3
+FA-23,1,upper,trace,7,1656.0,2113.4,4.5,4.5,,"Dr 0.6 falls in a gap (u 1657 to 1679): moved to the nearer dash end, u 1656 (rule 7)",0.5945096,62.9399,0.0037653,0.07398,piecewise,agreed,claude,0.59451,62.981,,1656.3,2113.0
+FA-23,1,upper,trace,8,1806.7,2246.2,4.5,4.5,,,0.7000183,64.99481,0.0036821,0.0808,piecewise,agreed,claude,0.700018,64.9994,,1806.6,2246.5
+FA-23,1,upper,trace,9,1947.8,2371.5,4.5,4.5,,,0.8000072,67.07968,0.003779,0.08463,piecewise,agreed,claude,0.800007,67.0331,,1947.8,2372.0
+FA-23,1,upper,trace,10,2085.6,2493.5,4.5,4.5,,,0.9000067,69.12542,0.0041848,0.08944,piecewise,agreed,claude,0.900007,69.1358,,2085.7,2493.9
+FA-23,1,upper,trace,11,2230.0,2620.64,5.0,5.0,,last point; stroke meets plot frame,0.9982911,71.44946,0.0040378,0.10598,piecewise extrapolated x,one-sided-verified,codex,,,"second round (density charts): on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 024 (Claude's adjudicator: all yes; Codex's: all yes)",,

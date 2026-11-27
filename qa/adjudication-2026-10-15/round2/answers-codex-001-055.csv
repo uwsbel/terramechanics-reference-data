@@ -1,0 +1,56 @@
+item,answer,confidence,comment
+001,all no,high,"(740,3333) is inside the vertical frame, more than 2 px from the line's own ink."
+002,all yes,high,Both samples lie on the diagonal; the last is at its near-edge join with the horizontal grid line.
+003,some,high,"Off-line: (650,3567), inside the vertical frame. (797,3370) is on the diagonal."
+004,all no,high,"(658,3618) lies inside the frame; the diagonal becomes distinct beyond the 2 px allowance."
+005,all yes,medium,"Both samples are on the diagonal; (1826,2362) is just before the triangle base, on the line's own ink."
+006,all no,high,"(560,3559) is inside the vertical frame, about 3 px from distinct diagonal ink."
+007,all no,high,"(633,3597) is inside the vertical frame, beyond the 2 px allowance."
+008,all no,high,"(574,3720) is inside the vertical frame, beyond the 2 px allowance."
+009,some,high,"Off-line: (486,3715), inside the frame. (634,3573) is on the diagonal."
+010,some,high,"Off-line: (707,3680), inside the frame. (855,3575) is on the diagonal."
+011,all no,high,"(654,3488) is inside the vertical frame; the short visible diagonal starts farther right."
+012,all no,high,"(635,3604) is inside the vertical frame, about 3 px from distinct curve ink."
+013,all no,high,"(584,3688) is inside the vertical frame, beyond the 2 px allowance."
+014,all no,high,"(1949,2419) is on the triangle's bottom outline where the line merges with it; convention 8 applies."
+015,some,high,"Off-line: (712,3702), inside the frame. (858,3620) is on the diagonal."
+016,all yes,medium,"(2058,2944) is on the diagonal immediately before the triangle's left base corner."
+017,all no,high,"(635,3743) is at the frame corner, beyond the last separately visible diagonal ink."
+018,some,high,"Off-line: (688,3672), inside the frame. (835,3543) is on the diagonal."
+019,all yes,medium,"(880,2073) is outside the vertical frame; (953,2059) is within 2 px of visible curve ink at the grid join."
+020,all yes,medium,"(2508,1439) is within 2 px of the mean curve's last visible ink at the frame's near edge."
+021,all yes,high,"(995,2220) lies on the mean line beyond the circle's right outline."
+022,all yes,medium,"(961,2118) is within 2 px of the upper curve's first distinct ink at the frame's right edge."
+023,all yes,high,"(2340,2396) is within 2 px of the lower dash's last visible ink at the frame's left edge."
+024,all no,high,"(2322,2318) is on the circle's upper-left outline, rather than the mean line's own ink."
+025,all no,high,"(800,3171) lies inside the vertical frame, more than 2 px from distinct upper-curve ink."
+026,all yes,medium,"(602,2334) is at the band-bottom line's near-edge join with the frame, within 2 px of distinct ink."
+027,all yes,high,Both samples follow the bottom boundary; the last is immediately before the frame's left edge.
+028,all yes,high,"(595,1952) lies on the top boundary immediately outside the vertical frame."
+029,all yes,high,Both samples follow the top boundary up to the frame's near edge.
+030,all no,high,"(2408,1647) is deep in the vertical frame, more than 2 px beyond distinct lower-curve ink."
+031,all yes,medium,"(859,2452) is within 2 px of the upper curve's first distinct ink at the frame's right edge."
+032,all no,high,"(2404,1465) is inside the frame, about 3 px beyond the upper curve's own visible ink."
+033,all yes,high,"(799,2545) is on the rs dash just outside the vertical frame."
+034,all yes,medium,"All three samples follow the line; (1917,949) is just below and left of the circle's outline."
+035,all no,medium,"(965,2530) falls in the circle's right outline where it merges with the steep line; convention 8 applies."
+036,all yes,medium,"Both samples are on the line; (1956,1361) is below and left of the circle's outline."
+037,all yes,medium,"Both samples are on the diagonal; (1146,3476) is just beyond the circle's right outline."
+038,all yes,high,Both samples are on the drawn line; its end below the upper circle remains separately visible.
+039,all yes,medium,"Both samples are on the diagonal; (1946,2700) is immediately below and left of the lower ring's outline."
+040,all yes,high,Both samples lie on the steep line; the first is above the bottom tick and outside the frame.
+041,all yes,high,"(838,2146) is on the rising curve immediately outside the frame and above the horizontal grid line."
+042,all yes,high,Both samples are on the curve; the last is before the vertical frame's near edge.
+043,all yes,high,"(870,2063) lies on the curve just outside the vertical frame."
+044,all yes,high,"(2394,1634) lies on the curve before its near-edge join with the frame."
+045,all yes,high,"(818,2505) lies on the curve just outside the frame."
+046,all yes,high,"(2352,1765) lies on the curve before the frame's near edge."
+047,all yes,high,"(790,2145) lies on the curve immediately outside the frame."
+048,all yes,high,"(2328,1387) lies on the curve before the frame's near edge."
+049,all yes,medium,"(2303,2296) falls in a small white notch but is 2 px below curve ink at (2303,2294), within tolerance."
+050,all yes,high,"(798,2424) is on the band-bottom boundary just outside the frame."
+051,all yes,medium,"(2339,2412) is within 2 px of the bottom boundary's last visible ink at the frame's near edge."
+052,all yes,high,Both samples lie on the top boundary; the first is just outside the frame.
+053,all yes,medium,Both samples are on the top boundary or within 2 px of its last distinct ink at the frame's near edge.
+054,all yes,high,"(802,2540) is on the curve just outside the vertical frame."
+055,all yes,high,Both samples lie on the curve; the last is before the frame's near edge.

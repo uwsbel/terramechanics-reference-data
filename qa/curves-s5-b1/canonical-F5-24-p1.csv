@@ -1,0 +1,44 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+F5-24,1,pen,feature,2,2310.0,3532.0,3.625,3.625,,"first, trace joins the origin frame",0.00018154,0.023821,0.00017134,0.01716,piecewise,agreed,codex,0.00035356,0.01195,,2312.5,3527.8
+F5-24,1,pen,feature,25,1486.5,2592.0,4.875,4.875,,"knee, middle shoulder",0.03915379,3.348266,0.00022513,0.022116,piecewise,agreed,codex,0.04023721,3.409907,,1471.0,2566.0
+F5-24,1,pen,feature,33,1264.0,2092.0,4.625,4.625,,"knee, approach to the broad crest",0.05962614,4.230622,0.00021366,0.0217,piecewise,agreed,codex,0.06027744,4.244176,,1260.6,2076.0
+F5-24,1,pen,feature,39,1209.0,1562.0,4.375,4.375,,"peak, broad crest near .08 s",0.08125599,4.430024,0.003,0.026,piecewise,resolved,codex,0.08046449,4.431677,"after Codex's third review of the batch (2026-11-19): the peak sits on a flat top, the line within half a pixel of its extreme from about 0.078 to 0.082 s (the Claude reader's note); the canonical mark's time bound of 0.2 ms understated the uncertainty of its time, so the bounds are widened to take in Claude's reading of the flat top (0.0805 s within 0.0019 s); the height is the observation, the time a locator on the flat top; bounds widened to cover the other reading (use span)",1209.0,1581.0
+F5-24,1,pen,feature,5,1227.8,1110.0,4.0,4.0,none,last: end of the stroke's ink at the top frame (t = .1); hidden in the frame's ink beyond the inner edge,0.09982209,4.325726,0.00019014,0.01917,piecewise,resolved,claude,0.09994007,4.330463,"after round 2, Codex's review (finding 2) and a crop of each end of the line on the page with the line's own ink and the frame told apart (2026-11-19): Codex's last feature is at the same place, inside the top frame; Claude's (1227.8, 1110.0) is at the frame's near edge, on the line's last ink; the claude reading is on the feature",1226.5,1107.0
+F5-24,1,pen,trace,1,2310.0,3532.0,3.625,3.625,,trace joins the origin frame,0.00018154,0.023821,0.00017134,0.01716,piecewise,agreed,codex,0.000,0.012,,2312.5,3527.8
+F5-24,1,pen,trace,3,2271.0,3488.0,5.0,5.0,,ruling or frame meets trace; measured nearby stroke thickness,0.00200676,0.181532,0.00022978,0.02298,piecewise,agreed,codex,0.002,0.182,,2270.6,3488.0
+F5-24,1,pen,trace,4,2266.83,3484.19,4.875,4.875,,,0.00216513,0.198444,0.0002247,0.022469,piecewise,agreed,codex,0.002,0.199,,2266.5,3484.2
+F5-24,1,pen,trace,5,2219.41,3440.09,5.25,5.25,,,0.00399797,0.390717,0.00024159,0.024147,piecewise,agreed,codex,0.004,0.390,,2219.3,3440.0
+F5-24,1,pen,trace,6,2170.0,3392.0,4.875,4.875,,,0.00599592,0.590939,0.00022743,0.022707,piecewise,agreed,codex,0.006,0.593,,2169.3,3391.9
+F5-24,1,pen,trace,7,2120.15,3344.36,5.375,5.375,,,0.00797574,0.79299,0.00024962,0.024911,piecewise,agreed,codex,0.008,0.793,,2120.1,3344.2
+F5-24,1,pen,trace,8,2070.12,3296.0,4.875,4.875,,ruling or frame meets trace; measured nearby stroke thickness,0.00998546,0.995739,0.00022994,0.022925,piecewise,agreed,codex,0.010,0.989,,2071.7,3295.8
+F5-24,1,pen,trace,10,2024.5,3247.0,5.125,5.125,,,0.01200163,1.178653,0.00023787,0.023731,piecewise,agreed,codex,0.012,1.179,,2024.4,3246.8
+F5-24,1,pen,trace,11,1981.07,3197.51,4.625,4.625,,,0.01403664,1.352559,0.00021673,0.021638,piecewise,agreed,codex,0.014,1.355,,1980.5,3197.3
+F5-24,1,pen,trace,12,1938.35,3148.88,4.125,4.125,,,0.01603619,1.523591,0.00019561,0.019546,piecewise,agreed,codex,0.016,1.530,,1936.7,3148.7
+F5-24,1,pen,trace,13,1896.99,3100.61,4.5,4.5,,,0.01802041,1.689079,0.00021052,0.021062,piecewise,agreed,codex,0.018,1.694,,1895.9,3100.4
+F5-24,1,pen,trace,14,1852.55,3052.0,5.125,5.125,,ruling or frame meets trace; measured nearby stroke thickness,0.0200198,1.867037,0.00023834,0.023606,piecewise,agreed,codex,0.020,1.869,,1852.2,3051.8
+F5-24,1,pen,trace,15,1819.5,3014.0,5.0,5.0,,ruling or frame meets trace; measured nearby stroke thickness,0.02159911,1.999258,0.00023389,0.02349,piecewise,agreed,codex,0.022,1.998,,1820.0,3013.9
+F5-24,1,pen,trace,16,1770.5,2955.0,3.875,3.875,,,0.02405093,2.198946,0.0001882,0.018709,piecewise,agreed,codex,0.024,2.199,,1770.6,2954.9
+F5-24,1,pen,trace,17,1751.93,2932.49,4.625,4.625,,,0.02498652,2.274621,0.00021988,0.02183,piecewise,agreed,codex,0.025,2.274,,1752.3,2932.4
+F5-24,1,pen,trace,18,1721.8,2892.78,4.5,4.5,,,0.02663618,2.397222,0.00021545,0.021251,piecewise,agreed,codex,0.027,2.402,,1720.8,2892.8
+F5-24,1,pen,trace,19,1672.31,2834.16,5.375,5.375,,,0.02907417,2.598982,0.00025307,0.024843,piecewise,agreed,codex,0.029,2.599,,1672.5,2834.1
+F5-24,1,pen,trace,20,1652.68,2812.0,5.125,5.125,,ruling or frame meets trace; measured nearby stroke thickness,0.0299964,2.679073,0.00024304,0.023757,piecewise,agreed,codex,0.030,2.677,,1653.2,2812.0
+F5-24,1,pen,trace,21,1623.0,2776.0,4.625,4.625,,,0.0314955,2.800025,0.0002213,0.021603,piecewise,agreed,codex,0.031,2.802,,1622.6,2776.0
+F5-24,1,pen,trace,22,1573.5,2713.0,4.25,4.25,,ruling or frame meets trace; measured nearby stroke thickness,0.03411832,3.001549,0.00020337,0.019909,piecewise,agreed,codex,0.034,3.003,,1573.3,2713.0
+F5-24,1,pen,trace,23,1557.43,2691.54,4.25,4.25,,,0.03501153,3.065644,0.0002026,0.019542,piecewise,agreed,codex,0.035,3.069,,1556.6,2691.6
+F5-24,1,pen,trace,24,1523.0,2646.0,4.375,4.375,,,0.03690735,3.20299,0.00020618,0.020056,piecewise,agreed,codex,0.037,3.201,,1523.5,2646.1
+F5-24,1,pen,trace,26,1474.77,2572.0,4.625,4.625,,ruling or frame meets trace; measured nearby stroke thickness,0.03998508,3.394803,0.00021396,0.021086,piecewise,agreed,codex,0.040,3.395,,1474.7,2572.1
+F5-24,1,pen,trace,27,1473.68,2570.0,4.625,4.625,,ruling or frame meets trace; measured nearby stroke thickness,0.0400673,3.399119,0.00021302,0.021086,piecewise,agreed,codex,0.040,3.400,,1473.6,2570.1
+F5-24,1,pen,trace,28,1423.06,2476.72,5.0,5.0,,,0.04389297,3.599545,0.00022645,0.022631,piecewise,agreed,codex,0.044,3.600,,1422.9,2476.8
+F5-24,1,pen,trace,29,1408.93,2450.26,5.0,5.0,,,0.04497796,3.655466,0.00022643,0.022631,piecewise,agreed,codex,0.045,3.653,,1409.6,2450.4
+F5-24,1,pen,trace,30,1372.0,2370.0,4.875,4.875,,,0.04826612,3.800987,0.00022125,0.022115,piecewise,agreed,codex,0.048,3.800,,1372.2,2370.1
+F5-24,1,pen,trace,31,1352.73,2328.0,4.875,4.875,,ruling or frame meets trace; measured nearby stroke thickness,0.04998664,3.87691,0.00022123,0.022115,piecewise,agreed,codex,0.050,3.876,,1352.9,2328.1
+F5-24,1,pen,trace,32,1302.06,2204.63,4.75,4.75,,,0.05502778,4.078012,0.00021733,0.022228,piecewise,agreed,codex,0.055,4.082,,1301.2,2204.6
+F5-24,1,pen,trace,34,1261.59,2083.0,4.625,4.625,,ruling or frame meets trace; measured nearby stroke thickness,0.0599933,4.240179,0.00021467,0.0217,piecewise,agreed,codex,0.060,4.239,,1262.0,2082.9
+F5-24,1,pen,trace,35,1240.0,1961.0,4.625,4.625,,,0.06499061,4.323406,0.00021327,0.021703,piecewise,agreed,codex,0.065,4.324,,1240.0,1960.8
+F5-24,1,pen,trace,36,1225.55,1839.0,4.625,4.625,,ruling or frame meets trace; measured nearby stroke thickness,0.06998523,4.376791,0.0002117,0.021706,piecewise,agreed,codex,0.070,4.375,,1226.0,1838.7
+F5-24,1,pen,trace,37,1215.0,1716.0,4.625,4.625,,,0.07498388,4.413817,0.00021451,0.021709,piecewise,agreed,codex,0.075,4.413,,1215.2,1715.7
+F5-24,1,pen,trace,38,1209.0,1593.0,4.375,4.375,,ruling or frame meets trace; measured nearby stroke thickness,0.07998035,4.431815,0.00021088,0.020651,piecewise,agreed,codex,0.080,4.432,,1209.0,1592.8
+F5-24,1,pen,trace,40,1212.5,1471.0,4.125,4.125,,,0.08499995,4.410121,0.00020092,0.019593,piecewise,agreed,codex,0.085,4.411,,1212.4,1470.8
+F5-24,1,pen,trace,41,1218.0,1349.0,4.625,4.625,,ruling or frame meets trace; measured nearby stroke thickness,0.09001917,4.380049,0.00022179,0.021718,piecewise,agreed,codex,0.090,4.381,,1218.0,1348.8
+F5-24,1,pen,trace,42,1222.0,1228.0,4.625,4.625,,,0.09497982,4.356306,0.00021779,0.021721,piecewise,agreed,codex,0.095,4.357,,1221.9,1228.0
+F5-24,1,pen,trace,37,1227.8,1110.0,4.0,4.0,none,last trace sample: where the stroke's centerline meets the inner edge of the top frame (t = .1); the stroke's ink merges with the frame there,0.09982209,4.325726,0.00019014,0.01917,piecewise,one-sided-verified,claude,,,"after Codex's second review of the batch (2026-11-19) and a crop of the line's end on the page with its own ink and the frame told apart: Claude's last trace sample (1227.8, 1110.0) is on the line's distinct stroke at the top frame's near edge, just before it merges with the frame; verified on the page by Codex's second review",,

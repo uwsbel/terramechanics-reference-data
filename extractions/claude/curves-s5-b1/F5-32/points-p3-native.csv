@@ -1,0 +1,43 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F5-32,3,strut1,trace,1,2252.0,3491.5,3.3,3.3,,first ink of the trace,0.00025906,-8.7168,0.00027107,0.9191,piecewise
+F5-32,3,strut1,trace,2,2246.6,3488.5,4.4,4.4,,-10 lb level on a steep part; trace merging into the bottom frame (bound widened 1 px),0.00043795,-10.0046,0.00033563,1.1854,piecewise
+F5-32,3,strut1,trace,3,2225.7,3482.2,3.4,3.4,,-15 lb level on a steep part,0.00081798,-15.0013,0.00027424,0.9433,piecewise
+F5-32,3,strut1,trace,4,2199.0,3473.5,3.4,3.4,,"-20 lb level on a steep part; moved 6 px along the trace off the grid line it crosses here, to the trace's own ink",0.00134141,-21.361,0.00027169,0.9355,piecewise
+F5-32,3,strut1,trace,5,2183.5,3468.0,3.4,3.4,,-25 lb level on a steep part,0.00167148,-25.0051,0.00027009,0.9473,piecewise
+F5-32,3,strut1,trace,6,2163.6,3462.6,3.7,3.7,,t = 0.002 s,0.00199749,-29.6875,0.00028632,1.0343,piecewise
+F5-32,3,strut1,trace,7,2141.0,3454.0,3.3,3.3,,-35 lb level on a steep part,0.00251233,-34.9993,0.00026006,0.9559,piecewise
+F5-32,3,strut1,trace,8,2121.3,3428.8,3.0,3.0,,t = 0.004 s,0.00399964,-39.5876,0.00023525,0.8993,piecewise
+F5-32,3,strut1,trace,9,2117.5,3394.7,4.0,4.0,,t = 0.006 s; trace over a load grid line here (bound widened 1 px),0.00600203,-40.4036,0.00028526,1.1416,piecewise
+F5-32,3,strut1,trace,10,2113.7,3360.7,3.9,3.9,,t = 0.008 s; trace over a load grid line here (bound widened 1 px),0.00799834,-41.2192,0.00026999,1.1211,piecewise
+F5-32,3,strut1,trace,11,2107.6,3326.6,2.9,2.9,,t = 0.01 s,0.01000108,-42.5763,0.00020154,0.8878,piecewise
+F5-32,3,strut1,trace,12,2106.5,3292.7,2.9,2.9,,t = 0.012 s,0.01200136,-42.7554,0.00020154,0.8884,piecewise
+F5-32,3,strut1,trace,13,2113.0,3258.8,3.9,3.9,,t = 0.014 s; trace over a load grid line here (bound widened 1 px),0.01399912,-41.144,0.00026087,1.1202,piecewise
+F5-32,3,strut1,trace,14,2119.0,3224.8,3.9,3.9,,t = 0.016 s; trace over a load grid line here (bound widened 1 px),0.01600294,-39.6503,0.00026087,1.1139,piecewise
+F5-32,3,strut1,trace,15,2124.5,3190.9,3.0,3.0,,t = 0.018 s,0.01800104,-38.2735,0.00020747,0.8945,piecewise
+F5-32,3,strut1,trace,16,2127.5,3157.0,3.0,3.0,,t = 0.02 s,0.01999996,-37.4865,0.00020747,0.8919,piecewise
+F5-32,3,strut1,trace,17,2122.0,3071.8,2.9,2.9,,t = 0.025 s,0.02499926,-38.5832,0.00020039,0.8714,piecewise
+F5-32,3,strut1,trace,18,2114.5,3044.0,3.9,3.9,,-40 lb level on a steep part; moved off a break in the drawn line to the nearest ink; trace over a load grid line here (bound widened 1 px),0.02663237,-40.2856,0.00025937,1.1153,piecewise
+F5-32,3,strut1,trace,19,2094.0,2995.5,3.0,3.0,,-45 lb level on a steep part,0.02948394,-44.9947,0.00020628,0.9207,piecewise
+F5-32,3,strut1,trace,20,2090.1,2986.7,2.7,2.7,,t = 0.03 s,0.0300014,-45.8913,0.00018894,0.853,piecewise
+F5-32,3,strut1,trace,21,2072.2,2939.7,2.8,2.8,,-50 lb level on a steep part,0.0327693,-49.9898,0.00019485,0.8945,piecewise
+F5-32,3,strut1,trace,22,2066.5,2901.8,3.0,3.0,,t = 0.035 s,0.03499841,-51.2394,0.00020667,0.9475,piecewise
+F5-32,3,strut1,trace,23,2060.8,2816.7,3.0,3.0,,t = 0.04 s,0.04000127,-52.3749,0.00020667,0.952,piecewise
+F5-32,3,strut1,trace,24,2053.5,2731.4,3.0,3.0,,t = 0.045 s,0.04500043,-53.8849,0.00020601,0.9582,piecewise
+F5-32,3,strut1,trace,25,2044.5,2646.1,2.9,2.9,,t = 0.05 s,0.05000015,-55.7929,0.00020012,0.9422,piecewise
+F5-32,3,strut1,trace,26,2035.5,2560.4,3.0,3.0,,t = 0.055 s,0.05500201,-57.6983,0.00020747,0.9739,piecewise
+F5-32,3,strut1,trace,27,2026.5,2474.8,3.0,3.0,,t = 0.06 s,0.05999805,-59.6023,0.00021101,0.9855,piecewise
+F5-32,3,strut1,trace,28,2023.0,2389.7,4.0,4.0,,t = 0.065 s; trace over a load grid line here (bound widened 1 px),0.06499875,-60.2195,0.00026806,1.2293,piecewise
+F5-32,3,strut1,trace,29,2022.5,2304.6,3.0,3.0,,t = 0.07 s,0.06999847,-60.1278,0.00020773,0.9907,piecewise
+F5-32,3,strut1,trace,30,2020.5,2219.9,3.0,3.0,,t = 0.075 s,0.07500228,-60.3953,0.00020774,0.9902,piecewise
+F5-32,3,strut1,trace,31,2021.5,2135.3,4.0,4.0,,t = 0.08 s; trace over a load grid line here (bound widened 1 px),0.07999919,-59.9472,0.00026714,1.2325,piecewise
+F5-32,3,strut1,trace,32,2026.0,2050.0,3.0,3.0,,t = 0.085 s,0.08499831,-58.6858,0.00020617,0.9757,piecewise
+F5-32,3,strut1,trace,33,2032.0,1964.6,3.0,3.0,,t = 0.09 s,0.09000279,-57.0742,0.0002074,0.9683,piecewise extrapolated x
+F5-32,3,strut1,trace,34,2041.0,1879.3,2.5,2.5,,t = 0.095 s,0.09500042,-54.7622,0.00020722,0.8392,piecewise extrapolated x
+F5-32,3,strut1,trace,35,2050.5,1794.0,3.0,3.0,,t = 0.1 s,0.09999789,-52.3353,0.00026634,0.947,piecewise extrapolated x
+F5-32,3,strut1,trace,36,2057.5,1741.5,2.5,2.5,,last ink of the trace,0.10307332,-50.573,0.00025483,0.8205,piecewise extrapolated x
+F5-32,3,strut1,feature,1,2270.0,3495.0,18.0,3.0,,"first: the trace's ink runs into the bottom frame at u about 2252 and is hidden in the frame line from there to the corner with the 0 lb line (u 2288); it reaches t = 0 somewhere on that stretch (between about -8 lb and 0 lb), hence the wide u bound",4.475e-05,-4.4089,0.0002627,4.4437,piecewise extrapolated x
+F5-32,3,strut1,feature,2,2123.5,3434.0,4.0,4.0,,"knee: end of the initial steep rise, where the trace turns onto the -40 lb grid line, about -39 lb at t about 0.0037 s (trace over the grid line)",0.00369359,-39.0809,0.00029606,1.1366,piecewise
+F5-32,3,strut1,feature,3,2105.5,3307.0,2.5,2.5,,peak: about -43.0 lb at t about 0.011 s,0.01115807,-43.0248,0.00017781,0.794,piecewise
+F5-32,3,strut1,feature,4,2128.0,3135.0,2.5,2.5,,"knee, minimum: about -37.3 lb at t about 0.021 s",0.02129022,-37.3169,0.00017679,0.7718,piecewise
+F5-32,3,strut1,feature,5,2020.5,2274.0,4.0,4.0,,"peak: broad flat top on the -60 lb grid line, about -60.5 lb; the trace stays within 0.5 lb of it from t about 0.063 to 0.079 s (merged with the grid line), so its t is ill defined",0.07180664,-60.5294,0.00026714,1.2291,piecewise
+F5-32,3,strut1,feature,6,2057.5,1741.5,2.5,2.5,,"last: top of the trace's ink, t about 0.103 s, beyond the printed 0.10 (extrapolated in t)",0.10307332,-50.573,0.00025483,0.8205,piecewise extrapolated x

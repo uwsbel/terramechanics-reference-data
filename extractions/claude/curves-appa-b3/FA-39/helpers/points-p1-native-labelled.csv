@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-39,1,upper,trace,1,870.5,1934.7,4,4,dashed line,"left end: the line meets the left frame (Dr = 0); its first visible ink is at the frame's inner edge (u 877), sample on the frame centre",-0.0001574,66.45058,0.0034757,0.0737,piecewise extrapolated x
+FA-39,1,upper,trace,2,1010.6,2038.4,4,4,dashed line,"Dr 0.1 crossing, on the dash (u 979 to 1070)",0.1001766,68.17446,0.0034445,0.07792,piecewise
+FA-39,1,upper,trace,3,1147.2,2139.2,4,4,dashed line,"Dr 0.2 crossing, on the dash (u 1087 to 1177)",0.1997377,69.94,0.0033485,0.08215,piecewise
+FA-39,1,upper,trace,4,1286.8,2242.1,4,4,dashed line,"Dr 0.3 crossing, on the dash (it ends at u 1288, just past the grid line)",0.2996629,71.82157,0.0033362,0.08554,piecewise
+FA-39,1,upper,trace,5,1424.0,2342.1,4,4,dashed line,"Dr 0.4 crossing, on the dash (u 1406 to 1504)",0.3997587,73.74679,0.0035918,0.08969,piecewise
+FA-39,1,upper,trace,6,1563.3,2443.6,4,4,dashed line,"Dr 0.5 crossing, on the dash (u 1526 to 1608)",0.4998356,75.82069,0.0033681,0.09774,piecewise
+FA-39,1,upper,trace,7,1703.3,2544.4,4,4,dashed line,"Dr 0.6 crossing, on the dash (u 1628 to 1717)",0.5999526,78.02295,0.0035373,0.10758,piecewise
+FA-39,1,upper,trace,8,1837.0,2640.4,4,4,dashed line,"Dr 0.7: the crossing (u 1843.6) is in a dash gap (u 1838 to 1854, the grid line inside it); moved to the nearest dash end, the end of the previous dash (u 1837, 7 px; the next starts at u 1855, 11 px)",0.6951914,80.24112,0.0034384,0.11508,piecewise
+FA-39,1,upper,trace,9,1982.9,2746.0,4,4,dashed line,"Dr 0.8 crossing, on the dash (u 1946 to 1998)",0.8003133,82.80164,0.0034871,0.11708,piecewise
+FA-39,1,upper,trace,10,2120.7,2846.3,4,4,dashed line,"Dr 0.9 crossing, on the dash (it ends at u 2125, just past the grid line)",0.8999239,85.39745,0.0033143,0.12164,piecewise
+FA-39,1,upper,trace,11,2259.9,2947.7,4,4,dashed line,right end: the line meets the right frame (Dr = 1.0); the 88.1 leader starts outside the frame at its level,1.0003476,88.22411,0.0034908,0.13113,piecewise extrapolated x
+FA-39,1,upper,feature,1,870.5,1934.7,4,4,dashed line,first point,-0.0001574,66.45058,0.0034757,0.0737,piecewise extrapolated x
+FA-39,1,upper,feature,2,2259.9,2947.7,4,4,dashed line,last point,1.0003476,88.22411,0.0034908,0.13113,piecewise extrapolated x
+FA-39,1,upper,feature,3,672.5,1914.5,5,5,label,"label: 66.6 (left end; leader ends at u 855, v 1937, where the upper line meets the frame)",-0.1427629,66.11211,0.0056648,0.08887,piecewise extrapolated x
+FA-39,1,upper,feature,4,2436.5,2949,5,5,label,"label: 88.1 (right end; horizontal leader at v 2946, from u 2276)",1.1287025,88.29056,0.0053707,0.16023,piecewise extrapolated x
+FA-39,1,mean,trace,1,871.2,2007.9,4,4,solid line,left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 877),-9.43e-05,67.64963,0.0034744,0.0766,piecewise extrapolated x
+FA-39,1,mean,trace,2,1011.2,2111.7,4,4,solid line,Dr 0.1 crossing,0.1001468,69.43955,0.0034442,0.08106,piecewise
+FA-39,1,mean,trace,3,1147.9,2212.9,4,4,solid line,Dr 0.2 crossing,0.1997688,71.26814,0.0033482,0.08441,piecewise
+FA-39,1,mean,trace,4,1287.5,2315.9,4,4,solid line,Dr 0.3 crossing,0.2996521,73.22327,0.003336,0.08859,piecewise
+FA-39,1,mean,trace,5,1424.7,2416.5,4,4,solid line,Dr 0.4 crossing,0.3997484,75.24055,0.003592,0.09518,piecewise
+FA-39,1,mean,trace,6,1564.0,2517.3,4,4,solid line,Dr 0.5 crossing,0.4998591,77.4076,0.003369,0.10476,piecewise
+FA-39,1,mean,trace,7,1704.0,2618.3,4,4,solid line,Dr 0.6 crossing,0.5999339,79.70973,0.0035358,0.11536,piecewise
+FA-39,1,mean,trace,8,1844.4,2719.7,4,4,solid line,Dr 0.7 crossing,0.6999463,82.13494,0.0034716,0.11652,piecewise
+FA-39,1,mean,trace,9,1983.7,2821.4,4,4,solid line,Dr 0.8 crossing,0.8003076,84.71847,0.0034883,0.11845,piecewise
+FA-39,1,mean,trace,10,2121.5,2921.7,4,4,solid line,Dr 0.9 crossing,0.8999525,87.46491,0.0033154,0.12856,piecewise
+FA-39,1,mean,trace,11,2260.5,3023.1,4,4,solid line,right end: the line meets the right frame (Dr = 1.0); the 90.2 leader starts outside the frame at its level,1.0004127,90.42677,0.0034977,0.13648,piecewise extrapolated x
+FA-39,1,mean,feature,1,871.2,2007.9,4,4,solid line,first point,-9.43e-05,67.64963,0.0034744,0.0766,piecewise extrapolated x
+FA-39,1,mean,feature,2,2260.5,3023.1,4,4,solid line,last point,1.0004127,90.42677,0.0034977,0.13648,piecewise extrapolated x
+FA-39,1,mean,feature,3,676.5,1966,5,5,label,"label: 67.8 (left end; leader ends at u 855, v 2009)",-0.1401707,66.94229,0.0056375,0.09127,piecewise extrapolated x
+FA-39,1,mean,feature,4,2437,3027,5,5,label,label: 90.2 (right end; leader drawn through the right-axis label 90),1.1289231,90.57276,0.0053829,0.16685,piecewise extrapolated x
+FA-39,1,lower,trace,1,871.9,2083.7,4,4,dashed line,left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 877),-4.68e-05,68.93774,0.0034732,0.07977,piecewise extrapolated x
+FA-39,1,lower,trace,2,1011.9,2186.3,4,4,dashed line,"Dr 0.1 crossing, on the dash (u 969 to 1061)",0.100182,70.76982,0.0034439,0.0834,piecewise
+FA-39,1,lower,trace,3,1148.5,2286.9,4,4,dashed line,"Dr 0.2 crossing, on the dash (u 1085 to 1197)",0.1997245,72.6528,0.0033479,0.0874,piecewise
+FA-39,1,lower,trace,4,1288.2,2388.9,4,4,dashed line,"Dr 0.3 crossing, on the dash (u 1216 to 1343)",0.2996469,74.66465,0.0033359,0.09178,piecewise
+FA-39,1,lower,trace,5,1425.4,2488.0,4,4,dashed line,"Dr 0.4 crossing, on the dash (u 1360 to 1498)",0.3997586,76.75485,0.0035922,0.10181,piecewise
+FA-39,1,lower,trace,6,1564.7,2588.1,4,4,dashed line,"Dr 0.5 crossing, on the dash (u 1515 to 1639)",0.4999015,78.99591,0.0033699,0.112,piecewise
+FA-39,1,lower,trace,7,1704.8,2688.2,4,4,dashed line,"Dr 0.6 crossing, on the dash (u 1664 to 1810)",0.6000153,81.35469,0.0035345,0.11588,piecewise
+FA-39,1,lower,trace,8,1845.1,2788.9,4,4,dashed line,"Dr 0.7 crossing, on the dash (u 1829 to 1942)",0.6999653,83.86139,0.0034702,0.11778,piecewise
+FA-39,1,lower,trace,9,1984.5,2889.5,4,4,dashed line,"Dr 0.8 crossing, on the dash (u 1964 to 2058)",0.8003589,86.54793,0.0034893,0.12547,piecewise
+FA-39,1,lower,trace,10,2122.2,2988.6,4,4,dashed line,"Dr 0.9 crossing, on the dash (u 2083 to 2176)",0.8999708,89.38494,0.0033163,0.13515,piecewise
+FA-39,1,lower,trace,11,2261.0,3088.9,4,4,dashed line,right end: the line meets the right frame (Dr = 1.0); the 92.3 leader starts outside the frame at its level,1.0004526,92.41988,0.0035037,0.14149,piecewise extrapolated x
+FA-39,1,lower,feature,1,871.9,2083.7,4,4,dashed line,first point,-4.68e-05,68.93774,0.0034732,0.07977,piecewise extrapolated x
+FA-39,1,lower,feature,2,2261.0,3088.9,4,4,dashed line,last point,1.0004526,92.41988,0.0035037,0.14149,piecewise extrapolated x
+FA-39,1,lower,feature,3,674.5,2019,5,5,label,"label: 69.0 (left end; leader ends at u 864, v 2084)",-0.1419116,67.8182,0.0056545,0.09383,piecewise extrapolated x
+FA-39,1,lower,feature,4,2433.5,3081,5,5,label,"label: 92.3 (right end; horizontal leader at v 3088, from u 2274)",1.1262718,92.20671,0.0053663,0.17204,piecewise extrapolated x

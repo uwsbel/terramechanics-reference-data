@@ -1,0 +1,4 @@
+figure_id,panel,series_id,after,before,gap_u1,gap_v1,gap_u2,gap_v2,reason
+F5-25,3,strut1,claude|21,claude|22,1960.3,3294.7,1962.0,3291.1,"a break in the drawn line at about 0.0138 to 0.0140 s, about 4 px of the page with no ink, the line resuming about 1.5 px to the side; seen by the Claude reader and in Codex's review, confirmed on the page; the line is not drawn across it"
+F5-32,1,strut3,claude|9,claude|10,1326.3,3349.4,1328.9,3346.9,"a break in the drawn line at about 0.0089 to 0.0091 s, about 4 px of the page with no ink; seen by the Claude reader and in Codex's review, confirmed on the page; the line is not drawn across it"
+F5-32,3,strut1,claude|17,claude|18,2116.9,3053.0,2116.1,3050.1,"a break in the drawn line at about 0.0261 to 0.0263 s, about 4 px of the page with no ink; seen by the Claude reader and in Codex's review, confirmed on the page; the line is not drawn across it"

@@ -1,0 +1,4 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+3,strut1,feature,24,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 027 (Claude's adjudicator: yes; Codex's: yes)
+3,strut1,trace,1,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 028 (Claude's adjudicator: all yes; Codex's: all yes)"
+3,strut1,feature,1,claude,resolved,codex,"after round 2, Codex's review (finding 2) and a crop of each end of the line on the page with the line's own ink and the frame told apart (2026-11-19): Claude's first feature (2270.0, 3495.0) is on the bottom frame, past the end of the trace's ink at about u 2262 (a row of the frame's edge, not the trace, lies under it); Codex's (2264.0, 3493.0) is where the trace's ink ends, as both adjudicators found for Codex's first trace sample there (round 1 item 028); the codex reading is on the feature"

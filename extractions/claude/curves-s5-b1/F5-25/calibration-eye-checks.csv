@@ -1,0 +1,26 @@
+figure_id,panel,axis,label_as_printed,value_anchored,line_px,label_center_px,offset_px,check,note
+F5-25,1,"y (load, lb)",+60,60,u = 991.9 at v 3575,u = 992.0,0.1,ok,plus sign whole
+F5-25,1,"y (load, lb)",+40,40,u = 1076.8 at v 3575,u = 1082.0,5.2,ok,label printed 5 px toward +60 from its line (line spacing 86 px); names this line unambiguously
+F5-25,1,"y (load, lb)",+20,20,u = 1163.1 at v 3575,u = 1163.0,-0.1,ok,"plus sign incomplete: read upright, the lower half of its vertical stroke is missing, so at low zoom it can pass for -20; read +20 at zoom 8, and +20 is also what the sequence gives"
+F5-25,1,"y (load, lb)",0,0,u = 1248.7 at v 3575,u = 1248.0,-0.7,ok,this line is also the left boundary of panel 2
+F5-25,2,"y (load, lb)",-60,60,u = 1418.3 at v 3575,u = 1418.0,-0.3,"slip, anchored from the sequence","printed with a minus sign (read upright, a bare horizontal bar with 1 px bumps at its middle, unlike the full plus of +40 and +20 beside it); the sequence 0, +20, +40 and the (Tension) title make it +60; anchored at +60"
+F5-25,2,"y (load, lb)",+40,40,u = 1501.3 at v 3575,u = 1502.0,0.7,ok,
+F5-25,2,"y (load, lb)",+20,20,u = 1587.4 at v 3575,u = 1586.0,-1.4,ok,
+F5-25,2,"y (load, lb)",0,0,u = 1672.7 at v 3575,u = 1671.0,-1.7,ok,this line is also the left boundary of panel 3
+F5-25,3,"y (load, lb)",-100,-100,u = 1843.4 at v 3575,u = 1842.0,-1.4,ok,
+F5-25,3,"y (load, lb)",-80,-80,u = 1927.6 at v 3575,u = 1928.0,0.4,ok,
+F5-25,3,"y (load, lb)",-60,-60,u = 2013.7 at v 3575,u = 2012.5,-1.2,ok,
+F5-25,3,"y (load, lb)",-40,-40,u = 2099.7 at v 3575,u = 2102.0,2.3,ok,
+F5-25,3,"y (load, lb)",-20,-20,u = 2184.8 at v 3575,u = 2187.0,2.2,ok,
+F5-25,3,"y (load, lb)",0,0,u = 2269.1 at v 3575,u = 2271.0,1.9,ok,this 0 line is the right frame of the figure (6 px thick)
+F5-25,1-3,"x (time, s)",0,0.0,v = 3531.6 at u 2310,v = 3531.0,-0.6,ok,"printed once, right of panel 3, for all three panels; the t = 0 line is the baseline (bottom frame), 5 to 9 px thick and slightly bent across the figure; each panel uses the stretch under it"
+F5-25,1-3,"x (time, s)",.01,0.01,v = 3360.7 at u 2310,v = 3362.0,1.3,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.02,0.02,v = 3192.4 at u 2310,v = 3192.0,-0.4,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.03,0.03,v = 3021.2 at u 2310,v = 3022.0,0.8,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.04,0.04,v = 2850.0 at u 2310,v = 2850.5,0.5,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.05,0.05,v = 2679.8 at u 2310,v = 2680.5,0.7,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.06,0.06,v = 2509.2 at u 2310,v = 2510.5,1.3,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.07,0.07,v = 2339.9 at u 2310,v = 2340.0,0.1,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",.08,0.08,v = 2169.2 at u 2310,v = 2168.5,-0.7,ok,"printed once, right of panel 3, for all three panels"
+F5-25,1-3,"x (time, s)",(damaged: fragments only),0.09,v = 1996.8 at u 2310,v = 2000.5,3.7,"damaged label, anchored from the sequence","printed once, right of panel 3, for all three panels; the label's ink is mostly missing: a small hook (v 1983 to 1990), a curved stroke (v 1998 to 2010) and the decimal point (v 2015 to 2018), at u 2316 to 2323; its line (dashes at u 747 to 809 and 2208 to 2239) sits one spacing above .08 and below .10, so it is the .09 line; anchored at 0.09"
+F5-25,1-3,"x (time, s)",.10,0.1,v = 1827.9 at u 2310,v = 1830.0,2.1,ok,"printed once, right of panel 3, for all three panels; the last time line: the load lines of panels 2 and 3 stop at it; the frame continues above it around the inset"

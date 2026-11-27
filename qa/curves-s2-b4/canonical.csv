@@ -1,0 +1,297 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+F2-54,1,r53958,feature,1,866.3,3031.0,6.8,6.8,,"first: where the trace meets the -20 ms timing line, the first timing line right of the break marks (its ink continues left to the break marks, off the time base); on the line's ink, interpolated across it",-19.9995,-0.13821,0.47262,0.81989,piecewise extrapolated x y,agreed,claude,-20.00344,-0.13186,,865.65,3031.03
+F2-54,1,r53958,feature,17,853.0,2569.0,6.0,5.0,,"knee, onset: where the trace leaves its pre-impact level; the corner is not inked: a white gap of about 10 px where the baseline (last ink at u 856-860, v 2574), the 10 ms timing line (broken at u 843-855) and the dashed line meet; the rise's first ink is at u 844-846, v 2563-2566; placed in the gap, bound covering it",10.07268,0.55305,0.37194,0.6683,piecewise,agreed,claude,10.35604,1.62058,,841.0,2565.0
+F2-54,1,r53958,feature,31,652.0,2534.5,4.5,10.0,,"peak: main peak; the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5); centerline = outer edge + half the 9 px stroke; above the ruler's top label (20 g)",12.49205,20.07704,0.70318,0.60389,piecewise extrapolated y,agreed,claude,12.46354,20.03502,,652.0,2535.0
+F2-54,1,r53958,feature,47,790.5,2388.0,4.0,39.0,,"knee, minimum: local minimum after the main peak; the trace stays within half a stroke width of this level over t 20.8 to 24.6 ms",22.1249,6.43607,2.54891,0.48657,piecewise,agreed,claude,22.37577,6.39664,,791.0,2384.0
+F2-54,1,r53958,feature,51,779.0,2289.0,7.3,10.3,,"knee: the slow climb after the minimum turns steeper toward the second peak; break of a two-line fit over t 25.5 to 30.5 ms, its place along the curve known to a few px",28.46872,7.41805,0.69489,0.77697,piecewise,agreed,claude,28.85805,7.46199,,779.0,2283.0
+F2-54,1,r53958,feature,53,760.0,2247.0,4.5,67.0,,"peak: second, lower peak; the trace turns sharply here, near the 30 ms timing line; the trace stays within half a stroke width of this level over t 30.5 to 35.7 ms",31.21074,9.17927,4.49258,0.56994,piecewise,agreed,claude,31.48184,9.12569,,761.0,2243.0
+F2-54,1,r53958,feature,68,806.0,1812.0,7.5,10.5,,"knee: the decay steepens; break of a two-line fit over t 54 to 66 ms, its place along the curve known to a few px",59.21861,4.26099,0.71847,0.88127,piecewise,resolved,claude,60.44867,3.97222,the claude reading is on the feature; credit claude (blind adjudication item 001 (Claude's adjudicator: p; Codex's: p)),809.0,1793.0
+F2-54,1,r53958,feature,74,841.5,1644.0,9.8,12.8,,"knee: the decay ends; the trace runs on along the dashed line to the frame; break of a two-line fit over t 64 to 76 ms, its place along the curve known to a few px; trace runs on or against the dashed line here",69.53964,0.58929,0.8263,1.04702,piecewise extrapolated y,agreed,claude,69.02597,0.95617,,839.0,1652.0
+F2-54,1,r53958,trace,2,866.3,3031.0,7.0,7.0,,t = -20 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the -20 ms timing line: interpolated across the line's ink,-19.9995,-0.13821,0.48558,0.83977,piecewise extrapolated x y,agreed,claude,-20.000,-0.132,,865.7,3031.0
+F2-54,1,r53958,trace,3,865.8,2999.6,4.5,4.5,,t = -18 ms,-17.99887,-0.12721,0.32355,0.59014,piecewise extrapolated y,agreed,claude,-17.999,-0.170,,865.7,2999.6
+F2-54,1,r53958,trace,4,865.5,2968.2,4.0,4.0,,t = -16 ms,-15.99835,-0.13403,0.29335,0.54114,piecewise extrapolated y,agreed,claude,-15.998,-0.176,,865.5,2968.3
+F2-54,1,r53958,trace,5,865.0,2936.8,4.4,4.4,,t = -14 ms,-13.99772,-0.12304,0.32109,0.57977,piecewise extrapolated y,agreed,claude,-13.998,-0.154,,864.9,2937.0
+F2-54,1,r53958,trace,6,864.0,2905.5,3.5,3.5,,t = -12 ms,-12.00314,-0.06739,0.26513,0.4846,piecewise extrapolated y,agreed,claude,-12.003,-0.101,,864.0,2905.7
+F2-54,1,r53958,trace,7,863.7,2874.1,6.0,6.0,,t = -10 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the -10 ms timing line: interpolated across the line's ink,-10.00262,-0.07421,0.44024,0.7338,piecewise extrapolated y,agreed,claude,-10.003,-0.107,,863.7,2874.4
+F2-54,1,r53958,trace,8,863.0,2843.6,4.5,4.5,,t = -8 ms,-7.99975,-0.04444,0.33969,0.58165,piecewise extrapolated y,agreed,claude,-8.000,-0.070,,863.0,2843.9
+F2-54,1,r53958,trace,9,862.5,2813.1,3.7,3.7,,t = -6 ms,-5.99691,-0.03248,0.28461,0.5009,piecewise extrapolated y,agreed,claude,-5.997,-0.063,,862.6,2813.4
+F2-54,1,r53958,trace,10,862.5,2782.7,4.0,4.0,,t = -4 ms,-4.00096,-0.06496,0.30256,0.53405,piecewise extrapolated y,agreed,claude,-4.001,-0.095,,862.6,2783.0
+F2-54,1,r53958,trace,11,862.0,2752.2,4.5,4.5,,t = -2 ms,-1.99811,-0.053,0.3338,0.58253,piecewise extrapolated y,agreed,claude,-1.998,-0.065,,862.0,2752.5
+F2-54,1,r53958,trace,12,862.2,2721.8,7.0,7.0,,t = 0 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 0 ms timing line: interpolated across the line's ink,-0.00232,-0.1033,0.49919,0.83619,piecewise extrapolated y,agreed,claude,-0.002,-0.078,,861.8,2722.1
+F2-54,1,r53958,trace,12,861.82,2722.1,5.12,6.12,,on timing line,-0.00018,-0.07756,0.45166,0.64769,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,1,r53958,trace,13,859.97,2661.34,6.5,5.5,,shared ink with ruler zero tick,3.99978,0.0302,0.40763,0.77079,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,1,r53958,trace,14,859.5,2630.95,6.12,5.12,,shared ink with ruler zero tick,6.00017,0.04379,0.37985,0.73158,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,1,r53958,trace,13,857.5,2600.4,6.0,6.0,,t = 8 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,7.99994,0.18571,0.43195,0.70715,piecewise extrapolated y,agreed,claude,8.000,0.193,,857.5,2600.6
+F2-54,1,r53958,trace,14,857.5,2592.8,6.8,6.8,,t = 8.5 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,8.5007,0.17759,0.48511,0.7875,piecewise extrapolated y,agreed,claude,8.501,0.213,,857.2,2593.0
+F2-54,1,r53958,trace,15,856.5,2585.2,5.1,5.1,,t = 9 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,9.00206,0.25855,0.37202,0.61022,piecewise extrapolated y,agreed,claude,9.002,0.289,,856.3,2585.4
+F2-54,1,r53958,trace,16,856.5,2577.6,5.1,5.1,,t = 9.5 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,9.50281,0.25043,0.37198,0.61105,piecewise extrapolated y,agreed,claude,9.503,0.258,,856.5,2577.8
+F2-54,1,r53958,trace,18,836.7,2565.5,5.1,5.1,,g = 2 on the rise (about 7 g/ms there); trace runs on the 10 ms timing line's ink: center from the free edge and the stroke width,10.31661,2.00169,0.37797,0.63242,piecewise,agreed,claude,10.317,2.475,,832.9,2565.7
+F2-54,1,r53958,trace,19,827.2,2562.8,7.2,7.2,,t = 10.5 ms; trace runs on the 10 ms timing line's ink: center from the free edge and the stroke width,10.50291,2.99808,0.51968,0.87276,piecewise,agreed,claude,10.503,3.858,,818.2,2563.0
+F2-54,1,r53958,trace,20,817.6,2561.5,4.7,4.7,,g = 4 on the rise (about 8 g/ms there),10.59547,4.00626,0.35086,0.59974,piecewise,agreed,claude,10.595,4.473,,812.0,2561.7
+F2-54,1,r53958,trace,21,797.1,2558.5,4.9,4.9,,g = 6 on the rise (about 8 g/ms there),10.808,6.00232,0.36421,0.54918,piecewise,agreed,claude,10.808,5.886,,798.0,2558.6
+F2-54,1,r53958,trace,22,785.5,2555.7,4.9,4.9,,t = 11 ms,11.00195,7.10368,0.36411,0.54096,piecewise,agreed,claude,11.002,7.148,,785.1,2555.8
+F2-54,1,r53958,trace,23,776.1,2554.0,5.5,5.5,,g = 8 on the rise (about 9 g/ms there),11.12099,7.99681,0.40451,0.59619,piecewise,agreed,claude,11.121,7.964,,776.7,2554.1
+F2-54,1,r53958,trace,24,755.0,2552.0,4.4,4.4,,g = 10 on the rise (about 12 g/ms there),11.2666,10.00375,0.33014,0.48311,piecewise,agreed,claude,11.267,9.860,,756.4,2552.1
+F2-54,1,r53958,trace,25,734.5,2549.0,4.9,4.9,,g = 12 on the rise (about 10 g/ms there),11.47861,11.99986,0.3637,0.54577,piecewise,agreed,claude,11.479,11.878,,735.8,2549.1
+F2-54,1,r53958,trace,26,714.4,2546.7,5.0,5.0,,g = 14 on the rise (about 10 g/ms there),11.64345,14.00625,0.37028,0.55542,piecewise,agreed,claude,11.643,13.906,,715.0,2546.8
+F2-54,1,r53958,trace,27,692.9,2544.0,4.5,4.5,,g = 16 on the rise (about 10 g/ms there),11.83565,16.00322,0.33643,0.55905,piecewise,agreed,claude,11.836,15.954,,693.5,2544.1
+F2-54,1,r53958,trace,28,674.7,2541.7,5.4,5.4,,t = 12 ms,11.99919,17.91574,0.39689,0.64146,piecewise,agreed,claude,11.999,17.863,,675.3,2541.8
+F2-54,1,r53958,trace,29,673.9,2541.0,4.4,4.4,,g = 18 on the rise (about 6 g/ms there),12.04636,17.99905,0.32956,0.5313,piecewise,agreed,claude,12.046,19.475,,658.1,2541.2
+F2-54,1,r53958,trace,30,652.8,2535.2,5.7,10.0,,"g = 20 on the rise (about 5 g/ms there); interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.4449,20.00167,0.70385,0.72149,piecewise extrapolated y,agreed,claude,12.445,19.804,,654.5,2535.3
+F2-54,1,r53958,trace,32,652.1,2534.4,5.7,10.0,,"t = 12.5 ms; interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.49867,20.06741,0.70384,0.72712,piecewise extrapolated y,agreed,claude,12.499,19.849,,654.0,2534.5
+F2-54,1,r53958,trace,33,656.6,2526.9,4.5,10.0,,"t = 13 ms; interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.99681,19.63035,0.7032,0.56562,piecewise extrapolated y,agreed,claude,12.997,19.679,,655.8,2527.0
+F2-54,1,r53958,trace,34,665.6,2519.3,4.6,4.6,,t = 13.5 ms,13.49939,18.76469,0.34284,0.53147,piecewise,agreed,claude,13.499,18.708,,666.2,2519.4
+F2-54,1,r53958,trace,35,677.2,2511.7,4.2,4.2,,t = 14 ms,14.00084,17.61477,0.31596,0.51699,piecewise,agreed,claude,14.001,17.740,,676.2,2511.8
+F2-54,1,r53958,trace,36,686.7,2504.2,5.0,5.0,,t = 14.5 ms,14.49687,16.60549,0.36981,0.62031,piecewise,agreed,claude,14.497,16.558,,687.3,2504.3
+F2-54,1,r53958,trace,37,698.2,2496.6,5.4,5.4,,t = 15 ms,14.9988,15.45705,0.39676,0.59187,piecewise,agreed,claude,14.999,15.526,,697.5,2496.7
+F2-54,1,r53958,trace,38,707.5,2489.0,6.0,6.0,,t = 15.5 ms,15.502,14.58362,0.43716,0.63151,piecewise,agreed,claude,15.502,14.498,,708.2,2489.0
+F2-54,1,r53958,trace,39,719.4,2481.5,5.4,5.4,,t = 16 ms,15.99748,13.42863,0.39682,0.59637,piecewise,agreed,claude,15.997,13.601,,717.5,2481.6
+F2-54,1,r53958,trace,40,726.9,2473.9,5.0,5.0,,t = 16.5 ms,16.50189,12.66967,0.36991,0.55589,piecewise,agreed,claude,16.502,12.516,,728.5,2473.9
+F2-54,1,r53958,trace,41,740.1,2466.4,5.2,5.2,,t = 17 ms,16.99722,11.357,0.38342,0.56208,piecewise,agreed,claude,16.997,11.593,,737.9,2466.4
+F2-54,1,r53958,trace,42,747.7,2458.8,4.6,4.6,,t = 17.5 ms,17.50194,10.60678,0.34304,0.50285,piecewise,agreed,claude,17.502,10.498,,748.8,2458.8
+F2-54,1,r53958,trace,43,758.5,2451.3,5.2,5.2,,t = 18 ms,17.99875,9.55539,0.38345,0.56123,piecewise,agreed,claude,17.999,9.660,,757.5,2451.3
+F2-54,1,r53958,trace,44,774.3,2436.2,5.0,5.0,,t = 19 ms,19.00207,8.03368,0.37001,0.5489,piecewise,agreed,claude,19.002,8.100,,774.0,2436.1
+F2-54,1,r53958,trace,45,781.6,2421.1,7.5,7.5,,t = 20 ms; on the 20 ms timing line: interpolated across the line's ink,20.00893,7.32133,0.53784,0.79382,piecewise,agreed,claude,20.009,7.342,,781.7,2421.0
+F2-54,1,r53958,trace,46,790.5,2390.0,4.0,4.0,,t = 22 ms,21.99685,6.43836,0.2897,0.4462,piecewise,agreed,claude,21.997,6.453,,790.5,2389.9
+F2-54,1,r53958,trace,48,787.4,2358.7,4.0,4.0,,t = 24 ms,24.00216,6.6978,0.28978,0.44897,piecewise,agreed,claude,24.002,6.732,,787.3,2358.7
+F2-54,1,r53958,trace,49,784.0,2327.5,4.4,4.4,,t = 26 ms,26.00131,6.98592,0.31565,0.491,piecewise,agreed,claude,26.001,7.025,,784.0,2327.5
+F2-54,1,r53958,trace,50,779.3,2296.3,4.4,4.4,,t = 28 ms,28.00115,7.39782,0.31574,0.4954,piecewise,agreed,claude,28.001,7.432,,779.4,2296.4
+F2-54,1,r53958,trace,52,766.9,2265.3,8.0,8.0,,t = 30 ms; on the 30 ms timing line: interpolated across the line's ink,29.99192,8.54315,0.56886,0.84029,piecewise,agreed,claude,29.992,8.595,,766.9,2265.4
+F2-54,1,r53958,trace,54,760.5,2235.1,4.0,4.0,,t = 32 ms,32.0011,9.11807,0.30329,0.44965,piecewise,agreed,claude,32.001,9.165,,760.5,2235.2
+F2-54,1,r53958,trace,55,762.0,2205.0,3.5,3.5,,t = 34 ms,34.00015,8.94087,0.27189,0.4031,piecewise,agreed,claude,34.000,8.995,,762.0,2205.1
+F2-54,1,r53958,trace,56,764.0,2174.9,4.5,4.5,,t = 36 ms,35.999,8.71606,0.34095,0.50351,piecewise,agreed,claude,35.999,8.794,,763.8,2175.0
+F2-54,1,r53958,trace,57,766.0,2144.8,4.4,4.4,,t = 38 ms,37.99789,8.49124,0.33633,0.49634,piecewise,agreed,claude,37.998,8.589,,765.7,2144.9
+F2-54,1,r53958,trace,58,768.0,2114.5,6.9,6.9,,t = 40 ms; on the 40 ms timing line: interpolated across the line's ink,40.00964,8.2662,0.50429,0.73251,piecewise,agreed,claude,40.010,8.351,,768.0,2114.6
+F2-54,1,r53958,trace,59,770.9,2083.1,3.5,3.5,,t = 42 ms,41.99797,7.95421,0.26405,0.40532,piecewise,agreed,claude,41.998,8.070,,770.6,2083.2
+F2-54,1,r53958,trace,60,775.0,2051.5,4.5,4.5,,t = 44 ms,43.99861,7.52772,0.32675,0.50498,piecewise,agreed,claude,43.999,7.615,,775.0,2051.6
+F2-54,1,r53958,trace,61,779.0,2019.9,4.5,4.5,,t = 46 ms,45.99943,7.11076,0.32564,0.50207,piecewise,agreed,claude,45.999,7.200,,779.0,2019.9
+F2-54,1,r53958,trace,62,784.0,1988.3,4.4,4.4,,t = 48 ms,48.00005,6.59857,0.31817,0.48687,piecewise,agreed,claude,48.000,6.692,,783.8,1988.3
+F2-54,1,r53958,trace,63,787.7,1956.7,7.5,7.5,,t = 50 ms; on the 50 ms timing line: interpolated across the line's ink,50.00128,6.21017,0.51805,0.80182,piecewise,agreed,claude,50.001,6.281,,787.7,1956.7
+F2-54,1,r53958,trace,64,790.5,1925.3,4.0,4.0,,t = 52 ms,52.00229,5.90545,0.29534,0.46059,piecewise,agreed,claude,52.002,5.977,,790.5,1925.4
+F2-54,1,r53958,trace,65,795.0,1893.9,3.5,3.5,,t = 54 ms,54.00247,5.42977,0.26511,0.42152,piecewise,agreed,claude,54.002,5.504,,794.9,1894.1
+F2-54,1,r53958,trace,66,799.5,1862.5,4.0,4.0,,t = 56 ms,56.00239,4.9541,0.29908,0.48355,piecewise,agreed,claude,56.002,5.005,,799.5,1862.9
+F2-54,1,r53958,trace,67,804.0,1831.1,3.5,3.5,,t = 58 ms,58.00204,4.47842,0.26883,0.44449,piecewise,agreed,claude,58.002,4.539,,803.8,1831.6
+F2-54,1,r53958,trace,69,808.5,1799.6,6.9,6.9,,t = 60 ms; on the 60 ms timing line: interpolated across the line's ink,60.00751,4.00263,0.48799,0.83117,piecewise,agreed,claude,60.008,4.025,,808.5,1800.2
+F2-54,1,r53958,trace,70,816.0,1767.0,3.3,3.3,,t = 62 ms,62.00293,3.17238,0.24657,0.45409,piecewise,agreed,claude,62.003,3.247,,816.0,1767.5
+F2-54,1,r53958,trace,71,823.8,1734.4,4.4,4.4,,t = 64 ms,63.99906,2.31035,0.31314,0.56107,piecewise,agreed,claude,63.999,2.438,,823.7,1734.6
+F2-54,1,r53958,trace,72,831.0,1701.7,3.3,3.3,,t = 66 ms,66.00237,1.58635,0.24389,0.38557,piecewise,agreed,claude,66.002,1.702,,831.1,1701.7
+F2-54,1,r53958,trace,73,837.5,1669.1,6.8,6.8,,t = 68 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,68.0005,0.97245,0.45833,0.72465,piecewise,agreed,claude,68.001,1.066,,837.9,1668.9
+F2-54,1,r53958,trace,75,841.5,1636.5,6.8,6.8,,t = 70 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 70 ms timing line: interpolated across the line's ink,69.99984,0.58128,0.45681,0.7461,piecewise extrapolated y,agreed,claude,70.000,0.863,,839.9,1636.0
+F2-54,1,r53958,trace,76,841.5,1603.9,6.8,6.8,,t = 72 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,71.99844,0.54645,0.45696,0.74967,piecewise extrapolated y,agreed,claude,71.998,0.690,,841.5,1603.5
+F2-54,1,r53958,trace,77,841.5,1571.3,6.8,6.8,,t = 74 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,73.99703,0.51162,0.4577,0.75325,piecewise extrapolated y,agreed,claude,73.997,0.692,,841.1,1570.9
+F2-54,1,r53958,trace,78,841.5,1538.6,6.8,6.8,,t = 76 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,76.00176,0.47668,0.45844,0.75683,piecewise extrapolated y,agreed,claude,76.002,0.674,,841.0,1538.3
+F2-54,1,r53958,trace,79,841.5,1506.0,6.8,6.8,,t = 78 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,78.00034,0.44185,0.45918,0.7604,piecewise extrapolated y,agreed,claude,78.000,0.646,,841.0,1505.8
+F2-54,1,r53958,trace,80,841.5,1473.5,6.8,6.8,,t = 80 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 80 ms timing line: interpolated across the line's ink,79.99279,0.40713,0.47825,0.76396,piecewise extrapolated y,agreed,claude,79.993,0.703,,840.0,1473.4
+F2-54,1,r53958,trace,81,841.4,1442.0,6.8,6.8,,t = 82 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,82.0019,0.38238,0.47928,0.7665,piecewise extrapolated y,agreed,claude,82.002,0.700,,839.7,1441.9
+F2-54,1,r53958,trace,82,839.5,1410.7,6.8,6.8,,t = 84 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,83.99903,0.51821,0.48001,0.75257,piecewise extrapolated y,agreed,claude,83.999,0.734,,839.0,1410.7
+F2-54,1,r53958,trace,83,839.5,1379.3,6.8,6.8,,t = 86 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,86.00203,0.48466,0.48075,0.75601,piecewise extrapolated y,agreed,claude,86.002,0.705,,839.0,1379.3
+F2-54,1,r53958,trace,84,839.5,1348.0,6.8,6.8,,t = 88 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,87.99865,0.45122,0.48147,0.75944,piecewise extrapolated y,agreed,claude,87.999,0.680,,839.0,1348.0
+F2-54,2,r54025,feature,2,1332.5,3025.21,7.81,8.81,,first | trace at first timing line right of break marks | on timing line,-20.00371,0.17302,0.61702,0.91977,piecewise extrapolated x y,agreed,codex,-19.99997,0.19265,,1333.0,3025.4
+F2-54,2,r54025,feature,17,1320.0,2566.0,5.0,5.0,,"knee, onset: where the trace leaves its pre-impact level; the corner lies where the 10 ms timing line and the dashed line meet; the baseline's free edge drifts left from u 1332 (v 2592) to 1324 (v 2570) and the rise leaves along the timing line's ink",9.93745,0.95377,0.38513,0.59035,piecewise,resolved,claude,8.86115,0.46005,the claude reading is on the feature; credit claude (blind adjudication item 005 (Claude's adjudicator: p; Codex's: p)),1325.0,2582.0
+F2-54,2,r54025,feature,44,1016.0,2521.0,10.31,10.31,,peak | main pointed crest,13.1771,29.02446,0.75279,1.35276,piecewise,agreed,codex,13.04189,29.38222,,1010.0,2523.0
+F2-54,2,r54025,feature,54,1169.0,2459.0,4.88,4.88,,knee | descending slope eases,17.22788,14.90189,0.40496,0.49662,piecewise,one-sided,codex,,,,,
+F2-54,2,r54025,feature,61,1271.0,2383.0,4.12,4.12,,"knee, minimum | trough after main peak",22.16324,5.51138,0.33907,0.44662,piecewise,agreed,codex,22.20938,5.41728,,1271.5,2382.0
+F2-54,2,r54025,feature,65,1250.22,2263.0,5.88,6.88,,peak | secondary crest at the 30 ms timing line | on timing line,29.85769,7.22369,0.48942,0.60909,piecewise,agreed,codex,29.41743,7.18622,,1250.0,2270.0
+F2-54,2,r54025,feature,68,1264.0,2214.0,3.62,3.62,,"knee, minimum | shallow trough",33.10403,5.99752,0.27749,0.39449,piecewise,agreed,codex,32.84403,5.93382,,1264.0,2218.0
+F2-54,2,r54025,feature,71,1261.0,2164.0,3.62,3.62,,peak | small shoulder after the shallow trough,36.43347,6.20415,0.27845,0.36794,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 007 (Claude's adjudicator: yes; Codex's: yes),,
+F2-54,2,r54025,feature,78,1273.3,1968.0,3.5,3.5,,knee | starts steeper descent,49.05238,4.88577,0.26795,0.37281,piecewise,agreed,codex,49.13383,4.71813,,1274.0,1967.0
+F2-54,2,r54025,feature,84,1297.0,1827.0,3.62,3.62,,knee | descent eases,58.06347,2.56695,0.27438,0.44204,piecewise,agreed,codex,58.53768,2.28415,,1298.0,1820.0
+F2-54,2,r54025,feature,81,1314.0,1559.0,9.7,12.7,,"knee: the trace reaches its final level near 0 g; break of a two-line fit over t 70 to 86 ms, its place along the curve known to a few px; trace runs on or against the dashed line here",74.59056,0.23508,0.81897,1.13113,piecewise extrapolated y,one-sided,claude,,,,,
+F2-54,2,r54025,trace,1,1332.5,3025.21,7.81,8.81,,first visible timed point | on timing line,-20.00371,0.17302,0.61702,0.91977,piecewise extrapolated x y,agreed,codex,-20.004,0.193,,1333.0,3025.4
+F2-54,2,r54025,trace,3,1331.5,2993.9,5.62,5.62,,,-18.00009,0.24327,0.40477,0.67209,piecewise extrapolated y,agreed,codex,-18.000,0.257,,1332.0,2994.1
+F2-54,2,r54025,trace,4,1329.72,2962.65,6.88,5.38,,on dashed zero line,-15.99972,0.39648,0.38823,0.805,piecewise extrapolated y,agreed,codex,-16.000,0.427,,1330.0,2962.8
+F2-54,2,r54025,trace,5,1331.34,2931.37,7.0,7.0,,,-14.00011,0.18831,0.48988,0.8278,piecewise extrapolated y,agreed,codex,-14.000,0.172,,1332.0,2931.5
+F2-54,2,r54025,trace,6,1329.52,2900.12,8.0,6.5,,on dashed zero line,-11.99975,0.34577,0.45643,0.9316,piecewise extrapolated y,agreed,codex,-12.000,0.342,,1330.0,2900.2
+F2-54,2,r54025,trace,7,1331.61,2868.84,7.62,8.62,,on timing line,-10.00043,0.08765,0.6089,0.90175,piecewise extrapolated y,agreed,codex,-10.000,0.120,,1331.7,2868.9
+F2-54,2,r54025,trace,8,1329.5,2838.51,6.12,6.12,,,-7.99999,0.277,0.44915,0.72654,piecewise extrapolated y,agreed,codex,-8.000,0.259,,1330.0,2838.5
+F2-54,2,r54025,trace,9,1329.5,2808.16,6.62,6.62,,,-5.99982,0.24207,0.48928,0.78351,piecewise extrapolated y,agreed,codex,-6.000,0.218,,1330.0,2808.0
+F2-54,2,r54025,trace,10,1330.0,2777.81,3.62,3.62,,,-3.99999,0.154,0.29555,0.45262,piecewise extrapolated y,agreed,codex,-4.000,0.177,,1330.0,2777.5
+F2-54,2,r54025,trace,11,1329.5,2747.47,7.5,7.5,,,-2.00011,0.17222,0.56145,0.88408,piecewise extrapolated y,agreed,codex,-2.000,0.136,,1330.0,2747.0
+F2-54,2,r54025,trace,12,1330.08,2717.12,5.12,6.12,,on timing line,-0.00027,0.07565,0.47219,0.62375,piecewise extrapolated y,agreed,codex,-0.000,-0.011,,1331.0,2716.5
+F2-54,2,r54025,trace,13,1330.0,2656.1,5.62,4.62,,shared ink with ruler zero tick,3.99985,0.01393,0.36119,0.67932,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,2,r54025,trace,14,1329.21,2625.6,6.5,5.5,,shared ink with ruler zero tick,5.99977,0.06279,0.41307,0.77553,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,2,r54025,trace,15,1329.5,2617.97,6.44,5.44,,shared ink with ruler zero tick,6.49973,0.02319,0.40742,0.7703,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,2,r54025,trace,16,1328.9,2610.35,6.5,5.5,,shared ink with ruler zero tick,6.99969,0.07819,0.40976,0.77497,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,2,r54025,trace,17,1328.5,2602.72,4.12,4.12,,,7.50016,0.11192,0.31555,0.50985,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,2,r54025,trace,18,1328.5,2595.1,7.25,7.25,,,7.99967,0.10315,0.52212,0.85877,piecewise extrapolated y,agreed,codex,8.000,0.039,,1329.0,2595.3
+F2-54,2,r54025,trace,19,1326.31,2587.49,8.25,6.75,,on dashed zero line,8.50023,0.32714,0.48838,0.96013,piecewise extrapolated y,agreed,codex,8.500,0.240,,1327.0,2587.7
+F2-54,2,r54025,trace,21,1323.34,2579.9,7.25,5.75,,on dashed zero line,9.00012,0.63405,0.42021,0.83748,piecewise extrapolated y,agreed,codex,9.000,0.517,,1324.3,2580.2
+F2-54,2,r54025,trace,22,1321.19,2572.3,5.88,4.38,,on dashed zero line,9.50007,0.8538,0.32738,0.6831,piecewise,agreed,codex,9.500,0.645,,1323.0,2572.6
+F2-54,2,r54025,trace,23,1314.53,2564.76,8.88,8.38,,on timing line | on dashed zero line,9.99973,1.55294,0.60888,1.00654,piecewise,agreed,codex,10.000,1.440,,1315.4,2565.1
+F2-54,2,r54025,trace,24,1312.49,2563.9,6.25,7.25,,2 g steep-flank sample | on timing line,10.05936,1.76876,0.53048,0.72573,piecewise,agreed,codex,10.059,1.626,,1313.6,2564.2
+F2-54,2,r54025,trace,25,1290.22,2561.89,6.5,7.5,,4 g steep-flank sample | on timing line,10.21306,4.00175,0.54818,0.66518,piecewise,agreed,codex,10.213,2.845,,1301.7,2562.1
+F2-54,2,r54025,trace,26,1267.7,2559.85,6.75,6.75,,6 g steep-flank sample,10.36886,6.00157,0.49819,0.69433,piecewise,agreed,codex,10.369,4.999,,1278.9,2560.0
+F2-54,2,r54025,trace,27,1260.63,2557.99,4.62,4.62,,,10.49986,6.59331,0.35293,0.43596,piecewise,agreed,codex,10.500,6.200,,1265.4,2558.2
+F2-54,2,r54025,trace,28,1255.66,2558.05,4.62,4.62,,,10.49986,7.01184,0.3529,0.48788,piecewise,agreed,codex,10.500,6.200,,1265.4,2558.2
+F2-54,2,r54025,trace,29,1245.18,2555.69,4.75,4.75,,8 g steep-flank sample,10.66723,7.99838,0.3626,0.56746,piecewise,agreed,codex,10.667,7.734,,1248.1,2555.9
+F2-54,2,r54025,trace,30,1223.94,2553.29,4.5,4.5,,10 g steep-flank sample,10.84589,9.99834,0.34627,0.56275,piecewise,agreed,codex,10.846,9.630,,1227.5,2553.5
+F2-54,2,r54025,trace,31,1203.15,2552.5,5.12,5.12,,12 g steep-flank sample,10.91578,11.99908,0.38891,0.5432,piecewise,agreed,codex,10.916,11.495,,1208.2,2552.6
+F2-54,2,r54025,trace,32,1198.02,2551.31,4.75,4.75,,,10.99993,12.48883,0.364,0.50752,piecewise,agreed,codex,11.000,12.452,,1198.3,2551.5
+F2-54,2,r54025,trace,33,1182.09,2550.0,4.62,4.62,,14 g steep-flank sample,11.10079,14.00164,0.35553,0.48941,piecewise,agreed,codex,11.101,13.858,,1183.5,2550.1
+F2-54,2,r54025,trace,34,1158.09,2548.03,5.5,5.5,,16 g steep-flank sample,11.25239,16.00101,0.4163,0.58338,piecewise,agreed,codex,11.252,15.864,,1159.6,2548.1
+F2-54,2,r54025,trace,35,1136.52,2546.5,5.12,5.12,,18 g steep-flank sample,11.37236,18.00502,0.39079,0.56659,piecewise,agreed,codex,11.372,17.893,,1137.6,2546.6
+F2-54,2,r54025,trace,36,1117.56,2544.82,5.5,5.5,,,11.50024,19.49132,0.41727,0.49209,piecewise,agreed,codex,11.500,19.544,,1116.9,2544.9
+F2-54,2,r54025,trace,37,1111.36,2543.72,4.62,4.62,,20 g steep-flank sample,11.57901,19.99384,0.35754,0.59265,piecewise,agreed,codex,11.579,19.964,,1111.8,2543.8
+F2-54,2,r54025,trace,38,1091.56,2539.7,5.88,5.88,,22 g steep-flank sample,11.86448,22.00129,0.44488,0.58921,piecewise,agreed,codex,11.864,21.899,,1092.4,2539.7
+F2-54,2,r54025,trace,39,1077.95,2537.84,4.62,4.62,,,11.99997,23.19541,0.3595,0.52702,piecewise,agreed,codex,12.000,23.230,,1077.5,2537.9
+F2-54,2,r54025,trace,40,1069.95,2536.01,5.5,5.5,,24 g steep-flank sample,12.12901,23.99997,0.42014,0.62392,piecewise,agreed,codex,12.129,23.996,,1069.8,2536.0
+F2-54,2,r54025,trace,41,1047.38,2531.28,5.12,5.12,,26 g steep-flank sample,12.46382,26.00144,0.39579,0.47031,piecewise,agreed,codex,12.464,26.027,,1046.9,2531.3
+F2-54,2,r54025,trace,42,1045.84,2530.76,5.25,5.25,,,12.49989,26.12058,0.40482,0.47317,piecewise,agreed,codex,12.500,26.078,,1046.2,2530.7
+F2-54,2,r54025,trace,43,1028.21,2523.5,5.88,5.88,,,13.00022,27.56372,0.45021,0.66554,piecewise,agreed,codex,13.000,29.087,,1012.8,2523.6
+F2-54,2,r54025,trace,45,1025.72,2516.07,5.12,5.12,,,13.50021,27.7819,0.40098,0.67888,piecewise,agreed,codex,13.500,27.773,,1025.5,2516.0
+F2-54,2,r54025,trace,46,1043.08,2508.42,4.88,4.88,,,14.00012,26.31611,0.38733,0.43407,piecewise,agreed,codex,14.000,26.432,,1041.3,2508.3
+F2-54,2,r54025,trace,47,1060.41,2500.78,4.75,4.75,,,14.4997,24.87764,0.38118,0.50805,piecewise,agreed,codex,14.500,24.901,,1059.9,2500.7
+F2-54,2,r54025,trace,48,1080.94,2493.1,4.75,4.75,,,14.99996,22.86832,0.38391,0.52394,piecewise,agreed,codex,15.000,22.929,,1080.1,2493.0
+F2-54,2,r54025,trace,49,1090.99,2489.41,5.0,5.0,,22 g steep-flank sample,15.24031,22.00347,0.40228,0.50854,piecewise,agreed,codex,15.240,22.011,,1090.3,2489.3
+F2-54,2,r54025,trace,50,1102.32,2485.42,5.88,5.88,,,15.49998,20.95935,0.46372,0.74185,piecewise,agreed,codex,15.500,21.018,,1101.5,2485.3
+F2-54,2,r54025,trace,51,1122.81,2477.76,4.88,4.88,,,15.9997,19.00601,0.39826,0.44119,piecewise,agreed,codex,16.000,18.893,,1124.0,2477.6
+F2-54,2,r54025,trace,52,1143.49,2470.09,5.88,5.88,,,16.50033,17.23009,0.46923,0.64226,piecewise,agreed,codex,16.500,16.940,,1146.2,2469.9
+F2-54,2,r54025,trace,53,1163.29,2462.45,4.88,4.88,,,16.99993,15.42,0.40374,0.53528,piecewise,agreed,codex,17.000,15.299,,1164.2,2462.2
+F2-54,2,r54025,trace,55,1179.47,2454.85,4.88,4.88,,,17.49969,14.11987,0.40645,0.48192,piecewise,agreed,codex,17.500,13.854,,1182.3,2454.6
+F2-54,2,r54025,trace,56,1194.08,2447.26,4.62,4.62,,,18.00013,12.75815,0.39141,0.49494,piecewise,agreed,codex,18.000,12.683,,1194.5,2447.0
+F2-54,2,r54025,trace,57,1207.38,2439.7,5.0,5.0,,,18.49969,11.53747,0.42004,0.47093,piecewise,agreed,codex,18.500,11.501,,1206.6,2439.4
+F2-54,2,r54025,trace,58,1218.9,2432.15,4.62,4.62,,,19.0,10.41376,0.39678,0.57682,piecewise,agreed,codex,19.000,10.317,,1218.8,2431.8
+F2-54,2,r54025,trace,59,1239.72,2417.09,6.62,7.62,,on timing line,19.99997,8.42211,0.60016,0.72992,piecewise,agreed,codex,20.000,8.699,,1236.2,2416.3
+F2-54,2,r54025,trace,60,1270.72,2385.55,4.75,4.75,,,22.00018,5.54031,0.38081,0.50676,piecewise,agreed,codex,22.000,5.470,,1271.0,2385.3
+F2-54,2,r54025,trace,62,1264.16,2354.37,5.25,5.25,,,24.00012,6.11194,0.40326,0.53619,piecewise,agreed,codex,24.000,6.086,,1264.0,2354.2
+F2-54,2,r54025,trace,63,1256.5,2323.2,5.12,5.12,,,26.00013,6.72657,0.3848,0.5016,piecewise,agreed,codex,26.000,6.677,,1256.5,2323.1
+F2-54,2,r54025,trace,64,1251.16,2292.01,4.5,4.5,,,28.00003,7.16463,0.33451,0.47643,piecewise,agreed,codex,28.000,7.118,,1251.0,2292.1
+F2-54,2,r54025,trace,66,1250.47,2260.78,6.06,7.06,,on timing line,29.99964,7.19783,0.50719,0.62626,piecewise,agreed,codex,30.000,7.136,,1250.4,2260.9
+F2-54,2,r54025,trace,67,1259.58,2230.63,4.88,4.88,,,32.00023,6.3839,0.36188,0.46538,piecewise,agreed,codex,32.000,6.331,,1259.5,2230.7
+F2-54,2,r54025,trace,69,1263.0,2200.55,4.62,4.62,,,33.99977,6.0695,0.34498,0.48131,piecewise,agreed,codex,34.000,6.007,,1263.0,2200.6
+F2-54,2,r54025,trace,70,1261.0,2170.51,5.62,5.62,,,36.00024,6.21007,0.41282,0.55891,piecewise,agreed,codex,36.000,6.142,,1261.0,2170.5
+F2-54,2,r54025,trace,72,1262.26,2140.45,4.12,4.12,,,37.99983,6.07699,0.31253,0.4324,piecewise,agreed,codex,38.000,6.002,,1262.3,2140.4
+F2-54,2,r54025,trace,73,1265.0,2110.35,6.0,7.0,,on timing line,40.00097,5.79795,0.50578,0.62541,piecewise,agreed,codex,40.001,5.709,,1265.0,2110.3
+F2-54,2,r54025,trace,74,1266.0,2078.92,4.62,4.62,,,41.99983,5.67192,0.33349,0.49317,piecewise,agreed,codex,42.000,5.575,,1266.0,2078.9
+F2-54,2,r54025,trace,75,1268.5,2047.46,4.12,4.12,,,43.99973,5.40481,0.30316,0.44098,piecewise,agreed,codex,44.000,5.299,,1268.5,2047.5
+F2-54,2,r54025,trace,76,1270.0,2016.01,3.62,3.62,,,45.99972,5.23174,0.27285,0.39429,piecewise,agreed,codex,46.000,5.118,,1270.0,2016.2
+F2-54,2,r54025,trace,77,1271.52,1984.56,4.12,4.12,,,47.99977,5.05679,0.30682,0.4429,piecewise,agreed,codex,48.000,4.945,,1271.5,1984.8
+F2-54,2,r54025,trace,79,1277.55,1953.07,5.31,6.31,,on timing line,49.99995,4.51395,0.45095,0.50406,piecewise,agreed,codex,50.000,4.412,,1277.5,1953.4
+F2-54,2,r54025,trace,80,1283.31,1921.78,4.12,4.12,,,52.00027,3.99994,0.30951,0.43831,piecewise,agreed,codex,52.000,3.872,,1283.4,1922.1
+F2-54,2,r54025,trace,81,1289.05,1890.51,4.5,4.5,,,53.99972,3.42877,0.3331,0.47949,piecewise,agreed,codex,54.000,3.300,,1289.0,1890.9
+F2-54,2,r54025,trace,82,1293.06,1859.25,4.5,4.5,,,55.99973,3.02016,0.33214,0.53393,piecewise,agreed,codex,56.000,2.869,,1293.0,1859.6
+F2-54,2,r54025,trace,83,1297.0,1827.99,3.62,3.62,,,58.00006,2.56809,0.27441,0.44204,piecewise,agreed,codex,58.000,2.402,,1297.0,1828.4
+F2-54,2,r54025,trace,85,1299.47,1796.74,5.62,6.62,,on timing line,60.00058,2.26962,0.46648,0.65804,piecewise,agreed,codex,60.001,2.095,,1299.5,1797.2
+F2-54,2,r54025,trace,86,1304.05,1764.04,4.75,4.75,,,61.99996,1.74523,0.32947,0.56343,piecewise,agreed,codex,62.000,1.891,,1301.0,1764.5
+F2-54,2,r54025,trace,87,1304.33,1731.35,6.5,5.0,,on dashed zero line,64.00031,1.67786,0.34396,0.74971,piecewise,agreed,codex,64.000,1.635,,1303.0,1731.8
+F2-54,2,r54025,trace,88,1305.57,1698.66,7.38,5.88,,on dashed zero line,66.00026,1.50845,0.39672,0.84424,piecewise,agreed,codex,66.000,1.484,,1304.0,1699.0
+F2-54,2,r54025,trace,89,1307.0,1665.97,6.62,5.12,,on dashed zero line,68.00012,1.31885,0.34839,0.7626,piecewise,agreed,codex,68.000,1.229,,1306.0,1666.3
+F2-54,2,r54025,trace,90,1309.05,1633.28,8.12,7.62,,on timing line | on dashed zero line,69.99968,1.06336,0.50366,0.92489,piecewise,agreed,codex,70.000,0.920,,1308.5,1633.7
+F2-54,2,r54025,trace,91,1310.5,1600.8,6.12,4.62,,on dashed zero line,71.99977,0.87188,0.31845,0.70888,piecewise,agreed,codex,72.000,0.610,,1311.0,1601.1
+F2-54,2,r54025,trace,92,1311.05,1568.32,6.5,5.0,,on dashed zero line,74.00027,0.77604,0.34245,0.74971,piecewise,agreed,codex,74.000,0.460,,1312.0,1568.6
+F2-54,2,r54025,trace,93,1311.87,1535.85,7.5,6.0,,on dashed zero line,76.00009,0.65153,0.40486,0.86469,piecewise extrapolated y,agreed,codex,76.000,0.204,,1314.0,1536.1
+F2-54,2,r54025,trace,94,1311.61,1503.39,8.0,6.5,,on dashed zero line,77.99971,0.6418,0.43625,0.92073,piecewise extrapolated y,agreed,codex,78.000,0.161,,1314.0,1503.6
+F2-54,2,r54025,trace,95,1310.95,1470.92,9.81,9.31,,on timing line | on dashed zero line,80.00007,0.67458,0.63239,1.12231,piecewise extrapolated y,agreed,codex,80.000,0.064,,1314.5,1471.1
+F2-54,2,r54025,trace,96,1310.5,1439.6,9.12,7.62,,on dashed zero line,82.00027,0.68636,0.52396,1.04383,piecewise extrapolated y,agreed,codex,82.000,0.075,,1314.0,1439.8
+F2-54,2,r54025,trace,97,1312.19,1408.28,7.88,6.38,,on dashed zero line,83.9998,0.47071,0.44369,0.91365,piecewise extrapolated y,agreed,codex,84.000,0.086,,1313.5,1408.5
+F2-54,2,r54025,trace,98,1310.5,1376.97,9.12,7.62,,on dashed zero line,85.99974,0.61428,0.52261,1.04648,piecewise extrapolated y,agreed,codex,86.000,-0.009,,1314.0,1377.2
+F2-54,2,r54025,trace,99,1310.5,1345.65,9.12,7.62,,on dashed zero line,87.99981,0.57824,0.52194,1.04781,piecewise extrapolated y,agreed,codex,88.000,-0.052,,1314.0,1346.0
+F2-54,3,r5465,feature,1,2352.2,3016.5,6.5,6.5,,"first: where the trace meets the -20 ms timing line, the first timing line right of the break marks (its ink continues left to the break marks, off the time base); on the line's ink, interpolated across it",-20.00126,-0.07416,0.45133,0.62099,piecewise extrapolated x y,agreed,claude,-19.99584,-0.09241,,2352.5,3016.54
+F2-54,3,r5465,feature,16,2344.5,2557.0,4.0,4.0,,"knee, onset: where the trace leaves its pre-impact level; the baseline's free edge leaves u 2348 at v 2556-2558, under the 10 ms timing line; the dashed line runs 10 px to the left",9.91948,0.09676,0.30235,0.39272,piecewise extrapolated y,agreed,claude,9.31793,0.14614,,2344.0,2566.0
+F2-54,3,r5465,feature,41,1463.0,2492.5,4.5,4.5,,"peak: main peak; blunt tip, outer ink edge u 1458.5 at v 2489-2496; centerline = outer edge + half the 9 px stroke",14.81295,77.8139,0.34842,0.43956,piecewise,agreed,claude,14.83772,77.18939,,1470.0,2492.0
+F2-54,3,r5465,feature,66,2331.0,2405.0,6.0,5.0,,"knee: the fall ends and the trace turns up the page, at the junction of the 20 ms timing line and the dashed line (hidden)",20.04509,1.06902,0.38907,0.54858,piecewise,agreed,claude,20.42757,0.63882,,2336.0,2399.0
+F2-54,3,r5465,feature,71,2346.5,2268.0,4.0,192.0,,"knee, minimum: local minimum after the peak, a shallow broad dip just below the ruler's zero; the trace stays within half a stroke width of this level over t 23.3 to 41.4 ms",28.78007,-0.36784,12.69577,0.61488,piecewise extrapolated y,agreed,claude,28.20524,-0.48882,,2348.0,2277.0
+F2-54,3,r5465,feature,93,2332.0,1617.0,9.5,12.5,,"knee: the trace starts a slow late rise; break of a two-line fit over t 62 to 78 ms, its place along the curve known to a few px; trace runs on or against the dashed line here",70.33593,0.17454,0.83009,0.87834,piecewise extrapolated y,agreed,claude,70.08882,0.24397,,2331.0,1621.0
+F2-54,3,r5465,feature,99,2310.0,1405.0,4.4,96.0,,peak: late broad hump; the trace stays within half a stroke width of this level over t 77.5 to 86.9 ms,83.58728,1.7957,6.17277,0.55187,piecewise,agreed,claude,83.08126,1.69422,,2311.0,1413.0
+F2-54,3,r5465,trace,2,2352.2,3016.5,7.0,7.0,,t = -20 ms; on the -20 ms timing line: interpolated across the line's ink,-20.00126,-0.07416,0.48349,0.66515,piecewise extrapolated x y,agreed,claude,-20.001,-0.092,,2352.5,3016.5
+F2-54,3,r5465,trace,3,2352.0,2984.9,4.5,4.5,,t = -18 ms,-17.99937,-0.08995,0.32058,0.44503,piecewise extrapolated y,agreed,claude,-17.999,-0.084,,2352.0,2985.0
+F2-54,3,r5465,trace,4,2352.0,2953.3,4.5,4.5,,t = -16 ms,-15.99762,-0.12247,0.32061,0.44644,piecewise extrapolated y,agreed,claude,-15.998,-0.101,,2351.8,2953.4
+F2-54,3,r5465,trace,5,2351.0,2921.8,3.5,3.5,,t = -14 ms,-14.00157,-0.07128,0.25665,0.35588,piecewise extrapolated y,agreed,claude,-14.002,-0.066,,2351.0,2922.0
+F2-54,3,r5465,trace,6,2350.0,2890.2,4.5,4.5,,t = -12 ms,-11.99916,-0.02019,0.32067,0.44198,piecewise extrapolated y,agreed,claude,-11.999,-0.016,,2350.0,2890.4
+F2-54,3,r5465,trace,7,2349.7,2858.7,7.5,7.5,,t = -10 ms; on the -10 ms timing line: interpolated across the line's ink,-10.00354,-0.02752,0.53219,0.70728,piecewise extrapolated y,agreed,claude,-10.004,-0.026,,2349.7,2858.9
+F2-54,3,r5465,trace,8,2349.5,2828.2,4.0,4.0,,t = -8 ms,-7.99822,-0.04219,0.30014,0.39878,piecewise extrapolated y,agreed,claude,-7.998,-0.039,,2349.5,2828.4
+F2-54,3,r5465,trace,9,2349.5,2797.8,4.0,4.0,,t = -6 ms,-5.99947,-0.07347,0.30058,0.40014,piecewise extrapolated y,agreed,claude,-5.999,-0.070,,2349.5,2797.9
+F2-54,3,r5465,trace,10,2349.0,2767.4,4.5,4.5,,t = -4 ms,-4.00037,-0.06295,0.33425,0.44385,piecewise extrapolated y,agreed,claude,-4.000,-0.060,,2349.0,2767.5
+F2-54,3,r5465,trace,11,2349.0,2737.0,4.5,4.5,,t = -2 ms,-2.00162,-0.09423,0.33469,0.44521,piecewise extrapolated y,agreed,claude,-2.002,-0.092,,2349.0,2737.1
+F2-54,3,r5465,trace,11,2349.0,2737.09,4.62,4.62,,,-2.00032,-0.09218,0.35644,0.45443,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,12,2348.0,2706.66,5.12,6.12,,on timing line,9e-05,-0.04056,0.46067,0.49731,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,13,2346.7,2646.27,6.0,5.0,,shared ink with ruler zero tick,4.00028,0.00481,0.38323,0.57067,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,14,2346.33,2616.08,11.0,10.0,,shared ink with ruler zero tick,5.99985,0.00415,0.71565,1.01108,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,15,2346.5,2600.98,4.12,4.12,,,6.99974,-0.02577,0.31995,0.4075,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,16,2346.0,2593.43,4.62,4.62,,,7.50007,0.00803,0.35282,0.45007,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,17,2345.73,2585.88,4.5,4.5,,,8.00024,0.02266,0.34417,0.43886,piecewise extrapolated y,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: all yes; Codex's: all yes)",,
+F2-54,3,r5465,trace,12,2346.0,2585.9,4.4,4.4,,t = 8 ms,8.00226,0.0011,0.32858,0.43222,piecewise extrapolated y,agreed,claude,8.002,0.023,,2345.7,2585.8
+F2-54,3,r5465,trace,13,2345.0,2578.4,3.5,3.5,,t = 8.5 ms,8.50021,0.07698,0.26812,0.34942,piecewise extrapolated y,agreed,claude,8.500,0.073,,2345.0,2578.3
+F2-54,3,r5465,trace,14,2345.0,2570.9,3.5,3.5,,t = 9 ms,8.99751,0.06927,0.26795,0.34975,piecewise extrapolated y,agreed,claude,8.998,0.068,,2345.0,2570.8
+F2-54,3,r5465,trace,15,2343.7,2563.3,4.0,4.0,,t = 9.5 ms,9.50228,0.17013,0.30127,0.38951,piecewise extrapolated y,agreed,claude,9.502,0.169,,2343.7,2563.2
+F2-54,3,r5465,trace,17,2343.3,2555.8,5.4,5.4,,"t = 10 ms; interpolated through the hand-read onset corner (the baseline's free edge leaves u 2348 at v 2556-2558, under the 10 ms timing line)",9.99984,0.19586,0.39717,0.51205,piecewise extrapolated y,agreed,claude,10.000,0.414,,2340.7,2555.7
+F2-54,3,r5465,trace,18,2335.9,2548.4,5.4,5.4,,"t = 10.5 ms; interpolated through the hand-read onset corner (the baseline's free edge leaves u 2348 at v 2556-2558, under the 10 ms timing line)",10.49733,0.80692,0.39826,0.49883,piecewise,agreed,claude,10.497,0.786,,2336.1,2548.3
+F2-54,3,r5465,trace,19,2326.9,2540.9,4.3,4.3,,t = 11 ms,11.00257,1.55165,0.32525,0.40573,piecewise,agreed,claude,11.003,1.610,,2326.2,2540.8
+F2-54,3,r5465,trace,20,2293.3,2533.8,5.8,5.8,,t = 11.5 ms,11.49759,4.6807,0.42747,0.61298,piecewise,agreed,claude,11.498,4.740,,2293.0,2533.7
+F2-54,3,r5465,trace,21,2231.4,2528.5,5.0,5.0,,g = 10 on the rise (about 22 g/ms there),11.89177,9.99802,0.37451,0.52425,piecewise,agreed,claude,11.892,10.064,,2230.3,2528.4
+F2-54,3,r5465,trace,22,2213.1,2527.1,5.4,5.4,,t = 12 ms,11.99723,11.69048,0.40175,0.59421,piecewise,agreed,claude,11.997,11.798,,2211.7,2527.1
+F2-54,3,r5465,trace,23,2177.3,2526.0,4.5,4.5,,g = 15 on the rise (about 29 g/ms there),12.09442,15.00353,0.34133,0.54936,piecewise,agreed,claude,12.094,15.083,,2176.3,2526.0
+F2-54,3,r5465,trace,24,2120.3,2523.0,4.5,4.5,,g = 20 on the rise (about 22 g/ms there),12.33244,19.99982,0.34194,0.45124,piecewise,agreed,claude,12.332,20.082,,2119.4,2523.0
+F2-54,3,r5465,trace,25,2061.3,2522.0,4.5,4.5,,g = 25 on the rise (about 28 g/ms there),12.43862,24.9983,0.34227,0.43952,piecewise,agreed,claude,12.439,22.324,,2092.9,2521.6
+F2-54,3,r5465,trace,26,2049.4,2521.2,5.5,5.5,,t = 12.5 ms,12.49992,26.03209,0.4099,0.52758,piecewise,agreed,claude,12.500,23.618,,2077.5,2520.9
+F2-54,3,r5465,trace,27,2003.8,2520.0,4.5,4.5,,g = 30 on the rise (about 38 g/ms there),12.61052,29.99565,0.34274,0.44338,piecewise,agreed,claude,12.611,30.145,,2001.8,2520.0
+F2-54,3,r5465,trace,28,1946.7,2518.5,5.9,5.9,,g = 35 on the rise (about 28 g/ms there),12.74891,35.00227,0.43765,0.56772,piecewise,agreed,claude,12.749,35.848,,1937.4,2518.5
+F2-54,3,r5465,trace,29,1889.7,2517.0,4.5,4.5,,g = 40 on the rise (about 29 g/ms there),12.8873,40.00018,0.34353,0.4554,piecewise,agreed,claude,12.887,40.033,,1889.1,2517.0
+F2-54,3,r5465,trace,30,1869.0,2515.5,5.8,5.8,,t = 13 ms,13.00132,41.86321,0.43161,0.57395,piecewise,agreed,claude,13.001,42.002,,1867.3,2515.5
+F2-54,3,r5465,trace,31,1834.2,2514.6,4.9,4.9,,g = 45 on the rise (about 39 g/ms there),13.08482,44.99706,0.37107,0.49632,piecewise,agreed,claude,13.085,44.517,,1839.4,2514.5
+F2-54,3,r5465,trace,32,1779.1,2512.0,5.4,5.4,,g = 50 on the rise (about 16 g/ms there),13.29553,50.0026,0.40541,0.54224,piecewise,agreed,claude,13.296,50.050,,1778.5,2512.0
+F2-54,3,r5465,trace,33,1744.3,2509.3,5.4,5.4,,t = 13.5 ms,13.49929,53.02551,0.40592,0.51878,piecewise,agreed,claude,13.499,53.052,,1743.9,2509.3
+F2-54,3,r5465,trace,34,1721.6,2508.0,4.5,4.5,,g = 55 on the rise (about 28 g/ms there),13.60144,54.99785,0.34536,0.4434,piecewise,agreed,claude,13.601,55.046,,1721.0,2508.0
+F2-54,3,r5465,trace,35,1664.5,2505.0,4.5,4.5,,g = 60 on the rise (about 16 g/ms there),13.84047,60.00289,0.34597,0.44342,piecewise,agreed,claude,13.840,58.341,,1683.2,2504.8
+F2-54,3,r5465,trace,36,1657.1,2502.7,2.4,2.4,,t = 14 ms,13.99911,60.64947,0.20433,0.25696,piecewise,agreed,claude,13.999,60.528,,1658.1,2502.6
+F2-54,3,r5465,trace,37,1607.5,2502.0,4.4,4.4,,g = 65 on the rise (about 18 g/ms there),14.07957,64.99917,0.33982,0.43454,piecewise,agreed,claude,14.080,65.254,,1604.1,2502.0
+F2-54,3,r5465,trace,38,1548.0,2500.0,5.4,5.4,,g = 70 on the rise (about 19 g/ms there),14.25367,69.99666,0.40795,0.59596,piecewise,agreed,claude,14.254,70.031,,1548.3,2499.9
+F2-54,3,r5465,trace,39,1504.8,2496.8,5.4,5.4,,t = 14.5 ms,14.49697,74.10152,0.40857,0.54323,piecewise,agreed,claude,14.497,73.982,,1505.5,2496.7
+F2-54,3,r5465,trace,40,1494.9,2495.4,4.9,4.9,,"g = 75 on the rise (about 14 g/ms there); interpolated through the hand-read pulse tip (blunt tip, outer ink edge u 1458.5 at v 2489-2496)",14.5973,74.99987,0.37497,0.49719,piecewise,agreed,claude,14.597,74.539,,1499.4,2495.3
+F2-54,3,r5465,trace,42,1472.1,2489.6,4.9,4.9,,"t = 15 ms; interpolated through the hand-read pulse tip (blunt tip, outer ink edge u 1458.5 at v 2489-2496)",15.00059,77.01957,0.37588,0.47477,piecewise,agreed,claude,15.001,76.646,,1476.2,2489.5
+F2-54,3,r5465,trace,43,1498.1,2481.9,5.4,5.4,,t = 15.5 ms,15.49747,74.69389,0.41075,0.54339,piecewise,agreed,claude,15.497,74.484,,1499.9,2481.8
+F2-54,3,r5465,trace,44,1534.5,2474.0,4.9,4.9,,t = 16 ms,16.00042,71.3139,0.37794,0.54598,piecewise,agreed,claude,16.000,71.310,,1534.7,2473.9
+F2-54,3,r5465,trace,45,1547.7,2472.0,4.5,4.5,,g = 70 on the fall (about 10 g/ms there),16.12497,69.99291,0.35112,0.50415,piecewise,agreed,claude,16.125,70.089,,1547.3,2471.9
+F2-54,3,r5465,trace,46,1596.2,2465.9,4.5,4.5,,t = 16.5 ms,16.49906,65.91136,0.35185,0.42479,piecewise,agreed,claude,16.499,65.913,,1595.9,2465.9
+F2-54,3,r5465,trace,47,1607.0,2464.0,5.4,5.4,,g = 65 on the fall (about 13 g/ms there),16.61852,65.00192,0.41297,0.52324,piecewise,agreed,claude,16.619,64.047,,1617.3,2463.8
+F2-54,3,r5465,trace,48,1664.0,2459.5,5.0,5.0,,g = 60 on the fall (about 21 g/ms there),16.87963,59.99762,0.38638,0.48781,piecewise,agreed,claude,16.880,59.957,,1664.1,2459.5
+F2-54,3,r5465,trace,49,1684.5,2457.5,4.4,4.4,,t = 17 ms,16.99899,58.19739,0.34602,0.43454,piecewise,agreed,claude,16.999,58.172,,1684.5,2457.5
+F2-54,3,r5465,trace,50,1720.9,2455.0,5.5,5.5,,g = 55 on the fall (about 21 g/ms there),17.14067,55.00201,0.42064,0.53221,piecewise,agreed,claude,17.141,54.913,,1721.8,2454.9
+F2-54,3,r5465,trace,51,1778.4,2452.0,5.4,5.4,,g = 50 on the fall (about 26 g/ms there),17.30102,49.99922,0.41411,0.54236,piecewise,agreed,claude,17.301,49.976,,1778.6,2452.0
+F2-54,3,r5465,trace,52,1828.5,2448.5,4.4,4.4,,t = 17.5 ms,17.49979,45.44121,0.34687,0.45034,piecewise,agreed,claude,17.500,45.434,,1828.5,2448.5
+F2-54,3,r5465,trace,53,1833.3,2448.0,4.5,4.5,,g = 45 on the fall (about 27 g/ms there),17.52982,45.00433,0.35368,0.45954,piecewise,agreed,claude,17.530,44.890,,1834.5,2448.0
+F2-54,3,r5465,trace,54,1888.8,2446.0,5.5,5.5,,g = 40 on the fall (about 21 g/ms there),17.62465,40.00254,0.42135,0.54659,piecewise,agreed,claude,17.625,39.964,,1889.0,2446.0
+F2-54,3,r5465,trace,55,1945.8,2442.0,4.5,4.5,,g = 35 on the fall (about 21 g/ms there),17.85178,34.99863,0.35419,0.44342,piecewise,agreed,claude,17.852,34.965,,1946.6,2442.0
+F2-54,3,r5465,trace,56,1983.6,2439.4,4.4,4.4,,t = 18 ms,17.99882,31.68035,0.34769,0.43454,piecewise,agreed,claude,17.999,31.682,,1983.5,2439.4
+F2-54,3,r5465,trace,57,2002.7,2438.1,4.5,4.5,,g = 30 on the fall (about 15 g/ms there),18.07218,30.00367,0.35457,0.44342,piecewise,agreed,claude,18.072,29.733,,2005.5,2438.1
+F2-54,3,r5465,trace,58,2060.2,2433.0,4.4,4.4,,g = 25 on the fall (about 26 g/ms there),18.37204,24.99869,0.34837,0.43072,piecewise,agreed,claude,18.372,23.419,,2079.2,2432.8
+F2-54,3,r5465,trace,59,2110.4,2430.6,5.2,5.2,,t = 18.5 ms,18.4969,20.74236,0.40254,0.48843,piecewise,agreed,claude,18.497,20.790,,2109.9,2430.6
+F2-54,3,r5465,trace,60,2119.1,2430.0,4.5,4.5,,g = 20 on the fall (about 26 g/ms there),18.5308,20.00451,0.35536,0.451,piecewise,agreed,claude,18.531,20.003,,2119.2,2430.0
+F2-54,3,r5465,trace,61,2176.1,2427.0,4.5,4.5,,g = 15 on the fall (about 52 g/ms there),18.6908,15.00191,0.35561,0.54942,piecewise,agreed,claude,18.691,15.024,,2175.7,2427.0
+F2-54,3,r5465,trace,62,2230.1,2423.5,5.0,5.0,,g = 10 on the fall (about 21 g/ms there),18.88612,9.99865,0.38966,0.52433,piecewise,agreed,claude,18.886,9.964,,2230.1,2423.5
+F2-54,3,r5465,trace,63,2245.4,2421.6,5.4,5.4,,t = 19 ms,19.00194,8.72182,0.41686,0.49716,piecewise,agreed,claude,19.002,8.712,,2245.3,2421.6
+F2-54,3,r5465,trace,64,2304.7,2413.5,8.5,8.5,,"t = 19.5 ms; interpolated through the hand-read bend at the fall's end (the fall's end turns up the page where the 20 ms timing line and the dashed line meet: the fall's ink reaches u 2333-2335 at v 2408-2410 and the trace leaves upward at u 2324-2338, v 2402); trace runs on the 20 ms timing line's ink: center from the free edge and the stroke width",19.49966,3.45409,0.62414,0.87243,piecewise,agreed,claude,19.500,4.260,,2296.7,2413.6
+F2-54,3,r5465,trace,65,2328.8,2405.7,8.5,8.5,,"t = 20 ms; interpolated through the hand-read bend at the fall's end (the fall's end turns up the page where the 20 ms timing line and the dashed line meet: the fall's ink reaches u 2333-2335 at v 2408-2410 and the trace leaves upward at u 2324-2338, v 2402); trace runs on the 20 ms timing line's ink: center from the free edge and the stroke width",20.00189,1.25368,0.62508,0.76287,piecewise,agreed,claude,20.002,1.394,,2327.0,2405.8
+F2-54,3,r5465,trace,67,2341.0,2374.3,6.9,6.9,,t = 22 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,21.99818,0.20138,0.49584,0.6443,piecewise extrapolated y,agreed,claude,21.998,0.389,,2338.7,2374.4
+F2-54,3,r5465,trace,68,2344.5,2342.9,3.0,3.0,,t = 24 ms,24.00023,-0.12355,0.24153,0.314,piecewise extrapolated y,agreed,claude,24.000,-0.126,,2344.5,2342.9
+F2-54,3,r5465,trace,69,2346.0,2311.6,4.5,4.5,,t = 26 ms,25.99723,-0.28117,0.33612,0.45337,piecewise extrapolated y,agreed,claude,25.997,-0.286,,2346.0,2311.6
+F2-54,3,r5465,trace,70,2346.5,2280.2,4.0,4.0,,t = 28 ms,28.00129,-0.35528,0.30146,0.41244,piecewise extrapolated y,agreed,claude,28.001,-0.360,,2346.5,2280.2
+F2-54,3,r5465,trace,72,2346.0,2249.0,7.0,7.0,,t = 30 ms; on the 30 ms timing line: interpolated across the line's ink,29.99331,-0.34559,0.51279,0.677,piecewise extrapolated y,agreed,claude,29.993,-0.351,,2346.0,2249.0
+F2-54,3,r5465,trace,73,2345.0,2218.8,3.5,3.5,,t = 32 ms,32.00176,-0.29306,0.27778,0.36556,piecewise extrapolated y,agreed,claude,32.002,-0.299,,2345.0,2218.8
+F2-54,3,r5465,trace,74,2343.5,2188.8,4.0,4.0,,t = 34 ms,33.99758,-0.19852,0.31162,0.4056,piecewise extrapolated y,agreed,claude,33.998,-0.206,,2343.5,2188.8
+F2-54,3,r5465,trace,75,2343.0,2158.7,4.4,4.4,,t = 36 ms,35.99927,-0.18769,0.33874,0.44046,piecewise extrapolated y,agreed,claude,35.999,-0.184,,2342.9,2158.7
+F2-54,3,r5465,trace,76,2341.0,2128.6,4.5,4.5,,t = 38 ms,38.00215,-0.05145,0.34567,0.44335,piecewise extrapolated y,agreed,claude,38.002,-0.060,,2341.0,2128.6
+F2-54,3,r5465,trace,77,2340.3,2098.5,7.5,7.5,,t = 40 ms; on the 40 ms timing line: interpolated across the line's ink,40.00383,-0.0239,0.54747,0.70712,piecewise extrapolated y,agreed,claude,40.004,-0.028,,2340.2,2098.5
+F2-54,3,r5465,trace,78,2339.0,2067.2,3.5,3.5,,t = 42 ms,41.99925,0.05257,0.26547,0.35048,piecewise extrapolated y,agreed,claude,41.999,0.032,,2339.1,2067.2
+F2-54,3,r5465,trace,79,2339.0,2035.8,3.5,3.5,,t = 44 ms,44.00004,0.02026,0.26375,0.35189,piecewise extrapolated y,agreed,claude,44.000,0.010,,2339.0,2035.8
+F2-54,3,r5465,trace,80,2338.0,2004.4,4.5,4.5,,t = 46 ms,46.0016,0.07156,0.32658,0.43798,piecewise extrapolated y,agreed,claude,46.002,0.060,,2338.0,2004.4
+F2-54,3,r5465,trace,81,2337.5,1973.0,4.0,4.0,,t = 48 ms,48.00278,0.08105,0.2926,0.3934,piecewise extrapolated y,agreed,claude,48.003,0.069,,2337.5,1973.0
+F2-54,3,r5465,trace,82,2337.3,1941.7,7.5,7.5,,t = 50 ms; on the 50 ms timing line: interpolated across the line's ink,49.99736,0.06556,0.51978,0.70322,piecewise extrapolated y,agreed,claude,49.997,0.057,,2337.3,1941.6
+F2-54,3,r5465,trace,83,2336.0,1910.4,3.5,3.5,,t = 52 ms,52.00193,0.14204,0.26433,0.34658,piecewise extrapolated y,agreed,claude,52.002,0.129,,2336.0,1910.3
+F2-54,3,r5465,trace,84,2336.0,1879.2,7.0,7.0,,t = 54 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,53.99912,0.10993,0.49574,0.65712,piecewise extrapolated y,agreed,claude,53.999,0.174,,2335.1,1879.2
+F2-54,3,r5465,trace,85,2334.5,1848.0,4.0,4.0,,t = 56 ms,55.99747,0.20323,0.30517,0.38807,piecewise extrapolated y,agreed,claude,55.997,0.175,,2334.7,1847.9
+F2-54,3,r5465,trace,86,2335.0,1816.7,7.0,7.0,,t = 58 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,58.00067,0.12922,0.50415,0.65628,piecewise extrapolated y,agreed,claude,58.001,0.448,,2331.0,1816.7
+F2-54,3,r5465,trace,87,2334.5,1785.4,7.0,7.0,,t = 60 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 60 ms timing line: interpolated across the line's ink,60.00445,0.13882,0.50604,0.65586,piecewise extrapolated y,agreed,claude,60.004,0.289,,2332.5,1785.4
+F2-54,3,r5465,trace,88,2335.0,1752.9,6.0,6.0,,t = 62 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,61.99701,0.06357,0.42347,0.57082,piecewise extrapolated y,agreed,claude,61.997,0.391,,2330.9,1752.9
+F2-54,3,r5465,trace,89,2333.0,1720.3,6.0,6.0,,t = 64 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,63.99758,0.19724,0.42293,0.56499,piecewise extrapolated y,agreed,claude,63.998,0.497,,2329.2,1720.3
+F2-54,3,r5465,trace,90,2333.0,1687.6,3.5,3.5,,t = 66 ms,66.00279,0.16359,0.26717,0.34564,piecewise extrapolated y,agreed,claude,66.003,0.147,,2333.0,1687.6
+F2-54,3,r5465,trace,91,2333.0,1655.0,7.4,7.4,,t = 68 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,68.00186,0.13004,0.50878,0.69158,piecewise extrapolated y,agreed,claude,68.002,0.446,,2329.0,1655.0
+F2-54,3,r5465,trace,92,2332.0,1622.4,7.5,7.5,,t = 70 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 70 ms timing line: interpolated across the line's ink,70.0017,0.1801,0.51911,0.69822,piecewise extrapolated y,agreed,claude,70.002,0.475,,2328.2,1622.4
+F2-54,3,r5465,trace,94,2329.0,1590.2,6.5,6.5,,t = 72 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,71.99696,0.39778,0.45644,0.6004,piecewise extrapolated y,agreed,claude,71.997,0.484,,2327.7,1590.2
+F2-54,3,r5465,trace,95,2318.0,1525.7,6.5,6.5,,t = 76 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,75.99722,1.25107,0.45637,0.59193,piecewise,agreed,claude,75.997,1.115,,2319.4,1525.7
+F2-54,3,r5465,trace,96,2313.0,1493.4,6.5,6.5,,t = 78 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,77.99996,1.63585,0.45634,0.62444,piecewise,agreed,claude,78.000,1.320,,2316.5,1493.4
+F2-54,3,r5465,trace,97,2310.6,1461.2,8.0,8.0,,t = 80 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 80 ms timing line: interpolated across the line's ink,79.99455,1.80337,0.56709,0.79342,piecewise,agreed,claude,79.995,1.564,,2313.2,1461.3
+F2-54,3,r5465,trace,98,2310.0,1429.8,4.5,4.5,,t = 82 ms,82.002,1.82122,0.33889,0.45747,piecewise,agreed,claude,82.002,1.784,,2310.1,1429.9
+F2-54,3,r5465,trace,100,2310.0,1398.5,4.5,4.5,,t = 84 ms,84.00278,1.78902,0.33519,0.45287,piecewise,agreed,claude,84.003,1.762,,2310.0,1398.6
+F2-54,3,r5465,trace,101,2312.0,1367.2,6.9,6.9,,t = 86 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,86.00203,1.5896,0.48702,0.65652,piecewise,agreed,claude,86.002,1.315,,2315.0,1367.3
+F2-54,3,r5465,trace,102,2315.0,1335.9,6.5,6.5,,t = 88 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,88.00049,1.30657,0.45741,0.59193,piecewise,agreed,claude,88.000,1.162,,2316.4,1336.0

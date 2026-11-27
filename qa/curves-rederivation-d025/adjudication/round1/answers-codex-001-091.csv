@@ -1,0 +1,92 @@
+item,answer,confidence,comment
+001,all yes,high,P is on the descending line ink before the plus symbol.
+002,all yes,high,Both Q samples lie on the rising n1760 line.
+003,neither,high,P is on the square outline; Q crosses its white interior where the line is interrupted.
+004,some,high,"Off-line: (2019,2038) is on the square outline; (2048,2030) is on line ink."
+005,all yes,high,P lies on the rising line ink above the square.
+006,no,high,Q lies in the white interruption before the asterisk.
+007,all yes,high,Q lies on the start of the rising line.
+008,all yes,high,P lies on the rising n3520 line above the x.
+009,yes,medium,P is on the nearly flat tail just after the triangle; the transition is rounded.
+010,all yes,high,P lies on the rising line after the triangle-down symbol.
+011,all yes,high,Q lies on the rising line ink after the plus.
+012,all yes,high,Q is on the final line ink before the gap to the plus.
+013,no,high,Q is in the square's white interior; the drawn line is interrupted here.
+014,no,high,Q is inside the square rather than on the interrupted line.
+015,all yes,high,Q lies on the initial rising line ink.
+016,all yes,high,P lies on the line's right tip before the square's white gap.
+017,q,high,Q is at the asterisk's central junction; P is on its left arm.
+018,all yes,high,P is on the rising line after the white gap to the asterisk.
+019,all yes,high,P remains on the final curved dash before the asterisk gap.
+020,all yes,medium,P is on the rising line above the thin horizontal grid stroke.
+021,all yes,medium,P lies on the tail ink immediately before the circle.
+022,p,high,P is at the x intersection; Q is on the left arm.
+023,all yes,high,Q lies on the initial rising dash.
+024,all yes,high,Q lies on the falling line before the gap to the x.
+025,both,medium,Both marks are within the triangle's central region between centroid and bounding-box middle.
+026,all yes,high,Q is on the start of the rising dash after the triangle gap.
+027,q,high,Q is in the central region of the down triangle; P is on its right edge.
+028,q,high,Q is centered inside the square; P is on its left edge.
+029,q,high,Q is centered inside the square; P is on its left edge.
+030,p,high,P is at the asterisk junction; Q is over the neighbouring square.
+031,q,medium,Q is at the x intersection below the stacked symbols; P is left of it.
+032,all yes,high,Q lies on the initial rising line ink.
+033,all yes,high,P lies on the rising dash above the triangle-down gap.
+034,all yes,high,Both P samples lie on the rising n2345 line.
+035,p,high,P is at the asterisk junction; Q is on its right arm.
+036,q,high,Q is at the asterisk junction; P is on the upper-right arm.
+037,p,high,P is at the asterisk junction; Q is on its right arm.
+038,q,high,Q is at the asterisk junction; P is on its upper-right arm.
+039,p,high,P is at the asterisk junction; Q is on its upper-right arm.
+040,p,high,P is at the asterisk junction; Q is on its right arm.
+041,all yes,high,P remains on the final falling dash before the asterisk gap.
+042,some,high,"Off-line: (640,2172) is on the asterisk's upper stroke; (651,2137) is on line ink."
+043,neither,high,The line ends left of both marks with a white gap; Q is on the circle edge and P inside it.
+044,all yes,high,Q lies on the start of the rising line after the circle gap.
+045,all yes,high,P is on the final falling dash before the circle gap.
+046,all yes,high,Q is on the initial rising dash above the x.
+047,all yes,high,Q lies on the right tip of the falling line.
+048,q,high,Q has the broad maximum's line height; P marks the triangle's apex above the line.
+049,no,high,P is on the triangle's right outline beyond the frame; it is not the drawn-line endpoint.
+050,all yes,high,Q lies on the rising line after the triangle.
+051,both,medium,Both marks fall inside the filled circle; P is more central and Q near its left edge.
+052,both,medium,Both marks fall inside the filled circle; Q is more central and P near its left edge.
+053,both,medium,Both marks fall inside the filled circle; Q is more central and P near its left edge.
+054,both,medium,Both marks fall inside the filled circle; P is more central and Q near its left edge.
+055,both,medium,Both marks fall inside the filled circle; P is more central and Q near its left edge.
+056,both,medium,Both marks fall inside the filled circle; Q is more central and P near its left edge.
+057,all yes,high,Both Q samples lie on the rising n1468 line.
+058,all no,high,Q is on the final circle's left outline after the line's white gap.
+059,p,medium,The line joins the final triangle without a gap; P is in its central region and Q on the left join.
+060,all yes,high,Q lies on the rising line above the first triangle.
+061,all no,medium,P lies on the left outline of the final triangle where the line merges into the symbol.
+062,all yes,high,P lies on the initial rising n2995 line after the square.
+063,all yes,high,Q is on the final dash before the gap to the square.
+064,all yes,medium,Both Q samples lie on the curved initial n3660 stroke leading upward to the x symbols.
+065,all yes,high,P lies on the final falling dash before the x gap.
+066,p,high,P follows the upper asterisk curve; Q is on the lower n3660 curve.
+067,all no,high,All Q samples are on the initial n3660 stroke rather than the n4400 line.
+068,all yes,high,Q lies on the last horizontal dash before the asterisk gap.
+069,p,medium,P lies within the filled n734 circle; Q is on the upper-right line join at its edge.
+070,all yes,high,Q lies on line ink just after the filled circle.
+071,cannot tell,low,Stacked strokes merge; the pockets do not establish separate square and asterisk outlines.
+072,cannot tell,low,Merged stacked symbols make the triangle/square versus x assignment ambiguous.
+073,cannot tell,low,The vertical grid stroke and merged stack obscure separate square/asterisk versus x outlines.
+074,cannot tell,low,The small enclosed pockets in merged strokes do not securely identify separate symbols.
+075,neither,high,"The line ends near (1146,2220) with a white gap; P is in the gap and Q inside the circle."
+076,all no,high,P is on the first circle's upper outline rather than on the rising line.
+077,all yes,high,Q lies on the final dash before the circle's white gap.
+078,all no,high,P is on the first triangle's upper-right outline rather than the line.
+079,all yes,high,Q lies on the initial rising dash after the square gap.
+080,all yes,high,Q lies on the final falling dash before the square gap.
+081,all yes,high,P is on the initial rising dash above the x.
+082,all yes,high,Q lies on the last horizontal dash before the x gap.
+083,all yes,high,Q lies on the initial rising dash after the asterisk gap.
+084,all yes,high,Q lies on the falling dash before the final asterisk gap.
+085,all yes,high,P lies on the initial rising n734 line.
+086,cannot tell,low,The loop and adjoining triangle/x strokes merge; the white pocket alone does not establish a circle.
+087,p,high,P is centered in the square; Q is near its top outline beneath the neighbouring circle.
+088,p,high,P is at the x intersection; Q is on its upper-right arm.
+089,all yes,high,Both P samples lie on the rising line ink to the right of the square.
+090,all yes,high,Both Q samples lie on the dash ends either side of the square's interruption.
+091,all yes,high,P lies on the left dash's final ink before the square gap.

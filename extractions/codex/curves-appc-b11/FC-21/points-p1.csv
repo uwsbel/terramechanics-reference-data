@@ -1,0 +1,63 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-21,1,data,marker,1,669,2037,17,17,circle,pair 1 left; circle overlaps hatching
+FC-21,1,data,marker,2,1361,2023,18,18,circle,"pair 1 right; circle overlaps another circle, hatching and vertical grid line"
+FC-21,1,data,marker,3,1361,2042,18,18,circle,"single; circle overlaps pair 1 right, hatching and vertical grid line; two rings visible"
+FC-21,1,data,marker,4,1033,1983,17,17,circle,pair 2 left; circle overlaps hatching
+FC-21,1,data,marker,5,1177,1983,17,17,circle,pair 2 right; circle overlaps hatching
+FC-21,1,data,marker,6,2339,2202,17,17,circle,pair 3 left; circle overlaps hatching
+FC-21,1,data,marker,7,2426,2199,17,17,circle,pair 3 right; circle overlaps hatching; close to right frame but not cut
+FC-21,1,data,marker,8,2339,2245,17,17,circle,single; circle overlaps hatching
+FC-21,1,band-top,trace,1,590,1953.43,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,2,662.21,1952.04,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,3,738.91,1950.56,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,4,815.62,1949.07,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,5,892.32,1947.59,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,6,970.45,1946.08,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,7,1048.58,1944.57,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,8,1127.8,1943.04,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,9,1207.01,1941.51,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,10,1283.07,1940.04,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,11,1359.14,1938.57,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,12,1437.57,1937.06,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,13,1516.01,1935.54,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,14,1594.75,1934.02,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,15,1673.5,1932.5,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,16,1751.34,1931.0,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,17,1829.17,1929.5,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,18,1905.49,1928.02,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,19,1981.8,1926.55,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,20,2059.87,1925.04,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,21,2137.94,1923.53,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,22,2216.28,1922.02,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,23,2294.63,1920.5,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,24,2372.97,1918.99,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,trace,25,2454,1917.43,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-top,feature,1,590,1953.43,2.5,2.5,,first point
+FC-21,1,band-top,feature,2,2454,1917.43,2.5,2.5,,last point; peak
+FC-21,1,band-bottom,trace,1,599,2335.98,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,2,669.95,2334.71,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,3,746.87,2333.33,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,4,823.79,2331.95,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,5,900.72,2330.58,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,6,979.01,2329.18,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,7,1057.3,2327.78,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,8,1136.65,2326.36,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,9,1216.0,2324.94,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,10,1292.03,2323.57,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,11,1368.06,2322.21,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,12,1446.17,2320.82,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,13,1524.28,2319.42,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,14,1603.23,2318.01,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,15,1682.19,2316.59,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,16,1760.05,2315.2,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,17,1837.91,2313.81,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,18,1913.49,2312.45,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,19,1989.06,2311.1,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,20,2067.23,2309.7,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,21,2145.39,2308.3,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,22,2223.93,2306.9,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,23,2302.47,2305.49,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,24,2381.01,2304.09,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,trace,25,2460,2302.67,2.5,2.5,,band boundary coincides with grid line
+FC-21,1,band-bottom,feature,1,599,2335.98,2.5,2.5,,first point
+FC-21,1,band-bottom,feature,2,2460,2302.67,2.5,2.5,,last point; peak

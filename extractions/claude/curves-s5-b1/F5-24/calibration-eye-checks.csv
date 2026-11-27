@@ -1,0 +1,20 @@
+figure_id,panel,axis,label_printed,value,label_u,label_v,label_extent_px,line_position_px,offset_px,line_source,check
+F5-24,1,"x (time, s)",.1,0.1,2349.5,1093.0,v 1074..1112,v = 1094.2 at u 2350,-1.2,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.09,0.09,2353.0,1340.0,v 1305..1375,v = 1338.3 at u 2353,1.7,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.08,0.08,2356.5,1581.0,v 1545..1617,v = 1580.2 at u 2356,0.8,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.07,0.07,2360.0,1834.5,v 1798..1871,v = 1826.4 at u 2360,8.1,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.06,0.06,2362.5,2068.0,v 2031..2105,v = 2071.4 at u 2362,-3.4,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.05,0.05,2366.0,2319.5,v 2284..2355,v = 2316.9 at u 2366,2.6,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.04,0.04,2368.5,2562.0,v 2526..2598,v = 2561.5 at u 2368,0.5,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.03,0.03,2371.5,2806.5,v 2772..2841,v = 2804.4 at u 2372,2.1,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.02,0.02,2375.0,3047.5,v 3013..3082,v = 3047.0 at u 2375,0.5,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",.01,0.01,2377.5,3290.5,v 3256..3325,v = 3292.4 at u 2378,-1.9,detected in 10/10 bands,label centered on its line
+F5-24,1,"x (time, s)",0,0.0,2380.0,3539.0,v 3526..3552,v = 3535.7 at u 2380,3.3,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",6.0,6.0,856.0,3643.5,u 836..876,u = 856.2 at v 3644,-0.2,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",5.0,5.0,1100.5,3642.5,u 1080..1121,u = 1101.1 at v 3642,-0.6,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",4.0,4.0,1341.0,3641.0,u 1322..1360,u = 1340.8 at v 3641,0.2,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",3.0,3.0,1582.5,3638.0,u 1563..1602,u = 1587.0 at v 3638,-4.5,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",2.0,2.0,1829.5,3635.5,u 1810..1849,u = 1828.1 at v 3636,1.4,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",1.0,1.0,2069.5,3632.5,u 2050..2089,u = 2073.4 at v 3632,-3.9,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",0,0.0,2316.0,3608.0,u 2297..2335,u = 2316.5 at v 3608,-0.5,detected in 10/10 bands,label centered on its line
+F5-24,1,"y (footpad penetration depth, in.)",(none),,,,,"left frame, center u 578.5 at v 1200 to 610.5 at v 3450, 242 to 243 px beyond the 6.0 line (grid spacing 245 to 247 px): where 7.0 would fall",,not used: outside the calibration box,"frame extends one spacing past the last labeled line (6.0) and carries no label; left out of the calibration box, not a knot (no value used for it)"

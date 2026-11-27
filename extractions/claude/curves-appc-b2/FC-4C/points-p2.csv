@@ -1,0 +1,72 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-4C,2,n4695,marker,1,760.0,3135.5,3,3,plus,"plus on the left frame (x about 0), lowest of the x=0 stack"
+FC-4C,2,n4695,marker,2,832.6,3137.5,2,2,plus,
+FC-4C,2,n4695,marker,3,899.5,3116.0,2,2,plus,
+FC-4C,2,n4695,marker,4,956.0,3109.5,2,2,plus,
+FC-4C,2,n4695,marker,5,1067.0,3081.4,3,3,plus,plus on the 50 gridline (vertical stroke coincides with it)
+FC-4C,2,n4695,marker,6,1182.0,3053.6,2,2,plus,
+FC-4C,2,n4695,marker,7,1301.0,3048.5,2,2,plus,
+FC-4C,2,n4695,marker,8,1413.1,3031.6,2,2,plus,
+FC-4C,2,n4695,marker,9,1536.0,3028.5,2,2,plus,
+FC-4C,2,n4695,marker,10,1649.6,3020.5,3,3,plus,plus on the 150 gridline
+FC-4C,2,n4695,marker,11,1761.0,3029.6,2,2,plus,
+FC-4C,2,n4695,marker,12,1874.5,3020.4,2,2,plus,
+FC-4C,2,n4695,marker,13,1942.0,3014.0,3,3,plus,plus on the 200 gridline
+FC-4C,2,n4695,marker,14,2057.4,3007.5,2,2,plus,
+FC-4C,2,n4695,marker,15,2225.5,3010.5,3,3,plus,"plus on the 250 gridline; vertical stroke coincides with it, u uncertain"
+FC-4C,2,n3815,marker,1,735.5,3125.8,3,3,circle,circle drawn left of the frame (x below 0)
+FC-4C,2,n3815,marker,2,852.6,3107.1,2,2,circle,
+FC-4C,2,n3815,marker,3,895.1,3091.5,2,2,circle,small ring next to the x=20 cluster
+FC-4C,2,n3815,marker,4,1007.3,3050.0,2,2,circle,
+FC-4C,2,n3815,marker,5,1122.5,3020.7,2,2,circle,
+FC-4C,2,n3815,marker,6,1236.9,3004.0,2,2,circle,
+FC-4C,2,n3815,marker,7,1300.2,3004.9,2,2,circle,
+FC-4C,2,n3815,marker,8,1413.1,2995.4,2,2,circle,
+FC-4C,2,n3815,marker,9,1470.5,2995.7,2,2,circle,
+FC-4C,2,n3815,marker,10,1530.6,2998.1,2,2,circle,
+FC-4C,2,n3815,marker,11,1641.3,2995.8,3,3,circle,circle on the 150 gridline
+FC-4C,2,n3815,marker,12,1761.0,2995.9,2,2,circle,
+FC-4C,2,n3815,marker,13,1876.6,2997.2,2,2,circle,
+FC-4C,2,n3815,marker,14,1933.0,2990.0,3,3,circle,circle on the 200 gridline
+FC-4C,2,n3815,marker,15,2049.3,2993.7,2,2,circle,
+FC-4C,2,n3815,marker,16,2218.4,2985.4,3,3,circle,circle on the 250 gridline
+FC-4C,2,n2934,marker,1,766.8,3128.7,4,4,triangle-up,"triangle-up on the left frame (x about 0), third of the stack; outline merged with neighbours"
+FC-4C,2,n2934,marker,2,802.4,3115.8,2,2,triangle-up,
+FC-4C,2,n2934,marker,3,871.8,3089.0,2,2,triangle-up,
+FC-4C,2,n2934,marker,4,932.2,3081.9,4,4,triangle-up,triangle-up whose apex runs into the 0 gridline; overlaps the square at u 910
+FC-4C,2,n2934,marker,5,1182.5,3000.5,2,2,triangle-up,
+FC-4C,2,n2934,marker,6,1295.2,2973.9,2,2,triangle-up,
+FC-4C,2,n2934,marker,7,1353.4,2956.2,3,3,triangle-up,triangle on the 100 gridline
+FC-4C,2,n2934,marker,8,1497.5,2914.0,2,2,triangle-up,
+FC-4C,2,n2934,marker,9,1725.6,2904.2,2,2,triangle-up,
+FC-4C,2,n2934,marker,10,1933.0,2877.2,3,3,triangle-up,"triangle on the 200 gridline, base touching the square below"
+FC-4C,2,n2934,marker,11,2048.6,2879.5,3,3,triangle-up,triangle sitting on the square below it
+FC-4C,2,n2934,marker,12,2217.6,2860.4,3,3,triangle-up,"triangle, top of the stack of three symbols on the 250 gridline"
+FC-4C,2,n1761,marker,1,769.0,3093.0,4,4,square,square on the left frame (x about 0); right side hidden by the frame line
+FC-4C,2,n1761,marker,2,892.0,3072.0,4,4,square,"square outline whose top is hidden under the 0 gridline, 18 px left of the next square; could instead be a triangle-down of n741 (flat hole favours square)"
+FC-4C,2,n1761,marker,3,910.4,3081.4,2,2,square,
+FC-4C,2,n1761,marker,4,1063.0,3016.0,3,3,square,square split by the 50 gridline; centre from both halves of the hole
+FC-4C,2,n1761,marker,5,1179.6,2976.4,2,2,square,
+FC-4C,2,n1761,marker,6,1241.2,2944.5,2,2,square,
+FC-4C,2,n1761,marker,7,1352.4,2928.4,3,3,square,square on the 100 gridline
+FC-4C,2,n1761,marker,8,1468.3,2921.2,2,2,square,
+FC-4C,2,n1761,marker,9,1585.5,2909.2,2,2,square,
+FC-4C,2,n1761,marker,10,1697.6,2900.1,2,2,square,
+FC-4C,2,n1761,marker,11,1817.9,2900.1,2,2,square,
+FC-4C,2,n1761,marker,12,1931.8,2891.6,3,3,square,"square on the 200 gridline, under the triangle"
+FC-4C,2,n1761,marker,13,2049.9,2897.3,2,2,square,
+FC-4C,2,n1761,marker,14,2216.6,2903.4,3,3,square,"square, bottom of the stack of three on the 250 gridline"
+FC-4C,2,n741,marker,1,768.0,3112.0,4,4,triangle-down,"triangle-down on the left frame (x about 0), stacked under the square; top band merged"
+FC-4C,2,n741,marker,2,829.1,3104.3,2,2,triangle-down,
+FC-4C,2,n741,marker,3,949.4,3073.0,4,4,triangle-down,triangle-down whose top edge is hidden under the 0 gridline; a second triangle-down sits 29 px above it
+FC-4C,2,n741,marker,4,949.6,3044.2,3,3,triangle-down,second triangle-down at the same x as the one on the 0 gridline
+FC-4C,2,n741,marker,5,1061.2,2990.5,3,3,triangle-down,triangle-down on the 50 gridline
+FC-4C,2,n741,marker,6,1177.4,2938.5,2,2,triangle-down,
+FC-4C,2,n741,marker,7,1295.9,2933.1,2,2,triangle-down,
+FC-4C,2,n741,marker,8,1407.8,2927.8,2,2,triangle-down,
+FC-4C,2,n741,marker,9,1530.2,2914.3,2,2,triangle-down,
+FC-4C,2,n741,marker,10,1640.2,2906.1,3,3,triangle-down,triangle-down on the 150 gridline
+FC-4C,2,n741,marker,11,1758.5,2903.3,2,2,triangle-down,
+FC-4C,2,n741,marker,12,1874.5,2891.0,2,2,triangle-down,
+FC-4C,2,n741,marker,13,1992.7,2891.1,2,2,triangle-down,
+FC-4C,2,n741,marker,14,2218.0,2886.0,4,4,triangle-down,triangle-down in the stack of three symbols on the 250 gridline; right part under the gridline

@@ -1,0 +1,23 @@
+{
+  "agent": "claude",
+  "batch": "curves-s2-b1",
+  "date": "2026-10-30",
+  "model": "claude-fable-5-1 (subagents launched from a Claude Code session, one per figure)",
+  "prompt": "TASK.md plus a task naming the workspace and the figure of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-s2-b1/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; read before any Codex reading existed; filed after the Codex run had finished",
+  "readers": {
+    "F2-29": {
+      "reader": "one subagent for F2-29"
+    },
+    "F2-32": {
+      "reader": "one subagent for F2-32"
+    },
+    "F2-33": {
+      "reader": "one subagent for F2-33"
+    },
+    "F2-34": {
+      "reader": "one subagent for F2-34"
+    }
+  }
+}

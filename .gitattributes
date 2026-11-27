@@ -1,0 +1,13 @@
+# Generated site pages and data files are compared byte for byte by tools/build_site.py --check;
+# keep them LF on every platform so a checkout cannot fail the check.
+site/** text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
+# Acquired source files are byte-exact (checksummed); never convert line endings
+nasa-reports/** -text
+nasa-reports/*.md text eol=lf
+*.sh text eol=lf
+

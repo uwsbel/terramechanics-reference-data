@@ -1,0 +1,20 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-11A,1,rsm-loose,marker,1,921.3,3566.5,2,5.8,triangle-up,centroid of the outline (ink u 902..941 v 3544..3578; the bottom row of the base is fragmentary); just below the drawn line and not touching it,725.801,796.073,8.533,22.181,piecewise
+FC-11A,1,rsm-loose,marker,2,1218.5,3267.5,2,5.5,triangle-up,centroid; outline ink u 1200..1237 v 3246..3278; clean; above the drawn line,1744.385,1817.871,9.228,22.452,piecewise
+FC-11A,1,rsm-loose,marker,3,1558.5,3004.8,2,5.8,triangle-up,centroid; outline ink u 1540..1577 v 2982..3016; clean; 5 px left of the x = 3000 grid line,2910.424,2721.644,9.142,23.238,piecewise
+FC-11A,1,rsm-loose,marker,4,1817.2,2931.5,2,5.5,triangle-up,centroid; outline ink u 1800..~1836 v 2910..2942; the y = 3000 grid line crosses the symbol at mid-height (v 2924..2927) but the apex and base are clear; below the drawn line,3793.749,2978.886,9.175,22.059,piecewise
+FC-11A,1,rsm-loose,marker,5,2080.0,2694.5,2,5.3,triangle-up,centroid; outline ink u 2062..2098 v 2674..2704 (a blob at the right base corner to v 2706 not counted in the base); the drawn line ends 8 px left of and below its lower left corner without touching it,4690.596,3804.246,8.886,21.243,piecewise
+FC-11A,1,rsm-loose,trace,1,707.1,3679.8,4.9,4.9,,left end: the line runs into the x = 0 frame line (no ink left of the frame at u 690..702); end taken where the line's centre (fitted on its ink at u 717..900) meets the frame's centre line,0.268,410.964,18.424,19.16,piecewise extrapolated x
+FC-11A,1,rsm-loose,trace,2,854.7,3574.6,4.9,4.9,,x = 500 psf,499.962,766.951,18.362,19.254,piecewise
+FC-11A,1,rsm-loose,trace,3,1002.4,3468.0,4.9,4.9,,x = 1000 psf on the vertical grid line; centre from the line's ink 6 to 14 px either side,1000.016,1129.884,18.709,19.793,piecewise
+FC-11A,1,rsm-loose,trace,4,1147.5,3364.4,4.9,4.9,,x = 1500 psf,1500.159,1486.451,19.069,20.159,piecewise
+FC-11A,1,rsm-loose,trace,5,1292.6,3259.5,4.9,4.9,,x = 2000 psf on the vertical grid line; centre from the line's ink either side,2000.172,1847.331,19.399,20.53,piecewise
+FC-11A,1,rsm-loose,trace,6,1438.6,3153.7,4.9,4.9,,x = 2500 psf,2500.157,2211.491,19.183,20.576,piecewise
+FC-11A,1,rsm-loose,trace,7,1584.5,3048.1,4.9,4.9,,x = 3000 psf on the vertical grid line; centre from the line's ink either side,3000.031,2575.157,19.07,20.353,piecewise
+FC-11A,1,rsm-loose,trace,8,1731.2,2941.9,4.9,4.9,,x = 3500 psf,3500.151,2940.88,19.036,20.129,piecewise
+FC-11A,1,rsm-loose,trace,9,1877.8,2836.2,4.9,4.9,,x = 4000 psf on the vertical grid line; centre from the line's ink either side,3999.914,3309.195,19.133,20.212,piecewise
+FC-11A,1,rsm-loose,trace,10,2024.2,2731.4,4.9,4.9,,x = 4500 psf,4500.012,3675.232,18.904,20.02,piecewise
+FC-11A,1,rsm-loose,trace,11,2054.0,2709.9,4.9,4.9,,right end: last column of the line's ink (u 2054..2055); a speck at u 2057..2059 v 2716..2718 is not the line,4601.78,3750.318,18.854,19.981,piecewise
+FC-11A,1,rsm-loose,feature,1,707.1,3679.8,4.9,4.9,,first point of the line (= trace 1),0.268,410.964,18.424,19.16,piecewise extrapolated x
+FC-11A,1,rsm-loose,feature,2,2054.0,2709.9,4.9,4.9,,last point of the line (= trace 11); also its maximum,4601.78,3750.318,18.854,19.981,piecewise
+FC-11A,1,rsm-loose,feature,3,707.1,3679.8,4.9,4.9,,intercept: the line reaches the normal-stress-zero axis (frame line x = 0); its centre extrapolated from u 717..900 to the frame's centre line,0.268,410.964,18.424,19.16,piecewise extrapolated x

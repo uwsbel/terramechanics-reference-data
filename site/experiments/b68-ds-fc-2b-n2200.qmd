@@ -1,0 +1,89 @@
+---
+title: "Direct shear of PS soil at 105.3 kPa normal stress"
+record: "b68-ds-fc-2b-n2200"
+kind: "single"
+test-type: "Direct shear"
+family: "PS"
+state: "state not printed"
+printed-label: "sigma 2200 PSF, gamma 25.6 PCF"
+evidence: "FC-10A;FC-10C;FC-2A;FC-2B;text C-1 (PDF 115)"
+setup: "incomplete"
+record-status: "agreed"
+priority: "1"
+mcc: "maybe"
+---
+Direct shear test on PS soil at relative density 0.33 to 0.53; apparatus: direct shear (University of Notre Dame); loading: normal stress 2200 psf. Recorded: shear stress and dilation vs shear displacement. One of 6 tests of this soil and density at normal stresses from 35.1 to 210.7 kPa, the family the report used to draw the failure envelope.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 81 of the 116 points, and 29 are still under review. Student reviewers have looked at 28 of the 116 points on the scan; two reviewers confirmed 3 of them (see the provenance page). The test setup is incomplete: specimen height, displacement rate are not reported.
+:::
+
+## Data
+
+![shear stress and dilation (normal displacement; positive up) against shear displacement, SI units, this test in red and the other tests printed in Fig. C-2B in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-ds-fc-2b-n2200.png){.lightbox}
+
+Peak shear stress 130.1 kPa at 4.94 mm shear displacement; 127.3 kPa at 6.35 mm, the end of the record. Dilation 121 micrometers at the end.
+
+Download: [observations.csv](../files/data/experiments/b68-ds-fc-2b-n2200/observations.csv) (116 points: 41 plotted symbols, 72 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: shear stress in Pa against shear displacement in m; panel 2: dilation (normal displacement; positive up) in m against shear displacement in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-ds-fc-2b-n2200/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 8 micrometers in shear displacement, 1.0 kPa in shear stress (0.8 percent of the peak), 57 micrometers in dilation. Both independent readings agree within these bounds at 81 of the 116 points; 29 are still under review (hollow in the plot) and 6 were settled against the scan. [Check the digitized points against the scan](../figures/index.qmd#check-fc-2b).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil family | PS | PS | FC-10A, FC-10C, FC-2A, FC-2B |
+| material | gradation | *not yet extracted* |  | F2-14 average curve for the family; individual analyses in Vol. II Appendix A |
+| state | relative density Dr | 0.33 to 0.53 | 0.33 to 0.53 | FC-10A, FC-10C, FC-2A, FC-2B |
+| state | unit weight | 4021 N/m^3 (bulk density 410.1 kg/m^3) | 25.6 pcf | FC-10A, FC-10C, FC-2A, FC-2B |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| apparatus | shear box | direct shear (University of Notre Dame) | direct shear (University of Notre Dame) | text 2-40, PDF 65; Fig. 2-20 |
+| apparatus | specimen height | *not reported* |  |  |
+| loading | normal stress, held constant | 105.34 kPa | 2200 psf | FC-2B legend |
+| loading | displacement rate | *not reported* |  | text 2-40, PDF 65 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | shear stress and dilation vs shear displacement |  | FC-10A, FC-10C, FC-2A, FC-2B |
+| measured | dilation zero | *not stated.* Our observation from the digitized points: the first dilation reading of this test is -231 micrometers (below zero by more than its reading bound), so the gauge zero may have been set before the normal load was applied |  | FC-2B, lower panel |
+| soil strength | friction angle | *not yet extracted* |  | Fig. 2-23 for the family against Dr |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| normal stress | record |
+| --- | --- |
+| 35.1 kPa (734 psf) | [b68-ds-fc-2b-n734](b68-ds-fc-2b-n734.qmd) |
+| 70.3 kPa (1468 psf) | [b68-ds-fc-2b-n1468](b68-ds-fc-2b-n1468.qmd) |
+| 105.3 kPa (2200 psf) | **b68-ds-fc-2b-n2200** (this page) |
+| 140.5 kPa (2935 psf) | [b68-ds-fc-2b-n2935](b68-ds-fc-2b-n2935.qmd) |
+| 175.2 kPa (3660 psf) | [b68-ds-fc-2b-n3660](b68-ds-fc-2b-n3660.qmd) |
+| 210.7 kPa (4400 psf) | [b68-ds-fc-2b-n4400](b68-ds-fc-2b-n4400.qmd) |
+
+The failure envelope drawn from the peaks of these tests is a derived result, not an extra measurement; see the envelope figures in the [figures index](../figures/index.qmd).
+
+## Source pages
+
+FC-2B, *Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement*, AM-68-1 Vol. II (NASA CR-92215), printed C-7, PDF 121.
+Text: FC-10A.
+Text: FC-10C.
+Text: FC-2A.
+Text: FC-2B.
+Text: text C-1 (PDF 115).
+
+::: {layout-ncol=2}
+![Vol. II PDF page 121](../img/1968-vol2/p0121.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-ds-fc-2b-n2200` in `data/experiments/index.csv` of this repository, and the source: FC-2B, *Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement*, AM-68-1 Vol. II (NASA CR-92215), printed C-7, PDF 121.
+
+<small>Maintainers: the [provenance and review record](../review/b68-ds-fc-2b-n2200.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

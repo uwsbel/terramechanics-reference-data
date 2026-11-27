@@ -1,0 +1,74 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-19,1,data,marker,1,971.0,2214.0,3.0,3.0,circle,"single; open circle (outer ring u 953 to 989, v 2195 to 2233, center from the outer extents); the x = 0 grid line runs through its left part and the solid curve through the lower half of its hole, so the hole cannot be used and the bound is widened to 3 px",0.0053158,42.972,0.0033436,0.05566
+FC-19,1,data,marker,2,2433.0,1428.5,2.0,2.0,circle,"single; open circle (outer ring u 2415 to 2452, v 1409 to 1447, hole center 2432.5, 1428.5); clean, touches no line",0.9509719,53.04809,0.0026928,0.0425
+FC-19,1,mean,trace,1,965.0,2223.5,4.0,5.0,,left end of the trace (first point),0.0013804,42.8488,0.0040032,0.08185
+FC-19,1,mean,trace,2,1038.9,2210.6,4.0,4.0,,Dr 0.05,0.0489479,43.00854,0.0039945,0.06881
+FC-19,1,mean,trace,3,1115.5,2188.8,4.0,4.0,,"Dr 0.10; on a vertical grid line, line position read from its ink on both sides",0.0983266,43.28404,0.0039945,0.06881
+FC-19,1,mean,trace,4,1194.5,2159.4,4.0,4.0,,Dr 0.15,0.1493124,43.65839,0.0039945,0.06881
+FC-19,1,mean,trace,5,1273.5,2125.4,4.0,4.0,,"Dr 0.20; on a vertical grid line, line position read from its ink on both sides",0.2003382,44.09272,0.0039945,0.06881
+FC-19,1,mean,trace,6,1351.7,2086.8,4.0,4.0,,Dr 0.25,0.2508902,44.58714,0.0039945,0.06881
+FC-19,1,mean,trace,7,1429.8,2044.3,4.0,4.0,,"Dr 0.30; on a vertical grid line, line position read from its ink on both sides",0.3014118,45.13242,0.0039945,0.06881
+FC-19,1,mean,trace,8,1505.2,2002.5,4.0,4.0,,Dr 0.35,0.3501935,45.66889,0.0039945,0.06881
+FC-19,1,mean,trace,9,1580.6,1958.9,4.0,4.0,,"Dr 0.40; on a vertical grid line, line position read from its ink on both sides",0.3989908,46.22884,0.0039945,0.06881
+FC-19,1,mean,trace,10,1658.0,1911.4,4.0,4.0,,Dr 0.45,0.4491063,46.83941,0.0039945,0.06881
+FC-19,1,mean,trace,11,1735.4,1861.8,4.0,4.0,,"Dr 0.50; on a vertical grid line, line position read from its ink on both sides",0.49924,47.47738,0.0039945,0.06881
+FC-19,1,mean,trace,12,1815.0,1812.2,4.0,4.0,,Dr 0.55,0.5507864,48.11509,0.0039945,0.06881
+FC-19,1,mean,trace,13,1894.7,1763.1,4.0,4.0,,"Dr 0.60; on a vertical grid line, line position read from its ink on both sides",0.6023928,48.74627,0.0039945,0.06881
+FC-19,1,mean,trace,14,1971.2,1716.5,4.0,4.0,,Dr 0.65,0.6519225,49.34521,0.0039945,0.06881
+FC-19,1,mean,trace,15,2047.7,1670.0,4.0,4.0,,"Dr 0.70; on a vertical grid line, line position read from its ink on both sides",0.7014514,49.94285,0.0039945,0.06881
+FC-19,1,mean,trace,16,2123.4,1627.3,4.0,4.0,,Dr 0.75,0.7504335,50.49102,0.0039945,0.06881
+FC-19,1,mean,trace,17,2199.3,1584.1,4.0,4.0,,"Dr 0.80; on a vertical grid line, line position read from its ink on both sides",0.7995485,51.04569,0.0039945,0.06881
+FC-19,1,mean,trace,18,2277.1,1542.5,4.0,4.0,,Dr 0.85,0.8498696,51.57928,0.0039945,0.06881
+FC-19,1,mean,trace,19,2354.8,1502.8,4.0,4.0,,"Dr 0.90; on a vertical grid line, line position read from its ink on both sides",0.90011,52.0881,0.0039945,0.06881
+FC-19,1,mean,trace,20,2431.7,1467.7,4.0,4.0,,Dr 0.95,0.9497968,52.53702,0.0039945,0.06881
+FC-19,1,mean,trace,21,2507.5,1439.0,3.0,5.0,,right end of the trace (last point),0.9987216,52.9026,0.003361,0.08174
+FC-19,1,mean,feature,1,965.0,2223.5,4.0,5.0,,"first point: the line's ink is visible inside the left circle (lower half of its hole, from u 969) and is merged with the circle's ring and the x = 0 grid line further left; its start lies between the grid line (u about 961) and u 969, bound covers that",0.0013804,42.8488,0.0040032,0.08185
+FC-19,1,mean,feature,2,2507.5,1439.0,3.0,5.0,,"last point: the line runs into the x = 1.0 grid line (grid ink u 2507 to 2510) and no ink appears right of it; the end is hidden in the grid line, bound covers it; also the maximum of the trace",0.9987216,52.9026,0.003361,0.08174
+FC-19,1,upper,trace,1,961.0,2118.0,3.0,4.5,,left end of the trace (first point),-0.0002725,44.22513,0.0033567,0.07522
+FC-19,1,upper,trace,2,1037.4,2097.7,4.5,4.5,,Dr 0.05,0.0489647,44.48109,0.0043199,0.07539
+FC-19,1,upper,trace,3,1101.5,2076.6,4.5,4.5,,Dr 0.10 falls in a gap between dashes; moved to the nearest dash end (right end of the dash u 966 to 1103),0.0903103,44.7489,0.0043199,0.07539
+FC-19,1,upper,trace,4,1192.9,2039.5,4.5,4.5,,Dr 0.15,0.1493258,45.22224,0.0043199,0.07539
+FC-19,1,upper,trace,5,1271.8,2004.4,4.5,4.5,,"Dr 0.20; on a vertical grid line, line position read from its ink on both sides",0.2002969,45.67093,0.0043199,0.07539
+FC-19,1,upper,trace,6,1368.5,1958.5,4.5,4.5,,Dr 0.25 falls in a gap between dashes; moved to the nearest dash end (left end of the dash u 1367 to 1523),0.2627921,46.25842,0.0043199,0.07539
+FC-19,1,upper,trace,7,1428.1,1927.1,4.5,4.5,,"Dr 0.30; on a vertical grid line, line position read from its ink on both sides",0.3013374,46.66108,0.0043199,0.07539
+FC-19,1,upper,trace,8,1503.6,1888.4,4.5,4.5,,Dr 0.35,0.3501564,47.15711,0.0043199,0.07539
+FC-19,1,upper,trace,9,1579.0,1848.0,4.5,4.5,,"Dr 0.40; on a vertical grid line, line position read from its ink on both sides",0.398926,47.67532,0.0043199,0.07539
+FC-19,1,upper,trace,10,1656.5,1805.9,4.5,4.5,,Dr 0.45,0.4490588,48.21546,0.0043199,0.07539
+FC-19,1,upper,trace,11,1726.5,1767.9,4.5,4.5,,Dr 0.50 falls in a gap between dashes; moved to the nearest dash end (right end of the dash u 1560 to 1728),0.4943398,48.70299,0.0043199,0.07539
+FC-19,1,upper,trace,12,1813.7,1718.5,4.5,4.5,,Dr 0.55,0.550765,49.33722,0.0043199,0.07539
+FC-19,1,upper,trace,13,1893.4,1670.6,4.5,4.5,,"Dr 0.60; on a vertical grid line, line position read from its ink on both sides",0.6023609,49.95275,0.0043199,0.07539
+FC-19,1,upper,trace,14,1977.5,1620.5,4.5,4.5,,Dr 0.65 falls in a gap between dashes; moved to the nearest dash end (left end of the dash u 1976 to 2133),0.6568014,50.59646,0.0043199,0.07539
+FC-19,1,upper,trace,15,2046.4,1581.0,4.5,4.5,,"Dr 0.70; on a vertical grid line, line position read from its ink on both sides",0.7013891,51.10369,0.0043199,0.07539
+FC-19,1,upper,trace,16,2122.3,1538.6,4.5,4.5,,Dr 0.75,0.7504971,51.64792,0.0043199,0.07539
+FC-19,1,upper,trace,17,2198.4,1497.0,4.5,4.5,,"Dr 0.80; on a vertical grid line, line position read from its ink on both sides",0.7997266,52.1817,0.0043199,0.07539
+FC-19,1,upper,trace,18,2276.1,1457.5,4.5,4.5,,Dr 0.85,0.8499653,52.68792,0.0043199,0.07539
+FC-19,1,upper,trace,19,2379.5,1409.1,4.5,4.5,,Dr 0.90 falls in a gap between dashes; moved to the nearest dash end (left end of the dash u 2378 to 2515),0.9167847,53.30724,0.0043199,0.07539
+FC-19,1,upper,trace,20,2430.7,1389.0,4.5,4.5,,Dr 0.95,0.9498378,53.56349,0.0043199,0.07539
+FC-19,1,upper,trace,21,2507.7,1362.6,4.5,4.5,,"Dr 1.00; on a vertical grid line, line position read from its ink on both sides",0.9995132,53.89894,0.0043199,0.07539
+FC-19,1,upper,trace,22,2514.0,1360.0,2.0,4.0,,right end of the trace (last point),1.0035814,53.93212,0.0027102,0.06858
+FC-19,1,upper,feature,1,961.0,2118.0,3.0,4.5,,"first point: left end of the first dash; its ink merges with the x = 0 grid line (grid line ink u 959 to 962), no ink left of the grid line; u bound covers the grid line",-0.0002725,44.22513,0.0033567,0.07522
+FC-19,1,upper,feature,2,2514.0,1360.0,2.0,4.0,,"last point: right end of the last dash, which crosses the x = 1.0 grid line and ends about 5 px right of it; also the maximum of the trace",1.0035814,53.93212,0.0027102,0.06858
+FC-19,1,lower,trace,1,963.5,2325.5,3.0,4.5,,left end of the trace (first point),-0.0004683,41.51874,0.0033567,0.07522
+FC-19,1,lower,trace,2,1040.2,2305.3,4.0,4.0,,Dr 0.05,0.0489607,41.77337,0.0039945,0.06881
+FC-19,1,lower,trace,3,1116.7,2279.4,4.0,4.0,,"Dr 0.10; on a vertical grid line, line position read from its ink on both sides",0.0983108,42.10235,0.0039945,0.06881
+FC-19,1,lower,trace,4,1195.7,2248.8,4.0,4.0,,Dr 0.15,0.149307,42.49234,0.0039945,0.06881
+FC-19,1,lower,trace,5,1274.8,2214.5,4.0,4.0,,"Dr 0.20; on a vertical grid line, line position read from its ink on both sides",0.2003996,42.93058,0.0039945,0.06881
+FC-19,1,lower,trace,6,1353.1,2180.1,4.0,4.0,,Dr 0.25,0.2509793,43.37021,0.0039945,0.06881
+FC-19,1,lower,trace,7,1431.3,2140.4,4.0,4.0,,"Dr 0.30; on a vertical grid line, line position read from its ink on both sides",0.3015408,43.87897,0.0039945,0.06881
+FC-19,1,lower,trace,8,1506.7,2103.2,4.0,4.0,,Dr 0.35,0.3502826,44.35545,0.0039945,0.06881
+FC-19,1,lower,trace,9,1570.5,2071.1,4.0,4.0,,Dr 0.40 falls in a gap between dashes; moved to the nearest dash end (right end of the dash u 1398 to 1572),0.391531,44.76675,0.0039945,0.06881
+FC-19,1,lower,trace,10,1659.6,2024.2,4.0,4.0,,Dr 0.45,0.4491546,45.36816,0.0039945,0.06881
+FC-19,1,lower,trace,11,1737.2,1982.3,4.0,4.0,,"Dr 0.50; on a vertical grid line, line position read from its ink on both sides",0.4993499,45.90568,0.0039945,0.06881
+FC-19,1,lower,trace,12,1809.5,1943.9,4.0,4.0,,Dr 0.55 falls in a gap between dashes; moved to the nearest dash end (right end of the dash u 1641 to 1811),0.5461114,46.39816,0.0039945,0.06881
+FC-19,1,lower,trace,13,1896.4,1891.6,4.0,4.0,,"Dr 0.60; on a vertical grid line, line position read from its ink on both sides",0.602369,47.07025,0.0039945,0.06881
+FC-19,1,lower,trace,14,1973.0,1844.6,4.0,4.0,,Dr 0.65,0.6519665,47.67439,0.0039945,0.06881
+FC-19,1,lower,trace,15,2049.5,1798.5,4.0,4.0,,"Dr 0.70; on a vertical grid line, line position read from its ink on both sides",0.7014918,48.26682,0.0039945,0.06881
+FC-19,1,lower,trace,16,2125.0,1753.1,4.0,4.0,,Dr 0.75,0.750369,48.85022,0.0039945,0.06881
+FC-19,1,lower,trace,17,2214.5,1699.7,4.0,4.0,,Dr 0.80 falls in a gap between dashes; moved to the nearest dash end (left end of the dash u 2213 to 2347),0.8083058,49.53635,0.0039945,0.06881
+FC-19,1,lower,trace,18,2278.5,1662.6,4.0,4.0,,Dr 0.85,0.8497261,50.01284,0.0039945,0.06881
+FC-19,1,lower,trace,19,2345.5,1625.5,4.0,4.0,,Dr 0.90 falls in a gap between dashes; moved to the nearest dash end (right end of the dash u 2213 to 2347),0.8930729,50.48898,0.0039945,0.06881
+FC-19,1,lower,trace,20,2433.1,1575.5,4.0,4.0,,Dr 0.95,0.9497601,51.13099,0.0039945,0.06881
+FC-19,1,lower,trace,21,2510.0,1533.9,4.0,4.0,,"Dr 1.00; on a vertical grid line, line position read from its ink on both sides",0.9995033,51.66468,0.0039945,0.06881
+FC-19,1,lower,trace,22,2521.0,1529.0,2.0,4.0,,right end of the trace (last point),1.0066096,51.72732,0.0027102,0.06858
+FC-19,1,lower,feature,1,963.5,2325.5,3.0,4.5,,"first point: left end of the first dash; its ink merges with the x = 0 grid line (grid line ink u 962 to 965), no ink left of the grid line; u bound covers the grid line",-0.0004683,41.51874,0.0033567,0.07522
+FC-19,1,lower,feature,2,2521.0,1529.0,2.0,4.0,,"last point: right end of the last dash, which crosses the x = 1.0 grid line and ends about 10 px right of it; also the maximum of the trace",1.0066096,51.72732,0.0027102,0.06858

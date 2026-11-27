@@ -1,0 +1,24 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-9C,1,rs-dense,marker,1,557.3,3623.3,2.5,5.5,triangle-up,centroid from the side and base strokes (rule 8); the symbol straddles the left frame (x = 0 line runs through it); its base does not close at the right corner; this symbol has no counterpart among the markers of FC-9A or FC-9B
+FC-9C,1,rs-dense,marker,2,638.6,3463.6,2,5.5,triangle-up,centroid from the strokes; the y = 1000 grid line runs through the symbol's lower part; symbol in a gap of the fitted line
+FC-9C,1,rs-dense,marker,3,724.5,3339.3,2,5.5,triangle-up,centroid from the strokes; symbol in a gap of the fitted line (line end masked)
+FC-9C,1,rs-dense,marker,4,851.0,3238.7,2.5,5.5,triangle-up,centroid from the strokes; the x = 1000 grid line runs through the apex and the symbol; symbol in a gap of the fitted line
+FC-9C,1,rs-dense,marker,5,982.1,2996.1,2,5.5,triangle-up,centroid from the strokes; clean symbol above the line
+FC-9C,1,rs-dense,marker,6,1151.0,2946.7,3,5.5,triangle-up,centroid from the right side and base with the axis through the apex (the left side runs along the x = 2000 grid line and cannot be fitted)
+FC-9C,1,rs-dense,marker,7,1235.4,2642.8,2,5.5,triangle-up,centroid from the strokes; clean symbol above the line; stray dots right of the base left out
+FC-9C,1,rs-dense,marker,8,1410.1,2445.5,2.5,5.5,triangle-up,centroid from the strokes; right base corner merges with the x = 3000 grid line
+FC-9C,1,rs-dense,marker,9,1405.1,2626.4,2,5.5,triangle-up,centroid from the strokes; right base corner close to the x = 3000 grid line; the fitted line passes just left of its apex
+FC-9C,1,rs-dense,marker,10,1580.4,2301.0,2,5.5,triangle-up,centroid from the strokes; the y = 5000 grid line runs through the symbol's lower part
+FC-9C,1,rs-dense,marker,11,1753.9,2304.3,2,5.5,triangle-up,centroid from the strokes; the y = 5000 grid line runs through the symbol's middle
+FC-9C,1,rs-dense,trace,1,559.9,3559.0,4,9,,left end: the line's ink starts at the left frame (x = 0) and merges with it; centre extrapolated from the straight stretches u 568 to 618 and 655 to 725
+FC-9C,1,rs-dense,trace,2,706.2,3389.8,0.5,9,,x = 500 psf; between the gaps around markers 2 and 3
+FC-9C,1,rs-dense,trace,3,996.0,3054.6,0.5,9,,x = 1500 psf; x = 1000 not sampled: it falls where the line is interrupted around marker 4 under the x = 1000 grid line (upper segment's ink starts at about u 856)
+FC-9C,1,rs-dense,trace,4,1139.4,2888.3,0.5,9,,x = 2000 psf; on the x = 2000 grid line; centre from the columns either side
+FC-9C,1,rs-dense,trace,5,1283.5,2721.1,0.5,9,,x = 2500 psf
+FC-9C,1,rs-dense,trace,6,1427.6,2552.9,0.5,9,,x = 3000 psf; on the x = 3000 grid line; centre from the columns either side
+FC-9C,1,rs-dense,trace,7,1573.2,2384.0,0.5,9,,x = 3500 psf
+FC-9C,1,rs-dense,trace,8,1718.8,2214.4,0.5,9,,x = 4000 psf; on the x = 4000 grid line; centre from the columns either side
+FC-9C,1,rs-dense,trace,9,1744.0,2184.5,3,9,,right end: between the pen-centre end (about u 1742) and the ink's extreme (about u 1746 at v 2182)
+FC-9C,1,rs-dense,feature,1,559.9,3559.0,4,9,,first point of the line (= trace 1)
+FC-9C,1,rs-dense,feature,2,1744.0,2184.5,3,9,,last point of the line (= trace 9); also the maximum of the trace
+FC-9C,1,rs-dense,feature,3,559.9,3559.0,0.5,9,,intercept: the line reaches the normal-stress-zero axis (left frame)

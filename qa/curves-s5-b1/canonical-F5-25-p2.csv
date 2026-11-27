@@ -1,0 +1,49 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+F5-25,2,strut2,feature,1,1668.5,3524.0,3.0,3.0,,first: ink starts: the trace comes down just left of the 0 line into the baseline (the t = 0 line); below v 3525 its ink is lost in the baseline,0.00027455,1.0241,0.00020656,0.8217,piecewise,one-sided,claude,,,,,
+F5-25,2,strut2,feature,2,1662.7,3455.5,3.0,3.0,,knee: the trace leaves the 0 line and the load starts to rise (t about 0.0043 s),0.00428152,2.4221,0.00021721,0.8212,piecewise,agreed,claude,0.00400073,1.9847,,1664.5,3460.0
+F5-25,2,strut2,feature,3,1491.6,3353.5,3.0,3.0,,knee: end of the steep rise (t about 0.0102 s),0.01020692,42.4719,0.00023435,0.8953,piecewise,agreed,claude,0.01000044,42.5009,,1491.47,3355.33
+F5-25,2,strut2,feature,4,1474.5,3176.22,3.0,81.2,,"peak: first load maximum, a broad top (within half a line width of the extreme from t = 0.0159 to 0.0241 s)",0.02070018,46.698,0.00484268,0.935,piecewise,agreed,claude,0.01949133,46.7045,,1474.38,3196.0
+F5-25,2,strut2,feature,5,1488.5,2959.97,3.0,97.6,,"knee, minimum: local minimum between the two maxima, a flat stretch (within half a line width of the extreme from t = 0.0296 to 0.0390 s)",0.03330021,43.4563,0.00573012,0.9508,piecewise,agreed,claude,0.03400279,43.7308,,1487.38,2948.0
+F5-25,2,strut2,feature,6,1472.5,2501.91,3.0,128.3,,"peak: largest load of the record, a broad top (within half a line width of the extreme from t = 0.0526 to 0.0637 s)",0.0600998,47.5879,0.00762542,0.9621,piecewise,agreed,claude,0.05813588,47.5325,,1472.62,2536.0
+F5-25,2,strut2,feature,7,1635.5,1823.5,3.0,3.0,,last: ink ends at t = 0.10 (end of the record),0.09996331,9.6281,0.00027009,0.8099,piecewise extrapolated x,agreed,claude,0.10013098,9.8622,,1634.5,1822.0
+F5-25,2,strut2,feature,40,1528.99,2029.12,2.625,2.625,,"knee, terminal fall steepens",0.08784291,34.4043,0.00018183,0.7596,piecewise,one-sided,codex,,,,,
+F5-25,2,strut2,trace,1,1668.5,3524.0,3.0,3.0,,ink starts: the trace comes down just left of the 0 line into the baseline (the t = 0 line); below v 3525 its ink is lost in the baseline,0.00027455,1.0241,0.00020656,0.8217,piecewise,one-sided,claude,,,,,
+F5-25,2,strut2,trace,2,1666.5,3494.51,3.0,3.0,,time sample t = 0.002 s,0.00199975,1.5098,0.00021115,0.8215,piecewise,agreed,claude,0.002,1.502,,1666.5,3494.6
+F5-25,2,strut2,trace,3,1664.5,3460.32,3.0,3.0,,time sample t = 0.004 s,0.00399987,1.9979,0.00021647,0.8212,piecewise,agreed,claude,0.004,1.984,,1664.5,3460.0
+F5-25,2,strut2,trace,4,1651.72,3444.02,3.7,3.7,,5 lb sample at 5 lb,0.00495087,4.9992,0.00026018,0.9853,piecewise,agreed,claude,0.005,5.116,,1651.2,3443.5
+F5-25,2,strut2,trace,5,1630.39,3429.0,3.9,3.9,,5 lb sample at 10 lb,0.00582485,10.0004,0.00027423,1.032,piecewise,agreed,claude,0.006,10.412,,1628.6,3428.3
+F5-25,2,strut2,trace,6,1623.95,3425.98,3.5,3.5,,time sample t = 0.006 s,0.00600005,11.5093,0.00025113,0.9381,piecewise,agreed,claude,0.006,11.511,,1623.9,3425.2
+F5-25,2,strut2,trace,7,1609.05,3418.75,3.7,3.7,,5 lb sample at 15 lb,0.0064195,15.0004,0.00026398,0.9848,piecewise,agreed,claude,0.006,15.411,,1607.3,3417.9
+F5-25,2,strut2,trace,8,1587.67,3410.5,3.3,3.3,,5 lb sample at 20 lb,0.00689696,20.008,0.00024165,0.8907,piecewise,agreed,claude,0.007,20.148,,1587.0,3409.5
+F5-25,2,strut2,trace,9,1566.22,3402.75,3.3,3.3,,5 lb sample at 25 lb,0.00734497,25.0009,0.00024279,0.9007,piecewise,agreed,claude,0.007,25.707,,1563.2,3401.6
+F5-25,2,strut2,trace,10,1544.75,3395.0,3.8,3.8,,5 lb sample at 30 lb,0.00779278,29.999,0.00027335,1.0306,piecewise,agreed,claude,0.008,30.863,,1541.0,3393.8
+F5-25,2,strut2,trace,11,1535.92,3391.42,3.8,3.8,,time sample t = 0.008 s,0.00799984,32.0549,0.00027388,1.036,piecewise,agreed,claude,0.008,32.858,,1532.5,3390.2
+F5-25,2,strut2,trace,12,1523.27,3385.5,3.5,3.5,,5 lb sample at 35 lb,0.00834263,35.001,0.00025711,0.9736,piecewise,agreed,claude,0.008,35.225,,1522.3,3384.2
+F5-25,2,strut2,trace,13,1501.98,3366.55,3.4,3.4,,5 lb sample at 40 lb; across a grid line,0.0094443,39.965,0.0002541,0.9918,piecewise,agreed,claude,0.009,40.286,,1500.7,3365.0
+F5-25,2,strut2,trace,14,1493.0,3357.0,2.9,2.9,,time sample t = 0.01 s,0.00999977,42.1325,0.00022836,0.8717,piecewise,agreed,claude,0.010,42.498,,1491.5,3355.3
+F5-25,2,strut2,trace,15,1484.5,3323.23,2.9,2.9,,time sample t = 0.012 s,0.0119998,44.2004,0.00022425,0.8679,piecewise,agreed,claude,0.012,44.204,,1484.5,3321.7
+F5-25,2,strut2,trace,16,1480.0,3289.47,3.0,3.0,,time sample t = 0.014 s,0.01400026,45.3047,0.0002249,0.8901,piecewise,agreed,claude,0.014,45.293,,1480.0,3288.2
+F5-25,2,strut2,trace,17,1477.0,3255.73,2.5,2.5,,time sample t = 0.016 s,0.01599992,46.0477,0.00018972,0.7678,piecewise,agreed,claude,0.016,46.046,,1477.0,3254.6
+F5-25,2,strut2,trace,18,1474.5,3221.98,3.0,3.0,,time sample t = 0.018 s,0.01800028,46.6703,0.00021427,0.8876,piecewise,agreed,claude,0.018,46.660,,1474.5,3221.0
+F5-25,2,strut2,trace,19,1474.5,3188.25,3.0,3.0,,time sample t = 0.02 s,0.02000015,46.6907,0.00020895,0.8876,piecewise,agreed,claude,0.020,46.709,,1474.4,3187.5
+F5-25,2,strut2,trace,20,1479.5,3102.35,3.0,3.0,,time sample t = 0.025 s,0.02500018,45.5383,0.0002046,0.8897,piecewise,agreed,claude,0.025,45.531,,1479.5,3102.0
+F5-25,2,strut2,trace,21,1486.0,3016.47,2.5,2.5,,time sample t = 0.03 s,0.02999974,44.0244,0.00017603,0.7716,piecewise,agreed,claude,0.030,44.030,,1486.0,3016.5
+F5-25,2,strut2,trace,22,1487.5,2930.86,3.0,3.0,,time sample t = 0.035 s,0.03499992,43.7148,0.00020541,0.8931,piecewise,agreed,claude,0.035,43.713,,1487.5,2930.9
+F5-25,2,strut2,trace,23,1485.5,2845.23,3.0,3.0,,time sample t = 0.04 s,0.0400001,44.2484,0.00020632,0.8922,piecewise,agreed,claude,0.040,44.214,,1485.6,2845.4
+F5-25,2,strut2,trace,24,1480.5,2759.96,3.0,3.0,,time sample t = 0.045 s,0.0450001,45.5044,0.00020634,0.8899,piecewise,agreed,claude,0.045,45.498,,1480.5,2760.1
+F5-25,2,strut2,trace,25,1477.0,2674.7,2.5,2.5,,time sample t = 0.05 s,0.04999994,46.3992,0.00017686,0.7673,piecewise,agreed,claude,0.050,46.395,,1477.0,2674.8
+F5-25,2,strut2,trace,26,1473.5,2589.14,3.0,3.0,,time sample t = 0.055 s,0.05500002,47.2942,0.00020571,0.8866,piecewise,agreed,claude,0.055,47.254,,1473.6,2589.5
+F5-25,2,strut2,trace,27,1472.5,2503.6,2.5,2.5,,time sample t = 0.06 s,0.05999977,47.5869,0.00017857,0.7651,piecewise,agreed,claude,0.060,47.551,,1472.6,2504.2
+F5-25,2,strut2,trace,28,1477.0,2419.16,2.5,2.5,,time sample t = 0.065 s,0.06499989,46.5538,0.00017854,0.767,piecewise,agreed,claude,0.065,46.663,,1476.5,2419.7
+F5-25,2,strut2,trace,29,1484.5,2334.74,3.0,3.0,,time sample t = 0.07 s,0.06999985,44.7979,0.00020829,0.8913,piecewise,agreed,claude,0.070,44.951,,1483.9,2335.1
+F5-25,2,strut2,trace,30,1495.0,2249.24,3.0,3.0,,time sample t = 0.075 s,0.07500001,42.3198,0.00020567,0.8958,piecewise,agreed,claude,0.075,42.316,,1495.0,2249.8
+F5-25,2,strut2,trace,31,1504.5,2163.74,3.9,3.9,,time sample t = 0.08 s; the trace runs along the +40 line here (t 0.077 to 0.083); center from the ink run with the grid line inside it,0.08000006,40.0825,0.00025866,1.1136,piecewise,agreed,claude,0.080,40.188,,1504.1,2164.4
+F5-25,2,strut2,trace,32,1516.5,2077.55,2.9,2.9,,time sample t = 0.085 s,0.08499982,37.3101,0.00019819,0.8482,piecewise,agreed,claude,0.085,37.200,,1517.0,2078.2
+F5-25,2,strut2,trace,33,1526.42,2038.07,2.9,2.9,,5 lb sample at 35 lb,0.08729179,34.9997,0.0001982,0.8424,piecewise,agreed,claude,0.087,35.019,,1526.4,2038.6
+F5-25,2,strut2,trace,34,1541.5,1991.44,2.9,2.9,,time sample t = 0.09 s,0.09000027,31.4776,0.00020326,0.8334,piecewise,agreed,claude,0.090,31.710,,1540.5,1991.9
+F5-25,2,strut2,trace,35,1547.81,1976.84,2.8,2.8,,5 lb sample at 30 lb,0.09086542,30.0006,0.00020244,0.806,piecewise,agreed,claude,0.091,30.269,,1546.7,1977.4
+F5-25,2,strut2,trace,36,1569.15,1932.99,3.0,3.0,,5 lb sample at 25 lb,0.09346504,25.0002,0.00022991,0.8404,piecewise,agreed,claude,0.093,25.135,,1568.6,1933.8
+F5-25,2,strut2,trace,37,1584.5,1907.12,3.1,3.1,,time sample t = 0.095 s,0.09500006,21.3987,0.00024506,0.8548,piecewise,agreed,claude,0.095,21.586,,1583.7,1908.0
+F5-25,2,strut2,trace,38,1590.47,1896.19,4.0,4.0,,5 lb sample at 20 lb where the center line crosses the +20 line; read from the ink run with the grid line inside it,0.09564842,19.998,0.00030281,1.0639,piecewise,agreed,claude,0.096,20.356,,1589.0,1897.2
+F5-25,2,strut2,trace,39,1612.17,1859.74,2.9,2.9,,5 lb sample at 15 lb,0.09781157,14.9999,0.00024987,0.7869,piecewise,agreed,claude,0.098,15.007,,1612.2,1860.9
+F5-25,2,strut2,trace,40,1635.5,1823.5,3.0,3.0,,ink ends at t = 0.10 (end of the record),0.09996331,9.6281,0.00027009,0.8099,piecewise extrapolated x,agreed,claude,0.100,9.975,,1634.0,1824.8

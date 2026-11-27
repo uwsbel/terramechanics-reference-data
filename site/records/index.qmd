@@ -1,0 +1,67 @@
+---
+title: "Project records"
+---
+How the collection is built and checked, kept public because the project is open and invites help. None of this is needed to use the data.
+
+1. [Decisions](../decisions.qmd): the decisions that shaped the method, with their options.
+2. [Review](../review/index.qmd): the record of human checks, and every value that rests on one reading only.
+3. [Open questions](../open-questions.qmd): what could not be settled, with the evidence, and how to help.
+4. [Methods](../methods/index.qmd): data organization, the reading rules and how the agents work.
+5. [Insights](../insights/index.qmd): judgment and caveats the report authors recorded.
+6. [Figures](../figures/index.qmd) and [Sources](../sources/index.qmd): every figure of the report sections indexed, and the register of sources.
+
+## Coverage
+
+Single physical tests by soil and state (rows) and test type (columns). A zero means the report documents no such test in the pages inventoried so far. A state marked `printed; not a numbered soil` is printed beside the test but is not one of the twelve soils of the report's soil table (for example dense red scoria ([RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"}) at a relative density ([Dr]{.term title="relative density: 0 at the soil's maximum void ratio (loosest) and 1 at its minimum (densest), from the reference void-ratio limits; a bed packed past the reference densest state reads above 1" tabindex="0"}) of 0.94 to 0.97).
+
+::: {.coverage}
+| soil | state | dens | dpt | ds | imp | lpt | mdrop | sonic | all |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| [LSM]{.term title="broadly graded scoria (RC2) mixed with air-floated clay" tabindex="0"} | dense (printed; not a numbered soil) | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [LSM]{.term title="broadly graded scoria (RC2) mixed with air-floated clay" tabindex="0"} | state not printed | 0 | 0 | 10 | 0 | 0 | 0 | 3 | 13 |
+| [PS]{.term title="white crushed pumice, narrowly graded" tabindex="0"} | dense (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [PS]{.term title="white crushed pumice, narrowly graded" tabindex="0"} | loose (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [PS]{.term title="white crushed pumice, narrowly graded" tabindex="0"} | state not printed | 0 | 0 | 12 | 0 | 0 | 0 | 0 | 12 |
+| [RC2]{.term title="red crushed volcanic scoria, broadly graded" tabindex="0"} | dense (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RC2]{.term title="red crushed volcanic scoria, broadly graded" tabindex="0"} | loose | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [RC2]{.term title="red crushed volcanic scoria, broadly graded" tabindex="0"} | loose (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RC2]{.term title="red crushed volcanic scoria, broadly graded" tabindex="0"} | state not printed | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | conflicting evidence | 0 | 2 | 0 | 0 | 2 | 0 | 0 | 4 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | dense | 0 | 0 | 7 | 1 | 6 | 0 | 0 | 14 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | dense (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 6 | 0 | 1 | 7 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | intermediate | 0 | 1 | 7 | 1 | 4 | 0 | 0 | 13 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | loose | 0 | 1 | 0 | 5 | 9 | 2 | 0 | 17 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | loose (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | state not printed | 3 | 0 | 7 | 0 | 0 | 0 | 0 | 10 |
+| [RSM]{.term title="RS mixed with crushed marble (RSM-a or RSM-b)" tabindex="0"} | loose | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [RSM-a]{.term title="RS mixed with crushed marble, 5 to 7 by weight, narrowly graded" tabindex="0"} | state not printed | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [RSM-b]{.term title="RS mixed with crushed marble, 1 to 3 by weight, narrowly graded" tabindex="0"} | state not printed | 0 | 0 | 12 | 0 | 0 | 0 | 0 | 12 |
+| [SS]{.term title="white silica sand (Wedron 4040), narrowly graded" tabindex="0"} | dense | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 3 |
+| [SS]{.term title="white silica sand (Wedron 4040), narrowly graded" tabindex="0"} | dense (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| [SS]{.term title="white silica sand (Wedron 4040), narrowly graded" tabindex="0"} | loose | 0 | 0 | 5 | 0 | 0 | 0 | 0 | 5 |
+| [SS]{.term title="white silica sand (Wedron 4040), narrowly graded" tabindex="0"} | loose (printed; not a numbered soil) | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| **all** |  | **3** | **4** | **85** | **7** | **30** | **2** | **11** | **142** |
+:::
+
+: Test types: `lpt` load penetration, `ds` direct shear, `dpt` dynamic penetrometer, `dens` density (compaction time study), `gs` grain size, `tx` triaxial, `sonic` sonic modulus. Source: `data/experiments/index.csv`, kind = single.
+
+## Five counts that measure different things
+
+| count | value | what it counts |
+| --- | ---: | --- |
+| Indexed records | 348 | rows in the experiment index: single tests, averaged and derived series, correlations, text summaries and bin samples |
+| Single physical tests | 142 | rows of kind `single`: one physical test on one bed |
+| Tests with complete printed setup | 4 | rows whose bed state, apparatus geometry, bin and loading rate are all printed in the source |
+| Observation series extracted | 192 | experiments with an `observations.csv` (digitized points) in `data/experiments/` |
+| Human audits recorded | 3360 | rows in `qa/audits.csv`; agreement between the two agents is not an audit |
+
+## Open decisions
+
+- **D-015** (2026-10-07): Apollo-era sources only or also later simulant data? Options: Apollo era only; also later simulant data (GRC-1 and JSC-1A and successors).
+
+## Recent changes
+
+{{< include ../_changes.md >}}
+
+<!-- Generated view. Inputs: `data/experiments/index.csv`, `data/materials/materials.csv`, `qa/audits.csv`, `docs/decisions.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs. -->
+

@@ -1,0 +1,404 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-1C,1,n3520,marker,1,686,2272,3,3,x,on the 2000 psf gridline
+FC-1C,1,n3520,marker,2,751,2142,2,2,x,
+FC-1C,1,n3520,marker,3,814,2037,2,2,x,
+FC-1C,1,n3520,marker,4,863,1963,3,3,x,center read on a zoom-6 crop; the curve runs along one arm of the x
+FC-1C,1,n3520,marker,5,924,1886,3,3,x,on the 50 gridline; center read on a zoom-6 crop
+FC-1C,1,n3520,marker,6,1035,1772,2,2,x,
+FC-1C,1,n3520,marker,7,1159,1684,3,3,x,on the 4000 psf gridline
+FC-1C,1,n3520,marker,8,1273,1634,2,2,x,
+FC-1C,1,n3520,marker,9,1400,1611,2,2,x,
+FC-1C,1,n3520,marker,10,1507,1605,3,3,x,on the 150 gridline
+FC-1C,1,n3520,marker,11,1627,1598,2,2,x,
+FC-1C,1,n3520,marker,12,1744,1605,2,2,x,
+FC-1C,1,n3520,marker,13,1863,1621,2,2,x,
+FC-1C,1,n3520,marker,14,1979,1644,2,2,x,
+FC-1C,1,n3520,marker,15,2104,1670,3,3,x,beyond the 250 gridline (x > 250); right of the last gridline
+FC-1C,1,n2935,marker,1,992,1838,3,3,asterisk,center read on a zoom-6 crop; the n3520 line passes through the symbol
+FC-1C,1,n2935,marker,2,1102,1769,2,2,asterisk,
+FC-1C,1,n2935,marker,3,1217,1712,3,3,asterisk,on the 100 gridline
+FC-1C,1,n2935,marker,4,1339,1685,3,3,asterisk,on the 4000 psf gridline
+FC-1C,1,n2935,marker,5,1452,1685,3,3,asterisk,on the 4000 psf gridline
+FC-1C,1,n2935,marker,6,1562,1700,3,3,asterisk,touching the 4000 psf gridline
+FC-1C,1,n2935,marker,7,1682,1718,2,2,asterisk,
+FC-1C,1,n2935,marker,8,1790,1728,3,3,asterisk,near the 200 gridline
+FC-1C,1,n2935,marker,9,1914,1727,2,2,asterisk,
+FC-1C,1,n2935,marker,10,2102,1717,3,3,asterisk,beyond the 250 gridline (x > 250); touches the gridline
+FC-1C,1,n2345,marker,1,685,2410,2,2,square,
+FC-1C,1,n2345,marker,2,806,2228,2,2,square,
+FC-1C,1,n2345,marker,3,930,2095,3,3,square,on the 50 gridline
+FC-1C,1,n2345,marker,4,1048,2012,2,2,square,
+FC-1C,1,n2345,marker,5,1157,1968,2,2,square,
+FC-1C,1,n2345,marker,6,1272,1958,2,2,square,
+FC-1C,1,n2345,marker,7,1446,1963,2,2,square,
+FC-1C,1,n2345,marker,8,1559,1954,2,2,square,
+FC-1C,1,n2345,marker,9,1622,1949,2,2,square,
+FC-1C,1,n2345,marker,10,1740,1966,2,2,square,
+FC-1C,1,n2345,marker,11,1919,2024,2,2,square,
+FC-1C,1,n2345,marker,12,2096,2054,3,3,square,on the 250 gridline
+FC-1C,1,n1760,marker,1,734,2506,2,2,plus,
+FC-1C,1,n1760,marker,2,922,2295,3,3,plus,on the 50 gridline
+FC-1C,1,n1760,marker,3,983,2242,3,3,plus,
+FC-1C,1,n1760,marker,4,1101,2154,2,2,plus,
+FC-1C,1,n1760,marker,5,1334,2062,2,2,plus,
+FC-1C,1,n1760,marker,6,1452,2030,2,2,plus,
+FC-1C,1,n1760,marker,7,1569,2024,2,2,plus,
+FC-1C,1,n1760,marker,8,1682,2035,2,2,plus,
+FC-1C,1,n1760,marker,9,1918,2090,2,2,plus,
+FC-1C,1,n1760,marker,10,2085,2112,3,3,plus,on the 250 gridline
+FC-1C,1,n1172,marker,1,742,2556,3,3,triangle-down,on the 1000 psf gridline
+FC-1C,1,n1172,marker,2,865,2458,2,2,triangle-down,
+FC-1C,1,n1172,marker,3,981,2392,2,2,triangle-down,
+FC-1C,1,n1172,marker,4,1094,2347,2,2,triangle-down,
+FC-1C,1,n1172,marker,5,1212,2326,3,3,triangle-down,on the 100 gridline
+FC-1C,1,n1172,marker,6,1334,2328,2,2,triangle-down,
+FC-1C,1,n1172,marker,7,1454,2344,2,2,triangle-down,
+FC-1C,1,n1172,marker,8,1569,2350,2,2,triangle-down,
+FC-1C,1,n1172,marker,9,1686,2368,2,2,triangle-down,
+FC-1C,1,n1172,marker,10,1918,2422,2,2,triangle-down,
+FC-1C,1,n1172,marker,11,2028,2431,2,2,triangle-down,
+FC-1C,1,n587,marker,1,686,2690,2,2,triangle-up,
+FC-1C,1,n587,marker,2,814,2574,3,3,triangle-up,apex touches the 1000 psf gridline; curve line crosses the symbol
+FC-1C,1,n587,marker,3,922,2495,3,3,triangle-up,on the 50 gridline
+FC-1C,1,n587,marker,4,1035,2460,3,3,triangle-up,symbol partly filled by the line ink
+FC-1C,1,n587,marker,5,1157,2448,2,2,triangle-up,
+FC-1C,1,n587,marker,6,1272,2454,2,2,triangle-up,
+FC-1C,1,n587,marker,7,1449,2452,2,2,triangle-up,
+FC-1C,1,n587,marker,8,1512,2450,3,3,triangle-up,on the 150 gridline
+FC-1C,1,n587,marker,9,1624,2467,2,2,triangle-up,
+FC-1C,1,n587,marker,10,1747,2502,2,2,triangle-up,
+FC-1C,1,n587,marker,11,1863,2518,2,2,triangle-up,
+FC-1C,1,n587,marker,12,1977,2521,2,2,triangle-up,
+FC-1C,1,n294,marker,1,741,2718,2,2,circle,
+FC-1C,1,n294,marker,2,866,2672,2,2,circle,
+FC-1C,1,n294,marker,3,984,2645,2,2,circle,
+FC-1C,1,n294,marker,4,1098,2633,2,2,circle,
+FC-1C,1,n294,marker,5,1220,2630,3,3,circle,on the 100 gridline
+FC-1C,1,n294,marker,6,1335,2634,2,2,circle,
+FC-1C,1,n294,marker,7,1448,2643,2,2,circle,
+FC-1C,1,n294,marker,8,1566,2655,2,2,circle,
+FC-1C,1,n294,marker,9,1683,2669,2,2,circle,
+FC-1C,1,n3520,trace,1,706,2220,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 18 px, bound is half of it"
+FC-1C,1,n3520,trace,2,728,2182,1,9,,"steep segment: the vertical cut of the line is 18 px, bound is half of it"
+FC-1C,1,n3520,trace,3,771,2106,1,7,,column moved off a marker
+FC-1C,1,n3520,trace,4,787,2080,1,9,,"steep segment: the vertical cut of the line is 18 px, bound is half of it"
+FC-1C,1,n3520,trace,5,834,2006,1,7,,column moved off a marker
+FC-1C,1,n3520,trace,6,843,1990,1,10,,"column moved off a marker; steep segment: the vertical cut of the line is 20 px, bound is half of it"
+FC-1C,1,n3520,trace,7,883,1937,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n3520,trace,8,903,1911,1,7,,
+FC-1C,1,n3520,trace,9,944,1862,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n3520,trace,10,962,1842,1,7,,
+FC-1C,1,n3520,trace,11,991,1812,1,7,,another run within 25 px (v=1839)
+FC-1C,1,n3520,trace,12,1015,1790,1,7,,column moved off a marker; another run within 25 px (v=1820)
+FC-1C,1,n3520,trace,13,1055,1755,1,7,,column moved off a marker
+FC-1C,1,n3520,trace,14,1078,1737,1,6,,
+FC-1C,1,n3520,trace,15,1108,1716,1,6,,
+FC-1C,1,n3520,trace,16,1137,1696,1,6,,
+FC-1C,1,n3520,trace,17,1179,1671,1,6,,column moved off a marker
+FC-1C,1,n3520,trace,18,1195,1662,1,6,,
+FC-1C,1,n3520,trace,19,1225,1648,1,5,,
+FC-1C,1,n3520,trace,20,1253,1638,1,6,,column moved off a marker
+FC-1C,1,n3520,trace,21,1296,1628,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n3520,trace,22,1312,1624,1,5,,
+FC-1C,1,n3520,trace,23,1342,1619,1,5,,
+FC-1C,1,n3520,trace,24,1371,1614,1,6,,
+FC-1C,1,n3520,trace,25,1423,1608,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n3520,trace,26,1430,1607,1,5,,
+FC-1C,1,n3520,trace,27,1459,1606,1,5,,
+FC-1C,1,n3520,trace,28,1484,1605,1,6,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n3520,trace,29,1527,1604,1,3,,column moved off a marker
+FC-1C,1,n3520,trace,30,1547,1602,1,6,,
+FC-1C,1,n3520,trace,31,1576,1598,1,5,,
+FC-1C,1,n3520,trace,32,1606,1598,1,5,,
+FC-1C,1,n3520,trace,33,1647,1600,1,6,,column moved off a marker
+FC-1C,1,n3520,trace,34,1664,1599,1,6,,
+FC-1C,1,n3520,trace,35,1694,1600,1,5,,
+FC-1C,1,n3520,trace,36,1723,1604,1,5,,
+FC-1C,1,n3520,trace,37,1767,1608,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n3520,trace,38,1782,1610,1,5,,
+FC-1C,1,n3520,trace,39,1811,1613,1,5,,
+FC-1C,1,n3520,trace,40,1840,1619,1,5,,
+FC-1C,1,n3520,trace,41,1886,1626,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n3520,trace,42,1899,1628,1,6,,
+FC-1C,1,n3520,trace,43,1928,1634,1,5,,
+FC-1C,1,n3520,trace,44,1958,1641,1,6,,
+FC-1C,1,n3520,trace,45,2005,1652,1,4,,column moved off a marker; column moved 6 px off a gap in the dashed line
+FC-1C,1,n3520,trace,46,2016,1654,1,6,,
+FC-1C,1,n3520,trace,47,2046,1662,1,6,,
+FC-1C,1,n3520,trace,48,2075,1668,1,6,,
+FC-1C,1,n2935,trace,1,1020,1817,1,5,,
+FC-1C,1,n2935,trace,2,1049,1798,1,7,,
+FC-1C,1,n2935,trace,3,1079,1780,1,7,,
+FC-1C,1,n2935,trace,4,1122,1758,1,6,,column moved off a marker
+FC-1C,1,n2935,trace,5,1137,1749,1,6,,
+FC-1C,1,n2935,trace,6,1166,1736,1,5,,
+FC-1C,1,n2935,trace,7,1193,1724,1,5,,column moved -3 px off a gap in the dashed line
+FC-1C,1,n2935,trace,8,1246,1704,1,6,,column moved off a marker; column moved 9 px off a gap in the dashed line
+FC-1C,1,n2935,trace,9,1254,1701,1,6,,
+FC-1C,1,n2935,trace,10,1283,1694,1,5,,merged with the horizontal gridline
+FC-1C,1,n2935,trace,11,1313,1689,1,6,,merged with the horizontal gridline
+FC-1C,1,n2935,trace,12,1359,1682,1,5,,column moved off a marker
+FC-1C,1,n2935,trace,13,1371,1682,1,5,,
+FC-1C,1,n2935,trace,14,1401,1682,1,5,,
+FC-1C,1,n2935,trace,15,1430,1688,1,8,,merged with the horizontal gridline; thick run (15 px): ink shared with another line or symbol
+FC-1C,1,n2935,trace,16,1475,1690,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line; merged with the horizontal gridline
+FC-1C,1,n2935,trace,17,1489,1690,1,6,,merged with the horizontal gridline
+FC-1C,1,n2935,trace,18,1518,1694,1,5,,merged with the horizontal gridline
+FC-1C,1,n2935,trace,19,1542,1696,1,7,,column moved off a marker
+FC-1C,1,n2935,trace,20,1588,1704,1,6,,column moved off a marker; column moved 6 px off a gap in the dashed line
+FC-1C,1,n2935,trace,21,1606,1707,1,6,,
+FC-1C,1,n2935,trace,22,1635,1712,1,5,,
+FC-1C,1,n2935,trace,23,1659,1715,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n2935,trace,24,1711,1722,1,3,,column moved off a marker; column moved 9 px off a gap in the dashed line
+FC-1C,1,n2935,trace,25,1723,1722,1,6,,
+FC-1C,1,n2935,trace,26,1753,1726,1,5,,
+FC-1C,1,n2935,trace,27,1770,1728,1,6,,column moved off a marker
+FC-1C,1,n2935,trace,28,1823,1730,1,5,,column moved 12 px off a gap in the dashed line
+FC-1C,1,n2935,trace,29,1841,1728,1,6,,
+FC-1C,1,n2935,trace,30,1870,1730,1,6,,
+FC-1C,1,n2935,trace,31,1891,1730,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n2935,trace,32,1934,1730,1,4,,column moved off a marker
+FC-1C,1,n2935,trace,33,1958,1730,1,5,,
+FC-1C,1,n2935,trace,34,1987,1728,1,6,,
+FC-1C,1,n2935,trace,35,2017,1726,1,5,,
+FC-1C,1,n2935,trace,36,2046,1725,1,6,,
+FC-1C,1,n2935,trace,37,2075,1721,1,5,,
+FC-1C,1,n2345,trace,1,705,2380,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 17 px, bound is half of it"
+FC-1C,1,n2345,trace,2,729,2340,1,8,,"steep segment: the vertical cut of the line is 16 px, bound is half of it"
+FC-1C,1,n2345,trace,3,758,2292,1,10,,"steep segment: the vertical cut of the line is 20 px, bound is half of it"
+FC-1C,1,n2345,trace,4,786,2250,1,7,,column moved off a marker
+FC-1C,1,n2345,trace,5,826,2199,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n2345,trace,6,846,2176,1,6,,
+FC-1C,1,n2345,trace,7,875,2144,1,7,,
+FC-1C,1,n2345,trace,8,904,2117,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n2345,trace,9,950,2078,1,7,,column moved off a marker
+FC-1C,1,n2345,trace,10,962,2068,1,6,,
+FC-1C,1,n2345,trace,11,992,2048,1,6,,
+FC-1C,1,n2345,trace,12,1021,2030,1,7,,
+FC-1C,1,n2345,trace,13,1068,2004,1,6,,column moved off a marker
+FC-1C,1,n2345,trace,14,1079,1997,1,5,,
+FC-1C,1,n2345,trace,15,1109,1984,1,6,,merged with the horizontal gridline
+FC-1C,1,n2345,trace,16,1137,1974,1,4,,column moved off a marker
+FC-1C,1,n2345,trace,17,1177,1966,1,4,,column moved off a marker
+FC-1C,1,n2345,trace,18,1197,1962,1,6,,
+FC-1C,1,n2345,trace,19,1226,1960,1,5,,
+FC-1C,1,n2345,trace,20,1252,1958,1,5,,column moved off a marker
+FC-1C,1,n2345,trace,21,1292,1958,1,3,,column moved off a marker
+FC-1C,1,n2345,trace,22,1314,1960,1,6,,
+FC-1C,1,n2345,trace,23,1343,1962,1,6,,
+FC-1C,1,n2345,trace,24,1373,1965,1,7,,
+FC-1C,1,n2345,trace,25,1402,1966,1,6,,
+FC-1C,1,n2345,trace,26,1423,1965,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n2345,trace,27,1469,1963,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n2345,trace,28,1490,1960,1,5,,
+FC-1C,1,n2345,trace,29,1519,1959,1,6,,
+FC-1C,1,n2345,trace,30,1536,1958,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n2345,trace,31,1579,1952,1,3,,column moved off a marker
+FC-1C,1,n2345,trace,32,1602,1950,1,6,,column moved off a marker
+FC-1C,1,n2345,trace,33,1642,1948,1,6,,column moved off a marker
+FC-1C,1,n2345,trace,34,1666,1949,1,5,,
+FC-1C,1,n2345,trace,35,1695,1954,1,5,,
+FC-1C,1,n2345,trace,36,1720,1960,1,5,,column moved off a marker
+FC-1C,1,n2345,trace,37,1763,1972,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n2345,trace,38,1783,1978,1,6,,merged with the horizontal gridline
+FC-1C,1,n2345,trace,39,1818,1979,1,5,,column moved 6 px off a gap in the dashed line; merged with the horizontal gridline
+FC-1C,1,n2345,trace,40,1842,2001,1,7,,
+FC-1C,1,n2345,trace,41,1871,2010,1,7,,
+FC-1C,1,n2345,trace,42,1899,2018,1,5,,column moved off a marker
+FC-1C,1,n2345,trace,43,1939,2030,1,4,,column moved off a marker
+FC-1C,1,n2345,trace,44,1959,2036,1,5,,
+FC-1C,1,n2345,trace,45,1989,2042,1,6,,
+FC-1C,1,n2345,trace,46,2018,2046,1,6,,
+FC-1C,1,n2345,trace,47,2047,2050,1,6,,
+FC-1C,1,n2345,trace,48,2073,2053,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n1760,trace,1,759,2486,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n1760,trace,2,788,2449,1,9,,"steep segment: the vertical cut of the line is 17 px, bound is half of it"
+FC-1C,1,n1760,trace,3,817,2414,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n1760,trace,4,846,2380,1,6,,
+FC-1C,1,n1760,trace,5,876,2346,1,7,,
+FC-1C,1,n1760,trace,6,902,2316,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n1760,trace,7,942,2275,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 17 px, bound is half of it"
+FC-1C,1,n1760,trace,8,963,2256,1,6,,
+FC-1C,1,n1760,trace,9,1003,2222,1,7,,column moved off a marker
+FC-1C,1,n1760,trace,10,1022,2208,1,7,,
+FC-1C,1,n1760,trace,11,1051,2185,1,7,,
+FC-1C,1,n1760,trace,12,1077,2169,1,5,,column moved -3 px off a gap in the dashed line
+FC-1C,1,n1760,trace,13,1121,2140,1,4,,column moved off a marker
+FC-1C,1,n1760,trace,14,1139,2131,1,7,,
+FC-1C,1,n1760,trace,15,1168,2116,1,6,,
+FC-1C,1,n1760,trace,16,1197,2104,1,7,,
+FC-1C,1,n1760,trace,17,1227,2092,1,6,,
+FC-1C,1,n1760,trace,18,1256,2082,1,6,,
+FC-1C,1,n1760,trace,19,1285,2074,1,6,,
+FC-1C,1,n1760,trace,20,1311,2068,1,6,,column moved -3 px off a gap in the dashed line
+FC-1C,1,n1760,trace,21,1354,2054,1,4,,column moved off a marker
+FC-1C,1,n1760,trace,22,1373,2050,1,6,,
+FC-1C,1,n1760,trace,23,1402,2042,1,5,,
+FC-1C,1,n1760,trace,24,1431,2036,1,5,,
+FC-1C,1,n1760,trace,25,1472,2028,1,6,,column moved off a marker
+FC-1C,1,n1760,trace,26,1490,2026,1,6,,
+FC-1C,1,n1760,trace,27,1519,2024,1,5,,
+FC-1C,1,n1760,trace,28,1549,2024,1,5,,
+FC-1C,1,n1760,trace,29,1589,2024,1,5,,column moved off a marker
+FC-1C,1,n1760,trace,30,1607,2025,1,6,,
+FC-1C,1,n1760,trace,31,1637,2028,1,6,,
+FC-1C,1,n1760,trace,32,1662,2031,1,6,,column moved off a marker
+FC-1C,1,n1760,trace,33,1717,2042,1,5,,column moved off a marker; column moved 15 px off a gap in the dashed line
+FC-1C,1,n1760,trace,34,1725,2044,1,5,,
+FC-1C,1,n1760,trace,35,1754,2052,1,6,,
+FC-1C,1,n1760,trace,36,1783,2062,1,6,,
+FC-1C,1,n1760,trace,37,1813,2068,1,3,,
+FC-1C,1,n1760,trace,38,1842,2076,1,5,,
+FC-1C,1,n1760,trace,39,1872,2082,1,5,,
+FC-1C,1,n1760,trace,40,1898,2087,1,5,,column moved off a marker
+FC-1C,1,n1760,trace,41,1938,2094,1,5,,column moved off a marker
+FC-1C,1,n1760,trace,42,1960,2098,1,6,,
+FC-1C,1,n1760,trace,43,1989,2101,1,7,,
+FC-1C,1,n1760,trace,44,2018,2104,1,6,,
+FC-1C,1,n1760,trace,45,2048,2107,1,6,,
+FC-1C,1,n1760,trace,46,2062,2108,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n1172,trace,1,762,2540,1,5,,column moved off a marker
+FC-1C,1,n1172,trace,2,788,2519,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n1172,trace,3,818,2494,1,6,,
+FC-1C,1,n1172,trace,4,845,2472,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,5,885,2443,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,6,905,2432,1,6,,
+FC-1C,1,n1172,trace,7,935,2414,1,7,,
+FC-1C,1,n1172,trace,8,961,2400,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,9,1001,2382,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,10,1022,2372,1,5,,
+FC-1C,1,n1172,trace,11,1052,2362,1,6,,
+FC-1C,1,n1172,trace,12,1071,2356,1,6,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n1172,trace,13,1117,2340,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n1172,trace,14,1140,2335,1,6,,
+FC-1C,1,n1172,trace,15,1169,2330,1,5,,
+FC-1C,1,n1172,trace,16,1192,2327,1,5,,column moved off a marker
+FC-1C,1,n1172,trace,17,1232,2323,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,18,1257,2322,1,5,,
+FC-1C,1,n1172,trace,19,1286,2322,1,6,,
+FC-1C,1,n1172,trace,20,1314,2324,1,4,,column moved off a marker
+FC-1C,1,n1172,trace,21,1354,2329,1,4,,column moved off a marker
+FC-1C,1,n1172,trace,22,1374,2332,1,6,,
+FC-1C,1,n1172,trace,23,1403,2334,1,6,,
+FC-1C,1,n1172,trace,24,1433,2340,1,6,,
+FC-1C,1,n1172,trace,25,1474,2346,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,26,1491,2346,1,6,,
+FC-1C,1,n1172,trace,27,1521,2350,1,6,,
+FC-1C,1,n1172,trace,28,1549,2350,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,29,1589,2350,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,30,1609,2350,1,6,,
+FC-1C,1,n1172,trace,31,1638,2353,1,6,,
+FC-1C,1,n1172,trace,32,1666,2359,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,33,1706,2374,1,6,,column moved off a marker
+FC-1C,1,n1172,trace,34,1726,2380,1,6,,
+FC-1C,1,n1172,trace,35,1756,2388,1,6,,
+FC-1C,1,n1172,trace,36,1785,2396,1,3,,
+FC-1C,1,n1172,trace,37,1814,2404,1,3,,
+FC-1C,1,n1172,trace,38,1844,2408,1,5,,
+FC-1C,1,n1172,trace,39,1873,2414,1,5,,
+FC-1C,1,n1172,trace,40,1898,2417,1,5,,column moved off a marker
+FC-1C,1,n1172,trace,41,1941,2423,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n1172,trace,42,1961,2424,1,5,,
+FC-1C,1,n1172,trace,43,1990,2426,1,5,,
+FC-1C,1,n1172,trace,44,2005,2426,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n1172,trace,45,2049,2428,1,3,,
+FC-1C,1,n587,trace,1,706,2674,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it"
+FC-1C,1,n587,trace,2,730,2650,1,7,,
+FC-1C,1,n587,trace,3,760,2622,1,7,,
+FC-1C,1,n587,trace,4,789,2594,1,7,,
+FC-1C,1,n587,trace,5,834,2557,1,6,,column moved off a marker; merged with the horizontal gridline
+FC-1C,1,n587,trace,6,847,2550,1,8,,"steep segment: the vertical cut of the line is 16 px, bound is half of it"
+FC-1C,1,n587,trace,7,876,2528,1,6,,
+FC-1C,1,n587,trace,8,902,2514,1,5,,column moved off a marker
+FC-1C,1,n587,trace,9,945,2490,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n587,trace,10,964,2483,1,5,,
+FC-1C,1,n587,trace,11,993,2473,1,6,,
+FC-1C,1,n587,trace,12,1015,2466,1,6,,column moved off a marker
+FC-1C,1,n587,trace,13,1055,2470,1,3,,column moved off a marker
+FC-1C,1,n587,trace,14,1081,2456,1,5,,
+FC-1C,1,n587,trace,15,1111,2454,1,6,,
+FC-1C,1,n587,trace,16,1137,2454,1,5,,column moved off a marker
+FC-1C,1,n587,trace,17,1177,2452,1,6,,column moved off a marker
+FC-1C,1,n587,trace,18,1199,2454,1,5,,
+FC-1C,1,n587,trace,19,1228,2456,1,5,,
+FC-1C,1,n587,trace,20,1249,2456,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n587,trace,21,1298,2457,1,5,,column moved off a marker; column moved 6 px off a gap in the dashed line
+FC-1C,1,n587,trace,22,1316,2458,1,6,,
+FC-1C,1,n587,trace,23,1345,2458,1,6,,
+FC-1C,1,n587,trace,24,1375,2458,1,6,,
+FC-1C,1,n587,trace,25,1404,2456,1,5,,
+FC-1C,1,n587,trace,26,1429,2457,1,5,,column moved off a marker
+FC-1C,1,n587,trace,27,1469,2455,1,6,,column moved off a marker
+FC-1C,1,n587,trace,28,1492,2456,1,5,,
+FC-1C,1,n587,trace,29,1532,2458,1,6,,column moved off a marker
+FC-1C,1,n587,trace,30,1551,2458,1,7,,
+FC-1C,1,n587,trace,31,1580,2464,1,6,,
+FC-1C,1,n587,trace,32,1604,2467,1,6,,column moved off a marker
+FC-1C,1,n587,trace,33,1647,2477,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n587,trace,34,1668,2482,1,6,,
+FC-1C,1,n587,trace,35,1697,2488,1,6,,
+FC-1C,1,n587,trace,36,1727,2496,1,6,,
+FC-1C,1,n587,trace,37,1770,2506,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n587,trace,38,1785,2508,1,4,,
+FC-1C,1,n587,trace,39,1815,2515,1,6,,
+FC-1C,1,n587,trace,40,1837,2520,1,5,,column moved off a marker; column moved -6 px off a gap in the dashed line
+FC-1C,1,n587,trace,41,1886,2528,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n587,trace,42,1903,2530,1,6,,
+FC-1C,1,n587,trace,43,1932,2533,1,6,,
+FC-1C,1,n587,trace,44,1957,2536,1,6,,column moved off a marker
+FC-1C,1,n587,trace,45,2000,2542,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n587,trace,46,2020,2541,1,5,,
+FC-1C,1,n587,trace,47,2049,2543,1,5,,
+FC-1C,1,n294,trace,1,761,2710,1,5,,column moved off a marker
+FC-1C,1,n294,trace,2,789,2699,1,6,,
+FC-1C,1,n294,trace,3,818,2688,1,6,,
+FC-1C,1,n294,trace,4,846,2678,1,6,,column moved off a marker
+FC-1C,1,n294,trace,5,886,2666,1,6,,column moved off a marker
+FC-1C,1,n294,trace,6,906,2660,1,6,,
+FC-1C,1,n294,trace,7,936,2654,1,4,,
+FC-1C,1,n294,trace,8,964,2648,1,5,,column moved off a marker
+FC-1C,1,n294,trace,9,1004,2640,1,6,,column moved off a marker
+FC-1C,1,n294,trace,10,1024,2639,1,5,,
+FC-1C,1,n294,trace,11,1053,2635,1,6,,
+FC-1C,1,n294,trace,12,1078,2634,1,5,,column moved off a marker
+FC-1C,1,n294,trace,13,1118,2630,1,5,,column moved off a marker
+FC-1C,1,n294,trace,14,1141,2630,1,5,,
+FC-1C,1,n294,trace,15,1170,2630,1,5,,
+FC-1C,1,n294,trace,16,1199,2629,1,6,,
+FC-1C,1,n294,trace,17,1243,2630,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n294,trace,18,1258,2630,1,5,,
+FC-1C,1,n294,trace,19,1287,2632,1,6,,
+FC-1C,1,n294,trace,20,1315,2633,1,5,,column moved off a marker
+FC-1C,1,n294,trace,21,1361,2637,1,5,,column moved off a marker; column moved 6 px off a gap in the dashed line
+FC-1C,1,n294,trace,22,1375,2638,1,6,,
+FC-1C,1,n294,trace,23,1405,2640,1,5,,
+FC-1C,1,n294,trace,24,1425,2642,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n294,trace,25,1474,2646,1,6,,column moved off a marker; column moved 6 px off a gap in the dashed line
+FC-1C,1,n294,trace,26,1493,2648,1,5,,
+FC-1C,1,n294,trace,27,1522,2652,1,5,,
+FC-1C,1,n294,trace,28,1543,2652,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line
+FC-1C,1,n294,trace,29,1589,2658,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line
+FC-1C,1,n294,trace,30,1610,2658,1,5,,
+FC-1C,1,n294,trace,31,1639,2663,1,6,,
+FC-1C,1,n294,trace,32,1663,2664,1,5,,column moved off a marker
+FC-1C,1,n3520,feature,1,686,2272,3,3,,first point: the line starts at the first marker
+FC-1C,1,n3520,feature,2,1625,1598,58,5,,peak of the drawn line; flat top from u=1569 to 1685 (v within 1 px of the minimum)
+FC-1C,1,n3520,feature,3,2104,1670,3,3,,last point: the line ends at the last marker
+FC-1C,1,n2935,feature,1,992,1838,3,3,,first point: the line starts at the first marker
+FC-1C,1,n2935,feature,2,1384,1682,25,5,,peak of the drawn line; flat top from u=1359 to 1409 (v within 1 px of the minimum)
+FC-1C,1,n2935,feature,3,2102,1717,3,3,,last point: the line ends at the last marker
+FC-1C,1,n2345,feature,1,685,2410,3,3,,first point: the line starts at the first marker
+FC-1C,1,n2345,feature,2,1650,1948,8,5,,peak of the drawn line; flat top from u=1642 to 1657 (v within 1 px of the minimum)
+FC-1C,1,n2345,feature,3,2096,2054,3,3,,last point: the line ends at the last marker
+FC-1C,1,n1760,feature,1,734,2506,3,3,,first point: the line starts at the first marker
+FC-1C,1,n1760,feature,2,1537,2022,36,5,,peak of the drawn line; flat top from u=1519 to 1590 (v within 1 px of the minimum)
+FC-1C,1,n1760,feature,3,2085,2112,3,3,,last point: the line ends at the last marker
+FC-1C,1,n1172,feature,1,742,2556,3,3,,first point: the line starts at the first marker
+FC-1C,1,n1172,feature,2,1264,2322,23,5,,peak of the drawn line; flat top from u=1241 to 1287 (v within 1 px of the minimum)
+FC-1C,1,n1172,feature,3,2080,2425,4,6,,last point: the line runs on to the right frame line (x = 250); read at u=2080
+FC-1C,1,n587,feature,1,686,2690,3,3,,first point: the line starts at the first marker
+FC-1C,1,n587,feature,2,1178,2452,3,6,,peak of the drawn line; flat top from u=1177 to 1179 (v within 1 px of the minimum)
+FC-1C,1,n587,feature,3,2080,2545,4,6,,last point: the line runs on to the right frame line (x = 250); read at u=2080
+FC-1C,1,n294,feature,1,741,2718,3,3,,first point: the line starts at the first marker
+FC-1C,1,n294,feature,2,1186,2629,52,6,,peak of the drawn line; flat top from u=1150 to 1253 (v within 1 px of the minimum)
+FC-1C,1,n294,feature,3,1683,2669,3,3,,last point: the line ends at the last marker

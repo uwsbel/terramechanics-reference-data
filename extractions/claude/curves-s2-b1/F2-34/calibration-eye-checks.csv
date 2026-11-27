@@ -1,0 +1,7 @@
+figure_id,panel,axis,printed_label,value_used,unit,label_pixel_u,label_pixel_v,fitted_line_px_at_label,line_source,eye_check,note
+F2-34,1,x,0,0,in,2254,3651,v=3654.5 at u 2222,detected 7/7 bands,ok,"penetration label 0 printed beside the bottom frame line (load axis); x increases up the page"
+F2-34,1,x,3,3,in,2254,2845,v=2867 at u 2222,detected 6/7 bands,ok,"label printed about 25 px above its line, as every penetration label is; the line is the fourth drawn horizontal line from the bottom"
+F2-34,1,x,6,6,in,2254,2052,v=2078 at u 2222,detected 7/7 bands,ok,"last printed penetration label; the drawn lines at 7, 8 and 9 in (v about 1825, 1565, 1311) are unlabelled and the top frame line is the 9 in line"
+F2-34,1,y,0,0,lb,2211,3727,u=2224 at v 3660,detected 5/7 bands,ok,"load label 0 printed under the right frame line; y increases to the left. Axis title printed as Load - Lbs. x 100; the printed numbers 0 to 1200 are given to the tool as lb and not multiplied"
+F2-34,1,y,600,600,lb,1437,3727,u=1440 at v 3660,detected 7/7 bands,ok,"fourth drawn vertical line from the right"
+F2-34,1,y,1200,1200,lb,647,3727,u=646.5 at v 3660,detected 7/7 bands,ok,"left frame line carries the last load label"

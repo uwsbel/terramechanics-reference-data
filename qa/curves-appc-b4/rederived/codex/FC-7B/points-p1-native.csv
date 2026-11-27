@@ -1,0 +1,108 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-7B,1,n27p1psi,marker,1,1800.0,3276.0,15,15,quarter-circle,0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0014618,10.62078,0.0026023,0.32181,piecewise extrapolated x
+FC-7B,1,n27p1psi,marker,2,1670.5,3269.0,15,15,quarter-circle,0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0026417,13.25367,0.0025947,0.31917,piecewise
+FC-7B,1,n27p1psi,marker,3,1541,3267,15,15,quarter-circle,Quarter-circle below touching star; baseline obscures lower outline. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0030159,15.88643,0.0025947,0.31805,piecewise
+FC-7B,1,n27p1psi,marker,4,1350,3264,15,15,quarter-circle,Quarter-circle on 20-psi gridline near baseline. 20-psi gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0035762,19.76745,0.0025947,0.32234,piecewise
+FC-7B,1,n27p1psi,marker,5,1196.5,3256.0,15,15,quarter-circle,Crowded near origin; bound is approximately half the symbol width.,0.0049284,22.90033,0.0025935,0.32617,piecewise
+FC-7B,1,n27p1psi,marker,6,1113.0,3247.0,15,15,quarter-circle,25-psi gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0064142,24.60463,0.0025918,0.32762,piecewise
+FC-7B,1,n27p1psi,marker,7,970.5,3224.0,2,2,quarter-circle,,0.010184,27.52416,0.0004809,0.0584,piecewise
+FC-7B,1,n27p1psi,marker,8,856.0,3166.0,5,5,quarter-circle,30-psi gridline intersects/abuts symbol.,0.0195933,29.86694,0.0009539,0.11799,piecewise
+FC-7B,1,n27p1psi,marker,9,789.5,3105.0,2,2,quarter-circle,,0.0294692,31.20859,0.0004537,0.05431,piecewise
+FC-7B,1,n27p1psi,marker,10,745.5,3046.0,5,5,quarter-circle,0.04-in gridline intersects/abuts symbol.,0.039014,32.09234,0.0009266,0.11485,piecewise
+FC-7B,1,n27p1psi,marker,11,712.0,2921.0,2,2,quarter-circle,,0.0593899,32.7544,0.0004443,0.05319,piecewise
+FC-7B,1,n27p1psi,marker,12,682.5,2794.5,5,5,quarter-circle,0.08-in gridline intersects/abuts symbol.,0.0800203,33.33448,0.0009427,0.11386,piecewise
+FC-7B,1,n27p1psi,marker,13,693.5,2675.0,2,2,quarter-circle,,0.0996008,33.09628,0.0004563,0.05289,piecewise
+FC-7B,1,n27p1psi,marker,14,744.5,2555.0,5,5,quarter-circle,0.12-in gridline intersects/abuts symbol.,0.1192338,32.05049,0.0009567,0.11458,piecewise
+FC-7B,1,n27p1psi,marker,15,759.5,2434.5,2,2,quarter-circle,,0.1388544,31.73255,0.0004579,0.05375,piecewise
+FC-7B,1,n27p1psi,marker,16,815.5,2307.5,5,5,quarter-circle,0.16-in gridline intersects/abuts symbol.,0.1595054,30.58729,0.0009453,0.1154,piecewise
+FC-7B,1,n27p1psi,marker,17,866.0,2186.0,2,2,quarter-circle,,0.1792909,29.54686,0.000444,0.05636,piecewise
+FC-7B,1,n27p1psi,marker,18,924.0,2061.5,5,5,quarter-circle,0.2-in gridline intersects/abuts symbol.,0.1995701,28.34167,0.0009231,0.11959,piecewise
+FC-7B,1,n27p1psi,marker,19,947.5,1896.0,2,2,quarter-circle,,0.2265676,27.83978,0.0004491,0.0581,piecewise
+FC-7B,1,n27p1psi,marker,20,982.5,1753.0,2,2,quarter-circle,,0.2498558,27.10441,0.0004717,0.05886,piecewise
+FC-7B,1,n27p1psi,marker,21,1040.0,1602.5,2,2,quarter-circle,,0.274302,25.90615,0.0005088,0.06008,piecewise
+FC-7B,1,n27p1psi,marker,22,1103.0,1447.5,5,5,quarter-circle,25-psi gridline intersects/abuts symbol.,0.299506,24.59608,0.0009959,0.12213,piecewise
+FC-7B,1,n13p8psi,marker,1,1855,3268,16,16,star,Star touches triangle and baseline. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0027292,9.49412,0.0027557,0.34727,piecewise
+FC-7B,1,n13p8psi,marker,2,1711.5,3259.0,15,15,star,Crowded near origin; bound is approximately half the symbol width.,0.0042372,12.41861,0.0025923,0.32,piecewise
+FC-7B,1,n13p8psi,marker,3,1558,3241,16,16,star,Star touches quarter-circle below. Crowded near origin; bound is approximately half the symbol width.,0.0072011,15.53773,0.0027507,0.33818,piecewise
+FC-7B,1,n13p8psi,marker,4,1462.0,3220.5,2,2,star,,0.0105459,17.48612,0.00048,0.05361,piecewise
+FC-7B,1,n13p8psi,marker,5,1419.0,3163.0,2,2,star,,0.0198365,18.35298,0.0004669,0.05448,piecewise
+FC-7B,1,n13p8psi,marker,6,1374.0,3101.0,2,2,star,,0.029855,19.26005,0.0004527,0.0554,piecewise
+FC-7B,1,n13p8psi,marker,7,1349,3039,6,6,star,Star crossed by 20-psi and .04-in gridlines. 20-psi gridline intersects/abuts symbol. 0.04-in gridline intersects/abuts symbol.,0.0398657,19.76071,0.0010934,0.13777,piecewise
+FC-7B,1,n13p8psi,marker,8,1308.0,2919.5,2,2,star,,0.0593315,20.58261,0.0004437,0.05691,piecewise
+FC-7B,1,n13p8psi,marker,9,1370.5,2793.5,5,5,star,0.08-in gridline intersects/abuts symbol.,0.0798027,19.29404,0.0009394,0.11687,piecewise
+FC-7B,1,n13p8psi,marker,10,1382.0,2673.5,2,2,star,,0.0994161,19.0457,0.0004552,0.05521,piecewise
+FC-7B,1,n13p8psi,marker,11,1432.5,2548.5,5,5,star,0.12-in gridline intersects/abuts symbol.,0.1198192,18.00359,0.0009546,0.1156,piecewise
+FC-7B,1,n13p8psi,marker,12,1488.0,2427.0,2,2,star,,0.1396014,16.85994,0.0004585,0.05302,piecewise
+FC-7B,1,n13p8psi,marker,13,1529.0,2302.5,5,5,star,0.16-in gridline intersects/abuts symbol.,0.1598864,16.01059,0.0009478,0.11363,piecewise
+FC-7B,1,n13p8psi,marker,14,1559.0,2181.5,5,5,star,15-psi gridline intersects/abuts symbol.,0.1796521,15.38524,0.0009373,0.11302,piecewise
+FC-7B,1,n13p8psi,marker,15,1586,2058,8,8,star,Star crossed by 15-psi and .20-in gridlines; center bounded from exposed outline. 15-psi gridline intersects/abuts symbol. 0.2-in gridline intersects/abuts symbol.,0.1998325,14.82087,0.0014174,0.17391,piecewise
+FC-7B,1,n13p8psi,marker,16,1621.5,1904.0,2,2,star,,0.2249283,14.08115,0.0004477,0.05198,piecewise
+FC-7B,1,n13p8psi,marker,17,1669.5,1749.0,2,2,star,,0.2501229,13.088,0.0004706,0.05297,piecewise
+FC-7B,1,n13p8psi,marker,18,1708.0,1591.5,2,2,star,,0.2756389,12.28773,0.0005092,0.05377,piecewise
+FC-7B,1,n13p8psi,marker,19,1710.0,1444.0,2,2,star,,0.2996611,12.22934,0.0005047,0.05382,piecewise
+FC-7B,1,n10p2psi,marker,1,2138,3262,16,16,triangle-up,Triangle touches circle/square cluster and baseline. Crowded near origin; bound is approximately half the symbol width.,0.0035827,3.66619,0.0027531,0.33941,piecewise
+FC-7B,1,n10p2psi,marker,2,1948,3266,17,17,triangle-up,Triangle below touching diamond in origin cluster. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0030143,7.57543,0.0029165,0.36571,piecewise
+FC-7B,1,n10p2psi,marker,3,1833,3246,16,16,triangle-up,Triangle touches star below and 10-psi gridline. 10-psi gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0062834,9.94534,0.0027507,0.3469,piecewise
+FC-7B,1,n10p2psi,marker,4,1693.5,3191.0,2,2,triangle-up,,0.0152057,12.7764,0.0004732,0.0534,piecewise
+FC-7B,1,n10p2psi,marker,5,1614.0,3101.5,2,2,triangle-up,,0.0296678,14.38192,0.0004528,0.05176,piecewise
+FC-7B,1,n10p2psi,marker,6,1569.0,3038.0,5,5,triangle-up,15-psi gridline intersects/abuts symbol. 0.04-in gridline intersects/abuts symbol.,0.0399256,15.28885,0.0009303,0.11282,piecewise
+FC-7B,1,n10p2psi,marker,7,1563.0,2917.5,5,5,triangle-up,15-psi gridline intersects/abuts symbol.,0.0595275,15.39577,0.0009331,0.11294,piecewise
+FC-7B,1,n10p2psi,marker,8,1564,2793,6,6,triangle-up,Triangle on .08-in gridline; nearby short horizontal ink is not a curve. 15-psi gridline intersects/abuts symbol. 0.08-in gridline intersects/abuts symbol.,0.0797772,15.3599,0.0011027,0.1334,piecewise
+FC-7B,1,n10p2psi,marker,9,1604.5,2672.0,2,2,triangle-up,,0.0995225,14.52162,0.0004548,0.05159,piecewise
+FC-7B,1,n10p2psi,marker,10,1645.0,2549.0,5,5,triangle-up,0.12-in gridline intersects/abuts symbol.,0.1195898,13.68353,0.0009538,0.11381,piecewise
+FC-7B,1,n10p2psi,marker,11,1695.0,2426.0,2,2,triangle-up,,0.1396295,12.65279,0.0004587,0.05347,piecewise
+FC-7B,1,n10p2psi,marker,12,1732.5,2302.5,5,5,triangle-up,0.16-in gridline intersects/abuts symbol.,0.1597625,11.87621,0.0009482,0.1156,piecewise
+FC-7B,1,n10p2psi,marker,13,1765.5,2184.0,2,2,triangle-up,,0.1791315,11.19189,0.0004455,0.05493,piecewise
+FC-7B,1,n10p2psi,marker,14,1801.5,2057.0,5,5,triangle-up,0.2-in gridline intersects/abuts symbol.,0.1998954,10.44591,0.0009258,0.117,piecewise
+FC-7B,1,n10p2psi,marker,15,1844.5,1905.0,2,2,triangle-up,,0.224655,9.55426,0.0004474,0.05578,piecewise
+FC-7B,1,n10p2psi,marker,16,1903.0,1749.0,2,2,triangle-up,,0.2499931,8.3487,0.0004699,0.05443,piecewise
+FC-7B,1,n6p6psi,marker,1,2021,3253,18,18,diamond,Diamond touches circle in origin cluster. Crowded near origin; bound is approximately half the symbol width.,0.0050795,6.06852,0.003075,0.38457,piecewise
+FC-7B,1,n6p6psi,marker,2,1948,3244,17,17,diamond,Diamond touches circle above and triangle below. Crowded near origin; bound is approximately half the symbol width.,0.0065591,7.57336,0.0029116,0.36562,piecewise
+FC-7B,1,n6p6psi,marker,3,1895.5,3194.0,2,2,diamond,,0.0146374,8.65085,0.0004738,0.05558,piecewise
+FC-7B,1,n6p6psi,marker,4,1867.5,3161.5,2,2,diamond,,0.0198865,9.2244,0.0004665,0.05616,piecewise
+FC-7B,1,n6p6psi,marker,5,1836.0,3100.0,5,5,diamond,10-psi gridline intersects/abuts symbol.,0.029811,9.86623,0.0009379,0.119,piecewise
+FC-7B,1,n6p6psi,marker,6,1827.5,3035.5,5,5,diamond,10-psi gridline intersects/abuts symbol. 0.04-in gridline intersects/abuts symbol.,0.0402113,10.03315,0.0009304,0.11844,piecewise
+FC-7B,1,n6p6psi,marker,7,1827.0,2913.5,5,5,diamond,10-psi gridline intersects/abuts symbol.,0.0600438,10.02895,0.0009326,0.11837,piecewise
+FC-7B,1,n6p6psi,marker,8,1827.5,2790.5,5,5,diamond,10-psi gridline intersects/abuts symbol. 0.08-in gridline intersects/abuts symbol.,0.0800384,10.00431,0.0009389,0.11847,piecewise
+FC-7B,1,n6p6psi,marker,9,1827.5,2670.5,5,5,diamond,10-psi gridline intersects/abuts symbol.,0.0996284,9.9901,0.0009463,0.11835,piecewise
+FC-7B,1,n6p6psi,marker,10,1858.5,2547.0,5,5,diamond,0.12-in gridline intersects/abuts symbol.,0.1197681,9.34076,0.0009536,0.11775,piecewise
+FC-7B,1,n6p6psi,marker,11,1872.5,2427.0,2,2,diamond,,0.1393504,9.04108,0.0004589,0.05554,piecewise
+FC-7B,1,n6p6psi,marker,12,1894.5,2303.0,5,5,diamond,0.16-in gridline intersects/abuts symbol.,0.1595821,8.57834,0.0009484,0.11664,piecewise
+FC-7B,1,n6p6psi,marker,13,1921.0,2181.5,2,2,diamond,,0.1794566,8.02525,0.0004455,0.05434,piecewise
+FC-7B,1,n6p6psi,marker,14,1930.0,2058.5,5,5,diamond,0.2-in gridline intersects/abuts symbol.,0.1995897,7.8299,0.0009264,0.11554,piecewise
+FC-7B,1,n6p6psi,marker,15,1967.5,1902.0,2,2,diamond,,0.2250832,7.05226,0.0004476,0.05317,piecewise
+FC-7B,1,n6p6psi,marker,16,1997.5,1750.0,2,2,diamond,,0.2497787,6.42978,0.0004694,0.05244,piecewise
+FC-7B,1,n5p1psi,marker,1,2251,3268,16,16,square,Square lower edge touches baseline; interior stray ink cannot establish another symbol. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0025711,1.35379,0.002755,0.34027,piecewise extrapolated x
+FC-7B,1,n5p1psi,marker,2,2194,3265,16,16,square,Square overlaps circle and baseline. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.003077,2.52021,0.0027535,0.33983,piecewise
+FC-7B,1,n5p1psi,marker,3,2095,3259,16,16,square,Square overlaps circle. Crowded near origin; bound is approximately half the symbol width.,0.0040832,4.5461,0.0027526,0.33908,piecewise
+FC-7B,1,n5p1psi,marker,4,1999,3231,16,16,square,Square touches neighboring circles in origin cluster.,0.0086329,6.52046,0.0027467,0.34356,piecewise
+FC-7B,1,n5p1psi,marker,5,1917.5,3158.5,2,2,square,,0.0203485,8.19379,0.0004658,0.05507,piecewise
+FC-7B,1,n5p1psi,marker,6,1898.5,3101.0,2,2,square,,0.0296221,8.57929,0.0004527,0.05545,piecewise
+FC-7B,1,n5p1psi,marker,7,1892.5,3037.0,5,5,square,0.04-in gridline intersects/abuts symbol.,0.0399378,8.69609,0.0009297,0.11766,piecewise
+FC-7B,1,n5p1psi,marker,8,1886.5,2913.0,2,2,square,,0.0600948,8.80633,0.0004433,0.05558,piecewise
+FC-7B,1,n5p1psi,marker,9,1879.5,2790.0,5,5,square,0.08-in gridline intersects/abuts symbol.,0.0800912,8.93692,0.0009388,0.11761,piecewise
+FC-7B,1,n5p1psi,marker,10,1892.5,2668.0,2,2,square,,0.0999959,8.65728,0.0004546,0.05528,piecewise
+FC-7B,1,n5p1psi,marker,11,1911.5,2545.0,5,5,square,0.12-in gridline intersects/abuts symbol.,0.1200577,8.2554,0.0009537,0.11658,piecewise
+FC-7B,1,n5p1psi,marker,12,1930.5,2422.5,2,2,square,,0.1400473,7.85459,0.0004589,0.0543,piecewise
+FC-7B,1,n5p1psi,marker,13,1953.5,2301.0,5,5,square,0.16-in gridline intersects/abuts symbol.,0.1598727,7.3732,0.0009491,0.11534,piecewise
+FC-7B,1,n5p1psi,marker,14,1981.5,2179.5,2,2,square,,0.1797514,6.79102,0.0004455,0.05305,piecewise
+FC-7B,1,n5p1psi,marker,15,1995.5,2061.0,5,5,square,0.2-in gridline intersects/abuts symbol.,0.1991496,6.49576,0.0009269,0.11411,piecewise
+FC-7B,1,n5p1psi,marker,16,2023,1903,5,5,square,Square near adjacent circle; distinct rectangular outline.,0.2248928,5.92353,0.0009382,0.11331,piecewise
+FC-7B,1,n5p1psi,marker,17,2041,1750,16,16,square,Square touches circle on 5-psi gridline.,0.2497546,5.54642,0.0027472,0.33717,piecewise
+FC-7B,1,n3p4psi,marker,1,2207,3264,16,16,circle,Circle overlaps square and baseline. 0-in gridline intersects/abuts symbol. Crowded near origin; bound is approximately half the symbol width.,0.0032329,2.25406,0.0027533,0.33994,piecewise
+FC-7B,1,n3p4psi,marker,2,2112,3259,16,16,circle,Circle overlaps square and triangle. Crowded near origin; bound is approximately half the symbol width.,0.0040763,4.19814,0.0027525,0.33921,piecewise
+FC-7B,1,n3p4psi,marker,3,2036,3254,17,17,circle,Circle touches diamond. Crowded near origin; bound is approximately half the symbol width.,0.0049124,5.7592,0.0029134,0.36346,piecewise
+FC-7B,1,n3p4psi,marker,4,1975,3219,16,16,circle,Circle touches diamond and square in origin cluster.,0.0105761,7.01431,0.0027441,0.34411,piecewise
+FC-7B,1,n3p4psi,marker,5,1948,3160,3,3,circle,Circle close to square; exposed circular outline.,0.0200937,7.56547,0.0006279,0.07513,piecewise
+FC-7B,1,n3p4psi,marker,6,1949.5,3098.5,3,3,circle,Short stray ink near circle; center read on circular outline.,0.0300023,7.52881,0.0006139,0.07505,piecewise
+FC-7B,1,n3p4psi,marker,7,1949.5,3038.5,5,5,circle,Circle crossed by .04-in gridline. 0.04-in gridline intersects/abuts symbol.,0.0396699,7.5232,0.0009273,0.11639,piecewise
+FC-7B,1,n3p4psi,marker,8,1973.5,2915,3,3,circle,Short tail is scan ink; circular outline supplies center.,0.0597256,7.01841,0.0006062,0.07436,piecewise
+FC-7B,1,n3p4psi,marker,9,1977.5,2792,5,5,circle,Circle crossed by .08-in gridline. 0.08-in gridline intersects/abuts symbol.,0.0797117,6.9255,0.0009372,0.11544,piecewise
+FC-7B,1,n3p4psi,marker,10,2005.0,2669.5,2,2,circle,,0.0996809,6.35109,0.0004543,0.05286,piecewise
+FC-7B,1,n3p4psi,marker,11,2018,2546,5,5,circle,Circle crossed by .12-in gridline; short nearby ink ignored. 0.12-in gridline intersects/abuts symbol.,0.1198206,6.07495,0.0009537,0.11423,piecewise
+FC-7B,1,n3p4psi,marker,12,2024.0,2424.5,2,2,circle,,0.1396597,5.94281,0.000459,0.0523,piecewise
+FC-7B,1,n3p4psi,marker,13,2048.0,2301.5,5,5,circle,0.16-in gridline intersects/abuts symbol.,0.1597335,5.44327,0.0009491,0.11326,piecewise
+FC-7B,1,n3p4psi,marker,14,2051.0,2181.0,5,5,circle,5-psi gridline intersects/abuts symbol.,0.1794681,5.37352,0.0009391,0.11304,piecewise
+FC-7B,1,n3p4psi,marker,15,2049.0,2057.0,5,5,circle,5-psi gridline intersects/abuts symbol. 0.2-in gridline intersects/abuts symbol.,0.1997796,5.40555,0.0009267,0.11293,piecewise
+FC-7B,1,n3p4psi,marker,16,2057,1903,6,6,circle,Circle next to square; edge joins 5-psi gridline. 5-psi gridline intersects/abuts symbol.,0.2248759,5.23199,0.0011017,0.133,piecewise
+FC-7B,1,n3p4psi,marker,17,2075,1749,16,16,circle,Circle touches square and 5-psi gridline. 5-psi gridline intersects/abuts symbol.,0.2498976,4.8543,0.002747,0.34005,piecewise

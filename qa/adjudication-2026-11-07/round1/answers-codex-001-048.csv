@@ -1,0 +1,49 @@
+item,answer,confidence,comment
+001,neither,high,"Both marks are in the frame. Put the first distinguishable dotted ink at about (850,3304)."
+002,yes,high,Q is centered on the lowest dotted ink at the bottom of the post-peak trough.
+003,yes,high,P is within 2 px of the lowest dot and represents the same trough minimum.
+004,no,medium,"The dotted recovery is straight at Q. Its turn out of the trough is near (1280,2040), well beyond 8 px."
+005,all no,high,"(844,3351) is inside the origin frame, below the last distinguishable dot of A."
+006,all yes,high,Both Q samples touch dots. The regular dotted A pattern remains distinct to the left of short-dashed C.
+007,all no,high,"Both Q samples are on short-dashed C, to the right of the separate dotted A trajectory."
+008,q,medium,"The solid B stroke can be followed down to Q near (857,3124); below it is a white break. P is in the frame."
+009,cannot tell,medium,"Two bends: about (1084,1755) at Q and (1134,1704) at P. They mark different changes in the solid rise."
+010,no,high,"This is a local shelf, not the trace peak. B later reaches a higher load near (1497,1597)."
+011,all yes,high,Q is inside the continuous solid B stroke above the horizontal grid line.
+012,all yes,high,Q is on solid B beyond the circular B label; the curve continues through the mark.
+013,all yes,high,P is inside the solid plateau stroke.
+014,all yes,high,"Q is inside the solid plateau stroke, separated from the long dash below."
+015,all yes,medium,Q follows the shallow continuous solid B stroke through the crossing; D follows the steeper long-dash direction.
+016,all no,high,"(848,3351) is in the origin frame, below the distinguishable solid B start."
+017,all yes,high,Q is on the thick continuous B stroke. The circular label approaches from above and left.
+018,all yes,high,P is inside the solid plateau stroke.
+019,all yes,high,"Q is inside the solid plateau stroke, separated from the long dash below."
+020,all yes,medium,P lies on B at the crossing. B is identified by its continuous shallow stroke on both sides of the steeper D dash.
+021,all yes,high,"P is on the solid rising B tail, clearly separated from D above."
+022,all yes,high,"P is at the visible end of the solid B tail, distinct from the long dashes above."
+023,p,medium,"P marks the flat trough bottom. Q is on the straight steep recovery dash, beyond the change in direction."
+024,yes,high,Q is on the flat minimum of short-dashed C. Dotted A crosses before it and rises separately to the left.
+025,some,medium,"Off: (860,3351), inside the bottom frame. (866,3196) is within 2 px of the left edge of the rightmost C dash."
+026,some,high,"Off: (1740,1334), inside the top frame. (1689,1416) is on the separate short-dashed C stroke."
+027,q,medium,Q is within 2 px of the lowest distinguishable long-dash D ink at the frame edge. P is inside the frame.
+028,cannot tell,low,D turns gradually across several dashes and gaps. A distinct corner within 8 px of either mark cannot be established.
+029,no,medium,"D runs diagonally through the mark. The visible corner there is the end of the solid B shelf; D steepens farther along near (1395,1630)."
+030,q,medium,At this height Q follows the left long-dash D stroke. The P line lies to its right in the adjoining solid and dotted ink.
+031,both,medium,"At v=2898, u=860 and the Q line near u=864 are both within the broad D dash, followed by its dash break above."
+032,all yes,high,Both Q samples touch long-dash D ink; the solid B stroke is separate above and to the left.
+033,all yes,medium,Both Q samples are on D. Its long-dash trajectory can be followed diagonally into the B crossing and out toward the next steep dash.
+034,all yes,high,"Both P samples are on separate long dashes of D, including the lower dash endpoint."
+035,all no,high,"(840,3350) is inside the origin frame, below the distinguishable long-dash D ink."
+036,cannot tell,medium,"(1386,1652) is in the unresolved B/D junction near a dash end; D ink cannot be separated there. (1450,1570) is on a distinct D dash."
+037,some,high,"Off: (1618,1334), inside the top frame. (1535,1461) and (1610,1344) are on identifiable long-dash D ink."
+038,all yes,medium,P is on the lowest right-hand dash stub. Its position and dash sequence continue upward into the separate rightmost lpt24 rise.
+039,all yes,high,P touches the identifiable dashed lpt24 endpoint to the right of the vertical grid line.
+040,all no,high,"(747,3130) is inside the left frame; no distinguishable lpt64a curve ink underlies the mark."
+041,all yes,high,P is on the rounded solid lpt64a endpoint. The dotted lpt74 stroke is separately visible below and to the right.
+042,all no,high,"(747,3130) is inside the left frame; no distinguishable lpt69 curve ink underlies the mark."
+043,all yes,high,"P touches the visible solid lpt69 endpoint, within 2 px of Q."
+044,no,high,"The long dash is straight through P, and adjacent dashes continue the same direction. No visible corner lies within 8 px."
+045,cannot tell,medium,"(749,3135) is on the frame. At (755,3100), the initial strokes merge and lpt73 cannot be distinguished by its dash pattern."
+046,all yes,high,"Q is on the final long dash of lpt73, separated from the vertical grid line."
+047,no,medium,"Q is on the descending solid lpt69 branch. Dotted lpt74 joins near (1227,2584), more than 8 px from Q."
+048,cannot tell,medium,"(751,3138) is at the frame edge. At (754,3099), shared initial ink cannot be followed uniquely to dotted lpt74."

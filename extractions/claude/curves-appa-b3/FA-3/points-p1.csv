@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-3,1,mean,trace,1,899.4,2837.9,4.0,4.0,,"left end, Dr = 0 frame line"
+FA-3,1,mean,trace,2,1053.7,2869.0,4.0,4.0,,
+FA-3,1,mean,trace,3,1207.1,2900.5,4.0,4.0,,
+FA-3,1,mean,trace,4,1359.6,2931.3,4.0,4.0,,
+FA-3,1,mean,trace,5,1513.4,2961.4,4.0,4.0,,
+FA-3,1,mean,trace,6,1664.5,2991.7,4.0,4.0,,
+FA-3,1,mean,trace,7,1822.8,3024.0,4.0,4.0,,
+FA-3,1,mean,trace,8,1972.9,3053.8,4.0,4.0,,
+FA-3,1,mean,trace,9,2126.9,3084.7,4.0,4.0,,
+FA-3,1,mean,trace,10,2279.5,3115.3,4.0,4.0,,
+FA-3,1,mean,trace,11,2439.0,3146.5,4.0,4.0,,"right end, Dr = 1.0 frame line"
+FA-3,1,mean,feature,1,899.4,2837.9,4.0,4.0,,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+FA-3,1,mean,feature,2,2439.0,3146.5,4.0,4.0,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+FA-3,1,mean,feature,3,731.5,2846.5,48.5,20.5,,label: 41.3
+FA-3,1,mean,feature,4,2665.0,3156.0,49.0,21.0,,label: 52.9
+FA-3,1,upper,trace,1,899.0,2793.9,4.5,4.5,,"left end, Dr = 0 frame line"
+FA-3,1,upper,trace,2,1053.4,2826.7,4.5,4.5,,
+FA-3,1,upper,trace,3,1206.7,2858.8,4.5,4.5,,a dash starts at the Dr 0.2 grid line (ink from its right edge); gap u 1185-1203 left of it
+FA-3,1,upper,trace,4,1359.3,2890.7,4.5,4.5,,
+FA-3,1,upper,trace,5,1513.0,2922.1,4.5,4.5,,
+FA-3,1,upper,trace,6,1664.2,2953.7,4.5,4.5,,the dash ends just right of the Dr 0.5 grid line (u about 1668)
+FA-3,1,upper,trace,7,1822.5,2986.5,4.5,4.5,,
+FA-3,1,upper,trace,8,1972.6,3017.7,4.5,4.5,,"the dash ends at the Dr 0.7 grid line (ink to its left edge, u 1969)"
+FA-3,1,upper,trace,9,2126.6,3049.5,4.5,4.5,,
+FA-3,1,upper,trace,10,2279.5,3081.2,4.5,4.5,,"the dash ends at the Dr 0.9 grid line (ink to its left edge, u 2277)"
+FA-3,1,upper,trace,11,2438.8,3112.7,4.5,4.5,,"right end, Dr = 1.0 frame line"
+FA-3,1,upper,feature,1,899.0,2793.9,4.5,4.5,,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+FA-3,1,upper,feature,2,2438.8,3112.7,4.5,4.5,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+FA-3,1,upper,feature,3,731.0,2788.5,49.0,20.5,,label: 40.1
+FA-3,1,upper,feature,4,2666.0,3097.5,50.0,20.5,,label: 51.8
+FA-3,1,lower,trace,1,899.8,2877.5,4.0,4.0,,"left end, Dr = 0 frame line"
+FA-3,1,lower,trace,2,1054.1,2906.6,4.0,4.0,,"a dash starts at the Dr 0.1 grid line (ink from its right edge, u 1056); gap u 1028-1050 left of it"
+FA-3,1,lower,trace,3,1198.0,2934.8,4.0,4.0,,"Dr 0.2 falls in a gap (u 1199 to 1224): moved to the nearer dash end, u 1198 (rule 7)"
+FA-3,1,lower,trace,4,1359.9,2965.6,4.0,4.0,,
+FA-3,1,lower,trace,5,1513.7,2994.8,4.0,4.0,,
+FA-3,1,lower,trace,6,1664.7,3023.5,4.0,4.0,,
+FA-3,1,lower,trace,7,1806.0,3050.2,4.0,4.0,,"Dr 0.6 falls in a gap (u 1807 to 1846): moved to the nearer dash end, u 1806 (rule 7)"
+FA-3,1,lower,trace,8,1973.1,3082.4,4.0,4.0,,
+FA-3,1,lower,trace,9,2127.0,3111.2,4.0,4.0,,
+FA-3,1,lower,trace,10,2292.0,3142.7,4.0,4.0,,"Dr 0.9 falls in a gap (u 2258 to 2291): moved to the nearer dash end, u 2292 (rule 7)"
+FA-3,1,lower,trace,11,2439.1,3170.2,4.0,4.0,,"right end, Dr = 1.0 frame line"
+FA-3,1,lower,feature,1,899.8,2877.5,4.0,4.0,,"first point (where the line's ink starts, at the Dr = 0 frame line)"
+FA-3,1,lower,feature,2,2439.1,3170.2,4.0,4.0,,"last point (where the line's ink ends, at the Dr = 1.0 frame line)"
+FA-3,1,lower,feature,3,733.0,2905.5,50.0,20.5,,label: 42.5
+FA-3,1,lower,feature,4,2667.0,3215.5,49.0,20.5,,label: 54.0

@@ -1,0 +1,160 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-46,1,upper,trace,1,2166.5,3186.0,5.5,5.0,,first point: ink meets the dashed #200 sieve line (0.074 mm),0.0740873,1.8788,0.0010386,0.44291,piecewise
+FA-46,1,upper,trace,2,2165.5,3155.6,7.0,7.0,,"x=0.0796 mm; strokes A, B, C touch side by side; from left edge",0.0796259,1.93475,0.0014979,0.54611,piecewise
+FA-46,1,upper,trace,3,2163.0,3107.1,7.0,7.0,,x=0.0893 mm; from left edge,0.0893327,2.08576,0.0016756,0.54613,piecewise
+FA-46,1,upper,trace,4,2163.5,3055.0,5.5,5.5,,x=0.1002 mm (moved); dash gap 3056-3070 (0.1 mm grid line erased there); moved to dash end,0.10108,2.03065,0.0015233,0.44323,piecewise
+FA-46,1,upper,trace,5,2162.5,3010.0,7.0,7.0,,x=0.1125 mm; from left edge,0.1124639,2.08076,0.0020971,0.5463,piecewise
+FA-46,1,upper,trace,6,2162.5,2961.4,7.0,7.0,,x=0.1262 mm; from left edge,0.1262017,2.06117,0.0023463,0.5464,piecewise
+FA-46,1,upper,trace,7,2160.5,2912.9,7.0,7.0,,x=0.1416 mm; from left edge,0.1415867,2.17816,0.0026246,0.54643,piecewise
+FA-46,1,upper,trace,8,2159.5,2864.3,7.0,7.0,,x=0.1589 mm; from left edge,0.1588837,2.22686,0.0029365,0.5465,piecewise
+FA-46,1,upper,trace,9,2159.5,2820.0,5.5,5.5,,x=0.1783 mm (moved); dash gap 2804-2819; moved to dash end,0.1764831,2.20902,0.002612,0.44349,piecewise
+FA-46,1,upper,trace,10,2158.5,2767.3,7.0,7.0,,x=0.2000 mm; on 0.2 mm grid line,0.1999784,2.25609,0.0037181,0.54665,piecewise
+FA-46,1,upper,trace,11,2157.5,2719.2,7.0,7.0,,x=0.2244 mm; from left edge,0.2243945,2.30503,0.0042151,0.54672,piecewise
+FA-46,1,upper,trace,12,2157.5,2671.1,7.0,7.0,,x=0.2518 mm; from left edge,0.2517888,2.28566,0.0047779,0.54681,piecewise
+FA-46,1,upper,trace,13,2158.5,2630.0,5.5,5.5,,x=0.2825 mm (moved); dash gap 2616-2629; moved to dash end,0.277828,2.20077,0.0042958,0.44377,piecewise
+FA-46,1,upper,trace,14,2157.5,2575.0,7.0,7.0,,x=0.3170 mm; from left edge,0.316943,2.24694,0.0061353,0.547,piecewise
+FA-46,1,upper,trace,15,2156.5,2526.9,7.0,7.0,,x=0.3557 mm; from left edge,0.3556397,2.29591,0.0069525,0.54706,piecewise
+FA-46,1,upper,trace,16,2156.5,2478.8,7.0,7.0,,x=0.3991 mm; on grid line,0.3990567,2.27653,0.0078776,0.54715,piecewise
+FA-46,1,upper,trace,17,2156.5,2426.0,5.5,5.5,,x=0.4477 mm (moved); dash gap 2427-2441; moved to dash end,0.452842,2.25524,0.007369,0.44404,piecewise
+FA-46,1,upper,trace,18,2154.5,2390.0,5.5,5.5,,x=0.5024 mm (moved); 0.5 mm grid line with a dash gap above it; moved to first visible dash end below,0.493624,2.3775,0.008083,0.44404,piecewise
+FA-46,1,upper,trace,19,2151.5,2334.1,7.0,7.0,,x=0.5637 mm; three strokes merged; from left edge,0.563711,2.56017,0.011151,0.54729,piecewise
+FA-46,1,upper,trace,20,2149.5,2285.6,7.0,7.0,,x=0.6325 mm; three strokes merged; from left edge,0.632463,2.67748,0.012452,0.54732,piecewise
+FA-46,1,upper,trace,21,2141.5,2237.1,5.5,5.5,,x=0.7096 mm; separate stroke,0.709637,3.20534,0.011327,0.44391,piecewise
+FA-46,1,upper,trace,22,2134.0,2192.0,5.5,5.5,,x=0.7962 mm (moved); dash gap 2181-2191; moved to dash end,0.789822,3.70052,0.012539,0.44377,piecewise
+FA-46,1,upper,trace,23,2114.5,2140.1,5.5,5.5,,x=0.8934 mm; separate stroke,0.893442,5.01444,0.014095,0.44329,piecewise
+FA-46,1,upper,trace,24,2090.0,2091.7,7.0,7.0,,x=1.0024 mm; on 1.0 mm grid line; separate stroke above and below it,1.002328,6.67244,0.019373,0.54598,piecewise
+FA-46,1,upper,trace,25,2055.5,2043.4,5.5,5.5,,x=1.1247 mm; separate stroke,1.124756,9.01563,0.017235,0.44176,piecewise
+FA-46,1,upper,trace,26,2006.0,1995.2,5.5,5.5,,x=1.2619 mm; separate stroke,1.26203,12.40101,0.01887,0.43848,piecewise
+FA-46,1,upper,trace,27,1946.5,1954.5,5.5,5.5,,x=1.4159 mm (moved); crossing in a dash gap; moved to dash end,1.391164,16.48377,0.020366,0.42721,piecewise
+FA-46,1,upper,trace,28,1853.0,1899.0,7.0,7.0,,x=1.5887 mm; outer (lower) edge of merged band,1.588566,22.89078,0.028759,0.5214,piecewise
+FA-46,1,upper,trace,29,1741.0,1850.8,7.0,7.0,,x=1.7825 mm; outer edge of merged band,1.782564,30.55087,0.032604,0.52494,piecewise
+FA-46,1,upper,trace,30,1675.5,1831.5,5.5,5.5,,y=35%; separate stroke below B,1.867144,35.0005,0.027508,0.42927,piecewise
+FA-46,1,upper,trace,31,1601.0,1810.0,7.0,7.0,,y=40% (moved); dash starts at the 40% grid line; partly under 2.0 mm grid line,1.966178,40.06162,0.036258,0.54604,piecewise
+FA-46,1,upper,trace,32,1570.0,1802.9,7.0,7.0,,x=2.0000 mm; under 2.0 mm grid line; from band edge,2.000158,42.17496,0.036779,0.56347,piecewise
+FA-46,1,upper,trace,33,1520.5,1792.5,7.0,7.0,,y=45% (moved); dash gap 1521-1536; moved to dash end,2.050889,45.55008,0.03773,0.59132,piecewise
+FA-46,1,upper,trace,34,1455.2,1775.0,7.0,7.0,,y=50%; on 50% grid line; from bottom edge,2.138805,50.00143,0.039379,0.62883,piecewise
+FA-46,1,upper,trace,35,1382.8,1769.0,7.0,7.0,,y=55%; from bottom edge,2.170869,54.9967,0.039982,0.62322,piecewise
+FA-46,1,upper,trace,36,1310.3,1759.0,7.0,7.0,,y=60%; on 60% grid line,2.224338,59.9974,0.040987,0.61571,piecewise
+FA-46,1,upper,trace,37,1287.0,1758.0,7.0,7.0,,x=2.2440 mm (moved); crossing in dash gap 1271-1286; moved to dash end,2.230108,61.60539,0.041096,0.61329,piecewise
+FA-46,1,upper,trace,38,1237.8,1750.0,7.0,7.0,,y=65%; from bottom edge,2.273751,64.99858,0.041916,0.6082,piecewise
+FA-46,1,upper,trace,39,1166.0,1741.5,7.0,7.0,,y=70% (moved); dash resumes at the 70% grid line; gap to its left,2.321506,69.95172,0.042815,0.60076,piecewise
+FA-46,1,upper,trace,40,1098.0,1734.5,7.0,7.0,,y=75% (moved); dash gap 1080-1097 (grid line erased there); moved to dash end,2.361794,74.62231,0.043573,0.57606,piecewise
+FA-46,1,upper,trace,41,1017.0,1723.0,7.0,7.0,,y=80% (moved); dash gap 1019-1038; moved to dash end,2.428777,80.18429,0.044834,0.54717,piecewise
+FA-46,1,upper,trace,42,946.9,1714.5,7.0,7.0,,y=85%; from bottom edge,2.479759,85.00281,0.045795,0.53483,piecewise
+FA-46,1,upper,trace,43,916.0,1708.2,7.0,7.0,,x=2.5179 mm; under a minor grid line; from neighbouring columns,2.517715,87.12569,0.04651,0.52968,piecewise
+FA-46,1,upper,trace,44,772.5,1660.1,7.0,7.0,,"x=2.8251 mm; coarse bend, row cut",2.824774,96.91074,0.052297,0.54816,piecewise
+FA-46,1,upper,trace,45,740.5,1611.2,5.5,5.5,,x=3.1698 mm; near a dash end,3.169443,99.06751,0.04673,0.45379,piecewise
+FA-46,1,upper,trace,46,729.0,1564.0,8.0,8.0,,x=3.5566 mm (moved); runs on the 100% frame; frame erased in dash gap 1552-1563; moved to dash end,3.538527,99.82768,0.073458,0.63243,piecewise extrapolated y
+FA-46,1,upper,trace,47,720.0,1512.5,8.0,8.0,,"x=3.9905 mm; beside the 100% frame, on 4.0 mm grid line",3.99028,100.41502,0.082282,0.63905,piecewise extrapolated y
+FA-46,1,upper,trace,48,717.0,1462.6,8.0,8.0,,x=4.4774 mm; dash drawn just outside the 100% frame line,4.47723,100.59446,0.09242,0.6409,piecewise extrapolated y
+FA-46,1,upper,trace,49,717.0,1453.0,8.0,8.0,,"last point: top of the dash drawn just outside the 100% frame, below the #4 sieve line",4.57747,100.5897,0.09453,0.6408,piecewise extrapolated y
+FA-46,1,upper,feature,1,2166.5,3186.0,5.0,5.0,,first point,0.0740873,1.8788,0.0010383,0.40879,piecewise
+FA-46,1,upper,feature,2,2134.0,2192.0,7.0,7.0,,lower knee,0.789822,3.70052,0.015407,0.54706,piecewise
+FA-46,1,upper,feature,3,772.5,1660.0,7.0,7.0,,upper knee,2.825442,96.91069,0.052309,0.54816,piecewise
+FA-46,1,upper,feature,4,717.0,1453.0,8.0,8.0,,last point,4.57747,100.5897,0.09453,0.6408,piecewise extrapolated y
+FA-46,1,average,trace,1,2174.5,3186.0,5.5,5.0,,first point: ink meets the dashed #200 sieve line,0.0740837,1.3331,0.0010385,0.44313,piecewise
+FA-46,1,average,trace,2,2174.3,3155.6,7.0,7.0,,"x=0.0796 mm; middle stroke, A and C touching both sides",0.0796214,1.33443,0.0014977,0.54636,piecewise
+FA-46,1,average,trace,3,2174.0,3107.0,7.0,7.0,,x=0.0893 mm; middle stroke,0.0893469,1.3352,0.0016757,0.54645,piecewise
+FA-46,1,average,trace,4,2173.8,3058.5,5.5,5.5,,x=0.1002 mm; on 0.1 mm grid line; stroke visible alone,0.1002365,1.32919,0.0015109,0.44352,piecewise
+FA-46,1,average,trace,5,2172.4,3009.9,5.5,5.5,,x=0.1125 mm,0.1124812,1.40504,0.0016892,0.44356,piecewise
+FA-46,1,average,trace,6,2171.8,2961.4,7.0,7.0,,x=0.1262 mm; middle stroke,0.126191,1.42634,0.002346,0.54666,piecewise
+FA-46,1,average,trace,7,2170.8,2912.9,7.0,7.0,,x=0.1416 mm; middle stroke,0.1415725,1.47496,0.0026242,0.54673,piecewise
+FA-46,1,average,trace,8,2170.0,2864.3,7.0,7.0,,x=0.1589 mm; middle stroke,0.1588663,1.50989,0.002936,0.5468,piecewise
+FA-46,1,average,trace,9,2170.0,2815.7,5.5,5.5,,x=0.1783 mm,0.1782712,1.49021,0.0026374,0.4438,piecewise
+FA-46,1,average,trace,10,2168.9,2767.2,7.0,7.0,,x=0.2000 mm; on 0.2 mm grid line,0.2000015,1.54569,0.0037188,0.54695,piecewise
+FA-46,1,average,trace,11,2168.5,2719.1,7.0,7.0,,x=0.2244 mm; middle stroke,0.2244196,1.55353,0.0042158,0.54704,piecewise
+FA-46,1,average,trace,12,2168.0,2671.1,7.0,7.0,,x=0.2518 mm; middle stroke,0.2517589,1.56824,0.0047774,0.54711,piecewise
+FA-46,1,average,trace,13,2167.0,2623.0,5.5,5.5,,x=0.2825 mm,0.2824978,1.61709,0.0043759,0.44402,piecewise
+FA-46,1,average,trace,14,2166.2,2574.9,7.0,7.0,,x=0.3170 mm; middle stroke,0.3169891,1.65229,0.0061364,0.54725,piecewise
+FA-46,1,average,trace,15,2166.0,2526.8,7.0,7.0,,x=0.3557 mm; middle stroke,0.3556891,1.64648,0.0069537,0.54734,piecewise
+FA-46,1,average,trace,16,2165.8,2478.8,7.0,7.0,,x=0.3991 mm; on grid line,0.3990183,1.64071,0.0078769,0.54742,piecewise
+FA-46,1,average,trace,17,2165.5,2430.7,5.5,5.5,,x=0.4477 mm,0.447733,1.64173,0.007277,0.44429,piecewise
+FA-46,1,average,trace,18,2165.0,2382.6,7.0,7.0,,x=0.5024 mm; on 0.5 mm grid line,0.502375,1.65643,0.009985,0.54759,piecewise
+FA-46,1,average,trace,19,2163.0,2334.1,7.0,7.0,,x=0.5637 mm; middle of three merged strokes,0.56365,1.77358,0.01115,0.54762,piecewise
+FA-46,1,average,trace,20,2160.5,2285.6,7.0,7.0,,x=0.6325 mm; middle of three merged strokes,0.632401,1.92497,0.012451,0.54764,piecewise
+FA-46,1,average,trace,21,2157.0,2237.1,7.0,7.0,,x=0.7096 mm; left half of merged B+C,0.709543,2.14482,0.013904,0.54764,piecewise
+FA-46,1,average,trace,22,2149.0,2188.6,5.5,5.5,,x=0.7962 mm; alone (both dashed curves in gaps),0.796122,2.67269,0.012635,0.4442,piecewise
+FA-46,1,average,trace,23,2133.0,2140.1,7.0,7.0,,x=0.8934 mm; left half of merged B+C,0.893314,3.74826,0.017337,0.54713,piecewise
+FA-46,1,average,trace,24,2107.5,2091.6,7.0,7.0,,x=1.0024 mm; on 1.0 mm grid line,1.002437,5.47447,0.019374,0.54648,piecewise
+FA-46,1,average,trace,25,2072.5,2043.4,7.0,7.0,,x=1.1247 mm; left half of merged B+C,1.124608,7.85174,0.021317,0.54556,piecewise
+FA-46,1,average,trace,26,2025.0,1995.2,7.0,7.0,,x=1.2619 mm; merged band,1.261833,11.0922,0.02345,0.54627,piecewise
+FA-46,1,average,trace,27,1966.0,1947.0,5.5,5.5,,x=1.4159 mm; three separate strokes here,1.415998,15.13768,0.020647,0.43091,piecewise
+FA-46,1,average,trace,28,1880.0,1898.9,7.0,7.0,,x=1.5887 mm; merged band,1.588558,21.03826,0.028756,0.51969,piecewise
+FA-46,1,average,trace,29,1779.0,1850.7,7.0,7.0,,x=1.7825 mm; merged band,1.782352,27.94829,0.032595,0.52601,piecewise
+FA-46,1,average,trace,30,1749.0,1840.6,7.0,7.0,,y=30%; on 30% grid line,1.826036,30.00228,0.033467,0.52691,piecewise
+FA-46,1,average,trace,31,1675.4,1816.5,5.5,5.5,,y=35%; separate stroke,1.934722,35.00109,0.02861,0.42926,piecewise
+FA-46,1,average,trace,32,1615.0,1802.7,7.0,7.0,,x=2.0000 mm; under 2.0 mm grid line,2.000228,39.10564,0.036779,0.53878,piecewise
+FA-46,1,average,trace,33,1601.8,1800.0,7.0,7.0,,y=40%; under 2.0 mm grid line,2.013283,40.00278,0.037024,0.54557,piecewise
+FA-46,1,average,trace,34,1528.5,1783.5,7.0,7.0,,y=45%; merged band,2.094792,45.00026,0.038553,0.58681,piecewise
+FA-46,1,average,trace,35,1455.2,1768.0,7.0,7.0,,y=50%; merged band,2.174464,49.9987,0.040048,0.62882,piecewise
+FA-46,1,average,trace,36,1382.7,1757.5,7.0,7.0,,y=55%; merged band,2.230653,54.99914,0.041104,0.62322,piecewise
+FA-46,1,average,trace,37,1370.0,1755.0,7.0,7.0,,x=2.2440 mm; merged band,2.244145,55.87484,0.041358,0.62191,piecewise
+FA-46,1,average,trace,38,1310.2,1748.0,7.0,7.0,,y=60%; merged band,2.2829,60.00009,0.042086,0.61571,piecewise
+FA-46,1,average,trace,39,1237.7,1739.0,7.0,7.0,,y=65%; under #8 sieve grid line,2.333616,65.00133,0.043041,0.6082,piecewise
+FA-46,1,average,trace,40,1165.2,1730.5,7.0,7.0,,y=70%; merged band,2.382646,70.00283,0.043964,0.60067,piecewise
+FA-46,1,average,trace,41,1092.4,1723.0,7.0,7.0,,y=75%; merged band,2.426977,75.00275,0.044799,0.57406,piecewise
+FA-46,1,average,trace,42,1019.6,1713.0,7.0,7.0,,y=80%; under a minor grid line,2.486783,80.00151,0.045925,0.54793,piecewise
+FA-46,1,average,trace,43,978.0,1707.9,7.0,7.0,,x=2.5179 mm; under a minor grid line,2.517961,82.86094,0.046513,0.54001,piecewise
+FA-46,1,average,trace,44,946.9,1704.0,7.0,7.0,,y=85%; under a minor grid line,2.54205,84.99855,0.046967,0.53483,piecewise
+FA-46,1,average,trace,45,874.1,1689.0,7.0,7.0,,y=90%; merged band,2.635657,89.99968,0.048731,0.52269,piecewise
+FA-46,1,average,trace,46,800.6,1666.0,7.0,7.0,,y=95%; coarse bend,2.784889,94.99867,0.051544,0.54006,piecewise
+FA-46,1,average,trace,47,789.5,1660.0,7.0,7.0,,"x=2.8251 mm; coarse bend, row cut",2.824965,95.7523,0.0523,0.54324,piecewise
+FA-46,1,average,trace,48,751.0,1611.1,5.5,5.5,,x=3.1698 mm,3.169859,98.35226,0.046738,0.45076,piecewise
+FA-46,1,average,trace,49,737.5,1561.8,7.0,7.0,,x=3.5566 mm; beside the 100% frame,3.556437,99.24784,0.065349,0.55769,piecewise
+FA-46,1,average,trace,50,731.0,1512.4,8.0,8.0,,"x=3.9905 mm; merges into the 100% frame, on 4.0 mm grid line",3.990807,99.66626,0.082288,0.63029,piecewise extrapolated y
+FA-46,1,average,trace,51,730.5,1501.0,8.0,8.0,,last point: solid stroke merges into the 100% frame,4.097251,99.69472,0.084425,0.63057,piecewise extrapolated y
+FA-46,1,average,feature,1,2174.5,3186.0,5.0,5.0,,first point,0.0740837,1.3331,0.0010382,0.40901,piecewise
+FA-46,1,average,feature,2,2149.0,2188.5,7.0,7.0,,lower knee,0.79631,2.67265,0.015529,0.5475,piecewise
+FA-46,1,average,feature,3,789.5,1660.0,7.0,7.0,,upper knee,2.824965,95.7523,0.0523,0.54324,piecewise
+FA-46,1,average,feature,4,730.5,1501.0,8.0,8.0,,last point,4.097251,99.69472,0.084425,0.63057,piecewise extrapolated y
+FA-46,1,lower,trace,1,2184.0,3186.0,5.5,5.0,,first point: ink meets the #200 sieve line; merged with the 0% frame,0.0740794,0.68508,0.0010384,0.4434,piecewise
+FA-46,1,lower,trace,2,2183.8,3155.6,7.0,7.0,,"x=0.0796 mm; between B and the 0% frame, merged with the frame",0.0796165,0.68635,0.0014975,0.54663,piecewise
+FA-46,1,lower,trace,3,2183.5,3107.0,7.0,7.0,,x=0.0893 mm; merged with the 0% frame,0.0893408,0.68702,0.0016755,0.54672,piecewise
+FA-46,1,lower,trace,4,2183.5,3058.0,7.0,7.0,,x=0.1002 mm (moved); dash ends at 3058 (gap 3059-3076); merged with the frame,0.1003478,0.66705,0.0018764,0.54681,piecewise
+FA-46,1,lower,trace,5,2182.0,3012.0,7.0,7.0,,x=0.1125 mm (moved); dash gap 2997-3011; moved to dash end,0.1119134,0.75068,0.0020868,0.54686,piecewise
+FA-46,1,lower,trace,6,2181.8,2961.4,7.0,7.0,,x=0.1262 mm; merged with the 0% frame,0.1261795,0.74372,0.0023456,0.54695,piecewise
+FA-46,1,lower,trace,7,2180.8,2912.8,7.0,7.0,,x=0.1416 mm; merged with the 0% frame,0.1415922,0.79219,0.0026244,0.54702,piecewise
+FA-46,1,lower,trace,8,2180.0,2864.3,7.0,7.0,,x=0.1589 mm; merged with the 0% frame,0.1588498,0.82706,0.0029355,0.54709,piecewise
+FA-46,1,lower,trace,9,2180.0,2809.0,7.0,7.0,,x=0.1783 mm (moved); dash gap 2810-2824; moved to dash end,0.181106,0.80454,0.0033355,0.54719,piecewise
+FA-46,1,lower,trace,10,2178.9,2767.2,7.0,7.0,,x=0.2000 mm; on 0.2 mm grid line,0.1999781,0.86265,0.0037182,0.54724,piecewise
+FA-46,1,lower,trace,11,2177.5,2719.1,5.5,5.5,,x=0.2244 mm; right edge visible,0.2243963,0.9387,0.0033903,0.44417,piecewise
+FA-46,1,lower,trace,12,2177.5,2671.0,5.5,5.5,,x=0.2518 mm; right edge visible,0.2517921,0.91911,0.0038523,0.44424,piecewise
+FA-46,1,lower,trace,13,2177.5,2620.0,5.5,5.5,,x=0.2825 mm (moved); dash gap 2621-2635; moved to dash end,0.2845016,0.89834,0.0044104,0.44433,piecewise
+FA-46,1,lower,trace,14,2176.5,2574.9,5.5,5.5,,x=0.3170 mm; right edge visible,0.3169537,0.94832,0.0049702,0.44437,piecewise
+FA-46,1,lower,trace,15,2174.5,2526.8,5.5,5.5,,x=0.3557 mm; right edge visible,0.3556571,1.06544,0.005645,0.44439,piecewise
+FA-46,1,lower,trace,16,2174.5,2478.7,7.0,7.0,,x=0.3991 mm; on grid line,0.399078,1.04587,0.0078784,0.54767,piecewise
+FA-46,1,lower,trace,17,2174.5,2430.7,5.5,5.5,,x=0.4477 mm; dash ends at 2431,0.447693,1.02633,0.007277,0.44454,piecewise
+FA-46,1,lower,trace,18,2173.5,2396.0,5.5,5.5,,x=0.5024 mm (moved); dash gap 2369-2395 (0.5 mm grid line inside); moved to dash end,0.48649,1.08058,0.007974,0.44457,piecewise
+FA-46,1,lower,trace,19,2174.5,2334.0,7.0,7.0,,x=0.5637 mm; right edge of merged band,0.563723,0.98694,0.011152,0.54795,piecewise
+FA-46,1,lower,trace,20,2171.5,2285.5,7.0,7.0,,x=0.6325 mm; right edge of merged band,0.632489,1.17241,0.012453,0.54796,piecewise
+FA-46,1,lower,trace,21,2167.5,2237.0,7.0,7.0,,x=0.7096 mm; right half of merged B+C,0.709648,1.42636,0.013906,0.54794,piecewise
+FA-46,1,lower,trace,22,2158.5,2182.0,7.0,7.0,,x=0.7962 mm (moved); dash gap 2183-2194; moved to dash end,0.808623,2.01992,0.01576,0.54779,piecewise
+FA-46,1,lower,trace,23,2144.0,2140.0,7.0,7.0,,x=0.8934 mm; right half of merged B+C,0.89345,2.99535,0.01734,0.54745,piecewise
+FA-46,1,lower,trace,24,2119.5,2091.6,7.0,7.0,,x=1.0024 mm; on 1.0 mm grid line,1.002349,4.65303,0.019371,0.54683,piecewise
+FA-46,1,lower,trace,25,2085.5,2043.3,7.0,7.0,,x=1.1247 mm; right half of merged B+C,1.124762,6.96168,0.021318,0.54594,piecewise
+FA-46,1,lower,trace,26,2046.0,1995.1,7.0,7.0,,x=1.2619 mm; merged band,1.261917,9.64769,0.023449,0.54513,piecewise
+FA-46,1,lower,trace,27,1989.0,1950.5,7.0,7.0,,x=1.4159 mm (moved); crossing in dash gap 1976-1988; moved to dash end,1.403968,13.55479,0.025608,0.53946,piecewise
+FA-46,1,lower,trace,28,1906.0,1898.8,7.0,7.0,,x=1.5887 mm; upper edge of merged band,1.588565,19.25148,0.028754,0.52375,piecewise
+FA-46,1,lower,trace,29,1809.0,1851.0,7.0,7.0,,x=1.7825 mm (moved); crossing in dash gap 1810-1823; moved to dash end,1.780586,25.89027,0.032557,0.52412,piecewise
+FA-46,1,lower,trace,30,1670.0,1802.5,7.0,7.0,,x=2.0000 mm; under 2.0 mm grid line,2.000103,35.36277,0.036776,0.5327,piecewise
+FA-46,1,lower,trace,31,1601.8,1787.0,7.0,7.0,,y=40%; top edge of band,2.076061,39.9973,0.0382,0.54554,piecewise
+FA-46,1,lower,trace,32,1528.4,1773.0,7.0,7.0,,y=45%; top edge of band,2.147398,45.00283,0.039539,0.58685,piecewise
+FA-46,1,lower,trace,33,1456.5,1759.0,7.0,7.0,,y=50% (moved); dash gap 1438-1456; dash end at the 50% grid line,2.221159,49.90644,0.040924,0.62796,piecewise
+FA-46,1,lower,trace,34,1425.0,1754.8,7.0,7.0,,x=2.2440 mm; upper edge of band,2.243997,52.07817,0.041354,0.62761,piecewise
+FA-46,1,lower,trace,35,1375.5,1746.5,7.0,7.0,,y=55% (moved); dash gap 1376-1391; moved to dash end,2.289538,55.49189,0.04221,0.62249,piecewise
+FA-46,1,lower,trace,36,1310.1,1737.0,7.0,7.0,,y=60%; inside #8 sieve grid line; dash ends at u 1312,2.343003,60.00279,0.043215,0.61571,piecewise
+FA-46,1,lower,trace,37,1237.7,1728.0,7.0,7.0,,y=65%; top edge of band,2.395054,64.99718,0.044195,0.60821,piecewise
+FA-46,1,lower,trace,38,1165.2,1719.5,7.0,7.0,,y=70%; top edge of band,2.445378,69.99875,0.045143,0.6007,piecewise
+FA-46,1,lower,trace,39,1092.4,1712.0,7.0,7.0,,y=75%; inside a minor grid line,2.490879,74.99855,0.046,0.57407,piecewise
+FA-46,1,lower,trace,40,1058.0,1707.6,7.0,7.0,,"x=2.5179 mm; under a minor grid line, near a dash end",2.517761,77.3607,0.046507,0.56172,piecewise
+FA-46,1,lower,trace,41,1019.6,1702.0,7.0,7.0,,y=80%; dash starts at the 80% grid line,2.552261,79.9972,0.047157,0.54794,piecewise
+FA-46,1,lower,trace,42,953.0,1693.0,7.0,7.0,,y=85% (moved); dash gap 935-952; moved to dash end,2.60883,84.57451,0.048223,0.53584,piecewise
+FA-46,1,lower,trace,43,873.0,1677.5,7.0,7.0,,y=90% (moved); dash ends at the 90% grid line,2.708289,90.06986,0.050099,0.52185,piecewise
+FA-46,1,lower,trace,44,803.0,1659.9,7.0,7.0,,"x=2.8251 mm; coarse bend, row cut",2.825255,94.83236,0.052305,0.53932,piecewise
+FA-46,1,lower,trace,45,767.5,1611.0,5.5,5.5,,x=3.1698 mm,3.170091,97.22831,0.046743,0.44599,piecewise
+FA-46,1,lower,trace,46,745.5,1558.0,8.0,8.0,,x=3.5566 mm (moved); dash gap 1559-1575; moved to dash end,3.587816,98.7013,0.07451,0.62422,piecewise
+FA-46,1,lower,trace,47,744.0,1553.0,8.0,8.0,,"last point where this curve can be separated; above it, it cannot be told from B and the frame",3.629937,98.80102,0.075406,0.62462,piecewise
+FA-46,1,lower,feature,1,2184.0,3186.0,5.0,5.0,,first point,0.0740794,0.68508,0.0010381,0.40928,piecewise
+FA-46,1,lower,feature,2,2158.5,2182.0,7.0,7.0,,lower knee,0.808623,2.01992,0.01576,0.54779,piecewise
+FA-46,1,lower,feature,3,803.0,1660.0,7.0,7.0,,upper knee,2.824587,94.83241,0.052292,0.53932,piecewise
+FA-46,1,lower,feature,4,744.0,1553.0,8.0,8.0,,last point,3.629937,98.80102,0.075406,0.62462,piecewise

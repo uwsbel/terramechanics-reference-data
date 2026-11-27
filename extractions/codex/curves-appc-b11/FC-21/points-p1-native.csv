@@ -1,0 +1,63 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-21,1,data,marker,1,669,2037,17,17,circle,pair 1 left; circle overlaps hatching,-0.0466969,43.88886,0.0122103,0.24581,piecewise extrapolated x
+FC-21,1,data,marker,2,1361,2023,18,18,circle,"pair 1 right; circle overlaps another circle, hatching and vertical grid line",0.3999331,43.89971,0.0126454,0.25848,piecewise
+FC-21,1,data,marker,3,1361,2042,18,18,circle,"single; circle overlaps pair 1 right, hatching and vertical grid line; two rings visible",0.3996426,43.65218,0.012645,0.2581,piecewise
+FC-21,1,data,marker,4,1033,1983,17,17,circle,pair 2 left; circle overlaps hatching,0.1894761,44.50288,0.0114505,0.24639,piecewise
+FC-21,1,data,marker,5,1177,1983,17,17,circle,pair 2 right; circle overlaps hatching,0.280456,44.46683,0.0112899,0.2462,piecewise
+FC-21,1,data,marker,6,2339,2202,17,17,circle,pair 3 left; circle overlaps hatching,1.0246048,41.33482,0.011599,0.24044,piecewise extrapolated x
+FC-21,1,data,marker,7,2426,2199,17,17,circle,pair 3 right; circle overlaps hatching; close to right frame but not cut,1.0800454,41.35311,0.0119605,0.24038,piecewise extrapolated x
+FC-21,1,data,marker,8,2339,2245,17,17,circle,single; circle overlaps hatching,1.0240403,40.7767,0.0115921,0.2396,piecewise extrapolated x
+FC-21,1,band-top,trace,1,590,1953.43,2.5,2.5,,band boundary coincides with grid line,-0.0970692,45.00041,0.0029156,0.05398,piecewise extrapolated x
+FC-21,1,band-top,trace,2,662.21,1952.04,2.5,2.5,,band boundary coincides with grid line,-0.0499988,45.00032,0.0025272,0.05397,piecewise extrapolated x
+FC-21,1,band-top,trace,3,738.91,1950.56,2.5,2.5,,band boundary coincides with grid line,-1.7e-06,45.00026,0.0021146,0.05395,piecewise extrapolated x
+FC-21,1,band-top,trace,4,815.62,1949.07,2.5,2.5,,band boundary coincides with grid line,0.0500019,45.00033,0.0020748,0.05394,piecewise
+FC-21,1,band-top,trace,5,892.32,1947.59,2.5,2.5,,band boundary coincides with grid line,0.0999987,45.00027,0.0020514,0.05392,piecewise
+FC-21,1,band-top,trace,6,970.45,1946.08,2.5,2.5,,band boundary coincides with grid line,0.1499991,45.00025,0.0019854,0.05391,piecewise
+FC-21,1,band-top,trace,7,1048.58,1944.57,2.5,2.5,,band boundary coincides with grid line,0.1999994,45.00022,0.0019566,0.05389,piecewise
+FC-21,1,band-top,trace,8,1127.8,1943.04,2.5,2.5,,band boundary coincides with grid line,0.2500029,45.00018,0.0019293,0.05387,piecewise
+FC-21,1,band-top,trace,9,1207.01,1941.51,2.5,2.5,,band boundary coincides with grid line,0.2999999,45.00014,0.0020147,0.05386,piecewise
+FC-21,1,band-top,trace,10,1283.07,1940.04,2.5,2.5,,band boundary coincides with grid line,0.3499974,45.00012,0.0021369,0.05384,piecewise
+FC-21,1,band-top,trace,11,1359.14,1938.57,2.5,2.5,,band boundary coincides with grid line,0.4000015,45.00009,0.0022482,0.05383,piecewise
+FC-21,1,band-top,trace,12,1437.57,1937.06,2.5,2.5,,band boundary coincides with grid line,0.449999,44.99999,0.0020984,0.05381,piecewise
+FC-21,1,band-top,trace,13,1516.01,1935.54,2.5,2.5,,band boundary coincides with grid line,0.5000031,45.00002,0.0020073,0.0538,piecewise
+FC-21,1,band-top,trace,14,1594.75,1934.02,2.5,2.5,,band boundary coincides with grid line,0.5499973,44.99997,0.0019689,0.05378,piecewise
+FC-21,1,band-top,trace,15,1673.5,1932.5,2.5,2.5,,band boundary coincides with grid line,0.5999977,44.99991,0.0019627,0.05376,piecewise
+FC-21,1,band-top,trace,16,1751.34,1931.0,2.5,2.5,,band boundary coincides with grid line,0.6500013,44.99983,0.0019628,0.05375,piecewise
+FC-21,1,band-top,trace,17,1829.17,1929.5,2.5,2.5,,band boundary coincides with grid line,0.6999985,44.99975,0.0020063,0.05373,piecewise
+FC-21,1,band-top,trace,18,1905.49,1928.02,2.5,2.5,,band boundary coincides with grid line,0.7500028,44.99979,0.002115,0.05372,piecewise
+FC-21,1,band-top,trace,19,1981.8,1926.55,2.5,2.5,,band boundary coincides with grid line,0.8000008,44.9997,0.002214,0.0537,piecewise
+FC-21,1,band-top,trace,20,2059.87,1925.04,2.5,2.5,,band boundary coincides with grid line,0.8500012,44.99969,0.0020648,0.05368,piecewise
+FC-21,1,band-top,trace,21,2137.94,1923.53,2.5,2.5,,band boundary coincides with grid line,0.9000016,44.99968,0.0019559,0.05367,piecewise
+FC-21,1,band-top,trace,22,2216.28,1922.02,2.5,2.5,,band boundary coincides with grid line,0.9499988,44.9996,0.0019457,0.05365,piecewise
+FC-21,1,band-top,trace,23,2294.63,1920.5,2.5,2.5,,band boundary coincides with grid line,1.0000025,44.99965,0.001959,0.05365,piecewise extrapolated x
+FC-21,1,band-top,trace,24,2372.97,1918.99,2.5,2.5,,band boundary coincides with grid line,1.0499995,44.99957,0.0022808,0.05365,piecewise extrapolated x
+FC-21,1,band-top,trace,25,2454,1917.43,2.5,2.5,,band boundary coincides with grid line,1.1017132,44.99947,0.0026138,0.05366,piecewise extrapolated x
+FC-21,1,band-top,feature,1,590,1953.43,2.5,2.5,,first point,-0.0970692,45.00041,0.0029156,0.05398,piecewise extrapolated x
+FC-21,1,band-top,feature,2,2454,1917.43,2.5,2.5,,last point; peak,1.1017132,44.99947,0.0026138,0.05366,piecewise extrapolated x
+FC-21,1,band-bottom,trace,1,599,2335.98,2.5,2.5,,band boundary coincides with grid line,-0.0961206,39.99984,0.0028996,0.04691,piecewise extrapolated x
+FC-21,1,band-bottom,trace,2,669.95,2334.71,2.5,2.5,,band boundary coincides with grid line,-0.0500015,39.99985,0.0025201,0.04691,piecewise extrapolated x
+FC-21,1,band-bottom,trace,3,746.87,2333.33,2.5,2.5,,band boundary coincides with grid line,-2e-06,39.9999,0.0021087,0.04691,piecewise extrapolated x
+FC-21,1,band-bottom,trace,4,823.79,2331.95,2.5,2.5,,band boundary coincides with grid line,0.0499973,39.99995,0.002069,0.04691,piecewise
+FC-21,1,band-bottom,trace,5,900.72,2330.58,2.5,2.5,,band boundary coincides with grid line,0.1000027,39.99987,0.0020456,0.04692,piecewise
+FC-21,1,band-bottom,trace,6,979.01,2329.18,2.5,2.5,,band boundary coincides with grid line,0.150002,39.99986,0.0019814,0.04692,piecewise
+FC-21,1,band-bottom,trace,7,1057.3,2327.78,2.5,2.5,,band boundary coincides with grid line,0.2000011,39.99985,0.0019526,0.04692,piecewise
+FC-21,1,band-bottom,trace,8,1136.65,2326.36,2.5,2.5,,band boundary coincides with grid line,0.2500001,39.99986,0.001926,0.04692,piecewise
+FC-21,1,band-bottom,trace,9,1216.0,2324.94,2.5,2.5,,band boundary coincides with grid line,0.299999,39.99986,0.0020156,0.04692,piecewise
+FC-21,1,band-bottom,trace,10,1292.03,2323.57,2.5,2.5,,band boundary coincides with grid line,0.3499987,39.99999,0.0021379,0.04692,piecewise
+FC-21,1,band-bottom,trace,11,1368.06,2322.21,2.5,2.5,,band boundary coincides with grid line,0.3999983,39.99999,0.0022493,0.04692,piecewise
+FC-21,1,band-bottom,trace,12,1446.17,2320.82,2.5,2.5,,band boundary coincides with grid line,0.449998,39.99989,0.0021072,0.04692,piecewise
+FC-21,1,band-bottom,trace,13,1524.28,2319.42,2.5,2.5,,band boundary coincides with grid line,0.4999982,39.99993,0.0020157,0.04692,piecewise
+FC-21,1,band-bottom,trace,14,1603.23,2318.01,2.5,2.5,,band boundary coincides with grid line,0.5499974,39.9999,0.0019639,0.04692,piecewise
+FC-21,1,band-bottom,trace,15,1682.19,2316.59,2.5,2.5,,band boundary coincides with grid line,0.6000029,39.99999,0.0019621,0.04692,piecewise
+FC-21,1,band-bottom,trace,16,1760.05,2315.2,2.5,2.5,,band boundary coincides with grid line,0.6500021,39.99995,0.0019622,0.04693,piecewise
+FC-21,1,band-bottom,trace,17,1837.91,2313.81,2.5,2.5,,band boundary coincides with grid line,0.7000013,39.99992,0.002026,0.04693,piecewise
+FC-21,1,band-bottom,trace,18,1913.49,2312.45,2.5,2.5,,band boundary coincides with grid line,0.7500022,40.00002,0.0021357,0.04693,piecewise
+FC-21,1,band-bottom,trace,19,1989.06,2311.1,2.5,2.5,,band boundary coincides with grid line,0.799997,39.99999,0.0022355,0.04693,piecewise
+FC-21,1,band-bottom,trace,20,2067.23,2309.7,2.5,2.5,,band boundary coincides with grid line,0.8500027,40.00001,0.0020624,0.04693,piecewise
+FC-21,1,band-bottom,trace,21,2145.39,2308.3,2.5,2.5,,band boundary coincides with grid line,0.9000018,40.00004,0.0019537,0.04693,piecewise
+FC-21,1,band-bottom,trace,22,2223.93,2306.9,2.5,2.5,,band boundary coincides with grid line,0.950001,39.99997,0.0019408,0.04693,piecewise
+FC-21,1,band-bottom,trace,23,2302.47,2305.49,2.5,2.5,,band boundary coincides with grid line,1.0,40.00003,0.0019541,0.04693,piecewise extrapolated x
+FC-21,1,band-bottom,trace,24,2381.01,2304.09,2.5,2.5,,band boundary coincides with grid line,1.0499988,39.99997,0.0022751,0.04693,piecewise extrapolated x
+FC-21,1,band-bottom,trace,25,2460,2302.67,2.5,2.5,,band boundary coincides with grid line,1.100284,40.00006,0.0025981,0.04693,piecewise extrapolated x
+FC-21,1,band-bottom,feature,1,599,2335.98,2.5,2.5,,first point,-0.0961206,39.99984,0.0028996,0.04691,piecewise extrapolated x
+FC-21,1,band-bottom,feature,2,2460,2302.67,2.5,2.5,,last point; peak,1.100284,40.00006,0.0025981,0.04693,piecewise extrapolated x

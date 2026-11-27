@@ -1,0 +1,108 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-7B,1,n10p2psi,marker,1,2134.0,3264.0,3,3,triangle-up,near origin; tip merges with the circle (3.4 psi) to its left; lower vertex hidden in the frame line,0.0032626,3.75196,0.0006519,0.08232,piecewise,agreed,claude,0.0035827,3.66619,,2138,3262
+FC-7B,1,n10p2psi,marker,2,1942.0,3263.0,2,3,triangle-up,near origin; top vertex merges with the diamond above; lower vertex hidden in the frame line,0.0035005,7.7009,0.0006513,0.06108,piecewise,agreed,claude,0.0030143,7.57543,,1948,3266
+FC-7B,1,n10p2psi,marker,3,1835.0,3248.5,2,3,triangle-up,near origin; on the 10 psi grid line; lower vertex hidden under the star (13.8 psi),0.0058803,9.9037,0.0006482,0.05814,piecewise,agreed,claude,0.0062834,9.94534,,1833,3246
+FC-7B,1,n10p2psi,marker,4,1693.5,3191.0,2,2,triangle-up,,0.0152069,12.77584,0.000474,0.05382,piecewise,agreed,claude,0.0152057,12.7764,,1693.5,3191.0
+FC-7B,1,n10p2psi,marker,5,1602.0,3101.5,3,2,triangle-up,tip touches the 15 psi grid line,0.0296752,14.62557,0.0004546,0.07195,piecewise,resolved,claude,0.0296678,14.38192,the claude reading is on the symbol center; credit claude (blind adjudication item 090 (Claude's adjudicator: p; Codex's: p)),1614.0,3101.5
+FC-7B,1,n10p2psi,marker,6,1572.0,3037.5,3,2,triangle-up,"right side on the 15 psi grid line, tip under the 0.04 in grid line",0.0400076,15.22755,0.0004437,0.07171,piecewise,agreed,claude,0.0399256,15.28885,,1569.0,3038.0
+FC-7B,1,n10p2psi,marker,7,1566.0,2918.0,3,2,triangle-up,right side on the 15 psi grid line,0.059446,15.33471,0.0004449,0.07183,piecewise,agreed,claude,0.0595275,15.39577,,1563.0,2917.5
+FC-7B,1,n10p2psi,marker,8,1567.0,2792.0,3,2,triangle-up,"right side on the 15 psi grid line, tip under the 0.08 in grid line; stray horizontal stroke to the right",0.0799382,15.29876,0.000448,0.0718,piecewise,agreed,claude,0.0797772,15.3599,,1564,2793
+FC-7B,1,n10p2psi,marker,9,1599.0,2672.0,2,2,triangle-up,tip touches the 15 psi grid line; stray horizontal stroke below,0.0995265,14.63344,0.0004557,0.05155,piecewise,resolved,claude,0.0995225,14.52162,both readings are on the symbol center; the difference is within its size (blind adjudication item 241 (Claude's adjudicator: both; Codex's: both)),1604.5,2672.0
+FC-7B,1,n10p2psi,marker,10,1641.0,2549.0,2,2,triangle-up,tip under the 0.12 in grid line; stray mark at u 1665 not part of symbol,0.1195936,13.7649,0.0004636,0.05258,piecewise,agreed,claude,0.1195898,13.68353,,1645.0,2549.0
+FC-7B,1,n10p2psi,marker,11,1695.0,2426.0,2,2,triangle-up,,0.1396315,12.65291,0.0004596,0.05391,piecewise,agreed,claude,0.1396295,12.65279,,1695.0,2426.0
+FC-7B,1,n10p2psi,marker,12,1730.0,2302.5,2,2,triangle-up,tip under the 0.16 in grid line; stray mark at u 1757 not part of symbol,0.1597672,11.92716,0.0004559,0.05476,piecewise,agreed,claude,0.1597625,11.87621,,1732.5,2302.5
+FC-7B,1,n10p2psi,marker,13,1765.5,2184.0,2,2,triangle-up,,0.1791398,11.1921,0.0004413,0.05563,piecewise,agreed,claude,0.1791315,11.19189,,1765.5,2184.0
+FC-7B,1,n10p2psi,marker,14,1797.0,2057.0,2,2,triangle-up,tip under the 0.20 in grid line,0.1999118,10.53751,0.0004242,0.05641,piecewise,agreed,claude,0.1998954,10.44591,,1801.5,2057.0
+FC-7B,1,n10p2psi,marker,15,1843.0,1905.0,2,2,triangle-up,,0.2246632,9.58436,0.0004437,0.05781,piecewise,agreed,claude,0.224655,9.55426,,1844.5,1905.0
+FC-7B,1,n10p2psi,marker,16,1903.0,1749.0,2,2,triangle-up,,0.2499965,8.34567,0.0004704,0.05937,piecewise,agreed,claude,0.2499931,8.3487,,1903.0,1749.0
+FC-7B,1,n13p8psi,marker,1,1856.0,3269.0,3,4,star,near origin; overlaps the triangle (10.2 psi) above it; lower part hidden in the frame line,0.0025679,9.47343,0.0008145,0.07947,piecewise,agreed,claude,0.0027292,9.49412,,1855,3268
+FC-7B,1,n13p8psi,marker,2,1712.0,3259.0,2,3,star,near origin; bottom point hidden in the frame line,0.0042374,12.40781,0.0006505,0.05439,piecewise,agreed,claude,0.0042372,12.41861,,1711.5,3259.0
+FC-7B,1,n13p8psi,marker,3,1557.5,3240.0,2,3,star,bottom point merges with the top edge of the quarter-circle below it,0.007363,15.54734,0.0006464,0.05181,piecewise,agreed,claude,0.0072011,15.53773,,1558,3241
+FC-7B,1,n13p8psi,marker,4,1462.0,3220.5,2,2,star,,0.0105464,17.48582,0.0004806,0.05372,piecewise,agreed,claude,0.0105459,17.48612,,1462.0,3220.5
+FC-7B,1,n13p8psi,marker,5,1419.0,3163.0,2,2,star,,0.0198373,18.35276,0.0004679,0.05463,piecewise,agreed,claude,0.0198365,18.35298,,1419.0,3163.0
+FC-7B,1,n13p8psi,marker,6,1370.5,3101.0,2,2,star,stray mark at u 1392-1396 v 3112-3117 not part of symbol,0.0298577,19.33105,0.0004541,0.05566,piecewise,agreed,claude,0.029855,19.26005,,1374.0,3101.0
+FC-7B,1,n13p8psi,marker,7,1345.0,3040.0,3,2,star,on the 20 psi and 0.04 in grid lines; left point inside the line band,0.0397077,19.84205,0.0004413,0.07655,piecewise,agreed,claude,0.0398657,19.76071,,1349,3039
+FC-7B,1,n13p8psi,marker,8,1308.0,2919.5,2,2,star,,0.0593321,20.58251,0.0004446,0.05694,piecewise,agreed,claude,0.0593315,20.58261,,1308.0,2919.5
+FC-7B,1,n13p8psi,marker,9,1367.5,2793.5,3,2,star,on the 0.08 in grid line; left point inside the line band,0.0798043,19.35505,0.0004476,0.07605,piecewise,agreed,claude,0.0798027,19.29404,,1370.5,2793.5
+FC-7B,1,n13p8psi,marker,10,1382.0,2673.5,2,2,star,,0.0994173,19.04578,0.000456,0.05538,piecewise,agreed,claude,0.0994161,19.0457,,1382.0,2673.5
+FC-7B,1,n13p8psi,marker,11,1431.5,2548.5,2,2,star,on the 0.12 in grid line,0.119822,18.02408,0.0004639,0.05432,piecewise,agreed,claude,0.1198192,18.00359,,1432.5,2548.5
+FC-7B,1,n13p8psi,marker,12,1488.0,2427.0,2,2,star,,0.1396043,16.86021,0.0004594,0.0531,piecewise,agreed,claude,0.1396014,16.85994,,1488.0,2427.0
+FC-7B,1,n13p8psi,marker,13,1527.0,2302.5,3,2,star,on the 0.16 in grid line; left point inside the line band,0.1598914,16.05167,0.0004564,0.07262,piecewise,agreed,claude,0.1598864,16.01059,,1529.0,2302.5
+FC-7B,1,n13p8psi,marker,14,1564.5,2181.5,2,2,star,right points touch the 15 psi grid line,0.1796566,15.2739,0.0004405,0.05145,piecewise,agreed,claude,0.1796521,15.38524,,1559.0,2181.5
+FC-7B,1,n13p8psi,marker,15,1585.5,2058.0,2,2,star,on the 15 psi and 0.20 in grid lines,0.1998445,14.83169,0.0004239,0.05127,piecewise,agreed,claude,0.1998325,14.82087,,1586,2058
+FC-7B,1,n13p8psi,marker,16,1621.5,1904.0,2,2,star,,0.2249344,14.08189,0.0004441,0.05215,piecewise,agreed,claude,0.2249283,14.08115,,1621.5,1904.0
+FC-7B,1,n13p8psi,marker,17,1669.5,1749.0,2,2,star,,0.2501256,13.08878,0.0004711,0.05333,piecewise,agreed,claude,0.2501229,13.088,,1669.5,1749.0
+FC-7B,1,n13p8psi,marker,18,1708.0,1591.5,2,2,star,,0.2756422,12.28857,0.0005113,0.05428,piecewise,agreed,claude,0.2756389,12.28773,,1708.0,1591.5
+FC-7B,1,n13p8psi,marker,19,1710.0,1444.0,2,2,star,,0.2996628,12.2303,0.0005047,0.05433,piecewise,agreed,claude,0.2996611,12.22934,,1710.0,1444.0
+FC-7B,1,n27p1psi,marker,1,1800.0,3276.0,2,4,quarter-circle,near origin; lower part hidden in the x=0 frame line; center v = top 3260 + half height,0.001462,10.62001,0.0008157,0.05665,piecewise,agreed,claude,0.0014618,10.62078,,1800.0,3276.0
+FC-7B,1,n27p1psi,marker,2,1671.5,3275.0,2,4,quarter-circle,near origin; lower part hidden in the x=0 frame line; center v = top 3259 + half height,0.0016742,13.23347,0.0008155,0.05352,piecewise,agreed,claude,0.0026417,13.25367,,1670.5,3269.0
+FC-7B,1,n27p1psi,marker,3,1542.0,3272.0,2,4,quarter-circle,near origin; directly under a star (13.8 psi); lower part hidden in the frame line,0.0022095,15.8663,0.000815,0.05226,piecewise,agreed,claude,0.0030159,15.88643,,1541,3267
+FC-7B,1,n27p1psi,marker,4,1348.5,3265.0,3,2,quarter-circle,top-left corner on the 20 psi grid line; bottom touches the frame line,0.0034156,19.79787,0.0004909,0.07648,piecewise,agreed,claude,0.0035762,19.76745,,1350,3264
+FC-7B,1,n27p1psi,marker,5,1196.5,3256.0,2,2,quarter-circle,,0.0049285,22.89972,0.0004885,0.05825,piecewise,agreed,claude,0.0049284,22.90033,,1196.5,3256.0
+FC-7B,1,n27p1psi,marker,6,1111.0,3247.0,3,2,quarter-circle,left corner touches the 25 psi grid line; stray dot at u 1134 not part of symbol,0.006415,24.64461,0.000487,0.07968,piecewise,agreed,claude,0.0064142,24.60463,,1113.0,3247.0
+FC-7B,1,n27p1psi,marker,7,970.5,3224.5,2,2,quarter-circle,stray dot at u 993 v 3234 not part of symbol,0.0101031,27.52287,0.0004816,0.05845,piecewise,agreed,claude,0.010184,27.52416,,970.5,3224.0
+FC-7B,1,n27p1psi,marker,8,856.0,3166.0,2,2,quarter-circle,left part on the 30 psi grid line,0.0195926,29.86528,0.0004686,0.05726,piecewise,agreed,claude,0.0195933,29.86694,,856.0,3166.0
+FC-7B,1,n27p1psi,marker,9,789.5,3105.0,2,2,quarter-circle,,0.0294679,31.20726,0.000455,0.05518,piecewise,agreed,claude,0.0294692,31.20859,,789.5,3105.0
+FC-7B,1,n27p1psi,marker,10,746.0,3046.5,2,2,quarter-circle,on the 0.04 in grid line,0.0389311,32.08119,0.000442,0.05419,piecewise,agreed,claude,0.039014,32.09234,,745.5,3046.0
+FC-7B,1,n27p1psi,marker,11,712.0,2921.0,2,2,quarter-circle,,0.0593888,32.75358,0.0004452,0.05341,piecewise,agreed,claude,0.0593899,32.7544,,712.0,2921.0
+FC-7B,1,n27p1psi,marker,12,682.5,2795.0,2,2,quarter-circle,on the 0.08 in grid line; stray horizontal stroke at v 2799 to its left,0.0799387,33.33396,0.0004488,0.05274,piecewise,agreed,claude,0.0800203,33.33448,,682.5,2794.5
+FC-7B,1,n27p1psi,marker,13,693.5,2675.0,2,2,quarter-circle,,0.0996039,33.09582,0.0004573,0.05296,piecewise,agreed,claude,0.0996008,33.09628,,693.5,2675.0
+FC-7B,1,n27p1psi,marker,14,744.5,2555.0,2,2,quarter-circle,on the 0.12 in grid line,0.1192397,32.05012,0.0004652,0.05408,piecewise,agreed,claude,0.1192338,32.05049,,744.5,2555.0
+FC-7B,1,n27p1psi,marker,15,759.5,2434.5,2,2,quarter-circle,,0.1388605,31.73235,0.0004588,0.05439,piecewise,agreed,claude,0.1388544,31.73255,,759.5,2434.5
+FC-7B,1,n27p1psi,marker,16,815.5,2307.5,2,2,quarter-circle,on the 0.16 in grid line,0.1595115,30.58728,0.0004548,0.05561,piecewise,agreed,claude,0.1595054,30.58729,,815.5,2307.5
+FC-7B,1,n27p1psi,marker,17,866.0,2186.0,2,2,quarter-circle,,0.1792955,29.54708,0.0004396,0.05745,piecewise,agreed,claude,0.1792909,29.54686,,866.0,2186.0
+FC-7B,1,n27p1psi,marker,18,924.5,2061.5,2,2,quarter-circle,on the 0.20 in grid line; stray dot above at v 2043,0.1995738,28.3318,0.000423,0.05807,piecewise,agreed,claude,0.1995701,28.34167,,924.0,2061.5
+FC-7B,1,n27p1psi,marker,19,947.5,1896.0,2,2,quarter-circle,,0.2265696,27.84041,0.0004459,0.05833,piecewise,agreed,claude,0.2265676,27.83978,,947.5,1896.0
+FC-7B,1,n27p1psi,marker,20,982.5,1753.0,2,2,quarter-circle,,0.2498564,27.10517,0.0004722,0.05871,piecewise,agreed,claude,0.2498558,27.10441,,982.5,1753.0
+FC-7B,1,n27p1psi,marker,21,1040.0,1602.5,2,2,quarter-circle,,0.2743019,25.90696,0.0005108,0.05932,piecewise,agreed,claude,0.274302,25.90615,,1040.0,1602.5
+FC-7B,1,n27p1psi,marker,22,1102.5,1449.0,2,2,quarter-circle,stray dot above at v 1431,0.2992619,24.60729,0.0005049,0.0593,piecewise,agreed,claude,0.299506,24.59608,,1103.0,1447.5
+FC-7B,1,n3p4psi,marker,1,2211.5,3265.0,2,3,circle,near origin; overlaps the square (5.1 psi) on its left; bottom in the frame line,0.0030705,2.16394,0.0006517,0.05852,piecewise,agreed,claude,0.0032329,2.25406,,2207,3264
+FC-7B,1,n3p4psi,marker,2,2108.0,3259.0,3,3,circle,"near origin; overlaps the square (5.1 psi) on its left and the triangle tip on its right; could also be read as a diamond, the top and right arc favor a circle",0.0040785,4.28436,0.0006508,0.08342,piecewise,agreed,claude,0.0040763,4.19814,,2112,3259
+FC-7B,1,n3p4psi,marker,3,2037.5,3255.5,3,3,circle,near origin; overlaps the diamond (6.6 psi) on its left,0.0046707,5.73267,0.00065,0.08432,piecewise,agreed,claude,0.0049124,5.7592,,2036,3254
+FC-7B,1,n3p4psi,marker,4,1976.0,3219.5,2,3,circle,bottom merges with the square (5.1 psi) and the diamond,0.0104964,6.99631,0.0006417,0.06199,piecewise,agreed,claude,0.0105761,7.01431,,1975,3219
+FC-7B,1,n3p4psi,marker,5,1952.5,3159.5,2,2,circle,,0.0201748,7.47445,0.000467,0.06123,piecewise,agreed,claude,0.0200937,7.56547,,1948,3160
+FC-7B,1,n3p4psi,marker,6,1949.5,3099.5,2,2,circle,,0.0298447,7.53033,0.0004537,0.06112,piecewise,agreed,claude,0.0300023,7.52881,,1949.5,3098.5
+FC-7B,1,n3p4psi,marker,7,1948.5,3039.5,2,2,circle,on the 0.04 in grid line; stray stroke at u 1922-1931 not part of symbol,0.0395139,7.54501,0.0004404,0.06107,piecewise,agreed,claude,0.0396699,7.5232,,1949.5,3038.5
+FC-7B,1,n3p4psi,marker,8,1973.0,2915.0,2,2,circle,stray stroke at right not part of symbol,0.0597283,7.02948,0.000444,0.0617,piecewise,agreed,claude,0.0597256,7.01841,,1973.5,2915
+FC-7B,1,n3p4psi,marker,9,1977.5,2792.0,2,2,circle,on the 0.08 in grid line; stray dot at u 1953 not part of symbol,0.0797117,6.9256,0.0004458,0.06177,piecewise,agreed,claude,0.0797117,6.9255,,1977.5,2792
+FC-7B,1,n3p4psi,marker,10,2005.0,2669.5,2,2,circle,,0.0996804,6.35041,0.0004551,0.06248,piecewise,agreed,claude,0.0996809,6.35109,,2005.0,2669.5
+FC-7B,1,n3p4psi,marker,11,2015.5,2545.5,2,2,circle,on the 0.12 in grid line; stray stroke at right,0.1199028,6.12445,0.0004636,0.06271,piecewise,agreed,claude,0.1198206,6.07495,,2018,2546
+FC-7B,1,n3p4psi,marker,12,2024.0,2424.5,2,2,circle,,0.1396602,5.94012,0.0004599,0.0629,piecewise,agreed,claude,0.1396597,5.94281,,2024.0,2424.5
+FC-7B,1,n3p4psi,marker,13,2048.0,2301.5,2,2,circle,on the 0.16 in grid line,0.1597357,5.43914,0.0004563,0.0635,piecewise,agreed,claude,0.1597335,5.44327,,2048.0,2301.5
+FC-7B,1,n3p4psi,marker,14,2055.0,2181.0,3,2,circle,right side inside the 5 psi grid line band,0.1794755,5.28652,0.0004421,0.08409,piecewise,agreed,claude,0.1794681,5.37352,,2051.0,2181.0
+FC-7B,1,n3p4psi,marker,15,2050.5,2057.0,2,2,circle,"on the 0.20 in grid line, right side touching the 5 psi grid line",0.1997962,5.36854,0.0004247,0.06347,piecewise,agreed,claude,0.1997796,5.40555,,2049.0,2057.0
+FC-7B,1,n3p4psi,marker,16,2057.0,1903.5,2,2,circle,right side on the 5 psi grid line,0.2248031,5.2239,0.0004437,0.06358,piecewise,agreed,claude,0.2248759,5.23199,,2057,1903
+FC-7B,1,n3p4psi,marker,17,2074.5,1749.5,3,2,circle,left side on the 5 psi grid line and touching the square (5.1 psi),0.2498209,4.85473,0.0004703,0.08452,piecewise,agreed,claude,0.2498976,4.8543,,2075,1749
+FC-7B,1,n5p1psi,marker,1,2256.5,3274.0,2,5,square,near origin; only the top 20 px visible above the frame line; dot inside,0.0016029,1.24251,0.0009762,0.05677,piecewise,agreed,claude,0.0025711,1.35379,,2251,3268
+FC-7B,1,n5p1psi,marker,2,2194.5,3270.0,2,4,square,near origin; overlaps the circle (3.4 psi) on its right; lower edge in the frame line,0.0022719,2.51269,0.0008141,0.05931,piecewise,agreed,claude,0.003077,2.52021,,2194,3265
+FC-7B,1,n5p1psi,marker,3,2098.0,3260.5,2,3,square,"near origin; overlaps a circle (3.4 psi) on its right, with a stray stroke inside",0.0038409,4.48939,0.0006507,0.06331,piecewise,agreed,claude,0.0040832,4.5461,,2095,3259
+FC-7B,1,n5p1psi,marker,4,2000.0,3232.5,2,2,square,touches the circle (3.4 psi) to its left and the diamond below,0.0083919,6.50318,0.0004832,0.06256,piecewise,agreed,claude,0.0086329,6.52046,,1999,3231
+FC-7B,1,n5p1psi,marker,5,1917.5,3158.5,2,2,square,,0.0203508,8.19484,0.0004668,0.06026,piecewise,agreed,claude,0.0203485,8.19379,,1917.5,3158.5
+FC-7B,1,n5p1psi,marker,6,1898.5,3101.0,2,2,square,,0.0296254,8.57983,0.0004541,0.05972,piecewise,agreed,claude,0.0296221,8.57929,,1898.5,3101.0
+FC-7B,1,n5p1psi,marker,7,1893.5,3039.5,2,2,square,on the 0.04 in grid line; stray tick above at v 3020,0.0395389,8.6761,0.0004404,0.05956,piecewise,agreed,claude,0.0399378,8.69609,,1892.5,3037.0
+FC-7B,1,n5p1psi,marker,8,1886.5,2912.5,2,2,square,,0.0601782,8.80628,0.0004441,0.05933,piecewise,agreed,claude,0.0600948,8.80633,,1886.5,2913.0
+FC-7B,1,n5p1psi,marker,9,1879.5,2790.0,2,2,square,on the 0.08 in grid line,0.0800912,8.93669,0.0004473,0.05909,piecewise,agreed,claude,0.0800912,8.93692,,1879.5,2790.0
+FC-7B,1,n5p1psi,marker,10,1892.5,2668.0,2,2,square,,0.0999957,8.65683,0.0004554,0.05941,piecewise,agreed,claude,0.0999959,8.65728,,1892.5,2668.0
+FC-7B,1,n5p1psi,marker,11,1911.5,2545.0,2,2,square,on the 0.12 in grid line,0.1200573,8.25454,0.0004635,0.05988,piecewise,agreed,claude,0.1200577,8.2554,,1911.5,2545.0
+FC-7B,1,n5p1psi,marker,12,1930.5,2422.5,2,2,square,,0.1400482,7.85311,0.0004598,0.06036,piecewise,agreed,claude,0.1400473,7.85459,,1930.5,2422.5
+FC-7B,1,n5p1psi,marker,13,1953.5,2301.0,2,2,square,on the 0.16 in grid line,0.1598752,7.37081,0.0004564,0.06094,piecewise,agreed,claude,0.1598727,7.3732,,1953.5,2301.0
+FC-7B,1,n5p1psi,marker,14,1981.5,2179.5,2,2,square,,0.1797607,6.78736,0.0004412,0.06165,piecewise,agreed,claude,0.1797514,6.79102,,1981.5,2179.5
+FC-7B,1,n5p1psi,marker,15,1995.5,2061.0,2,2,square,on the 0.20 in grid line,0.199166,6.49094,0.0004251,0.06198,piecewise,agreed,claude,0.1991496,6.49576,,1995.5,2061.0
+FC-7B,1,n5p1psi,marker,16,2023.0,1902.0,2,2,square,,0.2250641,5.91654,0.000444,0.06266,piecewise,agreed,claude,0.2248928,5.92353,,2023,1903
+FC-7B,1,n5p1psi,marker,17,2042.5,1749.5,3,3,square,right side touches the circle (3.4 psi); irregular ink at the bottom edge,0.2498385,5.50693,0.0006326,0.08358,piecewise,agreed,claude,0.2497546,5.54642,,2041,1750
+FC-7B,1,n6p6psi,marker,1,2022.0,3254.0,3,3,diamond,near origin; overlaps a circle (3.4 psi) on its right and touches the square above; read from the top vertex at u 2022 v 3235 and the left vertex at u 2003,0.0049186,6.05187,0.0006497,0.08389,piecewise,agreed,claude,0.0050795,6.06852,,2021,3253
+FC-7B,1,n6p6psi,marker,2,1951.0,3236.5,2,2,diamond,bottom vertex merges with the triangle below,0.0077672,7.51287,0.0004841,0.06121,piecewise,agreed,claude,0.0065591,7.57336,,1948,3244
+FC-7B,1,n6p6psi,marker,3,1888.5,3194.0,2,2,diamond,stray horizontal stroke at v 3209 to its right,0.014642,8.79566,0.0004747,0.05948,piecewise,resolved,claude,0.0146374,8.65085,second round: both readings are on the symbol center; the difference is within its size (blind adjudication item 091 (Claude's adjudicator: both; Codex's: both)),1895.5,3194.0
+FC-7B,1,n6p6psi,marker,4,1867.5,3161.5,2,2,diamond,,0.0198886,9.22444,0.0004675,0.05889,piecewise,agreed,claude,0.0198865,9.2244,,1867.5,3161.5
+FC-7B,1,n6p6psi,marker,5,1836.5,3100.0,2,2,diamond,left half on the 10 psi grid line; stray marks below left and at right not part of symbol,0.0298138,9.85539,0.0004538,0.05802,piecewise,agreed,claude,0.029811,9.86623,,1836.0,3100.0
+FC-7B,1,n6p6psi,marker,6,1827.5,3036.5,2,2,diamond,centered on the 10 psi and 0.04 in grid lines,0.0400528,10.03266,0.000443,0.05738,piecewise,agreed,claude,0.0402113,10.03315,,1827.5,3035.5
+FC-7B,1,n6p6psi,marker,7,1827.5,2913.0,2,2,diamond,centered on the 10 psi grid line,0.0601268,10.01822,0.0004441,0.05752,piecewise,agreed,claude,0.0600438,10.02895,,1827.0,2913.5
+FC-7B,1,n6p6psi,marker,8,1828.5,2790.0,2,2,diamond,centered on the 10 psi and 0.08 in grid lines,0.0801195,9.98336,0.0004474,0.0577,piecewise,agreed,claude,0.0800384,10.00431,,1827.5,2790.5
+FC-7B,1,n6p6psi,marker,9,1830.0,2669.0,2,2,diamond,centered on the 10 psi grid line; stray horizontal stroke at v 2686 to its left,0.0998717,9.93836,0.0004555,0.0577,piecewise,agreed,claude,0.0996284,9.9901,,1827.5,2670.5
+FC-7B,1,n6p6psi,marker,10,1861.0,2547.0,2,2,diamond,on the 0.12 in grid line,0.1197662,9.2891,0.0004635,0.05851,piecewise,agreed,claude,0.1197681,9.34076,,1858.5,2547.0
+FC-7B,1,n6p6psi,marker,11,1872.5,2427.0,2,2,diamond,,0.1393516,9.04037,0.0004598,0.05878,piecewise,agreed,claude,0.1393504,9.04108,,1872.5,2427.0
+FC-7B,1,n6p6psi,marker,12,1894.0,2303.0,2,2,diamond,on the 0.16 in grid line,0.1595851,8.58727,0.0004558,0.05932,piecewise,agreed,claude,0.1595821,8.57834,,1894.5,2303.0
+FC-7B,1,n6p6psi,marker,13,1921.0,2181.5,2,2,diamond,,0.1794656,8.02303,0.0004413,0.06001,piecewise,agreed,claude,0.1794566,8.02525,,1921.0,2181.5
+FC-7B,1,n6p6psi,marker,14,1930.0,2058.5,2,2,diamond,on the 0.20 in grid line,0.1996055,7.82698,0.0004246,0.06021,piecewise,agreed,claude,0.1995897,7.8299,,1930.0,2058.5
+FC-7B,1,n6p6psi,marker,15,1967.5,1902.0,2,2,diamond,,0.2250913,7.04735,0.000444,0.06117,piecewise,agreed,claude,0.2250832,7.05226,,1967.5,1902.0
+FC-7B,1,n6p6psi,marker,16,1992.5,1750.0,2,2,diamond,,0.2497851,6.52447,0.0004699,0.06178,piecewise,agreed,claude,0.2497787,6.42978,,1997.5,1750.0

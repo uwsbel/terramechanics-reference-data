@@ -1,0 +1,147 @@
+{
+  "FB-3": {
+    "source": "1968-vol2",
+    "title": "Figure B-3: Fig. 3 E Versus sigma3 for RS Soil (printed 6, PDF 109)",
+    "rotation": 0,
+    "legend_hint": "each group is labelled with its Dr beside its line",
+    "series_noun": "group",
+    "series": {
+      "dr30": {
+        "label": "Dr = 0.30",
+        "symbol": "open circle",
+        "noun": "group"
+      },
+      "dr99": {
+        "label": "Dr = 0.99",
+        "symbol": "open circle",
+        "noun": "group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (modulus E = rho c^2)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Dynamic modulus E (kips per square inch) against confining pressure (psi) for RS soil, two density groups, each labelled with its Dr beside its line. Each group is a set of open circles (measurements) and a line of straight segments drawn by the authors. Both groups use the same open circle: a circle belongs to the group whose line it sits on or is nearest. The plot has no grid lines. One label on the modulus axis, between 9 and 7, is printed as 3; it is 8, and it does not matter for the answers."
+  },
+  "FB-4": {
+    "source": "1968-vol2",
+    "title": "Figure B-4: Fig. 4 E Versus sigma3 for PS Soil (printed 7, PDF 110)",
+    "rotation": 0,
+    "legend_hint": "each group is labelled with its Dr beside its line",
+    "series_noun": "group",
+    "series": {
+      "dr22": {
+        "label": "Dr = 0.22",
+        "symbol": "open circle",
+        "noun": "group"
+      },
+      "dr86": {
+        "label": "Dr = 0.86",
+        "symbol": "open circle",
+        "noun": "group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (modulus E = rho c^2)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Dynamic modulus E (kips per square inch) against confining pressure (psi) for PS soil, two density groups, each labelled with its Dr beside its line. Each group is a set of open circles (measurements) and a line of straight segments drawn by the authors. Both groups use the same open circle: a circle belongs to the group whose line it sits on or is nearest. The plot has no grid lines."
+  },
+  "FB-5": {
+    "source": "1968-vol2",
+    "title": "Figure B-5: Fig. 5 E Versus sigma3 for SS Soil (printed 8, PDF 111)",
+    "rotation": 0,
+    "legend_hint": "each group is labelled with its Dr beside its line",
+    "series_noun": "group",
+    "series": {
+      "dr26": {
+        "label": "Dr = 0.26",
+        "symbol": "open circle",
+        "noun": "group"
+      },
+      "dr84": {
+        "label": "Dr = 0.84",
+        "symbol": "open circle",
+        "noun": "group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (modulus E = rho c^2)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Dynamic modulus E (kips per square inch) against confining pressure (psi) for SS soil, two density groups, each labelled with its Dr beside its line. Each group is a set of open circles (measurements) and a line of straight segments drawn by the authors. Both groups use the same open circle: a circle belongs to the group whose line it sits on or is nearest. The plot has no grid lines. The label of the loose group is partly illegible (it reads 0.26)."
+  },
+  "FB-6": {
+    "source": "1968-vol2",
+    "title": "Figure B-6: Fig. 6 E Versus sigma3 for RC Soil (printed 9, PDF 112)",
+    "rotation": 0,
+    "legend_hint": "each group is labelled with its Dr beside its line",
+    "series_noun": "group",
+    "series": {
+      "dr02": {
+        "label": "Dr = 0.02",
+        "symbol": "open circle",
+        "noun": "group"
+      },
+      "dr82": {
+        "label": "Dr = 0.82",
+        "symbol": "open circle",
+        "noun": "group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (modulus E = rho c^2)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Dynamic modulus E (kips per square inch) against confining pressure (psi) for RC2 soil, two density groups, each labelled with its Dr beside its line. Each group is a set of open circles (measurements) and a line of straight segments drawn by the authors. Both groups use the same open circle: a circle belongs to the group whose line it sits on or is nearest. The plot has no grid lines. The frame is slightly tilted on the page."
+  },
+  "FB-7": {
+    "source": "1968-vol2",
+    "title": "Figure B-7: Fig. 7 E Versus sigma3 for LSM Soil (printed 10, PDF 113)",
+    "rotation": 0,
+    "legend_hint": "Dr = 0.995 open circles, Dr = 0.77 filled circles, Dr = 1.04 squares with a diagonal line",
+    "series_noun": "group",
+    "series": {
+      "dr99p5": {
+        "label": "Dr = 0.995",
+        "symbol": "open circle",
+        "noun": "group"
+      },
+      "dr77": {
+        "label": "Dr = 0.77",
+        "symbol": "filled circle (dot)",
+        "noun": "group"
+      },
+      "dr104": {
+        "label": "Dr = 1.04",
+        "symbol": "square with a diagonal line",
+        "noun": "group"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (modulus E = rho c^2)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Dynamic modulus E (kips per square inch) against confining pressure (psi) for LSM soil, three density groups. The Dr = 0.995 group is the open circles and the upper line; the Dr = 0.77 group is the filled circles (dots) and the lower line; the Dr = 1.04 group is the squares with a diagonal line, which have no line of their own and may sit near either line. Each line is labelled with its Dr at its right end. Points at zero confining pressure sit on the left frame. The plot has no grid lines."
+  }
+}

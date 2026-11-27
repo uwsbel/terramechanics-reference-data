@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,value,anchored_line,line_position_px,label_position_px,result,note
+FA-28,1,y,50,50,horizontal grid line,v 1602 at u 700,v 1601 (centre of the digits),agrees,label centred on its line
+FA-28,1,y,45,45,horizontal grid line,v 1987 at u 700,v 1987,agrees,label centred on its line
+FA-28,1,y,40,40,horizontal grid line,v 2374 at u 700,v 2378,agrees,label about 4 px below its line; no other line nearby
+FA-28,1,y,35,35,horizontal grid line,v 2757 at u 700,v 2758,agrees,label centred on its line
+FA-28,1,y,30,30,horizontal grid line,v 3136 at u 700,v 3134,agrees,label centred on its line
+FA-28,1,y,25,25,bottom frame,v 3522 at u 700,v 3507,agrees,label printed about 15 px above the bottom frame line it labels; it is the only line there
+FA-28,1,x,0,0,left frame,u 765 at v 3560,u 765 (centre of the 0),agrees,
+FA-28,1,x,0.2,0.2,vertical grid line,u 1064 at v 3560,decimal point at u 1063,agrees,decimal point of the label under the line
+FA-28,1,x,0.4,0.4,vertical grid line,u 1374 at v 3560,decimal point at u 1374,agrees,decimal point of the label under the line
+FA-28,1,x,0.6,0.6,vertical grid line,u 1681 at v 3560,decimal point at u 1680,agrees,decimal point of the label under the line
+FA-28,1,x,0.8,0.8,vertical grid line,u 1995 at v 3560,decimal point at u 1995,agrees,decimal point of the label under the line
+FA-28,1,x,1.0,1.0,right frame,u 2312 at v 3560,decimal point at u 2311,agrees,printed 1.0 with a trailing speck

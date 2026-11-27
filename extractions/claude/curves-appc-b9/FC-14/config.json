@@ -1,0 +1,185 @@
+{
+ "image": "packet/p0150.png",
+ "cal_dir": "out/FC-14/cal-p1",
+ "tools_dir": "tools",
+ "figure_id": "FC-14",
+ "series_id": "lsm-loose",
+ "out": "out/FC-14",
+ "line_p1": [
+  680,
+  3700
+ ],
+ "line_p2": [
+  2000,
+  2486
+ ],
+ "triangles": [
+  [
+   650,
+   3657,
+   692,
+   3697
+  ],
+  [
+   823,
+   3597,
+   866,
+   3639
+  ],
+  [
+   1127,
+   3245,
+   1170,
+   3285
+  ],
+  [
+   1296,
+   3167,
+   1341,
+   3211
+  ],
+  [
+   1466,
+   2882,
+   1508,
+   2923
+  ],
+  [
+   1729,
+   2630,
+   1774,
+   2670
+  ],
+  [
+   1911,
+   2560,
+   1955,
+   2603
+  ],
+  [
+   1991,
+   2489,
+   2032,
+   2529
+  ]
+ ],
+ "line_mask": [
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  "none",
+  [
+   1985,
+   2020
+  ]
+ ],
+ "tri_opts": [
+  {
+   "base_cols": [
+    658,
+    674
+   ],
+   "rows_r": [
+    [
+     3664,
+     3681
+    ]
+   ]
+  },
+  {},
+  {
+   "mirror": "right",
+   "method": "edge"
+  },
+  {},
+  {},
+  {},
+  {
+   "mirror": "left",
+   "rows": [
+    2564,
+    2591
+   ],
+   "rows_r": [
+    [
+     2566,
+     2573
+    ],
+    [
+     2585,
+     2590
+    ]
+   ],
+   "method": "edge"
+  },
+  {}
+ ],
+ "tri_bounds": [
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   3,
+   6.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   3,
+   6.5
+  ],
+  [
+   2,
+   5.5
+  ]
+ ],
+ "tri_notes": [
+  "the drawn line crosses its right base corner; right side read on the rows clear of the line, base on its central columns",
+  "clear of the line",
+  "the line's dash ends at its lower left and resumes from its upper right side; right side taken as the mirror of the left side about the base axis (u 1147.5); edge method (the stroke-centre estimate gives v 3269.2)",
+  "clear of the line, just below the y = 2000 grid line",
+  "clear of the line; right base corner 4 px from the x = 3000 grid line",
+  "clear of the line",
+  "the y = 4000 grid line runs through its middle and the drawn line touches its apex and upper left side; right side read on the rows clear of both and mirrored to the left about the base axis (u 1933.0); edge method (the stroke-centre estimate gives v 2586.8)",
+  "the drawn line passes close above its apex and upper left side and ends above it"
+ ],
+ "left_end": {
+  "u": 635.3,
+  "side": "right",
+  "bu": 4.5,
+  "bv": 8.0,
+  "note": "the line runs into the bottom left corner of the frame: its centre line meets the x = 0 line 1.7 px below the y = 0 line's centre and the y = 0 line 1.8 px right of the x = 0 line; its ink is hidden in the corner, placed on the x = 0 line"
+ },
+ "right_end": {
+  "u": 2016.0,
+  "side": "left",
+  "bu": 3,
+  "bv": 7.5,
+  "note": "the line ends with a squared end above triangle 8 (last ink column u 2019 at the end's lower corner); centre line end"
+ },
+ "intercept": {
+  "u": 635.3,
+  "side": "right",
+  "bu": 1,
+  "bv": 4.8,
+  "note": "the line reaches the x = 0 line in the bottom left corner of the frame; centre line of the drawn line at the x = 0 line's centre line, inside the frame corner's ink"
+ }
+}

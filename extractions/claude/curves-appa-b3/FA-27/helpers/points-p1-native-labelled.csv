@@ -1,0 +1,45 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-27,1,upper,trace,1,684.9,3141.8,4,4,dashed line,"left end: the line meets the left frame (Dr = 0); its first visible ink is at the frame's inner edge (u 690), sample on the frame centre",0.0001258,95.06277,0.003144,0.13606,piecewise extrapolated x
+FA-27,1,upper,trace,2,838.3,3186.8,4,4,dashed line,"Dr 0.1 crossing, on the dash (it starts at u 834, left of the grid line)",0.0997707,96.44718,0.0029794,0.14046,piecewise
+FA-27,1,upper,trace,3,991.4,3231.1,4,4,dashed line,"Dr 0.2 crossing, on the dash (981 to 1122)",0.1999866,97.85014,0.0029922,0.14499,piecewise
+FA-27,1,upper,trace,4,1151.0,3276.6,4,4,dashed line,"Dr 0.3: the dash starts under the x = 0.3 grid line (u 1146 to 1149), white before it; sample at its first visible ink (rule 7)",0.3021758,99.33438,0.0032182,0.14986,piecewise
+FA-27,1,upper,trace,5,1313.0,3323.1,4,4,dashed line,"Dr 0.4: the crossing (u 1299.5) is in a dash gap (u 1282 to 1311); moved to the nearest dash end, the start of the next dash (u 1312, drawn along the 101 grid line)",0.4088102,100.90818,0.0032924,0.15789,piecewise
+FA-27,1,upper,trace,6,1458.0,3363.9,4,4,dashed line,"Dr 0.5: the dash starts under the x = 0.5 grid line (u 1451 to 1456), white before it; sample at its first visible ink",0.5033074,102.33959,0.00318,0.16447,piecewise
+FA-27,1,upper,trace,7,1595.0,3402.9,4,4,dashed line,"Dr 0.6: the crossing (u 1609.0) is in a dash gap (u 1597 to 1623); moved to the nearest dash end, the end of the previous dash (u 1596, 13 px; the next dash starts at u 1624, 15 px)",0.5910083,103.74861,0.0030554,0.17107,piecewise
+FA-27,1,upper,trace,8,1764.4,3451.4,4,4,dashed line,"Dr 0.7 crossing, on the dash (it ends at u 1768, just past the grid line)",0.699853,105.52378,0.0031531,0.16714,piecewise
+FA-27,1,upper,trace,9,1915.0,3495.1,4,4,dashed line,"Dr 0.8: the dash ends under the x = 0.8 grid line (u 1916 to 1921), white after it; sample at its last visible ink. A 3 px white streak at u 1907 to 1909 is read as a scan defect, not a gap",0.7976457,107.1015,0.0031089,0.17166,piecewise
+FA-27,1,upper,trace,10,2072.7,3540.0,4,4,dashed line,"Dr 0.9 crossing, on the dash (it ends at u 2077, just past the grid line)",0.8999666,108.7717,0.0032246,0.17651,piecewise
+FA-27,1,upper,trace,11,2226.1,3583.3,4,4,dashed line,right end: the line meets the right frame (Dr = 1.0); the leader to 110.5 continues it outside the frame,1.0000493,110.43157,0.0032902,0.18802,piecewise extrapolated x y
+FA-27,1,upper,feature,1,684.9,3141.8,4,4,dashed line,first point,0.0001258,95.06277,0.003144,0.13606,piecewise extrapolated x
+FA-27,1,upper,feature,2,2226.1,3583.3,4,4,dashed line,last point,1.0000493,110.43157,0.0032902,0.18802,piecewise extrapolated x y
+FA-27,1,upper,feature,3,2463,3609,5,5,label,"label: 110.5 (right end; leader from the line's end at the frame to the label). No label of its own at the left end: the line starts at the 95 grid line, whose axis label 95 has no leader",1.1549923,111.45408,0.0058561,0.2422,piecewise extrapolated x y
+FA-27,1,mean,trace,1,685.0,3155.2,4,4,solid line,"left end: the line meets the left frame (Dr = 0); here it overlaps the lower line (6 px apart), centre from the clean ink nearby",0.0001004,95.46824,0.0031443,0.13734,piecewise extrapolated x
+FA-27,1,mean,trace,2,838.5,3202.7,4,4,solid line,Dr 0.1 crossing,0.0997954,96.94285,0.0029797,0.14205,piecewise
+FA-27,1,mean,trace,3,991.6,3250.2,4,4,solid line,Dr 0.2 crossing,0.1999956,98.4637,0.0029923,0.14699,piecewise
+FA-27,1,mean,trace,4,1148.1,3298.4,4,4,solid line,Dr 0.3 crossing,0.3001157,100.05716,0.0032157,0.15397,piecewise
+FA-27,1,mean,trace,5,1300.3,3344.4,4,4,solid line,Dr 0.4 crossing,0.4003684,101.64345,0.0033234,0.16117,piecewise
+FA-27,1,mean,trace,6,1453.4,3390.2,4,4,solid line,Dr 0.5 crossing,0.5002088,103.27675,0.0032388,0.16875,piecewise
+FA-27,1,mean,trace,7,1609.7,3438.0,4,4,solid line,"Dr 0.6 crossing, where the line runs along the 105 grid line",0.6002372,105.03876,0.0030534,0.1735,piecewise
+FA-27,1,mean,trace,8,1764.7,3485.5,4,4,solid line,Dr 0.7 crossing,0.6998572,106.73985,0.003153,0.17066,piecewise
+FA-27,1,mean,trace,9,1919.5,3533.0,4,4,solid line,Dr 0.8 crossing,0.8003593,108.49584,0.0031071,0.17575,piecewise
+FA-27,1,mean,trace,10,2073.0,3580.0,4,4,solid line,Dr 0.9 crossing,0.8999565,110.29006,0.0032276,0.18611,piecewise extrapolated y
+FA-27,1,mean,trace,11,2226.2,3625.8,4,4,solid line,right end: the line meets the right frame (Dr = 1.0); the leader to 112.7 continues it outside the frame,0.9999973,112.09573,0.003293,0.21147,piecewise extrapolated x y
+FA-27,1,mean,feature,1,685.0,3155.2,4,4,solid line,first point,0.0001004,95.46824,0.0031443,0.13734,piecewise extrapolated x
+FA-27,1,mean,feature,2,2226.2,3625.8,4,4,solid line,last point,0.9999973,112.09573,0.003293,0.21147,piecewise extrapolated x y
+FA-27,1,mean,feature,3,518,3192.5,5,5,label,"label: 95.4 (left end; its leader ends at u 675, v 3152 to 3155, on the mean line's extension)",-0.1089626,96.60556,0.0047018,0.17225,piecewise extrapolated x
+FA-27,1,mean,feature,4,2463.5,3668,5,5,label,label: 112.7 (right end; leader from the line's end at the frame),1.1553763,113.82051,0.0058693,0.27798,piecewise extrapolated x y
+FA-27,1,lower,trace,1,685.1,3162.7,4,4,dashed line,"left end: the line meets the left frame (Dr = 0); here it overlaps the mean line, centre from the clean ink nearby",0.0001148,95.6967,0.0031442,0.13807,piecewise extrapolated x
+FA-27,1,lower,trace,2,838.6,3214.2,4,4,dashed line,"Dr 0.1 crossing, on the dash (it starts at u 831)",0.0997842,97.30454,0.0029797,0.14322,piecewise
+FA-27,1,lower,trace,3,991.8,3266.5,4,4,dashed line,"Dr 0.2 crossing, on the dash (it starts at u 984, under the 99 grid line)",0.200022,98.99344,0.002992,0.14874,piecewise
+FA-27,1,lower,trace,4,1157.0,3322.8,4,4,dashed line,"Dr 0.3: the crossing (u 1148.2) is in a dash gap (u 1128 to 1155); moved to the nearest dash end, the start of the next dash (u 1156; the previous one ends at u 1127)",0.3058348,100.887,0.0032225,0.15765,piecewise
+FA-27,1,lower,trace,5,1312.0,3375.5,4,4,dashed line,"Dr 0.4: the crossing (u 1300.0) is in a dash gap (u 1285 to 1309); moved to the nearest dash end, the start of the next dash (u 1310 to 1312; the previous one ends at u 1284)",0.4078165,102.73879,0.0032945,0.16614,piecewise
+FA-27,1,lower,trace,6,1469.0,3427.6,4,4,dashed line,"Dr 0.5: the crossing (u 1453.4) is in a dash gap (u 1435 to 1467); moved to the nearest dash end, the start of the next dash (u 1468; the previous one ends at u 1434)",0.5100112,104.64149,0.0031699,0.17509,piecewise
+FA-27,1,lower,trace,7,1590.0,3468.2,4,4,dashed line,"Dr 0.6: the crossing (u 1609.7) is in a dash gap (u 1592 to 1635); moved to the nearest dash end, the end of the previous dash (u 1591, 19 px; the next starts at u 1636, 26 px)",0.5874196,106.10286,0.0030599,0.16887,piecewise
+FA-27,1,lower,trace,8,1761.0,3526.0,4,4,dashed line,"Dr 0.7: the dash ends under the x = 0.7 grid line (u 1763 to 1767), tapering from u 1759, white after it; sample at its last visible ink",0.6972475,108.2207,0.0031267,0.17499,piecewise
+FA-27,1,lower,trace,9,1920.0,3580.1,4,4,dashed line,"Dr 0.8 crossing, on the dash (u 1799 to 1933; a white streak at u 1899 to 1903 is a scan defect, not a gap)",0.8004169,110.27955,0.003108,0.18602,piecewise extrapolated y
+FA-27,1,lower,trace,10,2073.4,3632.6,4,4,dashed line,"Dr 0.9 crossing, on the dash (u 1972 to 2100)",0.8999468,112.35242,0.0032316,0.21521,piecewise extrapolated y
+FA-27,1,lower,trace,11,2226.4,3683.1,4,4,dashed line,right end: the line meets the right frame (Dr = 1.0); the 114.9 leader points at it,0.9999698,114.42046,0.0032973,0.24526,piecewise extrapolated x y
+FA-27,1,lower,feature,1,685.1,3162.7,4,4,dashed line,first point,0.0001148,95.6967,0.0031442,0.13807,piecewise extrapolated x
+FA-27,1,lower,feature,2,2226.4,3683.1,4,4,dashed line,last point,0.9999698,114.42046,0.0032973,0.24526,piecewise extrapolated x y
+FA-27,1,lower,feature,3,517,3250,5,5,label,"label: 95.8 (left end; its leader ends at u 675, v 3165 to 3168, nearest the lower line)",-0.1100103,98.42844,0.0047107,0.17936,piecewise extrapolated x
+FA-27,1,lower,feature,4,2465,3728,5,5,label,label: 114.9 (right end; the leader runs from behind the right-axis label 115 toward the line's end at the frame),1.1564187,116.33248,0.0058909,0.31738,piecewise extrapolated x y

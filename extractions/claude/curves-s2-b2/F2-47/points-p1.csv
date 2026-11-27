@@ -1,0 +1,72 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F2-47,1,lpt91,trace,1,505,3239,4,4,,start of the ink at the corner of the frame (x about 0); its first pixels merge with the axis lines
+F2-47,1,lpt91,trace,2,580,3078,4.5,4.5,,target 0.25 in (sampled at 0.26 to stay clear of the dashed ink); the two traces run side by side and touch from about 0.07 to 0.29 in (about 95 to 240 lb); the dashed line ends a dash 6 px to the left here; bound widened
+F2-47,1,lpt91,trace,3,653,3023.0,4.7,4.7,,target 0.50 in
+F2-47,1,lpt91,trace,4,729,3016.0,4.5,4.5,,target 0.75 in
+F2-47,1,lpt91,trace,5,797,3006.5,3.9,3.9,,target 1.00 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,6,883,2976.5,4.2,4.2,,target 1.25 in; LPT No. 101 (dashed) ink 4 px away
+F2-47,1,lpt91,trace,7,959,2943.5,4.0,4.0,,target 1.50 in
+F2-47,1,lpt91,trace,8,1036,2910.0,4.1,4.1,,target 1.75 in
+F2-47,1,lpt91,trace,9,1103,2874.0,3.7,3.7,,target 2.00 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,10,1189,2826.0,3.7,3.7,,target 2.25 in
+F2-47,1,lpt91,trace,11,1266,2781.0,4.3,4.3,,target 2.50 in
+F2-47,1,lpt91,trace,12,1343,2743.0,4.1,4.1,,target 2.75 in
+F2-47,1,lpt91,trace,13,1411,2712.0,3.3,3.3,,target 3.00 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,14,1497,2667.0,3.7,3.7,,target 3.25 in
+F2-47,1,lpt91,trace,15,1573,2625.5,3.9,3.9,,target 3.50 in
+F2-47,1,lpt91,trace,16,1650,2586.0,3.9,3.9,,target 3.75 in
+F2-47,1,lpt91,trace,17,1736,2541.0,4.3,4.3,,target 4.00 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,18,1804,2512.0,3.9,3.9,,target 4.25 in
+F2-47,1,lpt91,trace,19,1881,2477.0,3.8,3.8,,target 4.50 in
+F2-47,1,lpt91,trace,20,1964,2442.5,3.8,3.8,,target 4.75 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,21,2025,2412.5,4.2,4.2,,target 5.00 in; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,22,2114,2370.5,2.9,2.9,,target 5.25 in
+F2-47,1,lpt91,trace,23,2187,2334.0,4.0,4.0,,target 5.50 in
+F2-47,1,lpt91,trace,24,2262,2286.5,3.6,3.6,,target 5.75 in
+F2-47,1,lpt91,trace,25,2329,2256.0,6.0,6.0,,target 6.00 in; touches LPT No. 101 (dashed) here: bound widened 2 px; target on a grid line: sampled on the nearest clean ink beside it
+F2-47,1,lpt91,trace,26,2415,2187.5,3.9,3.9,,target 6.25 in
+F2-47,1,lpt91,trace,27,2491,2159.0,4.1,4.1,,target 6.50 in
+F2-47,1,lpt91,trace,28,2568,2130.0,4.3,4.3,,target 6.75 in
+F2-47,1,lpt91,trace,29,2638,2103,4,4,,end of the ink: the trace runs into the right frame line (x = 7) and does not continue past it; also serves as the 7.0 in sample
+F2-47,1,lpt91,feature,1,505,3239,4,4,,"first: ink starts at the corner of the frame (x about 0, load about 0); its first pixels merge with the axis lines"
+F2-47,1,lpt91,feature,2,656,3021.5,10,5,,"knee: end of the initial rise: the trace bends onto the plateau near 0.5 in (gradual bend, located within about 10 px along the line)"
+F2-47,1,lpt91,feature,3,762,3015.5,12,5,,"knee: end of the plateau (flat from about 0.52 to 0.85 in): the trace starts to rise again; gradual, located within about 12 px"
+F2-47,1,lpt91,feature,4,1716,2547,6,5,,knee: minor kink just before the x = 4 grid line: the slope drops to about half for some 0.15 in
+F2-47,1,lpt91,feature,5,2026,2412,5,5,,knee: minor kink: start of a small step up (about 20 lb) across the x = 5 grid line
+F2-47,1,lpt91,feature,6,2050,2394.5,6,5,,"knee: minor kink: end of that small step, the trace flattens again"
+F2-47,1,lpt91,feature,7,2379,2224.5,8,5,,"knee: onset of the steep step near 6.1 in (the trace already steepens gradually from about 6.05 in, where the dashed line ends)"
+F2-47,1,lpt91,feature,8,2401,2194,4,5,,"knee: end of the steep step near 6.2 in: sharp kink, the trace flattens"
+F2-47,1,lpt91,feature,9,2638,2103,4,4,,"peak: maximum of the trace: at its last point, where it runs into the right frame line (x = 7); the load still rises there"
+F2-47,1,lpt91,feature,10,2638,2103,4,4,,last: end of the ink at the right frame line (x = 7)
+F2-47,1,lpt101,trace,1,506,3215,8,10,,"start of the visible ink: the first dash meets the left frame line here and only its right edge shows (the sample is on that ink; the dash center is about 3 px further left, inside the bound); below this it is hidden in the 9 px axis line, toward the origin"
+F2-47,1,lpt101,trace,2,584,3055.5,8.6,9.4,,target 0.25 in falls in a dash gap: sampled 3 columns inside the start of the next dash (x about 0.27); the two traces run side by side and touch from about 0.07 to 0.29 in (about 95 to 240 lb); LPT No. 91 ink 7 px below
+F2-47,1,lpt101,trace,3,649,2979.0,10.1,6.7,,target 0.50 in
+F2-47,1,lpt101,trace,4,735,2939.5,8.9,7.7,,"target 0.75 in; at the target column the arrowhead of the LPT No. 101 label is merged on the dash: sampled just to the right, where the dash is clear and the arrowhead ink is separate above it"
+F2-47,1,lpt101,trace,5,796,2944.5,8.0,6.4,,target 1.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,6,881,2961.5,9.1,6.5,,target 1.25 in; LPT No. 91 (solid) ink 6 px away
+F2-47,1,lpt101,trace,7,968,2969.0,8.9,6.1,,target 1.50 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,8,1036,2951.5,10.0,8.0,,target 1.75 in
+F2-47,1,lpt101,trace,9,1122,2915.5,8.7,6.7,,target 2.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,10,1181,2888.0,8.6,5.3,,target 2.25 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,11,1274,2842.0,10.4,8.1,,target 2.50 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,12,1344,2807.0,10.4,8.8,,target 2.75 in
+F2-47,1,lpt101,trace,13,1430,2761.5,11.3,9.5,,target 3.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,14,1498,2725.5,10.5,9.0,,target 3.25 in
+F2-47,1,lpt101,trace,15,1574,2685.5,9.1,5.9,,"target 3.50 in; a stray mark beside the line in this column, not used"
+F2-47,1,lpt101,trace,16,1651,2644.5,10.3,7.9,,target 3.75 in
+F2-47,1,lpt101,trace,17,1737,2599.5,10.6,8.7,,target 4.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,18,1799,2567.0,9.3,6.2,,target 4.25 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,19,1881,2522.0,11.5,9.8,,target 4.50 in
+F2-47,1,lpt101,trace,20,1958,2479.5,10.7,9.1,,target 4.75 in
+F2-47,1,lpt101,trace,21,2044,2431.5,10.7,8.9,,target 5.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,22,2111,2393.5,10.9,9.4,,target 5.25 in
+F2-47,1,lpt101,trace,23,2187,2351.5,10.2,7.7,,target 5.50 in; LPT No. 91 (solid) ink 5 px away
+F2-47,1,lpt101,trace,24,2263,2308.5,10.0,7.9,,target 5.75 in; LPT No. 91 (solid) ink 7 px away
+F2-47,1,lpt101,trace,25,2332,2267.5,11.8,11.0,,target 6.00 in; touches LPT No. 91 (solid) here: bound widened 2 px; target falls in a dash gap or on a grid line: sampled on the nearest clean ink
+F2-47,1,lpt101,trace,26,2353,2259,8,8,,end of the ink: the last dash ends touching the underside of LPT No. 91 (solid) at about 6.05 in; no dashed ink beyond it
+F2-47,1,lpt101,feature,1,506,3215,8,10,,"first: lowest visible ink of the first dash, where it meets the left frame line; it may continue hidden in the axis line toward the origin"
+F2-47,1,lpt101,feature,2,663,2962.5,9,8,,"knee: end of the steep initial rise: bend between two dashes, located at the start of the dash after it (x about 0.54)"
+F2-47,1,lpt101,feature,3,753,2937,14,7,,"knee: local maximum of the hump (flat top from about u 740 to 762, x 0.79 to 0.86); the arrow of the LPT No. 101 label points at this dash; this is not the peak of the trace"
+F2-47,1,lpt101,feature,4,941,2970,25,7,,"knee: local minimum after the hump (flat bottom from about u 926 to 975, x 1.39 to 1.55), just after the crossing with LPT No. 91"
+F2-47,1,lpt101,feature,5,2353,2259,8,8,,"peak: maximum of the trace: at its last point (about 6.05 in), touching LPT No. 91"
+F2-47,1,lpt101,feature,6,2353,2259,8,8,,last: end of the ink: the last dash ends touching the underside of LPT No. 91 (solid); no dashed ink beyond it

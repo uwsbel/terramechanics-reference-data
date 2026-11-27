@@ -1,0 +1,4 @@
+figure_id,panel,image,box,points_a,points_b,name,feature_roles,canonical,canonical_reason,max_gap,end_dedup
+F2-54,1,corpus/1968/images/p0117.png,276 1276 889 3076,extractions/claude/curves-s2-b4/F2-54/points-p1-native.csv,extractions/codex/curves-s2-b4/F2-54/points-p1-native.csv,F2-54-p1,leading,,,6,yes
+F2-54,2,corpus/1968/images/p0117.png,831 1274 1359 3071,extractions/claude/curves-s2-b4/F2-54/points-p2-native.csv,extractions/codex/curves-s2-b4/F2-54/points-p2-native.csv,F2-54-p2,leading,,,6,yes
+F2-54,3,corpus/1968/images/p0117.png,1305 1263 2453 3082,extractions/claude/curves-s2-b4/F2-54/points-p3-native.csv,extractions/codex/curves-s2-b4/F2-54/points-p3-native.csv,F2-54-p3,leading,,,6,yes

@@ -1,0 +1,57 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FB-7,1,dr104,marker,1,499.5,3087.5,2.0,3.0,square with x,on the left frame (sigma3 = 0); its top half is overlapped by an open circle (dr99p5) centred 16 px above it; centre from the square's sides and bottom edge
+FB-7,1,dr104,marker,2,502.5,3361.0,2.0,2.0,square with x,on the left frame (sigma3 = 0); the y = 2 tick touches its lower right corner
+FB-7,1,dr104,marker,3,786.5,2409.0,2.0,2.0,square with x,the dr77 polyline's vertex lies at its bottom edge; the polyline passes through the square
+FB-7,1,dr104,marker,4,810.5,2136.0,2.0,2.0,square with x,
+FB-7,1,dr104,marker,5,1101.5,1995.0,2.0,2.0,square with x,the dr99p5 polyline crosses its upper left part
+FB-7,1,dr104,marker,6,1187.5,2169.0,2.0,2.0,square with x,
+FB-7,1,dr104,marker,7,1190.5,1899.0,2.0,2.0,square with x,"the dr99p5 polyline passes through it, just before that polyline's second vertex"
+FB-7,1,dr104,marker,8,1801.5,1827.0,2.0,2.0,square with x,the dr77 polyline passes through it
+FB-7,1,dr104,marker,9,2101.5,1646.0,2.0,2.0,square with x,"right of the end of the dr99p5 polyline and below its label; same size and height as the data squares, not level with the label text, so read as a data point and not as a legend key"
+FB-7,1,dr99p5,marker,1,497.5,3071.0,2.0,4.0,circle,"on the left frame (sigma3 = 0); its lower half is overlapped by a square (dr104); centre from its top edge, left side and the top of its inner hole"
+FB-7,1,dr99p5,marker,2,497.5,3020.5,2.0,2.0,circle,on the left frame (sigma3 = 0); the dr99p5 polyline starts at its outline
+FB-7,1,dr99p5,marker,3,773.5,2211.5,2.0,2.0,circle,the dr99p5 polyline's first vertex is inside it
+FB-7,1,dr99p5,marker,4,1243.5,1871.5,2.0,2.0,circle,the dr99p5 polyline's second vertex is inside it
+FB-7,1,dr99p5,marker,5,1757.5,1688.5,2.0,2.0,circle,on the dr99p5 polyline
+FB-7,1,dr99p5,marker,6,1829.5,1519.5,2.0,2.0,circle,above both polylines
+FB-7,1,dr99p5,marker,7,1940.5,1676.5,2.0,2.0,circle,"between the two polylines, nearer the dr99p5 polyline"
+FB-7,1,dr77,marker,1,501.0,3502.5,2.0,3.0,filled circle,"on the left frame (sigma3 = 0); the lower of the two overlapping filled circles, from the blob's bottom edge"
+FB-7,1,dr77,marker,2,503.5,3848.5,2.0,2.0,filled circle,on the left frame (sigma3 = 0)
+FB-7,1,dr77,marker,3,501.0,3482.5,2.0,3.0,filled circle,"on the left frame (sigma3 = 0); two filled circles overlap here (one blob 62 px tall, 39 px wide, waist at v 3490); this one from the blob's top edge; a third hidden between them cannot be excluded"
+FB-7,1,dr77,marker,4,762.5,2671.5,2.0,2.0,filled circle,"just right of the dr77 polyline, not touching it"
+FB-7,1,dr77,marker,5,784.5,2278.5,2.0,2.0,filled circle,"between the two polylines, nearer the dr99p5 polyline"
+FB-7,1,dr77,marker,6,1170.5,2317.5,2.0,2.0,filled circle,below both polylines
+FB-7,1,dr77,marker,7,1237.5,1827.5,2.0,2.0,filled circle,"above the dr99p5 polyline, just above the open circle at its second vertex"
+FB-7,1,dr77,marker,8,1907.5,1770.5,2.0,2.0,filled circle,just above the end of the dr77 polyline
+FB-7,1,dr77,marker,9,1928.5,1827.5,2.0,2.0,filled circle,"just below the end of the dr77 polyline, touching it"
+FB-7,1,dr99p5,trace,1,518.5,3000.7,4.1,4.1,,left end of the line's clear ink: below this the line runs on the outline of the open circle at sigma3 = 0 and into the frame (see the first-point feature)
+FB-7,1,dr99p5,trace,2,643.0,2614.0,3.6,3.6,,sigma3 = 1 psi
+FB-7,1,dr99p5,trace,3,921.4,2106.5,3.8,3.8,,sigma3 = 3 psi
+FB-7,1,dr99p5,trace,4,1061.0,2006.9,4.2,4.2,,sigma3 = 4 psi
+FB-7,1,dr99p5,trace,5,1339.7,1837.0,4.9,4.9,,sigma3 = 6 psi
+FB-7,1,dr99p5,trace,6,1480.0,1786.2,4.5,4.5,,sigma3 = 7 psi
+FB-7,1,dr99p5,trace,7,1620.4,1735.6,4.2,4.2,,sigma3 = 8 psi
+FB-7,1,dr99p5,trace,8,1898.4,1633.9,4.8,4.8,,sigma3 = 10 psi
+FB-7,1,dr99p5,trace,9,2032.4,1585.7,4.8,4.8,,right end: where the line's ink ends
+FB-7,1,dr99p5,feature,1,503.5,3050.0,4.0,6.0,,"first point: where the line's centre line meets the left frame's centre line (sigma3 = 0), at the top of the lower open circle at sigma3 = 0; the last 45 px of the line are merged with the upper open circle's outline and the frame, so this point is on merged ink, not a trace sample"
+FB-7,1,dr99p5,feature,2,770.5,2217.2,4.0,4.0,,"vertex: intersection of the two fitted segments, hidden by the circle at (773.5, 2211.5); no trace sample here"
+FB-7,1,dr99p5,feature,3,1248.0,1870.3,4.0,4.0,,"vertex: intersection of the two fitted segments, hidden by the circle at (1243.5, 1871.5); no trace sample here"
+FB-7,1,dr99p5,feature,4,2032.4,1585.7,4.8,4.8,,last point; right end: where the line's ink ends
+FB-7,1,dr77,trace,1,507.1,3695.5,3.6,6.0,,left end: the line merges into the left frame; taken where its centre line meets the frame's centre line (sigma3 = 0); its own ink is clear down to v 3652 and its right edge reaches the frame's edge at v 3702
+FB-7,1,dr77,trace,2,646.0,3063.2,3.6,3.6,,sigma3 = 1 psi
+FB-7,1,dr77,trace,3,922.8,2321.0,4.4,4.4,,sigma3 = 3 psi
+FB-7,1,dr77,trace,4,1061.7,2211.5,3.8,3.8,,sigma3 = 4 psi
+FB-7,1,dr77,trace,5,1200.0,2102.1,4.4,4.4,,vertex (on the ink)
+FB-7,1,dr77,trace,6,1340.9,2043.1,3.6,3.6,,sigma3 = 6 psi
+FB-7,1,dr77,trace,7,1481.0,1983.7,3.9,3.9,,sigma3 = 7 psi
+FB-7,1,dr77,trace,8,1621.3,1925.0,4.9,4.9,,sigma3 = 8 psi
+FB-7,1,dr77,trace,9,1760.2,1866.0,3.8,3.8,,sigma3 = 9 psi
+FB-7,1,dr77,trace,10,1899.5,1808.1,4.9,4.9,,sigma3 = 10 psi
+FB-7,1,dr77,trace,11,1988.6,1770.6,4.9,4.9,,right end: where the line's ink ends
+FB-7,1,dr77,feature,1,507.1,3695.5,3.6,6.0,,first point; left end: the line merges into the left frame; taken where its centre line meets the frame's centre line (sigma3 = 0); its own ink is clear down to v 3652 and its right edge reaches the frame's edge at v 3702
+FB-7,1,dr77,feature,2,784.4,2431.3,4.0,4.0,,"vertex: intersection of the two fitted segments, hidden by the square at (786.5, 2409.0); no trace sample here"
+FB-7,1,dr77,feature,3,1200.0,2102.1,4.4,4.4,,"vertex: intersection of the two fitted segments, on the ink"
+FB-7,1,dr77,feature,4,1988.6,1770.6,4.9,4.9,,last point; right end: where the line's ink ends
+FB-7,1,dr104,feature,1,2029.0,1326.0,4.0,4.0,,"label: Dr = 1.04; legend entry: the key symbol, a square with x, is at (1806, 1314) left of the text; no polyline carries this label"
+FB-7,1,dr99p5,feature,5,2299.0,1588.5,4.0,4.0,,label: Dr = 0.995; printed just right of the end of the upper polyline; no key symbol
+FB-7,1,dr77,feature,5,2173.0,1773.5,4.0,4.0,,label: Dr = 0.77; printed just right of the end of the lower polyline; no key symbol

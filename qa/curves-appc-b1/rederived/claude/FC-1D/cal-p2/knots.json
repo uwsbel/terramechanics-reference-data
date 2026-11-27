@@ -1,0 +1,733 @@
+{
+ "across_x": [
+  0.999801,
+  -0.019929
+ ],
+ "across_y": [
+  -0.017397,
+  -0.999849
+ ],
+ "x": [
+  {
+   "value": 0.0,
+   "s0_px": 532.09,
+   "tilt": 8e-05,
+   "location_error_px": 1.33,
+   "n_anchors": 3,
+   "ink_check": {
+    "positions": 6,
+    "found": [
+     [
+      3141.1,
+      0.35
+     ],
+     [
+      3211.6,
+      0.68
+     ],
+     [
+      3282.2,
+      0.14
+     ],
+     [
+      3424.7,
+      -1.05
+     ],
+     [
+      3496.6,
+      -0.66
+     ],
+     [
+      3568.4,
+      -0.22
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.75,
+    "ink_line_offset_px": [
+     0.67,
+     -0.93
+    ],
+    "ink_scatter_px": 0.41,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 50.0,
+   "s0_px": 817.47,
+   "tilt": 0.0013,
+   "location_error_px": 0.99,
+   "n_anchors": 3,
+   "ink_check": {
+    "positions": 6,
+    "found": [
+     [
+      3141.7,
+      -0.5
+     ],
+     [
+      3212.3,
+      -0.4
+     ],
+     [
+      3282.9,
+      -0.57
+     ],
+     [
+      3425.4,
+      -0.4
+     ],
+     [
+      3497.3,
+      -0.39
+     ],
+     [
+      3569.2,
+      0.46
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.75,
+    "ink_line_offset_px": [
+     -0.74,
+     0.14
+    ],
+    "ink_scatter_px": 0.25,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 100.0,
+   "s0_px": 1112.41,
+   "tilt": 0.00182,
+   "location_error_px": 0.5,
+   "n_anchors": 3,
+   "ink_check": {
+    "positions": 6,
+    "found": [
+     [
+      3142.4,
+      -0.11
+     ],
+     [
+      3213.0,
+      -0.39
+     ],
+     [
+      3283.6,
+      -0.38
+     ],
+     [
+      3426.2,
+      -0.34
+     ],
+     [
+      3498.1,
+      -0.18
+     ],
+     [
+      3570.1,
+      -0.14
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.75,
+    "ink_line_offset_px": [
+     -0.31,
+     -0.21
+    ],
+    "ink_scatter_px": 0.11,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 150.0,
+   "s0_px": 1393.98,
+   "tilt": 0.00409,
+   "location_error_px": 0.68,
+   "n_anchors": 3,
+   "ink_check": {
+    "positions": 6,
+    "found": [
+     [
+      3143.1,
+      -0.34
+     ],
+     [
+      3213.7,
+      -0.53
+     ],
+     [
+      3284.4,
+      -0.41
+     ],
+     [
+      3427.0,
+      -0.43
+     ],
+     [
+      3498.9,
+      -0.82
+     ],
+     [
+      3570.9,
+      -0.08
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.75,
+    "ink_line_offset_px": [
+     -0.46,
+     -0.4
+    ],
+    "ink_scatter_px": 0.22,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 200.0,
+   "s0_px": 1688.83,
+   "tilt": 0.0046,
+   "location_error_px": 0.98,
+   "n_anchors": 3,
+   "ink_check": {
+    "positions": 6,
+    "found": [
+     [
+      3143.7,
+      0.86
+     ],
+     [
+      3214.4,
+      0.55
+     ],
+     [
+      3285.1,
+      -0.7
+     ],
+     [
+      3427.7,
+      -0.39
+     ],
+     [
+      3499.7,
+      -0.14
+     ],
+     [
+      3571.7,
+      0.12
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.75,
+    "ink_line_offset_px": [
+     0.51,
+     -0.42
+    ],
+    "ink_scatter_px": 0.47,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 250.0,
+   "s0_px": 1993.31,
+   "tilt": 0.0003,
+   "location_error_px": 0.51,
+   "n_anchors": 11,
+   "ink_check": {
+    "positions": 25,
+    "found": [
+     [
+      3108.0,
+      -0.25
+     ],
+     [
+      3120.5,
+      0.16
+     ],
+     [
+      3133.0,
+      0.36
+     ],
+     [
+      3170.5,
+      0.75
+     ],
+     [
+      3183.0,
+      -0.08
+     ],
+     [
+      3208.0,
+      -0.87
+     ],
+     [
+      3220.5,
+      -1.08
+     ],
+     [
+      3233.0,
+      -0.0
+     ],
+     [
+      3270.5,
+      0.1
+     ],
+     [
+      3283.0,
+      0.35
+     ],
+     [
+      3308.0,
+      0.44
+     ],
+     [
+      3320.5,
+      0.14
+     ],
+     [
+      3333.0,
+      -0.14
+     ],
+     [
+      3370.5,
+      -0.67
+     ],
+     [
+      3383.0,
+      -0.55
+     ],
+     [
+      3408.0,
+      -0.13
+     ],
+     [
+      3420.5,
+      0.12
+     ],
+     [
+      3458.0,
+      0.37
+     ],
+     [
+      3470.5,
+      0.61
+     ],
+     [
+      3483.0,
+      -0.13
+     ],
+     [
+      3508.0,
+      0.37
+     ],
+     [
+      3520.5,
+      -0.37
+     ],
+     [
+      3558.0,
+      -0.12
+     ],
+     [
+      3570.5,
+      0.13
+     ],
+     [
+      3583.0,
+      -0.12
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.95,
+    "ink_line_offset_px": [
+     -0.06,
+     0.01
+    ],
+    "ink_scatter_px": 0.43,
+    "set_aside": 0
+   }
+  }
+ ],
+ "y": [
+  {
+   "value": -100.0,
+   "s0_px": -3638.76,
+   "tilt": -0.00036,
+   "location_error_px": 0.72,
+   "n_anchors": 6,
+   "ink_check": {
+    "positions": 15,
+    "found": [
+     [
+      614.0,
+      -0.27
+     ],
+     [
+      686.5,
+      -0.57
+     ],
+     [
+      759.0,
+      0.27
+     ],
+     [
+      905.6,
+      0.18
+     ],
+     [
+      979.8,
+      -0.57
+     ],
+     [
+      1054.0,
+      -0.18
+     ],
+     [
+      1200.7,
+      -0.66
+     ],
+     [
+      1273.2,
+      -0.07
+     ],
+     [
+      1345.6,
+      -0.33
+     ],
+     [
+      1492.3,
+      0.65
+     ],
+     [
+      1566.5,
+      -0.25
+     ],
+     [
+      1640.7,
+      0.32
+     ],
+     [
+      1786.5,
+      0.18
+     ],
+     [
+      1858.1,
+      0.7
+     ],
+     [
+      1929.8,
+      -0.35
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.9,
+    "ink_line_offset_px": [
+     -0.34,
+     0.21
+    ],
+    "ink_scatter_px": 0.38,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 0.0,
+   "s0_px": -3351.46,
+   "tilt": 3e-05,
+   "location_error_px": 0.54,
+   "n_anchors": 6,
+   "ink_check": {
+    "positions": 15,
+    "found": [
+     [
+      613.2,
+      0.57
+     ],
+     [
+      685.6,
+      0.21
+     ],
+     [
+      758.0,
+      -0.75
+     ],
+     [
+      904.5,
+      -0.54
+     ],
+     [
+      978.6,
+      -0.29
+     ],
+     [
+      1052.8,
+      -0.11
+     ],
+     [
+      1199.3,
+      0.31
+     ],
+     [
+      1271.6,
+      -0.27
+     ],
+     [
+      1343.9,
+      -0.08
+     ],
+     [
+      1490.3,
+      -0.42
+     ],
+     [
+      1564.5,
+      0.84
+     ],
+     [
+      1638.6,
+      0.02
+     ],
+     [
+      1785.6,
+      0.15
+     ],
+     [
+      1858.4,
+      -0.09
+     ],
+     [
+      1931.3,
+      0.17
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.9,
+    "ink_line_offset_px": [
+     -0.15,
+     0.11
+    ],
+    "ink_scatter_px": 0.4,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 100.0,
+   "s0_px": -3069.3,
+   "tilt": 0.00032,
+   "location_error_px": 0.67,
+   "n_anchors": 6,
+   "ink_check": {
+    "positions": 15,
+    "found": [
+     [
+      612.4,
+      -0.08
+     ],
+     [
+      684.7,
+      0.83
+     ],
+     [
+      756.9,
+      0.22
+     ],
+     [
+      903.4,
+      -0.35
+     ],
+     [
+      977.5,
+      -0.08
+     ],
+     [
+      1051.6,
+      -0.16
+     ],
+     [
+      1197.9,
+      -0.62
+     ],
+     [
+      1270.1,
+      0.46
+     ],
+     [
+      1342.2,
+      0.11
+     ],
+     [
+      1488.4,
+      0.08
+     ],
+     [
+      1562.5,
+      -0.14
+     ],
+     [
+      1636.7,
+      0.54
+     ],
+     [
+      1784.8,
+      0.45
+     ],
+     [
+      1858.7,
+      0.61
+     ],
+     [
+      1932.7,
+      0.21
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.9,
+    "ink_line_offset_px": [
+     -0.03,
+     0.31
+    ],
+    "ink_scatter_px": 0.37,
+    "set_aside": 0
+   }
+  }
+ ],
+ "rejected_x": [],
+ "rejected_y": [],
+ "model": "piecewise between verified lines (D-025)",
+ "submitted_calibration": "extractions/claude/curves-appc-b1/FC-1D/cal-p2",
+ "recovered_lines": [
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2054.67",
+   "v": "3055.18",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2057.7",
+   "v": "3105.13",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2057.47",
+   "v": "3155.14",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2058.87",
+   "v": "3205.12",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2058.98",
+   "v": "3255.13",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2060.48",
+   "v": "3305.11",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2061.98",
+   "v": "3355.09",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2062.4",
+   "v": "3405.09",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2063.48",
+   "v": "3455.08",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2064.98",
+   "v": "3505.06",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  },
+  {
+   "figure_id": "FC-1D",
+   "panel": "2",
+   "reader": "claude",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2065.48",
+   "v": "3555.06",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 87% of the line, straight-line rms 0.51 px"
+  }
+ ],
+ "image": "corpus/1968-vol2/images/p0119.png"
+}

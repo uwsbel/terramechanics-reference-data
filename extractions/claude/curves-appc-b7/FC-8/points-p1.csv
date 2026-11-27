@@ -1,0 +1,21 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-8,1,rs-loose,marker,1,782.3,3347.0,2,5.5,triangle-up,centroid of the triangle reconstructed from its side and base strokes (rule 8); clean symbol below the line near the left frame
+FC-8,1,rs-loose,marker,2,955.0,3161.0,2,5.5,triangle-up,centroid from the side and base strokes; symbol sits in a gap of the fitted line (pen lifted around it)
+FC-8,1,rs-loose,marker,3,1428.9,2773.3,2,5.5,triangle-up,centroid from the side and base strokes; symbol sits in a gap of the fitted line; a stray speck right of the base (u 1449 to 1456) left out
+FC-8,1,rs-loose,marker,4,1595.3,2554.8,3,5.5,triangle-up,centroid from the side and base strokes; apex merges into the y = 3000 grid line and the right base corner into the x = 3000 grid line
+FC-8,1,rs-loose,marker,5,1849.0,2408.6,2,5.5,triangle-up,centroid from the side and base strokes; clean symbol above the line
+FC-8,1,rs-loose,marker,6,2108.3,2326.5,2,5.5,triangle-up,centroid from the side and base strokes; clean symbol below the right end of the line
+FC-8,1,rs-loose,trace,1,740.2,3332.9,3.5,7.5,,left end: the line's ink starts at the left frame (x = 0); centre extrapolated from the straight stretch u 760 to 930 since the line merges with the frame ink
+FC-8,1,rs-loose,trace,2,887.3,3216.3,0.5,7.5,,x = 500 psf; centre of the line from a local fit of 40 columns
+FC-8,1,rs-loose,trace,3,1034.5,3099.5,0.5,7.5,,x = 1000 psf; the line crosses the x = 1000 / y = 1000 grid intersection here; centre from the columns either side
+FC-8,1,rs-loose,trace,4,1179.9,2984.4,0.5,7.5,,x = 1500 psf
+FC-8,1,rs-loose,trace,5,1325.3,2869.3,0.5,7.5,,x = 2000 psf; on the x = 2000 grid line; centre from the columns either side
+FC-8,1,rs-loose,trace,6,1470.3,2754.7,0.5,7.5,,x = 2500 psf; just right of the gap around marker 3
+FC-8,1,rs-loose,trace,7,1615.2,2639.0,0.5,7.5,,x = 3000 psf; on the x = 3000 grid line; centre from the columns either side
+FC-8,1,rs-loose,trace,8,1761.5,2523.6,0.5,7.5,,x = 3500 psf
+FC-8,1,rs-loose,trace,9,1907.7,2407.2,0.5,7.5,,x = 4000 psf; on the x = 4000 grid line; centre from the columns either side
+FC-8,1,rs-loose,trace,10,2054.4,2290.6,0.5,7.5,,x = 4500 psf
+FC-8,1,rs-loose,trace,11,2104.5,2251.2,3.5,7.5,,right end: the line ends inside the y = 4000 grid line ink; u between the pen-centre end (about 2101) and the ink's last column (2107)
+FC-8,1,rs-loose,feature,1,740.2,3332.9,3.5,7.5,,first point of the line (= trace 1)
+FC-8,1,rs-loose,feature,2,2104.5,2251.2,3.5,7.5,,last point of the line (= trace 11); also the maximum of the trace
+FC-8,1,rs-loose,feature,3,740.2,3332.9,0.5,7.5,,intercept: the line reaches the normal-stress-zero axis (left frame); centre extrapolated from u 760 to 930

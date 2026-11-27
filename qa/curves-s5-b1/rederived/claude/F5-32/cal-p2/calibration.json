@@ -1,0 +1,502 @@
+{
+ "image": "packet/p0337.png",
+ "box": [
+  1496,
+  1782,
+  1791,
+  3513
+ ],
+ "made_by": "out/F5-32/helpers/build_cal.py, design 'ticks' (see the helper's docstring)",
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine, least squares on the grid intersections in affine_anchors)",
+ "ax": [
+  -3.29158913815798e-07,
+  -5.861694903871855e-05,
+  0.20575784042019005
+ ],
+ "ay": [
+  -0.2349896990600774,
+  0.002270855306563374,
+  410.2965258749913
+ ],
+ "x_per_px": 5.861787321456035e-05,
+ "y_per_px": 0.23500067116535878,
+ "rms_residual_x": 2.3150742105069572e-05,
+ "rms_residual_y": 0.07473604182553721,
+ "max_residual_x": 5.270525344650001e-05,
+ "max_residual_y": 0.12863872391380937,
+ "n_anchors": 44,
+ "x_direction": "up",
+ "y_direction": "left",
+ "vertical_lines": [
+  {
+   "y_value": 60,
+   "slope_du_dv": 0.009333165905360274,
+   "u_at_v0": 1491.780060272878,
+   "source": "detected: ink centre in 247 rows, rms 0.58 px, width 3.0 px"
+  },
+  {
+   "y_value": 40,
+   "slope_du_dv": 0.009757683942896092,
+   "u_at_v0": 1575.0786080684986,
+   "source": "detected: ink centre in 301 rows, rms 0.62 px, width 3.0 px"
+  },
+  {
+   "y_value": 20,
+   "slope_du_dv": 0.009857225932806815,
+   "u_at_v0": 1660.6946850283055,
+   "source": "detected: ink centre in 326 rows, rms 0.52 px, width 3.0 px"
+  },
+  {
+   "y_value": 0,
+   "slope_du_dv": 0.009703065179471403,
+   "u_at_v0": 1745.87040692098,
+   "source": "detected: ink centre in 404 rows, rms 0.48 px, width 3.0 px"
+  }
+ ],
+ "horizontal_lines": [
+  {
+   "x_value": 0.0,
+   "slope_dv_du": -0.008078632009778503,
+   "v_at_u0": 3514.100061330063,
+   "source": "bottom frame, solid, fitted in every 5th column; 286 ink columns, rms 0.5387339867605755 px"
+  },
+  {
+   "x_value": 0.01,
+   "slope_dv_du": -0.007490171760547032,
+   "v_at_u0": 3342.6483351908564,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 187 ink columns, rms 0.41 px"
+  },
+  {
+   "x_value": 0.02,
+   "slope_dv_du": -0.0066954041858554355,
+   "v_at_u0": 3171.1991734627045,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 86 ink columns, rms 0.42 px"
+  },
+  {
+   "x_value": 0.03,
+   "slope_dv_du": -0.006328720687102237,
+   "v_at_u0": 2999.721565598129,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 142 ink columns, rms 0.44 px"
+  },
+  {
+   "x_value": 0.04,
+   "slope_dv_du": -0.005500465729474047,
+   "v_at_u0": 2827.947222158456,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 43 ink columns, rms 0.59 px"
+  },
+  {
+   "x_value": 0.05,
+   "slope_dv_du": -0.004939943579553917,
+   "v_at_u0": 2656.126780449469,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 39 ink columns, rms 0.18 px"
+  },
+  {
+   "x_value": 0.06,
+   "slope_dv_du": -0.004985779770337549,
+   "v_at_u0": 2484.759693954318,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 59 ink columns, rms 0.49 px"
+  },
+  {
+   "x_value": 0.07,
+   "slope_dv_du": -0.004960658768541761,
+   "v_at_u0": 2314.3919010120003,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 93 ink columns, rms 0.26 px"
+  },
+  {
+   "x_value": 0.08,
+   "slope_dv_du": -0.0042760421318616855,
+   "v_at_u0": 2143.5389367342773,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 50 ink columns, rms 0.34 px"
+  },
+  {
+   "x_value": 0.09,
+   "slope_dv_du": -0.004266070487474618,
+   "v_at_u0": 1973.0067227360396,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; own tilt; 33 ink columns, rms 0.14 px"
+  },
+  {
+   "x_value": 0.1,
+   "slope_dv_du": -0.004266070487474618,
+   "v_at_u0": 1802.0261353985309,
+   "source": "dash at the right frame and the remnants of the printed line across the panels, one straight fit; tilt of the t = .09 line (too little ink to fit its own); 3 ink columns, rms 0.0 px"
+  }
+ ],
+ "ticks": {
+  "0.01": {
+   "t": 0.01,
+   "u": 2239.1,
+   "v": 3325.88,
+   "n_cols": 52,
+   "u_span": [
+    2192,
+    2266
+   ],
+   "scatter_px": 0.42
+  },
+  "0.02": {
+   "t": 0.02,
+   "u": 2237.8,
+   "v": 3156.38,
+   "n_cols": 45,
+   "u_span": [
+    2209,
+    2266
+   ],
+   "scatter_px": 0.35
+  },
+  "0.03": {
+   "t": 0.03,
+   "u": 2240.4,
+   "v": 2985.88,
+   "n_cols": 52,
+   "u_span": [
+    2209,
+    2266
+   ],
+   "scatter_px": 0.25
+  },
+  "0.04": {
+   "t": 0.04,
+   "u": 2249.9,
+   "v": 2815.66,
+   "n_cols": 32,
+   "u_span": [
+    2226,
+    2266
+   ],
+   "scatter_px": 0.43
+  },
+  "0.05": {
+   "t": 0.05,
+   "u": 2249.8,
+   "v": 2644.95,
+   "n_cols": 29,
+   "u_span": [
+    2231,
+    2266
+   ],
+   "scatter_px": 0.32
+  },
+  "0.06": {
+   "t": 0.06,
+   "u": 2241.4,
+   "v": 2473.56,
+   "n_cols": 43,
+   "u_span": [
+    2192,
+    2266
+   ],
+   "scatter_px": 0.59
+  },
+  "0.07": {
+   "t": 0.07,
+   "u": 2242.3,
+   "v": 2303.34,
+   "n_cols": 45,
+   "u_span": [
+    2211,
+    2266
+   ],
+   "scatter_px": 0.21
+  },
+  "0.08": {
+   "t": 0.08,
+   "u": 2250.6,
+   "v": 2134.0,
+   "n_cols": 13,
+   "u_span": [
+    2240,
+    2266
+   ],
+   "scatter_px": 0.07
+  },
+  "0.09": {
+   "t": 0.09,
+   "u": 2236.4,
+   "v": 1963.5,
+   "n_cols": 20,
+   "u_span": [
+    2214,
+    2266
+   ],
+   "scatter_px": 0.15
+  },
+  "0.1": {
+   "t": 0.1,
+   "u": 2233.0,
+   "v": 1792.5,
+   "n_cols": 3,
+   "u_span": [
+    2232,
+    2234
+   ],
+   "scatter_px": 0.01
+  }
+ },
+ "affine_anchors": [
+  {
+   "x_value": 0.0,
+   "y_value": 60,
+   "u": 1524.46,
+   "v": 3501.78
+  },
+  {
+   "x_value": 0.0,
+   "y_value": 40,
+   "u": 1609.24,
+   "v": 3501.1
+  },
+  {
+   "x_value": 0.0,
+   "y_value": 20,
+   "u": 1695.2,
+   "v": 3500.41
+  },
+  {
+   "x_value": 0.0,
+   "y_value": 0,
+   "u": 1779.83,
+   "v": 3499.72
+  },
+  {
+   "x_value": 0.01,
+   "y_value": 60,
+   "u": 1522.87,
+   "v": 3331.24
+  },
+  {
+   "x_value": 0.01,
+   "y_value": 40,
+   "u": 1607.58,
+   "v": 3330.61
+  },
+  {
+   "x_value": 0.01,
+   "y_value": 20,
+   "u": 1693.52,
+   "v": 3329.96
+  },
+  {
+   "x_value": 0.01,
+   "y_value": 0,
+   "u": 1778.18,
+   "v": 3329.33
+  },
+  {
+   "x_value": 0.02,
+   "y_value": 60,
+   "u": 1521.28,
+   "v": 3161.01
+  },
+  {
+   "x_value": 0.02,
+   "y_value": 40,
+   "u": 1605.92,
+   "v": 3160.45
+  },
+  {
+   "x_value": 0.02,
+   "y_value": 20,
+   "u": 1691.84,
+   "v": 3159.87
+  },
+  {
+   "x_value": 0.02,
+   "y_value": 0,
+   "u": 1776.53,
+   "v": 3159.3
+  },
+  {
+   "x_value": 0.03,
+   "y_value": 60,
+   "u": 1519.69,
+   "v": 2990.1
+  },
+  {
+   "x_value": 0.03,
+   "y_value": 40,
+   "u": 1604.25,
+   "v": 2989.57
+  },
+  {
+   "x_value": 0.03,
+   "y_value": 20,
+   "u": 1690.16,
+   "v": 2989.03
+  },
+  {
+   "x_value": 0.03,
+   "y_value": 0,
+   "u": 1774.87,
+   "v": 2988.49
+  },
+  {
+   "x_value": 0.04,
+   "y_value": 60,
+   "u": 1518.1,
+   "v": 2819.6
+  },
+  {
+   "x_value": 0.04,
+   "y_value": 40,
+   "u": 1602.59,
+   "v": 2819.13
+  },
+  {
+   "x_value": 0.04,
+   "y_value": 20,
+   "u": 1688.48,
+   "v": 2818.66
+  },
+  {
+   "x_value": 0.04,
+   "y_value": 0,
+   "u": 1773.22,
+   "v": 2818.19
+  },
+  {
+   "x_value": 0.05,
+   "y_value": 60,
+   "u": 1516.5,
+   "v": 2648.64
+  },
+  {
+   "x_value": 0.05,
+   "y_value": 40,
+   "u": 1600.92,
+   "v": 2648.22
+  },
+  {
+   "x_value": 0.05,
+   "y_value": 20,
+   "u": 1686.79,
+   "v": 2647.79
+  },
+  {
+   "x_value": 0.05,
+   "y_value": 0,
+   "u": 1771.56,
+   "v": 2647.38
+  },
+  {
+   "x_value": 0.06,
+   "y_value": 60,
+   "u": 1514.9,
+   "v": 2477.21
+  },
+  {
+   "x_value": 0.06,
+   "y_value": 40,
+   "u": 1599.25,
+   "v": 2476.79
+  },
+  {
+   "x_value": 0.06,
+   "y_value": 20,
+   "u": 1685.1,
+   "v": 2476.36
+  },
+  {
+   "x_value": 0.06,
+   "y_value": 0,
+   "u": 1769.89,
+   "v": 2475.94
+  },
+  {
+   "x_value": 0.07,
+   "y_value": 60,
+   "u": 1513.31,
+   "v": 2306.88
+  },
+  {
+   "x_value": 0.07,
+   "y_value": 40,
+   "u": 1597.58,
+   "v": 2306.47
+  },
+  {
+   "x_value": 0.07,
+   "y_value": 20,
+   "u": 1683.43,
+   "v": 2306.04
+  },
+  {
+   "x_value": 0.07,
+   "y_value": 0,
+   "u": 1768.24,
+   "v": 2305.62
+  },
+  {
+   "x_value": 0.08,
+   "y_value": 60,
+   "u": 1511.73,
+   "v": 2137.07
+  },
+  {
+   "x_value": 0.08,
+   "y_value": 40,
+   "u": 1595.93,
+   "v": 2136.71
+  },
+  {
+   "x_value": 0.08,
+   "y_value": 20,
+   "u": 1681.75,
+   "v": 2136.35
+  },
+  {
+   "x_value": 0.08,
+   "y_value": 0,
+   "u": 1766.6,
+   "v": 2135.98
+  },
+  {
+   "x_value": 0.09,
+   "y_value": 60,
+   "u": 1510.13,
+   "v": 1966.56
+  },
+  {
+   "x_value": 0.09,
+   "y_value": 40,
+   "u": 1594.26,
+   "v": 1966.21
+  },
+  {
+   "x_value": 0.09,
+   "y_value": 20,
+   "u": 1680.07,
+   "v": 1965.84
+  },
+  {
+   "x_value": 0.09,
+   "y_value": 0,
+   "u": 1764.94,
+   "v": 1965.48
+  },
+  {
+   "x_value": 0.1,
+   "y_value": 60,
+   "u": 1508.54,
+   "v": 1795.59
+  },
+  {
+   "x_value": 0.1,
+   "y_value": 40,
+   "u": 1592.6,
+   "v": 1795.23
+  },
+  {
+   "x_value": 0.1,
+   "y_value": 20,
+   "u": 1678.39,
+   "v": 1794.87
+  },
+  {
+   "x_value": 0.1,
+   "y_value": 0,
+   "u": 1763.28,
+   "v": 1794.5
+  }
+ ]
+}

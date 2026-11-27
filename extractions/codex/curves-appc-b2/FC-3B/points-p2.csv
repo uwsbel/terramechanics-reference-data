@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-3B,2,n4695,marker,1,684,3330,10,10,plus,Plus on left frame; any coincident circle cannot be separated.
+FC-3B,2,n4695,marker,2,805,3373,2,2,plus,
+FC-3B,2,n4695,marker,3,923,3378,2,2,plus,
+FC-3B,2,n4695,marker,4,1040,3388,2,2,plus,
+FC-3B,2,n4695,marker,5,1148,3396,2,2,plus,
+FC-3B,2,n4695,marker,6,1275,3399,7,7,plus,Plus on vertical grid.
+FC-3B,2,n4695,marker,7,1385,3409,2,2,plus,
+FC-3B,2,n4695,marker,8,1502,3405,2,2,plus,
+FC-3B,2,n4695,marker,9,1620,3407,2,2,plus,
+FC-3B,2,n4695,marker,10,1739,3411,2,2,plus,
+FC-3B,2,n4695,marker,11,1851,3410,7,7,plus,Plus on vertical grid.
+FC-3B,2,n4695,marker,12,1970,3408,2,2,plus,
+FC-3B,2,n4695,marker,13,2143,3407,10,10,plus,Plus on right frame.
+FC-3B,2,n3815,marker,1,806.5,3337.5,2,2,circle,
+FC-3B,2,n3815,marker,2,925.0,3337.5,2,2,circle,
+FC-3B,2,n3815,marker,3,1038.5,3354.5,2,2,circle,
+FC-3B,2,n3815,marker,4,1150.0,3364.0,2,2,circle,
+FC-3B,2,n3815,marker,5,1267,3374,8,8,circle,Circle on vertical grid.
+FC-3B,2,n3815,marker,6,1384.0,3375.5,2,2,circle,
+FC-3B,2,n3815,marker,7,1499.0,3374.0,2,2,circle,
+FC-3B,2,n3815,marker,8,1616.5,3367.5,2,2,circle,
+FC-3B,2,n3815,marker,9,1737.5,3367.5,2,2,circle,
+FC-3B,2,n3815,marker,10,1854,3369,8,8,circle,Circle on vertical grid.
+FC-3B,2,n3815,marker,11,1966.5,3364.5,2,2,circle,
+FC-3B,2,n3815,marker,12,2143,3365,10,10,circle,Circle on right frame.
+FC-3B,2,n2934,marker,1,684,3230,10,10,triangle-down,Triangle on left frame.
+FC-3B,2,n2934,marker,2,805.5,3278.0,2,2,triangle-down,
+FC-3B,2,n2934,marker,3,916.5,3290.5,2,2,triangle-down,
+FC-3B,2,n2934,marker,4,1043.5,3300.0,2,2,triangle-down,
+FC-3B,2,n2934,marker,5,1156.5,3306.5,2,2,triangle-down,
+FC-3B,2,n2934,marker,6,1269,3315,8,8,triangle-down,Triangle on vertical grid.
+FC-3B,2,n2934,marker,7,1394.5,3319.5,2,2,triangle-down,
+FC-3B,2,n2934,marker,8,1502.5,3318.0,2,2,triangle-down,
+FC-3B,2,n2934,marker,9,1620.5,3324.5,2,2,triangle-down,
+FC-3B,2,n2934,marker,10,1737.0,3318.5,2,2,triangle-down,
+FC-3B,2,n2934,marker,11,1851,3319,8,8,triangle-down,Triangle on vertical grid.
+FC-3B,2,n2934,marker,12,1975.0,3312.0,2,2,triangle-down,
+FC-3B,2,n2934,marker,13,2143,3317,10,10,triangle-down,Triangle on right frame.
+FC-3B,2,n1761,marker,1,684,3159,10,10,square,Square on frame and close to triangle-up.
+FC-3B,2,n1761,marker,2,805.0,3191.0,2,2,square,
+FC-3B,2,n1761,marker,3,919.5,3208.5,2,2,square,
+FC-3B,2,n1761,marker,4,1034.5,3218.0,2,2,square,
+FC-3B,2,n1761,marker,5,1149,3216,5,5,square,Square incomplete right/left strokes.
+FC-3B,2,n1761,marker,6,1266,3211,7,7,square,Square on vertical grid.
+FC-3B,2,n1761,marker,7,1380.5,3213.5,2,2,square,
+FC-3B,2,n1761,marker,8,1496.5,3212.5,2,2,square,
+FC-3B,2,n1761,marker,9,1609.5,3214.5,2,2,square,
+FC-3B,2,n1761,marker,10,1729.5,3215.5,2,2,square,
+FC-3B,2,n1761,marker,11,1842,3216,8,8,square,Square overlaps vertical grid; only three sides clear.
+FC-3B,2,n1761,marker,12,1963.0,3208.5,2,2,square,
+FC-3B,2,n1761,marker,13,2129.0,3198.0,2,2,square,
+FC-3B,2,n734,marker,1,684,3137,10,10,triangle-up,Triangle on left frame and close to square.
+FC-3B,2,n734,marker,2,805.0,3155.0,2,2,triangle-up,
+FC-3B,2,n734,marker,3,929.0,3164.5,2,2,triangle-up,
+FC-3B,2,n734,marker,4,1035.5,3169.5,2,2,triangle-up,
+FC-3B,2,n734,marker,5,1149.5,3162.5,2,2,triangle-up,
+FC-3B,2,n734,marker,6,1269,3164,8,8,triangle-up,Triangle on vertical grid.
+FC-3B,2,n734,marker,7,1391.5,3157.5,2,2,triangle-up,
+FC-3B,2,n734,marker,8,1503.5,3151.5,2,2,triangle-up,
+FC-3B,2,n734,marker,9,1626.0,3143.5,2,2,triangle-up,
+FC-3B,2,n734,marker,10,1742.0,3139.5,2,2,triangle-up,
+FC-3B,2,n734,marker,11,1852,3129,8,8,triangle-up,Triangle on vertical grid.
+FC-3B,2,n734,marker,12,1966.5,3116.0,2,2,triangle-up,
+FC-3B,2,n734,marker,13,2143,3101,10,10,triangle-up,Triangle on right frame.

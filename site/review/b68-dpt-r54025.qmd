@@ -1,0 +1,100 @@
+---
+title: "b68-dpt-r54025: provenance"
+---
+Provenance and review record of [b68-dpt-r54025](../experiments/b68-dpt-r54025.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 100 points recovered, agreed 91, one-sided 2, one-sided-verified 6, resolved 1 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 13, merged 1, normalized 1, one-sided-cell 1 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+100 points (from F2-54) read by two readings made separately and reconciled (batch `curves-s2-b4`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay F2-54-p1](../img/overlays/F2-54-p1.png){.lightbox}
+
+![Overlay F2-54-p2](../img/overlays/F2-54-p2.png){.lightbox}
+
+![Overlay F2-54-p3](../img/overlays/F2-54-p3.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 (F2-54 panel 2) | time (s, from ms) | deceleration (m_s2, from g) | 100 |
+Panel 1: The figure prints no time origin: time is counted from the timing line that carries the three deceleration rulers (0 ms), so only differences of time are measured; the timing lines are 10 ms apart (the figure's 0.01 s bar). Deceleration is in g as printed (G's), positive upward, converted with standard gravity; 0 g is each ruler's printed zero, not the dashed line drawn about 0.7 to 1.0 g above it. Samples are in drawing order and may share a time on a steep flank.
+
+
+Points by status: [agreed]{.status .status-agreed} 91, [one-sided]{.status .status-one-sided} 2, [one-sided-verified]{.status .status-one-sided-verified} 6, [resolved]{.status .status-resolved} 1; by kind: `feature` 11, `trace` 89.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 205 | 0.439 / 0.713 | 0.0531 / 0.0952 |
+| claude | cal-p2 | 267 | 0.444 / 0.712 | 0.134 / 0.423 |
+| claude | cal-p3 | 600 | 0.407 / 0.685 | 0.109 / 0.231 |
+| codex | cal-p1 | 202 | 0.434 / 0.667 | 0.198 / 0.538 |
+| codex | cal-p2 | 198 | 0.434 / 0.684 | 0.254 / 1.18 |
+| codex | cal-p3 | 406 | 0.404 / 0.626 | 0.225 / 0.895 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-dpt-r54025/observations.csv), [series.json](../files/data/experiments/b68-dpt-r54025/series.json) (repository paths `data/experiments/b68-dpt-r54025/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | RS-Intermediate |
+| Dr | *not reported* |
+| unit weight, pcf | 44.1 |
+| Gp, g | *not reported* |
+| tool | 2-3/4 inch ; full radius nose |
+| bin, inches | 2 ft box |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [normalized]{.status .status-normalized} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [one-sided-cell]{.status .status-one-sided-cell} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | DPT 1.59 lb 2-3/4 inch body dropped 25.4 inch | Bendix DPT; CEC accelerometer; fiberglass guide tube |
+| loading | dynamic penetration (free drop) | free fall; 1.59 lbs.; 25.4 inches drop |
+| state_printed | RS Intermediate 44.1 pcf | RS-Intermediate |
+| test_label_printed | DPT record 54025 | Record No. 54025 |
+
+## Notes from the two readings
+
+- Claude: Scale 0 to 30 g
+- Codex: Bin label retained in feet as printed; other bin dimensions missing. Impact velocity not printed; .01 sec. scale bar.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

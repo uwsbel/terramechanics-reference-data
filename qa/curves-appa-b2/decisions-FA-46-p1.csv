@@ -1,0 +1,20 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,average,feature,3,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 268 (Claude's adjudicator: q; Codex's: q))
+1,average,feature,4,codex,resolved,,both readings are on the feature; the difference is within its size (blind adjudication item 269 (Claude's adjudicator: both; Codex's: both))
+1,average,marker,11,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 280 (Claude's adjudicator: no; Codex's: no): at v 2744-2752 the band is only the ~12 px solid line (u 2164-2175) in a dash gap, white on the left at the mark; a circle would show"
+1,lower,feature,3,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 287 (Claude's adjudicator: p; Codex's: p))
+1,lower,marker,4,codex,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 292 (Claude's adjudicator: no; Codex's: no): mark in white just right of the main stroke; no ring arc
+1,lower,marker,6,codex,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 294 (Claude's adjudicator: no; Codex's: no): at v 2313 the band is only the ~10 px solid line (u 2158-2167) in a dash gap; mark in the white between it and the frame; no circle
+1,lower,trace,50,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 296 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,feature,2,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 297 (Claude's adjudicator: p; Codex's: p))
+1,upper,feature,3,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 298 (Claude's adjudicator: p; Codex's: p))
+1,upper,feature,4,codex,resolved,,both readings are on the feature; the difference is within its size (blind adjudication item 299 (Claude's adjudicator: both; Codex's: both))
+1,upper,marker,2,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 301 (Claude's adjudicator: no; Codex's: no): mark at the band's lower-left boundary; white within 3-8 px on the left (u 1772-1787, v 1862-1876) where a circle would show; none"
+1,upper,marker,4,codex,excluded,,not on the ink of this test (both adjudicators); blind adjudication item 303 (Claude's adjudicator: no; Codex's: no): mark beside the uninterrupted white sliver between the narrow upper dash and the main stroke; no circle
+1,upper,trace,32,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 304 (Claude's adjudicator: p; Codex's: p))
+1,upper,trace,33,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 305 (Claude's adjudicator: p; Codex's: p))
+1,upper,trace,34,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 306 (Claude's adjudicator: q; Codex's: q))
+1,upper,trace,47,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 055 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,48,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 055 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,49,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 055 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lower,feature,4,codex,resolved,claude,second round: the claude reading is on the feature; credit claude (blind adjudication item 052 (Claude's adjudicator: q; Codex's: both))

@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-12,1,rc2-loose,marker,1,630.0,3665.1,3,6,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.7 px; apex and upper left side lie under the drawn line, which touches the symbol; left side taken as the mirror of the right side about the base midpoint (the other symbols are isosceles)",157.696,227.38,12.306,22.148,piecewise
+FC-12,1,rc2-loose,marker,2,808.3,3502.1,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.8 px; sits in a gap of the drawn line",764.069,775.696,8.764,20.633,piecewise
+FC-12,1,rc2-loose,marker,3,1100.2,3162.9,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 30.3 px; apex touches the y = 2000 grid line",1773.033,1931.987,9.58,21.181,piecewise
+FC-12,1,rc2-loose,marker,4,1265.5,3035.7,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 32.5 px; sits in a gap of the drawn line",2343.652,2368.15,9.37,21.085,piecewise
+FC-12,1,rc2-loose,marker,5,1435.1,2917.3,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.0 px; sits in a gap of the drawn line; right base corner touches the x = 3000 grid line",2926.916,2774.455,8.829,20.966,piecewise
+FC-12,1,rc2-loose,marker,6,1695.0,2646.4,3,6,triangle-up,"centroid of the reconstructed triangle (edge method), height 27.2 px; lower right side covered by the start of the next dash; right side taken as the mirror of the left side about the base midpoint",3813.792,3710.192,12.682,23.062,piecewise
+FC-12,1,rc2-loose,marker,7,1864.9,2509.6,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 28.1 px; sits in a gap of the drawn line",4396.17,4185.711,9.609,21.501,piecewise
+FC-12,1,rc2-loose,marker,8,1948.1,2405.5,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 28.4 px; the drawn line ends in its base; base centre read on the clean right part of the base",4682.22,4548.148,9.707,21.435,piecewise
+FC-12,1,rc2-loose,trace,1,583.5,3685.4,4.5,9.5,,"the line runs into the left frame (x = 0 line); its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width",-0.368,158.624,17.517,33.853,piecewise extrapolated x
+FC-12,1,rc2-loose,trace,2,730.6,3550.0,5.5,5.5,,at x = 500 psf,499.869,614.034,20.723,20.651,piecewise
+FC-12,1,rc2-loose,trace,3,877.6,3415.5,5.5,5.5,,"at x = 1000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)",999.856,1067.778,21.054,21.161,piecewise
+FC-12,1,rc2-loose,trace,4,1021.6,3282.1,5.5,5.5,,at x = 1500 psf,1499.975,1524.763,21.496,21.208,piecewise
+FC-12,1,rc2-loose,trace,5,1165.6,3148.6,5.5,5.5,,"at x = 2000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)",1999.994,1981.957,21.897,21.254,piecewise
+FC-12,1,rc2-loose,trace,6,1311.0,3012.6,5.5,5.5,,at x = 2500 psf,2500.107,2447.669,21.267,21.132,piecewise
+FC-12,1,rc2-loose,trace,7,1456.3,2878.9,5.5,5.5,,"at x = 3000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)",2999.882,2905.554,20.803,20.998,piecewise
+FC-12,1,rc2-loose,trace,8,1603.0,2741.6,5.5,5.5,,at x = 3500 psf,3500.057,3380.456,20.978,21.317,piecewise
+FC-12,1,rc2-loose,trace,9,1749.6,2604.1,5.5,5.5,,"at x = 4000 psf, on a vertical grid line crossing: centre from clean columns either side",3999.96,3856.896,21.496,21.414,piecewise
+FC-12,1,rc2-loose,trace,10,1895.1,2468.0,5.5,5.5,,at x = 4500 psf,4500.008,4330.512,21.667,21.534,piecewise
+FC-12,1,rc2-loose,trace,11,1948.5,2417.0,4.5,9.5,,"the line runs into the base of the last triangle; its end is hidden in the base stroke (the triangle's hole stays white, so it ends before u 1952)",4683.555,4508.274,18.309,35.357,piecewise
+FC-12,1,rc2-loose,feature,1,583.5,3685.4,4.5,9.5,,"first point of the line: the line runs into the left frame (x = 0 line); its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width",-0.368,158.624,17.517,33.853,piecewise extrapolated x
+FC-12,1,rc2-loose,feature,2,1948.5,2417.0,4.5,9.5,,"last point of the line: the line runs into the base of the last triangle; its end is hidden in the base stroke (the triangle's hole stays white, so it ends before u 1952)",4683.555,4508.274,18.309,35.357,piecewise
+FC-12,1,rc2-loose,feature,3,583.5,3685.4,1,5.5,,intercept: the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line,-0.368,158.624,5.566,20.414,piecewise extrapolated x

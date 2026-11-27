@@ -1,0 +1,304 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-4C,1,n4695,marker,1,806.5,1775.5,2,2,plus,,7.5207,4909.5,0.5227,21.339,piecewise
+FC-4C,1,n4695,marker,2,863.5,1690.0,2,2,plus,,17.387,5486.366,0.5062,20.483,piecewise
+FC-4C,1,n4695,marker,3,928.4,1540.4,2,2,plus,,28.6968,6504.807,0.4873,21.551,piecewise
+FC-4C,1,n4695,marker,4,984.6,1466.0,3,3,plus,plus overlapping the n3815 peak circle and the drawn lines,38.4097,7014.924,0.6437,29.965,piecewise
+FC-4C,1,n4695,marker,5,1095.0,1453.4,2,2,plus,,57.2315,7098.631,0.4487,23.288,piecewise
+FC-4C,1,n4695,marker,6,1185.5,1547.4,3,3,plus,plus partly on the n4695 drawn line,72.4269,6449.704,0.623,28.319,piecewise
+FC-4C,1,n4695,marker,7,1330.9,1632.1,2,2,plus,,96.9348,5865.464,0.4576,19.914,piecewise
+FC-4C,1,n4695,marker,8,1449.0,1687.5,2,2,plus,,117.1904,5487.693,0.4778,20.473,piecewise
+FC-4C,1,n4695,marker,9,1624.6,1739.5,3,3,plus,plus on the 150 gridline,147.4415,5131.457,0.6703,27.796,piecewise
+FC-4C,1,n4695,marker,10,1743.0,1745.9,2,2,plus,,167.7863,5085.072,0.473,21.065,piecewise
+FC-4C,1,n4695,marker,11,1860.5,1767.0,2,2,plus,plus just below the drawn plateau; read by eye at zoom 10,187.943,4939.349,0.4479,21.28,piecewise
+FC-4C,1,n4695,marker,12,2014.0,1726.4,2,2,plus,,214.6832,5209.741,0.4545,20.877,piecewise
+FC-4C,1,n4695,marker,13,2226.5,1743.0,2,3,plus,plus on the 250 gridline (right end of the data); horizontal stroke merged with the drawn plateau; read by eye,251.9611,5091.949,0.4962,27.816,piecewise extrapolated x
+FC-4C,1,n3815,marker,1,814.8,1842.9,2,2,circle,,8.8404,4453.343,0.5205,22.016,piecewise
+FC-4C,1,n3815,marker,2,862.2,1621.1,3,3,circle,circle on the 6000 gridline,17.2657,5952.471,0.6791,26.593,piecewise
+FC-4C,1,n3815,marker,3,923.7,1498.0,2,2,circle,,27.9556,6796.5,0.4885,22.403,piecewise
+FC-4C,1,n3815,marker,4,976.2,1440.8,2,2,circle,,37.011,7188.444,0.4734,23.548,piecewise
+FC-4C,1,n3815,marker,5,1036.4,1499.9,2,2,circle,,47.2123,6780.407,0.4563,22.357,piecewise
+FC-4C,1,n3815,marker,6,1095.6,1674.8,2,2,circle,,57.0121,5582.992,0.4486,20.337,piecewise
+FC-4C,1,n3815,marker,7,1156.4,1736.7,2,2,circle,,67.2216,5162.737,0.4509,20.959,piecewise
+FC-4C,1,n3815,marker,8,1213.6,1800.9,2,2,circle,,76.8174,4727.056,0.4531,21.604,piecewise
+FC-4C,1,n3815,marker,9,1278.0,1867.0,3,3,circle,"ring open on its right side (broken circle); centre read from the left arc, top and bottom",87.6293,4278.376,0.6264,29.066,piecewise
+FC-4C,1,n3815,marker,10,1448.3,1922.6,2,2,circle,,116.7152,3894.679,0.4775,23.182,piecewise
+FC-4C,1,n3815,marker,11,1595.9,1954.1,2,2,circle,,142.1586,3670.802,0.4927,22.609,piecewise
+FC-4C,1,n3815,marker,12,1683.6,1984.8,2,2,circle,,157.2247,3454.115,0.4865,22.055,piecewise
+FC-4C,1,n3815,marker,13,1802.1,1986.2,2,2,circle,,177.5945,3441.252,0.4611,22.021,piecewise
+FC-4C,1,n3815,marker,14,1917.4,2006.3,3,3,circle,circle on the 200 gridline,197.3887,3297.905,0.6099,28.68,piecewise
+FC-4C,1,n3815,marker,15,2035.9,2011.3,2,2,circle,,218.1272,3259.922,0.4574,21.555,piecewise
+FC-4C,1,n3815,marker,16,2209.8,2010.4,3,3,circle,circle on the 250 gridline,248.6531,3261.697,0.6605,28.582,piecewise
+FC-4C,1,n2934,marker,1,816.6,2013.5,2,2,triangle-up,,8.8982,3276.18,0.5205,21.614,piecewise
+FC-4C,1,n2934,marker,2,870.9,1852.4,2,2,triangle-up,,18.4139,4387.629,0.5045,22.112,piecewise
+FC-4C,1,n2934,marker,3,927.9,1769.7,2,2,triangle-up,,28.2761,4945.55,0.488,21.284,piecewise
+FC-4C,1,n2934,marker,4,981.1,1731.5,2,2,triangle-up,,37.4236,5202.535,0.4727,20.902,piecewise
+FC-4C,1,n2934,marker,5,1043.5,1649.2,3,3,triangle-up,triangle on the 50 gridline,48.2077,5757.53,0.6273,26.879,piecewise
+FC-4C,1,n2934,marker,6,1157.6,1690.7,2,2,triangle-up,,67.4918,5473.806,0.451,20.498,piecewise
+FC-4C,1,n2934,marker,7,1276.5,1742.3,2,2,triangle-up,,87.5578,5121.698,0.4555,21.018,piecewise
+FC-4C,1,n2934,marker,8,1391.1,1834.2,2,2,triangle-up,,106.9693,4497.254,0.4716,21.942,piecewise
+FC-4C,1,n2934,marker,9,1507.6,1873.7,2,2,triangle-up,,127.0305,4227.159,0.4837,22.341,piecewise
+FC-4C,1,n2934,marker,10,1625.5,1910.0,3,3,triangle-up,triangle on the 4000 gridline and against the 150 gridline; centroid from apex and base corners read by eye,147.3377,3978.006,0.6702,30.265,piecewise
+FC-4C,1,n2934,marker,11,1740.8,1955.1,2,2,triangle-up,,167.1018,3660.024,0.4741,22.579,piecewise
+FC-4C,1,n2934,marker,12,1918.3,1985.6,2,2,triangle-up,,197.572,3442.416,0.4361,22.022,piecewise
+FC-4C,1,n2934,marker,13,2148.7,2041.6,2,2,triangle-up,,237.8844,3045.465,0.4742,21.007,piecewise
+FC-4C,1,n2934,marker,14,2207.5,2066.0,3,3,triangle-up,triangle whose right side is hidden by the 250 gridline; right corner taken by symmetry,248.1711,2873.613,0.6601,27.593,piecewise
+FC-4C,1,n1761,marker,1,819.1,2169.6,2,2,square,,9.0968,2185.395,0.5201,18.832,piecewise
+FC-4C,1,n1761,marker,2,867.3,2033.3,2,2,square,,17.5339,3136.519,0.506,21.257,piecewise
+FC-4C,1,n1761,marker,3,931.3,1948.1,2,2,square,,28.5962,3730.14,0.4875,22.77,piecewise
+FC-4C,1,n1761,marker,4,989.1,1897.6,2,2,square,,38.5481,4078.847,0.4708,22.569,piecewise
+FC-4C,1,n1761,marker,5,1044.7,1867.4,2,2,square,,48.0942,4281.683,0.4549,22.267,piecewise
+FC-4C,1,n1761,marker,6,1102.0,1850.0,2,2,square,drawn line passes through the square; centre from the four sides read by eye,57.8421,4397.888,0.4488,22.094,piecewise
+FC-4C,1,n1761,marker,7,1161.8,1867.0,2,2,square,,67.9467,4281.37,0.4511,22.266,piecewise
+FC-4C,1,n1761,marker,8,1220.7,1923.4,2,2,square,,77.8412,3895.087,0.4533,23.186,piecewise
+FC-4C,1,n1761,marker,9,1339.2,2012.3,2,2,square,,97.7823,3271.004,0.4577,21.594,piecewise
+FC-4C,1,n1761,marker,10,1455.5,2071.0,2,2,square,square outline open at the bottom; centre from the sides read by eye,117.7351,2858.002,0.478,20.539,piecewise
+FC-4C,1,n1761,marker,11,1631.5,2124.2,3,3,square,square touching the 150 gridline,148.048,2481.956,0.6706,26.605,piecewise
+FC-4C,1,n1761,marker,12,1749.5,2144.7,2,2,square,,168.3199,2335.803,0.4728,19.204,piecewise
+FC-4C,1,n1761,marker,13,1915.2,2160.1,3,3,square,square on the 200 gridline,196.7978,2224.079,0.6109,25.943,piecewise
+FC-4C,1,n1761,marker,14,2219.0,2160.5,3,3,square,square cut by the 250 gridline; centre from the left and right sides read by eye,250.0566,2213.617,0.6642,25.911,piecewise extrapolated x
+FC-4C,1,n741,marker,1,816.9,2311.0,2,2,triangle-down,,8.5136,1218.049,0.5211,17.876,piecewise
+FC-4C,1,n741,marker,2,872.8,2204.9,3,3,triangle-down,triangle-down on the 2000 gridline,18.2227,1939.004,0.6775,24.677,piecewise
+FC-4C,1,n741,marker,3,931.2,2162.0,2,2,triangle-down,,28.2663,2235.665,0.4881,18.959,piecewise
+FC-4C,1,n741,marker,4,989.1,2111.8,2,2,triangle-down,,38.2351,2584.926,0.4714,19.849,piecewise
+FC-4C,1,n741,marker,5,1045.5,2106.2,3,3,triangle-down,triangle-down on the 50 gridline,47.8823,2622.611,0.6279,26.974,piecewise
+FC-4C,1,n741,marker,6,1103.3,2147.0,2,2,triangle-down,,57.6316,2336.107,0.4487,19.213,piecewise
+FC-4C,1,n741,marker,7,1169.2,2217.4,2,2,triangle-down,,68.6902,1846.701,0.4512,17.844,piecewise
+FC-4C,1,n741,marker,8,1227.9,2260.5,2,2,triangle-down,,78.5686,1551.973,0.4534,17.855,piecewise
+FC-4C,1,n741,marker,9,1286.7,2289.2,2,2,triangle-down,,88.4847,1355.266,0.4556,17.862,piecewise
+FC-4C,1,n741,marker,10,1343.9,2308.9,2,2,triangle-down,,98.1427,1219.858,0.4578,17.867,piecewise
+FC-4C,1,n741,marker,11,1399.1,2320.4,2,2,triangle-down,,107.6206,1140.305,0.4719,17.869,piecewise
+FC-4C,1,n741,marker,12,1461.3,2333.5,2,2,triangle-down,,118.3411,1049.711,0.4783,17.872,piecewise
+FC-4C,1,n741,marker,13,1515.3,2347.9,2,2,triangle-down,,127.6435,950.476,0.4839,17.875,piecewise
+FC-4C,1,n741,marker,14,1631.9,2355.4,2,2,triangle-down,,147.7655,896.729,0.496,17.875,piecewise
+FC-4C,1,n741,marker,15,1751.5,2362.9,2,2,triangle-down,,168.3444,842.924,0.4731,17.875,piecewise
+FC-4C,1,n741,marker,16,1863.6,2371.5,2,2,triangle-down,,187.6246,781.826,0.449,17.876,piecewise
+FC-4C,1,n741,marker,17,2036.7,2376.7,2,2,triangle-down,,217.7545,742.447,0.4571,17.875,piecewise
+FC-4C,1,n741,marker,18,2211.0,2374.0,3,3,triangle-down,triangle-down whose right corner is hidden by the 250 gridline; corner taken by symmetry,248.3518,756.762,0.6602,24.693,piecewise
+FC-4C,1,n4695,trace,1,880.6,1636.0,2,11,,"drawn line sampled near x=22.5; thick run (21 px: steep segment, or line over a symbol or gridline)",20.3883,5851.186,0.5144,80.911,piecewise
+FC-4C,1,n4695,trace,2,913.1,1564.5,2,8,,"drawn line sampled near x=27.5; thick run (16 px: steep segment, or line over a symbol or gridline)",26.0469,6339.497,0.5005,62.448,piecewise
+FC-4C,1,n4695,trace,3,1009.4,1430.5,2,6,,drawn line sampled near x=42.5,42.6996,7258.394,0.4697,51.341,piecewise
+FC-4C,1,n4695,trace,4,1038.4,1424.5,2,6,,drawn line sampled near x=47.5,47.6642,7298.888,0.4614,51.46,piecewise
+FC-4C,1,n4695,trace,5,1067.6,1435.5,2,7,,drawn line sampled near x=52.5,52.6154,7222.464,0.455,58.135,piecewise
+FC-4C,1,n4695,trace,6,1110.9,1477.0,2,8,,drawn line sampled near x=57.5,59.891,6935.899,0.458,64.198,piecewise
+FC-4C,1,n4695,trace,7,1126.3,1489.5,2,8,,"drawn line sampled near x=62.5; thick run (16 px: steep segment, or line over a symbol or gridline)",62.4819,6849.518,0.4586,63.946,piecewise
+FC-4C,1,n4695,trace,8,1155.6,1516.0,2,8,,drawn line sampled near x=67.5,67.4072,6666.474,0.4597,63.413,piecewise
+FC-4C,1,n4695,trace,9,1170.9,1528.0,2,8,,drawn line sampled near x=72.5,69.9817,6583.528,0.4603,63.172,piecewise
+FC-4C,1,n4695,trace,10,1214.2,1561.5,2,7,,drawn line sampled near x=77.5,77.2684,6351.946,0.4605,55.599,piecewise
+FC-4C,1,n4695,trace,11,1243.4,1584.0,2,7,,drawn line sampled near x=82.5,82.1823,6196.395,0.4616,55.146,piecewise
+FC-4C,1,n4695,trace,12,1270.6,1601.5,2,6,,drawn line sampled near x=87.5,86.7645,6075.284,0.4612,47.895,piecewise
+FC-4C,1,n4695,trace,13,1303.9,1621.0,2,2,,drawn line sampled near x=92.5,92.3772,5941.252,0.4566,19.802,piecewise
+FC-4C,1,n4695,trace,14,1360.3,1653.0,2,7,,drawn line sampled near x=102.5,101.9215,5723.346,0.4761,53.985,piecewise
+FC-4C,1,n4695,trace,15,1389.5,1667.5,2,6,,drawn line sampled near x=107.5,106.9433,5624.516,0.4777,47.359,piecewise
+FC-4C,1,n4695,trace,16,1418.7,1678.5,2,5,,drawn line sampled near x=112.5,111.9704,5549.356,0.4792,40.697,piecewise
+FC-4C,1,n4695,trace,17,1433.9,1684.0,2,5,,drawn line sampled near x=117.5,114.5875,5511.761,0.4808,40.753,piecewise
+FC-4C,1,n4695,trace,18,1477.1,1699.5,2,7,,drawn line sampled near x=122.5,122.0258,5405.807,0.4883,54.452,piecewise
+FC-4C,1,n4695,trace,19,1506.3,1709.5,2,6,,drawn line sampled near x=127.5,127.0542,5337.418,0.4898,47.781,piecewise
+FC-4C,1,n4695,trace,20,1535.4,1716.0,2,7,,drawn line sampled near x=132.5,132.0705,5292.698,0.4943,54.617,piecewise
+FC-4C,1,n4695,trace,21,1564.6,1724.5,2,6,,drawn line sampled near x=137.5,137.1011,5234.456,0.4958,47.931,piecewise
+FC-4C,1,n4695,trace,22,1593.7,1730.5,2,6,,drawn line sampled near x=142.5,142.1182,5193.121,0.4989,47.992,piecewise
+FC-4C,1,n4695,trace,23,1652.0,1740.5,2,6,,drawn line sampled near x=152.5,152.1609,5123.975,0.4985,48.092,piecewise
+FC-4C,1,n4695,trace,24,1681.1,1743.5,2,6,,drawn line sampled near x=157.5,157.1556,5102.926,0.4922,48.122,piecewise
+FC-4C,1,n4695,trace,25,1710.2,1746.0,2,7,,drawn line sampled near x=162.5,162.1512,5085.259,0.4874,54.918,piecewise
+FC-4C,1,n4695,trace,26,1768.5,1747.5,2,2,,drawn line sampled near x=172.5,172.1649,5073.584,0.4675,21.082,piecewise
+FC-4C,1,n4695,trace,27,1797.6,1748.5,2,6,,drawn line sampled near x=177.5,177.1628,5066.058,0.467,48.173,piecewise
+FC-4C,1,n4695,trace,28,1826.7,1749.0,2,7,,drawn line sampled near x=182.5,182.1615,5061.913,0.4622,54.948,piecewise
+FC-4C,1,n4695,trace,29,1845.9,1750.5,2,7,,drawn line sampled near x=187.5,185.4579,5051.268,0.458,54.963,piecewise
+FC-4C,1,n4695,trace,30,1884.9,1751.5,2,6,,drawn line sampled near x=192.5,192.1568,5043.483,0.4482,48.204,piecewise
+FC-4C,1,n4695,trace,31,1913.9,1750.5,2,5,,drawn line sampled near x=197.5,197.1404,5049.48,0.4405,41.424,piecewise
+FC-4C,1,n4695,trace,32,1943.0,1749.5,2,6,,drawn line sampled near x=202.5,202.1877,5055.475,0.4495,48.184,piecewise
+FC-4C,1,n4695,trace,33,1972.0,1750.5,2,7,,drawn line sampled near x=207.5,207.2768,5047.953,0.4552,54.963,piecewise
+FC-4C,1,n4695,trace,34,2073.2,1746.0,2,6,,drawn line sampled near x=222.5,225.0473,5075.707,0.4689,48.149,piecewise
+FC-4C,1,n4695,trace,35,2088.3,1746.0,2,6,,drawn line sampled near x=227.5,227.6979,5075.31,0.4712,48.15,piecewise
+FC-4C,1,n4695,trace,36,2117.4,1745.5,2,6,,drawn line sampled near x=232.5,232.8067,5077.924,0.4755,48.145,piecewise
+FC-4C,1,n4695,trace,37,2146.5,1744.5,2,5,,drawn line sampled near x=237.5,237.9162,5083.917,0.4785,41.366,piecewise
+FC-4C,1,n4695,trace,38,2175.6,1744.5,2,5,,drawn line sampled near x=242.5,243.0242,5083.151,0.4828,41.367,piecewise
+FC-4C,1,n4695,trace,39,2204.7,1743.5,2,6,,drawn line sampled near x=247.5,248.1337,5089.143,0.4886,48.125,piecewise
+FC-4C,1,n4695,feature,1,878.0,1643.5,3,12,,first point of the drawn line (first ink column outside the first symbol),19.933,5800.523,0.6878,87.788,piecewise
+FC-4C,1,n4695,feature,2,1034.0,1424.5,3,6,,peak of the drawn line (highest ink column outside symbols),46.9123,7299.004,0.6338,51.487,piecewise
+FC-4C,1,n4695,feature,3,2208.0,1744.5,3,5,,last point of the drawn line (last ink column before the right end),248.7116,5082.298,0.6634,41.393,piecewise
+FC-4C,1,n3815,trace,1,837.4,1730.5,2,24,,"drawn line sampled near x=12.5; thick run (48 px: steep segment, or line over a symbol or gridline)",12.8673,5213.095,0.5461,169.93,piecewise
+FC-4C,1,n3815,trace,2,877.4,1591.0,2,8,,drawn line sampled near x=17.5,19.9073,6158.245,0.5108,61.917,piecewise
+FC-4C,1,n3815,trace,3,894.0,1553.5,2,9,,"drawn line sampled near x=22.5; thick run (18 px: steep segment, or line over a symbol or gridline)",22.799,6415.657,0.5074,69.566,piecewise
+FC-4C,1,n3815,trace,4,908.7,1523.5,2,9,,"drawn line sampled near x=27.5; thick run (18 px: steep segment, or line over a symbol or gridline)",25.355,6621.553,0.5031,70.167,piecewise
+FC-4C,1,n3815,trace,5,951.5,1467.5,2,6,,drawn line sampled near x=32.5,32.751,7005.493,0.4864,50.6,piecewise
+FC-4C,1,n3815,trace,6,990.4,1450.0,2,9,,drawn line sampled near x=37.5; within 20 px of the n4695 line (shared or adjacent ink possible),39.4242,7124.799,0.4796,71.641,piecewise
+FC-4C,1,n3815,trace,7,1009.8,1462.5,2,7,,drawn line sampled near x=42.5,42.7212,7038.321,0.4711,57.595,piecewise
+FC-4C,1,n3815,trace,8,1051.3,1531.0,2,17,,"drawn line sampled near x=47.5; thick run (33 px: steep segment, or line over a symbol or gridline)",49.7132,6566.127,0.4741,125.191,piecewise
+FC-4C,1,n3815,trace,9,1069.1,1584.0,2,13,,"drawn line sampled near x=52.5; thick run (25 px: steep segment, or line over a symbol or gridline)",52.6545,6201.151,0.4636,96.537,piecewise
+FC-4C,1,n3815,trace,10,1128.1,1695.0,2,17,,"drawn line sampled near x=62.5; within 20 px of the n2934 line (shared or adjacent ink possible); thick run (17 px: steep segment, or line over a symbol or gridline)",62.4883,5445.509,0.4717,122.138,piecewise
+FC-4C,1,n3815,trace,11,1171.5,1753.5,2,7,,drawn line sampled near x=67.5,69.755,5048.72,0.4588,54.993,piecewise
+FC-4C,1,n3815,trace,12,1186.8,1772.5,2,6,,drawn line sampled near x=72.5,72.3191,4919.822,0.4579,48.41,piecewise
+FC-4C,1,n3815,trace,13,1228.2,1816.5,2,5,,drawn line sampled near x=77.5,79.2677,4621.177,0.458,42.079,piecewise
+FC-4C,1,n3815,trace,14,1245.5,1830.0,2,7,,drawn line sampled near x=82.5,82.1784,4529.431,0.4616,55.76,piecewise
+FC-4C,1,n3815,trace,15,1262.9,1843.5,2,7,,drawn line sampled near x=87.5,85.106,4437.685,0.4622,55.895,piecewise
+FC-4C,1,n3815,trace,16,1306.1,1871.5,2,6,,drawn line sampled near x=92.5,92.3825,4247.221,0.4624,49.403,piecewise
+FC-4C,1,n3815,trace,17,1333.2,1884.5,2,6,,drawn line sampled near x=97.5,96.9537,4158.615,0.4635,49.534,piecewise
+FC-4C,1,n3815,trace,18,1360.4,1897.5,2,5,,drawn line sampled near x=102.5,101.5721,4070.009,0.4729,42.892,piecewise
+FC-4C,1,n3815,trace,19,1391.6,1910.5,2,12,,"drawn line sampled near x=107.5; line crossing a horizontal gridline here (run merged with the gridline, bound widened)",106.941,3980.688,0.4866,92.953,piecewise
+FC-4C,1,n3815,trace,20,1420.8,1917.0,2,7,,drawn line sampled near x=112.5,111.9743,3934.517,0.4821,58.296,piecewise
+FC-4C,1,n3815,trace,21,1479.1,1927.5,2,5,,drawn line sampled near x=122.5,122.0271,3859.645,0.4852,44.098,piecewise
+FC-4C,1,n3815,trace,22,1508.2,1935.0,2,7,,drawn line sampled near x=127.5,127.0415,3806.497,0.4912,57.966,piecewise
+FC-4C,1,n3815,trace,23,1537.3,1940.5,2,6,,drawn line sampled near x=132.5,132.0589,3767.32,0.4927,50.863,piecewise
+FC-4C,1,n3815,trace,24,1566.5,1947.0,2,7,,drawn line sampled near x=137.5,137.0919,3721.158,0.4973,57.746,piecewise
+FC-4C,1,n3815,trace,25,1624.8,1958.5,2,6,,drawn line sampled near x=147.5,147.143,3639.317,0.5018,50.534,piecewise
+FC-4C,1,n3815,trace,26,1654.0,1963.5,2,7,,drawn line sampled near x=152.5,152.1682,3603.635,0.5003,57.443,piecewise
+FC-4C,1,n3815,trace,27,1669.2,1965.0,2,7,,drawn line sampled near x=157.5,154.7789,3592.763,0.497,57.415,piecewise
+FC-4C,1,n3815,trace,28,1712.3,1973.5,2,6,,drawn line sampled near x=162.5,162.1754,3532.278,0.4862,50.258,piecewise
+FC-4C,1,n3815,trace,29,1741.4,1974.0,2,7,,drawn line sampled near x=167.5; within 20 px of the n2934 line (shared or adjacent ink possible),167.1772,3528.027,0.4814,57.247,piecewise
+FC-4C,1,n3815,trace,30,1770.4,1982.5,2,6,,drawn line sampled near x=172.5,172.1502,3467.915,0.4737,50.092,piecewise
+FC-4C,1,n3815,trace,31,1828.7,1989.0,2,13,,drawn line sampled near x=182.5; within 20 px of the n2934 line (shared or adjacent ink possible),182.1635,3421.008,0.4711,98.975,piecewise
+FC-4C,1,n3815,trace,32,1857.8,1987.5,2,22,,"drawn line sampled near x=187.5; within 20 px of the n2934 line (shared or adjacent ink possible); thick run (22 px: steep segment, or line over a symbol or gridline)",187.1684,3430.724,0.4774,162.001,piecewise
+FC-4C,1,n3815,trace,33,1886.9,1993.5,2,20,,"drawn line sampled near x=192.5; within 20 px of the n2934 line (shared or adjacent ink possible); thick run (20 px: steep segment, or line over a symbol or gridline)",192.1628,3388.072,0.4681,147.889,piecewise
+FC-4C,1,n3815,trace,34,1902.1,1993.5,2,10,,drawn line sampled near x=197.5; within 20 px of the n2934 line (shared or adjacent ink possible),194.776,3387.677,0.4507,77.884,piecewise
+FC-4C,1,n3815,trace,35,1945.2,1999.5,2,16,,"drawn line sampled near x=202.5; within 20 px of the n2934 line (shared or adjacent ink possible); thick run (16 px: steep segment, or line over a symbol or gridline)",202.2232,3344.663,0.4636,119.773,piecewise
+FC-4C,1,n3815,trace,36,1974.3,2005.5,2,20,,"drawn line sampled near x=207.5; within 20 px of the n2934 line (shared or adjacent ink possible); thick run (20 px: steep segment, or line over a symbol or gridline)",207.3227,3302.014,0.4735,147.661,piecewise
+FC-4C,1,n3815,trace,37,2003.4,2015.5,2,12,,drawn line sampled near x=212.5; within 20 px of the n2934 line (shared or adjacent ink possible),212.4166,3231.44,0.4666,91.481,piecewise
+FC-4C,1,n3815,trace,38,2018.5,2017.0,2,9,,drawn line sampled near x=217.5; within 20 px of the n2934 line (shared or adjacent ink possible),215.065,3220.576,0.4647,70.453,piecewise
+FC-4C,1,n3815,trace,39,2061.6,2008.5,2,10,,drawn line sampled near x=222.5; within 20 px of the n2934 line (shared or adjacent ink possible),222.6423,3278.804,0.4725,77.599,piecewise
+FC-4C,1,n3815,trace,40,2090.7,2009.5,2,12,,drawn line sampled near x=227.5; within 20 px of the n2934 line (shared or adjacent ink possible),227.7488,3271.068,0.4797,91.576,piecewise
+FC-4C,1,n3815,trace,41,2119.7,2012.5,2,6,,drawn line sampled near x=232.5,232.8349,3249.372,0.4756,49.524,piecewise
+FC-4C,1,n3815,trace,42,2148.8,2013.0,2,7,,drawn line sampled near x=237.5,237.9422,3245.127,0.4813,56.511,piecewise
+FC-4C,1,n3815,trace,43,2177.9,2015.5,2,6,,drawn line sampled near x=242.5,243.0466,3226.92,0.4842,49.465,piecewise
+FC-4C,1,n3815,feature,1,835.0,1737.0,3,18,,first point of the drawn line (first ink column outside the first symbol),12.4476,5169.189,0.7092,129.374,piecewise
+FC-4C,1,n3815,feature,2,976.2,1440.8,6,6,,"peak of the drawn line lies under the circle symbol at x about 39 (the line enters from the lower left and leaves to the lower right); position taken as the symbol centre, bound = symbol half-size",37.011,7188.444,1.1639,51.242,piecewise
+FC-4C,1,n3815,feature,3,2189.0,2015.5,3,6,,last point of the drawn line (last ink column before the right end),244.9949,3226.633,0.6616,49.49,piecewise
+FC-4C,1,n2934,trace,1,839.2,1936.0,2,14,,"drawn line sampled near x=12.5; thick run (27 px: steep segment, or line over a symbol or gridline)",12.874,3817.103,0.5314,107.054,piecewise
+FC-4C,1,n2934,trace,2,855.6,1891.0,2,11,,"drawn line sampled near x=17.5; thick run (21 px: steep segment, or line over a symbol or gridline)",15.7427,4126.915,0.5222,83.47,piecewise
+FC-4C,1,n2934,trace,3,896.3,1818.5,2,9,,"drawn line sampled near x=22.5; thick run (18 px: steep segment, or line over a symbol or gridline)",22.8043,4616.282,0.5074,69.193,piecewise
+FC-4C,1,n2934,trace,4,913.0,1792.0,2,8,,drawn line sampled near x=27.5,25.6971,4795.099,0.5011,62.153,piecewise
+FC-4C,1,n2934,trace,5,953.9,1737.0,2,7,,drawn line sampled near x=32.5,32.7672,5166.051,0.4878,54.827,piecewise
+FC-4C,1,n2934,trace,6,1011.6,1684.0,2,8,,drawn line sampled near x=42.5,42.7053,5523.007,0.4727,61.069,piecewise
+FC-4C,1,n2934,trace,7,1028.3,1673.5,2,6,,drawn line sampled near x=47.5,45.5746,5593.581,0.4649,47.417,piecewise
+FC-4C,1,n2934,trace,8,1069.5,1658.5,2,6,,drawn line sampled near x=52.5,52.6143,5693.933,0.4535,47.266,piecewise
+FC-4C,1,n2934,trace,9,1098.6,1666.5,2,8,,drawn line sampled near x=57.5; within 20 px of the n3815 line (shared or adjacent ink possible),57.5323,5639.048,0.4575,60.894,piecewise
+FC-4C,1,n2934,trace,10,1127.8,1662.5,2,6,,drawn line sampled near x=62.5,62.4847,5665.321,0.4557,47.307,piecewise
+FC-4C,1,n2934,trace,11,1143.1,1670.5,2,6,,drawn line sampled near x=67.5,65.0649,5610.807,0.4563,47.387,piecewise
+FC-4C,1,n2934,trace,12,1186.3,1699.5,2,7,,drawn line sampled near x=72.5,72.3407,5413.529,0.4594,54.451,piecewise
+FC-4C,1,n2934,trace,13,1215.5,1720.5,2,7,,drawn line sampled near x=77.5,77.2565,5270.735,0.4605,54.662,piecewise
+FC-4C,1,n2934,trace,14,1244.7,1743.0,2,7,,drawn line sampled near x=82.5,82.1701,5117.803,0.4616,54.888,piecewise
+FC-4C,1,n2934,trace,15,1311.1,1785.0,2,7,,drawn line sampled near x=92.5,93.3563,4832.035,0.4641,55.309,piecewise
+FC-4C,1,n2934,trace,16,1332.4,1796.0,2,8,,drawn line sampled near x=97.5,96.9482,4757.093,0.4664,62.191,piecewise
+FC-4C,1,n2934,trace,17,1361.7,1813.0,2,8,,drawn line sampled near x=102.5,101.9234,4641.373,0.4776,62.361,piecewise
+FC-4C,1,n2934,trace,18,1377.0,1820.5,2,6,,drawn line sampled near x=107.5,104.5546,4590.26,0.4762,48.892,piecewise
+FC-4C,1,n2934,trace,19,1420.2,1840.0,2,8,,drawn line sampled near x=112.5,111.9865,4457.282,0.4837,62.632,piecewise
+FC-4C,1,n2934,trace,20,1449.3,1852.5,2,7,,drawn line sampled near x=117.5,116.9936,4372.007,0.4852,55.985,piecewise
+FC-4C,1,n2934,trace,21,1478.5,1865.5,2,6,,drawn line sampled near x=122.5,122.0171,4283.353,0.4867,49.344,piecewise
+FC-4C,1,n2934,trace,22,1521.7,1879.5,2,2,,drawn line sampled near x=127.5,129.4569,4187.581,0.4851,22.399,piecewise
+FC-4C,1,n2934,trace,23,1536.9,1886.5,2,6,,drawn line sampled near x=132.5,132.0715,4139.861,0.4928,49.555,piecewise
+FC-4C,1,n2934,trace,24,1564.0,1896.5,2,6,,drawn line sampled near x=137.5,136.7367,4071.554,0.4956,49.655,piecewise
+FC-4C,1,n2934,trace,25,1595.2,1906.5,2,10,,"drawn line sampled near x=142.5; line crossing a horizontal gridline here (run merged with the gridline, bound widened)",142.11,4003.145,0.5049,78.962,piecewise
+FC-4C,1,n2934,trace,26,1653.5,1926.0,2,7,,drawn line sampled near x=152.5,152.1388,3865.53,0.5003,58.111,piecewise
+FC-4C,1,n2934,trace,27,1682.7,1935.0,2,6,,drawn line sampled near x=157.5,157.1444,3801.911,0.4925,50.947,piecewise
+FC-4C,1,n2934,trace,28,1711.9,1943.5,2,6,,drawn line sampled near x=162.5,162.151,3741.786,0.4862,50.792,piecewise
+FC-4C,1,n2934,trace,29,1770.2,1959.0,2,6,,drawn line sampled near x=172.5,172.1499,3632.02,0.4736,50.511,piecewise
+FC-4C,1,n2934,trace,30,1799.4,1970.5,2,18,,"drawn line sampled near x=177.5; within 20 px of the n3815 line (shared or adjacent ink possible); thick run (18 px: steep segment, or line over a symbol or gridline)",177.153,3550.953,0.4846,134.311,piecewise
+FC-4C,1,n2934,trace,31,1828.5,1974.0,2,11,,drawn line sampled near x=182.5; within 20 px of the n3815 line (shared or adjacent ink possible),182.1505,3525.754,0.4682,85.241,piecewise
+FC-4C,1,n2934,trace,32,1857.6,1987.5,2,22,,"drawn line sampled near x=187.5; within 20 px of the n3815 line (shared or adjacent ink possible); thick run (22 px: steep segment, or line over a symbol or gridline)",187.134,3430.73,0.4774,162.001,piecewise
+FC-4C,1,n2934,trace,33,1886.8,1993.5,2,20,,"drawn line sampled near x=192.5; within 20 px of the n3815 line (shared or adjacent ink possible); thick run (20 px: steep segment, or line over a symbol or gridline)",192.1456,3388.075,0.4681,147.889,piecewise
+FC-4C,1,n2934,trace,34,1903.9,1992.0,2,7,,drawn line sampled near x=197.5; within 20 px of the n3815 line (shared or adjacent ink possible),195.0875,3398.103,0.4462,56.91,piecewise
+FC-4C,1,n2934,trace,35,1945.0,1999.5,2,16,,"drawn line sampled near x=202.5; within 20 px of the n3815 line (shared or adjacent ink possible); thick run (16 px: steep segment, or line over a symbol or gridline)",202.1881,3344.668,0.4635,119.773,piecewise
+FC-4C,1,n2934,trace,36,1974.2,2005.5,2,20,,"drawn line sampled near x=207.5; within 20 px of the n3815 line (shared or adjacent ink possible); thick run (20 px: steep segment, or line over a symbol or gridline)",207.3052,3302.017,0.4735,147.661,piecewise
+FC-4C,1,n2934,trace,37,2003.3,2015.5,2,12,,drawn line sampled near x=212.5; within 20 px of the n3815 line (shared or adjacent ink possible),212.3991,3231.443,0.4666,91.481,piecewise
+FC-4C,1,n2934,trace,38,2032.5,2019.0,2,5,,drawn line sampled near x=217.5; within 20 px of the n3815 line (shared or adjacent ink possible),217.5196,3206.25,0.4611,42.418,piecewise
+FC-4C,1,n2934,trace,39,2061.6,2025.5,2,12,,drawn line sampled near x=222.5; within 20 px of the n3815 line (shared or adjacent ink possible),222.6184,3160.116,0.4753,91.295,piecewise
+FC-4C,1,n2934,trace,40,2090.8,2031.5,2,6,,drawn line sampled near x=227.5,227.7354,3117.472,0.4712,49.189,piecewise
+FC-4C,1,n2934,trace,41,2119.9,2037.0,2,7,,drawn line sampled near x=232.5,232.8356,3078.322,0.477,56.088,piecewise
+FC-4C,1,n2934,trace,42,2163.1,2046.0,2,5,,drawn line sampled near x=237.5,240.4058,3014.377,0.4806,41.925,piecewise
+FC-4C,1,n2934,trace,43,2178.3,2046.0,2,7,,drawn line sampled near x=242.5,243.0738,3013.985,0.4857,55.921,piecewise
+FC-4C,1,n2934,feature,1,831.0,1958.5,3,15,,first point of the drawn line (first ink column outside the first symbol),11.4397,3660.105,0.7065,113.685,piecewise
+FC-4C,1,n2934,feature,2,1093.0,1654.5,3,5,,peak of the drawn line (highest ink column outside symbols),56.6011,5720.358,0.6224,40.48,piecewise
+FC-4C,1,n2934,feature,3,2193.0,2047.5,3,6,,last point of the drawn line (last ink column before the right end),245.652,3003.135,0.6621,48.92,piecewise
+FC-4C,1,n1761,trace,1,883.0,2008.0,2,8,,drawn line sampled near x=17.5,20.2541,3312.885,0.5103,63.736,piecewise
+FC-4C,1,n1761,trace,2,897.8,1987.0,2,8,,drawn line sampled near x=22.5,22.8142,3459.227,0.506,64.108,piecewise
+FC-4C,1,n1761,trace,3,916.5,1963.0,2,8,,drawn line sampled near x=27.5,26.0451,3626.424,0.5006,64.534,piecewise
+FC-4C,1,n1761,trace,4,955.4,1928.5,2,6,,drawn line sampled near x=32.5,32.7436,3866.447,0.4864,51.135,piecewise
+FC-4C,1,n1761,trace,5,974.3,1912.5,2,14,,"drawn line sampled near x=37.5; line crossing a horizontal gridline here (run merged with the gridline, bound widened)",35.997,3977.734,0.4927,106.909,piecewise
+FC-4C,1,n1761,trace,6,1013.2,1884.0,2,7,,drawn line sampled near x=42.5,42.6866,4170.216,0.4712,56.302,piecewise
+FC-4C,1,n1761,trace,7,1030.2,1874.5,2,6,,drawn line sampled near x=47.5,45.6058,4234.034,0.4649,49.433,piecewise
+FC-4C,1,n1761,trace,8,1071.2,1856.5,2,6,,drawn line sampled near x=52.5,52.6156,4354.722,0.4534,49.252,piecewise
+FC-4C,1,n1761,trace,9,1086.2,1852.5,2,5,,drawn line sampled near x=57.5,55.1622,4381.388,0.4525,42.439,piecewise
+FC-4C,1,n1761,trace,10,1129.4,1850.5,2,6,,drawn line sampled near x=62.5,62.4826,4393.798,0.4557,49.192,piecewise
+FC-4C,1,n1761,trace,11,1146.5,1856.5,2,6,,drawn line sampled near x=67.5,65.3704,4352.777,0.4563,49.252,piecewise
+FC-4C,1,n1761,trace,12,1187.9,1888.0,2,8,,drawn line sampled near x=72.5,72.3371,4138.676,0.4608,63.114,piecewise
+FC-4C,1,n1761,trace,13,1205.2,1906.0,2,15,,"drawn line sampled near x=77.5; line crossing a horizontal gridline here (run merged with the gridline, bound widened)",75.2412,4016.501,0.4717,113.417,piecewise
+FC-4C,1,n1761,trace,14,1246.5,1942.0,2,8,,drawn line sampled near x=82.5,82.1841,3764.48,0.463,64.872,piecewise
+FC-4C,1,n1761,trace,15,1275.7,1966.0,2,8,,drawn line sampled near x=87.5,87.0948,3596.067,0.4641,64.441,piecewise
+FC-4C,1,n1761,trace,16,1305.0,1987.0,2,8,,drawn line sampled near x=92.5,92.0268,3448.614,0.4652,64.064,piecewise
+FC-4C,1,n1761,trace,17,1324.3,1998.0,2,6,,drawn line sampled near x=97.5,95.2796,3371.276,0.4631,49.861,piecewise
+FC-4C,1,n1761,trace,18,1363.5,2023.5,2,7,,drawn line sampled near x=102.5,101.9186,3192.143,0.4761,56.405,piecewise
+FC-4C,1,n1761,trace,19,1392.7,2040.0,2,7,,drawn line sampled near x=107.5,106.9365,3076.14,0.4791,56.109,piecewise
+FC-4C,1,n1761,trace,20,1421.9,2053.5,2,6,,drawn line sampled near x=112.5,111.9589,2981.094,0.4806,48.863,piecewise
+FC-4C,1,n1761,trace,21,1441.2,2061.0,2,5,,drawn line sampled near x=117.5,115.2806,2928.214,0.4811,41.725,piecewise
+FC-4C,1,n1761,trace,22,1480.3,2077.5,2,6,,drawn line sampled near x=122.5,122.008,2811.967,0.4867,48.43,piecewise
+FC-4C,1,n1761,trace,23,1509.5,2089.0,2,6,,drawn line sampled near x=127.5,127.0333,2730.9,0.4897,48.222,piecewise
+FC-4C,1,n1761,trace,24,1538.7,2098.5,2,6,,drawn line sampled near x=132.5,132.0615,2663.805,0.4927,48.05,piecewise
+FC-4C,1,n1761,trace,25,1567.8,2107.5,2,6,,drawn line sampled near x=137.5,137.0731,2600.206,0.4957,47.887,piecewise
+FC-4C,1,n1761,trace,26,1597.0,2116.5,2,6,,drawn line sampled near x=142.5,142.102,2536.608,0.4988,47.724,piecewise
+FC-4C,1,n1761,trace,27,1612.1,2119.5,2,6,,drawn line sampled near x=147.5,144.705,2515.272,0.5003,47.669,piecewise
+FC-4C,1,n1761,trace,28,1655.3,2128.5,2,6,,drawn line sampled near x=152.5,152.1427,2451.322,0.4991,47.505,piecewise
+FC-4C,1,n1761,trace,29,1684.4,2134.5,2,6,,drawn line sampled near x=157.5,157.1384,2408.682,0.4928,47.396,piecewise
+FC-4C,1,n1761,trace,30,1713.6,2140.0,2,7,,drawn line sampled near x=162.5,162.1523,2369.533,0.488,54.296,piecewise
+FC-4C,1,n1761,trace,31,1734.7,2152.5,2,3,,drawn line sampled near x=167.5,165.7629,2281.709,0.4775,26.068,piecewise
+FC-4C,1,n1761,trace,32,1771.8,2147.5,2,5,,drawn line sampled near x=172.5,172.1512,2315.686,0.4724,40.155,piecewise
+FC-4C,1,n1761,trace,33,1800.9,2151.5,2,6,,drawn line sampled near x=177.5,177.1505,2287.018,0.4676,47.082,piecewise
+FC-4C,1,n1761,trace,34,1830.0,2153.5,2,5,,drawn line sampled near x=182.5,182.1527,2272.316,0.4599,40.043,piecewise
+FC-4C,1,n1761,trace,35,1859.1,2155.5,2,6,,drawn line sampled near x=187.5,187.155,2257.615,0.455,47.005,piecewise
+FC-4C,1,n1761,trace,36,1888.3,2158.5,2,6,,drawn line sampled near x=192.5,192.1732,2235.93,0.4487,46.949,piecewise
+FC-4C,1,n1761,trace,37,1946.5,2161.5,2,3,,drawn line sampled near x=202.5,202.2242,2213.514,0.4453,25.89,piecewise
+FC-4C,1,n1761,trace,38,1975.6,2161.5,2,6,,drawn line sampled near x=207.5,207.332,2212.779,0.4539,46.887,piecewise
+FC-4C,1,n1761,trace,39,2004.6,2162.5,2,7,,drawn line sampled near x=212.5,212.4209,2205.065,0.4596,53.867,piecewise
+FC-4C,1,n1761,trace,40,2033.7,2161.5,2,6,,drawn line sampled near x=217.5,217.5301,2211.313,0.4625,46.882,piecewise
+FC-4C,1,n1761,trace,41,2062.8,2160.5,2,3,,drawn line sampled near x=222.5,222.6394,2217.56,0.4627,25.899,piecewise
+FC-4C,1,n1761,trace,42,2091.9,2163.5,2,6,,drawn line sampled near x=227.5,227.743,2195.881,0.4712,46.841,piecewise
+FC-4C,1,n1761,trace,43,2121.0,2164.0,2,7,,drawn line sampled near x=232.5,232.8501,2191.656,0.477,53.828,piecewise
+FC-4C,1,n1761,trace,44,2150.1,2162.5,2,7,,drawn line sampled near x=237.5,237.96,2201.394,0.4813,53.852,piecewise
+FC-4C,1,n1761,trace,45,2179.2,2162.5,2,7,,drawn line sampled near x=242.5,243.0679,2200.66,0.4857,53.849,piecewise
+FC-4C,1,n1761,feature,1,848.0,2074.5,3,12,,first point of the drawn line (first ink column outside the first symbol),14.1752,2849.147,0.6975,90.6,piecewise
+FC-4C,1,n1761,feature,2,1118.0,1849.5,3,4,,peak of the drawn line (highest ink column outside symbols),60.553,4400.856,0.6217,35.661,piecewise
+FC-4C,1,n1761,feature,3,2194.0,2164.5,3,3,,last point of the drawn line (last ink column before the right end),245.6628,2186.324,0.6579,25.842,piecewise
+FC-4C,1,n741,trace,1,841.9,2278.5,2,9,,"drawn line sampled near x=12.5; thick run (18 px: steep segment, or line over a symbol or gridline)",12.8339,1438.708,0.5242,65.523,piecewise
+FC-4C,1,n741,trace,2,901.4,2184.0,2,8,,drawn line sampled near x=22.5,23.1412,2082.706,0.5054,60.598,piecewise
+FC-4C,1,n741,trace,3,914.3,2172.0,2,5,,drawn line sampled near x=27.5,25.3634,2166.223,0.4973,39.796,piecewise
+FC-4C,1,n741,trace,4,957.2,2131.5,2,6,,drawn line sampled near x=32.5,32.7545,2448.102,0.4864,47.519,piecewise
+FC-4C,1,n741,trace,5,974.1,2122.0,2,7,,drawn line sampled near x=37.5,35.6566,2514.045,0.483,54.691,piecewise
+FC-4C,1,n741,trace,6,1015.1,2110.0,2,6,,drawn line sampled near x=42.5,42.6812,2596.839,0.4698,47.896,piecewise
+FC-4C,1,n741,trace,7,1073.5,2118.5,2,6,,drawn line sampled near x=52.5,52.6258,2535.967,0.4534,47.739,piecewise
+FC-4C,1,n741,trace,8,1088.7,2126.5,2,5,,drawn line sampled near x=57.5,55.1886,2479.691,0.4525,40.591,piecewise
+FC-4C,1,n741,trace,9,1132.1,2177.5,2,8,,"drawn line sampled near x=62.5; thick run (16 px: steep segment, or line over a symbol or gridline)",62.4649,2122.307,0.4585,60.69,piecewise
+FC-4C,1,n741,trace,10,1153.4,2201.5,2,16,,"drawn line sampled near x=67.5; line crossing a horizontal gridline here (run merged with the gridline, bound widened); thick run (16 px: steep segment, or line over a symbol or gridline)",66.0375,1955.295,0.4709,115.106,piecewise
+FC-4C,1,n741,trace,11,1190.7,2236.0,2,7,,drawn line sampled near x=72.5,72.3043,1719.598,0.4593,51.877,piecewise
+FC-4C,1,n741,trace,12,1212.0,2251.0,2,7,,drawn line sampled near x=77.5,75.8897,1617.005,0.4601,51.88,piecewise
+FC-4C,1,n741,trace,13,1249.2,2275.5,2,6,,drawn line sampled near x=82.5,82.154,1449.387,0.46,45.08,piecewise
+FC-4C,1,n741,trace,14,1272.4,2285.5,2,7,,drawn line sampled near x=87.5,86.0683,1380.784,0.4624,51.887,piecewise
+FC-4C,1,n741,trace,15,1307.6,2300.5,2,7,,drawn line sampled near x=92.5,92.0076,1277.876,0.4637,51.889,piecewise
+FC-4C,1,n741,trace,16,1328.8,2304.0,2,2,,drawn line sampled near x=97.5,95.5927,1253.557,0.4572,17.866,piecewise
+FC-4C,1,n741,trace,17,1365.9,2314.5,2,6,,drawn line sampled near x=102.5,101.8967,1181.233,0.4745,45.086,piecewise
+FC-4C,1,n741,trace,18,1385.1,2316.0,2,5,,drawn line sampled near x=107.5,105.2097,1170.573,0.475,38.281,piecewise
+FC-4C,1,n741,trace,19,1424.2,2326.5,2,6,,drawn line sampled near x=112.5,111.9455,1098.209,0.4805,45.087,piecewise
+FC-4C,1,n741,trace,20,1441.4,2329.5,2,6,,drawn line sampled near x=117.5,114.9109,1077.393,0.4823,45.087,piecewise
+FC-4C,1,n741,trace,21,1482.5,2337.5,2,6,,drawn line sampled near x=122.5,121.9957,1021.999,0.4866,45.087,piecewise
+FC-4C,1,n741,trace,22,1499.7,2339.5,2,4,,drawn line sampled near x=127.5,124.9626,1007.988,0.4853,31.48,piecewise
+FC-4C,1,n741,trace,23,1542.8,2347.0,2,3,,drawn line sampled near x=132.5,132.3933,955.954,0.4883,24.678,piecewise
+FC-4C,1,n741,trace,24,1569.9,2349.5,2,6,,drawn line sampled near x=137.5,137.0689,938.313,0.4957,45.087,piecewise
+FC-4C,1,n741,trace,25,1599.0,2353.5,2,6,,drawn line sampled near x=142.5,142.0875,910.422,0.4987,45.087,piecewise
+FC-4C,1,n741,trace,26,1614.1,2355.0,2,2,,drawn line sampled near x=147.5,144.6926,899.865,0.4942,17.876,piecewise
+FC-4C,1,n741,trace,27,1657.2,2359.5,2,6,,drawn line sampled near x=152.5,152.1207,868.249,0.4994,45.086,piecewise
+FC-4C,1,n741,trace,28,1686.3,2362.5,2,6,,drawn line sampled near x=157.5,157.1242,847.164,0.4931,45.086,piecewise
+FC-4C,1,n741,trace,29,1715.4,2365.5,2,6,,drawn line sampled near x=162.5,162.1278,826.08,0.4868,45.085,piecewise
+FC-4C,1,n741,trace,30,1732.5,2366.5,2,4,,drawn line sampled near x=167.5,165.0693,818.881,0.4802,31.481,piecewise
+FC-4C,1,n741,trace,31,1773.6,2370.0,2,8,,drawn line sampled near x=172.5,172.1375,794.119,0.4771,58.687,piecewise
+FC-4C,1,n741,trace,32,1802.8,2371.0,2,6,,drawn line sampled near x=177.5,177.1615,786.639,0.4679,45.083,piecewise
+FC-4C,1,n741,trace,33,1831.9,2371.5,2,6,,drawn line sampled near x=182.5,182.1689,782.562,0.4616,45.082,piecewise
+FC-4C,1,n741,trace,34,1890.1,2374.5,2,6,,drawn line sampled near x=192.5,192.1812,760.808,0.4489,45.08,piecewise
+FC-4C,1,n741,trace,35,1919.2,2375.5,2,5,,drawn line sampled near x=197.5,197.1881,753.333,0.4412,38.278,piecewise
+FC-4C,1,n741,trace,36,1948.3,2375.5,2,5,,drawn line sampled near x=202.5,202.24,752.657,0.4481,38.277,piecewise
+FC-4C,1,n741,trace,37,1977.4,2377.0,2,6,,drawn line sampled near x=207.5,207.3456,741.782,0.4539,45.077,piecewise
+FC-4C,1,n741,trace,38,2006.5,2377.5,2,6,,drawn line sampled near x=212.5,212.4526,737.708,0.4582,45.076,piecewise
+FC-4C,1,n741,trace,39,2072.6,2377.0,2,6,,drawn line sampled near x=222.5,224.0553,739.575,0.4681,45.073,piecewise
+FC-4C,1,n741,trace,40,2093.7,2375.5,2,5,,drawn line sampled near x=227.5,227.7609,749.284,0.4698,38.272,piecewise
+FC-4C,1,n741,trace,41,2122.8,2376.5,2,6,,drawn line sampled near x=232.5,232.8672,741.81,0.4756,45.07,piecewise
+FC-4C,1,n741,trace,42,2151.9,2374.5,2,6,,drawn line sampled near x=237.5,237.9777,754.733,0.4799,45.069,piecewise
+FC-4C,1,n741,trace,43,2181.0,2374.0,2,4,,drawn line sampled near x=242.5,243.0862,757.458,0.4814,31.469,piecewise
+FC-4C,1,n741,feature,1,831.0,2296.0,3,9,,first point of the drawn line (first ink column outside the first symbol),10.9454,1319.832,0.6985,65.552,piecewise
+FC-4C,1,n741,feature,2,1005.0,2107.5,3,3,,peak of the drawn line (highest ink column outside symbols),40.9588,2614.563,0.6395,26.954,piecewise
+FC-4C,1,n741,feature,3,2181.0,2374.0,3,4,,last point of the drawn line (last ink column before the right end),243.0862,757.458,0.6571,31.492,piecewise

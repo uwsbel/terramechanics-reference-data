@@ -1,0 +1,72 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-47,1,lpt91,trace,1,505,3239,4,4,,start of the ink at the corner of the frame (x about 0); its first pixels merge with the axis lines,0.009763,9.431,0.015553,6.44,piecewise extrapolated x
+F2-47,1,lpt91,trace,2,580,3078,4.5,4.5,,target 0.25 in (sampled at 0.26 to stay clear of the dashed ink); the two traces run side by side and touch from about 0.07 to 0.29 in (about 95 to 240 lb); the dashed line ends a dash 6 px to the left here; bound widened,0.261565,216.989,0.017001,7.069,piecewise
+F2-47,1,lpt91,trace,3,653,3023.0,4.7,4.7,,target 0.50 in,0.50141,287.195,0.017488,7.322,piecewise
+F2-47,1,lpt91,trace,4,729,3016.0,4.5,4.5,,target 0.75 in,0.748552,295.145,0.016652,7.059,piecewise
+F2-47,1,lpt91,trace,5,797,3006.5,3.9,3.9,,target 1.00 in; target on a grid line: sampled on the nearest clean ink beside it,0.969838,306.453,0.014514,6.271,piecewise
+F2-47,1,lpt91,trace,6,883,2976.5,4.2,4.2,,target 1.25 in; LPT No. 101 (dashed) ink 4 px away,1.250699,344.064,0.015762,6.659,piecewise
+F2-47,1,lpt91,trace,7,959,2943.5,4.0,4.0,,target 1.50 in,1.499181,385.712,0.015365,6.391,piecewise
+F2-47,1,lpt91,trace,8,1036,2910.0,4.1,4.1,,target 1.75 in,1.750878,427.993,0.015962,6.517,piecewise
+F2-47,1,lpt91,trace,9,1103,2874.0,3.7,3.7,,target 2.00 in; target on a grid line: sampled on the nearest clean ink beside it,1.970159,473.662,0.014875,5.986,piecewise
+F2-47,1,lpt91,trace,10,1189,2826.0,3.7,3.7,,target 2.25 in,2.249774,534.047,0.014735,5.922,piecewise
+F2-47,1,lpt91,trace,11,1266,2781.0,4.3,4.3,,target 2.50 in,2.500001,590.296,0.016648,6.746,piecewise
+F2-47,1,lpt91,trace,12,1343,2743.0,4.1,4.1,,target 2.75 in,2.749893,637.603,0.015947,6.529,piecewise
+F2-47,1,lpt91,trace,13,1411,2712.0,3.3,3.3,,target 3.00 in; target on a grid line: sampled on the nearest clean ink beside it,2.970448,676.107,0.01329,5.531,piecewise
+F2-47,1,lpt91,trace,14,1497,2667.0,3.7,3.7,,target 3.25 in,3.250717,732.169,0.014443,6.096,piecewise
+F2-47,1,lpt91,trace,15,1573,2625.5,3.9,3.9,,target 3.50 in,3.498613,783.902,0.014881,6.4,piecewise
+F2-47,1,lpt91,trace,16,1650,2586.0,3.9,3.9,,target 3.75 in,3.749678,833.055,0.014659,6.443,piecewise
+F2-47,1,lpt91,trace,17,1736,2541.0,4.3,4.3,,target 4.00 in; target on a grid line: sampled on the nearest clean ink beside it,4.030083,889.057,0.0157,7.008,piecewise
+F2-47,1,lpt91,trace,18,1804,2512.0,3.9,3.9,,target 4.25 in,4.251029,924.942,0.014392,6.523,piecewise
+F2-47,1,lpt91,trace,19,1881,2477.0,3.8,3.8,,target 4.50 in,4.501337,968.315,0.014066,6.432,piecewise
+F2-47,1,lpt91,trace,20,1964,2442.5,3.8,3.8,,target 4.75 in; target on a grid line: sampled on the nearest clean ink beside it,4.77102,1011.115,0.014068,6.554,piecewise
+F2-47,1,lpt91,trace,21,2025,2412.5,4.2,4.2,,target 5.00 in; target on a grid line: sampled on the nearest clean ink beside it,4.969457,1048.937,0.01538,7.068,piecewise
+F2-47,1,lpt91,trace,22,2114,2370.5,2.9,2.9,,target 5.25 in,5.261608,1101.836,0.011338,5.352,piecewise
+F2-47,1,lpt91,trace,23,2187,2334.0,4.0,4.0,,target 5.50 in,5.501594,1147.881,0.015073,6.781,piecewise
+F2-47,1,lpt91,trace,24,2262,2286.5,3.6,3.6,,target 5.75 in,5.748629,1208.122,0.013841,6.242,piecewise
+F2-47,1,lpt91,trace,25,2329,2256.0,6.0,6.0,,target 6.00 in; touches LPT No. 101 (dashed) here: bound widened 2 px; target on a grid line: sampled on the nearest clean ink beside it,5.968737,1246.51,0.021873,9.374,piecewise
+F2-47,1,lpt91,trace,26,2415,2187.5,3.9,3.9,,target 6.25 in,6.25111,1333.746,0.015594,6.602,piecewise
+F2-47,1,lpt91,trace,27,2491,2159.0,4.1,4.1,,target 6.50 in,6.498989,1369.415,0.016967,6.855,piecewise
+F2-47,1,lpt91,trace,28,2568,2130.0,4.3,4.3,,target 6.75 in,6.750166,1405.718,0.018349,7.108,piecewise
+F2-47,1,lpt91,trace,29,2638,2103,4,4,,end of the ink: the trace runs into the right frame line (x = 7) and does not continue past it; also serves as the 7.0 in sample,6.97857,1439.546,0.018015,6.707,piecewise
+F2-47,1,lpt91,feature,1,505,3239,4,4,,"first: ink starts at the corner of the frame (x about 0, load about 0); its first pixels merge with the axis lines",0.009763,9.431,0.015553,6.44,piecewise extrapolated x
+F2-47,1,lpt91,feature,2,656,3021.5,10,5,,"knee: end of the initial rise: the trace bends onto the plateau near 0.5 in (gradual bend, located within about 10 px along the line)",0.511227,289.094,0.034719,7.789,piecewise
+F2-47,1,lpt91,feature,3,762,3015.5,12,5,,"knee: end of the plateau (flat from about 0.52 to 0.85 in): the trace starts to rise again; gradual, located within about 12 px",0.855736,295.305,0.040972,7.818,piecewise
+F2-47,1,lpt91,feature,4,1716,2547,6,5,,knee: minor kink just before the x = 4 grid line: the slope drops to about half for some 0.15 in,3.965134,881.722,0.021324,7.92,piecewise
+F2-47,1,lpt91,feature,5,2026,2412,5,5,,knee: minor kink: start of a small step up (about 20 lb) across the x = 5 grid line,4.97271,1049.568,0.018002,8.115,piecewise
+F2-47,1,lpt91,feature,6,2050,2394.5,6,5,,"knee: minor kink: end of that small step, the trace flattens again",5.051591,1071.816,0.021481,8.125,piecewise
+F2-47,1,lpt91,feature,7,2379,2224.5,8,5,,"knee: onset of the steep step near 6.1 in (the trace already steepens gradually from about 6.05 in, where the dashed line ends)",6.132581,1286.461,0.02864,8.102,piecewise
+F2-47,1,lpt91,feature,8,2401,2194,4,5,,"knee: end of the steep step near 6.2 in: sharp kink, the trace flattens",6.205392,1325.56,0.015841,8.029,piecewise
+F2-47,1,lpt91,feature,9,2638,2103,4,4,,"peak: maximum of the trace: at its last point, where it runs into the right frame line (x = 7); the load still rises there",6.97857,1439.546,0.018015,6.707,piecewise
+F2-47,1,lpt91,feature,10,2638,2103,4,4,,last: end of the ink at the right frame line (x = 7),6.97857,1439.546,0.018015,6.707,piecewise
+F2-47,1,lpt101,trace,1,506,3215,8,10,,"start of the visible ink: the first dash meets the left frame line here and only its right edge shows (the sample is on that ink; the dash center is about 3 px further left, inside the bound); below this it is hidden in the 9 px axis line, toward the origin",0.01424,40.521,0.028887,14.273,piecewise extrapolated x
+F2-47,1,lpt101,trace,2,584,3055.5,8.6,9.4,,target 0.25 in falls in a dash gap: sampled 3 columns inside the start of the next dash (x about 0.27); the two traces run side by side and touch from about 0.07 to 0.29 in (about 95 to 240 lb); LPT No. 91 ink 7 px below,0.275698,246.092,0.030564,13.477,piecewise
+F2-47,1,lpt101,trace,3,649,2979.0,10.1,6.7,,target 0.50 in,0.490642,344.281,0.035143,9.987,piecewise
+F2-47,1,lpt101,trace,4,735,2939.5,8.9,7.7,,"target 0.75 in; at the target column the arrowhead of the LPT No. 101 label is merged on the dash: sampled just to the right, where the dash is clear and the arrowhead ink is separate above it",0.771867,394.205,0.03109,11.259,piecewise
+F2-47,1,lpt101,trace,5,796,2944.5,8.0,6.4,,target 1.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,0.969678,386.824,0.027959,9.561,piecewise
+F2-47,1,lpt101,trace,6,881,2961.5,9.1,6.5,,target 1.25 in; LPT No. 91 (solid) ink 6 px away,1.244936,363.535,0.031802,9.71,piecewise
+F2-47,1,lpt101,trace,7,968,2969.0,8.9,6.1,,target 1.50 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,1.527194,352.529,0.031432,9.19,piecewise
+F2-47,1,lpt101,trace,8,1036,2951.5,10.0,8.0,,target 1.75 in,1.748923,374.206,0.035332,11.666,piecewise
+F2-47,1,lpt101,trace,9,1122,2915.5,8.7,6.7,,target 2.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,2.02972,419.595,0.031041,9.956,piecewise
+F2-47,1,lpt101,trace,10,1181,2888.0,8.6,5.3,,target 2.25 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,2.221156,454.365,0.030611,8.135,piecewise
+F2-47,1,lpt101,trace,11,1274,2842.0,10.4,8.1,,target 2.50 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,2.523013,512.406,0.036483,11.614,piecewise
+F2-47,1,lpt101,trace,12,1344,2807.0,10.4,8.8,,target 2.75 in,2.750219,556.004,0.03647,12.545,piecewise
+F2-47,1,lpt101,trace,13,1430,2761.5,11.3,9.5,,target 3.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,3.029576,612.735,0.03947,13.501,piecewise
+F2-47,1,lpt101,trace,14,1498,2725.5,10.5,9.0,,target 3.25 in,3.251289,657.606,0.03671,12.89,piecewise
+F2-47,1,lpt101,trace,15,1574,2685.5,9.1,5.9,,"target 3.50 in; a stray mark beside the line in this column, not used",3.499098,707.441,0.031817,8.959,piecewise
+F2-47,1,lpt101,trace,16,1651,2644.5,10.3,7.9,,target 3.75 in,3.750214,758.517,0.035576,11.573,piecewise
+F2-47,1,lpt101,trace,17,1737,2599.5,10.6,8.7,,target 4.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,4.030598,814.534,0.036265,12.646,piecewise
+F2-47,1,lpt101,trace,18,1799,2567.0,9.3,6.2,,target 4.25 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,4.232316,854.978,0.031936,9.475,piecewise
+F2-47,1,lpt101,trace,19,1881,2522.0,11.5,9.8,,target 4.50 in,4.499223,911.02,0.039213,14.146,piecewise
+F2-47,1,lpt101,trace,20,1958,2479.5,10.7,9.1,,target 4.75 in,4.749892,963.936,0.036602,13.288,piecewise
+F2-47,1,lpt101,trace,21,2044,2431.5,10.7,8.9,,target 5.00 in; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,5.03023,1024.07,0.037005,13.256,piecewise
+F2-47,1,lpt101,trace,22,2111,2393.5,10.9,9.4,,target 5.25 in,5.250713,1072.144,0.037765,13.893,piecewise
+F2-47,1,lpt101,trace,23,2187,2351.5,10.2,7.7,,target 5.50 in; LPT No. 91 (solid) ink 5 px away,5.500754,1125.252,0.035491,11.67,piecewise
+F2-47,1,lpt101,trace,24,2263,2308.5,10.0,7.9,,target 5.75 in; LPT No. 91 (solid) ink 7 px away,5.750838,1179.657,0.034941,11.912,piecewise
+F2-47,1,lpt101,trace,25,2332,2267.5,11.8,11.0,,target 6.00 in; touches LPT No. 91 (solid) here: bound widened 2 px; target falls in a dash gap or on a grid line: sampled on the nearest clean ink,5.977977,1231.591,0.04102,15.937,piecewise
+F2-47,1,lpt101,trace,26,2353,2259,8,8,,end of the ink: the last dash ends touching the underside of LPT No. 91 (solid) at about 6.05 in; no dashed ink beyond it,6.046618,1242.253,0.028535,11.994,piecewise
+F2-47,1,lpt101,feature,1,506,3215,8,10,,"first: lowest visible ink of the first dash, where it meets the left frame line; it may continue hidden in the axis line toward the origin",0.01424,40.521,0.028887,14.273,piecewise extrapolated x
+F2-47,1,lpt101,feature,2,663,2962.5,9,8,,"knee: end of the steep initial rise: bend between two dashes, located at the start of the dash after it (x about 0.54)",0.536933,365.459,0.0316,11.653,piecewise
+F2-47,1,lpt101,feature,3,753,2937,14,7,,"knee: local maximum of the hump (flat top from about u 740 to 762, x 0.79 to 0.86); the arrow of the LPT No. 101 label points at this dash; this is not the peak of the trace",0.830436,397.18,0.047584,10.426,piecewise
+F2-47,1,lpt101,feature,4,941,2970,25,7,,"knee: local minimum after the hump (flat bottom from about u 926 to 975, x 1.39 to 1.55), just after the crossing with LPT No. 91",1.439434,351.632,0.08374,10.595,piecewise
+F2-47,1,lpt101,feature,5,2353,2259,8,8,,"peak: maximum of the trace: at its last point (about 6.05 in), touching LPT No. 91",6.046618,1242.253,0.028535,11.994,piecewise
+F2-47,1,lpt101,feature,6,2353,2259,8,8,,last: end of the ink: the last dash ends touching the underside of LPT No. 91 (solid); no dashed ink beyond it,6.046618,1242.253,0.028535,11.994,piecewise

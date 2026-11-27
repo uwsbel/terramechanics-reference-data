@@ -1,0 +1,9 @@
+The densest acquisition veins are NASA/WES reports with linked material characterization, and modern simulant papers with explicit experimental methods. The WES full report and summary should be acquired together, then deduplicated at the test-series level. [M-70-2](https://ntrs.nasa.gov/citations/19700020218), [M-70-4](https://ntrs.nasa.gov/citations/19700027358).
+
+Machine-readable measurements do exist: the Apollo penetrometer archives and DesignSafe sand tests are substantial counterexamples to an all-PDF collection. I did **not** verify a publicly downloadable, clearly licensed collection of complete simulant shear or triaxial histories during this hunt. That is a search outcome, not evidence that none exists. The 2026 characterization paper offers raw data on request, while the 2021 bevameter paper explicitly withholds it. [Apollo 15 PDS](https://pds-geosciences.wustl.edu/missions/apollo/a15lsrp.htm), [DesignSafe](https://doi.org/10.17603/ds2-dyph-pf84), [Joshi et al.](https://www.mdpi.com/2226-4310/13/6/527), [Kim et al.](https://www.mdpi.com/1424-8220/21/4/1541).
+
+I would acquire these three first:
+
+1. **Apollo 16 PDS LSRP:** machine-readable measurements plus original charts and calibration documentation; immediate provenance-rich lunar validation, with known instrument caveats. [Dataset](https://pds.nasa.gov/ds-view/pds/viewProfile.jsp?dsid=A16L-L-LSRP-2%2F3-SOIL-MECHANICS-V1.0).
+2. **NASA TN D-4711:** the closest new experimental companion to Bendix footpad work, with public-domain status and described gear, target preparation and impact measurements. Preserve the distinction between gear offloading and soil gravity. [Report](https://ntrs.nasa.gov/citations/19680021033).
+3. **Joshi et al. 2026:** broad modern material coverage, explicit CC BY licensing and unusually concrete shear/compression methods. Acquire the publication now and pursue its offered raw records separately. [Article](https://www.mdpi.com/2226-4310/13/6/527).

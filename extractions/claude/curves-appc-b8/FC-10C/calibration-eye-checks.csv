@@ -1,0 +1,9 @@
+figure_id,panel,axis,printed_label,value_psf,line_position_px,label_centre_px,label_minus_line_px,line_source,verdict,note
+FC-10C,1,y,800.00,8000,v 1478.2,v 1473.0,-5.2,detected in 10/10 bands; ink-verified,confirmed,top line of the grid (also the bottom edge of the text box above the plot; the frame continues up to the box top at v ~996 with no label there); the label's last zero touches the frame line; crop crops/ylab8000.png
+FC-10C,1,y,400.00,4000,v 2643.8,v 2636.5,-7.3,detected in 10/10 bands; ink-verified,confirmed,label beside the fifth line from the bottom; crop crops/ylab4000.png
+FC-10C,1,y,100.00,1000,v 3520.3,v 3515.0,-5.3,detected in 10/10 bands; ink-verified,confirmed,second line from the bottom; label centre by envhelp.py labels
+FC-10C,1,y,00,0,v 3819.5,v 3820.0,+0.5,detected in 10/10 bands; ink-verified,confirmed,bottom frame line; label printed 00; crop crops/ylab0.png
+FC-10C,1,x,00,0,u 484.9,u 487.0,+2.1,detected in 10/10 bands; ink-verified,confirmed,left frame line; label 00 under it; crop crops/xlab0-2000.png
+FC-10C,1,x,100.00,1000,u 780.2,u 776.0,-4.2,detected in 10/10 bands; ink-verified,confirmed,first interior vertical line; crop crops/xlab0-2000.png
+FC-10C,1,x,400.00,4000,u 1652.5,u 1651.5,-1.0,detected in 10/10 bands; ink-verified,confirmed,label centre by eye on the digits; crop crops/xlab4000-7000.png
+FC-10C,1,x,700.00,7000,u 2526.0,u 2522.0,-4.0,detected in 10/10 bands; ink-verified,confirmed,right frame line; the bottom axis line continues as a dotted stroke to u ~2620 past this frame line but carries no label and no vertical line; crop crops/xlab4000-7000.png

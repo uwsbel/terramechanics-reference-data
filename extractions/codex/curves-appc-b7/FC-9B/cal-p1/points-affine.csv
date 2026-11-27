@@ -1,0 +1,16 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_target_psf,x_unit,y_unit,x_native,y_native,x_read_bound,y_read_bound
+FC-9B,1,rs-dense,marker,1,950.333,3286.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. Vertical grid line runs through triangle; centroid reconstructed.,,psf,psf,1012.667,1808.66,21.574,38.418
+FC-9B,1,rs-dense,marker,2,1253.333,2997.667,5,8,triangle-up,Triangle centroid from reconstructed vertices. Left base touches vertical grid line; reconstructed from other sides.,,psf,psf,2062.152,2792.732,21.574,38.418
+FC-9B,1,rs-dense,marker,3,1504.333,2674.0,16.5,13.5,triangle-up,Triangle centroid from reconstructed vertices. Right vertex merges with fitted line and vertical grid; widened to half symbol extent.,,psf,psf,2934.417,3896.086,61.218,57.388
+FC-9B,1,rs-dense,marker,4,1845.0,2349.333,17.0,14.5,triangle-up,"Triangle centroid from reconstructed vertices. Base merges with 500.00 grid and fitted line endpoint; reconstructed from apex/sides, widened to half symbol extent.",,psf,psf,4114.358,5001.604,62.968,60.815
+FC-9B,1,rs-dense,trace,1,658.027,3616.592,7.913,8.5,,first point; line begins on zero axis; centre of short diagonal stroke meeting axis ink,,psf,psf,-1.53,684.484,31.585,40.169
+FC-9B,1,rs-dense,trace,2,803.517,3460.5,7.448,8.0,,,500,psf,psf,502.99,1216.246,29.973,38.453
+FC-9B,1,rs-dense,trace,3,1092.017,3152.0,7.913,8.5,,,1500,psf,psf,1503.394,2267.207,31.585,40.169
+FC-9B,1,rs-dense,trace,4,1378.9,2842.0,6.982,7.5,,,2500,psf,psf,2498.303,3323.32,28.357,36.736
+FC-9B,1,rs-dense,trace,5,1522.934,2688.422,7.913,8.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3000,psf,psf,2997.741,3846.506,31.585,40.169
+FC-9B,1,rs-dense,trace,6,1667.114,2533.5,8.379,9.0,,,3500,psf,psf,3497.727,4374.285,33.201,41.885
+FC-9B,1,rs-dense,trace,7,1811.294,2379.082,7.913,8.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,4000,psf,psf,3997.695,4900.341,31.585,40.169
+FC-9B,1,rs-dense,trace,8,1835.928,2352.384,17,15,,"last point; peak of monotonically increasing straight trace; terminal locus concealed in final triangle base and 500.00 grid; position assigned to ink merger, wide endpoint bound covers concealed tip",,psf,psf,4083.128,4991.297,62.985,62.525
+FC-9B,1,rs-dense,feature,1,658.027,3616.592,7.913,8.5,,first point,,psf,psf,-1.53,684.484,31.585,40.169
+FC-9B,1,rs-dense,feature,2,1835.928,2352.384,17,15,,"last point; peak of monotonically increasing straight trace; terminal locus concealed in final triangle base and 500.00 grid; position assigned to ink merger, wide endpoint bound covers concealed tip",,psf,psf,4083.128,4991.297,62.985,62.525
+FC-9B,1,rs-dense,feature,3,658.027,3616.592,7.913,8.5,,intercept,,psf,psf,-1.53,684.484,31.585,40.169

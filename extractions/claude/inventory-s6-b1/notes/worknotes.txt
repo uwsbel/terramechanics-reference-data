@@ -1,0 +1,102 @@
+WORKING NOTES (raw)
+373 F6-10 table sideways (rot 90 cw upright), printed 6-15.
+  cols: NASA Drop No.; Bendix Drop No. and Date; Soil; VV fps; VH fps; Ground Slope (Deg.); Yaw Angle (Deg.); Relative Density Dr; Absolute Density Lb./Ft.3; Friction Angle phi; Stable
+  1: B10 7-18-67 RS Loose 10 0 0 45 0 46.9 41 Yes
+  2: B11 7-19-67 RS Loose 5 7 0 45 0 46.9 41 Yes
+  3: B12 7-20-67 RS Loose 5 7 0 45 0 47.1 41 Yes
+  4: B13 7-20-67 RS Loose 10 0 0 45 0 47.1 41 Yes
+  5: B16 7-25-67 RS Intermediate 5 7 0 45 "3" (decimal point not visible) 53.0 42.5 Yes
+  6: B17 7-25-67 RS Intermediate 10 0 0 45 0.3 53.0 42.5 Yes
+  7: B20 7-28-67 SS Loose 5 7 0 45 0 96.0 30 Yes
+  8: B21 7-28-67 SS Loose 10 0 0 45 0 96.0 30 Yes
+380-383 F6-12 Computer Results for LM Model Drop No. 2 Using High Strut Damping In Simulation (See Figure 6-10 for drop conditions) sheets 1-4, printed 6-22..6-25. computed only, 1 trace per panel.
+  s1 (380): a Footpad Velocity Vap Inches Second 10-100; b Footpad Velocity Angle theta Degrees 35-90; c Footpad Penetration d Inches 0-3.75; d captioned "Vehicle Pitch Acceleration - Xi" but y Degrees 0-3.75 (pitch angle shape). x Time Second(s) 0-0.12.
+  s2 (381): e Vehicle Pitch Acceleration Degrees Second^2 -2500..5000; f Vehicle Pitch Rate Degrees Second -5..55 (ticks printed 35, 15, 25, 5: a 15 where 25 expected); g Vehicle c.g. Vertical Position X Inches 21.5-24.5; h Vehicle c.g. Horizontal Position Y Inches 0-6.
+  s3 (382): i Vehicle c.g. Horizontal Velocity Ydot Inches Second 32.5-85; j Vertical Velocity Xdot Inches Second -65..15; k Vertical Acceleration Xddot Inches/Second^2 -400..1200; l Horizontal Acceleration Yddot Inches/Second^2 -800..0
+  s4 (383): m Footpad Pitch Angle alpha Degrees 0-22.5. 1 panel.
+384-387 F6-13 Detail Correlation Results For LM Model Drop No. 1 Using Low Strut Damping in Computer Simulation (See Figure 6-10 for drop conditions) sheets 1-4 printed 6-26..6-29. Each panel Experimental + Computer. x Elapsed Time, Second 0-0.1.
+  s1: a Vap Inches Second -40..120 (exp dashed staircase); b theta Degrees 0-100; c d Inches 0-5 (exp dashed); d Vehicle Pitch Acceleration y "Degrees, Second" (no square) -5000..6000 (exp solid, comp dashed)
+  s2: e pitch rate Degrees Second -30..15; f pitch angle Degrees -1.5..1.5; g X Inches 18-25; h Y Inch -0.5..0.5
+  s3: i Xdot Inches Second -120..10; j Ydot Inches Second -200..200; k Xddot Inches Second^2 -500..2000; l Yddot Inches Second^2 -1500..1750
+  s4: m Footpad Pitch Angle alpha Degrees -5.5..0.5; n Footpad Roll Angle beta Degrees -1..3. 2 panels.
+388-391 F6-14 Drop No. 3 low, printed 6-30..6-33.
+  s1: a Vap Inches Second 10-110; b theta Degrees 25-90; c d Inches 0-4.5; d pitch acc "Degrees Second" -8000..10000
+  s2: e pitch rate Degrees Second -10..70; f pitch angle Degrees -0.5..3.5; g X Inches 21-24.5; h Y Inches 0-6.5
+  s3: i Xdot Inches Second -70..20; j Ydot Inches Second 30-85; k Xddot Inches Second^2 -400..1200; l Yddot Inches Second^2 -1200..0
+  s4: m alpha Degrees -20..25; n beta Degrees 0-8
+392-395 F6-15 Drop No. 4 low, printed 6-34..6-37
+  s1: a Vap Inches Second 0-120; b theta Degrees 0-90; c d Inches 0-5.5; d pitch acc "Degrees Second" -1500..2500
+  s2 (393): e pitch rate Degrees Second -2..7; f pitch angle Degrees -0.05..0.35; g X Inches 19-24.5; h Y Inches -0.05..0.4
+  s3 (394): i captioned Vertical Velocity but y "Inches Second^2" 0..3000 (-500), plateau 1500 like an acceleration; j captioned Horizontal Velocity but y Inches Second -120..10 (vertical velocity shape); k captioned Vertical Acceleration but y Inches Second -0.5..5.5; l Horizontal Acceleration Inches Second^2 -200..500.
+  s4 (395): m alpha Degrees -5..25; n beta Degrees 0-4
+396-399 F6-16 Drop No. 5 low, printed 6-38..6-41
+  s1: a Vap Inches Second 0-110; b theta Degrees 0-90; c d Inches 0-3.5; d pitch acc "Degrees Second" -10000..12500
+  s2 (397): e captioned "Vehicle Pitch Rate" but y Degrees -0.5..3.5 (angle-like); f captioned "Vehicle Pitch Angle" but y Degrees Second -5..60 (rate-like). g X Inches 21.6..24.4; h Y Inches 0-6.5
+  s3 (398): i Xdot Inches Second -70..20; j Ydot Inches Second 20-85; k Xddot Inches Second^2 -400..1600; l Yddot Inches Second^2 -1600..600
+  s4 (399): m alpha Degrees -20..25; n beta Degrees 0..5.5
+400-403 F6-17 Drop No. 6 low, printed 6-42..6-45
+  s1 (400): a Vap Inches Second 0-120; b theta Degrees 0-70; c d Inches 0-3; d pitch acc "Degrees Second" -5000..9000
+  s2 (401): e pitch rate Degrees Second -15..25; f pitch angle Degrees -0.7..0.2; g X Inches 20.5..24.5; h Y Inches -0.05..0.55
+  s3 (402): i Xdot Inches Second -120..10; j Ydot Inches Second -1..9; k Xddot Inches/Second^2 -500..5000; l Yddot Inches Second^2 -400..800
+  s4 (403): m alpha Degrees -10..25; n beta Degrees 0-8
+404-407 F6-18 Drop No. 7 low, printed 6-46..6-49
+  s1 (404): a Vap Inches Second 0-110; b theta Degrees 25-90; c d Inches 0-3.5; d pitch acc "Degrees Second" -10000..10000
+  s2 (405): e pitch rate Degrees Second -10..80; f pitch angle Degrees -0.5..4; g X Inches 21.5..24.5; h Y Inches 0-6
+  s3 (406): i Xdot Inches Second -70..20; j Ydot Inches Second 30..85; k Xddot Inches Second^2 -400..1600; l Yddot Inches Second^2 -1200..0
+  s4 (407): m alpha Degrees -20..25; n beta Degrees 0..6.5
+408-411 F6-19 Drop No. 8 low, printed 6-50..6-53
+  s1 (408): a Vap Inches Second 0-120; b theta Degrees -10..90; c d Inches 0-4; d captioned "Vehicle Pitch Angle - Xi" but y Degrees/Second^2 -5000..5000 (acceleration)
+  s2 (409): e pitch rate Degrees Seconds -20..20; f pitch angle Degrees -1..0.1; g X Inches 19.5..24.5; h Y Inches -0.05..0.6
+  s3 (410): i Xdot Inches Second -120..10; j Ydot Inches Seconds -1..9; k Xddot Inches Second^2 -500..4000; l Yddot Inches Seconds^2 -600..1400
+  s4 (411): m alpha Degrees -10..25; n beta Degrees 0..5.5
+412-415 F6-20 Computer Results For LM Model Drop No. 1 Using High Strut Damping in Computer Simulation (See Figure 6-10 for drop conditions) printed 6-54..6-57
+  s1 (412): a Vap Inches Second 0-120; b theta Degrees 0-90; c d Inches 0-4; 4th panel lettered "e) Vehicle Pitch Acceleration - Xi" (no d panel), y "Vehicle Pitch Degrees", all y tick labels print "0". x Time/Seconds 0-0.12
+  s2 (413): e Vehicle Pitch Acceleration Degrees Second^2 -125..125; f Vehicle Pitch Rate Degrees Second -0.001..0.002; g X Inches 20-24.5; h Y Inches 0-1 (flat at 0)
+  s3 (414): i Horizontal Velocity Ydot Inches/Second, y ticks truncated ("-0"; 0.0001..0.0003); j Vertical Velocity Xdot Inches/Second -120..0; k Xddot Inches/Second^2 -500..3000; l Yddot Inches/Second^2 -6..6
+  s4 (415): m alpha Degrees 0-0.075
+416-419 F6-21 Drop No. 3 High, printed 6-58..6-61
+  s1 (416): a Vap Inches/Second 10-100; b theta Degrees 35-90; c d Inches 0-3.75; d Vehicle Pitch Angle Degrees 0-3.75
+  s2 (417): e Vehicle Pitch Acceleration y label "Inches" (sic) -3000..5000; f pitch rate Degrees/Second -5..55; g X Inches 21.5..24.5; h Y Inches 0-6
+  s3 (418): i Ydot Inches Second 32.5..85; j Xdot Inches Second -65..15; k Xddot Inches Second^2 -400..1200; l Yddot Inches/Second^2 -800..0
+  s4 (419): m alpha Degrees 10..22
+  OVERLAY: traces of 416/417/418 coincide with 380/381/382 (F6-12). Tick labels differ s2 e and s4 m.
+420- F6-22 Drop No. 4 High, printed 6-62..
+  s1 (420): a Vap Inches Second 0-120; b theta Degrees 0-90; c d Inches 0-4; d Vehicle Pitch Angle Degrees, tick labels all "0". a,b,c traces coincide with F6-20 s1; d differs from F6-20 s1 4th panel.
+  s2 (421): e pitch acc Degrees Second^2 -150..850 (ticks -150,-50,50,...,850); f pitch rate Degrees/Second -0.001..0.0017 (ticks -0 repeated); g X Inches 20-24.5; h Y Inches all ticks printed 0.0020, trace flat then falls after 0.1 s
+  s3 (422): i Ydot Inches Second ticks truncated ("-0", "0", "-0.001"); j Xdot Inches/Second -120..0; k Xddot (label "Inches Second", partly legible) -500..3000; l Yddot Inches/Second^2 -6..6
+  s4 (423): m alpha Degrees 0-22.5, trace along 0. printed 6-65 (page map label 4)
+424-427 F6-23 drop 5 high, printed 6-66..6-69
+  s1 (424): a Vap Inches Second 10-100; b theta Degrees 35-95; c d Inches 0-2.5; d pitch angle Degrees 0-3.25 (x "Time Second")
+  s2 (425): e pitch acc Degrees/Second^2 -2500..3500; f pitch rate Degrees/Second -5..55; g X Inches 22.5..24.3; h Y Inches 0-5
+  s3 (426): i Ydot Inches Second 20..85; j Xdot Inches Second -65..15; k Xddot Inches/Second^2 -400..1600; l Yddot Inches/Second^2 -1300..-100
+  s4 (427): m alpha Degrees 0..16
+428-431 F6-24 drop 6 high, printed 6-70..6-73 (page map 428 label 6-10 is a misread)
+  s1 (428): a Vap Inches Second 0-120; b theta Degrees 0-90; c d Inches 0-2.25; d pitch angle Degrees, all y tick labels "0"
+  s2 (429): e pitch acc Degrees Second^2 ticks 250,-250,-750?,1250,1750,-2250,-2750 (signs inconsistent), trace flat near top; f pitch rate Degrees/Second 0.0001..0.0015, lower ticks "-0"; g X Inches 21.75..24.25 with x ticks printed 0.2,0.4,0.6,0.8 (for 0.02..0.08); h Y Inches 0-1 flat at 0
+  s3 (430): i Ydot Inches Second ticks all "0"/"-0"; j Xdot Inches/Second -120..0; k Xddot Inches/Second^2 -500..4500; l Yddot Inches/Second^2 -0.25..2.25
+  s4 (431): m alpha Degrees 0-16 trace along 0
+432-435 F6-25 drop 7 high, printed 6-74..6-77
+  s1 (432): a Vap Inches Second 0-105; b theta Degrees 35-95; c d Inches 0-3; d pitch angle y label "Pitch" 0-4
+  s2 (433): e pitch acc y label not seen, -2500..5000; f pitch rate Degrees/Second -5..55; g X Inches 22-24.5; h Y Inches 0-6
+  s3 (434): i Ydot Inches/Second 25-85; j Xdot Inches/Second -65..15; k Xddot Inches/Second^2 -400..1200; l Yddot Inches/Second^2 -1100..-100
+  s4 (435): m alpha Degrees 0-20. page map label "i" for 435.
+436-439 F6-26 drop 8 high, printed 6-78..6-81
+  s1 (436): a Vap Inches Seconds 0-120 (x tick "0.00" for 0.04); b theta Degrees 0-90; c d Inches 0-3.5; d pitch angle Degrees 0..0.0004 (ticks repeated)
+  s2 (437): e pitch acc Degrees/Second^2 -50..700; f pitch rate Degrees/Second -0.001..0.011; g X Inches 20.75..24.5; h Y Inches ticks 0.0028/0.0029 repeated
+  s3 (438): i Ydot Inches Second -0.001..0.0045; j Xdot Inches Second -120..0; k Xddot Inches/Second^2 -500..4000; l Yddot Inches/Second^2 about -0.8..0.7
+  s4 (439): m alpha Degrees 0-20, no trace visible above 0
+440 F6-27 Comparison of Computed and Experimental Footpad Penetration Depths, printed 6-82. 8 strips, y "Computed Depth - Experimental Depth 0.25 Inch Per Division", each strip own 0 with + and -; x Time-Seconds 0-.10. Legend: Drop No. 1 Dmax = 4.3 in.; 2 4.2; 3 4.2; 4 5.3; 5 3.4; 6 3.0; 7 3.3; 8 3.7. Damping of computation not stated in caption.
+375-378 F6-11 "Detail Correlation Results for LM Model Drop No. 2 Using Low Strut Damping in Computer Simulation (See Figure 6-10 for drop conditions) (Sheet N of 4)" printed 6-17..6-20. x "Elapsed Time, Second" 0-0.1. Labels "Experimental" (dashed) and "Computer" (solid) arrows in every panel.
+  s1 (375): a Vap Inches Second 10..110; b theta Degrees 25..90; c d Inches 0..4.5; d pitch acc Degrees Second^2 -8000..10000. 2 traces each = 8.
+  s2 (376): e pitch rate Degrees Second -10..70; f pitch angle Degrees -0.5..3.5; g X Inches 21..24.5; h Y Inches 0..7. 8 traces.
+  s3 (377): i Xdot Inches Second -70..20; j Ydot Inches Second 35..85; k Xddot Inches Second^2 -400..1200; l Yddot Inches Second^2 -1200..400. 8 traces.
+  s4 (378): m alpha Degrees -15..25 (exp + comp); n beta Degrees 0..8 (experimental only, labeled Experimental). 3 traces.
+  F6-11 vs F6-14 sheet 1 panel d side by side: computed traces nearly identical, experimental traces differ: not a reprint.
+PROSE 6-16 (PDF 374): "Drop No. 3 same as No. 1, No. 4 same as No. 2" (printed 6-21, PDF 379) vs F6-10: drops 1 and 4 are VV 10 VH 0; 2 and 3 are VV 5 VH 7. Prose wrong per table.
+PROSE 6-14 (PDF 372) variable list: Xi plain = pitch acceleration, Xi-dot = pitch rate, Xi-double-dot = pitch angle (dots inverted); Z = vertical position, Zdot, Zddot in list; figures use X, Xdot, Xddot.
+PROSE 6-21 (PDF 379): Figures 6-12(a) through 6-12(m) high damping drop 2; 6-13 through 6-19 original damping 10 Sdot; 6-20 through 6-26 higher damping. Figure 6-27 difference computed - experimental penetration.
+PROSE 6-18? (PDF 374): roll angle not computed, assumed zero; experimental roll < 8 deg.
+F6-6 remark drop 22 "RS Dense soil- 10 rolls per two-inch layer" vs 5-68 (PDF 348) "layers about four inches thick, followed by rolling 20 times (10 back and forth cycles) for every 24-inch width".
+F6-6 drop 25 VV 12 VH 5 No; F5-40 and F6-7 plot 25 at VH about 6, VV 12 (filled). Drop 24 VV 12 VH 5 Yes plotted at VH 5.
+F5-42: markers labeled 35-42 and 44; one unlabeled marker near VH 8, VV 3.9 (43 not printed).
+F6-7 legend "Dr (From DPT Tests) as Marked" but no Dr values on plot.

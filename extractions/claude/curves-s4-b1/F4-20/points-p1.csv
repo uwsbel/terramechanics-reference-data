@@ -1,0 +1,138 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F4-20,1,run4,feature,1,2276,3793,7,7,solid,"first: the three traces start together in the ink at the origin corner, merged with each other and with the frame (displacement 0 and force 0 lines); the first point is where that merged ink meets the force = 0 frame line, about 6 px of trace ink above the frame; the same point for the three series, not separable by series; wide bound"
+F4-20,1,run4,trace,2,2276,3793,7,7,solid,"trace start, at the first point (merged ink at the origin corner; see the first feature)"
+F4-20,1,run4,trace,3,2100,3779,6,7.5,solid,"sample for F = 50 lb (about 60 lb, the nearest clean ink: at the 50 lb line Run 12 and the grid line merge in); Run 4 and Run 10 run together here (one band of ink, v 3772 to 3786, between u about 2050 and the origin) and cannot be told apart; centre of the band, bound covering the whole band; the same pixel as Run 10's sample"
+F4-20,1,run4,trace,4,1968,3753,6.5,6.5,solid,"sample for F = 100 lb (about 102 lb), 7 px left of the 100 lb grid line, where the line's own ink is clear (a Run 10 dot touches it at u 1954 to 1964)"
+F4-20,1,run4,trace,5,1942.6,3743.5,6.2,6.2,solid,sample for x = 0.1 in
+F4-20,1,run4,trace,6,1908.3,3681.2,6.2,6.2,solid,sample for x = 0.2 in
+F4-20,1,run4,feature,7,1903.5,3653,6,7,solid,peak: first local maximum of the force; the line is at its leftmost over v 3646 to 3660
+F4-20,1,run4,trace,8,1908.9,3619.2,5.5,5.5,solid,sample for x = 0.3 in
+F4-20,1,run4,trace,9,1926.7,3556.8,6.0,6.0,solid,sample for x = 0.4 in
+F4-20,1,run4,trace,10,1953.8,3494.6,5.8,5.8,solid,sample for x = 0.5 in
+F4-20,1,run4,trace,11,1982.9,3432.3,5.5,5.5,solid,sample for x = 0.6 in
+F4-20,1,run4,trace,12,2013.4,3369.4,6.2,6.2,solid,sample for x = 0.7 in
+F4-20,1,run4,trace,13,2037.4,3306.9,6.2,6.2,solid,sample for x = 0.8 in
+F4-20,1,run4,trace,14,2050.4,3245.5,6.0,6.0,solid,sample for x = 0.9 in
+F4-20,1,run4,feature,15,2053.7,3187,5,23,solid,"knee, minimum: the force is flat at its minimum over v 3164 to 3210 (location along x not an observation)"
+F4-20,1,run4,trace,16,2053.5,3182.7,6.2,6.2,solid,sample for x = 1 in
+F4-20,1,run4,trace,17,2046.9,3121.1,5.5,5.5,solid,sample for x = 1.1 in
+F4-20,1,run4,trace,18,2038.0,3058.8,5.5,5.5,solid,sample for x = 1.2 in
+F4-20,1,run4,trace,19,2027.0,2996.8,4.8,4.8,solid,sample for x = 1.3 in
+F4-20,1,run4,trace,20,2019.0,2932.5,4.5,4.5,solid,sample for x = 1.4 in; another trace close by: run10 (5 px between centres)
+F4-20,1,run4,trace,21,2006.4,2876.0,7.0,7.0,solid,sample for x = 1.5 in
+F4-20,1,run4,trace,22,1985.3,2811.6,5.5,5.5,solid,sample for x = 1.6 in
+F4-20,1,run4,trace,23,1971.5,2763,6,6,solid,"sample for x = 1.7 in (about 1.68 in): between v 2700 and 2758 the line runs into the 100 lb grid line on its left; sampled just below, where its own ink is clear"
+F4-20,1,run4,trace,24,1959.5,2700,6,6,solid,"last ink before the scan dropout (no ink, grid lines included, from v 2666 to 2697); x = 1.8 in falls in it and cannot be read"
+F4-20,1,run4,trace,25,1954.5,2661,6,6,solid,first ink after the scan dropout
+F4-20,1,run4,trace,26,1951.5,2628,6.5,6.5,solid,sample for x = 1.9 in; the 100 lb grid line merges with the right side of the line here; centre from the clear left edge (u 1945.5) plus half the line width
+F4-20,1,run4,trace,27,1945.1,2563.6,6.5,6.5,solid,sample for x = 2 in
+F4-20,1,run4,trace,28,1938.4,2501.9,6.0,6.0,solid,sample for x = 2.1 in
+F4-20,1,run4,trace,29,1933.0,2440.1,5.8,5.8,solid,sample for x = 2.2 in
+F4-20,1,run4,trace,30,1927.1,2378.4,5.5,5.5,solid,sample for x = 2.3 in
+F4-20,1,run4,trace,31,1921.0,2315.7,5.5,5.5,solid,sample for x = 2.4 in
+F4-20,1,run4,trace,32,1914.5,2254.0,6.0,6.0,solid,sample for x = 2.5 in
+F4-20,1,run4,trace,33,1907.5,2192.4,5.0,5.0,solid,sample for x = 2.6 in
+F4-20,1,run4,trace,34,1900.0,2129.8,5.8,5.8,solid,sample for x = 2.7 in
+F4-20,1,run4,trace,35,1892.5,2068.3,5.0,5.0,solid,sample for x = 2.8 in
+F4-20,1,run4,trace,36,1883.6,2005.9,5.0,5.0,solid,sample for x = 2.9 in
+F4-20,1,run4,trace,37,1878.7,1944.1,6.0,6.0,solid,sample for x = 3 in
+F4-20,1,run4,trace,38,1873.2,1882.3,5.5,5.5,solid,sample for x = 3.1 in
+F4-20,1,run4,trace,39,1868.5,1820.5,5.0,5.0,solid,sample for x = 3.2 in
+F4-20,1,run4,trace,40,1863.9,1758.6,5.5,5.5,solid,sample for x = 3.3 in
+F4-20,1,run4,trace,41,1858.0,1696.8,5.8,5.8,solid,sample for x = 3.4 in
+F4-20,1,run4,trace,42,1853.3,1634.0,6.8,6.8,solid,sample for x = 3.5 in
+F4-20,1,run4,trace,43,1845.9,1572.4,5.5,5.5,solid,sample for x = 3.6 in
+F4-20,1,run4,trace,44,1839.8,1510.7,5.5,5.5,solid,sample for x = 3.7 in
+F4-20,1,run4,trace,45,1833.0,1448.1,5.5,5.5,solid,sample for x = 3.8 in
+F4-20,1,run4,trace,46,1826.0,1386.5,5.5,5.5,solid,sample for x = 3.9 in
+F4-20,1,run4,trace,47,1820.5,1324.7,6.0,6.0,solid,sample for x = 4 in
+F4-20,1,run4,feature,48,1819.5,1300,5,15,solid,peak: second local maximum of the force; the line is at its leftmost over v 1285 to 1316
+F4-20,1,run4,trace,49,1826.2,1261.8,5.8,5.8,solid,sample for x = 4.1 in
+F4-20,1,run4,feature,50,1830,1250,5,5,solid,knee: rounded corner where the trace stops penetrating and the force starts to fall at the largest displacement
+F4-20,1,run4,trace,51,1939.8,1230.5,6.0,6.0,solid,sample for F = 100 lb
+F4-20,1,run4,trace,52,2093.8,1228.6,6.0,6.0,solid,sample for F = 50 lb
+F4-20,1,run4,feature,53,2141,1229.5,5,5,solid,knee: kink where the falling-force stroke turns down-right into a short diagonal (displacement decreasing slightly)
+F4-20,1,run4,trace,54,2141,1229.5,5,5,solid,"added at the kink, so the trace keeps its shape"
+F4-20,1,run4,feature,55,2189,1252,5,5,solid,"knee, minimum: tip of the end hook, the lowest force after the second peak; the diagonal and the return stroke merge here"
+F4-20,1,run4,trace,56,2189,1252,5,5,solid,"added at the tip of the end hook, so the trace keeps its shape (diagonal and return stroke merged)"
+F4-20,1,run4,feature,57,2110,1252.5,4,6,solid,last: left end of the return stroke of the end hook; the force rises again from about 20 to about 45 lb at nearly constant displacement (drawn so; it may be the footpad settling on the soil)
+F4-20,1,run4,trace,58,2110,1252.5,4,6,solid,"trace end, at the last point (left end of the return stroke)"
+F4-20,1,run10,feature,1,2276,3793,7,7,dotted,"first: the three traces start together in the ink at the origin corner, merged with each other and with the frame (displacement 0 and force 0 lines); the first point is where that merged ink meets the force = 0 frame line, about 6 px of trace ink above the frame; the same point for the three series, not separable by series; wide bound"
+F4-20,1,run10,trace,2,2276,3793,7,7,dotted,"trace start, at the first point (merged ink at the origin corner; see the first feature)"
+F4-20,1,run10,trace,3,2100,3779,6,7.5,dotted,"sample for F = 50 lb (about 60 lb, the nearest clean ink: at the 50 lb line Run 12 and the grid line merge in); Run 4 and Run 10 run together here (one band of ink, v 3772 to 3786, between u about 2050 and the origin) and cannot be told apart; centre of the band, bound covering the whole band; the same pixel as Run 4's sample"
+F4-20,1,run10,trace,4,1959,3763.5,8,6,dotted,sample for F = 100 lb (about 105 lb); the dot merges with the Run 4 line above it; centre taken half a dot (5 px) above the dot's lower edge (v 3768.5); bound widened along the line to half the gap
+F4-20,1,run10,trace,5,1857.9,3742.8,5.2,5.7,dotted,sample for x = 0.1 in; dot centre 3 px along the line from the target; bound widened along the line to half the gap (6 px)
+F4-20,1,run10,trace,6,1825.5,3736.4,5.0,5.3,dotted,sample for F = 150 lb; dot centre 5 px along the line from the target; bound widened along the line to half the gap (4 px)
+F4-20,1,run10,trace,7,1666.6,3700.9,4.5,4.9,dotted,sample for F = 200 lb; dot centre 0 px along the line from the target; bound widened along the line to half the gap (4 px)
+F4-20,1,run10,trace,8,1609.3,3686.8,5.5,6.2,dotted,sample for x = 0.2 in; dot centre 8 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,trace,9,1512.2,3655.6,4.2,5.0,dotted,sample for F = 250 lb; dot centre 2 px along the line from the target; bound widened along the line to half the gap (6 px)
+F4-20,1,run10,trace,10,1431.4,3629.1,4.9,5.6,dotted,sample for x = 0.3 in; dot centre 14 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,feature,11,1406.9,3616.4,5,6,dotted,peak: the corner dot at the end of loading (largest force of the run); the dots then rise nearly at constant force to the next corner
+F4-20,1,run10,trace,12,1417.6,3567.3,4.7,4.2,dotted,sample for x = 0.4 in; dot centre 5 px along the line from the target; bound widened along the line to half the gap (5 px)
+F4-20,1,run10,feature,13,1430.7,3521.3,5,5,dotted,knee: corner dot where the near-constant-force stretch turns into the unloading branch
+F4-20,1,run10,trace,14,1459.4,3501.2,6.3,7.2,dotted,sample for x = 0.5 in; dot centre 4 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,trace,15,1557.8,3434.7,6.0,6.5,dotted,sample for x = 0.6 in; dot centre 2 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,trace,16,1656.2,3366.0,7.0,7.4,dotted,sample for x = 0.7 in; dot centre 14 px along the line from the target; bound widened along the line to half the gap (6 px)
+F4-20,1,run10,trace,17,1722.9,3311.7,5.1,5.4,dotted,sample for x = 0.8 in; dot centre 1 px along the line from the target; bound widened along the line to half the gap (5 px)
+F4-20,1,run10,trace,18,1795.5,3241.7,5.9,5.7,dotted,sample for x = 0.9 in; dot centre 8 px along the line from the target; bound widened along the line to half the gap (6 px)
+F4-20,1,run10,trace,19,1832.5,3185.2,6.0,5.5,dotted,sample for x = 1 in; dot centre 0 px along the line from the target; bound widened along the line to half the gap (5 px)
+F4-20,1,run10,feature,20,1857,3126,5,5,dotted,knee: kink in the unloading branch at the lower end of a short stretch of closely spaced dots; the slope on the page changes from about -2.6 to -1.25
+F4-20,1,run10,trace,21,1859.7,3123.0,5.2,5.0,dotted,sample for x = 1.1 in; dot centre 0 px along the line from the target; bound widened along the line to half the gap (4 px)
+F4-20,1,run10,trace,22,1912.6,3059.3,5.6,5.4,dotted,sample for x = 1.2 in; dot centre 1 px along the line from the target; bound widened along the line to half the gap (6 px)
+F4-20,1,run10,trace,23,1967.4,2993.1,6.3,5.9,dotted,sample for x = 1.3 in; dot centre 5 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,trace,24,2006.7,2938.9,5.7,5.5,dotted,sample for x = 1.4 in; dot centre 5 px along the line from the target; bound widened along the line to half the gap (7 px); another trace close by: run4 (12 px between centres)
+F4-20,1,run10,trace,25,2065.2,2877.4,6.4,6.6,dotted,sample for x = 1.5 in; dot centre 8 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,feature,26,2087.9,2862.4,5,8,dotted,"knee, minimum: corner dot where the trace turns to nearly constant force; the force is lowest here and rises slightly (by about 6 lb) to the second peak"
+F4-20,1,run10,trace,27,2085.0,2813.8,5,5,dotted,"last dot before the scan dropout (no ink, grid lines included, from about x 1.6 to 1.96 in); x = 1.7, 1.8 and 1.9 in cannot be read"
+F4-20,1,run10,trace,28,2064.0,2609.0,5,5,dotted,"first dot after the scan dropout; a stray thin stroke (u 2069 to 2081, v 2608 to 2610) to its right is not part of the trace"
+F4-20,1,run10,feature,29,2064.0,2594.0,5,9,dotted,"peak: second local maximum of the force (the two dots at u 2064, v 2594 and 2609, are equally far left), before the force falls at the largest displacement along the x = 2.0 in grid line"
+F4-20,1,run10,trace,30,2064.0,2594.0,5,5,dotted,"added at the second peak (dot centre), so the trace keeps its shape"
+F4-20,1,run10,trace,31,2088.9,2575.9,5,5,dotted,added at the bend where the trace turns to run along the x = 2.0 in grid line (dot centre)
+F4-20,1,run10,trace,32,2122.9,2568.5,5.0,5.4,dotted,sample for F = 50 lb; dot centre 10 px along the line from the target; bound widened along the line to half the gap (7 px)
+F4-20,1,run10,trace,33,2155.5,2562.7,5.2,5.7,dotted,sample for x = 2 in; dot centre 5 px along the line from the target; bound widened along the line to half the gap (9 px)
+F4-20,1,run10,feature,34,2187.2,2557.7,5,6,dotted,"last: the last dot, partly on the x = 2.0 in grid line (end of the trace)"
+F4-20,1,run10,trace,35,2187.2,2557.7,5,6,dotted,"trace end, at the last point (last dot)"
+F4-20,1,run12,feature,1,2276,3793,7,7,dashed,"first: the three traces start together in the ink at the origin corner, merged with each other and with the frame (displacement 0 and force 0 lines); the first point is where that merged ink meets the force = 0 frame line, about 6 px of trace ink above the frame; the same point for the three series, not separable by series; wide bound"
+F4-20,1,run12,trace,2,2276,3793,7,7,dashed,"trace start, at the first point (merged ink at the origin corner; see the first feature)"
+F4-20,1,run12,trace,3,2122,3791,10,5,dashed,sample for F = 50 lb; the dash lies on the frame line and Run 4 and Run 10 touch it from above; centre between the dash's upper edge (v 3784) plus half a dash width and the frame's upper edge (v 3797.5) less half a dash width; the dash gaps at u 2086 to 2110 and 2152 to 2168 show the frame alone; bound widened along the line to half the gap
+F4-20,1,run12,trace,4,1947.0,3791.9,9.6,5.7,dashed,"sample for F = 100 lb; on the nearest dash, 29 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,5,1821.1,3786.3,9.3,6.4,dashed,sample for F = 150 lb; bound widened along the line to half the gap (18 px)
+F4-20,1,run12,trace,6,1666.5,3777.6,9.3,6.4,dashed,sample for F = 200 lb; bound widened along the line to half the gap (18 px)
+F4-20,1,run12,trace,7,1511.7,3768.4,8.6,6.8,dashed,sample for F = 250 lb; bound widened along the line to half the gap (16 px)
+F4-20,1,run12,trace,8,1352.4,3754.3,9.9,5.8,dashed,"sample for F = 300 lb; on the nearest dash, 5 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,9,1317.7,3750.5,10.1,6.9,dashed,"sample for x = 0.1 in; on the nearest dash, 10 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,10,1202.4,3737.9,10.3,7.6,dashed,sample for F = 350 lb; bound widened along the line to half the gap (19 px)
+F4-20,1,run12,trace,11,1049.5,3720.2,10.0,6.4,dashed,"sample for F = 400 lb; on the nearest dash, 2 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,12,893.7,3702.4,10.7,7.2,dashed,sample for F = 450 lb; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,13,812.2,3693.1,10.8,7.2,dashed,sample for x = 0.2 in; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,14,743.4,3679.9,10.4,6.9,dashed,"sample for F = 500 lb; on the nearest dash, 5 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,15,583.5,3640.7,11.1,9.4,dashed,sample for F = 550 lb; bound widened along the line to half the gap (19 px)
+F4-20,1,run12,trace,16,576.8,3638.3,11.1,9.3,dashed,"sample for x = 0.3 in; on the nearest dash, 13 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,feature,17,455,3578,5,6,dashed,peak: the apex where the loading dash and the unloading dash meet (largest force of the run); centre half a line width inside the ink's leftmost edge (u 451)
+F4-20,1,run12,trace,18,456.5,3569.1,7.9,9.2,dashed,"sample for x = 0.4 in; on the nearest dash, 3 px along the line from the target; bound widened along the line to half the gap (16 px)"
+F4-20,1,run12,trace,19,571.1,3513.6,10.0,9.3,dashed,"sample for F = 550 lb; on the nearest dash, 11 px along the line from the target; bound widened along the line to half the gap (16 px)"
+F4-20,1,run12,trace,20,602.0,3504.6,10.7,9.2,dashed,"sample for x = 0.5 in; on the nearest dash, 15 px along the line from the target; bound widened along the line to half the gap (18 px)"
+F4-20,1,run12,trace,21,735.6,3471.4,10.1,7.9,dashed,sample for F = 500 lb; bound widened along the line to half the gap (18 px)
+F4-20,1,run12,trace,22,889.9,3449.5,10.7,7.2,dashed,sample for F = 450 lb; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,23,938.5,3442.9,10.5,5.6,dashed,sample for x = 0.6 in; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,24,1043.8,3431.2,10.7,7.3,dashed,sample for F = 400 lb; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,25,1198.5,3410.9,10.0,6.5,dashed,sample for F = 350 lb; bound widened along the line to half the gap (19 px)
+F4-20,1,run12,trace,26,1352.0,3398.9,9.6,5.7,dashed,sample for F = 300 lb; bound widened along the line to half the gap (19 px)
+F4-20,1,run12,trace,27,1506.7,3390.0,9.4,6.4,dashed,sample for F = 250 lb; bound widened along the line to half the gap (18 px)
+F4-20,1,run12,trace,28,1668.4,3381.3,8.8,6.4,dashed,"sample for F = 200 lb; on the nearest dash, 7 px along the line from the target; bound widened along the line to half the gap (17 px)"
+F4-20,1,run12,trace,29,1794.1,3372.0,9.1,6.5,dashed,sample for x = 0.7 in; bound widened along the line to half the gap (17 px)
+F4-20,1,run12,trace,30,1815.9,3369.6,8.9,6.6,dashed,sample for F = 150 lb; bound widened along the line to half the gap (17 px)
+F4-20,1,run12,trace,31,1970.2,3354.5,10.1,7.2,dashed,sample for F = 100 lb; bound widened along the line to half the gap (19 px)
+F4-20,1,run12,trace,32,2134.7,3321.0,10.7,8.1,dashed,"sample for F = 50 lb; on the nearest dash, 11 px along the line from the target; bound widened along the line to half the gap (19 px)"
+F4-20,1,run12,trace,33,2191.4,3304.5,9.5,7.0,dashed,"sample for x = 0.8 in; on the nearest dash, 3 px along the line from the target; bound widened along the line to half the gap (17 px)"
+F4-20,1,run12,trace,34,2252.5,3283,5,5,dashed,"added at the turn from unloading to the rebound (bottom of the near-vertical stroke), so the trace keeps its shape"
+F4-20,1,run12,feature,35,2252,3268,5,18,dashed,"knee, minimum: the force is flat at its minimum along the near-vertical stroke from v 3250 to 3286 (its location along x is not an observation); the trace turns here from unloading to the rebound"
+F4-20,1,run12,trace,36,2250.9,3242.9,6.1,7.4,dashed,sample for x = 0.9 in; bound widened along the line to half the gap (14 px)
+F4-20,1,run12,trace,37,2233.9,3180.6,7.3,8.4,dashed,sample for x = 1 in; bound widened along the line to half the gap (14 px)
+F4-20,1,run12,trace,38,2148.4,3120.4,11.1,8.1,dashed,sample for x = 1.1 in; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,39,2120.6,3112.2,11.2,8.6,dashed,sample for F = 50 lb; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,trace,40,2083.9,3058.7,5.2,10.3,dashed,sample for x = 1.2 in; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,feature,41,2083.7,3055.5,5,5,dashed,"peak: second local maximum of the force, at the left end of the hook, before the force falls at the largest displacement"
+F4-20,1,run12,trace,42,2119.6,3037.7,11.2,8.4,dashed,sample for F = 50 lb; bound widened along the line to half the gap (20 px)
+F4-20,1,run12,feature,43,2204,3023,4,5,dashed,last: right end of the last dash (end of the trace; the force has fallen at the largest displacement)
+F4-20,1,run12,trace,44,2204,3023,4,5,dashed,"trace end, at the last point (right end of the last dash)"

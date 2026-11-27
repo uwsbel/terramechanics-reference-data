@@ -1,0 +1,47 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-7A,1,dr53,marker,1,877,2856,3,3,dotted circle,fit crosses dotted circle,3.37614,4.83901,0.07458,0.0796
+FC-7A,1,dr53,marker,2,985,2763,4,4,dotted circle,overlaps vertical grid and fit,5.12165,6.31058,0.09077,0.09571
+FC-7A,1,dr53,marker,3,1075,2665,3,3,dotted circle,fit crosses dotted circle,6.58024,7.86437,0.07458,0.0796
+FC-7A,1,dr53,marker,4,1297,2416,4,4,dotted circle,overlaps vertical grid and fit,10.17952,11.81313,0.09077,0.09571
+FC-7A,1,dr53,marker,5,1522,2197,3,3,dotted circle,fit crosses dotted circle,13.82093,15.28225,0.07458,0.0796
+FC-7A,1,dr53,marker,6,2300,1415,3,3,dotted circle,fit crosses upper-left edge,26.41695,27.67304,0.07458,0.0796
+FC-7A,1,dr100,marker,1,877,2710,3,6,dotted triangle,upright dotted triangle,3.40462,7.17133,0.07517,0.12753
+FC-7A,1,dr100,marker,2,990,2612,5,6,dotted triangle,upright dotted triangle; overlaps vertical grid and fit,5.23108,8.72212,0.10716,0.12779
+FC-7A,1,dr100,marker,3,1079,2518,4,7,dotted triangle,upright dotted triangle; overlaps horizontal grid and fit,6.6729,10.21214,0.09136,0.14363
+FC-7A,1,dr100,marker,4,1297,2220,6,6,dotted triangle,upright dotted triangle; overlaps grid intersection and fit,10.21777,14.94419,0.12315,0.12792
+FC-7A,1,dr100,marker,5,1524,1890,4,6,dotted triangle,upright dotted triangle; fit beside right edge,13.91282,20.18626,0.09116,0.12766
+FC-7A,1,dr100,marker,6,2341,1055,3,6,dotted triangle,upright dotted triangle,27.14295,33.41862,0.07517,0.12753
+FC-7A,1,dr53,trace,1,668,3087.0,3.5,3.5,,dashed; left end,-0.01171,1.1761,0.08268,0.08766
+FC-7A,1,dr53,trace,2,792.18,2956.0,3.81,3.81,,dashed,2.0,3.2526,0.08769,0.09265
+FC-7A,1,dr53,trace,3,915.65,2826.5,4.15,4.15,,,4.00007,5.30523,0.0932,0.09812
+FC-7A,1,dr53,trace,4,1039.15,2700.5,4.15,4.15,,,5.99993,7.30194,0.0932,0.09812
+FC-7A,1,dr53,trace,5,1162.63,2571.5,4.15,4.15,,,8.00005,9.34658,0.0932,0.09812
+FC-7A,1,dr53,trace,6,1282.1,2448.5,4.15,4.15,,"target 10; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",9.93487,11.29589,0.0932,0.09812
+FC-7A,1,dr53,trace,7,1409.59,2315.0,3.11,3.11,,,12.00001,13.41189,0.07636,0.08138
+FC-7A,1,dr53,trace,8,1543.05,2176.5,4.15,4.15,,"target 14; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",14.16161,15.60699,0.0932,0.09812
+FC-7A,1,dr53,trace,9,1656.53,2057.0,3.81,3.81,,,15.99994,17.50117,0.08769,0.09265
+FC-7A,1,dr53,trace,10,1780.01,1928.0,3.81,3.81,,,18.00007,19.54581,0.08769,0.09265
+FC-7A,1,dr53,trace,11,1906.47,1797.0,3.11,3.11,,"target 20; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",20.04825,21.62201,0.07636,0.08138
+FC-7A,1,dr53,trace,12,2026.94,1669.5,4.15,4.15,,,21.99994,23.64308,0.0932,0.09812
+FC-7A,1,dr53,trace,13,2150.43,1542.0,3.81,3.81,,,23.99993,25.66375,0.08769,0.09265
+FC-7A,1,dr53,trace,14,2273.92,1414.0,4.5,4.5,,,26.00002,27.69242,0.09887,0.10376
+FC-7A,1,dr53,trace,15,2309,1377.0,3.5,3.5,,right end; peak of drawn fit,26.56831,28.27891,0.08268,0.08766
+FC-7A,1,dr53,feature,1,668.73,3086.52,4,4,,intercept,6e-05,1.18367,0.09077,0.09571
+FC-7A,1,dr53,feature,2,1718,2043,3,3,,label: 45°,16.98583,17.7168,0.07458,0.0796
+FC-7A,1,dr100,trace,1,666,3016.0,3.5,3.5,,dashed; left end,-0.02984,2.31057,0.08268,0.08766
+FC-7A,1,dr100,trace,2,790.95,2855.5,3.74,3.74,,dashed,1.99994,4.85823,0.08656,0.09152
+FC-7A,1,dr100,trace,3,914.11,2701.0,3.43,3.43,,,3.99992,7.31027,0.08154,0.08653
+FC-7A,1,dr100,trace,4,1037.29,2547.5,3.74,3.74,,,6.00003,9.74633,0.08656,0.09152
+FC-7A,1,dr100,trace,5,1160.47,2394.5,3.74,3.74,,,8.00004,12.1744,0.08656,0.09152
+FC-7A,1,dr100,trace,6,1279.65,2244.5,3.74,3.74,,"target 10; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",9.93549,14.55507,0.08656,0.09152
+FC-7A,1,dr100,trace,7,1406.81,2087.0,3.43,3.43,,,12.00003,17.05451,0.08154,0.08653
+FC-7A,1,dr100,trace,8,1529.99,1934.0,3.43,3.43,,,14.00004,19.48258,0.08154,0.08653
+FC-7A,1,dr100,trace,9,1653.15,1779.5,3.12,3.12,,,16.00002,21.93462,0.07652,0.08154
+FC-7A,1,dr100,trace,10,1776.33,1626.5,3.12,3.12,,,18.00003,24.36269,0.07652,0.08154
+FC-7A,1,dr100,trace,11,1902.47,1468.5,3.74,3.74,,"target 20; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",20.04836,26.87026,0.08656,0.09152
+FC-7A,1,dr100,trace,12,2022.64,1317.0,2.81,2.81,,,21.99994,29.27476,0.07151,0.07654
+FC-7A,1,dr100,trace,13,2145.82,1163.5,3.12,3.12,,,24.00005,31.71082,0.07652,0.08154
+FC-7A,1,dr100,trace,14,2268.98,1009.5,3.74,3.74,,,25.99993,34.15487,0.08656,0.09152
+FC-7A,1,dr100,trace,15,2310,956.0,3.5,3.5,,right end; peak of drawn fit,26.66645,35.00417,0.08268,0.08766
+FC-7A,1,dr100,feature,1,667.84,3013.7,4,4,,intercept,3e-05,2.34708,0.09077,0.09571
+FC-7A,1,dr100,feature,2,1715,1764,3,3,,label: 50.5°,16.99229,22.17416,0.07458,0.0796

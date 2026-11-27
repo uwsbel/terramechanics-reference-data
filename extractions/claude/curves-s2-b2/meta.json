@@ -1,0 +1,39 @@
+{
+  "agent": "claude",
+  "batch": "curves-s2-b2",
+  "date": "2026-11-02",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session, one per figure); the interrupted 2026-10-30 start by claude-fable-5-1 subagents",
+  "prompt": "TASK.md plus a task naming the workspace, the figure, and what the interrupted 2026-10-30 reader had left in it",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-s2-b2/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other folders. Started 2026-10-30 before any Codex reading existed and interrupted (F2-46 and F2-48 had points, F2-45 and F2-47 calibrations only); finished 2026-11-02 by fresh subagents in the same workspaces, after the Codex reading existed. Before launching them the orchestrating session had read the Codex run's final summary (counts per series, calibration residuals, the ambiguities it listed); the briefs carried none of it, and each reader reports opening nothing outside its workspace and TASK.md. Filed after both had finished.",
+  "readers": {
+    "F2-45": {
+      "reader": "one subagent for F2-45 (claude-opus-5-5), resuming the 2026-10-30 workspace",
+      "elapsed_sec": 1324.6,
+      "subagent_tokens": 291423,
+      "tool_uses": 119,
+      "note": "redid everything (calibration, tracing, samples, features, overlay); the earlier reader's calibration box cut the left frame and is kept in earlier-reader/cal-p1; its helpers were rewritten, none of its outputs used"
+    },
+    "F2-46": {
+      "reader": "one subagent for F2-46 (claude-opus-5-5), checking and finishing the 2026-10-30 reading",
+      "elapsed_sec": 939.2,
+      "subagent_tokens": 239479,
+      "tool_uses": 86,
+      "note": "kept the calibration (detect rerun gave identical anchors), all 50 trace samples and 14 features after checking each on the page; added 2 kinks; wrote eye checks and notes; earlier finals kept in work/ with suffix -earlier"
+    },
+    "F2-47": {
+      "reader": "one subagent for F2-47 (claude-opus-5-5), resuming the 2026-10-30 workspace",
+      "elapsed_sec": 1460.9,
+      "subagent_tokens": 310399,
+      "tool_uses": 97,
+      "note": "reused cal-p1 after a byte-identical detect rerun; all tracing redone with its own helpers (helpers2/); the earlier reader produced no points"
+    },
+    "F2-48": {
+      "reader": "one subagent for F2-48 (claude-opus-5-5), checking and finishing the 2026-10-30 reading",
+      "elapsed_sec": 1175.2,
+      "subagent_tokens": 286521,
+      "tool_uses": 100,
+      "note": "kept the calibration and all 63 trace samples after checking each on the page; moved one knee, added one knee and trace rows at the ink ends, recentered a plateau maximum, widened several bounds"
+    }
+  }
+}

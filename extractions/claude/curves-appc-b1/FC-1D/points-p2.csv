@@ -1,0 +1,80 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-1D,2,n3520,marker,1,598,3402.5,4,3,x,"on x=0 gridline (frame); symbol could be x or asterisk, the vertical stroke may be the gridline"
+FC-1D,2,n3520,marker,2,650,3384,2,2,x,
+FC-1D,2,n3520,marker,3,762,3358,2,2,x,
+FC-1D,2,n3520,marker,4,890,3350,4,3,x,"on x=50 gridline, just below the zero line"
+FC-1D,2,n3520,marker,5,1001,3335,3,4,x,on the zero line
+FC-1D,2,n3520,marker,6,1123,3310.5,2,2,x,
+FC-1D,2,n3520,marker,7,1240,3291,2,2,x,
+FC-1D,2,n3520,marker,8,1358,3276,2,2,x,
+FC-1D,2,n3520,marker,9,1474,3253,4,3,x,on x=150 gridline
+FC-1D,2,n3520,marker,10,1592.5,3233,2,2,x,
+FC-1D,2,n3520,marker,11,1767.5,3206,3,2,x,just right of x=200 gridline
+FC-1D,2,n3520,marker,12,1885,3190,2,2,x,
+FC-1D,2,n3520,marker,13,2057.5,3174,4,3,x,on x=250 gridline
+FC-1D,2,n2935,marker,1,614.6,3361,3,3,asterisk,in the dense cluster at x near 0
+FC-1D,2,n2935,marker,2,676.7,3360,2,2,asterisk,
+FC-1D,2,n2935,marker,3,788,3355.5,2,2,asterisk,
+FC-1D,2,n2935,marker,4,999,3311.7,2,2,asterisk,
+FC-1D,2,n2935,marker,5,1123,3283,2,2,asterisk,
+FC-1D,2,n2935,marker,6,1236,3265,2,2,asterisk,
+FC-1D,2,n2935,marker,7,1361,3245,2,2,asterisk,
+FC-1D,2,n2935,marker,8,1469.6,3217.5,4,3,asterisk,on x=150 gridline
+FC-1D,2,n2935,marker,9,1647.5,3191,2,2,asterisk,
+FC-1D,2,n2935,marker,10,1764,3176,3,2,asterisk,just right of x=200 gridline
+FC-1D,2,n2935,marker,11,1881,3160,2,2,asterisk,
+FC-1D,2,n2935,marker,12,2054,3130,4,3,asterisk,on x=250 gridline
+FC-1D,2,n2345,marker,1,565.8,3364,3,3,square,left of the x=0 frame line (negative displacement as drawn)
+FC-1D,2,n2345,marker,2,638.3,3330.4,3,4,square,on the zero line
+FC-1D,2,n2345,marker,3,712.5,3361,3,3,square,
+FC-1D,2,n2345,marker,4,762,3331,3,4,square,on the zero line
+FC-1D,2,n2345,marker,5,827.5,3326.7,3,4,square,bottom side on the zero line
+FC-1D,2,n2345,marker,6,941.7,3316,3,3,square,
+FC-1D,2,n2345,marker,7,1067.5,3289,3,3,square,
+FC-1D,2,n2345,marker,8,1183.3,3266,4,3,square,on x=100 gridline
+FC-1D,2,n2345,marker,9,1298,3241,3,3,square,square printed incompletely (left side open)
+FC-1D,2,n2345,marker,10,1416,3217.5,3,3,square,
+FC-1D,2,n2345,marker,11,1528,3189,3,3,square,
+FC-1D,2,n2345,marker,12,1647,3164,3,3,square,
+FC-1D,2,n2345,marker,13,1765,3156,4,3,square,on x=200 gridline
+FC-1D,2,n2345,marker,14,1879,3134,4,4,square,square printed incompletely (only top and right sides and part of the base)
+FC-1D,2,n2345,marker,15,2055,3097.5,4,3,square,on x=250 gridline
+FC-1D,2,n1468,marker,1,585.4,3344,4,4,triangle-down,"left of the x=0 frame line, base on the zero line, apex merges with the triangle-up below"
+FC-1D,2,n1468,marker,2,907,3318,4,4,triangle-down,overlaps the triangle-up at x near 48
+FC-1D,2,n1468,marker,3,999.5,3287,4,5,triangle-down,overlaps the triangle-up above it (the two form a diamond); center from the shared bar and the lower apex
+FC-1D,2,n1468,marker,4,1119,3254,4,5,triangle-down,overlaps the triangle-up above it (diamond)
+FC-1D,2,n1468,marker,5,1236,3215,3,3,triangle-down,
+FC-1D,2,n1468,marker,6,1295,3200,4,5,triangle-down,overlaps the triangle-up above it (diamond)
+FC-1D,2,n1468,marker,7,1414,3184,3,3,triangle-down,
+FC-1D,2,n1468,marker,8,1525.5,3151,3,3,triangle-down,
+FC-1D,2,n1468,marker,9,1646,3130.5,3,3,triangle-down,
+FC-1D,2,n1468,marker,10,1759,3100,4,3,triangle-down,on x=200 gridline
+FC-1D,2,n1468,marker,11,1880,3082.5,3,3,triangle-down,
+FC-1D,2,n1468,marker,12,2052,3060.5,4,3,triangle-down,on x=250 gridline
+FC-1D,2,n587,marker,1,592.5,3376,4,4,triangle-up,"on the x=0 frame line, apex merges with the triangle-down above"
+FC-1D,2,n587,marker,2,648,3359,3,3,triangle-up,
+FC-1D,2,n587,marker,3,884,3305.5,4,4,triangle-up,"on x=50 gridline, overlaps the triangle-down at x near 52"
+FC-1D,2,n587,marker,4,999.5,3260,4,5,triangle-up,overlaps the triangle-down below it (diamond); center from the upper apex and the shared bar
+FC-1D,2,n587,marker,5,1119,3229,4,5,triangle-up,overlaps the triangle-down below it (diamond)
+FC-1D,2,n587,marker,6,1295,3169,4,5,triangle-up,overlaps the triangle-down below it (diamond)
+FC-1D,2,n587,marker,7,1412,3135.5,3,3,triangle-up,
+FC-1D,2,n587,marker,8,1527,3100.5,3,3,triangle-up,
+FC-1D,2,n587,marker,9,1648,3074,3,3,triangle-up,
+FC-1D,2,n587,marker,10,1759,3054,4,3,triangle-up,on x=200 gridline
+FC-1D,2,n587,marker,11,1879,3028,3,4,triangle-up,"on the +100 frame line (upper edge of the panel); above +100, calibration extrapolated"
+FC-1D,2,n587,marker,12,2055,2999,4,3,triangle-up,"on x=250 gridline; above the +100 frame line, calibration extrapolated"
+FC-1D,2,n294,marker,1,712.5,3331,3,4,circle,bottom of the ring on the zero line
+FC-1D,2,n294,marker,2,828.3,3285,3,3,circle,
+FC-1D,2,n294,marker,3,945,3239,3,3,circle,
+FC-1D,2,n294,marker,4,1059,3182.5,3,3,circle,
+FC-1D,2,n294,marker,5,1181,3139,4,3,circle,on x=100 gridline
+FC-1D,2,n294,marker,6,1292,3106,3,3,circle,
+FC-1D,2,n294,marker,7,1410.5,3065,3,3,circle,
+FC-1D,2,n294,marker,8,1525,3025.5,3,3,circle,"above the +100 frame line, calibration extrapolated"
+FC-1D,2,n0,marker,1,710.8,3292.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,2,n0,marker,2,830,3230,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,2,n0,marker,3,948,3162.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,2,n0,marker,4,997,3125.5,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,2,n0,marker,5,1117.5,3066,2,2,circle,filled circle (dot); legend gives no symbol for the 0 and 294 psf tests
+FC-1D,2,n0,marker,6,1234,3005.5,2,2,circle,"filled circle (dot); legend gives no symbol for the 0 and 294 psf tests; above the +100 frame line, calibration extrapolated"
+FC-1D,2,n0,marker,7,1353,2957.5,2,2,circle,"filled circle (dot); legend gives no symbol for the 0 and 294 psf tests; above the +100 frame line, calibration extrapolated"

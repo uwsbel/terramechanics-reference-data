@@ -1,0 +1,23 @@
+figure_id,panel,axis,printed_label,anchored_value,label_centre_u,label_centre_v,fitted_line_at_label,offset_px,frame_line,verdict,note
+FA-18,1,x,9.0,9.0,2100,1131,1135.0,-4,no (the top frame lies 45 px above and is unlabelled),pass,label centred on the 9.0 line (its tick right of the 0 percent frame at v 1132); the unlabelled top frame (10 mm by log spacing) and the dashed 3/8 inch line (9.5 mm) between them are not anchored
+FA-18,1,x,5.0,5.0,2105,1383,1386.3,-3,no,pass,label beside the line's tick
+FA-18,1,x,4.0,4.0,2105,1480,1482.5,-3,no,pass,
+FA-18,1,x,3.0,3.0,2105,1607,1605.4,2,no,pass,
+FA-18,1,x,2.0,2.0,2105,1781,1777.6,3,no,pass,coincides with the #10 sieve line (2.00 mm)
+FA-18,1,x,1.5,1.5,2105,1897,1898.9,-2,no,pass,
+FA-18,1,x,1.0,1.0,2110,2068,2070.5,-2,no,pass,
+FA-18,1,x,0.5,0.5,2110,2360,2362.1,-2,no,pass,
+FA-18,1,x,0.2,0.2,2110,2742,2745.1,-3,no,pass,
+FA-18,1,x,0.1,0.1,2125,3034,3036.9,-3,no,pass,
+FA-18,1,x,0.05,0.05,2130,3332,3329.0,3,no,pass,
+FA-18,1,x,0.02,0.02,2140,3722,3715.8,6,yes (bottom frame),pass,the bottom frame carries the printed 0.02; label is a wide two-line glyph block so its centre is read to about 5 px
+FA-18,1,y,100 (top),100,582,1060,585.3,-3,yes (left frame),pass,u of the fitted line at v 1100; the left frame is the 100 percent line (labelled at top and bottom)
+FA-18,1,y,90 (top),90,730,1060,731.7,-2,no,pass,
+FA-18,1,y,80 (top),80,875,1060,877.0,-2,no,pass,
+FA-18,1,y,50 (top),50,1312,1060,1314.4,-2,no,pass,
+FA-18,1,y,10 (top),10,1895,1060,1899.7,-5,no,pass,
+FA-18,1,y,0 (top),0,2042,1065,2046.1,-4,yes (right frame),pass,the right frame is the 0 percent line
+FA-18,1,y,100 (bottom),100,645,3800,644.8,0,yes (left frame),pass,u of the fitted line at v 3740
+FA-18,1,y,70 (bottom),70,1075,3800,1080.5,-5,no,pass,
+FA-18,1,y,30 (bottom),30,1662,3790,1663.8,-2,no,pass,
+FA-18,1,y,0 (bottom),0,2098,3780,2102.2,-4,yes (right frame),pass,

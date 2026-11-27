@@ -1,0 +1,30 @@
+axis,value,printed_label,where_read,label_px,fitted_line_px_at_label,offset_px,line_kind,ink_check,verdict
+"x (grain size, mm, log10)",9.0,9.0,"right-hand label column, u ~2220; label centre (text v 1100-1158)",1129,1127.9,1.1,"first line below the top frame (top frame itself unlabelled, 10 mm by the log spacing, not anchored)","verified, location error 1.03 px",label belongs to this line
+"x (grain size, mm, log10)",5.0,5.0,"right-hand label column, u ~2220; decimal point",1377,1378.6,-1.6,interior line,"verified, location error 0.77 px",label belongs to this line
+"x (grain size, mm, log10)",4.0,4.0,"right-hand label column, u ~2220; decimal point",1475,1475.3,-0.3,interior line,"verified, location error 0.77 px",label belongs to this line
+"x (grain size, mm, log10)",3.0,3.0,"right-hand label column, u ~2220; decimal point",1602,1598.4,3.6,interior line,"verified, location error 1.07 px",label belongs to this line
+"x (grain size, mm, log10)",2.0,2.0,"right-hand label column, u ~2220; decimal point",1772,1770.4,1.6,interior line,"verified, location error 0.82 px",label belongs to this line
+"x (grain size, mm, log10)",1.5,1.5,"right-hand label column, u ~2220; label centre",1889,1892.5,-3.5,interior line,"verified, location error 0.97 px",label belongs to this line
+"x (grain size, mm, log10)",1.0,1.0,"right-hand label column, u ~2220; decimal point",2062,2063.5,-1.5,interior line,"verified, location error 0.75 px",label belongs to this line
+"x (grain size, mm, log10)",0.5,0.5,"right-hand label column, u ~2220; label centre",2356,2355.2,0.8,interior line,"verified, location error 1.06 px",label belongs to this line
+"x (grain size, mm, log10)",0.2,0.2,"right-hand label column, u ~2220; decimal point",2735,2738.4,-3.4,interior line,"verified, location error 0.72 px",label belongs to this line
+"x (grain size, mm, log10)",0.1,0.1,"right-hand label column, u ~2220; decimal point",3030,3030.4,-0.4,interior line,"verified, location error 0.80 px",label belongs to this line
+"x (grain size, mm, log10)",0.05,0.05,"right-hand label column, u ~2220; label centre (text v 3280-3375)",3327,3322.4,4.6,interior line,"verified, location error 0.66 px",label belongs to this line
+"x (grain size, mm, log10)",0.02,0.02,"right-hand label column, u ~2220; label centre (text v 3668-3763)",3716,3709.4,6.6,bottom frame line,"verified, location error 0.84 px",label belongs to this line
+"y (percent finer, linear)",100,100,"top label row, v ~1035; label centre",686,686.8,-0.8,left frame line,"verified, location error 0.63 px",label belongs to this line
+"y (percent finer, linear)",100,100,"bottom label row, v ~3760; label centre",717.5,719.3,-1.8,left frame line,"verified, location error 0.63 px",label belongs to this line
+"y (percent finer, linear)",90,90,"top label row, v ~1035; label centre",833.5,833.3,0.2,interior line,"verified, location error 0.63 px",label belongs to this line
+"y (percent finer, linear)",80,80,"top label row, v ~1035; label centre",977.5,978.4,-0.9,interior line,"verified, location error 0.75 px",label belongs to this line
+"y (percent finer, linear)",80,80,"bottom label row, v ~3760; label centre",1002,1006.6,-4.6,interior line,"verified, location error 0.75 px",label belongs to this line
+"y (percent finer, linear)",70,70,"top label row, v ~1035; label centre",1122,1124.9,-2.9,interior line,"verified, location error 0.61 px",label belongs to this line
+"y (percent finer, linear)",70,70,"bottom label row, v ~3760; label centre",1149,1153.1,-4.1,interior line,"verified, location error 0.61 px",label belongs to this line
+"y (percent finer, linear)",60,60,"top label row, v ~1035; label centre",1267,1268.9,-1.9,interior line,"verified, location error 0.75 px",label belongs to this line
+"y (percent finer, linear)",60,60,"bottom label row, v ~3760; label centre",1295,1294.5,0.5,interior line,"verified, location error 0.75 px",label belongs to this line
+"y (percent finer, linear)",50,50,"top label row, v ~1035; label centre",1416,1415.5,0.5,interior line,"verified, location error 0.83 px",label belongs to this line
+"y (percent finer, linear)",50,50,"bottom label row, v ~3760; label centre",1443,1444.7,-1.7,interior line,"verified, location error 0.83 px",label belongs to this line
+"y (percent finer, linear)",40,40,"top label row, v ~1035; label centre",1565,1561.9,3.1,interior line,"verified, location error 0.55 px",label belongs to this line
+"y (percent finer, linear)",30,30,"top label row, v ~1035; label centre",1710,1709.6,0.4,interior line,"verified, location error 0.62 px",label belongs to this line
+"y (percent finer, linear)",20,20,"top label row, v ~1035; label centre",1856,1854.3,1.7,interior line,"verified, location error 0.50 px",label belongs to this line
+"y (percent finer, linear)",10,10,"top label row, v ~1035; label centre",2000,2000.2,-0.2,interior line,"verified, location error 0.84 px",label belongs to this line
+"y (percent finer, linear)",0,0,"top label row, v ~1035; label centre",2145,2147.6,-2.6,right frame line,"verified, location error 1.04 px",label belongs to this line
+"y (percent finer, linear)",0,0,"bottom label row, v ~3760; label centre",2170,2174.5,-4.5,right frame line,"verified, location error 1.04 px",label belongs to this line

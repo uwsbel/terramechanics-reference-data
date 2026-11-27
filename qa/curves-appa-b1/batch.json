@@ -1,0 +1,91 @@
+{
+  "batch": "curves-appa-b1",
+  "source": "1968-vol2",
+  "context_pages": [],
+  "figures": {
+    "FA-4": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "RS"
+        }
+      ]
+    },
+    "FA-8": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "PS"
+        }
+      ]
+    },
+    "FA-20": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "RSM-a"
+        }
+      ]
+    },
+    "FA-24": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "RC2"
+        }
+      ]
+    },
+    "FA-28": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "SS"
+        }
+      ]
+    },
+    "FA-40": {
+      "series": [
+        {
+          "series_id": "band-top",
+          "role": "upper edge of the hatched band",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "band-bottom",
+          "role": "lower edge of the hatched band",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "data",
+          "role": "symbols, if any",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "curve",
+          "role": "a single solid curve, if that is what is printed",
+          "soil": "LSM"
+        }
+      ]
+    },
+    "FA-48": {
+      "series": [
+        {
+          "series_id": "curve",
+          "role": "solid curve",
+          "soil": "RSM-b"
+        }
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFigures A-4, A-8, A-20, A-24, A-28, A-40 and A-48 plot the **angle of internal friction** phi\n(degrees, as determined by the direct shear test) against **relative density** Dr\n(dimensionless), one soil per figure (named in the caption), one panel, upright, on a grid. Each\nshows one solid curve, except A-40, which may show a cross-hatched band between two lines and\nsymbols instead; read what is printed.\n\nCalibration: the frame may extend past the first or last labelled grid line. Anchor only lines\nwhose printed labels you have checked by eye; units: x `none` (Dr), y `deg`.\n\nSeries (`series.csv`): `curve` for the solid curve; on A-40 `band-top` and `band-bottom` for the edges\nof a hatched band and `data` for any symbols (if the figure shows a single curve after all, use\n`curve` and say so in notes.md).\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`:\n   - each curve (or band edge) as `trace` samples in drawing order from its left end: its left end,\n     then every 0.05 of Dr, then its right end. Bound: half the line thickness (rule 7).\n   - any plotted symbol as `marker` in series `data`.\n   - `feature` points per rule 3 for every trace (first point, last point, any knee).\n3. `overlay-p1.png` and `notes.md`.\n",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between a line and a symbol; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Where small symbols overlap, a symbol you cannot identify gets a note and a wide bound, never a guess; check that each mark is on a symbol and not on a neighbour or a speck of dirt.",
+    "Check every printed axis label by eye against the line or tick you anchor it to: a label printed off its line, or a frame that extends past the first or last labelled line, has misled readers before."
+  ]
+}

@@ -1,0 +1,116 @@
+---
+title: "Glossary"
+---
+The codes, symbols and status words used on the pages for readers of this site. Where the 1968 report defines a term itself, its own definition is quoted with the page it is printed on.
+
+## Soils {#soils}
+
+| code | soil | the report's definition | where printed |
+| --------- | ------------------------- | -------------------------------------------- | ---------------------- |
+| [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} | red crushed volcanic scoria, narrowly graded | Red narrowly-graded crushed volcanic scoria; one of the basic soil types used in the LM SMS. | AM-68-1 Vol. I, printed 2-3, PDF 28 |
+| [PS]{.term title="white crushed pumice, narrowly graded" tabindex="0"} | white crushed pumice, narrowly graded | White narrowly graded crushed pumice; a basic test soil type used in the LM SMS. | AM-68-1 Vol. I, printed 2-3, PDF 28 |
+| [RSM-a]{.term title="RS mixed with crushed marble, 5 to 7 by weight, narrowly graded" tabindex="0"} | RS mixed with crushed marble, 5 to 7 by weight, narrowly graded | A narrowly-graded mixture of five parts of RS material and seven parts of crushed marble by weight; one of the basic soil types used in the LM SMS. | AM-68-1 Vol. I, printed 2-3, PDF 28 |
+| [RSM-b]{.term title="RS mixed with crushed marble, 1 to 3 by weight, narrowly graded" tabindex="0"} | RS mixed with crushed marble, 1 to 3 by weight, narrowly graded | A narrowly-graded mixture of one part of RS material and three parts of crushed marble by weight; one of the basic soil types used in the LM SMS. | AM-68-1 Vol. I, printed 2-3, PDF 28 |
+| [RC2]{.term title="red crushed volcanic scoria, broadly graded" tabindex="0"} | red crushed volcanic scoria, broadly graded | Red broadly-graded "crusher run" andesitic volcanic scoria; one of the basic soil types used in the LM SMS. It was obtained from the same source as the RS material. | AM-68-1 Vol. I, printed 2-3, PDF 28 |
+| [SS]{.term title="white silica sand (Wedron 4040), narrowly graded" tabindex="0"} | white silica sand (Wedron 4040), narrowly graded | White Silica Sand (Wedron 4040-narrowly graded) | AM-68-1 Vol. I, Table 2-3, printed 2-16, PDF 41 |
+| [LSM]{.term title="broadly graded scoria (RC2) mixed with air-floated clay" tabindex="0"} | broadly graded scoria (RC2) mixed with air-floated clay | A basic test soil type used in the LM SMS; a mixture of crushed volcanic scoria (RC2) and air-floated clay designed to simulate certain features of the lunar soil as indicated by the Surveyor I photographs. | AM-68-1 Vol. I, printed 2-2, PDF 27 |
+
+A *narrowly graded* soil has grains of nearly one size; a *broadly graded* one mixes a wide range of sizes. [RSM]{.term title="RS mixed with crushed marble (RSM-a or RSM-b)" tabindex="0"} stands for either mixture of [RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"} and crushed marble. The report's soil table gives each soil at one or more states, numbered 1 to 12 (the [Soils](../materials/index.qmd) page). In the report's definitions, LM SMS is the study itself: the Lunar Excursion Module Soil Mechanics Study (AM-68-1 Vol. I, printed 2-2, PDF 27).
+
+## Soil states {#states}
+
+A state is a range of relative density ([Dr]{.term title="relative density: 0 at the soil's maximum void ratio (loosest) and 1 at its minimum (densest), from the reference void-ratio limits; a bed packed past the reference densest state reads above 1" tabindex="0"}): 0 at the soil's loosest reference state and 1 at its densest reference state (the maximum and minimum void ratios found by the minimum-maximum density tests); a bed packed past the densest reference state reads above 1.
+
+| state | the report's definition | where printed |
+| --------------- | ------------------------------------------------------------ | ------------------------- |
+| loose | Loose; describing a soil in a loose state of compaction; a soil for which $0.0 ≤ D_r ≤ 0.3$. | AM-68-1 Vol. I, printed 2-2, PDF 27 |
+| intermediate | Intermediate; describing a soil in an intermediate state of compaction; a soil for which $0.3 ≤ D_r ≤ 0.7$. | AM-68-1 Vol. I, printed 2-2, PDF 27 |
+| dense | Dense (i.e. describing a soil in a dense state of compaction; a soil for which $0.7 ≤ D_r ≤ 1.0$). | AM-68-1 Vol. I, printed 2-2, PDF 27 |
+
+## Test types {#tests}
+
+| code on this site | test | what is measured |
+| -------------- | ------------------------------ | -------------------------------------------------------- |
+| `lpt` | load-penetration test, [LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} | the load on a tool (a cylinder or a footpad) pushed into a soil bed, against how deep it has gone |
+| `ds` | direct shear test | the shear stress that makes a soil sample slide along a plane, at a set normal stress, and how much the sample swells or shrinks |
+| `dpt` | dynamic penetrometer test, [DPT]{.term title="dynamic penetrometer test: a probe of fixed mass falls from a fixed height into the bed and its peak deceleration is recorded" tabindex="0"} | the peak deceleration of a probe dropped into the bed, [Gp]{.term title="peak deceleration of the dynamic penetrometer, in g: the report's index of the density and uniformity of a bed" tabindex="0"} |
+| `dens` | density test | the density a soil reaches with a given compaction, or its loosest and densest states |
+| `gs` | grain size analysis | the fraction of the soil, by weight, finer than each sieve size |
+| `sonic` | sonic modulus test | the stiffness of a soil sample from the speed of a sound wave through it |
+| `tx` | triaxial test | the strength of a soil cylinder under a confining pressure |
+
+## Symbols {#symbols}
+
+| symbol | meaning | where the report defines it |
+| --------------- | ---------------------------------------------------------- | --------------------------- |
+| [Dr]{.term title="relative density: 0 at the soil's maximum void ratio (loosest) and 1 at its minimum (densest), from the reference void-ratio limits; a bed packed past the reference densest state reads above 1" tabindex="0"} | relative density: 0 at the soil's maximum void ratio (loosest reference state), 1 at its minimum (densest reference state); computed from the void ratio and those two limits, so a bed packed past the densest reference state reads above 1 (Vol. II reports up to 1.16) | AM-68-1 Vol. I, printed 2-29, PDF 54 |
+| unit weight, γ | weight of soil per unit volume; the report prints it in pcf (pounds per cubic foot). This site gives the bulk density, mass per unit volume, in kg/m³ | AM-68-1 Vol. I, printed 2-60, PDF 85 |
+| friction angle, φ | the angle of internal friction of the soil, from the direct shear tests | AM-68-1 Vol. I, printed 2-11, PDF 36 |
+| E | elastic (Young's) modulus | AM-68-1 Vol. I, printed 2-11, PDF 36 |
+|  | the soil table's modulus is measured by sonic means at 27.6 kPa (4 psi) confinement | AM-68-1 Vol. I, Table 2-3, printed 2-16, PDF 41 |
+| C | cohesive strength, as used in the bearing capacity equation | AM-68-1 Vol. I, printed 2-60, PDF 85 |
+|  | the report found the apparent cohesion from its shear tests too large to match its bearing tests | AM-68-1 Vol. I, printed 2-47, PDF 72 |
+| [Gp]{.term title="peak deceleration of the dynamic penetrometer, in g: the report's index of the density and uniformity of a bed" tabindex="0"} | peak deceleration of the dynamic penetrometer, in g (one g is 9.81 m/s²) | AM-68-1 Vol. I, Fig. 2-52, printed 2-89, PDF 114 |
+| [D50]{.term title="grain size that half of the soil, by weight, is finer than" tabindex="0"} | mean grain size: the grain size that half of the soil, by weight, is finer than | AM-68-1 Vol. I, printed 2-26, PDF 51 |
+| [D10]{.term title="effective size: the grain size that 10 percent of the soil, by weight, is finer than" tabindex="0"} | effective size: the grain size that 10 percent of the soil, by weight, is finer than | AM-68-1 Vol. I, printed 2-26, PDF 51 |
+| [D60]{.term title="the grain size that 60 percent of the soil, by weight, is finer than" tabindex="0"} | the grain size that 60 percent of the soil, by weight, is finer than | AM-68-1 Vol. I, printed 2-26, PDF 51 |
+| [Cu]{.term title="uniformity coefficient: D60 divided by D10; near 1 for a narrowly graded soil" tabindex="0"} | uniformity coefficient, D60 divided by D10; near 1 for a narrowly graded soil | AM-68-1 Vol. I, printed 2-26, PDF 51 |
+| [D95]{.term title="grain size that 95 percent of the soil, by weight, is finer than" tabindex="0"} | the grain size that 95 percent of the soil, by weight, is finer than | AM-68-1 Vol. I, Table 2-3, printed 2-16, PDF 41 |
+
+## Units {#units}
+
+Values are in SI. The reports use customary units; the value as printed is kept beside each converted one. The conversions use exact factors, shown here rounded to seven significant digits.
+
+| printed unit | SI |
+| --- | --- |
+| inch (in) | 25.4 mm |
+| pound-force (lb, lbf) | 4.448222 N |
+| pound per square inch (psi) | 6.894757 kPa |
+| pound per square foot (psf) | 47.880259 Pa |
+| pound per cubic foot (pcf), as a bulk density | 16.018463 kg/m³ |
+| inch per minute (in/min) | 0.423333 mm/s |
+
+## Status words {#status-words}
+
+Each point of data carries one status, which says how it was checked.
+
+| status | meaning |
+| --- | --- |
+| agreed | the two readings, made separately, matched within their reading bounds |
+| resolved | the readings differed, and a further reading of the page settled which was right |
+| one-sided-verified | only one reading has the point, and the other reader confirmed it on the page |
+| one-sided | only one reading has the point, and the other reader has not confirmed it; a person may or may not have checked it (audited and confirmed say so) |
+| pending-review | unsettled; not yet decided |
+| audited | the readings agreed, and two student reviewers also confirmed the point on the scan |
+| confirmed | the point rested on a rule, a further reading or one reading, and two student reviewers confirmed it on the scan |
+
+The lists of tests and soils also carry a status for each row of the index, built the same way: agreed, normalized (matched once units or spelling were made the same), resolved or resolved-with-notes (settled by a further reading, with a note), rule or convention (settled by a documented rule), provisional (a count to be redone), conflict (the report gives two different values) and one-sided.
+
+A **reading bound** is how precisely a point could be read from the printed figure: a half-width, not a standard deviation, and not the uncertainty of the experiment.
+
+## Missing values {#missing}
+
+A value the data do not have is never shown as a blank or a zero, but as one of these:
+
+| shown as | meaning |
+| --- | --- |
+| not reported | the report does not give it |
+| not yet extracted | the report gives it, but it is not in the data yet |
+| unreadable | the scan does not allow a reading |
+| conflicting evidence | the report gives two different values |
+| not applicable | the quantity has no meaning for this test |
+
+## Kinds of record {#kinds}
+
+| kind | meaning | an independent test? |
+| --- | --- | --- |
+| single | one physical test on one soil bed | yes |
+| averaged-series | a curve the report says is averaged from several tests | no |
+| derived-series | a result the authors drew from identified tests, such as a failure envelope from several shear tests | no |
+| correlation | a fitted curve drawn without the points behind it | no |
+| summary | a number that exists only in the text | no |
+| sample | a sample from a soil bin, analyzed for grain size and density | a measurement, not a test on a bed |
+| run-table | a printed table of separate runs, one physical test per row (the subscale drag tests; the detail correlation drops of the LM model, one record per soil family) | yes, each run |
+
+<!-- Generated view. Inputs: `corpus/1968/glossary.csv`, `corpus/1968/symbols.csv`, `data/materials/materials.csv`, `tools/to_si.py`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs. -->
+

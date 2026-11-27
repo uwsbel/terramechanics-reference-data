@@ -1,0 +1,178 @@
+{
+  "FC-3B": {
+    "source": "1968-vol2",
+    "title": "Figure C-3B: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-10, PDF 124)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "square"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "circle"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n734": {
+        "label": "734 psf (35.1 kPa)",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on RSM-a soil at Dr 0 to .15, normal stresses 734 to 4695 psf. The 3815 psf curve (circles) runs along the 3000 grid line from about 195 to 250. One triangle of the 734 psf test near 150 is buried in the dash and the grid line. The lower panel is all contraction (+50 to -150); only the +50, 0 and -150 lines are drawn."
+  },
+  "FC-3C": {
+    "source": "1968-vol2",
+    "title": "Figure C-3C: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-11, PDF 125)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "square"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "circle"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n734": {
+        "label": "734 psf (35.1 kPa)",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on RSM-a soil at Dr 1.0 to 1.3, normal stresses 734 to 4695 psf. The dashed lines are interrupted around every symbol, so there are short gaps in each curve. The last symbol of each curve at 250 doubles as the legend key. Upper and lower panels place their symbols at different displacements; that is in the drawing."
+  },
+  "FC-4B": {
+    "source": "1968-vol2",
+    "title": "Figure C-4B: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-13, PDF 127)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "square"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "circle"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n734": {
+        "label": "734 psf (35.1 kPa)",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on RC2 soil at Dr 0, normal stresses 734 to 4695 psf. The horizontal grid lines of the upper panel are unevenly spaced in the print. Several upper symbols sit off their drawn line. Lower panel: triangles, pluses and small circles overlap in nearly every column."
+  },
+  "FC-4C": {
+    "source": "1968-vol2",
+    "title": "Figure C-4C: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-14, PDF 128)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "square"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "circle"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n741": {
+        "label": "741 psf (35.5 kPa)",
+        "symbol": "triangle-down"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on RC2 soil at Dr .95, normal stresses 741 to 4695 psf (the lowest printed 741), upper panel to 8000 psf. Steep first segments; the 3815 and 2934 psf lines run close and cross near 1935 px across. Lower panel: a stack of four symbols on the left frame (one circle drawn left of the frame), and two squares and two down-triangles close together around 20 to 30."
+  }
+}

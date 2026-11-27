@@ -1,0 +1,76 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-48,1,lpt87,feature,1,2245.0,3758.0,5.0,4.0,,"first: the solid line's ink comes out of the bottom frame line (penetration 0) here; the lowest dots of lpt85 merge with it (the traces run together below about 0.13 in), so its upper edge is hidden and the bound is widened; whether it continues inside the frame to the corner cannot be seen",0.037298,15.0549,0.019522,3.5833,piecewise
+F2-48,1,lpt87,feature,2,2218.0,3738.0,3.5,3.5,,"knee (toe): the initial rise steepens here, about 250 lb/in below and 550 lb/in above; just clear of the lpt85 dots",0.12252,32.6112,0.017433,2.6155,piecewise
+F2-48,1,lpt87,trace,3,2095.0,3707.5,3.0,3.0,,trace sample near x = 0.25 in,0.250365,112.4435,0.015417,2.32,piecewise
+F2-48,1,lpt87,feature,4,2031.5,3668.0,3.5,3.5,,"knee: end of the initial steep rise, the trace turns onto the plateau",0.418335,153.7046,0.017774,2.6609,piecewise
+F2-48,1,lpt87,trace,5,2026.5,3649.0,3.0,3.0,,trace sample near x = 0.50 in,0.499784,156.9866,0.015707,2.3366,piecewise
+F2-48,1,lpt87,feature,6,2026.5,3648.0,3.0,10.0,,"knee: local maximum of the plateau (flat between about 0.46 and 0.57 in; x is not an observation, v bound covers the flat top)",0.504078,156.9887,0.045803,2.3513,piecewise
+F2-48,1,lpt87,trace,7,2031.5,3591.0,3.0,3.0,,trace sample near x = 0.75 in,0.748947,153.8666,0.016,2.3352,piecewise
+F2-48,1,lpt87,trace,8,2040.5,3538.0,3.0,3.0,,"trace sample near x = 1.00 in; sampled 7 px below the x = 1 in grid line, on the trace's own ink",0.976754,148.1434,0.016267,2.3329,piecewise
+F2-48,1,lpt87,feature,9,2044.5,3502.0,3.0,4.0,,"knee: lowest load of the plateau, after which the second rise begins",1.09692,145.6265,0.0152,2.3339,piecewise
+F2-48,1,lpt87,trace,10,2038.5,3454.0,3.0,3.0,,trace sample near x = 1.25 in,1.248772,149.6173,0.012076,2.3331,piecewise
+F2-48,1,lpt87,trace,11,2020.5,3375.0,3.0,3.0,,trace sample near x = 1.50 in,1.498521,161.45,0.012147,2.3373,piecewise
+F2-48,1,lpt87,trace,12,1992.5,3295.0,3.0,3.0,,trace sample near x = 1.75 in,1.751209,179.7621,0.012219,2.3439,piecewise
+F2-48,1,lpt87,trace,13,1952.5,3223.0,3.0,3.0,,"trace sample near x = 2.00 in; sampled 7 px below the x = 2 in grid line, on the trace's own ink",1.978291,205.7852,0.012284,2.3315,piecewise
+F2-48,1,lpt87,trace,14,1919.0,3140.0,3.0,3.0,,trace sample near x = 2.25 in,2.249333,227.4875,0.01286,2.3222,piecewise
+F2-48,1,lpt87,trace,15,1876.5,3063.0,2.5,2.5,,trace sample near x = 2.50 in,2.501294,254.9484,0.011314,1.9883,piecewise
+F2-48,1,lpt87,trace,16,1832.5,2987.0,3.0,3.0,,trace sample near x = 2.75 in,2.749952,283.3539,0.013075,2.2988,piecewise
+F2-48,1,lpt87,trace,17,1801.5,2918.0,3.5,3.5,,"trace sample near x = 3.00 in; sampled 7 px below the x = 3 in grid line, on the trace's own ink",2.975913,303.3805,0.014826,2.6124,piecewise
+F2-48,1,lpt87,trace,18,1758.5,2832.0,3.0,3.0,,trace sample near x = 3.25 in,3.249672,331.1262,0.012506,2.2787,piecewise
+F2-48,1,lpt87,trace,19,1722.5,2753.0,3.0,3.0,,trace sample near x = 3.50 in,3.500579,354.3495,0.012217,2.2689,piecewise
+F2-48,1,lpt87,trace,20,1682.5,2674.0,3.0,3.0,,trace sample near x = 3.75 in,3.751434,380.1243,0.011929,2.258,piecewise
+F2-48,1,lpt87,trace,21,1641.5,2603.0,3.0,3.0,,"trace sample near x = 4.00 in; sampled 7 px below the x = 4 in grid line, on the trace's own ink",3.976812,406.6119,0.01167,2.2862,piecewise
+F2-48,1,lpt87,trace,22,1598.5,2518.0,2.5,2.5,,trace sample near x = 4.25 in,4.249551,434.7195,0.010269,1.9725,piecewise
+F2-48,1,lpt87,trace,23,1565.5,2440.0,3.0,3.0,,trace sample near x = 4.50 in,4.500174,456.3188,0.012014,2.3089,piecewise
+F2-48,1,lpt87,trace,24,1521.5,2362.0,3.0,3.0,,trace sample near x = 4.75 in,4.750545,485.0969,0.012137,2.3219,piecewise
+F2-48,1,lpt87,trace,25,1480.5,2291.0,3.0,3.0,,"trace sample near x = 5.00 in; sampled 7 px below the x = 5 in grid line, on the trace's own ink",4.978402,511.9237,0.012249,2.3341,piecewise
+F2-48,1,lpt87,trace,26,1428.0,2208.0,3.0,3.0,,trace sample near x = 5.25 in,5.248893,546.2801,0.01239,2.3496,piecewise
+F2-48,1,lpt87,trace,27,1382.5,2131.0,2.5,2.5,,trace sample near x = 5.50 in,5.500367,576.0801,0.010664,2.036,piecewise
+F2-48,1,lpt87,trace,28,1336.0,2055.0,3.0,3.0,,trace sample near x = 5.75 in,5.748666,606.577,0.012236,2.3831,piecewise
+F2-48,1,lpt87,trace,29,1300.0,1985.0,3.0,3.0,,"trace sample near x = 6.00 in; sampled 7 px below the x = 6 in grid line, on the trace's own ink",5.977583,630.3028,0.012165,2.3761,piecewise
+F2-48,1,lpt87,trace,30,1252.5,1902.0,3.0,3.0,,trace sample near x = 6.25 in,6.249485,661.5927,0.012159,2.367,piecewise
+F2-48,1,lpt87,trace,31,1222.5,1826.0,3.0,3.0,,trace sample near x = 6.50 in,6.49873,681.4016,0.01214,2.3612,piecewise
+F2-48,1,lpt87,trace,32,1180.0,1749.0,3.0,3.0,,trace sample near x = 6.75 in,6.751077,709.4078,0.01212,2.353,piecewise
+F2-48,1,lpt87,trace,33,1146.5,1680.0,3.0,3.0,,"trace sample near x = 7.00 in; sampled 7 px below the x = 7 in grid line, on the trace's own ink",6.977293,731.5011,0.012103,2.3466,piecewise
+F2-48,1,lpt87,trace,34,1105.5,1595.0,2.5,2.5,,trace sample near x = 7.25 in,7.249288,758.5443,0.010312,2.0098,piecewise
+F2-48,1,lpt87,trace,35,1068.5,1516.0,3.0,3.0,,trace sample near x = 7.50 in,7.501555,782.9558,0.012053,2.3315,piecewise
+F2-48,1,lpt87,trace,36,1028.5,1438.0,2.5,2.5,,trace sample near x = 7.75 in,7.750585,809.1619,0.010575,1.9694,piecewise
+F2-48,1,lpt87,trace,37,990.0,1367.0,3.0,3.0,,"trace sample near x = 8.00 in; sampled 7 px below the x = 8 in grid line, on the trace's own ink",7.977241,834.075,0.012302,2.3131,piecewise
+F2-48,1,lpt87,feature,38,982.0,1351.0,3.0,3.0,,peak: the maximum load of the trace is at its end (the same ink as the last point),8.028329,839.2542,0.012503,2.3174,piecewise extrapolated x
+F2-48,1,lpt87,feature,39,982.0,1351.0,3.0,3.0,,last: the solid line ends 9 px above the x = 8 in grid line (extrapolated beyond the last labelled line),8.028329,839.2542,0.012503,2.3174,piecewise extrapolated x
+F2-48,1,lpt85,feature,1,2252.0,3752.0,8.0,8.0,,"first: the lowest dot visible above the bottom frame line; it and the two dots above it touch the solid line (the traces run together below about 0.15 in), so the bound is widened; a dot nearer the corner would be hidden in the frame line",0.063248,10.5293,0.036831,5.5372,piecewise
+F2-48,1,lpt85,trace,2,2200.5,3708.7,7.5,7.5,,"trace sample near x = 0.25 in, on the dot center",0.247919,44.027,0.034883,5.2237,piecewise
+F2-48,1,lpt85,trace,3,2153.1,3645.9,7.0,8.0,,"trace sample near x = 0.50 in, on the dot center",0.516407,74.9049,0.037334,4.9114,piecewise
+F2-48,1,lpt85,trace,4,2136.0,3599.5,6.0,8.5,,"trace sample near x = 0.75 in, on the dot center",0.715225,86.0954,0.039691,4.2676,piecewise
+F2-48,1,lpt85,feature,5,2136.0,3599.5,6.0,8.5,,"knee: end of the initial rise, the dots turn onto the plateau (on a dot)",0.715225,86.0954,0.039691,4.2676,piecewise
+F2-48,1,lpt85,trace,6,2130.3,3514.6,6.0,7.5,,"trace sample near x = 1.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",1.058748,89.9786,0.026337,4.2663,piecewise
+F2-48,1,lpt85,feature,7,2122.0,3447.2,6.0,8.0,,"knee: the second rise begins, slope up from about 20 to 75 lb/in (on a dot)",1.272005,95.5074,0.027983,4.2689,piecewise
+F2-48,1,lpt85,trace,8,2122.0,3447.2,6.0,8.0,,"trace sample near x = 1.25 in, on the dot center",1.272005,95.5074,0.027983,4.2689,piecewise
+F2-48,1,lpt85,trace,9,2091.9,3367.8,6.0,8.0,,"trace sample near x = 1.50 in, on the dot center",1.522801,115.1901,0.028055,4.2756,piecewise
+F2-48,1,lpt85,trace,10,2055.1,3290.3,6.5,8.0,,"trace sample near x = 1.75 in, on the dot center",1.767414,139.2053,0.028135,4.6081,piecewise
+F2-48,1,lpt85,trace,11,2025.4,3230.7,6.5,9.0,,"trace sample near x = 2.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",1.95548,158.5765,0.031356,4.6169,piecewise
+F2-48,1,lpt85,trace,12,1980.9,3139.3,6.5,8.0,,"trace sample near x = 2.25 in, on the dot center",2.253006,187.598,0.029367,4.6248,piecewise
+F2-48,1,lpt85,trace,13,1945.3,3061.4,6.5,8.0,,"trace sample near x = 2.50 in, on the dot center",2.508066,210.7335,0.029476,4.5882,piecewise
+F2-48,1,lpt85,trace,14,1911.1,2983.0,6.5,8.5,,"trace sample near x = 2.75 in, on the dot center",2.76481,232.8607,0.03123,4.5786,piecewise
+F2-48,1,lpt85,trace,15,1876.5,2902.8,6.0,8.5,,"trace sample near x = 3.00 in, on the dot center; the dot touches a grid line but is whole",3.026635,255.2336,0.030471,4.2465,piecewise
+F2-48,1,lpt85,trace,16,1844.4,2825.4,6.5,8.0,,"trace sample near x = 3.25 in, on the dot center",3.272471,275.9818,0.028493,4.5569,piecewise
+F2-48,1,lpt85,trace,17,1819.1,2761.0,6.0,8.5,,"trace sample near x = 3.50 in, on the dot center",3.477064,292.3308,0.029842,4.2287,piecewise
+F2-48,1,lpt85,trace,18,1787.9,2680.6,6.0,8.0,,"trace sample near x = 3.75 in, on the dot center",3.732517,312.482,0.027953,4.2181,piecewise
+F2-48,1,lpt85,trace,19,1751.6,2585.1,6.5,9.0,,"trace sample near x = 4.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",4.036412,335.9131,0.031201,4.5291,piecewise
+F2-48,1,lpt85,trace,20,1726.9,2521.3,6.0,8.5,,"trace sample near x = 4.25 in, on the dot center",4.241507,351.8443,0.029681,4.1999,piecewise
+F2-48,1,lpt85,trace,21,1695.9,2442.0,6.5,8.5,,"trace sample near x = 4.50 in, on the dot center",4.496404,371.8261,0.029817,4.5109,piecewise
+F2-48,1,lpt85,trace,22,1664.2,2361.6,6.0,8.0,,"trace sample near x = 4.75 in, on the dot center",4.754809,392.2446,0.028323,4.1798,piecewise
+F2-48,1,lpt85,trace,23,1637.0,2299.4,6.5,9.0,,"trace sample near x = 5.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",4.954647,409.9143,0.031656,4.5794,piecewise
+F2-48,1,lpt85,trace,24,1592.6,2207.9,6.0,8.0,,"trace sample near x = 5.25 in, on the dot center",5.252549,438.9725,0.028816,4.2665,piecewise
+F2-48,1,lpt85,trace,25,1555.1,2130.7,6.5,8.0,,"trace sample near x = 5.50 in, on the dot center",5.504613,463.5286,0.028747,4.6048,piecewise
+F2-48,1,lpt85,trace,26,1517.3,2055.0,6.5,8.0,,"trace sample near x = 5.75 in, on the dot center",5.751859,488.2907,0.028669,4.6171,piecewise
+F2-48,1,lpt85,trace,27,1469.6,1964.7,6.5,9.0,,"trace sample near x = 6.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",6.047005,519.5476,0.031943,4.6342,piecewise
+F2-48,1,lpt85,trace,28,1436.1,1905.6,6.5,7.5,,"trace sample near x = 6.25 in, on the dot center",6.240621,541.5035,0.027,4.6425,piecewise
+F2-48,1,lpt85,trace,29,1392.8,1831.4,6.5,8.0,,"trace sample near x = 6.50 in, on the dot center",6.483702,569.8912,0.028623,4.6572,piecewise
+F2-48,1,lpt85,trace,30,1357.3,1770.5,6.5,8.0,,"trace sample near x = 6.75 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",6.683225,593.1758,0.028608,4.6686,piecewise
+F2-48,1,lpt85,trace,31,1306.8,1683.6,6.5,8.5,,"trace sample near x = 7.00 in, on the dot center; the nearest dot is cut by a grid line, the next whole dot is used",6.967954,626.4145,0.030229,4.6831,piecewise
+F2-48,1,lpt85,trace,32,1256.4,1594.8,6.5,8.0,,"trace sample near x = 7.25 in, on the dot center",7.252194,659.6219,0.027982,4.6726,piecewise
+F2-48,1,lpt85,trace,33,1215.7,1519.7,7.0,8.0,,"trace sample near x = 7.50 in, on the dot center",7.491911,686.4471,0.028115,4.9928,piecewise
+F2-48,1,lpt85,trace,34,1175.1,1444.3,6.5,8.0,,"trace sample near x = 7.75 in, on the dot center",7.732598,713.2097,0.028234,4.6573,piecewise
+F2-48,1,lpt85,feature,35,1135.0,1369.8,6.0,7.5,,peak: the maximum load of the trace is at its last dot,7.970418,739.645,0.026751,4.3208,piecewise
+F2-48,1,lpt85,feature,36,1135.0,1369.8,6.0,7.5,,"last: the last dot, just below the x = 8 in grid line (the line is broken here; the 6 px fragment on it at u 1124-1129 is grid-line ink, the height of the line, not a dot)",7.970418,739.645,0.026751,4.3208,piecewise

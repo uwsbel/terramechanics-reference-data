@@ -1,0 +1,41 @@
+{
+  "agent": "claude",
+  "batch": "curves-appb-b1",
+  "date": "2026-10-15",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session)",
+  "prompt": "TASK.md plus a task naming the workspace and the figures of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appb-b1/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "readers": {
+    "FB-4": {
+      "reader": "one subagent for FB-4",
+      "elapsed_sec": 1112.9,
+      "subagent_tokens": 240443,
+      "tool_uses": 87
+    },
+    "FB-5": {
+      "reader": "one subagent for FB-5",
+      "elapsed_sec": 1142.8,
+      "subagent_tokens": 235578,
+      "tool_uses": 84
+    },
+    "FB-7": {
+      "reader": "one subagent for FB-7",
+      "elapsed_sec": 1183.4,
+      "subagent_tokens": 259285,
+      "tool_uses": 90
+    },
+    "FB-3": {
+      "reader": "one subagent for FB-3",
+      "elapsed_sec": 1224.6,
+      "subagent_tokens": 250931,
+      "tool_uses": 71
+    },
+    "FB-6": {
+      "reader": "one subagent for FB-6",
+      "elapsed_sec": 1277.2,
+      "subagent_tokens": 266997,
+      "tool_uses": 85
+    }
+  }
+}

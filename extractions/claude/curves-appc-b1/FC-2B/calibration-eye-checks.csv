@@ -1,0 +1,20 @@
+figure,panel,axis,printed_label,fitted_pixel,eye_pixel,note
+FC-2B,1,y,6000,1086.0,1087,top frame line; fitted v at u=760
+FC-2B,1,y,5000,1377.3,1377.5,predicted line (text PS Soil / gamma interrupts it); checked against the short tick at the left frame
+FC-2B,1,y,3000,1961.7,1962,
+FC-2B,1,y,2000,2254.2,2255,
+FC-2B,1,y,1000,2543.1,2542.5,n734 dots sit on this line; detection used min-frac 0.75 to avoid them
+FC-2B,1,y,0,2833.9,2834,bottom frame line
+FC-2B,1,x,50,1049.5,1050,fitted u at v=2830 (bottom of panel)
+FC-2B,1,x,100,1338.9,1340,
+FC-2B,1,x,150,1629.2,1630,
+FC-2B,1,x,200,1918.7,1920,
+FC-2B,1,x,250,2212.3,2211,right frame line
+FC-2B,2,y,100,2983.9,2985,top frame line; fitted v at u=760
+FC-2B,2,y,0,3267.9,3267.5,zero line is not midway between the frames (284.5 px above and 296 px below); affine fit splits the difference
+FC-2B,2,y,-100,3564.3,3564,bottom frame line
+FC-2B,2,x,50,1051.0,1051.5,fitted u at v=3560
+FC-2B,2,x,100,1341.0,1341,
+FC-2B,2,x,150,1630.5,1631,
+FC-2B,2,x,200,1921.9,1921.5,
+FC-2B,2,x,250,2214.8,2213.5,right frame line

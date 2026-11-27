@@ -1,0 +1,147 @@
+{
+  "commit": "fce68a80a3a70fd06968f87b4699244b7bc4c40e",
+  "built": "2026-11-27",
+  "tool": "tools/make_public_release.py",
+  "version": "1.0.0",
+  "rendered": true,
+  "site_images": {
+    "files": 749,
+    "sha256": "7f0bc8392ae9b873260e9fd1ce29f1265437c3723b03a95ca9ddcb1fc47166b1"
+  },
+  "excluded": {
+    "AGENTS.md": 1,
+    "docs/ROADMAP.md": 1,
+    "docs/audit/EMAIL-": 2,
+    "docs/audit/README.md": 1,
+    "docs/decisions-public.csv": 1,
+    "nasa-reports/1968-nasa-LunarModule-SoilMechanicsStudy.pdf": 1,
+    "nasa-reports/1970-nasa-load-analysis-report.pdf": 1,
+    "nasa-reports/plan-validation-chrono.md": 1,
+    "nasa-reports/volume2/": 1,
+    "nasa-reports/wes-m71-10-rpt1/": 1,
+    "nasa-reports/wes-m71-10-rpt2/": 1,
+    "paper/": 2,
+    "qa/audits/assignments.csv": 1,
+    "qa/audits/digests/": 1,
+    "qa/audits/keys/": 88,
+    "qa/audits/reports/": 17,
+    "qa/audits/returns-log.csv": 1,
+    "qa/audits/returns/": 62,
+    "qa/audits/reviewers.csv": 1,
+    "qa/audits/sample.csv": 1,
+    "qa/audits/status.md": 1,
+    "qa/audits/withdrawn.csv": 1,
+    "qa/curves-pilot-b1/audit-packet-1-answer-key.csv": 1,
+    "qa/curves-pilot-b1/audit-packet-1-dan-2026-10-09.csv": 1,
+    "site/methods/agents.qmd": 1,
+    "site/roadmap.qmd": 1,
+    "tools/make_audit_packet.py": 1
+  },
+  "reviewer_codes": [
+    "R1",
+    "R2",
+    "R3",
+    "R4"
+  ],
+  "reviewers_named_as_authors": 0,
+  "renamed_files": 0,
+  "files_with_replacements": 184,
+  "dirty_working_copy": false,
+  "local_paths_scrubbed": {
+    "extractions": 3620,
+    "qa": 1579,
+    "tools": 1
+  },
+  "decisions_published": 58,
+  "files_naming_a_left_out_file": {
+    "AGENTS.md": [
+      "docs/CURVE-READING.md",
+      "docs/DATA-ORGANIZATION.md",
+      "docs/PAGE-TRANSCRIPTION.md",
+      "docs/decisions.csv",
+      "extractions/claude/experiments-vol2ab-b1/prompt.md",
+      "extractions/claude/experiments-vol2c-b1/prompt.md",
+      "extractions/claude/inventory-s3s5-b1/prompt.md",
+      "extractions/codex/experiments-s2-b1/prompt.md",
+      "extractions/codex/experiments-vol2ab-b1/prompt.md",
+      "extractions/codex/experiments-vol2c-b1/prompt.md",
+      "extractions/codex/inventory-s3s5-b1/prompt.md",
+      "extractions/codex/inventory-vol2-b1/prompt.md",
+      "qa/curves-appc-b1/adjudication/method-questions.md",
+      "qa/curves-appc-b1/review.md",
+      "qa/curves-pilot-b1/review.md",
+      "site/.quarto/idx/decisions.qmd.json",
+      "site/.quarto/idx/methods/data-organization.qmd.json",
+      "site/_site/decisions.html",
+      "site/_site/files/docs/decisions.csv",
+      "site/_site/methods/data-organization.html",
+      "site/_site/search.json",
+      "site/decisions.qmd",
+      "site/methods/data-organization.qmd"
+    ],
+    "nasa-reports/1968-nasa-LunarModule-SoilMechanicsStudy.pdf": [
+      "extractions/claude/experiments-drag-b1/prompt.md",
+      "extractions/claude/experiments-s3s5-b1/prompt.md",
+      "extractions/claude/inventory-s3s5-b1/prompt.md",
+      "extractions/codex/experiments-drag-b1/codex-answer.md",
+      "extractions/codex/experiments-drag-b1/prompt.md",
+      "extractions/codex/experiments-s2-b1/codex-answer.md",
+      "extractions/codex/experiments-s2-b1/codex-notes.md",
+      "extractions/codex/experiments-s2-b1/prompt.md",
+      "extractions/codex/experiments-s3s5-b1/codex-answer.md",
+      "extractions/codex/experiments-s3s5-b1/prompt.md",
+      "extractions/codex/inventory-s2-b1/codex-answer.md",
+      "extractions/codex/inventory-s2-b1/codex-notes.md",
+      "extractions/codex/inventory-s2-b1/prompt.md",
+      "extractions/codex/inventory-s3s5-b1/codex-answer.md",
+      "extractions/codex/inventory-s3s5-b1/prompt.md",
+      "extractions/codex/materials-b1/prompt.md",
+      "qa/materials-b1/review.md",
+      "site/_site/files/sources/register.csv",
+      "sources/register.csv"
+    ],
+    "paper/": [
+      "docs/DATA-ORGANIZATION.md",
+      "docs/decisions.csv",
+      "site/.quarto/idx/decisions.qmd.json",
+      "site/.quarto/idx/methods/data-organization.qmd.json",
+      "site/_site/decisions.html",
+      "site/_site/files/docs/decisions.csv",
+      "site/_site/methods/data-organization.html",
+      "site/_site/search.json",
+      "site/decisions.qmd",
+      "site/methods/data-organization.qmd"
+    ],
+    "docs/decisions-public.csv": [
+      "docs/DATA-ORGANIZATION.md",
+      "site/.quarto/idx/methods/data-organization.qmd.json",
+      "site/_site/methods/data-organization.html",
+      "site/_site/search.json",
+      "site/methods/data-organization.qmd"
+    ],
+    "docs/audit/README.md": [
+      "docs/DATA-ORGANIZATION.md",
+      "site/.quarto/idx/methods/data-organization.qmd.json",
+      "site/_site/methods/data-organization.html",
+      "site/_site/search.json",
+      "site/methods/data-organization.qmd"
+    ],
+    "nasa-reports/volume2/": [
+      "extractions/codex/inventory-vol2-b1/prompt.md",
+      "site/_site/files/sources/register.csv",
+      "sources/register.csv"
+    ],
+    "nasa-reports/1970-nasa-load-analysis-report.pdf": [
+      "site/_site/files/sources/register.csv",
+      "sources/register.csv"
+    ],
+    "nasa-reports/wes-m71-10-rpt1/": [
+      "site/_site/files/sources/register.csv",
+      "sources/register.csv"
+    ],
+    "nasa-reports/wes-m71-10-rpt2/": [
+      "site/_site/files/sources/register.csv",
+      "sources/register.csv"
+    ]
+  }
+}

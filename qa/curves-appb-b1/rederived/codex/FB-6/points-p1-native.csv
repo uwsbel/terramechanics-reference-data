@@ -1,0 +1,43 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,trace_segment,x_native,y_native,x_read_bound,y_read_bound,cal_model,x_unit,y_unit
+FB-6,1,dr82,marker,1,1035.0,3307.0,6.0,6.0,circle,Bottom rim broken; center reconstructed from surviving sides.,,2.447305,10.382833,0.050045,0.050421,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,2,1023.0,3400.5,2.0,2.0,circle,,,2.336512,9.676824,0.019181,0.019333,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,3,1312.5,2345.0,2.0,2.0,circle,,,4.742086,17.540242,0.019198,0.019244,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,4,1336.0,2495.5,2.0,2.0,circle,,,4.884695,16.40354,0.019198,0.019154,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,5,1939.5,1039.5,2.0,2.0,circle,,,9.712966,27.184351,0.019077,0.019683,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,6,1987.0,1185.5,2.0,2.0,circle,,,10.034456,26.080465,0.019038,0.019054,piecewise,psi,kips/in.^2
+FB-6,1,dr82,marker,7,1950.5,1281.5,2.0,2.0,circle,,,9.741196,25.370735,0.019077,0.019054,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,1,997.5,3942.0,3.0,3.0,circle,Line touches rim.,,2.024528,5.619532,0.026897,0.027171,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,2,998.0,4003.0,7.0,7.0,circle,Lower circle overlaps bottom frame; center from surviving circle.,,2.014653,5.161455,0.057762,0.058144,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,3,1345.5,3351.0,2.0,2.0,circle,,,4.764738,9.988639,0.019198,0.019333,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,4,1333.5,3496.5,2.0,2.0,circle,,,4.64222,8.890193,0.019198,0.01907,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,5,1960.0,2665.0,10.0,10.0,circle,Overlapping pair; upper circle.,,9.504738,15.010179,0.080472,0.080752,piecewise,psi,kips/in.^2
+FB-6,1,dr02,marker,6,1960.0,2682.0,10.0,10.0,circle,Overlapping pair; lower circle.,,9.500962,14.883305,0.080472,0.080255,piecewise,psi,kips/in.^2
+FB-6,1,dr82,feature,1,997.25,3450.215,4.0,4.0,,first point; visible line end,,2.132468,9.305227,0.034613,0.034877,piecewise,psi,kips/in.^2
+FB-6,1,dr82,feature,2,1321.374,2426.007,4.0,4.0,,vertex,,4.790534,16.927972,0.034645,0.034553,piecewise,psi,kips/in.^2
+FB-6,1,dr82,feature,3,1980.191,1114.561,4.0,4.0,,last point; peak; visible line end,,9.999538,26.611443,0.034425,0.034373,piecewise,psi,kips/in.^2
+FB-6,1,dr82,feature,4,2200.0,1108.0,2.0,2.0,,label: Dense; Dr = 0.82,,11.635731,26.617978,0.019038,0.019054,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,1,997.25,3450.215,3.5,3.5,,first point,1,2.132468,9.305227,0.030755,0.030991,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,2,1102.053,3120.704,4.0,4.0,,x=3 psi,2,2.991327,11.771871,0.034613,0.034466,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,3,1190.452,2842.197,4.5,4.5,,x=4 psi,2,3.715884,13.836802,0.038471,0.038167,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,4,1282.025,2552.004,4.0,4.0,,x=5 psi,2,4.467263,15.989918,0.034645,0.034553,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,5,1322.328,2426.308,4.5,4.5,,vertex,2,4.797622,16.925528,0.038507,0.038403,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,6,1370.67,2328.434,5.0,5.0,,x=6 psi,2,5.182053,17.653821,0.042368,0.042452,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,7,1531.448,2009.224,5.0,5.0,,x=7 psi,2,6.456381,20.014908,0.042108,0.041845,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,8,1708.991,1656.919,4.5,4.5,,x=8 psi,2,7.857992,22.616785,0.03827,0.038443,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,9,1881.713,1314.212,4.0,4.0,,x=9 psi,2,9.221309,25.139777,0.034425,0.034373,piecewise,psi,kips/in.^2
+FB-6,1,dr82,trace,10,1980.303,1114.617,3.5,3.5,,last point,2,10.00036,26.611003,0.030588,0.030543,piecewise,psi,kips/in.^2
+FB-6,1,dr02,feature,1,989.837,3983.042,22.0,22.0,,"first point; left trace end: first separable stroke is 1.0 px inward of estimated symbol junction; hidden endpoint not guessed; right trace end: first separable stroke is 1.5 px inward of estimated symbol junction; hidden endpoint not guessed; hidden endpoint extent, distinct trace starts farther along visible ink",,1.958015,5.312985,0.173435,0.173866,piecewise,psi,kips/in.^2
+FB-6,1,dr02,feature,2,1336.884,3431.291,4.0,4.0,,vertex,,4.682174,9.382039,0.034645,0.034877,piecewise,psi,kips/in.^2
+FB-6,1,dr02,feature,3,1947.742,2698.785,22.0,22.0,,"last point; peak; left trace end: first separable stroke is 1.0 px inward of estimated symbol junction; hidden endpoint not guessed; right trace end: first separable stroke is 1.5 px inward of estimated symbol junction; hidden endpoint not guessed; hidden endpoint extent, distinct trace ends before symbol",,9.405884,14.760462,0.172565,0.172085,piecewise,psi,kips/in.^2
+FB-6,1,dr02,feature,4,2171.0,2688.0,2.0,2.0,,label: Loose; Dr = 0.02,,11.069877,14.797835,0.019038,0.019036,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,1,990.581,3982.329,5.0,5.0,,first point,1,1.96374,5.318184,0.042318,0.042668,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,2,996.0,3973.243,4.5,4.5,,x=2 psi,1,2.006312,5.385276,0.038471,0.038796,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,3,1122.066,3772.583,4.5,4.5,,x=3 psi,2,2.995722,6.867212,0.038471,0.038493,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,4,1237.564,3590.368,4.0,4.0,,x=4 psi,2,3.901827,8.207287,0.034613,0.034402,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,5,1337.625,3431.757,4.5,4.5,,vertex,2,4.687627,9.378363,0.038507,0.038763,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,6,1350.49,3415.756,4.0,4.0,,x=5 psi,2,4.787689,9.497066,0.034645,0.034877,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,7,1461.66,3281.862,4.5,4.5,,x=6 psi,2,5.65137,10.489669,0.038507,0.038763,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,8,1605.022,3110.536,5.0,5.0,,x=7 psi,2,6.760149,11.750593,0.042108,0.042146,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,9,1756.154,2927.16,4.5,4.5,,x=8 psi,2,7.927376,13.093868,0.03827,0.038167,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,10,1907.68,2746.629,5.5,5.5,,x=9 psi,2,9.096704,14.4113,0.045937,0.045819,piecewise,psi,kips/in.^2
+FB-6,1,dr02,trace,11,1946.397,2699.617,5.0,5.0,,last point,2,9.395676,14.754516,0.0421,0.041993,piecewise,psi,kips/in.^2

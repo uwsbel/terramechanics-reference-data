@@ -1,0 +1,62 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F2-33,1,lpt74,trace,1,2290,3611.0,10,3,,"first ink; thin recorded trace A, LPT No. 74; ink starts merged with the load-0 axis line near the frame corner; u uncertain by about 10 px"
+F2-33,1,lpt74,trace,2,1863.2,3539.1,15.5,4.0,,pen 0.25
+F2-33,1,lpt74,trace,3,1648.2,3463.9,10.0,18.5,,pen 0.50; inside the fit line ink (trace runs along its right edge); u uncertain within the thick line
+F2-33,1,lpt74,trace,4,1695.0,3388.0,3.5,6.0,,pen 0.75
+F2-33,1,lpt74,trace,5,1744.5,3312.1,3.5,7.5,,"pen 1.00; on the pen 1 grid line; row run merged (1465 px), u bound from the line width nearby"
+F2-33,1,lpt74,trace,6,1731.3,3232.7,3.0,10.5,,pen 1.25
+F2-33,1,lpt74,trace,7,1675.3,3153.4,4.0,4.5,,pen 1.50
+F2-33,1,lpt74,trace,8,1623.0,3074.0,3.5,4.5,,pen 1.75
+F2-33,1,lpt74,trace,9,1567.7,2994.6,3.5,4.5,,"pen 2.00; on the pen 2 grid line; trace ink continuous through it; row run merged (1036 px), u bound from the line width nearby"
+F2-33,1,lpt74,trace,10,1520.5,2918.9,3.0,10.5,,"pen 2.25; last ink before the gap under the label LPT No. 75, Gp = 105 (no ink v 2921 to 2981)"
+F2-33,1,lpt74,trace,11,1463.5,2843.3,4.5,3.5,,pen 2.50
+F2-33,1,lpt74,trace,12,1412.5,2767.6,3.0,5.0,,pen 2.75
+F2-33,1,lpt74,trace,13,1369.8,2692.0,3.5,5.0,,"pen 3.00; on the pen 3 grid line; row run merged (665 px), u bound from the line width nearby"
+F2-33,1,lpt74,trace,14,1305.5,2614.7,2.0,10.0,,pen 3.25
+F2-33,1,lpt74,trace,15,1244.8,2537.4,9.5,3.0,,pen 3.50
+F2-33,1,lpt74,trace,16,1173.2,2460.2,4.5,4.5,,pen 3.75
+F2-33,1,lpt74,trace,17,1082.3,2383.0,3.5,4.0,,"pen 4.00; on the pen 4 grid line; trace at a shallow angle here (step); row run merged (559 px), u bound from the line width nearby"
+F2-33,1,lpt74,trace,18,987.1,2306.6,3.0,4.5,,pen 4.25
+F2-33,1,lpt74,trace,19,935.0,2237.5,2.5,8.0,,last ink; thin line ends 25 px right of the thick line end (lpt75); maximum load of the trace is here
+F2-33,1,lpt74,feature,20,2290,3611,10,3,,first
+F2-33,1,lpt74,feature,21,1648,3456,6,8,,"knee: first load peak (about 850 lb at pen 0.53); trace touches the fit line here, centre partly hidden in its ink"
+F2-33,1,lpt74,feature,22,1753,3305,3,8,,"knee: local load minimum after the first peak (about 720 lb at pen 1.0), rightmost point of the hump"
+F2-33,1,lpt74,feature,23,1241,2535,10,3,,"knee: small step at constant penetration (recorder wiggle), about 25 lb"
+F2-33,1,lpt74,feature,24,1104,2394,10,3,,knee: step at constant penetration on the pen 4 grid line (about 30 lb)
+F2-33,1,lpt74,feature,25,992.5,2318,3,6,,knee: short vertical run (constant load) before the last rise
+F2-33,1,lpt74,feature,26,935.0,2237.5,3,3,,peak: maximum load of the trace (its last point)
+F2-33,1,lpt74,feature,27,935.0,2237.5,3,3,,last
+F2-33,1,lpt75,trace,1,2303.0,2991.0,5,6,,"first ink; thick recorded trace B, LPT No. 75, started two inches below the surface; ink starts at the right frame line (load 0) on the pen 2 grid line"
+F2-33,1,lpt75,trace,2,1589.4,2918.8,16.5,6.0,,"pen 2.25; thick line at a shallow angle: row run long, u bound is half of it"
+F2-33,1,lpt75,trace,3,1270.9,2843.7,20.0,6.0,,pen 2.50
+F2-33,1,lpt75,trace,4,1106.5,2768.3,9.0,7.5,,pen 2.75
+F2-33,1,lpt75,trace,5,1012.9,2692.6,6.0,12.5,,"pen 3.00; runs together with the fit line (pen 2.9 to 3.27): merged run centre, bound half the merged width; on the pen 3 grid line; row run merged (799 px), u bound from the line width nearby"
+F2-33,1,lpt75,trace,6,958.5,2615.5,11.0,17.0,,"pen 3.25; runs together with the fit line (pen 2.9 to 3.27): merged run centre, bound half the merged width"
+F2-33,1,lpt75,trace,7,1005.0,2538.0,7.5,11.0,,pen 3.50
+F2-33,1,lpt75,trace,8,1015.3,2460.6,4.5,6.0,,"pen 3.75; column run merged (99 px), v bound from the line width nearby"
+F2-33,1,lpt75,trace,9,991.1,2383.3,6.0,14.5,,"pen 4.00; on the pen 4 grid line; row run merged (559 px), u bound from the line width nearby"
+F2-33,1,lpt75,trace,10,952.4,2306.7,6.5,11.5,,pen 4.25
+F2-33,1,lpt75,trace,11,910.5,2236.0,3.0,8.5,,last ink; rounded end of the thick line; maximum load of the trace is here
+F2-33,1,lpt75,feature,12,2303,2991,5,6,,first
+F2-33,1,lpt75,feature,13,1046,2725,10,8,,knee: joins the fit line (runs together with it up to v 2612)
+F2-33,1,lpt75,feature,14,960,2613,8,8,,knee: leaves the fit line to the right; local load maximum (about 1740 lb at pen 3.27)
+F2-33,1,lpt75,feature,15,1018.5,2494,5,10,,"knee: local load minimum of the hook (about 1670 lb at pen 3.65), rightmost point"
+F2-33,1,lpt75,feature,16,910.5,2236.0,6,3,,peak: maximum load of the trace (its last point)
+F2-33,1,lpt75,feature,17,910.5,2236.0,6,3,,last
+F2-33,1,fit,trace,1,1755.1,3615.0,7.5,4,,"lower end of the ink, at the load axis (pen 0 line); thick straight line, half width 8 px"
+F2-33,1,fit,trace,2,1516.6,3312.7,7.5,4,,crossing of the pen 1 grid line (ink centre from the rows around the grid line)
+F2-33,1,fit,trace,3,1263.9,2995.1,7.5,4,,crossing of the pen 2 grid line (ink centre from the rows around the grid line)
+F2-33,1,fit,trace,4,1018.3,2692.7,10,4,,"crossing of the pen 3 grid line, inside the stretch where lpt75 runs together with the fit line (v 2612 to 2730): from the least-squares line through the whole ink (rms 1.7 px), bound widened to half the merged width"
+F2-33,1,fit,trace,5,768.4,2383.9,7.5,4,,crossing of the pen 4 grid line (ink centre from the rows around the grid line)
+F2-33,1,fit,trace,6,544.5,2096,7.5,4,,upper end of the ink (highest row with ink)
+F2-33,1,fit,feature,7,1755.1,3615.0,7.5,4,,intercept: meets the load axis (penetration 0)
+F2-33,1,fit,feature,8,635,1638,37,398,,label: Slope = AγNq = 316 lbs./in. (centre of the printed text block; bounds are its half extents)
+F2-33,1,bce,trace,1,2094.9,3614.2,6.0,4,,"lower end of the ink, at the load axis (pen 0 line); thick straight line, half width 6 px"
+F2-33,1,bce,trace,2,1983.1,3311.7,6.0,4,,crossing of the pen 1 grid line (ink centre from the rows around the grid line)
+F2-33,1,bce,trace,3,1864.8,2994.0,6.0,4,,crossing of the pen 2 grid line (ink centre from the rows around the grid line)
+F2-33,1,bce,trace,4,1754.2,2691.2,6.0,4,,crossing of the pen 3 grid line (ink centre from the rows around the grid line)
+F2-33,1,bce,trace,5,1638.8,2381.5,6.0,4,,crossing of the pen 4 grid line (ink centre from the rows around the grid line)
+F2-33,1,bce,trace,6,1527.9,2074.8,6.0,4,,crossing of the pen 5 grid line (ink centre from the rows around the grid line)
+F2-33,1,bce,trace,7,1499.0,1994,6.0,4,,upper end of the ink (highest row with ink)
+F2-33,1,bce,feature,8,2094.9,3614.2,6.0,4,,intercept: meets the load axis (penetration 0)
+F2-33,1,bce,feature,9,1865,2280,20,510,,"label: Bearing Capacity Equation, φ = 49.5° (centre of the printed text block; bounds are its half extents)"

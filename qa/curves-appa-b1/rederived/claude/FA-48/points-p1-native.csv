@@ -1,0 +1,24 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-48,1,curve,trace,1,802.0,2539.5,7.0,6.0,line,"left end: the curve runs into the left frame (frame ink u 791 to 799, centre about 795); first column clear of the frame; u bound reaches the frame centre",0.0039963,38.17098,0.0050682,0.09162,piecewise extrapolated x
+FA-48,1,curve,trace,2,872.0,2502.4,6.0,6.0,line,sample at Dr 0.05,0.050011,38.65315,0.0043866,0.092,piecewise
+FA-48,1,curve,trace,3,948.0,2458.6,6.0,6.0,line,sample at Dr 0.10,0.0999686,39.22307,0.0043606,0.09255,piecewise
+FA-48,1,curve,trace,4,1024.1,2410.5,6.0,6.0,line,sample at Dr 0.15,0.1499908,39.84967,0.0043344,0.09316,piecewise
+FA-48,1,curve,trace,5,1100.2,2361.8,6.0,6.0,line,sample at Dr 0.20,0.1999854,40.4715,0.0043082,0.09039,piecewise
+FA-48,1,curve,trace,6,1177.4,2313.0,6.0,6.0,line,sample at Dr 0.25,0.2500165,41.09056,0.0042546,0.08978,piecewise
+FA-48,1,curve,trace,7,1254.5,2263.7,6.0,6.0,line,sample at Dr 0.30,0.299993,41.716,0.0042596,0.08917,piecewise
+FA-48,1,curve,trace,8,1331.6,2210.2,6.0,6.0,line,sample at Dr 0.35,0.3500025,42.39526,0.0042646,0.0885,piecewise
+FA-48,1,curve,trace,9,1408.6,2153.9,6.0,6.0,line,sample at Dr 0.40,0.3999726,43.1104,0.0044152,0.08779,piecewise
+FA-48,1,curve,trace,10,1483.1,2100.1,6.0,6.0,line,sample at Dr 0.45,0.4499895,43.79366,0.0044063,0.08712,piecewise
+FA-48,1,curve,trace,11,1557.6,2044.2,6.0,6.0,line,sample at Dr 0.50,0.5000129,44.50382,0.0043944,0.08642,piecewise
+FA-48,1,curve,trace,12,1632.1,1987.5,6.0,6.0,line,sample at Dr 0.55,0.550033,45.22926,0.0043825,0.08808,piecewise
+FA-48,1,curve,trace,13,1706.5,1931.6,6.0,6.0,line,sample at Dr 0.60,0.5999732,45.95528,0.0043706,0.08875,piecewise
+FA-48,1,curve,trace,14,1785.9,1873.0,6.0,6.0,line,sample at Dr 0.65,0.6500145,46.71598,0.0041921,0.08945,piecewise
+FA-48,1,curve,trace,15,1865.2,1815.0,6.0,6.0,line,sample at Dr 0.70,0.6999711,47.46856,0.0042732,0.09014,piecewise
+FA-48,1,curve,trace,16,1944.7,1761.3,6.0,6.0,line,sample at Dr 0.75,0.7500129,48.16455,0.0043544,0.09078,piecewise
+FA-48,1,curve,trace,17,2024.2,1711.7,6.0,6.0,line,sample at Dr 0.80,0.8000179,48.80659,0.0044923,0.09137,piecewise
+FA-48,1,curve,trace,18,2102.6,1667.0,6.0,6.0,line,"sample at Dr 0.85; the drawn line is thin here (6 px), a joint between two strokes with the lower part of the line missing from u 2093 to 2118; centre of the ink taken; the strokes on either side extrapolate to v 1670 to 1671.5, inside the bound",0.8500269,49.38436,0.004486,0.09189,piecewise
+FA-48,1,curve,trace,19,2181.0,1634.0,6.0,6.0,line,sample at Dr 0.90,0.8999825,49.80875,0.0044782,0.09228,piecewise
+FA-48,1,curve,trace,20,2259.5,1599.6,6.0,6.0,line,"sample at Dr 0.95; above the y = 50 line, the highest labelled line: extrapolated",0.9500184,50.25131,0.0044704,0.09386,piecewise extrapolated y
+FA-48,1,curve,trace,21,2332.0,1570.0,6.0,6.0,line,"right end: the curve runs into the right frame (frame ink u 2334 to 2342, centre about 2338) above the y = 50 line; last column clear of the frame; u bound reaches the frame centre",0.9962254,50.6315,0.0044661,0.09552,piecewise extrapolated x y
+FA-48,1,curve,feature,1,802.0,2539.5,7.0,6.0,line,"first point (left end, at the left frame)",0.0039963,38.17098,0.0050682,0.09162,piecewise extrapolated x
+FA-48,1,curve,feature,2,2332.0,1570.0,6.0,6.0,line,"last point (right end, at the right frame); also the maximum of the trace, which rises monotonically; no knee",0.9962254,50.6315,0.0044661,0.09552,piecewise extrapolated x y

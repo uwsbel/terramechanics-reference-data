@@ -1,0 +1,58 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-4A,1,dr95,marker,1,1136,2766.6,2,2,square,,733.808,2467.662,8.608,10.189,piecewise
+FC-4A,1,dr95,marker,2,1421.5,2201.5,2,2,square,,1702.983,4412.768,8.427,8.578,piecewise
+FC-4A,1,dr95,marker,3,1771,1867,2,2,square,,2902.593,5559.793,8.63,9.271,piecewise
+FC-4A,1,dr95,marker,4,2034,1378,2,2,square,,3810.437,7238.344,8.615,11.331,piecewise extrapolated y
+FC-4A,1,dr95,marker,5,2283,1348,2,2,square,,4679.422,7345.082,13.798,11.969,piecewise extrapolated y
+FC-4A,1,dr95,trace,1,923,2993,5.5,5.5,,left end; dashed,1.625,1686.651,20.726,23.713,piecewise extrapolated x
+FC-4A,1,dr95,trace,2,999,2894.0,5.5,5.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=260.5 psf,262.845,2026.996,20.656,23.59,piecewise
+FC-4A,1,dr95,trace,3,1069,2805.5,5.0,5.0,,dashed,503.535,2332.722,18.932,20.979,piecewise
+FC-4A,1,dr95,trace,4,1141,2706.5,8.0,8.0,,,751.235,2674.624,29.246,30.401,piecewise
+FC-4A,1,dr95,trace,5,1214,2610.0,7.5,7.5,,,1002.418,3007.921,27.475,27.697,piecewise
+FC-4A,1,dr95,trace,6,1287,2512.0,8.5,8.5,,,1248.669,3345.814,30.343,31.059,piecewise
+FC-4A,1,dr95,trace,7,1360,2414.5,8.0,8.0,,,1494.917,3681.989,28.657,29.333,piecewise
+FC-4A,1,dr95,trace,8,1433,2316.0,7.5,7.5,,,1741.169,4021.49,26.971,27.496,piecewise
+FC-4A,1,dr95,trace,9,1505,2220.0,7.5,7.5,,,1984.043,4350.797,27.237,27.465,piecewise
+FC-4A,1,dr95,trace,10,1578,2124.0,7.5,7.5,,,2235.843,4680.12,27.622,27.465,piecewise
+FC-4A,1,dr95,trace,11,1651,2027.0,7.5,7.5,,,2488.032,5012.817,27.622,27.423,piecewise
+FC-4A,1,dr95,trace,12,1724,1927.5,8.0,8.0,,,2740.234,5352.943,29.349,29.568,piecewise
+FC-4A,1,dr95,trace,13,1796,1830.0,6.5,6.5,,,2988.978,5686.239,24.169,24.852,piecewise
+FC-4A,1,dr95,trace,14,1869,1736.0,7.5,7.5,,,3240.738,6007.678,27.575,28.836,piecewise
+FC-4A,1,dr95,trace,15,1942,1637.0,7.5,7.5,,,3492.503,6348.422,27.575,28.825,piecewise
+FC-4A,1,dr95,trace,16,2015,1538.5,9.0,9.0,,,3744.265,6687.451,32.745,33.981,piecewise
+FC-4A,1,dr95,trace,17,2096,1426.5,5.0,5.0,,target x=4000 psf falls in a gap/marker/grid interference; nearest visible ink at x=4029.1 psf,4024.045,7072.914,19.606,20.741,piecewise extrapolated y
+FC-4A,1,dr95,trace,18,2160,1347.0,7.5,7.5,,dashed,4248.601,7346.625,30.08,31.044,piecewise extrapolated y
+FC-4A,1,dr95,trace,19,2231,1253.0,3.5,3.5,,dashed; target x=4500 psf falls in a gap/marker/grid interference; nearest visible ink at x=4492.8 psf,4497.746,7670.185,17.77,19.114,piecewise extrapolated y
+FC-4A,1,dr95,trace,20,2306,1150.0,7.5,7.5,,dashed,4760.944,8024.682,33.827,35.101,piecewise extrapolated y
+FC-4A,1,dr95,trace,21,2379,1053.5,7.0,7.0,,dashed,5017.107,8356.85,34.114,35.355,piecewise extrapolated x y
+FC-4A,1,dr95,trace,22,2380,1053.5,6.0,6.0,,right end; dashed; above plot frame,5020.609,8356.865,30.606,31.889,piecewise extrapolated x y
+FC-4A,1,dr95,feature,1,922.54,2993.62,5.5,5.5,,intercept,0.045,1684.521,20.731,23.715,piecewise extrapolated x
+FC-4A,1,dr95,feature,2,1587.5,2037.5,3,3,,label: 53°,2269.015,4975.993,12.083,12.012,piecewise
+FC-4A,1,dr0,marker,1,1148.1,3258.9,2,2,circle,,773.273,780.572,8.597,12.023,piecewise
+FC-4A,1,dr0,marker,2,1438.3,2914.1,2,2,circle,,1756.221,1964.752,8.427,11.472,piecewise
+FC-4A,1,dr0,marker,3,1779.9,2684.4,2,2,circle,,2929.373,2760.538,8.63,9.349,piecewise
+FC-4A,1,dr0,marker,4,2034.5,2401.3,2,2,circle,,3807.272,3737.719,8.615,8.622,piecewise
+FC-4A,1,dr0,marker,5,2294,2163,2,2,circle,,4713.991,4557.736,14.051,8.578,piecewise
+FC-4A,1,dr0,trace,1,923,3444,5.0,5.0,,left end; dashed,0.486,146.591,18.987,22.129,piecewise extrapolated x
+FC-4A,1,dr0,trace,2,992,3389.0,4.5,4.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=234.2 psf,237.295,334.967,17.201,20.467,piecewise
+FC-4A,1,dr0,trace,3,1069,3315.0,6.5,6.5,,dashed,501.676,588.231,24.062,27.378,piecewise
+FC-4A,1,dr0,trace,4,1158,3232.5,6.0,6.0,,target x=750 psf falls in a gap/marker/grid interference; nearest visible ink at x=804.1 psf,807.354,870.685,22.339,25.74,piecewise
+FC-4A,1,dr0,trace,5,1215,3178.5,6.0,6.0,,,1003.13,1055.848,22.275,25.874,piecewise
+FC-4A,1,dr0,trace,6,1288,3109.5,6.0,6.0,,,1249.245,1293.269,21.914,25.708,piecewise
+FC-4A,1,dr0,trace,7,1361,3041.5,6.0,6.0,,,1495.355,1527.265,21.914,25.546,piecewise
+FC-4A,1,dr0,trace,8,1433,2974.5,6.0,6.0,,,1738.094,1757.821,21.914,25.385,piecewise
+FC-4A,1,dr0,trace,9,1506,2906.5,6.0,6.0,,,1984.204,1991.816,22.061,25.238,piecewise
+FC-4A,1,dr0,trace,10,1579,2838.5,5.0,5.0,,,2235.874,2226.978,18.99,21.283,piecewise
+FC-4A,1,dr0,trace,11,1652,2769.5,5.0,5.0,,,2487.929,2465.625,18.99,20.598,piecewise
+FC-4A,1,dr0,trace,12,1725,2701.5,6.0,6.0,,,2739.98,2700.829,22.443,23.391,piecewise
+FC-4A,1,dr0,trace,13,1798,2634.5,6.0,6.0,,,2992.026,2932.59,22.443,22.726,piecewise
+FC-4A,1,dr0,trace,14,1870,2566.5,6.0,6.0,,,3240.214,3167.491,22.404,22.429,piecewise
+FC-4A,1,dr0,trace,15,1943,2497.5,6.0,6.0,,,3491.836,3405.727,22.404,22.429,piecewise
+FC-4A,1,dr0,trace,16,2016,2429.5,7.0,7.0,,,3743.453,3640.527,25.851,25.881,piecewise
+FC-4A,1,dr0,trace,17,2089,2362.0,6.5,6.5,,,3995.068,3873.609,24.607,24.155,piecewise
+FC-4A,1,dr0,trace,18,2162,2292.5,6.0,6.0,,,4251.012,4112.981,24.798,22.314,piecewise
+FC-4A,1,dr0,trace,19,2234,2225.5,7.0,7.0,,,4503.529,4343.143,30.178,25.748,piecewise
+FC-4A,1,dr0,trace,20,2320,2145.0,7.5,7.5,,dashed; target x=4750 psf falls in a gap/marker/grid interference; nearest visible ink at x=4793.7 psf,4805.147,4619.673,34.15,27.465,piecewise
+FC-4A,1,dr0,trace,21,2377,2088,5.0,5.0,,right end; dashed,5005.075,4815.417,26.892,18.88,piecewise extrapolated x
+FC-4A,1,dr0,feature,1,922.86,3444.13,5.0,5.0,,intercept,0.005,146.146,18.989,22.129,piecewise extrapolated x
+FC-4A,1,dr0,feature,2,1802.5,2571,3,3,,label: 43°,3007.834,3150.989,12.07,12.074,piecewise

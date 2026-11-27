@@ -1,0 +1,68 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F2-45,1,lpt95,trace,1,2254.0,3583.5,6.0,5.5,solid,ink start: solid line leaves the bottom frame near the origin corner (its lower edge merges with the frame at u 2252; the line is about 10 px thick here); bound widened along the line for where it separates from the frame
+F2-45,1,lpt95,trace,2,2138.8,3519.4,4.6,4.6,solid,x target 0.25 in
+F2-45,1,lpt95,trace,3,2054.8,3443.3,3.9,3.9,solid,x target 0.50 in
+F2-45,1,lpt95,trace,4,1999.5,3366.8,4.0,4.0,solid,x target 0.75 in
+F2-45,1,lpt95,trace,5,1948.8,3282.4,3.8,3.8,solid,sampled at 1.025 in instead of 1.00 in: at 1.00 in the line is hidden in the x = 1 grid line
+F2-45,1,lpt95,trace,6,1909.2,3213.3,4.0,4.0,solid,x target 1.25 in
+F2-45,1,lpt95,trace,7,1860.6,3136.5,3.8,3.8,solid,x target 1.50 in
+F2-45,1,lpt95,trace,8,1818.6,3059.6,3.6,3.6,solid,x target 1.75 in
+F2-45,1,lpt95,trace,9,1754.3,2975.4,3.7,3.7,solid,sampled at 2.025 in instead of 2.00 in: at 2.00 in the line is hidden in the x = 2 grid line
+F2-45,1,lpt95,trace,10,1698.0,2907.3,4.3,4.3,solid,x target 2.25 in
+F2-45,1,lpt95,trace,11,1641.5,2823.9,4.0,4.0,solid,sampled at 2.525 in instead of 2.50 in: at 2.50 in the line is hidden in the load grid line it crosses
+F2-45,1,lpt95,trace,12,1586.9,2755.7,4.1,4.1,solid,x target 2.75 in
+F2-45,1,lpt95,trace,13,1521.4,2672.3,3.6,3.6,solid,sampled at 3.025 in instead of 3.00 in: at 3.00 in the line is hidden in the x = 3 grid line
+F2-45,1,lpt95,trace,14,1460.3,2603.4,3.8,3.8,solid,x target 3.25 in
+F2-45,1,lpt95,trace,15,1404.6,2526.7,3.9,3.9,solid,x target 3.50 in
+F2-45,1,lpt95,trace,16,1340.7,2450.1,3.7,3.7,solid,x target 3.75 in
+F2-45,1,lpt95,trace,17,1262.4,2366.0,4.5,4.5,solid,sampled at 4.025 in instead of 4.00 in: at 4.00 in the line is hidden in the x = 4 grid line
+F2-45,1,lpt95,trace,18,1207.7,2297.1,3.3,3.3,solid,x target 4.25 in
+F2-45,1,lpt95,trace,19,1133.8,2220.8,3.7,3.7,solid,x target 4.50 in
+F2-45,1,lpt95,trace,20,1063.9,2144.4,4.1,4.1,solid,x target 4.75 in
+F2-45,1,lpt95,trace,21,988.0,2060.4,3.8,3.8,solid,sampled at 5.025 in instead of 5.00 in: at 5.00 in the line is hidden in the x = 5 grid line
+F2-45,1,lpt95,trace,22,927.1,1991.7,4.2,4.2,solid,x target 5.25 in
+F2-45,1,lpt95,trace,23,839.3,1908.0,3.7,3.7,solid,sampled at 5.525 in instead of 5.50 in: at 5.50 in the line is hidden in the load grid line it crosses
+F2-45,1,lpt95,trace,24,777.7,1839.4,3.8,3.8,solid,x target 5.75 in
+F2-45,1,lpt95,trace,25,690.5,1755.7,3.6,3.6,solid,sampled at 6.025 in instead of 6.00 in: at 6.00 in the line is hidden in the x = 6 grid line
+F2-45,1,lpt95,trace,26,645.3,1687.2,3.8,3.8,solid,x target 6.25 in
+F2-45,1,lpt95,trace,27,534.8,1612.1,4.0,4.0,solid,x target 6.50 in
+F2-45,1,lpt95,trace,28,460.5,1536.3,4.4,4.4,solid,x target 6.75 in
+F2-45,1,lpt95,trace,29,388.0,1476.0,6.0,6.0,solid,ink end: the solid line ends where it runs into the left frame just below the top-left corner (its upper edge meets the top frame at u 390); line about 12 px thick here
+F2-45,1,lpt79,trace,1,2230.0,3559.4,6.5,8.0,dotted,"dot 1 of the chain; first distinct dot (an earlier dot may be merged with the solid line near u 2240, v 3573)"
+F2-45,1,lpt79,trace,2,2202.7,3514.6,6.6,8.0,dotted,dot 4 of the chain
+F2-45,1,lpt79,trace,3,2156.2,3441.6,7.6,8.4,dotted,dot 9 of the chain
+F2-45,1,lpt79,trace,4,2111.8,3366.4,6.9,8.0,dotted,dot 14 of the chain
+F2-45,1,lpt79,trace,5,2055.8,3277.2,6.3,8.0,dotted,dot 20 of the chain
+F2-45,1,lpt79,trace,6,2020.9,3217.8,5.8,7.8,dotted,dot 24 of the chain
+F2-45,1,lpt79,trace,7,1978.7,3142.9,7.3,10.2,dotted,dot 29 of the chain
+F2-45,1,lpt79,trace,8,1938.0,3064.8,6.2,8.1,dotted,dot 33 of the chain
+F2-45,1,lpt79,trace,9,1898.4,2988.2,6.3,8.2,dotted,"dot 38 of the chain; dot touches a grid line, center from the ink outside the grid band"
+F2-45,1,lpt79,trace,10,1856.9,2910.7,6.2,8.1,dotted,dot 43 of the chain
+F2-45,1,lpt79,trace,11,1815.4,2833.5,6.7,8.2,dotted,dot 48 of the chain
+F2-45,1,lpt79,trace,12,1773.8,2756.8,6.3,8.1,dotted,dot 53 of the chain
+F2-45,1,lpt79,trace,13,1723.5,2664.6,6.0,8.0,dotted,dot 59 of the chain
+F2-45,1,lpt79,trace,14,1690.4,2603.4,6.5,8.2,dotted,dot 63 of the chain
+F2-45,1,lpt79,trace,15,1649.7,2525.3,7.1,10.0,dotted,"dot 68 of the chain; dot touches a grid line, center from the ink outside the grid band"
+F2-45,1,lpt79,trace,16,1609.0,2448.5,6.2,8.1,dotted,dot 72 of the chain
+F2-45,1,lpt79,trace,17,1559.6,2355.6,6.4,8.2,dotted,dot 78 of the chain
+F2-45,1,lpt79,trace,18,1526.0,2294.0,6.7,8.2,dotted,dot 82 of the chain
+F2-45,1,lpt79,trace,19,1492.1,2233.4,6.5,8.0,dotted,dot 86 of the chain
+F2-45,1,lpt79,trace,20,1438.7,2143.2,6.7,8.1,dotted,dot 92 of the chain
+F2-45,1,lpt79,trace,21,1394.5,2069.1,6.5,8.0,dotted,"dot 97 of the chain; dot touches a grid line, center from the ink outside the grid band"
+F2-45,1,lpt79,trace,22,1339.9,1979.8,6.3,7.7,dotted,dot 103 of the chain
+F2-45,1,lpt79,trace,23,1293.4,1906.6,6.5,8.0,dotted,dot 108 of the chain
+F2-45,1,lpt79,trace,24,1247.3,1833.5,6.7,7.9,dotted,dot 113 of the chain
+F2-45,1,lpt79,trace,25,1199.2,1761.8,6.7,8.0,dotted,"dot 118 of the chain; dot touches a grid line, center from the ink outside the grid band"
+F2-45,1,lpt79,trace,26,1150.7,1687.9,6.6,7.7,dotted,dot 123 of the chain; last dot of the line
+F2-45,1,lpt95,feature,1,2254.0,3583.5,6.0,5.5,solid,first: solid line leaves the bottom frame near the origin corner (its lower edge merges with the frame at u 2252; the line is about 10 px thick here); bound widened along the line for where it separates from the frame
+F2-45,1,lpt95,feature,2,2205.0,3566.0,10.0,6.0,solid,knee: end of the initial steep rise (about 12 lb at 0.1 in); the bend is gradual so the bound is widened along the line
+F2-45,1,lpt95,feature,3,1878.0,3147.5,14.0,5.0,solid,kink: load step at nearly constant penetration: a short vertical stretch at u 1888 (v 3175 to 3148) then a horizontal jog to u 1868 at v 3147; point at the middle of the jog with the u bound spanning it
+F2-45,1,lpt95,feature,4,1575.0,2744.0,17.0,5.0,solid,kink: load step at nearly constant penetration: horizontal jog at v 2744 from u 1588 to u 1561 followed by a vertical stretch at u 1561 (v 2743 to 2720); point at the middle of the jog with the u bound spanning it
+F2-45,1,lpt95,feature,5,1494.0,2641.5,14.0,5.0,solid,kink: load step: vertical stretch at u 1502 (v 2657 to 2645) then a horizontal jog to u 1482 at v 2641 across the 125 lb grid line (u 1489); point at the middle of the jog with the u bound spanning it
+F2-45,1,lpt95,feature,6,605.0,1653.0,10.0,7.0,solid,knee: start of a stiff stretch near 6.36 in (the line turns from steep to shallow on the page; the load rises about 9 lb between this knee and the next
+F2-45,1,lpt95,feature,7,548.0,1628.0,8.0,6.0,solid,knee: end of the stiff stretch near 6.45 in where the line steepens again on the page; just right of the 275 lb grid line (u 539)
+F2-45,1,lpt95,feature,8,388.0,1476.0,6.0,6.0,solid,peak: maximum load: the line runs into the left frame (300 lb line) just below the top-left corner; the peak is at the end of the drawn line and the load beyond the frame cannot be seen
+F2-45,1,lpt95,feature,9,388.0,1476.0,6.0,6.0,solid,last: the solid line ends where it runs into the left frame just below the top-left corner (its upper edge meets the top frame at u 390); line about 12 px thick here
+F2-45,1,lpt79,feature,1,2230.0,3559.4,6.5,8.0,dotted,first: first distinct dot (dot 1 of the chain); the next dot toward the origin seems merged with the solid line near u 2240 v 3573 and the one after would fall in the bottom frame
+F2-45,1,lpt79,feature,2,1150.7,1687.9,6.6,7.7,dotted,peak: maximum load: the last dot of the dotted line (left of the 175 lb grid line)
+F2-45,1,lpt79,feature,3,1150.7,1687.9,6.6,7.7,dotted,last: last dot of the dotted line (left of the 175 lb grid line); no dots beyond it

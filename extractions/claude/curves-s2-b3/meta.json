@@ -1,0 +1,23 @@
+{
+  "agent": "claude",
+  "batch": "curves-s2-b3",
+  "date": "2026-11-05",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session, one per figure)",
+  "prompt": "TASK.md plus a task naming the workspace and the figure, the blindness rules, and (F2-42) that the A/C identification matters because LPT 24 is the calibration test of a later simulation study",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-s2-b3/batch.json: page images p0099, p0102, p0104, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other folders. Launched at the same time as the Codex run, before any Codex output existed. Codex finished while the readers were working; the orchestrating session then read the Codex run's final summary (counts per series, calibration residuals, the ambiguities it listed) and passed nothing to the readers, who report opening nothing outside their workspace and TASK.md. Shared hint: the batch description, written by the orchestrator from the pages, went to both agents; it stated the dash lengths of Fig. 2-42 the wrong way round (D long dashes; the page has C long, D shorter). Filed after all three readings had finished.",
+  "readers": {
+    "F2-42": {
+      "reader": "one subagent (claude-opus-5-5)",
+      "elapsed_sec": 1911.0,
+      "subagent_tokens": 352474,
+      "tool_uses": 120
+    },
+    "F2-44": {
+      "reader": "one subagent (claude-opus-5-5)",
+      "elapsed_sec": 1800.2,
+      "subagent_tokens": 367222,
+      "tool_uses": 114
+    }
+  }
+}

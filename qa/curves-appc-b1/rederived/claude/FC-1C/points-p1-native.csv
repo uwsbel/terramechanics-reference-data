@@ -1,0 +1,404 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-1C,1,n3520,marker,1,686,2272,3,3,x,on the 2000 psf gridline,10.4882,1989.385,0.6082,13.055,piecewise
+FC-1C,1,n3520,marker,2,751,2142,2,2,x,,21.6336,2444.594,0.4354,9.527,piecewise
+FC-1C,1,n3520,marker,3,814,2037,2,2,x,,32.4227,2812.191,0.4333,9.464,piecewise
+FC-1C,1,n3520,marker,4,863,1963,3,3,x,center read on a zoom-6 crop; the curve runs along one arm of the x,40.81,3069.839,0.6025,12.74,piecewise
+FC-1C,1,n3520,marker,5,924,1886,3,3,x,on the 50 gridline; center read on a zoom-6 crop,51.2286,3334.133,0.5946,12.879,piecewise
+FC-1C,1,n3520,marker,6,1035,1772,2,2,x,,69.9924,3725.368,0.425,9.636,piecewise
+FC-1C,1,n3520,marker,7,1159,1684,3,3,x,on the 4000 psf gridline,90.9062,4027.104,0.5932,13.168,piecewise
+FC-1C,1,n3520,marker,8,1273,1634,2,2,x,,110.2972,4197.717,0.4351,9.633,piecewise
+FC-1C,1,n3520,marker,9,1400,1611,2,2,x,,132.0691,4275.701,0.4405,9.588,piecewise
+FC-1C,1,n3520,marker,10,1507,1605,3,3,x,on the 150 gridline,150.4001,4295.543,0.6138,13.016,piecewise
+FC-1C,1,n3520,marker,11,1627,1598,2,2,x,,170.8164,4318.731,0.4437,9.565,piecewise
+FC-1C,1,n3520,marker,12,1744,1605,2,2,x,,190.7139,4293.928,0.4456,9.581,piecewise
+FC-1C,1,n3520,marker,13,1863,1621,2,2,x,,211.2055,4238.237,0.4631,9.614,piecewise
+FC-1C,1,n3520,marker,14,1979,1644,2,2,x,,231.3912,4158.543,0.4734,9.661,piecewise
+FC-1C,1,n3520,marker,15,2104,1670,3,3,x,beyond the 250 gridline (x > 250); right of the last gridline,253.1421,4068.479,0.6759,13.154,piecewise extrapolated x
+FC-1C,1,n2935,marker,1,992,1838,3,3,asterisk,center read on a zoom-6 crop; the n3520 line passes through the symbol,62.7078,3498.677,0.5943,12.966,piecewise
+FC-1C,1,n2935,marker,2,1102,1769,2,2,asterisk,,81.2615,3735.183,0.4248,9.642,piecewise
+FC-1C,1,n2935,marker,3,1217,1712,3,3,asterisk,on the 100 gridline,100.6502,3930.449,0.6049,13.196,piecewise
+FC-1C,1,n2935,marker,4,1339,1685,3,3,asterisk,on the 4000 psf gridline,121.5743,4022.409,0.61,13.173,piecewise
+FC-1C,1,n2935,marker,5,1452,1685,3,3,asterisk,on the 4000 psf gridline,140.938,4021.613,0.6148,13.174,piecewise
+FC-1C,1,n2935,marker,6,1562,1700,3,3,asterisk,touching the 4000 psf gridline,159.7037,3969.279,0.6131,13.224,piecewise
+FC-1C,1,n2935,marker,7,1682,1718,2,2,asterisk,,180.0948,3906.437,0.4444,9.741,piecewise
+FC-1C,1,n2935,marker,8,1790,1728,3,3,asterisk,near the 200 gridline,198.4483,3871.213,0.6168,13.178,piecewise
+FC-1C,1,n2935,marker,9,1914,1727,2,2,asterisk,,220.0074,3873.751,0.4676,9.728,piecewise
+FC-1C,1,n2935,marker,10,2102,1717,3,3,asterisk,beyond the 250 gridline (x > 250); touches the gridline,252.758,3906.838,0.674,13.203,piecewise extrapolated x
+FC-1C,1,n2345,marker,1,685,2410,2,2,square,,10.2069,1507.991,0.4375,9.197,piecewise
+FC-1C,1,n2345,marker,2,806,2228,2,2,square,,30.9031,2142.596,0.4335,9.578,piecewise
+FC-1C,1,n2345,marker,3,930,2095,3,3,square,on the 50 gridline,52.0597,2607.828,0.5951,13.013,piecewise
+FC-1C,1,n2345,marker,4,1048,2012,2,2,square,,71.9926,2897.77,0.4253,9.448,piecewise
+FC-1C,1,n2345,marker,5,1157,1968,2,2,square,,90.3707,3050.098,0.4249,9.285,piecewise
+FC-1C,1,n2345,marker,6,1272,1958,2,2,square,,109.9178,3083.513,0.4355,9.304,piecewise
+FC-1C,1,n2345,marker,7,1446,1963,2,2,square,,139.76,3064.803,0.443,9.297,piecewise
+FC-1C,1,n2345,marker,8,1559,1954,2,2,square,,159.0557,3094.812,0.4419,9.315,piecewise
+FC-1C,1,n2345,marker,9,1622,1949,2,2,square,,169.757,3111.486,0.4429,9.324,piecewise
+FC-1C,1,n2345,marker,10,1740,1966,2,2,square,,189.7838,3051.928,0.4447,9.295,piecewise
+FC-1C,1,n2345,marker,11,1919,2024,2,2,square,,220.6526,2848.008,0.4679,9.452,piecewise
+FC-1C,1,n2345,marker,12,2096,2054,3,3,square,on the 250 gridline,251.4565,2741.337,0.6677,12.982,piecewise extrapolated x
+FC-1C,1,n1760,marker,1,734,2506,2,2,plus,,18.4474,1172.838,0.4358,8.949,piecewise
+FC-1C,1,n1760,marker,2,922,2295,3,3,plus,on the 50 gridline,50.5406,1907.264,0.5959,12.979,piecewise
+FC-1C,1,n1760,marker,3,983,2242,3,3,plus,,60.8632,2092.02,0.5953,13.101,piecewise
+FC-1C,1,n1760,marker,4,1101,2154,2,2,plus,,80.8086,2399.514,0.4254,9.533,piecewise
+FC-1C,1,n1760,marker,5,1334,2062,2,2,plus,,120.4891,2719.981,0.4383,9.477,piecewise
+FC-1C,1,n1760,marker,6,1452,2030,2,2,plus,,140.7532,2831.103,0.4433,9.457,piecewise
+FC-1C,1,n1760,marker,7,1569,2024,2,2,plus,,160.7153,2851.099,0.4419,9.453,piecewise
+FC-1C,1,n1760,marker,8,1682,2035,2,2,plus,,179.8908,2811.552,0.4437,9.459,piecewise
+FC-1C,1,n1760,marker,9,1918,2090,2,2,plus,,220.4283,2616.755,0.4678,9.491,piecewise
+FC-1C,1,n1760,marker,10,2085,2112,3,3,plus,on the 250 gridline,249.4966,2538.221,0.6583,13.017,piecewise extrapolated x
+FC-1C,1,n1172,marker,1,742,2556,3,3,triangle-down,on the 1000 psf gridline,19.7643,998.431,0.6061,12.293,piecewise
+FC-1C,1,n1172,marker,2,865,2458,2,2,triangle-down,,40.7262,1339.471,0.4314,9.067,piecewise
+FC-1C,1,n1172,marker,3,981,2392,2,2,triangle-down,,60.403,1568.773,0.4262,9.232,piecewise
+FC-1C,1,n1172,marker,4,1094,2347,2,2,triangle-down,,79.4856,1724.757,0.4258,9.343,piecewise
+FC-1C,1,n1172,marker,5,1212,2326,3,3,triangle-down,on the 100 gridline,99.3881,1797.011,0.5945,12.884,piecewise
+FC-1C,1,n1172,marker,6,1334,2328,2,2,triangle-down,,120.3277,1789.125,0.4386,9.382,piecewise
+FC-1C,1,n1172,marker,7,1454,2344,2,2,triangle-down,,140.9282,1732.556,0.4438,9.337,piecewise
+FC-1C,1,n1172,marker,8,1569,2350,2,2,triangle-down,,160.5362,1710.846,0.4412,9.317,piecewise
+FC-1C,1,n1172,marker,9,1686,2368,2,2,triangle-down,,180.355,1647.427,0.443,9.267,piecewise
+FC-1C,1,n1172,marker,10,1918,2422,2,2,triangle-down,,220.1761,1458.244,0.4676,9.12,piecewise
+FC-1C,1,n1172,marker,11,2028,2431,2,2,triangle-down,,239.3268,1426.298,0.4774,9.093,piecewise
+FC-1C,1,n587,marker,1,686,2690,2,2,triangle-up,,10.1506,537.725,0.4373,8.656,piecewise
+FC-1C,1,n587,marker,2,814,2574,3,3,triangle-up,apex touches the 1000 psf gridline; curve line crosses the symbol,31.9705,936.174,0.6036,12.134,piecewise
+FC-1C,1,n587,marker,3,922,2495,3,3,triangle-up,on the 50 gridline,50.3683,1210.168,0.5976,12.464,piecewise
+FC-1C,1,n587,marker,4,1035,2460,3,3,triangle-up,symbol partly filled by the line ink,69.4526,1331.489,0.5956,12.548,piecewise
+FC-1C,1,n587,marker,5,1157,2448,2,2,triangle-up,,90.0328,1372.556,0.4257,9.082,piecewise
+FC-1C,1,n587,marker,6,1272,2454,2,2,triangle-up,,109.5984,1350.971,0.4361,9.062,piecewise
+FC-1C,1,n587,marker,7,1449,2452,2,2,triangle-up,,140.0112,1356.867,0.4438,9.061,piecewise
+FC-1C,1,n587,marker,8,1512,2450,3,3,triangle-up,on the 150 gridline,150.825,1363.444,0.61,12.551,piecewise
+FC-1C,1,n587,marker,9,1624,2467,2,2,triangle-up,,169.7888,1303.663,0.4418,9.016,piecewise
+FC-1C,1,n587,marker,10,1747,2502,2,2,triangle-up,,190.6002,1181.313,0.4437,8.923,piecewise
+FC-1C,1,n587,marker,11,1863,2518,2,2,triangle-up,,210.5244,1125.107,0.4627,8.878,piecewise
+FC-1C,1,n587,marker,12,1977,2521,2,2,triangle-up,,230.3762,1114.099,0.4728,8.866,piecewise
+FC-1C,1,n294,marker,1,741,2718,2,2,circle,,19.4614,441.155,0.4354,8.647,piecewise
+FC-1C,1,n294,marker,2,866,2672,2,2,circle,,40.713,598.823,0.4312,8.66,piecewise
+FC-1C,1,n294,marker,3,984,2645,2,2,circle,,60.701,691.157,0.4266,8.668,piecewise
+FC-1C,1,n294,marker,4,1098,2633,2,2,circle,,79.9468,731.908,0.4262,8.671,piecewise
+FC-1C,1,n294,marker,5,1220,2630,3,3,circle,on the 100 gridline,100.5448,741.664,0.6068,12.116,piecewise
+FC-1C,1,n294,marker,6,1335,2634,2,2,circle,,120.3135,727.376,0.4391,8.67,piecewise
+FC-1C,1,n294,marker,7,1448,2643,2,2,circle,,139.7362,695.901,0.444,8.667,piecewise
+FC-1C,1,n294,marker,8,1566,2655,2,2,circle,,159.8614,654.088,0.4405,8.663,piecewise
+FC-1C,1,n294,marker,9,1683,2669,2,2,circle,,179.6538,605.405,0.4423,8.659,piecewise
+FC-1C,1,n3520,trace,1,706,2220,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 18 px, bound is half of it",13.9269,2171.491,0.2727,34.113,piecewise
+FC-1C,1,n3520,trace,2,728,2182,1,9,,"steep segment: the vertical cut of the line is 18 px, bound is half of it",17.6943,2304.542,0.272,34.09,piecewise
+FC-1C,1,n3520,trace,3,771,2106,1,7,,column moved off a marker,25.0606,2570.644,0.269,27.03,piecewise
+FC-1C,1,n3520,trace,4,787,2080,1,9,,"steep segment: the vertical cut of the line is 18 px, bound is half of it",27.8,2661.665,0.2701,34.028,piecewise
+FC-1C,1,n3520,trace,5,834,2006,1,7,,column moved off a marker,35.8465,2920.702,0.267,26.97,piecewise
+FC-1C,1,n3520,trace,6,843,1990,1,10,,"column moved off a marker; steep segment: the vertical cut of the line is 20 px, bound is half of it",37.3891,2976.719,0.2692,37.48,piecewise
+FC-1C,1,n3520,trace,7,883,1937,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it",44.2304,3159.08,0.2662,29.974,piecewise
+FC-1C,1,n3520,trace,8,903,1911,1,7,,,47.651,3248.327,0.2647,26.581,piecewise
+FC-1C,1,n3520,trace,9,944,1862,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it",54.6136,3416.513,0.2623,30.112,piecewise
+FC-1C,1,n3520,trace,10,962,1842,1,7,,,57.6583,3485.157,0.2613,26.708,piecewise
+FC-1C,1,n3520,trace,11,991,1812,1,7,,another run within 25 px (v=1839),62.5607,3588.115,0.2611,26.763,piecewise
+FC-1C,1,n3520,trace,12,1015,1790,1,7,,column moved off a marker; another run within 25 px (v=1820),66.6148,3663.603,0.2609,26.804,piecewise
+FC-1C,1,n3520,trace,13,1055,1755,1,7,,column moved off a marker,73.3687,3783.697,0.2606,26.868,piecewise
+FC-1C,1,n3520,trace,14,1078,1737,1,6,,,77.2498,3845.447,0.2597,23.46,piecewise
+FC-1C,1,n3520,trace,15,1108,1716,1,6,,,82.3094,3917.473,0.2595,23.499,piecewise
+FC-1C,1,n3520,trace,16,1137,1696,1,6,,,87.1994,3986.073,0.2593,23.511,piecewise
+FC-1C,1,n3520,trace,17,1179,1671,1,6,,column moved off a marker,94.2773,4071.527,0.259,23.418,piecewise
+FC-1C,1,n3520,trace,18,1195,1662,1,6,,,96.9729,4102.268,0.2589,23.401,piecewise
+FC-1C,1,n3520,trace,19,1225,1648,1,5,,,102.0641,4150.054,0.2637,19.944,piecewise
+FC-1C,1,n3520,trace,20,1253,1638,1,6,,column moved off a marker,106.868,4184.142,0.2654,23.354,piecewise
+FC-1C,1,n3520,trace,21,1296,1628,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,114.2416,4218.129,0.2666,19.905,piecewise
+FC-1C,1,n3520,trace,22,1312,1624,1,5,,,116.9852,4231.732,0.2672,19.898,piecewise
+FC-1C,1,n3520,trace,23,1342,1619,1,5,,,122.1279,4248.669,0.2684,19.888,piecewise
+FC-1C,1,n3520,trace,24,1371,1614,1,6,,,127.0992,4265.613,0.2702,23.31,piecewise
+FC-1C,1,n3520,trace,25,1423,1608,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line,136.011,4285.83,0.2723,23.299,piecewise
+FC-1C,1,n3520,trace,26,1430,1607,1,5,,,137.2108,4289.211,0.2721,19.866,piecewise
+FC-1C,1,n3520,trace,27,1459,1606,1,5,,,142.1794,4292.442,0.2733,19.865,piecewise
+FC-1C,1,n3520,trace,28,1484,1605,1,6,,column moved off a marker; column moved -3 px off a gap in the dashed line,146.4627,4295.7,0.2748,23.294,piecewise
+FC-1C,1,n3520,trace,29,1527,1604,1,3,,column moved off a marker,153.8026,4298.836,0.2725,13.0,piecewise
+FC-1C,1,n3520,trace,30,1547,1602,1,6,,,157.2057,4305.558,0.2745,23.29,piecewise
+FC-1C,1,n3520,trace,31,1576,1598,1,5,,,162.141,4319.077,0.2745,19.851,piecewise
+FC-1C,1,n3520,trace,32,1606,1598,1,5,,,167.2442,4318.873,0.275,19.852,piecewise
+FC-1C,1,n3520,trace,33,1647,1600,1,6,,column moved off a marker,174.2173,4311.736,0.2764,23.288,piecewise
+FC-1C,1,n3520,trace,34,1664,1599,1,6,,,177.1097,4315.05,0.2767,23.286,piecewise
+FC-1C,1,n3520,trace,35,1694,1600,1,5,,,182.2122,4311.416,0.2767,19.858,piecewise
+FC-1C,1,n3520,trace,36,1723,1604,1,5,,,187.1425,4297.501,0.2772,19.866,piecewise
+FC-1C,1,n3520,trace,37,1767,1608,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line,194.6241,4283.482,0.2787,23.307,piecewise
+FC-1C,1,n3520,trace,38,1782,1610,1,5,,,197.1741,4276.52,0.2783,19.879,piecewise
+FC-1C,1,n3520,trace,39,1811,1613,1,5,,,202.155,4266.032,0.2865,19.886,piecewise
+FC-1C,1,n3520,trace,40,1840,1619,1,5,,,207.2012,4245.254,0.289,19.898,piecewise
+FC-1C,1,n3520,trace,41,1886,1626,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line,215.2075,4220.928,0.2939,23.345,piecewise
+FC-1C,1,n3520,trace,42,1899,1628,1,6,,,217.4701,4213.979,0.295,23.35,piecewise
+FC-1C,1,n3520,trace,43,1928,1634,1,5,,,222.5164,4193.198,0.2969,19.93,piecewise
+FC-1C,1,n3520,trace,44,1958,1641,1,6,,,227.736,4168.979,0.3003,23.377,piecewise
+FC-1C,1,n3520,trace,45,2005,1652,1,4,,column moved off a marker; column moved 6 px off a gap in the dashed line,235.9134,4130.92,0.3029,16.535,piecewise
+FC-1C,1,n3520,trace,46,2016,1654,1,6,,,237.8277,4123.982,0.3054,23.404,piecewise
+FC-1C,1,n3520,trace,47,2046,1662,1,6,,,243.0466,4096.33,0.3081,23.421,piecewise
+FC-1C,1,n3520,trace,48,2075,1668,1,6,,,248.0928,4075.543,0.3107,23.433,piecewise
+FC-1C,1,n2935,trace,1,1020,1817,1,5,,,67.4342,3570.691,0.2593,19.872,piecewise
+FC-1C,1,n2935,trace,2,1049,1798,1,7,,,72.3265,3635.824,0.2607,26.791,piecewise
+FC-1C,1,n2935,trace,3,1079,1780,1,7,,,77.3855,3697.515,0.2605,26.824,piecewise
+FC-1C,1,n2935,trace,4,1122,1758,1,6,,column moved off a marker,84.6327,3772.877,0.2594,23.424,piecewise
+FC-1C,1,n2935,trace,5,1137,1749,1,6,,,87.1615,3803.729,0.2593,23.44,piecewise
+FC-1C,1,n2935,trace,6,1166,1736,1,5,,,92.0468,3848.242,0.2584,20.022,piecewise
+FC-1C,1,n2935,trace,7,1193,1724,1,5,,column moved -3 px off a gap in the dashed line,96.5948,3889.333,0.2583,20.045,piecewise
+FC-1C,1,n2935,trace,8,1246,1704,1,6,,column moved off a marker; column moved 9 px off a gap in the dashed line,105.6253,3957.769,0.2652,23.525,piecewise
+FC-1C,1,n2935,trace,9,1254,1701,1,6,,,106.9983,3968.035,0.2655,23.531,piecewise
+FC-1C,1,n2935,trace,10,1283,1694,1,5,,merged with the horizontal gridline,111.9724,3991.917,0.2661,20.081,piecewise
+FC-1C,1,n2935,trace,11,1313,1689,1,6,,merged with the horizontal gridline,117.1164,4008.878,0.2679,23.496,piecewise
+FC-1C,1,n2935,trace,12,1359,1682,1,5,,column moved off a marker,125.0032,4032.553,0.2692,20.014,piecewise
+FC-1C,1,n2935,trace,13,1371,1682,1,5,,,127.0595,4032.469,0.2697,20.014,piecewise
+FC-1C,1,n2935,trace,14,1401,1682,1,5,,,132.2003,4032.258,0.2709,20.015,piecewise
+FC-1C,1,n2935,trace,15,1430,1688,1,8,,merged with the horizontal gridline; thick run (15 px): ink shared with another line or symbol,137.1664,4011.482,0.2738,30.372,piecewise
+FC-1C,1,n2935,trace,16,1475,1690,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line; merged with the horizontal gridline,144.8766,4004.306,0.2735,16.636,piecewise
+FC-1C,1,n2935,trace,17,1489,1690,1,6,,merged with the horizontal gridline,147.2757,4004.208,0.2751,23.518,piecewise
+FC-1C,1,n2935,trace,18,1518,1694,1,5,,merged with the horizontal gridline,152.2258,3990.248,0.2733,20.088,piecewise
+FC-1C,1,n2935,trace,19,1542,1696,1,7,,column moved off a marker,156.3054,3983.192,0.2748,26.967,piecewise
+FC-1C,1,n2935,trace,20,1588,1704,1,6,,column moved off a marker; column moved 6 px off a gap in the dashed line,164.1221,3955.321,0.2751,23.538,piecewise
+FC-1C,1,n2935,trace,21,1606,1707,1,6,,,167.1807,3944.862,0.2755,23.533,piecewise
+FC-1C,1,n2935,trace,22,1635,1712,1,5,,,172.1081,3927.438,0.2754,20.08,piecewise
+FC-1C,1,n2935,trace,23,1659,1715,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,176.1865,3916.934,0.2759,20.075,piecewise
+FC-1C,1,n2935,trace,24,1711,1722,1,3,,column moved off a marker; column moved 9 px off a gap in the dashed line,185.0224,3892.452,0.2755,13.173,piecewise
+FC-1C,1,n2935,trace,25,1723,1722,1,6,,,187.0624,3892.365,0.2777,23.51,piecewise
+FC-1C,1,n2935,trace,26,1753,1726,1,5,,,192.1597,3878.371,0.2776,20.058,piecewise
+FC-1C,1,n2935,trace,27,1770,1728,1,6,,column moved off a marker,195.0483,3871.359,0.2786,23.501,piecewise
+FC-1C,1,n2935,trace,28,1823,1730,1,5,,column moved 12 px off a gap in the dashed line,204.1561,3864.083,0.2875,20.053,piecewise
+FC-1C,1,n2935,trace,29,1841,1728,1,6,,,207.2926,3870.84,0.2898,23.503,piecewise
+FC-1C,1,n2935,trace,30,1870,1730,1,6,,,212.3419,3863.739,0.2924,23.501,piecewise
+FC-1C,1,n2935,trace,31,1891,1730,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,215.9993,3863.585,0.2935,20.055,piecewise
+FC-1C,1,n2935,trace,32,1934,1730,1,4,,column moved off a marker,223.4884,3863.27,0.2966,16.609,piecewise
+FC-1C,1,n2935,trace,33,1958,1730,1,5,,,227.6684,3863.094,0.2995,20.057,piecewise
+FC-1C,1,n2935,trace,34,1987,1728,1,6,,,232.7207,3869.773,0.3028,23.508,piecewise
+FC-1C,1,n2935,trace,35,2017,1726,1,5,,,237.9471,3876.444,0.3047,20.066,piecewise
+FC-1C,1,n2935,trace,36,2046,1725,1,6,,,242.9987,3879.678,0.3081,23.516,piecewise
+FC-1C,1,n2935,trace,37,2075,1721,1,5,,,248.0525,3893.25,0.3099,20.076,piecewise
+FC-1C,1,n2345,trace,1,705,2380,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 17 px, bound is half of it",13.6269,1612.505,0.2727,33.702,piecewise
+FC-1C,1,n2345,trace,2,729,2340,1,8,,"steep segment: the vertical cut of the line is 16 px, bound is half of it",17.7346,1751.853,0.2711,30.31,piecewise
+FC-1C,1,n2345,trace,3,758,2292,1,10,,"steep segment: the vertical cut of the line is 20 px, bound is half of it",22.6985,1919.038,0.2718,37.41,piecewise
+FC-1C,1,n2345,trace,4,786,2250,1,7,,column moved off a marker,27.4882,2065.629,0.2685,27.117,piecewise
+FC-1C,1,n2345,trace,5,826,2199,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it",34.3242,2244.103,0.268,30.592,piecewise
+FC-1C,1,n2345,trace,6,846,2176,1,6,,,37.7405,2324.571,0.2657,23.565,piecewise
+FC-1C,1,n2345,trace,7,875,2144,1,7,,,42.6933,2436.514,0.2656,27.052,piecewise
+FC-1C,1,n2345,trace,8,904,2117,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it",47.6424,2530.924,0.2655,30.542,piecewise
+FC-1C,1,n2345,trace,9,950,2078,1,7,,column moved off a marker,55.4415,2667.253,0.2616,27.011,piecewise
+FC-1C,1,n2345,trace,10,962,2068,1,6,,,57.4702,2702.207,0.2607,23.499,piecewise
+FC-1C,1,n2345,trace,11,992,2048,1,6,,,62.5373,2772.059,0.2605,23.486,piecewise
+FC-1C,1,n2345,trace,12,1021,2030,1,7,,,67.4336,2834.906,0.2611,26.981,piecewise
+FC-1C,1,n2345,trace,13,1068,2004,1,6,,column moved off a marker,75.3651,2925.637,0.26,23.459,piecewise
+FC-1C,1,n2345,trace,14,1079,1997,1,5,,,77.2219,2950.079,0.2592,19.949,piecewise
+FC-1C,1,n2345,trace,15,1109,1984,1,6,,merged with the horizontal gridline,82.2809,2995.384,0.2597,23.447,piecewise
+FC-1C,1,n2345,trace,16,1137,1974,1,4,,column moved off a marker,87.0005,3029.629,0.2581,16.15,piecewise
+FC-1C,1,n2345,trace,17,1177,1966,1,4,,column moved off a marker,93.738,3056.806,0.2579,16.165,piecewise
+FC-1C,1,n2345,trace,18,1197,1962,1,6,,,97.1065,3070.396,0.2592,23.058,piecewise
+FC-1C,1,n2345,trace,19,1226,1960,1,5,,,102.0265,3077.028,0.2639,19.62,piecewise
+FC-1C,1,n2345,trace,20,1252,1958,1,5,,column moved off a marker,106.4874,3083.686,0.265,19.624,piecewise
+FC-1C,1,n2345,trace,21,1292,1958,1,3,,column moved off a marker,113.3483,3083.341,0.2654,12.739,piecewise
+FC-1C,1,n2345,trace,22,1314,1960,1,6,,,117.1205,3076.269,0.2682,23.066,piecewise
+FC-1C,1,n2345,trace,23,1343,1962,1,6,,,122.0935,3069.135,0.2694,23.063,piecewise
+FC-1C,1,n2345,trace,24,1373,1965,1,7,,,127.2375,3058.551,0.2712,26.502,piecewise
+FC-1C,1,n2345,trace,25,1402,1966,1,6,,,132.2112,3054.858,0.2718,23.058,piecewise
+FC-1C,1,n2345,trace,26,1423,1965,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line,135.8138,3058.118,0.2715,16.172,piecewise
+FC-1C,1,n2345,trace,27,1469,1963,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,143.7051,3064.604,0.274,19.621,piecewise
+FC-1C,1,n2345,trace,28,1490,1960,1,5,,,147.3087,3074.75,0.2748,19.627,piecewise
+FC-1C,1,n2345,trace,29,1519,1959,1,6,,,152.2606,3077.943,0.2734,23.074,piecewise
+FC-1C,1,n2345,trace,30,1536,1958,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,155.1479,3081.239,0.2732,19.632,piecewise
+FC-1C,1,n2345,trace,31,1579,1952,1,3,,column moved off a marker,162.4531,3101.526,0.2729,12.755,piecewise
+FC-1C,1,n2345,trace,32,1602,1950,1,6,,column moved off a marker,166.3601,3108.215,0.2751,23.093,piecewise
+FC-1C,1,n2345,trace,33,1642,1948,1,6,,column moved off a marker,173.154,3114.758,0.2758,23.098,piecewise
+FC-1C,1,n2345,trace,34,1666,1949,1,5,,,177.229,3111.109,0.2757,19.652,piecewise
+FC-1C,1,n2345,trace,35,1695,1954,1,5,,,182.1505,3093.642,0.2762,19.644,piecewise
+FC-1C,1,n2345,trace,36,1720,1960,1,5,,column moved off a marker,186.3918,3072.764,0.2766,19.634,piecewise
+FC-1C,1,n2345,trace,37,1763,1972,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line,193.685,3031.065,0.2767,16.167,piecewise
+FC-1C,1,n2345,trace,38,1783,1978,1,6,,merged with the horizontal gridline,197.0766,3010.226,0.2785,23.257,piecewise
+FC-1C,1,n2345,trace,39,1818,1979,1,5,,column moved 6 px off a gap in the dashed line; merged with the horizontal gridline,203.0963,3006.475,0.2869,19.818,piecewise
+FC-1C,1,n2345,trace,40,1842,2001,1,7,,,207.2595,2929.283,0.2906,26.953,piecewise
+FC-1C,1,n2345,trace,41,1871,2010,1,7,,,212.3034,2897.489,0.2932,26.958,piecewise
+FC-1C,1,n2345,trace,42,1899,2018,1,5,,column moved off a marker,217.1739,2869.209,0.2941,19.953,piecewise
+FC-1C,1,n2345,trace,43,1939,2030,1,4,,column moved off a marker,224.1313,2826.808,0.2969,16.456,piecewise
+FC-1C,1,n2345,trace,44,1959,2036,1,5,,,227.61,2805.609,0.2995,19.964,piecewise
+FC-1C,1,n2345,trace,45,1989,2042,1,6,,,232.8303,2784.321,0.3029,23.471,piecewise
+FC-1C,1,n2345,trace,46,2018,2046,1,6,,,237.878,2770.051,0.3055,23.474,piecewise
+FC-1C,1,n2345,trace,47,2047,2050,1,6,,,242.9256,2755.782,0.308,23.476,piecewise
+FC-1C,1,n2345,trace,48,2073,2053,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line,247.4516,2745.042,0.3088,16.469,piecewise
+FC-1C,1,n1760,trace,1,759,2486,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it",22.7078,1242.454,0.2701,29.934,piecewise
+FC-1C,1,n1760,trace,2,788,2449,1,9,,"steep segment: the vertical cut of the line is 17 px, bound is half of it",27.6617,1371.315,0.27,33.515,piecewise
+FC-1C,1,n1760,trace,3,817,2414,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it",32.6145,1493.176,0.2683,30.111,piecewise
+FC-1C,1,n1760,trace,4,846,2380,1,6,,,37.567,1611.526,0.2656,23.217,piecewise
+FC-1C,1,n1760,trace,5,876,2346,1,7,,,42.6898,1729.844,0.2655,26.79,piecewise
+FC-1C,1,n1760,trace,6,902,2316,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it",47.1304,1834.224,0.2655,30.352,piecewise
+FC-1C,1,n1760,trace,7,942,2275,1,9,,"column moved off a marker; steep segment: the vertical cut of the line is 17 px, bound is half of it",53.9278,1976.809,0.2636,33.994,piecewise
+FC-1C,1,n1760,trace,8,963,2256,1,6,,,57.4821,2043.107,0.2609,23.611,piecewise
+FC-1C,1,n1760,trace,9,1003,2222,1,7,,column moved off a marker,64.2489,2161.966,0.2614,27.097,piecewise
+FC-1C,1,n1760,trace,10,1022,2208,1,7,,,67.4608,2210.885,0.2613,27.088,piecewise
+FC-1C,1,n1760,trace,11,1051,2185,1,7,,,72.3637,2291.268,0.2611,27.074,piecewise
+FC-1C,1,n1760,trace,12,1077,2169,1,5,,column moved -3 px off a gap in the dashed line,76.7552,2347.136,0.2594,20.052,piecewise
+FC-1C,1,n1760,trace,13,1121,2140,1,4,,column moved off a marker,84.1871,2448.419,0.2584,16.528,piecewise
+FC-1C,1,n1760,trace,14,1139,2131,1,7,,,87.2249,2479.813,0.2604,27.041,piecewise
+FC-1C,1,n1760,trace,15,1168,2116,1,6,,,92.119,2532.144,0.2595,23.525,piecewise
+FC-1C,1,n1760,trace,16,1197,2104,1,7,,,97.0105,2573.957,0.26,27.024,piecewise
+FC-1C,1,n1760,trace,17,1227,2092,1,6,,,102.1096,2615.76,0.2647,23.51,piecewise
+FC-1C,1,n1760,trace,18,1256,2082,1,6,,,107.0925,2650.56,0.2659,23.504,piecewise
+FC-1C,1,n1760,trace,19,1285,2074,1,6,,,112.0739,2678.348,0.2671,23.499,piecewise
+FC-1C,1,n1760,trace,20,1311,2068,1,6,,column moved -3 px off a gap in the dashed line,116.539,2699.152,0.2681,23.495,piecewise
+FC-1C,1,n1760,trace,21,1354,2054,1,4,,column moved off a marker,123.9256,2747.847,0.2687,16.475,piecewise
+FC-1C,1,n1760,trace,22,1373,2050,1,6,,,127.1879,2761.7,0.2707,23.483,piecewise
+FC-1C,1,n1760,trace,23,1402,2042,1,5,,,132.1682,2789.485,0.2713,19.973,piecewise
+FC-1C,1,n1760,trace,24,1431,2036,1,5,,,137.1471,2810.259,0.2725,19.969,piecewise
+FC-1C,1,n1760,trace,25,1472,2028,1,6,,column moved off a marker,144.1856,2837.937,0.2747,23.469,piecewise
+FC-1C,1,n1760,trace,26,1490,2026,1,6,,,147.2748,2844.787,0.2754,23.468,piecewise
+FC-1C,1,n1760,trace,27,1519,2024,1,5,,,152.2274,2851.541,0.2728,19.961,piecewise
+FC-1C,1,n1760,trace,28,1549,2024,1,5,,,157.3202,2851.276,0.2734,19.96,piecewise
+FC-1C,1,n1760,trace,29,1589,2024,1,5,,column moved off a marker,164.1105,2850.922,0.2741,19.96,piecewise
+FC-1C,1,n1760,trace,30,1607,2025,1,6,,,167.1655,2847.259,0.275,23.466,piecewise
+FC-1C,1,n1760,trace,31,1637,2028,1,6,,,172.2564,2836.481,0.2756,23.467,piecewise
+FC-1C,1,n1760,trace,32,1662,2031,1,6,,column moved off a marker,176.4984,2825.747,0.2761,23.469,piecewise
+FC-1C,1,n1760,trace,33,1717,2042,1,5,,column moved off a marker; column moved 15 px off a gap in the dashed line,185.8273,2786.714,0.2765,19.97,piecewise
+FC-1C,1,n1760,trace,34,1725,2044,1,5,,,187.1838,2779.635,0.2766,19.971,piecewise
+FC-1C,1,n1760,trace,35,1754,2052,1,6,,,192.1007,2751.345,0.2778,23.48,piecewise
+FC-1C,1,n1760,trace,36,1783,2062,1,6,,,197.0157,2716.048,0.2784,23.486,piecewise
+FC-1C,1,n1760,trace,37,1813,2068,1,3,,,202.158,2694.761,0.2849,12.975,piecewise
+FC-1C,1,n1760,trace,38,1842,2076,1,5,,,207.2026,2666.474,0.289,19.989,piecewise
+FC-1C,1,n1760,trace,39,1872,2082,1,5,,,212.4229,2645.188,0.2917,19.992,piecewise
+FC-1C,1,n1760,trace,40,1898,2087,1,5,,column moved off a marker,216.9473,2627.441,0.294,19.995,piecewise
+FC-1C,1,n1760,trace,41,1938,2094,1,5,,column moved off a marker,223.9085,2602.565,0.2976,19.999,piecewise
+FC-1C,1,n1760,trace,42,1960,2098,1,6,,,227.737,2588.358,0.3003,23.505,piecewise
+FC-1C,1,n1760,trace,43,1989,2101,1,7,,,232.7854,2577.595,0.3036,27.011,piecewise
+FC-1C,1,n1760,trace,44,2018,2104,1,6,,,237.8339,2566.832,0.3054,23.508,piecewise
+FC-1C,1,n1760,trace,45,2048,2107,1,6,,,243.0564,2556.06,0.3081,23.51,piecewise
+FC-1C,1,n1760,trace,46,2062,2108,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,245.4939,2552.435,0.3086,20.006,piecewise
+FC-1C,1,n1172,trace,1,762,2540,1,5,,column moved off a marker,23.1723,1054.113,0.2675,19.326,piecewise
+FC-1C,1,n1172,trace,2,788,2519,1,8,,"steep segment: the vertical cut of the line is 15 px, bound is half of it",27.6033,1127.215,0.2692,29.846,piecewise
+FC-1C,1,n1172,trace,3,818,2494,1,6,,,32.7169,1214.228,0.2665,22.928,piecewise
+FC-1C,1,n1172,trace,4,845,2472,1,6,,column moved off a marker,37.319,1290.78,0.2656,22.982,piecewise
+FC-1C,1,n1172,trace,5,885,2443,1,6,,column moved off a marker,44.1345,1391.641,0.2643,23.053,piecewise
+FC-1C,1,n1172,trace,6,905,2432,1,6,,,47.5394,1429.861,0.2637,23.079,piecewise
+FC-1C,1,n1172,trace,7,935,2414,1,7,,,52.6298,1492.408,0.2621,26.61,piecewise
+FC-1C,1,n1172,trace,8,961,2400,1,6,,column moved off a marker,57.0248,1541.028,0.2611,23.156,piecewise
+FC-1C,1,n1172,trace,9,1001,2382,1,6,,column moved off a marker,63.7826,1603.482,0.2608,23.198,piecewise
+FC-1C,1,n1172,trace,10,1022,2372,1,5,,,67.3305,1638.179,0.2599,19.735,piecewise
+FC-1C,1,n1172,trace,11,1052,2362,1,6,,,72.3951,1672.807,0.2605,23.245,piecewise
+FC-1C,1,n1172,trace,12,1071,2356,1,6,,column moved off a marker; column moved -3 px off a gap in the dashed line,75.6022,1693.573,0.2604,23.258,piecewise
+FC-1C,1,n1172,trace,13,1117,2340,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,83.3673,1748.97,0.2593,19.809,piecewise
+FC-1C,1,n1172,trace,14,1140,2335,1,6,,,87.2473,1766.213,0.2599,23.306,piecewise
+FC-1C,1,n1172,trace,15,1169,2330,1,5,,,92.1384,1783.408,0.259,19.831,piecewise
+FC-1C,1,n1172,trace,16,1192,2327,1,5,,column moved off a marker,96.0168,1793.681,0.2589,19.837,piecewise
+FC-1C,1,n1172,trace,17,1232,2323,1,6,,column moved off a marker,102.8133,1807.304,0.2651,23.328,piecewise
+FC-1C,1,n1172,trace,18,1257,2322,1,5,,,107.1074,1810.595,0.2655,19.845,piecewise
+FC-1C,1,n1172,trace,19,1286,2322,1,6,,,112.0878,1810.374,0.2673,23.326,piecewise
+FC-1C,1,n1172,trace,20,1314,2324,1,4,,column moved off a marker,116.8953,1803.199,0.2672,16.352,piecewise
+FC-1C,1,n1172,trace,21,1354,2329,1,4,,column moved off a marker,123.7619,1785.494,0.2689,16.337,piecewise
+FC-1C,1,n1172,trace,22,1374,2332,1,6,,,127.195,1774.903,0.2709,23.293,piecewise
+FC-1C,1,n1172,trace,23,1403,2334,1,6,,,132.1745,1767.727,0.2721,23.285,piecewise
+FC-1C,1,n1172,trace,24,1433,2340,1,6,,,137.3236,1746.627,0.2733,23.267,piecewise
+FC-1C,1,n1172,trace,25,1474,2346,1,6,,column moved off a marker,144.3622,1725.452,0.275,23.248,piecewise
+FC-1C,1,n1172,trace,26,1491,2346,1,6,,,147.2821,1725.327,0.2757,23.247,piecewise
+FC-1C,1,n1172,trace,27,1521,2350,1,6,,,152.4006,1711.195,0.2729,23.234,piecewise
+FC-1C,1,n1172,trace,28,1549,2350,1,6,,column moved off a marker,157.1464,1710.992,0.2735,23.231,piecewise
+FC-1C,1,n1172,trace,29,1589,2350,1,6,,column moved off a marker,163.926,1710.701,0.2742,23.228,piecewise
+FC-1C,1,n1172,trace,30,1609,2350,1,6,,,167.3159,1710.555,0.2746,23.226,piecewise
+FC-1C,1,n1172,trace,31,1638,2353,1,6,,,172.2293,1699.915,0.2752,23.216,piecewise
+FC-1C,1,n1172,trace,32,1666,2359,1,6,,column moved off a marker,176.9712,1678.855,0.2757,23.198,piecewise
+FC-1C,1,n1172,trace,33,1706,2374,1,6,,column moved off a marker,183.7406,1626.432,0.2765,23.157,piecewise
+FC-1C,1,n1172,trace,34,1726,2380,1,6,,,187.1259,1605.439,0.2768,23.14,piecewise
+FC-1C,1,n1172,trace,35,1756,2388,1,6,,,192.2043,1577.431,0.2774,23.117,piecewise
+FC-1C,1,n1172,trace,36,1785,2396,1,3,,,197.1128,1549.436,0.2758,12.662,piecewise
+FC-1C,1,n1172,trace,37,1814,2404,1,3,,,202.0772,1521.446,0.2849,12.64,piecewise
+FC-1C,1,n1172,trace,38,1844,2408,1,5,,,207.2989,1507.352,0.2891,19.582,piecewise
+FC-1C,1,n1172,trace,39,1873,2414,1,5,,,212.345,1486.32,0.2917,19.565,piecewise
+FC-1C,1,n1172,trace,40,1898,2417,1,5,,column moved off a marker,216.6967,1475.739,0.2939,19.555,piecewise
+FC-1C,1,n1172,trace,41,1941,2423,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,224.181,1454.625,0.2977,19.537,piecewise
+FC-1C,1,n1172,trace,42,1961,2424,1,5,,,227.6634,1451.025,0.2995,19.533,piecewise
+FC-1C,1,n1172,trace,43,1990,2426,1,5,,,232.7125,1443.897,0.3021,19.525,piecewise
+FC-1C,1,n1172,trace,44,2005,2426,1,4,,column moved off a marker; column moved -3 px off a gap in the dashed line,235.3249,1443.802,0.3026,16.05,piecewise
+FC-1C,1,n1172,trace,45,2049,2428,1,3,,,242.9864,1436.581,0.3058,12.568,piecewise
+FC-1C,1,n587,trace,1,706,2674,1,8,,"column moved off a marker; steep segment: the vertical cut of the line is 15 px, bound is half of it",13.5577,592.675,0.2718,29.298,piecewise
+FC-1C,1,n587,trace,2,730,2650,1,7,,,17.6504,675.125,0.2702,25.864,piecewise
+FC-1C,1,n587,trace,3,760,2622,1,7,,,22.765,771.307,0.2692,25.872,piecewise
+FC-1C,1,n587,trace,4,789,2594,1,7,,,27.7104,867.492,0.2683,25.88,piecewise
+FC-1C,1,n587,trace,5,834,2557,1,6,,column moved off a marker; merged with the horizontal gridline,35.3796,994.559,0.266,22.692,piecewise
+FC-1C,1,n587,trace,6,847,2550,1,8,,"steep segment: the vertical cut of the line is 16 px, bound is half of it",37.5922,1018.828,0.2672,29.761,piecewise
+FC-1C,1,n587,trace,7,876,2528,1,6,,,42.5336,1095.382,0.2646,22.837,piecewise
+FC-1C,1,n587,trace,8,902,2514,1,5,,column moved off a marker,46.9592,1144.049,0.2629,19.382,piecewise
+FC-1C,1,n587,trace,9,945,2490,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line,54.2514,1227.468,0.2587,12.464,piecewise
+FC-1C,1,n587,trace,10,964,2483,1,5,,,57.4614,1251.757,0.2603,19.456,piecewise
+FC-1C,1,n587,trace,11,993,2473,1,6,,,62.3599,1286.439,0.2609,22.967,piecewise
+FC-1C,1,n587,trace,12,1015,2466,1,6,,column moved off a marker,66.0754,1310.702,0.2608,22.983,piecewise
+FC-1C,1,n587,trace,13,1055,2470,1,3,,column moved off a marker,72.8173,1296.532,0.2582,12.51,piecewise
+FC-1C,1,n587,trace,14,1081,2456,1,5,,,77.2122,1345.15,0.2596,19.517,piecewise
+FC-1C,1,n587,trace,15,1111,2454,1,6,,,82.2722,1351.937,0.2602,23.005,piecewise
+FC-1C,1,n587,trace,16,1137,2454,1,5,,column moved off a marker,86.6562,1351.781,0.2593,19.517,piecewise
+FC-1C,1,n587,trace,17,1177,2452,1,6,,column moved off a marker,93.4023,1358.505,0.2598,23.004,piecewise
+FC-1C,1,n587,trace,18,1199,2454,1,5,,,97.1105,1351.409,0.259,19.513,piecewise
+FC-1C,1,n587,trace,19,1228,2456,1,5,,,102.037,1344.271,0.2644,19.506,piecewise
+FC-1C,1,n587,trace,20,1249,2456,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,105.6452,1344.146,0.2653,19.504,piecewise
+FC-1C,1,n587,trace,21,1298,2457,1,5,,column moved off a marker; column moved 6 px off a gap in the dashed line,114.0637,1340.372,0.2673,19.498,piecewise
+FC-1C,1,n587,trace,22,1316,2458,1,6,,,117.1559,1336.784,0.2687,22.977,piecewise
+FC-1C,1,n587,trace,23,1345,2458,1,6,,,122.1387,1336.612,0.2698,22.975,piecewise
+FC-1C,1,n587,trace,24,1375,2458,1,6,,,127.2933,1336.433,0.2711,22.972,piecewise
+FC-1C,1,n587,trace,25,1404,2456,1,5,,,132.2772,1343.22,0.2717,19.493,piecewise
+FC-1C,1,n587,trace,26,1429,2457,1,5,,column moved off a marker,136.5721,1339.591,0.2727,19.488,piecewise
+FC-1C,1,n587,trace,27,1469,2455,1,6,,column moved off a marker,143.446,1346.311,0.2749,22.972,piecewise
+FC-1C,1,n587,trace,28,1492,2456,1,5,,,147.3973,1342.695,0.2753,19.486,piecewise
+FC-1C,1,n587,trace,29,1532,2458,1,6,,column moved off a marker,154.2091,1335.5,0.273,22.959,piecewise
+FC-1C,1,n587,trace,30,1551,2458,1,7,,,157.4277,1335.387,0.2739,26.437,piecewise
+FC-1C,1,n587,trace,31,1580,2464,1,6,,,162.3371,1314.351,0.2739,22.939,piecewise
+FC-1C,1,n587,trace,32,1604,2467,1,6,,column moved off a marker,166.4009,1303.78,0.2744,22.93,piecewise
+FC-1C,1,n587,trace,33,1647,2477,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,173.6788,1268.764,0.2746,19.421,piecewise
+FC-1C,1,n587,trace,34,1668,2482,1,6,,,177.2328,1251.263,0.2756,22.886,piecewise
+FC-1C,1,n587,trace,35,1697,2488,1,6,,,182.141,1230.245,0.2761,22.868,piecewise
+FC-1C,1,n587,trace,36,1727,2496,1,6,,,187.2169,1202.274,0.2767,22.845,piecewise
+FC-1C,1,n587,trace,37,1770,2506,1,6,,column moved off a marker; column moved 3 px off a gap in the dashed line,194.4927,1167.289,0.2775,22.816,piecewise
+FC-1C,1,n587,trace,38,1785,2508,1,4,,,197.0317,1160.259,0.2763,15.855,piecewise
+FC-1C,1,n587,trace,39,1815,2515,1,6,,,202.1671,1135.779,0.2872,22.79,piecewise
+FC-1C,1,n587,trace,40,1837,2520,1,5,,column moved off a marker; column moved -6 px off a gap in the dashed line,205.9948,1118.293,0.2884,19.298,piecewise
+FC-1C,1,n587,trace,41,1886,2528,1,4,,column moved off a marker; column moved 3 px off a gap in the dashed line,214.5225,1090.252,0.292,15.799,piecewise
+FC-1C,1,n587,trace,42,1903,2530,1,6,,,217.4817,1083.22,0.295,22.744,piecewise
+FC-1C,1,n587,trace,43,1932,2533,1,6,,,222.53,1072.655,0.2976,22.734,piecewise
+FC-1C,1,n587,trace,44,1957,2536,1,6,,column moved off a marker,226.8817,1062.112,0.2998,22.724,piecewise
+FC-1C,1,n587,trace,45,2000,2542,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line,234.3659,1041.066,0.3014,12.282,piecewise
+FC-1C,1,n587,trace,46,2020,2541,1,5,,,237.8499,1044.44,0.3047,19.232,piecewise
+FC-1C,1,n587,trace,47,2049,2543,1,5,,,242.8989,1037.355,0.3073,19.225,piecewise
+FC-1C,1,n294,trace,1,761,2710,1,5,,column moved off a marker,22.862,468.584,0.2675,18.966,piecewise
+FC-1C,1,n294,trace,2,789,2699,1,6,,,27.6228,506.297,0.2674,22.409,piecewise
+FC-1C,1,n294,trace,3,818,2688,1,6,,,32.5534,544.004,0.2665,22.412,piecewise
+FC-1C,1,n294,trace,4,846,2678,1,6,,column moved off a marker,37.3137,578.275,0.2655,22.415,piecewise
+FC-1C,1,n294,trace,5,886,2666,1,6,,column moved off a marker,44.1124,619.371,0.2642,22.418,piecewise
+FC-1C,1,n294,trace,6,906,2660,1,6,,,47.5118,639.918,0.2636,22.42,piecewise
+FC-1C,1,n294,trace,7,936,2654,1,4,,,52.5936,660.42,0.2598,15.541,piecewise
+FC-1C,1,n294,trace,8,964,2648,1,5,,column moved off a marker,57.3236,680.93,0.2605,18.983,piecewise
+FC-1C,1,n294,trace,9,1004,2640,1,6,,column moved off a marker,64.0799,708.264,0.2611,22.425,piecewise
+FC-1C,1,n294,trace,10,1024,2639,1,5,,,67.4555,711.611,0.2601,18.985,piecewise
+FC-1C,1,n294,trace,11,1053,2635,1,6,,,72.3521,725.236,0.2608,22.426,piecewise
+FC-1C,1,n294,trace,12,1078,2634,1,5,,column moved off a marker,76.5713,728.561,0.2598,18.986,piecewise
+FC-1C,1,n294,trace,13,1118,2630,1,5,,column moved off a marker,83.3237,742.135,0.2596,18.987,piecewise
+FC-1C,1,n294,trace,14,1141,2630,1,5,,,87.2046,742.028,0.2595,18.987,piecewise
+FC-1C,1,n294,trace,15,1170,2630,1,5,,,92.0979,741.895,0.2594,18.987,piecewise
+FC-1C,1,n294,trace,16,1199,2629,1,6,,,96.9919,745.2,0.2599,22.427,piecewise
+FC-1C,1,n294,trace,17,1243,2630,1,5,,column moved off a marker; column moved 3 px off a gap in the dashed line,104.499,741.558,0.2651,18.986,piecewise
+FC-1C,1,n294,trace,18,1258,2630,1,5,,,107.0778,741.488,0.2658,18.986,piecewise
+FC-1C,1,n294,trace,19,1287,2632,1,6,,,112.0623,734.476,0.2676,22.425,piecewise
+FC-1C,1,n294,trace,20,1315,2633,1,5,,column moved off a marker,116.8756,730.907,0.2681,18.985,piecewise
+FC-1C,1,n294,trace,21,1361,2637,1,5,,column moved off a marker; column moved 6 px off a gap in the dashed line,124.7817,716.938,0.27,18.983,piecewise
+FC-1C,1,n294,trace,22,1375,2638,1,6,,,127.1881,713.434,0.2712,22.423,piecewise
+FC-1C,1,n294,trace,23,1405,2640,1,5,,,132.3449,706.417,0.2719,18.982,piecewise
+FC-1C,1,n294,trace,24,1425,2642,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,135.7823,699.446,0.2727,18.982,piecewise
+FC-1C,1,n294,trace,25,1474,2646,1,6,,column moved off a marker; column moved 6 px off a gap in the dashed line,144.2049,685.464,0.2753,22.42,piecewise
+FC-1C,1,n294,trace,26,1493,2648,1,5,,,147.4706,678.498,0.2755,18.979,piecewise
+FC-1C,1,n294,trace,27,1522,2652,1,5,,,152.4163,664.608,0.272,18.978,piecewise
+FC-1C,1,n294,trace,28,1543,2652,1,5,,column moved off a marker; column moved -3 px off a gap in the dashed line,155.9704,664.511,0.2724,18.978,piecewise
+FC-1C,1,n294,trace,29,1589,2658,1,3,,column moved off a marker; column moved 3 px off a gap in the dashed line,163.7523,643.665,0.2721,12.097,piecewise
+FC-1C,1,n294,trace,30,1610,2658,1,5,,,167.3064,643.569,0.2736,18.976,piecewise
+FC-1C,1,n294,trace,31,1639,2663,1,6,,,172.2113,626.241,0.2748,22.414,piecewise
+FC-1C,1,n294,trace,32,1663,2664,1,5,,column moved off a marker,176.2723,622.692,0.2746,18.974,piecewise
+FC-1C,1,n3520,feature,1,686,2272,3,3,,first point: the line starts at the first marker,10.4882,1989.385,0.6082,13.055,piecewise
+FC-1C,1,n3520,feature,2,1625,1598,58,5,,peak of the drawn line; flat top from u=1569 to 1685 (v within 1 px of the minimum),170.4762,4318.744,9.9725,20.241,piecewise
+FC-1C,1,n3520,feature,3,2104,1670,3,3,,last point: the line ends at the last marker,253.1421,4068.479,0.6759,13.154,piecewise extrapolated x
+FC-1C,1,n2935,feature,1,992,1838,3,3,,first point: the line starts at the first marker,62.7078,3498.677,0.5943,12.966,piecewise
+FC-1C,1,n2935,feature,2,1384,1682,25,5,,peak of the drawn line; flat top from u=1359 to 1409 (v within 1 px of the minimum),129.2872,4032.378,4.3838,20.184,piecewise
+FC-1C,1,n2935,feature,3,2102,1717,3,3,,last point: the line ends at the last marker,252.758,3906.838,0.674,13.203,piecewise extrapolated x
+FC-1C,1,n2345,feature,1,685,2410,3,3,,first point: the line starts at the first marker,10.2069,1507.991,0.6081,12.695,piecewise
+FC-1C,1,n2345,feature,2,1650,1948,8,5,,peak of the drawn line; flat top from u=1642 to 1657 (v within 1 px of the minimum),174.5125,3114.69,1.4642,19.713,piecewise
+FC-1C,1,n2345,feature,3,2096,2054,3,3,,last point: the line ends at the last marker,251.4565,2741.337,0.6677,12.982,piecewise extrapolated x
+FC-1C,1,n1760,feature,1,734,2506,3,3,,first point: the line starts at the first marker,18.4474,1172.838,0.6064,12.445,piecewise
+FC-1C,1,n1760,feature,2,1537,2022,36,5,,peak of the drawn line; flat top from u=1519 to 1590 (v within 1 px of the minimum),155.2841,2858.391,6.2238,20.268,piecewise
+FC-1C,1,n1760,feature,3,2085,2112,3,3,,last point: the line ends at the last marker,249.4966,2538.221,0.6583,13.017,piecewise extrapolated x
+FC-1C,1,n1172,feature,1,742,2556,3,3,,first point: the line starts at the first marker,19.7643,998.431,0.6061,12.293,piecewise
+FC-1C,1,n1172,feature,2,1264,2322,23,5,,peak of the drawn line; flat top from u=1241 to 1287 (v within 1 px of the minimum),108.3096,1810.542,4.0449,20.014,piecewise
+FC-1C,1,n1172,feature,3,2080,2425,4,6,,last point: the line runs on to the right frame line (x = 250); read at u=2080,248.3876,1446.8,0.8336,23.014,piecewise
+FC-1C,1,n587,feature,1,686,2690,3,3,,first point: the line starts at the first marker,10.1506,537.725,0.6079,12.1,piecewise
+FC-1C,1,n587,feature,2,1178,2452,3,6,,peak of the drawn line; flat top from u=1177 to 1179 (v within 1 px of the minimum),93.5709,1358.499,0.5971,23.017,piecewise
+FC-1C,1,n587,feature,3,2080,2545,4,6,,last point: the line runs on to the right frame line (x = 250); read at u=2080,248.2963,1030.262,0.8335,22.706,piecewise
+FC-1C,1,n294,feature,1,741,2718,3,3,,first point: the line starts at the first marker,19.4614,441.155,0.606,12.092,piecewise
+FC-1C,1,n294,feature,2,1186,2629,52,6,,peak of the drawn line; flat top from u=1150 to 1253 (v within 1 px of the minimum),94.7984,745.26,8.9353,22.663,piecewise
+FC-1C,1,n294,feature,3,1683,2669,3,3,,last point: the line ends at the last marker,179.6538,605.405,0.6122,12.103,piecewise

@@ -1,0 +1,25 @@
+axis,printed_label,value,page_direction,line_px_fitted_at_label (x lines: v at u=2200; y lines: u at v=1100),label_px_by_eye (decimal point or digit centre),label_minus_line_px,is_frame,anchored,status,note
+x,0.02,0.02,v,3738.0,3756,18,yes (bottom frame),yes,ok,"label printed about 18 px below its line (finer side); the bottom frame is the labelled 0.02 line, confirmed by log spacing from 0.05 and 0.1 (973 px per decade)"
+x,0.05,0.05,v,3351.9,3368,16,no,yes,ok,label printed about 16 px below its line; no other line near 3368; log spacing confirms
+x,0.1,0.1,v,3059.0,3059,0,no,yes,ok,"decimal point and the tick past the frame on the line; line rejected by the tool's ink check only because its check positions under the parameter table find the table's Average|Range rule 5-6 px away"
+x,0.2,0.2,v,2767.1,2765.5,-2,no,yes,ok,
+x,0.5,0.5,v,2384.3,2377,-7,no,yes,ok,label slightly above its line; tick past the frame on the line
+x,1.0,1.0,v,2092.3,2093,1,no,yes,ok,
+x,1.5,1.5,v,1921.9,1917,-5,no,yes,ok,
+x,2.0,2.0,v,1800.3,1802,2,no,yes,ok,
+x,3.0,3.0,v,1628.6,1632,3,no,yes,ok,
+x,4.0,4.0,v,1505.7,1505,-1,no,yes,ok,
+x,5.0,5.0,v,1409.1,1407,-2,no,yes,ok,
+x,9.0,9.0,v,1158.0,1153,-5,no,yes,ok,"label 9.0 sits on the thick line at v 1158-1165, not on the frame; log spacing from 5.0 gives 9 mm there"
+x,(none),10 (by spacing),v,1117,-,-,yes (top frame),no,unlabelled frame,"top frame carries no label; by log spacing it is 10 mm; the dashed line at v 1141 between it and 9.0 is the 3/8 in. sieve (9.5 mm); neither anchored"
+y,100,100,u,723.0,721.7,-1,yes (left frame),yes,ok,labelled frame
+y,90,90,u,870.5,866.7,-4,no,yes,ok,
+y,80,80,u,1016.2,1013.0,-3,no,yes,ok,
+y,70,70,u,1161.8,1156.7,-5,no,yes,ok,
+y,60,60,u,1305.3,1300.0,-5,no,yes,ok,"line rejected by the tool's ink check (5.7 px at the far end) because its check positions run under the parameter table, where text lies near it; above the table it is on the ink"
+y,50,50,u,1451.4,1451.7,0,no,yes,ok,
+y,40,40,u,1597.5,1598.3,1,no,yes,ok,
+y,30,30,u,1744.6,1745.0,0,no,yes,ok,
+y,20,20,u,1890.6,1891.7,1,no,yes,ok,
+y,10,10,u,2035.8,2033.3,-3,no,yes,ok,
+y,0,0,u,2181.5,2178.3,-3,yes (right frame),yes,ok,labelled frame

@@ -1,0 +1,75 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-22,1,data,marker,1,1688.9,2014.7,3,3,circle,"single; open circle on the solid curve, cut by the phi = 45 grid line; centre from circle fits to the inner and outer ring edges (rays on the grid line dropped); bound widened from 2 px for the overlaps"
+FC-22,1,data,marker,2,2341.8,1584.6,3,3,circle,single; open circle on the solid curve near its right end; centre from circle fits to the inner and outer ring edges; bound widened from 2 px for the overlap with the curve
+FC-22,1,mean,trace,1,855,2543.9,3,4,,left end: the solid line's ink starts just left of the Dr = 0 grid line
+FC-22,1,mean,trace,2,859.9,2541.0,2,4,,"Dr 0.00; at the crossing with the Dr = 0 grid line, centre from the ink either side"
+FC-22,1,mean,trace,3,936.0,2496.5,2,4,,Dr 0.05
+FC-22,1,mean,trace,4,1012.1,2452.2,2,4,,"Dr 0.10; at the crossing with the Dr = 0.1 grid line, centre from the ink either side"
+FC-22,1,mean,trace,5,1090.0,2407.0,2,4,,"Dr 0.15; at the crossing with the phi = 40 grid line, centre from the ink either side"
+FC-22,1,mean,trace,6,1167.8,2358.0,2,4,,"Dr 0.20; at the crossing with the Dr = 0.2 grid line, centre from the ink either side"
+FC-22,1,mean,trace,7,1246.9,2309.0,2,4,,Dr 0.25
+FC-22,1,mean,trace,8,1326.0,2258.4,2,4,,"Dr 0.30; at the crossing with the Dr = 0.3 grid line, centre from the ink either side"
+FC-22,1,mean,trace,9,1401.0,2209.7,2,4,,Dr 0.35
+FC-22,1,mean,trace,10,1476.0,2161.7,2,4,,"Dr 0.40; at the crossing with the Dr = 0.4 grid line, centre from the ink either side"
+FC-22,1,mean,trace,11,1553.6,2111.1,2,4,,Dr 0.45
+FC-22,1,mean,trace,12,1631.3,2059.9,2,4,,"Dr 0.50; at the crossing with the Dr = 0.5 grid line, centre from the ink either side"
+FC-22,1,mean,trace,13,1712,2006.1,3,4,,"Dr 0.55 falls where the solid line is interrupted by circle 1 (u 1709); moved to the nearest line end on the ink, 3 px away (rule 7)"
+FC-22,1,mean,trace,14,1786.9,1953.5,2,4,,"Dr 0.60; at the crossing with the Dr = 0.6 grid line, centre from the ink either side"
+FC-22,1,mean,trace,15,1864.3,1898.9,2,4,,Dr 0.65
+FC-22,1,mean,trace,16,1941.8,1844.5,2,4,,"Dr 0.70; at the crossing with the Dr = 0.7 grid line, centre from the ink either side"
+FC-22,1,mean,trace,17,2018.2,1792.5,2,4,,Dr 0.75
+FC-22,1,mean,trace,18,2094.9,1740.9,2,4,,"Dr 0.80; at the crossing with the Dr = 0.8 grid line, centre from the ink either side"
+FC-22,1,mean,trace,19,2172.3,1690.1,2,4,,Dr 0.85
+FC-22,1,mean,trace,20,2249.8,1643.9,2,4,,"Dr 0.90; at the crossing with the Dr = 0.9 grid line, centre from the ink either side"
+FC-22,1,mean,trace,21,2319,1598.7,3,4,,"Dr 0.95 falls where the solid line is interrupted by circle 2 (u 2327); moved to the nearest line end on the ink, 8 px away (rule 7)"
+FC-22,1,mean,trace,22,2404.1,1550.6,2,4,,"Dr 1.00; at the crossing with the Dr = 1 grid line, centre from the ink either side"
+FC-22,1,mean,trace,23,2412,1546.5,3,4,,right end: the solid line's ink ends just right of the Dr = 1.0 grid line
+FC-22,1,mean,feature,1,855,2543.9,3,4,,first point (left end of the trace)
+FC-22,1,mean,feature,2,2412,1546.5,3,4,,"last point (right end of the trace; also its maximum, the curve rises monotonically; no knee: the slope changes gradually)"
+FC-22,1,upper,trace,1,859,2452.4,4,4,,"left end: the first dash starts at the Dr = 0 grid line (ink first seen at its right edge; the end may be under the line, the u bound covers the line width)"
+FC-22,1,upper,trace,2,935.0,2414.3,2,4,,"Dr 0.05; at the crossing with the phi = 40 grid line, centre from the ink either side"
+FC-22,1,upper,trace,3,1011.0,2362.2,2,4,,"Dr 0.10; at the crossing with the Dr = 0.1 grid line, centre from the ink either side"
+FC-22,1,upper,trace,4,1071,2325.4,3,4,,"Dr 0.15 falls in a gap between dashes (u 1089); moved to the nearest line end on the ink, 18 px away (rule 7)"
+FC-22,1,upper,trace,5,1166.6,2266.1,2,4,,"Dr 0.20; at the crossing with the Dr = 0.2 grid line, centre from the ink either side"
+FC-22,1,upper,trace,6,1244,2217.8,3,4,,"Dr 0.25 falls in a gap between dashes (u 1246); moved to the nearest line end on the ink, 2 px away (rule 7)"
+FC-22,1,upper,trace,7,1324.8,2164.8,2,4,,"Dr 0.30; at the crossing with the Dr = 0.3 grid line, centre from the ink either side"
+FC-22,1,upper,trace,8,1399.7,2116.0,2,4,,Dr 0.35
+FC-22,1,upper,trace,9,1474.6,2066.6,2,4,,"Dr 0.40; at the crossing with the Dr = 0.4 grid line, centre from the ink either side"
+FC-22,1,upper,trace,10,1552.3,2017.0,2,4,,"Dr 0.45; at the crossing with the phi = 45 grid line, centre from the ink either side"
+FC-22,1,upper,trace,11,1612,1972.6,3,4,,"Dr 0.50 falls in a gap between dashes (u 1630); moved to the nearest line end on the ink, 18 px away (rule 7)"
+FC-22,1,upper,trace,12,1707.9,1907.3,2,4,,Dr 0.55
+FC-22,1,upper,trace,13,1764,1867.6,3,4,,"Dr 0.60 falls in a gap between dashes (u 1786); moved to the nearest line end on the ink, 22 px away (rule 7)"
+FC-22,1,upper,trace,14,1863.1,1798.2,2,4,,Dr 0.65
+FC-22,1,upper,trace,15,1940.5,1745.7,2,4,,"Dr 0.70; at the crossing with the Dr = 0.7 grid line, centre from the ink either side"
+FC-22,1,upper,trace,16,2017.2,1694.4,2,4,,Dr 0.75
+FC-22,1,upper,trace,17,2094.0,1643.7,2,4,,"Dr 0.80; at the crossing with the Dr = 0.8 grid line, centre from the ink either side"
+FC-22,1,upper,trace,18,2179,1591.1,3,4,,"Dr 0.85 falls in a gap between dashes (u 2171); moved to the nearest line end on the ink, 8 px away (rule 7)"
+FC-22,1,upper,trace,19,2248.9,1548.3,2,4,,"Dr 0.90; at the crossing with the Dr = 0.9 grid line, centre from the ink either side"
+FC-22,1,upper,trace,20,2338,1498.9,3,4,,"Dr 0.95 falls in a gap between dashes (u 2326); moved to the nearest line end on the ink, 12 px away (rule 7)"
+FC-22,1,upper,trace,21,2404.5,1464.9,4,4,,"right end: the last dash ends at the Dr = 1.0 grid line (no ink right of it; the end may be under the line, the u bound covers the line width)"
+FC-22,1,upper,feature,1,859,2452.4,4,4,,first point (left end of the trace)
+FC-22,1,upper,feature,2,2404.5,1464.9,4,4,,"last point (right end of the trace; also its maximum, the curve rises monotonically; no knee: the slope changes gradually)"
+FC-22,1,lower,trace,1,853,2643.5,3,4,,left end: the first dash's ink starts just left of the Dr = 0 grid line
+FC-22,1,lower,trace,2,860.9,2639.2,2,4,,"Dr 0.00; at the crossing with the Dr = 0 grid line, centre from the ink either side"
+FC-22,1,lower,trace,3,937.2,2596.5,2,4,,Dr 0.05
+FC-22,1,lower,trace,4,999,2561.1,3,4,,"Dr 0.10 falls in a gap between dashes (u 1013); moved to the nearest line end on the ink, 14 px away (rule 7)"
+FC-22,1,lower,trace,5,1091.3,2507.7,2,4,,Dr 0.15
+FC-22,1,lower,trace,6,1169.2,2461.8,2,4,,"Dr 0.20; at the crossing with the Dr = 0.2 grid line, centre from the ink either side"
+FC-22,1,lower,trace,7,1248.3,2417.1,2,4,,Dr 0.25
+FC-22,1,lower,trace,8,1327.4,2364.8,2,4,,"Dr 0.30; at the crossing with the Dr = 0.3 grid line, centre from the ink either side"
+FC-22,1,lower,trace,9,1398,2320.4,3,4,,"Dr 0.35 falls in a gap between dashes (u 1403); moved to the nearest line end on the ink, 5 px away (rule 7)"
+FC-22,1,lower,trace,10,1477.6,2270.3,2,4,,"Dr 0.40; at the crossing with the Dr = 0.4 grid line, centre from the ink either side"
+FC-22,1,lower,trace,11,1555.1,2220.1,2,4,,Dr 0.45
+FC-22,1,lower,trace,12,1611,2183.4,3,4,,"Dr 0.50 falls in a gap between dashes (u 1633); moved to the nearest line end on the ink, 22 px away (rule 7)"
+FC-22,1,lower,trace,13,1710.5,2116.5,2,4,,Dr 0.55
+FC-22,1,lower,trace,14,1799,2057.5,3,4,,"Dr 0.60 falls in a gap between dashes (u 1788); moved to the nearest line end on the ink, 11 px away (rule 7)"
+FC-22,1,lower,trace,15,1865.7,2009.3,2,4,,"Dr 0.65; at the crossing with the phi = 45 grid line, centre from the ink either side"
+FC-22,1,lower,trace,16,1927,1966.0,3,4,,"Dr 0.70 falls in a gap between dashes (u 1943); moved to the nearest line end on the ink, 16 px away (rule 7)"
+FC-22,1,lower,trace,17,2019.4,1900.7,2,4,,Dr 0.75
+FC-22,1,lower,trace,18,2095.8,1847.5,2,4,,"Dr 0.80; at the crossing with the Dr = 0.8 grid line, centre from the ink either side"
+FC-22,1,lower,trace,19,2182,1788.7,3,4,,"Dr 0.85 falls in a gap between dashes (u 2173); moved to the nearest line end on the ink, 9 px away (rule 7)"
+FC-22,1,lower,trace,20,2250.7,1743.3,2,4,,"Dr 0.90; at the crossing with the Dr = 0.9 grid line, centre from the ink either side"
+FC-22,1,lower,trace,21,2306,1707.0,3,4,,"Dr 0.95 falls in a gap between dashes (u 2328); moved to the nearest line end on the ink, 22 px away (rule 7)"
+FC-22,1,lower,trace,22,2404.5,1646.1,4,4,,"right end: the last dash ends at the Dr = 1.0 grid line (no ink right of it; the end may be under the line, the u bound covers the line width)"
+FC-22,1,lower,feature,1,853,2643.5,3,4,,first point (left end of the trace)
+FC-22,1,lower,feature,2,2404.5,1646.1,4,4,,"last point (right end of the trace; also its maximum, the curve rises monotonically; no knee: the slope changes gradually)"

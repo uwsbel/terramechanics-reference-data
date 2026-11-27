@@ -1,0 +1,92 @@
+item,answer,confidence,comment
+001,all yes,high,"P (1606,2152) is on the dash ink (v 2146-2155, ends u~1622); the plus below is separate"
+002,all yes,high,"both Q samples on the line ink (initial segment shared with n2345, through the plus); (925,2438) is ~5 px right of the plus arm"
+003,q,medium,"line runs at v~2016-2027 on both sides of the square (u 1768-1800); Q follows it (its 1789 sample sits on the square's top edge where the line is interrupted); P (1783,2044) is on the square's bottom edge. A separate thin lower stroke at v~2043 exists only from u~1830 to 1958"
+004,some,high,"off: (2019,2038) is on the bottom edge of the square (u 2011-2041, v 2008-2041); (2048,2030) is on line ink"
+005,all yes,high,on line ink above where the line meets the square's top-right corner
+006,yes,medium,"mark at the line height (v~1880) in the shallow trough (line lowest ~u 2040-2130, rises slightly after); it sits 3 px past the dash end in the gap before the asterisk at u 2134; x of a broad trough is loose"
+007,all yes,high,"on line ink; line ends ~v 2316, asterisk below after a white gap"
+008,all yes,high,on line ink above the x symbol
+009,yes,medium,"on dash ink just right of the triangle at u~2080 (white gap 2101-2104); slope flattens here (about 0.1 to 0.03), soft feature"
+010,all yes,medium,on line ink 2-3 px above where the line runs into the top-right corner of the triangle-down (top edge v 2542-2547 ends u~758)
+011,all yes,high,on line ink at its lower end; plus below is separate
+012,all yes,high,on ink 3 px before the line end (u 2065)
+013,yes,medium,"inside the square (u 1258-1289) at the line height (v~1959); the first max is a flat top from u~1230 to 1315, so x does not matter"
+014,yes,medium,at the square center at v 1964; the line's shallow minimum is v~1965.5 at u 1380-1425 just left of this square; height within 1.5 px
+015,all yes,high,on line ink near its lower end; square below after a gap
+016,all yes,high,line ink reaches u~2075; square starts at 2078
+017,both,medium,"asterisk on a vertical gridline; arms span u 1783-1807, v ~1720-1740, center ~(1795,1729); P 5 px left, Q 5 px right, both inside"
+018,all yes,high,on line ink
+019,all yes,high,on line ink (line reaches u 2082 at the gridline)
+020,all yes,high,on line ink ~8 px right of the first circle's outline
+021,all yes,high,on line ink ~6 px left of the circle's left edge (u 1669)
+022,p,high,"x crossing at ~(1408,1610.5); Q is 8 px left where the line meets the left arms"
+023,all yes,high,on line ink
+024,all yes,high,on line ink just left of the gridline at u 2084
+025,both,medium,"triangle apex v 2507, base bottom ~2536, u center ~1977.5; centroid ~2526.5, bbox middle ~2521.5; P is 2 px below the centroid, Q ~0.5 px above the bbox middle; both inside and near center"
+026,all yes,high,on line ink; triangle below-left after a gap
+027,q,high,"triangle-down u 1673-1705, v 3156-3185, centroid ~(1689,3166), bbox middle 3170.5; Q near center; P is on the right-side stroke"
+028,q,high,"square u 795-818, v 3303-3327, center (806.5,3315); P on the left edge"
+029,q,high,"square u 1447-1468, v 3236-3257, center (1457.5,3246.5); P on the left edge"
+030,p,high,"asterisk (above the square) center ~(1466.5,3227); Q is in white left of it"
+031,q,high,"x center ~(1284,3290) below a square; P in white left of the x"
+032,all yes,high,on line ink; dot at left after a gap
+033,all yes,high,on line ink ~6 px above where it merges into the triangle's top edge
+034,all yes,high,both on line ink; square below after a gap
+035,p,high,"asterisk center ~(637,2187); Q on the upper-right arm"
+036,q,high,"asterisk center ~(742.5,1921); P on the upper-right arm"
+037,p,high,"asterisk center ~(1093,1607); Q on the upper-right arm"
+038,q,high,"asterisk center ~(1208.5,1595); P on the upper-right arm"
+039,p,high,"asterisk center ~(1327,1612.5); Q on the upper-right arm"
+040,p,high,"asterisk center ~(1615.5,1687); Q in white beside the upper-right arm"
+041,all yes,high,on line ink (line reaches u~2011)
+042,some,high,"off: (640,2172) is on the top of the asterisk's vertical stroke (asterisk ~(637,2187)); line ink ends ~(644,2166) with a white row between; (651,2137) on line"
+043,q,medium,"neither exact: line ink ends ~(1512,2694), white gap u 1513-1515, then the circle (center ~(1531,2698.5)); per convention the last point is the ink end. Q is 5 px right of it on the circle's left outline at line height; P is inside the circle 19 px right"
+044,all yes,high,"on the last row of line ink (v 2782), circle top starts at 2784"
+045,all yes,high,"on ink; line ends u~1512, circle starts 1516"
+046,all yes,high,on line ink; x below after a gap
+047,all yes,high,on line ink near its end
+048,q,high,"the drawn line's peak is a flat top u~1008-1088 (ink v 2480-2491, center ~2485.5); Q is on it; P is on the apex of the triangle at u~1106, ~14 px above the line"
+049,no,medium,"P is on the right leg of the triangle-up sitting on the x=250 gridline (u~2046); the line runs into the triangle apex at the gridline with no gap, so the last point is the triangle center ~(2049,2628); P is ~10 px right of it and not on the line"
+050,all yes,medium,on line ink just above where the line merges with the triangle apex
+051,p,high,"filled dot u 820-840, v 3218-3241, centroid ~(829,3230.5); Q 7 px left"
+052,q,high,"dot centroid ~(948,3162.6); P 7 px left"
+053,q,high,"dot centroid ~(997,3125.3); P 7 px left"
+054,p,high,"dot centroid ~(1117.3,3065.7); Q 7.5 px left"
+055,p,high,"dot centroid ~(1233.2,3005); Q 7 px left"
+056,q,high,"dot centroid ~(1352.2,2957.5); P 7 px left"
+057,all yes,high,both on line ink above where it meets the circle's top-right
+058,all no,high,"dash ink ends u~1843; Q (1853,2304) is on the circle's left outline after a 5 px white gap"
+059,p,high,"line runs without a gap into the triangle sitting on the right frame (u 2210-2212); triangle center ~(2211,2061-2065); P there, Q 12 px left on the line"
+060,all yes,high,on line ink
+061,all yes,high,on line ink just before it merges into the triangle at the frame
+062,all yes,medium,"on the n2995 line ink (row spans u 832-842) where it meets the n3660 x centered ~(826,2493)"
+063,all yes,high,on dash ink (ends u~2206)
+064,all yes,high,"both on the n3660 line that descends to the x at ~(826,2492)"
+065,all yes,high,on dash ink (ends u~2191)
+066,p,high,"P samples are on the n4400 line, which ends ~(822,2293) above its first asterisk ~(815,2312); Q (829,2395) is on the n3660 curve (through the x symbols) below"
+067,all no,high,"all three Q samples are on the n3660 curve (from the x at ~(855,2325) down to the x at ~(826,2492)); the n4400 line ends at its first asterisk ~(815,2312) with no ink below"
+068,all yes,high,on dash ink (ends u~2204)
+069,p,high,"filled dot merged with the line and a gridline; lower half u 1670-1693, bottom v 2556, diameter ~22 gives center ~(1681.5,2545); Q is at the rim"
+070,all yes,high,on line ink ~8 px right of the first dot's outline
+071,both,medium,"two symbols: n2995 square ~(931,3307) (Q's mark is inside it) and below it an x ~(932,3318) of n3660 (P's asterisk mark is on it; the shape is an x, not an asterisk; no asterisk in this column)"
+072,both,medium,"two symbols at the P marks: n2200 triangle ~(985,3303) and n2995 square ~(984.5,3312) (Q's mark is inside the square); the n3660 x is the glyph below ~(984,3322)"
+073,both,medium,"two symbols: n2995 square ~(1042,3310) and below it an x ~(1041,3322) of n3660 (Q's asterisk mark is on it; it is an x, not an asterisk); P's mark is at their junction"
+074,both,medium,"two symbols at the Q marks: n2200 triangle ~(1105,3306) and n2995 square ~(1104.5,3317); P's x mark is at their junction; the n3660 x is the glyph below ~(1104,3328)"
+075,p,medium,"neither exact: dash ink ends ~(1145,2219), then a 5 px white gap, circle center (1162,2222); per convention the last point is the ink end; P is 5 px right of it in the gap, Q is at the circle center"
+076,all no,medium,"P (709,2676) is on the upper-right outline of the first open circle (center ~(703,2685)); the line enters the circle's top at u~700-705"
+077,all yes,medium,"1 px past the dash end (u 1145) at the line height, within the 2 px tolerance; circle starts at u 1151"
+078,all no,medium,"P (741,2421) is on the right side of the triangle apex (~(736,2417)); the line ink ends ~(744,2418) beside it, separated by white"
+079,all yes,high,"on line ink; line continues to v~2055, square below"
+080,all yes,high,on dash ink (ends u~1551)
+081,all yes,high,on line ink
+082,all yes,high,on dash ink (ends u~1622)
+083,all yes,high,on line ink
+084,all yes,high,on dash ink (ends u~1671)
+085,all yes,high,"on the n734 line ink below the dot at ~(757,2524)"
+086,n2200,medium,"small thick-stroked triangle-up (apex v~3183, base ~3199, hole at the centroid ~(1218,3193)) merged below with the n3660 x (crossing ~(1219,3208)); n1468's data end at x~81 (last circle u~1162 upper panel; lower-panel column at u~1155), so no n1468 symbol at x~91. P's x mark is on the triangle's lower right, not on the x"
+087,p,high,"square u 1032-1052, v 3188-3203, center ~(1042,3195.5); Q on the top edge"
+088,p,high,"x center ~(1511.5,3174); Q at the upper-right arm tip"
+089,all yes,medium,"both on the dash (starts u~880, right of the square) where it overlaps the gridline (v 2435-2440); within the line's extent"
+090,all yes,high,"(1066,2380) at the end of the left dash, (1113,2364) at the start of the right dash; square between"
+091,all yes,high,on dash ink (ends u~1295)

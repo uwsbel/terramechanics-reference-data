@@ -1,0 +1,90 @@
+---
+title: "Dynamic penetration (DPT): RS soil, intermediate, Record No. 54025"
+record: "b68-dpt-r54025"
+kind: "single"
+test-type: "Dynamic penetration (DPT)"
+family: "RS"
+state: "intermediate"
+printed-label: "Record No. 54025"
+evidence: "F2-53;F2-54;text 2-90 (PDF 115)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+Dynamic penetration (DPT) test on RS soil (Red Crushed Volcanic Scoria (narrowly graded)), intermediate; apparatus: DPT 1.59 lb 2-3/4 inch body dropped 25.4 inch; loading: dynamic penetration (free drop). Recorded: deceleration vs time. One of 2 tests drawn from the same figures.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 91 of the 100 points, and 2 are still under review. They have not yet been checked by a person. The test setup is incomplete: relative density Dr, fill depth, rate are not reported.
+:::
+
+## Data
+
+![deceleration against time, SI units, this test in red and the other tests printed in Fig. 2-54 in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-dpt-r54025.png){.lightbox}
+
+Peak deceleration 284.6 m/s^2 at 13.2 ms time; 5.671 m/s^2 at 88 ms, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-dpt-r54025/observations.csv) (100 points: 0 plotted symbols, 89 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1 (Fig. 2-54): deceleration in m/s^2 against time in s; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-dpt-r54025/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 0.403 ms in time, 5.784 m/s^2 in deceleration (Fig. 2-54) (2.0 percent of the peak). Both independent readings agree within these bounds at 91 of the 100 points; 2 are still under review (hollow in the plot) and 7 were settled against the scan. [Check the digitized points against the scan](../figures/index.qmd#check-f2-54).
+
+**About these values.** The figure prints no time origin: time is counted from the timing line that carries the three deceleration rulers (0 ms), so only differences of time are measured; the timing lines are 10 ms apart (the figure's 0.01 s bar). Deceleration is in g as printed (G's), positive upward, converted with standard gravity; 0 g is each ruler's printed zero, not the dashed line drawn about 0.7 to 1.0 g above it. Samples are in drawing order and may share a time on a steep flank.
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | RS Inter., Red Crushed Volcanic Scoria (narrowly graded) (soil No. 3 of Table 2-3) | RS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | *not reported* |  | F2-53, F2-54 |
+| state | unit weight | 6928 N/m^3 (bulk density 706.4 kg/m^3) | 44.1 pcf | F2-53, F2-54 |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | DPT index Gp | *not reported* |  | F2-53, F2-54; density read through the Fig. 2-55 correlation |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | 69.8 mm ; full radius nose | 2-3/4 inch ; full radius nose | F2-53, F2-54 |
+| geometry | bin or mold | 609.6 mm box | 2 ft box | F2-53, F2-54 |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | dynamic penetration (free drop) |  | F2-53, F2-54 |
+| loading | start depth below surface | *not reported* |  | F2-53, F2-54 |
+| loading | rate | *not reported* |  | F2-53, F2-54 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | deceleration vs time |  | F2-53, F2-54 |
+| soil strength | friction angle at this density (report's direct shear average) | 44.5 degrees | 44.5 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 59.3 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| test | record |
+| --- | --- |
+| Record No. 53958 | [b68-dpt-r53958](b68-dpt-r53958.qmd) |
+| Record No. 54025 | **b68-dpt-r54025** (this page) |
+
+## Source pages
+
+F2-53, *Dynamic Penetrometer (DPT) and Schematic*, AM-68-1 Vol. I, printed 2-91, PDF 116; F2-54, *Typical DPT Signatures*, AM-68-1 Vol. I, printed 2-92, PDF 117.
+Text: text 2-90 (PDF 115).
+
+::: {layout-ncol=2}
+![PDF page 116](../img/1968/p0116.png){.lightbox}
+
+![PDF page 117](../img/1968/p0117.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-dpt-r54025` in `data/experiments/index.csv` of this repository, and the source: F2-53, *Dynamic Penetrometer (DPT) and Schematic*, AM-68-1 Vol. I, printed 2-91, PDF 116; F2-54, *Typical DPT Signatures*, AM-68-1 Vol. I, printed 2-92, PDF 117.
+
+<small>Maintainers: the [provenance and review record](../review/b68-dpt-r54025.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

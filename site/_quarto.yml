@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!_footer.html"
+    - "!_changes.md"
+
+website:
+  title: "Terramechanics Reference Data"
+  description: "Measured soil tests for judging terramechanics simulations"
+  search:
+    location: navbar
+    type: overlay
+  # Reader-facing navigation (plan v3, A5.1); the maintainers' pages are reached from About and the footer
+  # through Project records (A1.4).
+  navbar:
+    left:
+      - href: experiments/index.qmd
+        text: Find a test
+      - href: materials/index.qmd
+        text: Soils
+      - href: simulate/index.qmd
+        text: Simulate a test
+      - href: glossary/index.qmd
+        text: Glossary
+      - href: downloads/index.qmd
+        text: Download
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    left: "Terramechanics Reference Data. Simulation-Based Engineering Laboratory, University of Wisconsin-Madison. Contact: [negrut@wisc.edu](mailto:negrut@wisc.edu)."
+    right:
+      - href: about/index.qmd
+        text: About
+      - href: contribute/index.qmd
+        text: Contribute
+      - href: records/index.qmd
+        text: Project records
+  page-navigation: true
+  back-to-top-navigation: true
+
+# every table in a box that scrolls sideways, with column widths from its content (site/table-wrap.lua, 2026-11-19
+# and 11-20); after Quarto's own filters, whose tbl-colwidths handling would otherwise drop the widths
+filters:
+  - quarto
+  - table-wrap.lua
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    lightbox: true
+    df-print: default
+    # column widths left to the browser: with fixed widths, Pandoc gave every column of a long table the same
+    # share and squeezed the text columns (2026-11-19)
+    tbl-colwidths: false
+    include-after-body: [_footer.html, _table-scroll.html]
+    css: site.css

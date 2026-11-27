@@ -1,0 +1,47 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FB-4,1,dr86,marker,1,943.88,2526.25,3,3,circle,"upper of two overlapping circles at sigma3 ~2.5 (dense); centre from a two-ring model fit, hole partly covered by the other ring; the dense line ends on this pair's outline",2.451464,4.933601,0.029486,0.01543
+FB-4,1,dr86,marker,2,943.12,2541.62,3,3,circle,lower of two overlapping circles at sigma3 ~2.5 (dense); centre from a two-ring model fit,2.446625,4.878672,0.029486,0.01543
+FB-4,1,dr86,marker,3,957.4,2579.2,2,2,circle,"circle just below the overlapping pair; its hole is clean; nearest drawn line is the dense line (13 px from its extension, 107 px from the loose line), so dense; with the pair it makes three dense tests at ~2.5 psi as the loose group has three",2.550121,4.744746,0.022301,0.011834
+FB-4,1,dr86,marker,4,1284.5,1833.1,2,2,circle,isolated circle above the dense line at sigma3 ~5,4.858907,7.417876,0.022301,0.011834
+FB-4,1,dr86,marker,5,1285.3,1900.4,2,2,circle,circle below the dense vertex at sigma3 ~5; the dense line crosses its upper left outline; centre = mean of hole centroid and outer-edge fit (0.6 px apart),4.867217,7.177459,0.022301,0.011834
+FB-4,1,dr86,marker,6,1973.62,1330.62,3,3,circle,"upper of two overlapping circles at sigma3 ~9.8 (dense, printed as a double circle); two-ring model fit (one ring leaves 3.5x the misfit); the ink spans v 1310 to 1364, which an edge reading puts at 1330.3 and 1343.2, hence the 3 px bound",9.764155,9.22907,0.029486,0.01543
+FB-4,1,dr86,marker,7,1974.12,1341.5,3,3,circle,lower of two overlapping circles at sigma3 ~9.8 (dense); two-ring model fit; edge reading gives v 1343.2,9.768147,9.190212,0.029486,0.01543
+FB-4,1,dr22,marker,1,770.5,3210.2,2,2,circle,isolated circle; the loose line ends on its outline (first point of dr22),1.238801,2.486084,0.022301,0.011834
+FB-4,1,dr22,marker,2,944.25,2777.75,3,3,circle,middle of three overlapping circles at sigma3 ~2.5 (loose); three-ring model fit (a two-ring model leaves 2.7x the misfit),2.463797,4.035099,0.029486,0.01543
+FB-4,1,dr22,marker,3,944.25,2793.12,3,3,circle,bottom of three overlapping circles at sigma3 ~2.5 (loose); three-ring model fit,2.464389,3.980188,0.029486,0.01543
+FB-4,1,dr22,marker,4,953.38,2757.25,3,3,circle,top of three overlapping circles at sigma3 ~2.5 (loose); centre from a three-ring model fit; the loose line's hidden vertex lies at its centre,2.528252,4.10855,0.029486,0.01543
+FB-4,1,dr22,marker,5,1300.0,2154.8,2,2,circle,"isolated circle between the two lines at sigma3 ~5; nearer the loose line (157 px) than the dense line (293 px), and the loose vertex sits midway between it and the circle below; assigned dr22",4.982067,6.26893,0.022301,0.011834
+FB-4,1,dr22,marker,6,1294.95,2475.6,2,2,circle,isolated circle below the loose line at sigma3 ~5,4.958337,5.12272,0.022301,0.011834
+FB-4,1,dr22,marker,7,1947.22,1841.6,2,2,circle,isolated circle above the loose line's right end at sigma3 ~9.7; far below the dense line,9.59518,7.402926,0.022301,0.011834
+FB-4,1,dr22,marker,8,1948.28,2062.03,2,2,circle,isolated circle below the loose line's right end at sigma3 ~9.7,9.611247,6.615441,0.022301,0.011834
+FB-4,1,dr86,trace,1,963.41,2537.25,4.1,4.1,,first point: the line's ink meets the outline of the overlapping circles at ~2.5 psi (it may continue under them),2.591453,4.894757,0.037389,0.019385
+FB-4,1,dr86,trace,2,1020.81,2417.4,4.1,4.1,,sigma3 = 3 psi,2.997029,5.324269,0.037389,0.019385
+FB-4,1,dr86,trace,3,1161.22,2124.21,4.1,4.1,,sigma3 = 4 psi,3.989135,6.374987,0.037389,0.019385
+FB-4,1,dr86,trace,4,1279.87,1876.47,4.8,4.8,,"vertex: intersection of the two fitted segments, on the ink of the drawn corner; the line touches the circle at (1285.3, 1900.4)",4.827491,7.262825,0.042419,0.021902
+FB-4,1,dr86,trace,5,1303.11,1858.76,4.8,4.8,,sigma3 = 5 psi,4.992887,7.326636,0.042419,0.021902
+FB-4,1,dr86,trace,6,1444.14,1751.3,4.8,4.8,,sigma3 = 6 psi,5.996579,7.713829,0.042419,0.021902
+FB-4,1,dr86,trace,7,1586.33,1642.94,4.8,4.8,,sigma3 = 7 psi,7.008526,8.104264,0.042419,0.021902
+FB-4,1,dr86,trace,8,1728.53,1534.59,4.8,4.8,,sigma3 = 8 psi,8.020545,8.494664,0.042419,0.021902
+FB-4,1,dr86,trace,9,1868.88,1427.64,4.8,4.8,,sigma3 = 9 psi,9.019397,8.880019,0.042419,0.021902
+FB-4,1,dr86,trace,10,1960.9,1357.51,4.8,4.8,,last point: the line's ink meets the outline of the double circle at ~9.8 psi,9.674291,9.132707,0.042419,0.021902
+FB-4,1,dr22,trace,1,778.92,3191.25,4.2,4.2,,first point: the line's ink meets the outline of the circle at ~1.3 psi,1.298242,2.553981,0.038108,0.019745
+FB-4,1,dr22,trace,2,879.14,2944.53,4.2,4.2,,sigma3 = 2 psi,2.004932,3.437745,0.038108,0.019745
+FB-4,1,dr22,trace,3,932.75,2812.55,4.2,4.2,,"the line's ink meets the outline of the three overlapping circles at ~2.5 psi; the drawn line is hidden by them from here to the next sample (its vertex is inside the top circle's hole, not on ink)",2.382956,3.910505,0.038108,0.019745
+FB-4,1,dr22,trace,4,967.09,2741.7,4.7,4.7,,the line's ink leaves the outline of the top circle of the three at ~2.5 psi,2.625628,4.164423,0.0417,0.021543
+FB-4,1,dr22,trace,5,1019.43,2674.35,4.7,4.7,,sigma3 = 3 psi,2.997067,4.406256,0.0417,0.021543
+FB-4,1,dr22,trace,6,1159.23,2494.45,4.7,4.7,,sigma3 = 4 psi,3.989178,5.052219,0.0417,0.021543
+FB-4,1,dr22,trace,7,1300.54,2312.6,4.8,4.8,,"vertex: intersection of the two fitted segments, on the ink of the drawn corner; at sigma3 = 5.00 psi, so it is also the 5 psi sample",4.992005,5.705185,0.042419,0.021902
+FB-4,1,dr22,trace,8,1441.54,2232.73,4.8,4.8,,sigma3 = 6 psi,5.996546,5.993809,0.042419,0.021902
+FB-4,1,dr22,trace,9,1583.58,2152.27,4.8,4.8,,sigma3 = 7 psi,7.008496,6.284565,0.042419,0.021902
+FB-4,1,dr22,trace,10,1725.63,2071.81,4.8,4.8,,sigma3 = 8 psi,8.020517,6.575321,0.042419,0.021902
+FB-4,1,dr22,trace,11,1865.83,1992.39,4.8,4.8,,sigma3 = 9 psi,9.019358,6.862319,0.042419,0.021902
+FB-4,1,dr22,trace,12,1953.25,1942.88,4.8,4.8,,last point: free end of the line's ink,9.642173,7.041232,0.042419,0.021902
+FB-4,1,dr86,feature,1,963.41,2537.25,4.1,4.1,,first point (ink start at the outline of the overlapping circles at ~2.5 psi),2.591453,4.894757,0.037389,0.019385
+FB-4,1,dr86,feature,2,1279.87,1876.47,4.8,4.8,,vertex,4.827491,7.262825,0.042419,0.021902
+FB-4,1,dr86,feature,3,1960.9,1357.51,4.8,4.8,,last point (ink end at the outline of the double circle at ~9.8 psi); also the maximum of the trace,9.674291,9.132707,0.042419,0.021902
+FB-4,1,dr86,feature,4,2202.5,1380.0,10,10,,"label: Dense D_r = 0.86 (two lines, ink block u 2045-2360, v 1313-1447); right of the upper polyline's end",11.401685,9.057979,0.079779,0.040601
+FB-4,1,dr22,feature,1,778.92,3191.25,4.2,4.2,,first point (ink start at the outline of the circle at ~1.3 psi),1.298242,2.553981,0.038108,0.019745
+FB-4,1,dr22,feature,2,955.44,2756.7,5,5,,"vertex, hidden: intersection of the two fitted segments, inside the hole of the top circle of the three at ~2.5 psi (white there; the drawn ink stops at the outlines), so not a trace sample",2.542952,4.110563,0.043856,0.022622
+FB-4,1,dr22,feature,3,1300.54,2312.6,4.8,4.8,,vertex,4.992005,5.705185,0.042419,0.021902
+FB-4,1,dr22,feature,4,1953.25,1942.88,4.8,4.8,,last point (free end of the ink); also the maximum of the trace,9.642173,7.041232,0.042419,0.021902
+FB-4,1,dr22,feature,5,2200.5,1963.5,10,10,,"label: Loose D_r = 0.22 (two lines, ink block u 2044-2357, v 1900-2027); right of the lower polyline's end",11.409872,6.973317,0.079779,0.040601

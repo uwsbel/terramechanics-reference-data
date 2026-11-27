@@ -1,0 +1,95 @@
+[
+  {
+    "figure_id": "FC-20",
+    "counts": {
+      "data": {
+        "marker": 7
+      },
+      "mean": {
+        "trace": 22,
+        "feature": 2
+      },
+      "upper": {
+        "trace": 22,
+        "feature": 2
+      },
+      "lower": {
+        "trace": 23,
+        "feature": 2
+      }
+    },
+    "rms_x": 0.0018296908565251413,
+    "rms_y": 0.008929255400344768
+  },
+  {
+    "figure_id": "FC-21",
+    "counts": {
+      "data": {
+        "marker": 8
+      },
+      "band-top": {
+        "trace": 25,
+        "feature": 2
+      },
+      "band-bottom": {
+        "trace": 25,
+        "feature": 2
+      }
+    },
+    "rms_x": 0.001122305100993619,
+    "rms_y": 0.010788426772502115
+  },
+  {
+    "figure_id": "FC-22",
+    "counts": {
+      "data": {
+        "marker": 2
+      },
+      "mean": {
+        "trace": 23,
+        "feature": 2
+      },
+      "upper": {
+        "trace": 23,
+        "feature": 2
+      },
+      "lower": {
+        "trace": 23,
+        "feature": 2
+      }
+    },
+    "rms_x": 0.0011436425271835506,
+    "rms_y": 0.011698057941271291
+  },
+  {
+    "figure_id": "FC-23",
+    "counts": {
+      "rc2": {
+        "trace": 23,
+        "feature": 3
+      },
+      "ps": {
+        "trace": 24,
+        "feature": 3
+      },
+      "rs": {
+        "trace": 26,
+        "feature": 3
+      },
+      "rsm-b": {
+        "trace": 23,
+        "feature": 3
+      },
+      "rsm-a": {
+        "trace": 24,
+        "feature": 3
+      },
+      "ss": {
+        "trace": 23,
+        "feature": 3
+      }
+    },
+    "rms_x": 0.0022658133974619156,
+    "rms_y": 0.038606123348271154
+  }
+]

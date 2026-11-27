@@ -1,0 +1,10 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,r53958,feature,68,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 001 (Claude's adjudicator: p; Codex's: p))
+1,r53958,trace,1,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 002 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,r53958,trace,12,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,r53958,trace,13,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,r53958,trace,14,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,r53958,trace,86,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 004 (Claude's adjudicator: all no; Codex's: all no)
+1,r53958,feature,85,claude,excluded,,"at the place of the end sample both adjudicators judged off the line (3 to 5 px past the trace's ink, on the top frame line; blind adjudication 2026-11-19-dpt, curve-end item of this panel); excluded by the same criterion (Codex's review, 2026-11-19)"
+1,r53958,trace,86,claude,excluded,,"at the place of the end sample both adjudicators judged off the line (3 to 5 px past the trace's ink, on the top frame line; blind adjudication 2026-11-19-dpt, curve-end item of this panel); excluded by the same criterion (Codex's review, 2026-11-19)"
+1,r53958,feature,87,codex,excluded,,"at the place of the end sample both adjudicators judged off the line (3 to 5 px past the trace's ink, on the top frame line; blind adjudication 2026-11-19-dpt, curve-end item of this panel); excluded by the same criterion (Codex's review, 2026-11-19)"

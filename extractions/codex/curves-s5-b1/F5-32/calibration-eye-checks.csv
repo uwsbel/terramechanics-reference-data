@@ -1,0 +1,47 @@
+figure_id,panel,axis,printed_label,anchored_value,pixel_u,pixel_v,status,note
+F5-32,1,x,0,0.0,2254,3495.8,matched,Label matches the shared time-zero frame
+F5-32,1,x,.01,0.01,2254,3325.6,matched,Label matches the measured shared lower tick
+F5-32,1,x,.02,0.02,2254,3156.3,matched,Label matches the measured shared lower tick
+F5-32,1,x,.03,0.03,2254,2985.8,matched,Label matches the measured shared lower tick
+F5-32,1,x,.04,0.04,2254,2815.9,matched,Label matches the measured shared lower tick
+F5-32,1,x,.05,0.05,2254,2645.0,matched,Label matches the measured shared lower tick
+F5-32,1,x,.06,0.06,2254,2473.1,matched,Label matches the measured shared lower tick
+F5-32,1,x,.07,0.07,2254,2303.2,matched,Label matches the measured shared lower tick
+F5-32,1,x,.08,0.08,2254,2133.9,matched,Label matches the measured shared lower tick
+F5-32,1,x,09,0.09,2220,1963.5,sequence,Digits partial and decimal point lost. Aligned lower tick stubs fix the .09 position
+F5-32,1,x,.10,,2269,1792.5,label only,Approximate position above the label. The ruling has too little surviving ink for a knot
+F5-32,1,y,0,0,1356.6,3502,matched,Label matches the measured load or depth rule
+F5-32,1,y,-20,-20,1271.5,3502,matched,Label matches the measured load or depth rule
+F5-32,1,y,-40,-40,1185.7,3502,matched,Label matches the measured load or depth rule
+F5-32,1,y,-60,-60,1099.8,3502,matched,Label matches the measured load or depth rule
+F5-32,2,x,0,0.0,2254,3495.8,matched,Label matches the shared time-zero frame
+F5-32,2,x,.01,0.01,2254,3325.6,matched,Label matches the measured shared lower tick
+F5-32,2,x,.02,0.02,2254,3156.3,matched,Label matches the measured shared lower tick
+F5-32,2,x,.03,0.03,2254,2985.8,matched,Label matches the measured shared lower tick
+F5-32,2,x,.04,0.04,2254,2815.9,matched,Label matches the measured shared lower tick
+F5-32,2,x,.05,0.05,2254,2645.0,matched,Label matches the measured shared lower tick
+F5-32,2,x,.06,0.06,2254,2473.1,matched,Label matches the measured shared lower tick
+F5-32,2,x,.07,0.07,2254,2303.2,matched,Label matches the measured shared lower tick
+F5-32,2,x,.08,0.08,2254,2133.9,matched,Label matches the measured shared lower tick
+F5-32,2,x,09,0.09,2220,1963.5,sequence,Digits partial and decimal point lost. Aligned lower tick stubs fix the .09 position
+F5-32,2,x,.10,,2269,1792.5,label only,Approximate position above the label. The ruling has too little surviving ink for a knot
+F5-32,2,y,0,0,1779.8,3502,matched,Label matches the measured load or depth rule
+F5-32,2,y,+20,20,1695.3,3502,matched,Label matches the measured load or depth rule
+F5-32,2,y,+40,40,1609.1,3502,matched,Label matches the measured load or depth rule
+F5-32,2,y,-60,60,1524.4,3502,sequence,Printed -60 above +40. Its ruled line is the next +20 lb step
+F5-32,3,x,0,0.0,2254,3495.8,matched,Label matches the shared time-zero frame
+F5-32,3,x,.01,0.01,2254,3325.6,matched,Label matches the measured shared lower tick
+F5-32,3,x,.02,0.02,2254,3156.3,matched,Label matches the measured shared lower tick
+F5-32,3,x,.03,0.03,2254,2985.8,matched,Label matches the measured shared lower tick
+F5-32,3,x,.04,0.04,2254,2815.9,matched,Label matches the measured shared lower tick
+F5-32,3,x,.05,0.05,2254,2645.0,matched,Label matches the measured shared lower tick
+F5-32,3,x,.06,0.06,2254,2473.1,matched,Label matches the measured shared lower tick
+F5-32,3,x,.07,0.07,2254,2303.2,matched,Label matches the measured shared lower tick
+F5-32,3,x,.08,0.08,2254,2133.9,matched,Label matches the measured shared lower tick
+F5-32,3,x,09,0.09,2220,1963.5,sequence,Digits partial and decimal point lost. Aligned lower tick stubs fix the .09 position
+F5-32,3,x,.10,,2269,1792.5,label only,Approximate position above the label. The ruling has too little surviving ink for a knot
+F5-32,3,y,0,0,2288.5,3502,matched,Label matches the measured load or depth rule
+F5-32,3,y,-20,-20,2205.0,3502,matched,Label matches the measured load or depth rule
+F5-32,3,y,-40,-40,2120.3,3502,matched,Label matches the measured load or depth rule
+F5-32,3,y,-60,-60,2035.2,3502,matched,Label matches the measured load or depth rule
+F5-32,3,y,-80,-80,1950.8,3502,matched,Label matches the measured load or depth rule

@@ -1,0 +1,60 @@
+{
+  "agent": "claude",
+  "batch": "curves-appa-b2",
+  "date": "2026-10-15",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session)",
+  "prompt": "TASK.md plus a task naming the workspace and the figures of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appa-b2/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "readers": {
+    "FA-6": {
+      "reader": "one subagent for FA-6",
+      "elapsed_sec": 945.2,
+      "subagent_tokens": 476726,
+      "tool_uses": 44,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only; detection ran on a copy of the page with the parameter table blanked (same pixel coordinates)"
+    },
+    "FA-2": {
+      "reader": "one subagent for FA-2",
+      "elapsed_sec": 1049.1,
+      "subagent_tokens": 462900,
+      "tool_uses": 49,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only"
+    },
+    "FA-18": {
+      "reader": "one subagent for FA-18",
+      "elapsed_sec": 1127.8,
+      "subagent_tokens": 503008,
+      "tool_uses": 47,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only; its own calibration helper (detect failed on the dense log sheet)"
+    },
+    "FA-22": {
+      "reader": "one subagent for FA-22",
+      "elapsed_sec": 955.0,
+      "subagent_tokens": 458362,
+      "tool_uses": 52,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only"
+    },
+    "FA-38": {
+      "reader": "one subagent for FA-38",
+      "elapsed_sec": 1020.6,
+      "subagent_tokens": 424395,
+      "tool_uses": 62,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only; lines refitted outside the parameter table with its own helper (the tool ink_offset unmodified)"
+    },
+    "FA-26": {
+      "reader": "one subagent for FA-26",
+      "elapsed_sec": 1255.9,
+      "subagent_tokens": 451137,
+      "tool_uses": 64,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only; two detect runs merged (the lines under the parameter table from a box above it)"
+    },
+    "FA-46": {
+      "reader": "one subagent for FA-46",
+      "elapsed_sec": 1625.4,
+      "subagent_tokens": 500146,
+      "tool_uses": 76,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 in the same workspace; the figures shown are the resumed run only"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+figure_id,panel,image,box,points_a,points_b,name
+FC-3B,1,corpus/1968-vol2/images/p0124.png,660 1250 2170 2760,extractions/claude/curves-appc-b2/FC-3B/points-p1-native.csv,extractions/codex/curves-appc-b2/FC-3B/points-p1-native.csv,FC-3B-p1
+FC-3B,2,corpus/1968-vol2/images/p0124.png,660 2850 2170 3485,extractions/claude/curves-appc-b2/FC-3B/points-p2-native.csv,extractions/codex/curves-appc-b2/FC-3B/points-p2-native.csv,FC-3B-p2
+FC-3C,1,corpus/1968-vol2/images/p0125.png,790 1330 2295 2850,extractions/claude/curves-appc-b2/FC-3C/points-p1-native.csv,extractions/codex/curves-appc-b2/FC-3C/points-p1-native.csv,FC-3C-p1
+FC-3C,2,corpus/1968-vol2/images/p0125.png,805 2960 2300 3580,extractions/claude/curves-appc-b2/FC-3C/points-p2-native.csv,extractions/codex/curves-appc-b2/FC-3C/points-p2-native.csv,FC-3C-p2
+FC-4B,1,corpus/1968-vol2/images/p0127.png,770 1180 2290 2690,extractions/claude/curves-appc-b2/FC-4B/points-p1-native.csv,extractions/codex/curves-appc-b2/FC-4B/points-p1-native.csv,FC-4B-p1
+FC-4B,2,corpus/1968-vol2/images/p0127.png,770 2780 2290 3420,extractions/claude/curves-appc-b2/FC-4B/points-p2-native.csv,extractions/codex/curves-appc-b2/FC-4B/points-p2-native.csv,FC-4B-p2
+FC-4C,1,corpus/1968-vol2/images/p0128.png,740 1317 2250 2520,extractions/claude/curves-appc-b2/FC-4C/points-p1-native.csv,extractions/codex/curves-appc-b2/FC-4C/points-p1-native.csv,FC-4C-p1
+FC-4C,2,corpus/1968-vol2/images/p0128.png,750 2750 2260 3380,extractions/claude/curves-appc-b2/FC-4C/points-p2-native.csv,extractions/codex/curves-appc-b2/FC-4C/points-p2-native.csv,FC-4C-p2

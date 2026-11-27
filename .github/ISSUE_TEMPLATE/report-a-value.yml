@@ -1,0 +1,51 @@
+name: Report a problem with a value
+description: A number in the data that does not match its source page.
+title: "Value: <record id>, "
+labels: ["data correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every value in the data was read from a printed page of a report. Naming the page and the point exactly makes
+        the check fast. Each correction is checked against the page, and an accepted one is listed in the changelog of
+        the release that makes it. Feedback not meant to be public goes to Dan Negrut, negrut@wisc.edu.
+  - type: input
+    id: release
+    attributes:
+      label: Release
+      description: The release used, for example 1.0.0, or the date the website was read.
+    validations:
+      required: true
+  - type: input
+    id: record
+    attributes:
+      label: Record id
+      description: As shown on the test's page, for example b68-lpt-024.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Figure or table
+      description: For example Fig. 2-42, or Table 5-T3.
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The printed page and the PDF page, for example printed 2-77, PDF 102.
+  - type: textarea
+    id: value
+    attributes:
+      label: The value, and what is wrong with it
+      description: >-
+        Which point or cell (its row in observations.csv or runs.csv, or where it is on the figure), the value the data
+        give, and the value the page shows.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: How the page shows it, for example a description, a screenshot of the page, or a measurement.
+    validations:
+      required: true

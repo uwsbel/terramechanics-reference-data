@@ -1,0 +1,25 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-8,1,curve,trace,1,863.0,2063.41,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.,1.3e-06,42.99685,0.0044047,0.08361,piecewise extrapolated x
+FA-8,1,curve,trace,2,937.04,2052.5,5.0,5.0,,,0.0500012,43.13664,0.0037157,0.07074,piecewise
+FA-8,1,curve,trace,3,1011.07,2039.0,6.5,6.5,,,0.0999995,43.30968,0.0047305,0.09002,piecewise
+FA-8,1,curve,trace,4,1085.09,2024.0,6.5,6.5,,,0.1499966,43.50195,0.0047319,0.09001,piecewise
+FA-8,1,curve,trace,5,1159.11,2005.93,6.5,6.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.,0.2000016,43.7336,0.004733,0.09,piecewise
+FA-8,1,curve,trace,6,1235.28,1982.5,6.0,6.0,,,0.2499984,44.03403,0.0042693,0.08356,piecewise
+FA-8,1,curve,trace,7,1311.46,1956.0,7.5,7.5,,,0.2999999,44.37379,0.0052537,0.10283,piecewise
+FA-8,1,curve,trace,8,1387.64,1927.5,6.0,6.0,,,0.3499983,44.73914,0.0042679,0.08354,piecewise
+FA-8,1,curve,trace,9,1463.84,1904.57,7.0,7.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.,0.4000024,45.03359,0.0049238,0.09858,piecewise
+FA-8,1,curve,trace,10,1541.74,1878.0,7.5,7.5,,,0.4499987,45.38165,0.0051349,0.10523,piecewise
+FA-8,1,curve,trace,11,1619.67,1853.5,6.0,6.0,,,0.5000009,45.70249,0.0041705,0.08557,piecewise
+FA-8,1,curve,trace,12,1697.61,1829.5,6.0,6.0,,,0.5499971,46.01674,0.0041716,0.08564,piecewise
+FA-8,1,curve,trace,13,1775.58,1805.87,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.,0.6000006,46.32609,0.0041814,0.0857,piecewise
+FA-8,1,curve,trace,14,1853.37,1782.0,7.5,7.5,,,0.649999,46.63856,0.0051453,0.10547,piecewise
+FA-8,1,curve,trace,15,1931.14,1756.5,6.0,6.0,,,0.7,46.97241,0.0041802,0.08582,piecewise
+FA-8,1,curve,trace,16,2008.88,1732.5,6.0,6.0,,,0.7499972,47.28652,0.0041828,0.08589,piecewise
+FA-8,1,curve,trace,17,2086.61,1712.78,6.5,6.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.,0.8000002,47.54443,0.0045068,0.09251,piecewise
+FA-8,1,curve,trace,18,2164.69,1693.5,6.0,6.0,,,0.8500015,47.79653,0.0041655,0.08599,piecewise
+FA-8,1,curve,trace,19,2242.77,1674.5,6.0,6.0,,,0.9000017,48.04493,0.0041654,0.08603,piecewise
+FA-8,1,curve,trace,20,2320.85,1654.5,6.0,6.0,,,0.9500019,48.30643,0.0041652,0.08609,piecewise
+FA-8,1,curve,trace,21,2398.93,1632.14,6.5,6.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.,1.0000027,48.59888,0.0044999,0.09271,piecewise extrapolated x
+FA-8,1,curve,feature,1,863.0,2063.41,6.0,6.0,,First point. Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.,1.3e-06,42.99685,0.0044047,0.08361,piecewise extrapolated x
+FA-8,1,curve,feature,2,1159.11,2005.93,65,22,,"Rounded lower knee: initial shallow segment turns into the rising main segment; location broad, approximately Dr 0.16 to 0.24. Feature bounds describe the rounded transition region; trace bounds remain half the local stroke thickness.",0.2000016,43.7336,0.0442535,0.28964,piecewise
+FA-8,1,curve,feature,3,2398.93,1632.14,6.5,6.5,,Last point; peak (maximum of monotonically rising trace). Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.,1.0000027,48.59888,0.0044999,0.09271,piecewise extrapolated x

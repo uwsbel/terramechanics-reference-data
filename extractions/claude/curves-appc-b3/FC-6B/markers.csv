@@ -1,0 +1,112 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-6B,1,n4695,marker,1,706.0,1783.2,2,4,triangle-up,first marker; apex hidden under the short stroke that joins it to the n3815 square above; v from the base
+FC-6B,1,n4695,marker,2,824.8,1526.2,3,4,triangle-up,apex on the 2000 gridline; the shared n4695/n3815 line touches the left side; v from the base
+FC-6B,1,n4695,marker,3,931.7,1403.5,2,3,triangle-up,curve line enters the left base corner; u from the two sides
+FC-6B,1,n4695,marker,4,1047.5,1296.5,2,3,triangle-up,
+FC-6B,1,n4695,marker,5,1159.0,1214.5,2,4,triangle-up,3000 gridline crosses the lower part of the triangle
+FC-6B,1,n4695,marker,6,1334.8,1092.5,2,3,triangle-up,
+FC-6B,1,n4695,marker,7,1453.3,1028.5,2,3,triangle-up,
+FC-6B,1,n4695,marker,8,1567.0,984.5,2,3,triangle-up,
+FC-6B,1,n4695,marker,9,1800.5,900.5,2,3,triangle-up,right base corner close to the 200 gridline; no n4695 marker near x = 180 where the other series have one
+FC-6B,1,n4695,marker,10,1919.5,867.0,2,4,triangle-up,the curve line runs into the base from the left; v from apex and base
+FC-6B,1,n4695,marker,11,2089.0,863.5,3,3,triangle-up,"last marker; line touches the left side, right corner close to the 250 gridline"
+FC-6B,1,n3815,marker,1,703.9,1739.1,2,2,square,first marker; the shared line leaves its upper-right corner and a short stroke joins its bottom to the n4695 triangle below
+FC-6B,1,n3815,marker,2,824.5,1566.0,3,2,square,the shared n4695/n3815 line runs along its left side
+FC-6B,1,n3815,marker,3,936.9,1459.6,2,2,square,
+FC-6B,1,n3815,marker,4,1050.8,1387.9,2,2,square,
+FC-6B,1,n3815,marker,5,1162.2,1354.3,2,2,square,
+FC-6B,1,n3815,marker,6,1339.1,1242.5,2,2,square,
+FC-6B,1,n3815,marker,7,1461.3,1168.9,2,2,square,
+FC-6B,1,n3815,marker,8,1570.4,1133.1,2,2,square,
+FC-6B,1,n3815,marker,9,1685.5,1093.0,2,2,square,
+FC-6B,1,n3815,marker,10,1804.3,1049.0,3,2,square,right side on the 200 gridline
+FC-6B,1,n3815,marker,11,1922.9,1014.2,2,2,square,
+FC-6B,1,n3815,marker,12,2090.4,1000.8,3,2,square,last marker; right side on the 250 gridline
+FC-6B,1,n2934,marker,1,708.9,1838.5,2,3,triangle-down,first marker; the line starts at its upper-right corner
+FC-6B,1,n2934,marker,2,821.8,1727.5,2,3,triangle-down,
+FC-6B,1,n2934,marker,3,940.0,1677.5,3,4,triangle-down,the curve line runs along its top edge; right corner close to the 50 gridline; u from the apex
+FC-6B,1,n2934,marker,4,1051.3,1595.5,2,3,triangle-down,
+FC-6B,1,n2934,marker,5,1167.5,1529.5,2,3,triangle-down,top edge just below the 2000 gridline
+FC-6B,1,n2934,marker,6,1340.8,1451.5,2,3,triangle-down,
+FC-6B,1,n2934,marker,7,1458.7,1398.8,2,3,triangle-down,
+FC-6B,1,n2934,marker,8,1577.0,1361.2,2,3,triangle-down,
+FC-6B,1,n2934,marker,9,1688.3,1326.8,2,3,triangle-down,
+FC-6B,1,n2934,marker,10,1806.8,1289.5,3,3,triangle-down,right corner touches the 200 gridline and the line
+FC-6B,1,n2934,marker,11,1923.8,1265.5,2,3,triangle-down,
+FC-6B,1,n2934,marker,12,2095.0,1233.5,3,4,triangle-down,"last marker; right corner merged with the 250 gridline, top edge close to the 3000 gridline; u from the apex"
+FC-6B,1,n1761,marker,1,708.6,1933.7,2,2,circle,first marker
+FC-6B,1,n1761,marker,2,825.0,1866.0,2,2,circle,
+FC-6B,1,n1761,marker,3,942.7,1812.6,2,3,circle,top of the circle on the 1000 gridline
+FC-6B,1,n1761,marker,4,1052.5,1776.2,2,2,circle,
+FC-6B,1,n1761,marker,5,1165.0,1741.2,2,2,circle,
+FC-6B,1,n1761,marker,6,1342.5,1700.1,2,2,circle,
+FC-6B,1,n1761,marker,7,1457.0,1672.5,2,2,circle,
+FC-6B,1,n1761,marker,8,1575.8,1656.1,2,2,circle,
+FC-6B,1,n1761,marker,9,1684.1,1637.0,2,2,circle,
+FC-6B,1,n1761,marker,10,1807.4,1630.7,3,2,circle,right side touches the 200 gridline
+FC-6B,1,n1761,marker,11,1920.7,1627.7,2,2,circle,
+FC-6B,1,n1761,marker,12,2088.0,1623.1,2,2,circle,last marker
+FC-6B,1,n734,marker,1,712.2,1979.8,2,2,plus,first marker
+FC-6B,1,n734,marker,2,822.3,1976.7,2,2,plus,
+FC-6B,1,n734,marker,3,939.1,1976.2,2,2,plus,right arm close to the 50 gridline
+FC-6B,1,n734,marker,4,1054.3,1976.5,2,2,plus,
+FC-6B,1,n734,marker,5,1168.3,1984.8,2,2,plus,left arm touches the end of a line dash; sits below the drawn line
+FC-6B,1,n734,marker,6,1336.9,1986.9,2,2,plus,sits below the drawn line
+FC-6B,1,n734,marker,7,1460.0,1982.1,2,2,plus,
+FC-6B,1,n734,marker,8,1575.9,1988.4,2,2,plus,sits below the drawn line
+FC-6B,1,n734,marker,9,1695.7,1986.1,2,2,plus,
+FC-6B,1,n734,marker,10,1818.8,1997.2,3,2,plus,vertical bar hidden in the 200 gridline; u from the horizontal bar
+FC-6B,1,n734,marker,11,1925.1,1996.6,2,2,plus,
+FC-6B,1,n734,marker,12,2101.2,2001.2,2,2,plus,last marker; right arm touches the 250 gridline
+FC-6B,2,n734,marker,1,643.8,2600.7,3,2,plus,on the left frame; vertical bar hidden in the frame line
+FC-6B,2,n734,marker,2,724.6,2602.1,2,2,plus,
+FC-6B,2,n734,marker,3,838.8,2604.7,2,2,plus,
+FC-6B,2,n734,marker,4,959.1,2604.4,3,2,plus,on the 50 gridline
+FC-6B,2,n734,marker,5,1066.3,2609.6,2,2,plus,
+FC-6B,2,n734,marker,6,1183.3,2611.3,2,2,plus,
+FC-6B,2,n734,marker,7,1306.3,2607.0,2,2,plus,
+FC-6B,2,n734,marker,8,1413.3,2608.0,2,2,plus,
+FC-6B,2,n734,marker,9,1530.6,2610.4,3,2,plus,on the 150 gridline
+FC-6B,2,n734,marker,10,1650.2,2609.3,2,2,plus,
+FC-6B,2,n734,marker,11,1763.3,2609.9,2,2,plus,a short stray dash to its right (u 1773 to 1810) is not a drawn line
+FC-6B,2,n734,marker,12,1935.3,2608.4,2,2,plus,
+FC-6B,2,n734,marker,13,2115.0,2608.6,3,2,plus,on the 250 gridline
+FC-6B,2,n1761,marker,1,648.5,2903.0,3,2,circle,on the left frame
+FC-6B,2,n1761,marker,2,729.5,2915.2,2,2,circle,
+FC-6B,2,n1761,marker,3,847.4,2928.2,2,2,circle,
+FC-6B,2,n1761,marker,4,960.0,2932.6,3,2,circle,on the 50 gridline
+FC-6B,2,n1761,marker,5,1069.9,2935.7,2,2,circle,
+FC-6B,2,n1761,marker,6,1192.6,2939.2,2,2,circle,
+FC-6B,2,n1761,marker,7,1304.3,2939.1,2,2,circle,
+FC-6B,2,n1761,marker,8,1423.3,2934.6,2,2,circle,
+FC-6B,2,n1761,marker,9,1531.7,2933.8,3,2,circle,on the 150 gridline
+FC-6B,2,n1761,marker,10,1644.7,2925.0,2,2,circle,
+FC-6B,2,n1761,marker,11,1764.5,2912.9,2,2,circle,
+FC-6B,2,n1761,marker,12,1941.0,2903.2,2,2,circle,
+FC-6B,2,n1761,marker,13,2116.6,2895.2,3,2,circle,on the 250 gridline
+FC-6B,2,n2934,marker,1,649.5,3112.5,3,4,triangle-down,on the left frame; apex hidden in the frame line
+FC-6B,2,n2934,marker,2,714.5,3125.5,2,3,triangle-down,
+FC-6B,2,n2934,marker,3,830.8,3139.5,2,3,triangle-down,
+FC-6B,2,n2934,marker,4,950.5,3147.8,3,3,triangle-down,right corner on the 50 gridline; u from the apex
+FC-6B,2,n2934,marker,5,1064.7,3147.8,2,3,triangle-down,
+FC-6B,2,n2934,marker,6,1184.7,3151.5,2,3,triangle-down,
+FC-6B,2,n2934,marker,7,1297.8,3154.5,2,3,triangle-down,
+FC-6B,2,n2934,marker,8,1410.3,3150.8,2,3,triangle-down,
+FC-6B,2,n2934,marker,9,1531.3,3149.2,3,4,triangle-down,on the 150 gridline; apex hidden in the gridline
+FC-6B,2,n2934,marker,10,1644.7,3146.2,2,3,triangle-down,
+FC-6B,2,n2934,marker,11,1760.3,3144.8,2,3,triangle-down,outline broken on the right side (scan)
+FC-6B,2,n2934,marker,12,1935.0,3135.8,2,3,triangle-down,
+FC-6B,2,n2934,marker,13,2118.8,3121.5,3,4,triangle-down,on the 250 gridline; apex hidden in the gridline
+FC-6B,2,n4695,marker,1,649.8,3178.2,3,4,triangle-up,on the left frame
+FC-6B,2,n4695,marker,2,709.7,3185.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,3,826.3,3207.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,4,946.5,3206.8,3,3,triangle-up,right base corner on the 50 gridline; u from the apex
+FC-6B,2,n4695,marker,5,1059.3,3219.0,2,3,triangle-up,
+FC-6B,2,n4695,marker,6,1173.2,3218.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,7,1293.7,3217.2,2,4,triangle-up,outline thicker than the others (H about 33 px); v averaged from apex and base
+FC-6B,2,n4695,marker,8,1405.3,3219.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,9,1526.3,3214.2,3,3,triangle-up,on the 150 gridline
+FC-6B,2,n4695,marker,10,1633.7,3213.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,11,1753.5,3215.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,12,1925.5,3203.5,2,3,triangle-up,
+FC-6B,2,n4695,marker,13,2120.0,3196.0,3,4,triangle-up,on the 250 gridline

@@ -1,0 +1,2469 @@
+{
+  "FA-3": {
+    "mean": {
+      "slope": 0.20103444430499337,
+      "intercept": 2657.4723524093374,
+      "dash_spans": [
+        [
+          902,
+          2435
+        ]
+      ],
+      "points": [
+        {
+          "u": 901.0,
+          "v": 2835.29,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1053.62,
+          "v": 2869.22,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1206.94,
+          "v": 2899.73,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1359.6,
+          "v": 2930.67,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1513.05,
+          "v": 2961.3,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1664.28,
+          "v": 2991.63,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1822.7,
+          "v": 3024.19,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1972.9,
+          "v": 3052.0,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 2126.57,
+          "v": 3087.86,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2279.54,
+          "v": 3115.41,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2435.0,
+          "v": 3150.13,
+          "bound": 3.5,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.20707804011470043,
+      "intercept": 2608.342109821569,
+      "dash_spans": [
+        [
+          901,
+          994
+        ],
+        [
+          1022,
+          1088
+        ],
+        [
+          1104,
+          1273
+        ],
+        [
+          1305,
+          1370
+        ],
+        [
+          1396,
+          1464
+        ],
+        [
+          1495,
+          1565
+        ],
+        [
+          1603,
+          1652
+        ],
+        [
+          1701,
+          1767
+        ],
+        [
+          1794,
+          1861
+        ],
+        [
+          1904,
+          1969
+        ],
+        [
+          2009,
+          2080
+        ],
+        [
+          2110,
+          2190
+        ],
+        [
+          2213,
+          2274
+        ],
+        [
+          2318,
+          2435
+        ]
+      ],
+      "points": [
+        {
+          "u": 901.0,
+          "v": 2791.79,
+          "bound": 3.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1053.24,
+          "v": 2826.24,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1206.58,
+          "v": 2857.58,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1359.26,
+          "v": 2892.54,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1512.71,
+          "v": 2923.66,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1650,
+          "v": 2948,
+          "bound": 3.5,
+          "note": "target Dr=0.5; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.5
+        },
+        {
+          "u": 1822.43,
+          "v": 2985.98,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1969.0,
+          "v": 3017.0,
+          "bound": 5.5,
+          "note": "target Dr=0.7; gap: moved -3.63 px to nearest dash end",
+          "target": 0.7
+        },
+        {
+          "u": 2126.34,
+          "v": 3049.38,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2270,
+          "v": 3078,
+          "bound": 4,
+          "note": "target Dr=0.9; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.9
+        },
+        {
+          "u": 2435.0,
+          "v": 3114.54,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.18972954231985611,
+      "intercept": 2706.8890067826733,
+      "dash_spans": [
+        [
+          902,
+          943
+        ],
+        [
+          959,
+          1027
+        ],
+        [
+          1056,
+          1115
+        ],
+        [
+          1137,
+          1198
+        ],
+        [
+          1224,
+          1282
+        ],
+        [
+          1311,
+          1369
+        ],
+        [
+          1390,
+          1535
+        ],
+        [
+          1551,
+          1620
+        ],
+        [
+          1656,
+          1721
+        ],
+        [
+          1744,
+          1806
+        ],
+        [
+          1846,
+          1903
+        ],
+        [
+          1922,
+          1977
+        ],
+        [
+          2017,
+          2071
+        ],
+        [
+          2117,
+          2181
+        ],
+        [
+          2201,
+          2257
+        ],
+        [
+          2292,
+          2342
+        ],
+        [
+          2385,
+          2435
+        ]
+      ],
+      "points": [
+        {
+          "u": 901.0,
+          "v": 2873.76,
+          "bound": 3.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1056.0,
+          "v": 2907.5,
+          "bound": 4.0,
+          "note": "target Dr=0.1; gap: moved +2.05 px to nearest dash end",
+          "target": 0.1
+        },
+        {
+          "u": 1198.0,
+          "v": 2935.0,
+          "bound": 1.5,
+          "note": "target Dr=0.2; gap: moved -9.24 px to nearest dash end",
+          "target": 0.2
+        },
+        {
+          "u": 1359.88,
+          "v": 2964.59,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1513.32,
+          "v": 2994.48,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1664.51,
+          "v": 3023.69,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1806,
+          "v": 3053.5,
+          "bound": 6.0,
+          "note": "target Dr=0.6; gap: nearest dash end checked by eye",
+          "target": 0.6
+        },
+        {
+          "u": 1973.09,
+          "v": 3079.0,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 2126.73,
+          "v": 3110.53,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2292.0,
+          "v": 3143.5,
+          "bound": 3.0,
+          "note": "target Dr=0.9; gap: moved +12.40 px to nearest dash end",
+          "target": 0.9
+        },
+        {
+          "u": 2435,
+          "v": 3169,
+          "bound": 4,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-7": {
+    "mean": {
+      "slope": 0.37727040902970715,
+      "intercept": 1606.4987499449094,
+      "dash_spans": [
+        [
+          640,
+          2166
+        ]
+      ],
+      "points": [
+        {
+          "u": 635.0,
+          "v": 1844.67,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 788.65,
+          "v": 1903.8,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 940.36,
+          "v": 1961.33,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1092.97,
+          "v": 2019.04,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1244.96,
+          "v": 2075.75,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1396.32,
+          "v": 2132.93,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1554.37,
+          "v": 2191.68,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1703.96,
+          "v": 2249.14,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1857.43,
+          "v": 2307.23,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2012.27,
+          "v": 2365.02,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2169.37,
+          "v": 2424.57,
+          "bound": 3.5,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.37150228558465026,
+      "intercept": 1551.0670861559813,
+      "dash_spans": [
+        [
+          640,
+          720
+        ],
+        [
+          746,
+          834
+        ],
+        [
+          859,
+          965
+        ],
+        [
+          989,
+          1091
+        ],
+        [
+          1115,
+          1214
+        ],
+        [
+          1233,
+          1337
+        ],
+        [
+          1356,
+          1587
+        ],
+        [
+          1603,
+          1703
+        ],
+        [
+          1722,
+          1809
+        ],
+        [
+          1834,
+          1932
+        ],
+        [
+          1954,
+          2049
+        ],
+        [
+          2086,
+          2167
+        ]
+      ],
+      "points": [
+        {
+          "u": 635.0,
+          "v": 1788.0,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 789.26,
+          "v": 1843.63,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 940.97,
+          "v": 1900.91,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1091.0,
+          "v": 1956.0,
+          "bound": 4.5,
+          "note": "target Dr=0.3; gap: moved -2.62 px to nearest dash end",
+          "target": 0.3
+        },
+        {
+          "u": 1245.61,
+          "v": 2014.26,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1397.02,
+          "v": 2069.48,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1555.13,
+          "v": 2128.26,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1703,
+          "v": 2181.0,
+          "bound": 3.5,
+          "note": "target Dr=0.7; gap: nearest dash end checked by eye",
+          "target": 0.7
+        },
+        {
+          "u": 1858.26,
+          "v": 2241.86,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2013.35,
+          "v": 2299.1,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2170.0,
+          "v": 2355.6,
+          "bound": 4.5,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.3714076176225819,
+      "intercept": 1673.6164205716202,
+      "dash_spans": [
+        [
+          638,
+          712
+        ],
+        [
+          737,
+          962
+        ],
+        [
+          989,
+          1079
+        ],
+        [
+          1104,
+          1205
+        ],
+        [
+          1233,
+          1328
+        ],
+        [
+          1344,
+          1448
+        ],
+        [
+          1470,
+          1563
+        ],
+        [
+          1591,
+          1682
+        ],
+        [
+          1705,
+          1806
+        ],
+        [
+          1831,
+          1926
+        ],
+        [
+          1945,
+          2116
+        ],
+        [
+          2132,
+          2166
+        ]
+      ],
+      "points": [
+        {
+          "u": 635.0,
+          "v": 1911.2,
+          "bound": 3.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 788.01,
+          "v": 1966.21,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 939.74,
+          "v": 2023.19,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1105,
+          "v": 2083,
+          "bound": 3.5,
+          "note": "target Dr=0.3; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.3
+        },
+        {
+          "u": 1244.34,
+          "v": 2135.58,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1395.67,
+          "v": 2191.82,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1553.68,
+          "v": 2248.92,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1717,
+          "v": 2311,
+          "bound": 3.5,
+          "note": "target Dr=0.7; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.7
+        },
+        {
+          "u": 1856.73,
+          "v": 2363.59,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2011.38,
+          "v": 2420.66,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2168.64,
+          "v": 2477.99,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-19": {
+    "mean": {
+      "slope": 0.5813131328459117,
+      "intercept": 680.6437354410931,
+      "dash_spans": [
+        [
+          757,
+          2309
+        ]
+      ],
+      "points": [
+        {
+          "u": 752.0,
+          "v": 1125.5,
+          "bound": 4.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 905.95,
+          "v": 1205.95,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1060.24,
+          "v": 1294.65,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1217.61,
+          "v": 1390.74,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1371.0,
+          "v": 1478.34,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1528.55,
+          "v": 1568.88,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1684.44,
+          "v": 1659.71,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1842.58,
+          "v": 1752.35,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1997.39,
+          "v": 1841.39,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2154.11,
+          "v": 1932.04,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2313.79,
+          "v": 2022.61,
+          "bound": 3.5,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.39439790422352367,
+      "intercept": 769.796570826456,
+      "dash_spans": [
+        [
+          755,
+          834
+        ],
+        [
+          853,
+          946
+        ],
+        [
+          968,
+          1063
+        ],
+        [
+          1083,
+          1306
+        ],
+        [
+          1323,
+          1437
+        ],
+        [
+          1456,
+          1559
+        ],
+        [
+          1578,
+          1665
+        ],
+        [
+          1683,
+          1793
+        ],
+        [
+          1810,
+          1924
+        ],
+        [
+          1942,
+          2049
+        ],
+        [
+          2071,
+          2173
+        ],
+        [
+          2191,
+          2305
+        ]
+      ],
+      "points": [
+        {
+          "u": 752.0,
+          "v": 1066.4,
+          "bound": 3.75,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 904.44,
+          "v": 1123.58,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1058.2,
+          "v": 1186.7,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1215.01,
+          "v": 1249.83,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1367.89,
+          "v": 1309.27,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1525.22,
+          "v": 1371.09,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1683.0,
+          "v": 1432.5,
+          "bound": 6.0,
+          "note": "target Dr=0.6; gap: moved +2.56 px to nearest dash end",
+          "target": 0.6
+        },
+        {
+          "u": 1838.32,
+          "v": 1495.66,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1992.47,
+          "v": 1555.18,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2149.04,
+          "v": 1616.95,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2309.45,
+          "v": 1680.64,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.7397547530747834,
+      "intercept": 617.3394360367134,
+      "dash_spans": [
+        [
+          757,
+          819
+        ],
+        [
+          848,
+          944
+        ],
+        [
+          966,
+          1060
+        ],
+        [
+          1077,
+          1283
+        ],
+        [
+          1300,
+          1395
+        ],
+        [
+          1419,
+          1746
+        ],
+        [
+          1764,
+          1843
+        ],
+        [
+          1863,
+          2188
+        ],
+        [
+          2209,
+          2314
+        ]
+      ],
+      "points": [
+        {
+          "u": 752.0,
+          "v": 1174.17,
+          "bound": 4.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 907.47,
+          "v": 1287.11,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1060.0,
+          "v": 1400.5,
+          "bound": 5.0,
+          "note": "target Dr=0.2; gap: moved -2.22 px to nearest dash end",
+          "target": 0.2
+        },
+        {
+          "u": 1220.06,
+          "v": 1520.78,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1373.88,
+          "v": 1634.88,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1531.61,
+          "v": 1750.13,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1688.07,
+          "v": 1866.08,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1843.0,
+          "v": 1980.0,
+          "bound": 4.5,
+          "note": "target Dr=0.7; gap: moved -3.42 px to nearest dash end",
+          "target": 0.7
+        },
+        {
+          "u": 2001.81,
+          "v": 2098.43,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2158.63,
+          "v": 2213.17,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2314.0,
+          "v": 2328.04,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-23": {
+    "mean": {
+      "slope": 0.8158088761474902,
+      "intercept": 1330.9773237210693,
+      "dash_spans": [
+        [
+          848,
+          1893
+        ],
+        [
+          1909,
+          1932
+        ],
+        [
+          1947,
+          2046
+        ],
+        [
+          2073,
+          2091
+        ],
+        [
+          2127,
+          2160
+        ],
+        [
+          2175,
+          2236
+        ]
+      ],
+      "points": [
+        {
+          "u": 846.0,
+          "v": 2018.79,
+          "bound": 5.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 979.21,
+          "v": 2130.02,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1118.61,
+          "v": 2245.26,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1258.3,
+          "v": 2360.4,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1393.94,
+          "v": 2471.49,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1533.7,
+          "v": 2585.19,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1673.04,
+          "v": 2698.72,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1814.9,
+          "v": 2815.2,
+          "bound": 4.25,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1955.92,
+          "v": 2930.27,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2093.49,
+          "v": 3040.74,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2239.0,
+          "v": 3155.95,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.8874525040633762,
+      "intercept": 642.9930598210486,
+      "dash_spans": [
+        [
+          842,
+          986
+        ],
+        [
+          1001,
+          1210
+        ],
+        [
+          1226,
+          1324
+        ],
+        [
+          1340,
+          1446
+        ],
+        [
+          1467,
+          1556
+        ],
+        [
+          1571,
+          1662
+        ],
+        [
+          1681,
+          1757
+        ],
+        [
+          1777,
+          1875
+        ],
+        [
+          1894,
+          2101
+        ],
+        [
+          2119,
+          2229
+        ]
+      ],
+      "points": [
+        {
+          "u": 836,
+          "v": 1377,
+          "bound": 4,
+          "note": "first point; stroke meets plot frame; endpoint checked by eye",
+          "target": 0.0
+        },
+        {
+          "u": 969.92,
+          "v": 1501.88,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1100,
+          "v": 1620.0,
+          "bound": 4.5,
+          "note": "target Dr=0.2; gap: nearest dash end checked by eye",
+          "target": 0.2
+        },
+        {
+          "u": 1249.18,
+          "v": 1753.05,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1384.3,
+          "v": 1873.04,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1524.8,
+          "v": 1997.3,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1654,
+          "v": 2111,
+          "bound": 3.5,
+          "note": "target Dr=0.6; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.6
+        },
+        {
+          "u": 1806.58,
+          "v": 2246.44,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1947.77,
+          "v": 2371.94,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2085.65,
+          "v": 2493.92,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2230.0,
+          "v": 2620.64,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.7368924613779707,
+      "intercept": 1890.901112105585,
+      "dash_spans": [
+        [
+          856,
+          1259
+        ],
+        [
+          1280,
+          1538
+        ],
+        [
+          1561,
+          1685
+        ],
+        [
+          1708,
+          1969
+        ],
+        [
+          1987,
+          2097
+        ],
+        [
+          2132,
+          2241
+        ]
+      ],
+      "points": [
+        {
+          "u": 852.0,
+          "v": 2518.45,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 986.46,
+          "v": 2617.43,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1140,
+          "v": 2731,
+          "bound": 3.5,
+          "note": "target Dr=0.2; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.2
+        },
+        {
+          "u": 1259,
+          "v": 2816.0,
+          "bound": 6.5,
+          "note": "target Dr=0.3; gap: nearest dash end checked by eye",
+          "target": 0.3
+        },
+        {
+          "u": 1401.3,
+          "v": 2924.06,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1538.0,
+          "v": 3023.0,
+          "bound": 5.5,
+          "note": "target Dr=0.5; gap: moved -2.44 px to nearest dash end",
+          "target": 0.5
+        },
+        {
+          "u": 1679.95,
+          "v": 3128.92,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1821.09,
+          "v": 3231.42,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1961.94,
+          "v": 3336.88,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2097,
+          "v": 3435.5,
+          "bound": 3.5,
+          "note": "target Dr=0.9; gap: nearest dash end checked by eye",
+          "target": 0.9
+        },
+        {
+          "u": 2244.8,
+          "v": 3542.62,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-27": {
+    "mean": {
+      "slope": 0.3056353929832868,
+      "intercept": 2946.425570020571,
+      "dash_spans": [
+        [
+          690,
+          729
+        ],
+        [
+          747,
+          1596
+        ],
+        [
+          1613,
+          2221
+        ]
+      ],
+      "points": [
+        {
+          "u": 685,
+          "v": 3159,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame; endpoint checked by eye",
+          "target": 0.0
+        },
+        {
+          "u": 838.66,
+          "v": 3204.67,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 991.62,
+          "v": 3250.39,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1147.81,
+          "v": 3297.01,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1300.0,
+          "v": 3344.06,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1452.59,
+          "v": 3390.08,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1609.31,
+          "v": 3440.56,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1764.62,
+          "v": 3485.16,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1918.98,
+          "v": 3532.59,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2072.91,
+          "v": 3580.06,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2224,
+          "v": 3627,
+          "bound": 4.5,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.2859188420014838,
+      "intercept": 2947.1480644568633,
+      "dash_spans": [
+        [
+          690,
+          807
+        ],
+        [
+          834,
+          951
+        ],
+        [
+          981,
+          1118
+        ],
+        [
+          1150,
+          1281
+        ],
+        [
+          1301,
+          1431
+        ],
+        [
+          1456,
+          1596
+        ],
+        [
+          1624,
+          1705
+        ],
+        [
+          1721,
+          1768
+        ],
+        [
+          1795,
+          1923
+        ],
+        [
+          1942,
+          2077
+        ],
+        [
+          2101,
+          2178
+        ],
+        [
+          2194,
+          2221
+        ]
+      ],
+      "points": [
+        {
+          "u": 685.07,
+          "v": 3148.3,
+          "bound": 5.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 838.49,
+          "v": 3186.69,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 991.43,
+          "v": 3227.83,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1150.0,
+          "v": 3277.5,
+          "bound": 5.0,
+          "note": "target Dr=0.3; gap: moved +2.41 px to nearest dash end",
+          "target": 0.3
+        },
+        {
+          "u": 1314,
+          "v": 3323.0,
+          "bound": 4.5,
+          "note": "target Dr=0.4; gap: nearest dash end checked by eye",
+          "target": 0.4
+        },
+        {
+          "u": 1459,
+          "v": 3364,
+          "bound": 3.5,
+          "note": "target Dr=0.5; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.5
+        },
+        {
+          "u": 1625,
+          "v": 3413,
+          "bound": 3.5,
+          "note": "target Dr=0.6; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.6
+        },
+        {
+          "u": 1764.33,
+          "v": 3451.34,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1918.65,
+          "v": 3496.5,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2072.6,
+          "v": 3538.16,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2224,
+          "v": 3577,
+          "bound": 4,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.33767825886492436,
+      "intercept": 2931.853578864603,
+      "dash_spans": [
+        [
+          690,
+          800
+        ],
+        [
+          831,
+          962
+        ],
+        [
+          984,
+          1127
+        ],
+        [
+          1156,
+          1284
+        ],
+        [
+          1310,
+          1434
+        ],
+        [
+          1468,
+          1591
+        ],
+        [
+          1636,
+          1762
+        ],
+        [
+          1799,
+          1932
+        ],
+        [
+          1972,
+          2100
+        ],
+        [
+          2125,
+          2221
+        ]
+      ],
+      "points": [
+        {
+          "u": 685,
+          "v": 3171,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame; endpoint checked by eye",
+          "target": 0.0
+        },
+        {
+          "u": 838.78,
+          "v": 3214.48,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 991.79,
+          "v": 3268.26,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1156.0,
+          "v": 3323.0,
+          "bound": 4.5,
+          "note": "target Dr=0.3; gap: moved +7.97 px to nearest dash end",
+          "target": 0.3
+        },
+        {
+          "u": 1284,
+          "v": 3366.0,
+          "bound": 2.5,
+          "note": "target Dr=0.4; gap: nearest dash end checked by eye",
+          "target": 0.4
+        },
+        {
+          "u": 1468.0,
+          "v": 3426.5,
+          "bound": 3.0,
+          "note": "target Dr=0.5; gap: moved +15.15 px to nearest dash end",
+          "target": 0.5
+        },
+        {
+          "u": 1591.0,
+          "v": 3466.5,
+          "bound": 4.0,
+          "note": "target Dr=0.6; gap: moved -18.65 px to nearest dash end",
+          "target": 0.6
+        },
+        {
+          "u": 1762,
+          "v": 3528,
+          "bound": 3.5,
+          "note": "target Dr=0.7; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.7
+        },
+        {
+          "u": 1919.4,
+          "v": 3580.44,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2073.31,
+          "v": 3630.77,
+          "bound": 4.75,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2224,
+          "v": 3686,
+          "bound": 5,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-39": {
+    "mean": {
+      "slope": 0.7287989902015917,
+      "intercept": 1376.2525878917186,
+      "dash_spans": [
+        [
+          876,
+          2257
+        ]
+      ],
+      "points": [
+        {
+          "u": 874.0,
+          "v": 2010.49,
+          "bound": 3.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1010.98,
+          "v": 2110.98,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1148.09,
+          "v": 2213.02,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1287.87,
+          "v": 2315.91,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1424.94,
+          "v": 2416.04,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1564.29,
+          "v": 2517.68,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1704.2,
+          "v": 2618.48,
+          "bound": 3.25,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1844.66,
+          "v": 2720.6,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1983.5,
+          "v": 2820.82,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2121.62,
+          "v": 2921.9,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2259.0,
+          "v": 3021.97,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.7269628433393283,
+      "intercept": 1305.3507977605063,
+      "dash_spans": [
+        [
+          876,
+          958
+        ],
+        [
+          979,
+          1177
+        ],
+        [
+          1198,
+          1284
+        ],
+        [
+          1301,
+          1389
+        ],
+        [
+          1406,
+          1504
+        ],
+        [
+          1527,
+          1608
+        ],
+        [
+          1628,
+          1717
+        ],
+        [
+          1736,
+          1926
+        ],
+        [
+          1946,
+          2023
+        ],
+        [
+          2044,
+          2125
+        ],
+        [
+          2141,
+          2257
+        ]
+      ],
+      "points": [
+        {
+          "u": 873.0,
+          "v": 1936.7,
+          "bound": 3.75,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1010.34,
+          "v": 2037.42,
+          "bound": 4.75,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1147.43,
+          "v": 2140.44,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1284.0,
+          "v": 2239.0,
+          "bound": 4.5,
+          "note": "target Dr=0.3; gap: moved -3.16 px to nearest dash end",
+          "target": 0.3
+        },
+        {
+          "u": 1424.21,
+          "v": 2342.62,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1563.62,
+          "v": 2442.04,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1703.46,
+          "v": 2542.31,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1855,
+          "v": 2653.5,
+          "bound": 3.0,
+          "note": "target Dr=0.7; gap: nearest dash end checked by eye",
+          "target": 0.7
+        },
+        {
+          "u": 1982.69,
+          "v": 2744.55,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2120.87,
+          "v": 2846.05,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2259.0,
+          "v": 2946.99,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.7222687409946216,
+      "intercept": 1456.8298351910435,
+      "dash_spans": [
+        [
+          876,
+          950
+        ],
+        [
+          969,
+          1061
+        ],
+        [
+          1085,
+          1197
+        ],
+        [
+          1216,
+          1345
+        ],
+        [
+          1360,
+          1639
+        ],
+        [
+          1664,
+          1809
+        ],
+        [
+          1829,
+          1942
+        ],
+        [
+          1964,
+          2058
+        ],
+        [
+          2083,
+          2176
+        ],
+        [
+          2192,
+          2257
+        ]
+      ],
+      "points": [
+        {
+          "u": 874.0,
+          "v": 2086.24,
+          "bound": 4.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1011.64,
+          "v": 2185.8,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1148.74,
+          "v": 2286.79,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1288.57,
+          "v": 2389.47,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1425.64,
+          "v": 2488.18,
+          "bound": 3.25,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1564.93,
+          "v": 2588.03,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1704.89,
+          "v": 2687.81,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1845.33,
+          "v": 2789.82,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 1984.24,
+          "v": 2889.01,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2122.29,
+          "v": 2988.85,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2259.0,
+          "v": 3086.9,
+          "bound": 5.0,
+          "note": "last point; stroke meets plot frame",
+          "target": 1.0
+        }
+      ]
+    }
+  },
+  "FA-47": {
+    "mean": {
+      "slope": 0.42168918957916884,
+      "intercept": 2007.490828793657,
+      "dash_spans": [
+        [
+          892,
+          2281
+        ]
+      ],
+      "points": [
+        {
+          "u": 889.02,
+          "v": 2384.6,
+          "bound": 4.25,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1029.05,
+          "v": 2441.91,
+          "bound": 3.25,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1167.98,
+          "v": 2500.97,
+          "bound": 3.75,
+          "note": "",
+          "target": 0.2
+        },
+        {
+          "u": 1309.29,
+          "v": 2559.77,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1446.55,
+          "v": 2617.82,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1585.45,
+          "v": 2675.23,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1725.78,
+          "v": 2734.52,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1867.13,
+          "v": 2793.62,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 2006.61,
+          "v": 2851.83,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2146.11,
+          "v": 2909.89,
+          "bound": 3.5,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2284,
+          "v": 2975,
+          "bound": 5,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4",
+          "target": 1.0
+        }
+      ]
+    },
+    "upper": {
+      "slope": 0.4502621535127041,
+      "intercept": 1935.833096875593,
+      "dash_spans": [
+        [
+          892,
+          999
+        ],
+        [
+          1026,
+          1138
+        ],
+        [
+          1165,
+          1312
+        ],
+        [
+          1350,
+          1480
+        ],
+        [
+          1507,
+          1663
+        ],
+        [
+          1691,
+          1825
+        ],
+        [
+          1850,
+          1971
+        ],
+        [
+          1991,
+          2113
+        ],
+        [
+          2140,
+          2281
+        ]
+      ],
+      "points": [
+        {
+          "u": 889.0,
+          "v": 2336.05,
+          "bound": 3.5,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1027.96,
+          "v": 2401.17,
+          "bound": 5.0,
+          "note": "",
+          "target": 0.1
+        },
+        {
+          "u": 1178,
+          "v": 2468.0,
+          "bound": 3.5,
+          "note": "target Dr=0.2; gap: nearest dash end checked by eye",
+          "target": 0.2
+        },
+        {
+          "u": 1308.37,
+          "v": 2525.15,
+          "bound": 4.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1445.73,
+          "v": 2587.63,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1584.77,
+          "v": 2648.11,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1725.18,
+          "v": 2711.25,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1866.64,
+          "v": 2773.79,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.7
+        },
+        {
+          "u": 2006.21,
+          "v": 2836.13,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.8
+        },
+        {
+          "u": 2145.84,
+          "v": 2898.58,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.9
+        },
+        {
+          "u": 2277,
+          "v": 2963,
+          "bound": 3.5,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4",
+          "target": 1.0
+        }
+      ]
+    },
+    "lower": {
+      "slope": 0.38675092574833814,
+      "intercept": 2090.279083710256,
+      "dash_spans": [
+        [
+          898,
+          1016
+        ],
+        [
+          1042,
+          1167
+        ],
+        [
+          1190,
+          1329
+        ],
+        [
+          1355,
+          1488
+        ],
+        [
+          1508,
+          1647
+        ],
+        [
+          1673,
+          1819
+        ],
+        [
+          1870,
+          1986
+        ],
+        [
+          2009,
+          2137
+        ],
+        [
+          2164,
+          2281
+        ]
+      ],
+      "points": [
+        {
+          "u": 891.0,
+          "v": 2434.87,
+          "bound": 2.0,
+          "note": "first point; stroke meets plot frame",
+          "target": 0.0
+        },
+        {
+          "u": 1042.0,
+          "v": 2496.0,
+          "bound": 4.5,
+          "note": "target Dr=0.1; gap: moved +11.74 px to nearest dash end",
+          "target": 0.1
+        },
+        {
+          "u": 1167.0,
+          "v": 2541.5,
+          "bound": 4.0,
+          "note": "target Dr=0.2; gap: moved -2.08 px to nearest dash end",
+          "target": 0.2
+        },
+        {
+          "u": 1310.27,
+          "v": 2597.58,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.3
+        },
+        {
+          "u": 1447.41,
+          "v": 2650.11,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.4
+        },
+        {
+          "u": 1586.17,
+          "v": 2702.51,
+          "bound": 4.5,
+          "note": "",
+          "target": 0.5
+        },
+        {
+          "u": 1726.39,
+          "v": 2757.62,
+          "bound": 3.0,
+          "note": "",
+          "target": 0.6
+        },
+        {
+          "u": 1870.0,
+          "v": 2817.5,
+          "bound": 7.0,
+          "note": "target Dr=0.7; gap: moved +2.40 px to nearest dash end",
+          "target": 0.7
+        },
+        {
+          "u": 2018,
+          "v": 2874,
+          "bound": 3.5,
+          "note": "target Dr=0.8; gap: nearest dash end checked by eye; grid ink excluded",
+          "target": 0.8
+        },
+        {
+          "u": 2137.0,
+          "v": 2916.5,
+          "bound": 4.0,
+          "note": "target Dr=0.9; gap: moved -9.32 px to nearest dash end",
+          "target": 0.9
+        },
+        {
+          "u": 2284,
+          "v": 2975,
+          "bound": 5,
+          "note": "last point; stroke meets plot frame; endpoint checked by eye; right end approaches common ink cluster; shared printed label 89.4",
+          "target": 1.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-3A,1,dr100-130,marker,1,1133.0,2816.0,2,2,square,"open square as in the legend (gamma = 75 pcf, Dr 1.0 to 1.3); outline u 1118-1148, v 2801-2831; sits on the 47 deg line where its dashed part ends and the solid part starts (line interrupted at the symbol)",731.677,1312.248,10.247,8.635,piecewise
+FC-3A,1,dr100-130,marker,2,1424.5,2479.0,2,2,square,"open square as in the legend (gamma = 75 pcf, Dr 1.0 to 1.3); outline u 1410-1439, v 2464-2494; lower-right corner touches the 47 deg line, centre about 19 px above it",1739.469,2467.105,9.125,8.46,piecewise
+FC-3A,1,dr100-130,marker,3,1777.5,2185.0,2,2,square,"open square as in the legend (gamma = 75 pcf, Dr 1.0 to 1.3); outline u 1762-1793, v 2170-2200 (small ink bump on the top edge at u 1783-1785 ignored); clear of the line, below it",2950.161,3486.699,8.548,8.863,piecewise
+FC-3A,1,dr100-130,marker,4,2023.5,1816.0,2,2,square,"open square as in the legend (gamma = 75 pcf, Dr 1.0 to 1.3); outline u 2008-2039, v 1800-1832; lower-right corner touches the 47 deg line (line interrupted at the symbol), centre about 23 px above it",3787.342,4757.749,8.491,8.461,piecewise
+FC-3A,1,dr100-130,marker,5,2276.0,1582.0,2,2,square,"open square as in the legend (gamma = 75 pcf, Dr 1.0 to 1.3); outline u 2261-2291, v 1566-1598; upper-left corner on the 47 deg line where the solid part ends; the next dash starts on its top edge; centre about 20 px below the line",4667.783,5585.558,14.757,12.996,piecewise
+FC-3A,1,dr0-15,marker,1,1136.0,2959.5,2,2,circle,"open circle as in the legend (gamma = 57.9 to 59.4 pcf, Dr 0 to .15); outline u 1121-1151, v 2945-2974; on the 38 deg line where its dashed part ends and the solid part starts (line attaches at the upper right)",740.811,823.056,10.245,9.348,piecewise
+FC-3A,1,dr0-15,marker,2,1425.0,2657.0,2,2,circle,"open circle as in the legend (gamma = 57.9 to 59.4 pcf, Dr 0 to .15); outline u 1410-1440, v 2642-2672; clear of the line, about 72 px above it",1739.752,1865.057,9.125,8.635,piecewise
+FC-3A,1,dr0-15,marker,3,1778.5,2407.5,2,2,circle,"open circle as in the legend (gamma = 57.9 to 59.4 pcf, Dr 0 to .15); outline u 1764-1793, v 2393-2422; clear of the line, above a gap in the solid line",2951.79,2715.44,8.548,8.46,piecewise
+FC-3A,1,dr0-15,marker,4,2023.5,2331.5,2,2,circle,"open circle as in the legend (gamma = 57.9 to 59.4 pcf, Dr 0 to .15); outline u 2009-2038, v 2317-2346; clear of the line, below it",3783.237,2976.588,8.491,8.46,piecewise
+FC-3A,1,dr0-15,marker,5,2278.5,2090.5,2,2,circle,"open circle as in the legend (gamma = 57.9 to 59.4 pcf, Dr 0 to .15); outline u 2264-2293, v 2075-2106; clear of the line, below its dashed part",4672.364,3831.292,14.797,8.863,piecewise
+FC-3A,1,dr100-130,trace,1,919.5,3051.5,5.5,5.5,,dashed; left end on the shear-stress axis (line ink runs into the axis),1.069,510.345,22.404,22.685,piecewise extrapolated x
+FC-3A,1,dr100-130,trace,2,984.0,2982.5,5.5,5.5,,"dashed; moved from x=250 (u=992, in a gap or at a dash tip) to the nearest ink",221.736,742.935,22.249,21.587,piecewise
+FC-3A,1,dr100-130,trace,3,1060.0,2898.2,5.5,5.5,,"dashed; moved from x=500 (u=1065, in a gap or at a dash tip) to the nearest ink",481.812,1028.163,22.237,20.74,piecewise
+FC-3A,1,dr100-130,trace,4,1158.0,2791.2,5.5,5.5,,"moved from x=750 (u=1137, on a symbol) to the nearest ink",817.232,1398.023,22.221,20.74,piecewise
+FC-3A,1,dr100-130,trace,5,1210.0,2734.1,5.5,5.5,,x=1000,995.244,1595.39,22.413,20.74,piecewise
+FC-3A,1,dr100-130,trace,6,1283.0,2654.0,5.5,5.5,,x=1250,1248.427,1872.258,22.122,20.74,piecewise
+FC-3A,1,dr100-130,trace,7,1356.0,2574.2,5.5,5.5,,x=1500,1501.671,2145.097,21.69,20.32,piecewise
+FC-3A,1,dr100-130,trace,8,1411.0,2511.7,5.5,5.5,,"moved from x=1750 (u=1429, on a symbol) to the nearest ink",1692.49,2356.714,21.365,20.32,piecewise
+FC-3A,1,dr100-130,trace,9,1501.0,2414.0,5.5,5.5,,x=2000,2004.639,2687.601,20.769,20.32,piecewise
+FC-3A,1,dr100-130,trace,10,1574.0,2333.5,5.5,5.5,,x=2250,2254.431,2960.211,20.522,20.32,piecewise
+FC-3A,1,dr100-130,trace,11,1647.0,2253.6,5.5,5.5,,x=2500,2504.218,3241.791,20.522,21.288,piecewise
+FC-3A,1,dr100-130,trace,12,1720.0,2173.4,5.5,5.5,,x=2750,2754.008,3526.324,20.522,21.288,piecewise
+FC-3A,1,dr100-130,trace,13,1792.0,2094.7,5.5,5.5,,x=3000,3000.37,3805.544,20.519,21.288,piecewise
+FC-3A,1,dr100-130,trace,14,1865.0,2013.6,5.5,5.5,,x=3250,3248.476,4089.014,20.383,20.32,piecewise
+FC-3A,1,dr100-130,trace,15,1938.0,1933.1,5.5,5.5,,x=3500,3496.576,4361.63,20.383,20.32,piecewise
+FC-3A,1,dr100-130,trace,16,2011.0,1853.5,5.5,5.5,,x=3750,3744.67,4631.215,20.383,20.32,piecewise
+FC-3A,1,dr100-130,trace,17,2083.0,1774.5,5.5,5.5,,x=4000,3989.368,4898.759,20.814,20.32,piecewise
+FC-3A,1,dr100-130,trace,18,2156.0,1692.9,5.5,5.5,,x=4250,4245.811,5186.038,23.453,22.991,piecewise
+FC-3A,1,dr100-130,trace,19,2229.0,1612.8,5.5,5.5,,x=4500,4502.615,5474.289,25.718,24.934,piecewise
+FC-3A,1,dr100-130,trace,20,2302.0,1530.6,5.5,5.5,,dashed; x=4750,4759.436,5770.053,27.984,26.926,piecewise
+FC-3A,1,dr100-130,trace,21,2350.6,1480.0,5.5,5.5,,"dashed; right end: tip of the last dash, centre of its cap",4930.382,5952.2,29.492,28.154,piecewise
+FC-3A,1,dr100-130,feature,1,919.5,3051.5,5.5,5.5,,intercept,1.069,510.345,22.404,22.685,piecewise extrapolated x
+FC-3A,1,dr0-15,trace,1,919.7,3129.4,6.0,6.0,,dashed; left end on the shear-stress axis (line ink runs into the axis),1.213,249.081,24.123,25.628,piecewise extrapolated x
+FC-3A,1,dr0-15,trace,2,982.0,3082.2,6.0,6.0,,"dashed; moved from x=250 (u=992, in a gap or at a dash tip) to the nearest ink",214.196,408.267,23.958,24.885,piecewise
+FC-3A,1,dr0-15,trace,3,1059.0,3021.3,6.0,6.0,,"dashed; moved from x=500 (u=1065, in a gap or at a dash tip) to the nearest ink",477.482,613.956,23.945,23.922,piecewise
+FC-3A,1,dr0-15,trace,4,1160.0,2941.4,6.0,6.0,,"moved from x=750 (u=1138, on a symbol) to the nearest ink",822.886,884.4,23.928,22.653,piecewise
+FC-3A,1,dr0-15,trace,5,1210.0,2900.3,6.0,6.0,,x=1000,993.912,1024.231,24.128,22.469,piecewise
+FC-3A,1,dr0-15,trace,6,1283.0,2842.2,6.0,6.0,,x=1250,1246.898,1225.494,23.862,22.469,piecewise
+FC-3A,1,dr0-15,trace,7,1356.0,2783.9,6.0,6.0,,x=1500,1499.967,1427.445,23.43,22.469,piecewise
+FC-3A,1,dr0-15,trace,8,1429.0,2724.7,6.0,6.0,,x=1750,1753.043,1632.489,22.999,22.469,piecewise
+FC-3A,1,dr0-15,trace,9,1502.0,2666.8,6.0,6.0,,x=2000,2006.025,1833.065,22.485,22.469,piecewise
+FC-3A,1,dr0-15,trace,10,1575.0,2608.9,6.0,6.0,,x=2250,2255.636,2032.96,22.232,22.014,piecewise
+FC-3A,1,dr0-15,trace,11,1647.0,2551.3,6.0,6.0,,x=2500,2501.832,2228.444,22.232,22.014,piecewise
+FC-3A,1,dr0-15,trace,12,1720.0,2493.4,6.0,6.0,,x=2750,2751.443,2424.959,22.232,22.014,piecewise
+FC-3A,1,dr0-15,trace,13,1811.0,2420.5,6.0,6.0,,"moved from x=3000 (u=1793, in a gap or at a dash tip) to the nearest ink",3062.183,2672.366,22.082,22.014,piecewise
+FC-3A,1,dr0-15,trace,14,1866.0,2376.5,6.0,6.0,,x=3250,3248.976,2821.694,22.082,22.014,piecewise
+FC-3A,1,dr0-15,trace,15,1939.0,2318.3,6.0,6.0,,x=3500,3496.899,3020.135,22.082,23.063,piecewise
+FC-3A,1,dr0-15,trace,16,2011.0,2260.7,6.0,6.0,,x=3750,3741.427,3224.927,22.082,23.063,piecewise
+FC-3A,1,dr0-15,trace,17,2084.0,2201.8,6.0,6.0,,x=4000,3989.356,3434.328,22.588,23.063,piecewise
+FC-3A,1,dr0-15,trace,18,2157.0,2143.1,6.0,6.0,,x=4250,4245.61,3643.023,25.225,23.063,piecewise
+FC-3A,1,dr0-15,trace,19,2228.0,2086.7,6.0,6.0,,"moved from x=4500 (u=2230, in a gap or at a dash tip) to the nearest ink",4495.2,3843.561,27.427,23.063,piecewise
+FC-3A,1,dr0-15,trace,20,2311.0,2019.7,6.0,6.0,,"dashed; moved from x=4750 (u=2303, in a gap or at a dash tip) to the nearest ink",4786.984,4078.043,30.001,22.015,piecewise
+FC-3A,1,dr0-15,trace,21,2365.2,1978.3,6.0,6.0,,"dashed; right end: tip of the last dash, centre of its cap",4977.503,4218.603,31.714,22.015,piecewise
+FC-3A,1,dr0-15,feature,1,919.7,3129.4,6.0,6.0,,intercept,1.213,249.081,24.123,25.628,piecewise extrapolated x
+FC-3A,1,dr100-130,feature,2,1618.5,2220.5,8,8,,label: 47°,2407.214,3357.905,29.074,30.162,piecewise
+FC-3A,1,dr0-15,feature,2,1645.5,2500.0,8,8,,label: 38°,2497.124,2401.139,29.074,28.791,piecewise

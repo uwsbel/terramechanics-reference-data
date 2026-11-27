@@ -1,0 +1,56 @@
+item,answer,confidence,comment
+001,all yes,high,P is on the straight dr30 stroke between the nearby circles.
+002,all yes,high,Q is at the visible free end of the dr30 stroke; the upper circle is separate.
+003,yes,medium,One dr99 ring is printed here; Q is a few pixels below its approximate center.
+004,p,medium,P is on the narrow stroke just below the ring; the interpolated Q segment cuts across white space.
+005,q,high,Q is on the rising stroke above the ring; the interpolated P segment misses the bend.
+006,all no,medium,"P (1919,946) lies on the lower-left outline of the terminal circle."
+007,all yes,medium,P is on the rising stroke immediately above the starting circle.
+008,q,medium,Q is on the lower stroke at the bottom of the circle cluster; the interpolated P segment is to its right.
+009,q,medium,Q is on the upper departing stroke; the interpolated P segment misses this side of the bend.
+010,all yes,medium,P is on the stroke immediately above its junction with the starting ring.
+011,all yes,high,P is within 2 px of the free end of the dr22 stroke.
+012,cannot tell,low,"P (963,2537) is in merged ink of overlapping rings and the starting stroke; their contributions cannot be separated."
+013,all no,medium,"P (1961,1358) is on the lower-left rim of the terminal ring, beyond the separately visible stroke."
+014,p,medium,P follows the diagonal stroke through the neck between the rings; Q interpolates below the drawn bend.
+015,p,medium,P follows the diagonal stroke through the neck between the rings; Q interpolates below the drawn bend.
+016,cannot tell,low,"P (1142,3479) is at the merged right rim of the starting circle and rising stroke; the outline and line are inseparable."
+017,all yes,high,"Q is on the free end of the dr26 stroke, below the separate circle."
+018,all yes,medium,P is on the short straight stroke above the lower pair of circles.
+019,all no,medium,"Q (2396,1100) is at the rightward rim/protrusion of the upper circle, beyond the diagonal line."
+020,all yes,medium,Q is on the narrow rising stroke just above and left of the lower circle.
+021,all no,medium,"Q (1948,2699) lies on the lower-left outline of the terminal circle cluster."
+022,all yes,high,"P is at the free lower end of the dr82 line, well below the circle."
+023,all yes,high,Q is within 2 px of the free upper end of the dr82 stroke.
+024,both,high,Both marks lie inside the same filled dr77 circle.
+025,all no,high,"P (507,3696) is on the vertical frame below the distinguishable dr77 line."
+026,all yes,high,Q is within 2 px of the free end of the dr77 stroke.
+027,all yes,medium,Q is on the rising dr99p5 stroke to the right of the circle and frame.
+028,all yes,high,P is at the visible free end of the dr99p5 stroke.
+029,yes,medium,Q is on the curve in the broad transition to the shallower upper slope; confirmed in full-page context.
+030,yes,medium,P is on the broad rounded transition to the shallower upper segment.
+031,all no,high,"P (832,2149) is inside the vertical frame where curve ink is no longer distinguishable."
+032,all no,high,"P (2388,1498) is inside the right frame beyond the separately visible curve."
+033,yes,medium,P is on the lower rounded toe; the full curve steepens across this region.
+034,yes,medium,Q is on the gentle upper shoulder where the curve becomes shallower; the nearby scan break does not cover Q.
+035,yes,medium,P is on the rounded lower knee where the initial shallow stretch steepens.
+036,all no,high,"P (863,2063) is within the left frame, before the curve becomes separately visible."
+037,all no,high,"P (2399,1632) is inside the right frame beyond the distinguishable curve."
+038,yes,medium,Q is on the broad change from the steeper lower stretch to the shallower upper stretch; no sharp kink.
+039,yes,medium,Q is on the broad rounded change of slope near Dr 0.5.
+040,all no,high,"Q (811,2507) is on the left frame, before separately identifiable curve ink."
+041,all no,high,"Q (2357,1764) is within the right frame beyond the distinguishable curve."
+042,yes,medium,Q is on the gentle upper shoulder; the full-page curve becomes shallower toward the right end.
+043,all no,high,"Q (785,2146) is on the left frame, before the distinguishable curve."
+044,all no,high,"P (2333,1384) is inside the right frame beyond separately visible curve ink."
+045,yes,high,Q is on the lower rounded knee where the shallow toe turns into the steep central stretch.
+046,yes,high,Q is on the upper rounded knee where the steep central stretch turns toward the flatter tail.
+047,all yes,high,"P touches the small ink tip at (770,3223); the curve starts separately to the right of the frame."
+048,all no,high,"P (2308,2293) is on the right frame, above and beyond the separately visible curve end."
+049,all no,high,"P (792,2424) is inside the left frame, before the separately visible bottom band edge."
+050,all no,high,"P (2344,2411) is inside the right frame beyond the separately visible bottom band edge."
+051,all no,high,"P (787,2039) is on the left frame, before the separately visible top band edge."
+052,all no,high,"P (2339,2025) is on the right frame beyond the separately visible top band edge."
+053,yes,medium,Q is on the broad upper shoulder; full-page context shows diminishing slope across this region.
+054,all no,high,"P (796,2541) is inside the left frame, before the curve becomes separately distinguishable."
+055,all no,high,"P (2338,1567) is within the right frame beyond the separately visible curve end."

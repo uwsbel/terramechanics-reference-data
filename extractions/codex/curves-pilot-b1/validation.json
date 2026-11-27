@@ -1,0 +1,25 @@
+{
+  "1": {
+    "points": 592,
+    "calibration_rms_x": 0.17376690416641632,
+    "calibration_rms_y": 9.239412156929083,
+    "calibration_max_x": 0.3566279450638774,
+    "calibration_max_y": 15.896223815384474,
+    "trace_gaps_above_5": [
+      {
+        "series": "n2345",
+        "u_from": 1949.0,
+        "u_to": 2049.0,
+        "dx_native": 17.052
+      }
+    ]
+  },
+  "2": {
+    "points": 93,
+    "calibration_rms_x": 0.2685065576329162,
+    "calibration_rms_y": 0.37477731071493803,
+    "calibration_max_x": 0.5566341869443221,
+    "calibration_max_y": 0.6027290847009681,
+    "trace_gaps_above_5": []
+  }
+}

@@ -1,0 +1,20 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-10A,1,ps-loose,marker,1,840.2,3425.4,2,5,triangle-up,centroid from the side and base strokes (rule 8); the fitted line passes just left of the apex (line pixels masked),715.105,1075.187,11.024,19.003,piecewise
+FC-10A,1,ps-loose,marker,2,1045.5,3184.7,2,5,triangle-up,centroid from the strokes; symbol in a gap of the fitted line; a stray horizontal stroke runs right from the base (u 1065 to 1093) and is not part of the symbol,1431.457,1886.419,11.283,21.172,piecewise
+FC-10A,1,ps-loose,marker,3,1252.5,2943.8,2,5,triangle-up,centroid from the strokes; clean symbol above the line,2157.54,2700.611,10.578,19.87,piecewise
+FC-10A,1,ps-loose,marker,4,1460.8,2760.9,2,5,triangle-up,centroid from the strokes; symbol in a gap of the fitted line,2885.849,3320.997,9.721,19.97,piecewise
+FC-10A,1,ps-loose,marker,5,1671.8,2574.2,2,5,triangle-up,centroid from the strokes; the y = 4000 grid line hides the apex; symbol in a gap of the fitted line,3618.175,3957.432,9.668,21.114,piecewise
+FC-10A,1,ps-loose,marker,6,1884.3,2389.8,2.5,5,triangle-up,centroid from the strokes; the fitted line's upper end runs into the symbol's left side (line pixels masked; left side fitted on 8 rows only); a stray horizontal stroke runs right from the base (u 1905 to about 2070) and is not part of the symbol,4354.756,4589.392,11.404,20.312,piecewise
+FC-10A,1,ps-loose,trace,1,632.6,3596.5,4,8,,left end: the line's ink starts at the left frame (x = 0) and merges with it; centre between the local junction (3594.9) and the extrapolated first segment (3598.6),-0.025,509.205,16.763,29.493,piecewise extrapolated x
+FC-10A,1,ps-loose,trace,2,777.4,3455.3,0.5,7.5,,x = 500 psf,499.948,976.062,5.649,26.837,piecewise
+FC-10A,1,ps-loose,trace,3,922.2,3312.4,0.5,7.5,,x = 1000 psf; on the x = 1000 grid line; centre from the columns either side,999.975,1456.459,6.638,28.491,piecewise
+FC-10A,1,ps-loose,trace,4,1065.2,3170.5,0.5,7.5,,x = 1500 psf; on the end cap where the segment after the gap around marker 2 starts (pen-centre start about u 1066 to 1068); centre of the cap's ink and of the segment's fit,1500.065,1934.044,6.184,29.77,piecewise
+FC-10A,1,ps-loose,trace,5,1208.1,3029.6,0.5,7.5,,x = 2000 psf; on the x = 2000 grid line; centre from the columns either side,1999.826,2409.593,5.717,29.057,piecewise
+FC-10A,1,ps-loose,trace,6,1351.0,2888.3,0.5,7.5,,x = 2500 psf,2500.142,2886.502,5.136,27.915,piecewise
+FC-10A,1,ps-loose,trace,7,1493.7,2746.3,0.5,7.5,,x = 3000 psf; on the x = 3000 grid line; 13 px into the segment that starts beyond the gap around marker 4; centre from the columns either side,3000.125,3370.221,4.548,28.647,piecewise
+FC-10A,1,ps-loose,trace,8,1637.7,2604.1,0.5,7.5,,x = 3500 psf; 14 px before the gap around marker 5,3500.017,3855.58,4.649,29.514,piecewise
+FC-10A,1,ps-loose,trace,9,1781.8,2466.0,0.5,8.5,,x = 4000 psf; on the x = 4000 grid line; this last segment is drawn about 2 px thicker (vertical extent 17 to 18 px),3999.971,4328.684,4.853,32.872,piecewise
+FC-10A,1,ps-loose,trace,10,1868.5,2379.0,3,8.5,,right end: the line's end cap runs into the left side of marker 6; pen-centre end about (1867 to 1869; 2378 to 2381),4301.33,4627.487,13.325,32.438,piecewise
+FC-10A,1,ps-loose,feature,1,632.6,3596.5,4,8,,first point of the line (= trace 1),-0.025,509.205,16.763,29.493,piecewise extrapolated x
+FC-10A,1,ps-loose,feature,2,1868.5,2379.0,3,8.5,,last point of the line (= trace 10); also the maximum of the trace,4301.33,4627.487,13.325,32.438,piecewise
+FC-10A,1,ps-loose,feature,3,632.6,3596.5,0.5,8,,intercept: the line reaches the normal-stress-zero axis (left frame),-0.025,509.205,4.776,29.376,piecewise extrapolated x

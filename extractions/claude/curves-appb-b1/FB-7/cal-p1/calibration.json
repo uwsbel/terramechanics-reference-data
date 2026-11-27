@@ -1,0 +1,708 @@
+{
+ "image": "packet/p0113.png",
+ "box": [
+  470,
+  830,
+  2775,
+  3960
+ ],
+ "method": "ticks and labelled frame lines measured by out/FB-7/cal_ticks.py (no grid lines on this plot)",
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine, least squares on the tick and frame anchors, each axis on its own anchors)",
+ "ax": [
+  0.0071310005057050865,
+  -4.050969784163538e-05,
+  -3.470918734363083
+ ],
+ "ay": [
+  -9.746391488935265e-06,
+  -0.0035686030923730025,
+  14.062468054090466
+ ],
+ "x_per_px": 0.0071311155682673814,
+ "y_per_px": 0.0035686164017783156,
+ "rms_residual_x": 0.00898730445768353,
+ "rms_residual_y": 0.006445985972598869,
+ "max_residual_x": 0.024382241066212007,
+ "max_residual_y": 0.015337231983723498,
+ "n_anchors": 59,
+ "vertical_lines": [
+  {
+   "x_value": 0.0,
+   "slope_du_dv": 0.0056062888166488615,
+   "u_at_v0": 486.40462791725713,
+   "source": "frame, detected"
+  },
+  {
+   "x_value": 2.0,
+   "slope_du_dv": null,
+   "u_at_v0": 792.8947368421053,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 4.0,
+   "slope_du_dv": null,
+   "u_at_v0": 1071.4473684210527,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 6.0,
+   "slope_du_dv": null,
+   "u_at_v0": 1351.5,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 8.0,
+   "slope_du_dv": null,
+   "u_at_v0": 1632.657894736842,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 10.0,
+   "slope_du_dv": null,
+   "u_at_v0": 1911.5,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 12.0,
+   "slope_du_dv": null,
+   "u_at_v0": 2192.0789473684213,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 14.0,
+   "slope_du_dv": null,
+   "u_at_v0": 2474.5,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "x_value": 16.0,
+   "slope_du_dv": 0.004323730835708303,
+   "u_at_v0": 2733.3439736336545,
+   "source": "frame, detected"
+  }
+ ],
+ "horizontal_lines": [
+  {
+   "y_value": 11.0,
+   "slope_dv_du": -4.489106471055244e-05,
+   "v_at_u0": 852.77634329637,
+   "source": "frame, detected"
+  },
+  {
+   "y_value": 10.0,
+   "slope_dv_du": null,
+   "v_at_u0": 1138.2058823529412,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 9.0,
+   "slope_dv_du": null,
+   "v_at_u0": 1419.3235294117646,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 8.0,
+   "slope_dv_du": null,
+   "v_at_u0": 1701.735294117647,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 7.0,
+   "slope_dv_du": null,
+   "v_at_u0": 1978.4411764705883,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 6.0,
+   "slope_dv_du": null,
+   "v_at_u0": 2259.9411764705883,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 5.0,
+   "slope_dv_du": null,
+   "v_at_u0": 2539.235294117647,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 4.0,
+   "slope_dv_du": null,
+   "v_at_u0": 2819.5,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 3.0,
+   "slope_dv_du": null,
+   "v_at_u0": 3101.222222222222,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 2.0,
+   "slope_dv_du": null,
+   "v_at_u0": 3377.75,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 1.0,
+   "slope_dv_du": null,
+   "v_at_u0": 3659.5,
+   "source": "tick, detected",
+   "samples": []
+  },
+  {
+   "y_value": 0.0,
+   "slope_dv_du": -0.0018512133263816142,
+   "v_at_u0": 3938.511133857042,
+   "source": "frame, detected"
+  }
+ ],
+ "anchors": [
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 491.18,
+   "v": 852.0,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0028
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2737.03,
+   "v": 852.0,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": -0.0123
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 492.79,
+   "v": 1138.21,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0029
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2738.27,
+   "v": 1138.21,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": -0.0096
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 494.36,
+   "v": 1419.32,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0031
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2739.48,
+   "v": 1419.32,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": -0.0068
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 495.95,
+   "v": 1701.74,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0032
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2740.7,
+   "v": 1701.74,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": -0.0041
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 497.5,
+   "v": 1978.44,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0034
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2741.9,
+   "v": 1978.44,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": -0.0014
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 499.07,
+   "v": 2259.94,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0036
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2743.12,
+   "v": 2259.94,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0013
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 500.64,
+   "v": 2539.24,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0037
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2744.32,
+   "v": 2539.24,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.004
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 502.21,
+   "v": 2819.5,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0039
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2745.53,
+   "v": 2819.5,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0068
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 503.79,
+   "v": 3101.22,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.004
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2746.75,
+   "v": 3101.22,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0095
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 505.34,
+   "v": 3377.75,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0042
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2747.95,
+   "v": 3377.75,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0121
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 506.92,
+   "v": 3659.5,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0043
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2749.17,
+   "v": 3659.5,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0148
+  },
+  {
+   "x_value": 0.0,
+   "y_value": null,
+   "u": 508.48,
+   "v": 3937.57,
+   "x_source": "left frame line (label 0), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0045
+  },
+  {
+   "x_value": 16.0,
+   "y_value": null,
+   "u": 2750.37,
+   "v": 3937.57,
+   "x_source": "right frame line (label 16), fitted on its ink",
+   "y_source": "",
+   "x_residual": 0.0175
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 507.0,
+   "v": 3937.57,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0059
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 507.0,
+   "v": 852.75,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.0144
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 792.89,
+   "v": 3937.04,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.005
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 792.89,
+   "v": 852.74,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.0116
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 1071.45,
+   "v": 3936.53,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0041
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 1071.45,
+   "v": 852.73,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.009
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 1351.5,
+   "v": 3936.01,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0032
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 1351.5,
+   "v": 852.72,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.0063
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 1632.66,
+   "v": 3935.49,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0024
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 1632.66,
+   "v": 852.7,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.0036
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 1911.5,
+   "v": 3934.97,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0015
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 1911.5,
+   "v": 852.69,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": -0.0009
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 2192.08,
+   "v": 3934.45,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": -0.0006
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 2192.08,
+   "v": 852.68,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": 0.0018
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 2474.5,
+   "v": 3933.93,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": 0.0003
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 2474.5,
+   "v": 852.67,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": 0.0045
+  },
+  {
+   "x_value": null,
+   "y_value": 0.0,
+   "u": 2752.0,
+   "v": 3933.42,
+   "x_source": "",
+   "y_source": "bottom frame line (label 0), fitted on its ink",
+   "y_residual": 0.0012
+  },
+  {
+   "x_value": null,
+   "y_value": 11.0,
+   "u": 2752.0,
+   "v": 852.65,
+   "x_source": "",
+   "y_source": "top frame line (label 11), fitted on its ink",
+   "y_residual": 0.0071
+  },
+  {
+   "x_value": 2.0,
+   "y_value": null,
+   "u": 792.89,
+   "v": 3920.0,
+   "x_source": "tick measured (19 rows, sd 0.31 px)",
+   "y_source": "",
+   "x_residual": -0.0244
+  },
+  {
+   "x_value": 4.0,
+   "y_value": null,
+   "u": 1071.45,
+   "v": 3919.0,
+   "x_source": "tick measured (19 rows, sd 0.22 px)",
+   "y_source": "",
+   "x_residual": -0.0108
+  },
+  {
+   "x_value": 6.0,
+   "y_value": null,
+   "u": 1351.5,
+   "v": 3919.0,
+   "x_source": "tick measured (19 rows, sd 0.00 px)",
+   "y_source": "",
+   "x_residual": -0.0079
+  },
+  {
+   "x_value": 8.0,
+   "y_value": null,
+   "u": 1632.66,
+   "v": 3918.0,
+   "x_source": "tick measured (19 rows, sd 0.36 px)",
+   "y_source": "",
+   "x_residual": -0.0129
+  },
+  {
+   "x_value": 10.0,
+   "y_value": null,
+   "u": 1911.5,
+   "v": 3917.0,
+   "x_source": "tick measured (19 rows, sd 0.00 px)",
+   "y_source": "",
+   "x_residual": -0.0013
+  },
+  {
+   "x_value": 12.0,
+   "y_value": null,
+   "u": 2192.08,
+   "v": 3917.0,
+   "x_source": "tick measured (19 rows, sd 0.49 px)",
+   "y_source": "",
+   "x_residual": -0.0021
+  },
+  {
+   "x_value": 14.0,
+   "y_value": null,
+   "u": 2474.5,
+   "v": 3916.0,
+   "x_source": "tick measured (19 rows, sd 0.00 px)",
+   "y_source": "",
+   "x_residual": -0.0161
+  },
+  {
+   "x_value": null,
+   "y_value": 1.0,
+   "u": 526.0,
+   "v": 3659.5,
+   "x_source": "",
+   "y_source": "tick measured (7 columns, sd 0.00 px)",
+   "y_residual": 0.002
+  },
+  {
+   "x_value": null,
+   "y_value": 2.0,
+   "u": 524.5,
+   "v": 3377.75,
+   "x_source": "",
+   "y_source": "tick measured (8 columns, sd 0.43 px)",
+   "y_residual": -0.0035
+  },
+  {
+   "x_value": null,
+   "y_value": 3.0,
+   "u": 522.0,
+   "v": 3101.22,
+   "x_source": "",
+   "y_source": "tick measured (9 columns, sd 0.25 px)",
+   "y_residual": 0.0096
+  },
+  {
+   "x_value": null,
+   "y_value": 4.0,
+   "u": 517.0,
+   "v": 2819.5,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.00 px)",
+   "y_residual": 0.0042
+  },
+  {
+   "x_value": null,
+   "y_value": 5.0,
+   "u": 515.0,
+   "v": 2539.24,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.25 px)",
+   "y_residual": 0.0041
+  },
+  {
+   "x_value": null,
+   "y_value": 6.0,
+   "u": 514.0,
+   "v": 2259.94,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.16 px)",
+   "y_residual": 0.0074
+  },
+  {
+   "x_value": null,
+   "y_value": 7.0,
+   "u": 512.0,
+   "v": 1978.44,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.73 px)",
+   "y_residual": 0.0028
+  },
+  {
+   "x_value": null,
+   "y_value": 8.0,
+   "u": 510.0,
+   "v": 1701.74,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.42 px)",
+   "y_residual": 0.0153
+  },
+  {
+   "x_value": null,
+   "y_value": 9.0,
+   "u": 509.0,
+   "v": 1419.32,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.38 px)",
+   "y_residual": 0.0075
+  },
+  {
+   "x_value": null,
+   "y_value": 10.0,
+   "u": 507.0,
+   "v": 1138.21,
+   "x_source": "",
+   "y_source": "tick measured (17 columns, sd 0.46 px)",
+   "y_residual": 0.0043
+  }
+ ]
+}

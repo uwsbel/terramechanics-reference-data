@@ -1,0 +1,54 @@
+{
+  "FC-1B": {
+    "source": "1968-vol2",
+    "title": "Figure C-1B: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-3, PDF 117)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1172": {
+        "label": "1172 psf (56.1 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n1760": {
+        "label": "1760 psf (84.3 kPa)",
+        "symbol": "plus"
+      },
+      "n2345": {
+        "label": "2345 psf (112.3 kPa)",
+        "symbol": "square"
+      },
+      "n2935": {
+        "label": "2935 psf (140.5 kPa)",
+        "symbol": "asterisk"
+      },
+      "n294": {
+        "label": "294 psf (14.1 kPa)",
+        "symbol": "circle"
+      },
+      "n3520": {
+        "label": "3520 psf (168.5 kPa)",
+        "symbol": "x"
+      },
+      "n587": {
+        "label": "587 psf (28.1 kPa)",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Seven direct shear tests on RS soil (red volcanic cinder) at Dr .50 to .57, normal stresses 294 to 3520 psf. Upper panel: shear stress 0 to 6000 psf against shear displacement 0 to 250 thousandths of an inch, a hand-drawn curve through each test's symbols. Lower panel: dilation -100 to +100 thousandths, symbols only, same notation as above. Hard spots: the small asterisks (2935 psf) look like blobs; near the origin the circles and down-triangles touch; symbols on the frame or on grid lines are partly hidden; the 1760 and 2345 psf curves share one line of ink from about 35 to 48 thousandths and then fork; a stray straight ink line runs under the 2345 psf curve between 170 and 200 thousandths; the scan is tilted by about one degree. The same figure is printed as Figure 2-21 in Volume I."
+  }
+}

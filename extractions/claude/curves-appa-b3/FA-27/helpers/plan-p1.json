@@ -1,0 +1,58 @@
+{
+ "figure_id": "FA-27",
+ "cal_dir": "out/FA-27/cal-p1",
+ "bound_px": 4,
+ "lines": {
+  "upper": {"uref": 690, "a": 3144.49, "b": 0.28592, "centres": "out/FA-27/helpers/centres-A.csv", "symbol": "dashed line"},
+  "mean":  {"uref": 690, "a": 3157.96, "b": 0.30499, "centres": "out/FA-27/helpers/centres-B.csv", "symbol": "solid line"},
+  "lower": {"uref": 690, "a": 3164.42, "b": 0.33806, "centres": "out/FA-27/helpers/centres-C.csv", "symbol": "dashed line"}
+ },
+ "samples": {
+  "upper": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); its first visible ink is at the frame's inner edge (u 690), sample on the frame centre"],
+   ["x=0.1", "Dr 0.1 crossing, on the dash (it starts at u 834, left of the grid line)"],
+   ["x=0.2", "Dr 0.2 crossing, on the dash (981 to 1122)"],
+   [1151, "Dr 0.3: the dash starts under the x = 0.3 grid line (u 1146 to 1149), white before it; sample at its first visible ink (rule 7)"],
+   [1313, "Dr 0.4: the crossing (u 1299.5) is in a dash gap (u 1282 to 1311); moved to the nearest dash end, the start of the next dash (u 1312, drawn along the 101 grid line)"],
+   [1458, "Dr 0.5: the dash starts under the x = 0.5 grid line (u 1451 to 1456), white before it; sample at its first visible ink"],
+   [1595, "Dr 0.6: the crossing (u 1609.0) is in a dash gap (u 1597 to 1623); moved to the nearest dash end, the end of the previous dash (u 1596, 13 px; the next dash starts at u 1624, 15 px)"],
+   ["x=0.7", "Dr 0.7 crossing, on the dash (it ends at u 1768, just past the grid line)"],
+   [1915, "Dr 0.8: the dash ends under the x = 0.8 grid line (u 1916 to 1921), white after it; sample at its last visible ink. A 3 px white streak at u 1907 to 1909 is read as a scan defect, not a gap"],
+   ["x=0.9", "Dr 0.9 crossing, on the dash (it ends at u 2077, just past the grid line)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the leader to 110.5 continues it outside the frame"]
+  ],
+  "mean": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); here it overlaps the lower line (6 px apart), centre from the clean ink nearby"],
+   ["x=0.1", "Dr 0.1 crossing"],
+   ["x=0.2", "Dr 0.2 crossing"],
+   ["x=0.3", "Dr 0.3 crossing"],
+   ["x=0.4", "Dr 0.4 crossing"],
+   ["x=0.5", "Dr 0.5 crossing"],
+   ["x=0.6", "Dr 0.6 crossing, where the line runs along the 105 grid line"],
+   ["x=0.7", "Dr 0.7 crossing"],
+   ["x=0.8", "Dr 0.8 crossing"],
+   ["x=0.9", "Dr 0.9 crossing"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the leader to 112.7 continues it outside the frame"]
+  ],
+  "lower": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); here it overlaps the mean line, centre from the clean ink nearby"],
+   ["x=0.1", "Dr 0.1 crossing, on the dash (it starts at u 831)"],
+   ["x=0.2", "Dr 0.2 crossing, on the dash (it starts at u 984, under the 99 grid line)"],
+   [1157, "Dr 0.3: the crossing (u 1148.2) is in a dash gap (u 1128 to 1155); moved to the nearest dash end, the start of the next dash (u 1156; the previous one ends at u 1127)"],
+   [1312, "Dr 0.4: the crossing (u 1300.0) is in a dash gap (u 1285 to 1309); moved to the nearest dash end, the start of the next dash (u 1310 to 1312; the previous one ends at u 1284)"],
+   [1469, "Dr 0.5: the crossing (u 1453.4) is in a dash gap (u 1435 to 1467); moved to the nearest dash end, the start of the next dash (u 1468; the previous one ends at u 1434)"],
+   [1590, "Dr 0.6: the crossing (u 1609.7) is in a dash gap (u 1592 to 1635); moved to the nearest dash end, the end of the previous dash (u 1591, 19 px; the next starts at u 1636, 26 px)"],
+   [1761, "Dr 0.7: the dash ends under the x = 0.7 grid line (u 1763 to 1767), tapering from u 1759, white after it; sample at its last visible ink"],
+   ["x=0.8", "Dr 0.8 crossing, on the dash (u 1799 to 1933; a white streak at u 1899 to 1903 is a scan defect, not a gap)"],
+   ["x=0.9", "Dr 0.9 crossing, on the dash (u 1972 to 2100)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the 114.9 leader points at it"]
+  ]
+ },
+ "features": {
+  "upper": [[2463, 3609, "label: 110.5 (right end; leader from the line's end at the frame to the label). No label of its own at the left end: the line starts at the 95 grid line, whose axis label 95 has no leader", 5]],
+  "mean": [[518, 3192.5, "label: 95.4 (left end; its leader ends at u 675, v 3152 to 3155, on the mean line's extension)", 5],
+           [2463.5, 3668, "label: 112.7 (right end; leader from the line's end at the frame)", 5]],
+  "lower": [[517, 3250, "label: 95.8 (left end; its leader ends at u 675, v 3165 to 3168, nearest the lower line)", 5],
+            [2465, 3728, "label: 114.9 (right end; the leader runs from behind the right-axis label 115 toward the line's end at the frame)", 5]]
+ }
+}

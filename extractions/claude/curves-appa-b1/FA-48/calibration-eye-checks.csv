@@ -1,0 +1,12 @@
+figure_id,panel,axis,printed_label,value,anchored_line,line_position_px,label_position_px,result,note
+FA-48,1,y,50,50,horizontal grid line,v 1630 at u 740,v 1622 (centre of the digits),agrees,label about 8 px above its line; no other line nearby
+FA-48,1,y,45,45,horizontal grid line,v 2011 at u 740,v 2007,agrees,label about 4 px above its line
+FA-48,1,y,40,40,horizontal grid line,v 2401 at u 740,v 2396,agrees,label about 5 px above its line
+FA-48,1,y,35,35,horizontal grid line,v 2781 at u 740,v 2777,agrees,label about 4 px above its line
+FA-48,1,y,30,30,horizontal grid line,v 3158 at u 740,v 3153,agrees,label about 5 px above its line
+FA-48,1,x,0,0,left frame,u 808 at v 3595,u 794 (centre of the 0),agrees,label about 14 px left of the frame line; the only line there
+FA-48,1,x,0.2,0.2,vertical grid line,u 1112 at v 3595,decimal point at u 1117,agrees,decimal point about 5 px right of the line
+FA-48,1,x,0.4,0.4,vertical grid line,u 1423 at v 3595,decimal point at u 1417,agrees,decimal point about 6 px left of the line
+FA-48,1,x,0.6,0.6,vertical grid line,u 1722 at v 3595,decimal point at u 1715,agrees,decimal point about 7 px left of the line
+FA-48,1,x,0.8,0.8,vertical grid line,u 2040 at v 3595,decimal point at u 2035,agrees,decimal point about 5 px left of the line
+FA-48,1,x,1.0,1.0,right frame,u 2357 at v 3595,decimal point at u 2357,agrees,decimal point under the frame line

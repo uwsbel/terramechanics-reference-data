@@ -1,0 +1,82 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-18,1,data,marker,1,891.5,2418.0,3,3,circle,"pair 1 left; on the x = 0 grid line, the joining line leaves it to the right and the first dash of the upper dashed curve meets its ring at the upper right"
+FC-18,1,data,marker,2,927.5,2538.5,3,3,circle,single; overlaps the circle above-right of it (sequence 4) and touches the solid curve at its upper left
+FC-18,1,data,marker,3,931.5,2616.0,3,3,circle,single; the first dash of the lower dashed curve passes through it
+FC-18,1,data,marker,4,946.5,2515.5,4,4,circle,single; the solid curve passes across its top and it overlaps the circle below-left of it (sequence 2); ring drawn slightly wider than tall
+FC-18,1,data,marker,5,1110.0,2413.0,3,3,circle,pair 1 right; the solid curve passes through it and the joining line enters it from the left
+FC-18,1,data,marker,6,2447.5,1727.0,2,3,circle,single; the x = 1.0 grid line passes through its centre; ring slightly taller (42 px) than wide (37 px)
+FC-18,1,upper,trace,1,905.0,2398.0,3.0,4.5,,left end: the first dash's ink emerges from the ring of the pair 1 left circle at its upper right (it may continue under the ring)
+FC-18,1,upper,trace,2,968.0,2364.1,4.0,4.5,,Dr 0.05
+FC-18,1,upper,trace,3,1045.5,2321.0,3.9,4.5,,Dr 0.10: on the x = 0.1 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,4,1124.7,2278.2,4.0,4.5,,Dr 0.15; on the crossing with the y = 40 grid line; centre from the dash on the left of the crossing
+FC-18,1,upper,trace,5,1203.9,2235.4,4.0,4.5,,Dr 0.20: on the x = 0.2 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,6,1275.0,2198.6,4.1,4.5,,Dr 0.25 falls in a gap between dashes; moved to the nearest dash end (u 1275)
+FC-18,1,upper,trace,7,1359.7,2154.2,3.1,3.5,,Dr 0.30: on the x = 0.3 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,8,1435.4,2115.9,4.0,4.5,,Dr 0.35
+FC-18,1,upper,trace,9,1511.0,2078.0,4.0,4.5,,Dr 0.40: on the x = 0.4 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,10,1600.0,2034.2,4.1,4.5,,Dr 0.45 falls in a gap between dashes; moved to the nearest dash start (u 1600)
+FC-18,1,upper,trace,11,1665.9,2002.1,3.6,4.0,,Dr 0.50: on the x = 0.5 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,12,1744.5,1964.3,4.1,4.5,,Dr 0.55
+FC-18,1,upper,trace,13,1823.1,1927.1,3.6,4.0,,Dr 0.60: on the x = 0.6 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,14,1917.5,1882.5,3.7,4.0,,"Dr 0.65 (u 1900.7) falls in the gap around the y = 45 grid line (dash ends u 1872, next dash starts u 1917); moved to the nearest dash start, read on the page (ink v 1880.6 to 1885.6), just above the grid line"
+FC-18,1,upper,trace,15,1978.4,1854.6,4.1,4.5,,Dr 0.70: on the x = 0.7 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,16,2040.0,1827.6,4.2,4.5,,Dr 0.75 falls in a gap between dashes; moved to the nearest dash end (u 2040)
+FC-18,1,upper,trace,17,2133.5,1784.6,3.2,3.5,,Dr 0.80: on the x = 0.8 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,18,2203.0,1755.4,4.2,4.5,,Dr 0.85 falls in a gap between dashes; moved to the nearest dash end (u 2203)
+FC-18,1,upper,trace,19,2287.5,1717.8,3.7,4.0,,Dr 0.90: on the x = 0.9 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,20,2365.5,1687.0,4.2,4.5,,Dr 0.95
+FC-18,1,upper,trace,21,2443.5,1657.0,4.2,4.5,,Dr 1.00: on the x = 1 grid line; centre from the line on both sides of it
+FC-18,1,upper,trace,22,2521.5,1629.5,3.7,4.0,,Dr 1.05; beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,upper,trace,23,2594.0,1605.0,3.0,4.5,,right end: the last dash runs into the right frame (inner edge u 2595); beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,mean,trace,1,897.0,2526.5,4.0,4.5,,"left end: the ink meets the right edge of the x = 0 grid line (it may begin under the grid line, centre u 892)"
+FC-18,1,mean,trace,2,969.6,2488.0,3.8,4.2,,Dr 0.05; just right of the circle the solid curve crosses (u 927 to 966)
+FC-18,1,mean,trace,3,1047.0,2445.6,3.7,4.2,,Dr 0.10: on the x = 0.1 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,4,1133.0,2398.4,3.5,4.0,,Dr 0.15 falls where a circle merges with the line (u 1088-1132); moved to u 1133
+FC-18,1,mean,trace,5,1205.5,2360.6,3.5,4.0,,Dr 0.20: on the x = 0.2 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,6,1283.5,2319.6,3.6,4.0,,Dr 0.25
+FC-18,1,mean,trace,7,1361.4,2280.2,3.6,4.0,,Dr 0.30: on the x = 0.3 grid line; centre from the line on both sides of it; on the crossings with the x = 0.3 and y = 40 grid lines; centre from the line on both sides
+FC-18,1,mean,trace,8,1437.2,2242.0,3.6,4.0,,Dr 0.35
+FC-18,1,mean,trace,9,1512.9,2204.4,3.8,4.2,,Dr 0.40: on the x = 0.4 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,10,1590.2,2166.1,3.6,4.0,,Dr 0.45
+FC-18,1,mean,trace,11,1667.6,2128.4,4.0,4.5,,Dr 0.50: on the x = 0.5 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,12,1746.2,2090.4,4.1,4.5,,Dr 0.55
+FC-18,1,mean,trace,13,1824.7,2053.6,4.0,4.5,,Dr 0.60: on the x = 0.6 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,14,1902.4,2017.2,4.1,4.5,,Dr 0.65
+FC-18,1,mean,trace,15,1980.0,1981.4,4.1,4.5,,Dr 0.70: on the x = 0.7 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,16,2057.2,1946.7,3.8,4.2,,Dr 0.75
+FC-18,1,mean,trace,17,2134.6,1912.8,3.8,4.2,,Dr 0.80: on the x = 0.8 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,18,2211.7,1878.7,4.1,4.5,,Dr 0.85; next to the crossing with the y = 45 grid line (u 2167 to 2211); centre from the line on both sides
+FC-18,1,mean,trace,19,2288.7,1846.5,4.2,4.5,,Dr 0.90: on the x = 0.9 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,20,2366.8,1815.6,4.7,5.0,,Dr 0.95
+FC-18,1,mean,trace,21,2444.9,1786.5,4.9,5.2,,Dr 1.00: on the x = 1 grid line; centre from the line on both sides of it
+FC-18,1,mean,trace,22,2522.9,1759.4,4.8,5.0,,Dr 1.05; beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,mean,trace,23,2596.0,1737.5,3.0,5.0,,right end: the curve runs into the right frame (inner edge u 2597); the line is slightly thicker over its last 25 px; beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,lower,trace,1,898.5,2638.5,4.0,4.5,,"left end: the ink meets the right edge of the x = 0 grid line (it may begin under the grid line, centre u 893.5)"
+FC-18,1,lower,trace,2,971.0,2601.1,4.1,4.5,,Dr 0.05
+FC-18,1,lower,trace,3,1048.5,2559.2,3.1,3.5,,Dr 0.10: on the x = 0.1 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,4,1127.8,2518.2,4.0,4.5,,Dr 0.15
+FC-18,1,lower,trace,5,1189.0,2488.7,4.2,4.5,,Dr 0.20 falls in a gap between dashes; moved to the nearest dash end (u 1189)
+FC-18,1,lower,trace,6,1285.1,2440.0,3.8,4.2,,Dr 0.25
+FC-18,1,lower,trace,7,1363.1,2401.6,3.6,4.0,,Dr 0.30: on the x = 0.3 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,8,1444.0,2362.1,3.7,4.0,,Dr 0.35 falls in a gap between dashes; moved to the nearest dash start (u 1444)
+FC-18,1,lower,trace,9,1514.7,2328.9,4.1,4.5,,Dr 0.40: on the x = 0.4 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,10,1611.5,2284.0,4.0,4.5,,"Dr 0.45 (u 1591.9) falls in a gap (dash ends u 1567, next dash starts u 1610 on the y = 40 grid line); moved to the nearest dash start, read on the page: its tip shows below the grid line (v 2280 to 2288)"
+FC-18,1,lower,trace,11,1669.2,2256.2,3.6,4.0,,Dr 0.50: on the x = 0.5 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,12,1729.0,2229.0,4.1,4.5,,Dr 0.55 falls in a gap between dashes; moved to the nearest dash end (u 1729)
+FC-18,1,lower,trace,13,1826.5,2184.9,3.4,3.8,,Dr 0.60: on the x = 0.6 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,14,1902.0,2153.0,4.3,4.5,,Dr 0.65 falls in a gap between dashes; moved to the nearest dash end (u 1902)
+FC-18,1,lower,trace,15,1981.8,2116.7,3.2,3.5,,Dr 0.70: on the x = 0.7 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,16,2058.7,2084.5,4.2,4.5,,Dr 0.75
+FC-18,1,lower,trace,17,2135.7,2051.5,3.4,3.8,,Dr 0.80: on the x = 0.8 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,18,2209.0,2022.7,4.3,4.5,,Dr 0.85 falls in a gap between dashes; moved to the nearest dash end (u 2209)
+FC-18,1,lower,trace,19,2290.1,1988.6,3.5,3.8,,Dr 0.90: on the x = 0.9 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,20,2357.0,1964.3,4.3,4.5,,Dr 0.95 falls in a gap between dashes; moved to the nearest dash end (u 2357)
+FC-18,1,lower,trace,21,2446.4,1930.8,3.8,4.0,,Dr 1.00: on the x = 1 grid line; centre from the line on both sides of it
+FC-18,1,lower,trace,22,2526.0,1904.0,4.3,4.5,,Dr 1.05 falls in a gap between dashes; moved to the nearest dash start (u 2526); beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,lower,trace,23,2597.0,1884.5,3.0,5.0,,right end: the last dash merges with the y = 45 grid line from about u 2560 to the right frame (inner edge u 2598); centre from the dash's own line and its ink showing above the grid line (v 1880 to 1883); beyond the x = 1.0 grid line (extrapolated)
+FC-18,1,upper,feature,1,905.0,2398.0,3.0,4.5,,first point of the trace
+FC-18,1,upper,feature,2,2594.0,1605.0,3.0,4.5,,"last point of the trace, at the right frame; also its maximum (the curve rises monotonically, no knee)"
+FC-18,1,mean,feature,1,897.0,2526.5,4.0,4.5,,first point of the trace
+FC-18,1,mean,feature,2,2596.0,1737.5,3.0,5.0,,"last point of the trace, at the right frame; also its maximum (the curve rises monotonically, no knee)"
+FC-18,1,lower,feature,1,898.5,2638.5,4.0,4.5,,first point of the trace
+FC-18,1,lower,feature,2,2597.0,1884.5,3.0,5.0,,"last point of the trace, at the right frame; also its maximum (the curve rises monotonically, no knee)"

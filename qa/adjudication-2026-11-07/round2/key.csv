@@ -1,0 +1,13 @@
+subject_rows,reference_rows,item,P,Q,subject_label,subject_reader,verify,figure,panel,series,kind
+claude|lpt22|trace|2;claude|lpt22|trace|3,codex|lpt22|trace|3,001,claude,codex,P,claude,one-sided,F2-42,1,lpt22,curve-start
+claude|lpt23|feature|14,codex|lpt23|feature|15,002,codex,claude,Q,claude,pair,F2-42,1,lpt23,feature-disagree
+claude|lpt23|trace|2,codex|lpt23|trace|4,003,codex,claude,Q,claude,one-sided,F2-42,1,lpt23,curve-start
+claude|lpt24|feature|17,codex|lpt24|feature|20,004,codex,claude,Q,claude,pair,F2-42,1,lpt24,feature-disagree
+claude|lpt24|trace|21;claude|lpt24|trace|22,codex|lpt24|trace|24,005,claude,codex,P,claude,one-sided,F2-42,1,lpt24,curve-end
+claude|lpt25|feature|13,codex|lpt25|feature|15,006,claude,codex,P,claude,pair,F2-42,1,lpt25,feature-disagree
+claude|lpt25|trace|2,codex|lpt25|trace|3,007,claude,codex,P,claude,one-sided,F2-42,1,lpt25,curve-start
+claude|lpt25|trace|16,codex|lpt25|trace|17,008,codex,claude,Q,claude,one-sided,F2-42,1,lpt25,trace-gap
+codex|lpt25|trace|20;codex|lpt25|trace|21,claude|lpt25|trace|18;claude|lpt25|trace|19,009,codex,claude,P,codex,one-sided,F2-42,1,lpt25,trace-gap
+codex|lpt24|trace|1,claude|lpt24|trace|2;claude|lpt24|trace|3,010,codex,claude,P,codex,one-sided,F2-44,1,lpt24,curve-start
+codex|lpt73|trace|1;codex|lpt73|trace|3,claude|lpt73|trace|2;claude|lpt73|trace|3,011,claude,codex,Q,codex,one-sided,F2-44,1,lpt73,curve-start
+codex|lpt74|trace|1;codex|lpt74|trace|3,claude|lpt74|trace|2;claude|lpt74|trace|3,012,claude,codex,Q,codex,one-sided,F2-44,1,lpt74,curve-start

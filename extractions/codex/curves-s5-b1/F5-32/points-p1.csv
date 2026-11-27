@@ -1,0 +1,47 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F5-32,1,strut3,trace,1,1356.5,3503.0,2.875,2.875,,origin partially merged with left frame and zero ruling
+F5-32,1,strut3,feature,2,1356.5,3503.0,2.875,2.875,,"first, origin partially merged with left frame and zero ruling"
+F5-32,1,strut3,trace,3,1337.0,3469.0,2.375,2.375,,
+F5-32,1,strut3,trace,4,1313.43,3445.54,2.75,2.75,,
+F5-32,1,strut3,trace,5,1299.33,3433.62,2.875,2.875,,
+F5-32,1,strut3,trace,6,1292.25,3427.28,2.5,2.5,,
+F5-32,1,strut3,feature,7,1277.5,3405.0,2.125,2.125,,"knee, minimum, first compression crest"
+F5-32,1,strut3,trace,8,1277.5,3400.0,2.125,2.125,,
+F5-32,1,strut3,trace,9,1291.46,3382.47,2.875,2.875,,
+F5-32,1,strut3,trace,10,1310.57,3364.55,2.75,2.75,,
+F5-32,1,strut3,trace,11,1313.57,3361.54,2.75,2.75,,
+F5-32,1,strut3,trace,12,1333.16,3344.19,3.625,3.625,,
+F5-32,1,strut3,trace,13,1347.02,3330.03,3.5,3.5,,
+F5-32,1,strut3,trace,14,1354.57,3323.0,3.375,3.375,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,feature,15,1374.5,3297.0,3.125,3.125,,"peak, positive lobe below the zero ruling"
+F5-32,1,strut3,trace,16,1374.5,3295.0,3.125,3.125,,
+F5-32,1,strut3,trace,17,1353.19,3260.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,trace,18,1337.5,3225.0,2.125,2.125,,
+F5-32,1,strut3,feature,19,1334.62,3198.0,2.0,2.0,,"knee, minimum, first small compression lobe"
+F5-32,1,strut3,trace,20,1334.5,3189.0,2.125,2.125,,
+F5-32,1,strut3,trace,21,1337.5,3154.0,2.125,2.125,,
+F5-32,1,strut3,trace,22,1342.38,3073.0,3.0,3.0,,
+F5-32,1,strut3,feature,23,1342.38,3060.0,3.0,3.0,,"peak, shallow signed-load maximum"
+F5-32,1,strut3,trace,24,1336.5,2992.0,3.125,3.125,,
+F5-32,1,strut3,feature,25,1333.0,2934.0,2.375,2.375,,"knee, minimum, second small compression lobe"
+F5-32,1,strut3,trace,26,1333.0,2906.0,2.625,2.625,,
+F5-32,1,strut3,trace,27,1340.5,2821.0,2.125,2.125,,
+F5-32,1,strut3,trace,28,1347.5,2735.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,feature,29,1348.0,2711.0,2.625,2.625,,"peak, near-zero shoulder with partly merged ink, ruling or frame meets trace; measured nearby stroke thickness"
+F5-32,1,strut3,trace,30,1347.5,2650.0,3.125,3.125,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,trace,31,1341.0,2564.0,1.625,1.625,,
+F5-32,1,strut3,feature,32,1340.5,2552.0,2.125,2.125,,"knee, compression starts increasing more rapidly"
+F5-32,1,strut3,trace,33,1329.5,2479.0,3.125,3.125,,
+F5-32,1,strut3,trace,34,1311.75,2393.95,2.875,2.875,,
+F5-32,1,strut3,trace,35,1293.5,2309.0,3.125,3.125,,
+F5-32,1,strut3,trace,36,1274.5,2224.0,2.125,2.125,,
+F5-32,1,strut3,trace,37,1258.33,2147.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,trace,38,1255.67,2139.0,2.625,2.625,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,1,strut3,feature,39,1249.0,2107.0,2.625,2.625,,"knee, rise eases toward the late compression crest"
+F5-32,1,strut3,trace,40,1240.0,2054.0,2.625,2.625,,
+F5-32,1,strut3,trace,41,1231.5,1969.0,3.125,3.125,,
+F5-32,1,strut3,feature,42,1228.38,1884.0,3.0,3.0,,"knee, minimum, largest compression magnitude"
+F5-32,1,strut3,trace,43,1228.38,1884.0,3.0,3.0,,
+F5-32,1,strut3,trace,44,1232.5,1799.0,2.125,2.125,,
+F5-32,1,strut3,trace,45,1237.0,1744.0,1.375,1.375,,free tip beyond .10 s
+F5-32,1,strut3,feature,46,1237.0,1744.0,1.375,1.375,,"last, free tip beyond .10 s"

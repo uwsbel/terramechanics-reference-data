@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-12,1,rc2-loose,marker,1,630.0,3665.1,3,6,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.7 px; apex and upper left side lie under the drawn line, which touches the symbol; left side taken as the mirror of the right side about the base midpoint (the other symbols are isosceles)"
+FC-12,1,rc2-loose,marker,2,808.3,3502.1,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.8 px; sits in a gap of the drawn line"
+FC-12,1,rc2-loose,marker,3,1100.2,3162.9,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 30.3 px; apex touches the y = 2000 grid line"
+FC-12,1,rc2-loose,marker,4,1265.5,3035.7,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 32.5 px; sits in a gap of the drawn line"
+FC-12,1,rc2-loose,marker,5,1435.1,2917.3,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 29.0 px; sits in a gap of the drawn line; right base corner touches the x = 3000 grid line"
+FC-12,1,rc2-loose,marker,6,1695.0,2646.4,3,6,triangle-up,"centroid of the reconstructed triangle (edge method), height 27.2 px; lower right side covered by the start of the next dash; right side taken as the mirror of the left side about the base midpoint"
+FC-12,1,rc2-loose,marker,7,1864.9,2509.6,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 28.1 px; sits in a gap of the drawn line"
+FC-12,1,rc2-loose,marker,8,1948.1,2405.5,2,5.5,triangle-up,"centroid of the reconstructed triangle (centre method), height 28.4 px; the drawn line ends in its base; base centre read on the clean right part of the base"
+FC-12,1,rc2-loose,trace,1,583.5,3685.4,4.5,9.5,,"the line runs into the left frame (x = 0 line); its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width"
+FC-12,1,rc2-loose,trace,2,730.6,3550.0,5.5,5.5,,at x = 500 psf
+FC-12,1,rc2-loose,trace,3,877.6,3415.5,5.5,5.5,,"at x = 1000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)"
+FC-12,1,rc2-loose,trace,4,1021.6,3282.1,5.5,5.5,,at x = 1500 psf
+FC-12,1,rc2-loose,trace,5,1165.6,3148.6,5.5,5.5,,"at x = 2000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)"
+FC-12,1,rc2-loose,trace,6,1311.0,3012.6,5.5,5.5,,at x = 2500 psf
+FC-12,1,rc2-loose,trace,7,1456.3,2878.9,5.5,5.5,,"at x = 3000 psf, on a vertical grid line crossing: centre from clean columns on one side only (within 10 px)"
+FC-12,1,rc2-loose,trace,8,1603.0,2741.6,5.5,5.5,,at x = 3500 psf
+FC-12,1,rc2-loose,trace,9,1749.6,2604.1,5.5,5.5,,"at x = 4000 psf, on a vertical grid line crossing: centre from clean columns either side"
+FC-12,1,rc2-loose,trace,10,1895.1,2468.0,5.5,5.5,,at x = 4500 psf
+FC-12,1,rc2-loose,trace,11,1948.5,2417.0,4.5,9.5,,"the line runs into the base of the last triangle; its end is hidden in the base stroke (the triangle's hole stays white, so it ends before u 1952)"
+FC-12,1,rc2-loose,feature,1,583.5,3685.4,4.5,9.5,,"first point of the line: the line runs into the left frame (x = 0 line); its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width"
+FC-12,1,rc2-loose,feature,2,1948.5,2417.0,4.5,9.5,,"last point of the line: the line runs into the base of the last triangle; its end is hidden in the base stroke (the triangle's hole stays white, so it ends before u 1952)"
+FC-12,1,rc2-loose,feature,3,583.5,3685.4,1,5.5,,intercept: the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line

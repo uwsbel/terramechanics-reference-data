@@ -1,0 +1,58 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-4A,1,dr95,marker,1,1136,2766.6,2,2,square,
+FC-4A,1,dr95,marker,2,1421.5,2201.5,2,2,square,
+FC-4A,1,dr95,marker,3,1771,1867,2,2,square,
+FC-4A,1,dr95,marker,4,2034,1378,2,2,square,
+FC-4A,1,dr95,marker,5,2283,1348,2,2,square,
+FC-4A,1,dr95,trace,1,923,2993,5.5,5.5,,left end; dashed
+FC-4A,1,dr95,trace,2,999,2894.0,5.5,5.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=260.5 psf
+FC-4A,1,dr95,trace,3,1069,2805.5,5.0,5.0,,dashed
+FC-4A,1,dr95,trace,4,1141,2706.5,8.0,8.0,,
+FC-4A,1,dr95,trace,5,1214,2610.0,7.5,7.5,,
+FC-4A,1,dr95,trace,6,1287,2512.0,8.5,8.5,,
+FC-4A,1,dr95,trace,7,1360,2414.5,8.0,8.0,,
+FC-4A,1,dr95,trace,8,1433,2316.0,7.5,7.5,,
+FC-4A,1,dr95,trace,9,1505,2220.0,7.5,7.5,,
+FC-4A,1,dr95,trace,10,1578,2124.0,7.5,7.5,,
+FC-4A,1,dr95,trace,11,1651,2027.0,7.5,7.5,,
+FC-4A,1,dr95,trace,12,1724,1927.5,8.0,8.0,,
+FC-4A,1,dr95,trace,13,1796,1830.0,6.5,6.5,,
+FC-4A,1,dr95,trace,14,1869,1736.0,7.5,7.5,,
+FC-4A,1,dr95,trace,15,1942,1637.0,7.5,7.5,,
+FC-4A,1,dr95,trace,16,2015,1538.5,9.0,9.0,,
+FC-4A,1,dr95,trace,17,2096,1426.5,5.0,5.0,,target x=4000 psf falls in a gap/marker/grid interference; nearest visible ink at x=4029.1 psf
+FC-4A,1,dr95,trace,18,2160,1347.0,7.5,7.5,,dashed
+FC-4A,1,dr95,trace,19,2231,1253.0,3.5,3.5,,dashed; target x=4500 psf falls in a gap/marker/grid interference; nearest visible ink at x=4492.8 psf
+FC-4A,1,dr95,trace,20,2306,1150.0,7.5,7.5,,dashed
+FC-4A,1,dr95,trace,21,2379,1053.5,7.0,7.0,,dashed
+FC-4A,1,dr95,trace,22,2380,1053.5,6.0,6.0,,right end; dashed; above plot frame
+FC-4A,1,dr95,feature,1,922.54,2993.62,5.5,5.5,,intercept
+FC-4A,1,dr95,feature,2,1587.5,2037.5,3,3,,label: 53°
+FC-4A,1,dr0,marker,1,1148.1,3258.9,2,2,circle,
+FC-4A,1,dr0,marker,2,1438.3,2914.1,2,2,circle,
+FC-4A,1,dr0,marker,3,1779.9,2684.4,2,2,circle,
+FC-4A,1,dr0,marker,4,2034.5,2401.3,2,2,circle,
+FC-4A,1,dr0,marker,5,2294,2163,2,2,circle,
+FC-4A,1,dr0,trace,1,923,3444,5.0,5.0,,left end; dashed
+FC-4A,1,dr0,trace,2,992,3389.0,4.5,4.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=234.2 psf
+FC-4A,1,dr0,trace,3,1069,3315.0,6.5,6.5,,dashed
+FC-4A,1,dr0,trace,4,1158,3232.5,6.0,6.0,,target x=750 psf falls in a gap/marker/grid interference; nearest visible ink at x=804.1 psf
+FC-4A,1,dr0,trace,5,1215,3178.5,6.0,6.0,,
+FC-4A,1,dr0,trace,6,1288,3109.5,6.0,6.0,,
+FC-4A,1,dr0,trace,7,1361,3041.5,6.0,6.0,,
+FC-4A,1,dr0,trace,8,1433,2974.5,6.0,6.0,,
+FC-4A,1,dr0,trace,9,1506,2906.5,6.0,6.0,,
+FC-4A,1,dr0,trace,10,1579,2838.5,5.0,5.0,,
+FC-4A,1,dr0,trace,11,1652,2769.5,5.0,5.0,,
+FC-4A,1,dr0,trace,12,1725,2701.5,6.0,6.0,,
+FC-4A,1,dr0,trace,13,1798,2634.5,6.0,6.0,,
+FC-4A,1,dr0,trace,14,1870,2566.5,6.0,6.0,,
+FC-4A,1,dr0,trace,15,1943,2497.5,6.0,6.0,,
+FC-4A,1,dr0,trace,16,2016,2429.5,7.0,7.0,,
+FC-4A,1,dr0,trace,17,2089,2362.0,6.5,6.5,,
+FC-4A,1,dr0,trace,18,2162,2292.5,6.0,6.0,,
+FC-4A,1,dr0,trace,19,2234,2225.5,7.0,7.0,,
+FC-4A,1,dr0,trace,20,2320,2145.0,7.5,7.5,,dashed; target x=4750 psf falls in a gap/marker/grid interference; nearest visible ink at x=4793.7 psf
+FC-4A,1,dr0,trace,21,2377,2088,5.0,5.0,,right end; dashed
+FC-4A,1,dr0,feature,1,922.86,3444.13,5.0,5.0,,intercept
+FC-4A,1,dr0,feature,2,1802.5,2571,3,3,,label: 43°

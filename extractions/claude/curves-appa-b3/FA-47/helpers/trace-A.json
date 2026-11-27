@@ -1,0 +1,217 @@
+{
+ "thickness_v_px": 6.0,
+ "n_thick": 198,
+ "dashes": [
+  {
+   "u_start": 892,
+   "v_start": 2339.3,
+   "start_hidden": true,
+   "u_end": 999,
+   "v_end": 2386.4,
+   "end_hidden": false,
+   "occ_before_start": 7,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1031,
+   "v_start": 2401.2,
+   "start_hidden": true,
+   "u_end": 1031,
+   "v_end": 2401.2,
+   "end_hidden": false,
+   "occ_before_start": 6,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1035,
+   "v_start": 2402.9,
+   "start_hidden": false,
+   "u_end": 1138,
+   "v_end": 2449.1,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1177,
+   "v_start": 2466.9,
+   "start_hidden": false,
+   "u_end": 1312,
+   "v_end": 2526.8,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1341,
+   "v_start": 2539.9,
+   "start_hidden": true,
+   "u_end": 1351,
+   "v_end": 2544.4,
+   "end_hidden": false,
+   "occ_before_start": 2,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1358,
+   "v_start": 2547.6,
+   "start_hidden": false,
+   "u_end": 1480,
+   "v_end": 2602.0,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1507,
+   "v_start": 2614.2,
+   "start_hidden": false,
+   "u_end": 1663,
+   "v_end": 2683.4,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1691,
+   "v_start": 2696.0,
+   "start_hidden": false,
+   "u_end": 1827,
+   "v_end": 2756.8,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 1850,
+   "v_start": 2767.1,
+   "start_hidden": false,
+   "u_end": 1957,
+   "v_end": 2814.5,
+   "end_hidden": true,
+   "occ_before_start": 0,
+   "occ_after_end": 13
+  },
+  {
+   "u_start": 1991,
+   "v_start": 2829.1,
+   "start_hidden": false,
+   "u_end": 2113,
+   "v_end": 2883.5,
+   "end_hidden": false,
+   "occ_before_start": 0,
+   "occ_after_end": 0
+  },
+  {
+   "u_start": 2138,
+   "v_start": 2894.5,
+   "start_hidden": false,
+   "u_end": 2280,
+   "v_end": 2958.1,
+   "end_hidden": true,
+   "occ_before_start": 0,
+   "occ_after_end": 10
+  }
+ ],
+ "gridline_crossings": [
+  {
+   "x": 0.0,
+   "u": 888.0,
+   "v": 2337.8,
+   "local_slope": 0.3777,
+   "fit_halfwidth": 40,
+   "states_left": "ooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.1,
+   "u": 1028.0,
+   "v": 2399.9,
+   "local_slope": 0.4497,
+   "fit_halfwidth": 40,
+   "states_left": "wwwwwwwwwwwooo",
+   "states_right": "oooiwwwiiiiiioo"
+  },
+  {
+   "x": 0.2,
+   "u": 1167.0,
+   "v": 2462.3,
+   "local_slope": 0.4358,
+   "fit_halfwidth": 40,
+   "states_left": "wwwwwwwwwwwooo",
+   "states_right": "ooowwwwwwwiiiii"
+  },
+  {
+   "x": 0.3,
+   "u": 1308.4,
+   "v": 2525.3,
+   "local_slope": 0.4494,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "oooiiwwwwwwwwww"
+  },
+  {
+   "x": 0.4,
+   "u": 1445.5,
+   "v": 2586.6,
+   "local_slope": 0.4511,
+   "fit_halfwidth": 40,
+   "states_left": "oooiiiiiiiiooo",
+   "states_right": "oooiiiiiiiiiiii"
+  },
+  {
+   "x": 0.5,
+   "u": 1584.7,
+   "v": 2648.6,
+   "local_slope": 0.4379,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.6,
+   "u": 1725.0,
+   "v": 2711.1,
+   "local_slope": 0.4473,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "oooiiiiiiiiiiii"
+  },
+  {
+   "x": 0.7,
+   "u": 1866.4,
+   "v": 2774.5,
+   "local_slope": 0.4407,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooooooooiiiii"
+  },
+  {
+   "x": 0.8,
+   "u": 2005.9,
+   "v": 2836.1,
+   "local_slope": 0.4511,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiioo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.9,
+   "u": 2145.4,
+   "v": 2897.9,
+   "local_slope": 0.4424,
+   "fit_halfwidth": 40,
+   "states_left": "wwwwwwwiiiiioo",
+   "states_right": "oooiiiiiiiiiiii"
+  },
+  {
+   "x": 1.0,
+   "u": 2283.1,
+   "v": 2959.6,
+   "local_slope": 0.4578,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiioo",
+   "states_right": "ooooooww"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+item,answer,confidence,comment
+001,all no,medium,"P (740,3333) is inside the vertical axis; distinguishable oblique ink begins more than 2 px to its right."
+002,all no,high,"Q (2109,2248) is on the horizontal grid line beyond the fit-line junction."
+003,all no,medium,"Q (650,3565) is inside the vertical axis, more than 2 px before separately visible fit-line ink."
+004,all yes,high,P is on the rounded cap of the oblique fit line.
+005,all no,medium,"Q (658,3617) lies inside the axis before the separately distinguishable oblique stroke."
+006,all no,high,"P (1836,2352) is on the triangle/base intersection; the fit line approaches below it."
+007,all yes,high,P lies on the terminal cap of the fit line beyond the vertical grid line.
+008,all no,medium,"Q (560,3559) is inside the axis, over 2 px before the separately visible fit line."
+009,all no,medium,"Q (633,3596) is inside the vertical axis; the distinguishable oblique stroke starts farther right."
+010,all yes,high,"P lies on the fit-line cap, separated from the triangle by a white notch."
+011,all no,medium,"P (574,3720) is inside the thick axis before the distinguishable oblique stroke."
+012,all yes,high,P is at the fit-line tip; a small white gap separates that tip from the triangle.
+013,all no,medium,"P (486,3714) is inside the axis, more than 2 px before distinct oblique ink."
+014,all yes,high,"P is on the oblique stroke below the triangle's base, rather than on its outline."
+015,all no,medium,"P (707,3681) is inside the axis; the separate fit-line stroke starts more than 2 px rightward."
+016,all yes,high,P lies on the independent fit-line cap below and left of the triangle.
+017,all no,medium,"Q (654,3486) is within the axis before the distinguishable fit-line stroke."
+018,all yes,high,P is on the separate fit-line tip between the two triangles.
+019,all yes,high,Q lies on the rounded fit-line cap below the upper triangle.
+020,all no,medium,"Q (635,3604) lies inside the vertical axis, over 2 px before distinguishable fit-line ink."
+021,all no,medium,"Q (584,3685) is inside the axis; independent oblique ink begins more than 2 px to the right."
+022,all no,medium,"P (1949,2419) is on the triangle's bottom outline where the fit line meets it."
+023,all no,medium,"Q (712,3703) lies inside the thick axis, before the distinguishable fit-line stroke."
+024,all no,high,"Q (2061,2943) is on the triangle's bottom outline beyond the separately visible fit-line tip."
+025,all yes,high,P lies on the upper edge of the rounded fit-line cap.
+026,all no,high,"Q (635,3741) is at the axes junction; the oblique line ends above and right, across a white gap."
+027,all no,medium,"Q (688,3673) is inside the thick vertical axis before the distinguishable oblique stroke."
+028,all yes,high,P lies on the rounded upper-right cap of the fit line.
+029,all yes,medium,"Q is at the lower dash/left-frame junction, within 2 px of the separately visible dash."
+030,all yes,medium,P is on the lower-curve stroke immediately before the circle's left outline.
+031,all yes,high,P lies on the mean stroke leaving above the circle; the circle's right outline is lower.
+032,all yes,high,P is on the independent cap of the solid mean curve.
+033,all yes,medium,P is within 2 px of the upper dash where it emerges from the frame.
+034,all yes,high,Q is on the upper-curve dash cap beyond the circle.
+035,all yes,high,"P lies on the lower dash's left cap, before the vertical grid line."
+036,all yes,high,P lies on the dash cap protruding to the right of the grid line.
+037,all yes,high,"P is at the solid mean curve's left cap, before the vertical grid line."
+038,all yes,high,Q is on the solid mean stroke just before the right frame.
+039,all no,high,"Q (875,2074) is on the vertical grid line; the upper dash begins about 5 px to its right."
+040,all yes,medium,Q is at the upper dash's visible junction with the right frame.
+041,all yes,medium,Q lies on the lower dash immediately before the right frame.
+042,all yes,high,Q lies on the lower-curve stroke between the left frame and the circle.
+043,all yes,high,Q lies on the short mean stroke immediately right of the left frame.
+044,all yes,medium,P is at the mean curve's visible tip immediately left of the right frame.
+045,all yes,medium,"Q is on or within 2 px of the upper dash's left cap, above the circle outline."
+046,all yes,high,Q lies on the upper dash immediately left of the right frame.
+047,all yes,medium,P is within 2 px of the lower dash emerging from the narrow grid line.
+048,all yes,high,P lies on the rounded lower-dash cap beyond the vertical grid line.
+049,all no,high,"P (965,2224) is on the circle's lower-left outline; the mean stroke leaves the circle to the right."
+050,all no,medium,"P (2510,1435) is on the far side of the grid line, over 2 px beyond distinguishable mean ink."
+051,all no,medium,"P (961,2118) is inside the vertical grid line, over 2 px before separately visible upper-dash ink."
+052,all yes,high,Both coincident P samples lie on the terminal upper-dash cap beyond the grid line.
+053,all yes,medium,"Q lies on the lower dash's cap/junction, which protrudes to the left of the grid line."
+054,all no,medium,"P (2343,2393) is on the vertical grid line above/right of the distinguishable lower-dash end."
+055,all yes,high,P lies on the solid mean stroke's left cap before the grid line.
+056,all no,medium,"Q (2322,2318) lies on the circle's upper-left outline; the solid mean stroke approaches lower down."
+057,all no,medium,"Q (800,3171) is on the vertical grid line, before the separately visible upper dash."
+058,all yes,medium,Q lies at the upper dash's visible end immediately left of the grid line.
+059,all no,medium,"P (599,2336) lies inside the thick frame, over 2 px before separately visible band-bottom ink."
+060,all no,high,"Q (2460,2303) is on the outer side of the frame beyond the distinguishable band-bottom edge."
+061,q,high,Q is the last distinguishable horizontal band-top ink at the inner frame edge; P is beyond that junction.
+062,all no,medium,"P (590,1953) is inside the thick left frame, over 2 px before distinguishable band-top ink."
+063,all no,high,"Q (2454,1917) is beyond the horizontal band's visible endpoint, on/outside the frame."
+064,all yes,high,"P lies on the lower dash's left cap, before the vertical grid line."
+065,all no,medium,"Q (2408,1647) lies on the far side of the vertical grid line beyond the separately visible lower dash."
+066,all yes,high,Q lies on the mean curve's cap protruding beyond the vertical grid line.
+067,all yes,high,P lies on the solid mean curve's left cap before the grid line.
+068,all no,medium,"Q (2404,1465) lies inside the grid line, more than 2 px beyond separately distinguishable upper-dash ink."
+069,all no,medium,"Q (858,2455) is inside the grid line before the distinguishable upper-dash cap."
+070,p,high,P lies on the short-dashed PS curve; Q follows the solid RC2 stroke at the disputed location.
+071,q,high,"Q is on short-dashed PS; P switches onto the lower, longer-dashed RS curve near (2258,1870)."
+072,all yes,high,P is on or within 2 px of the first PS dash's left cap.
+073,all yes,high,"Q lies on the last PS dash, left of the right frame."
+074,all yes,medium,P is within 2 px of the solid RC2 curve's left cap; the separate PS dash is above.
+075,all yes,high,P lies on the small terminal tip of the solid RC2 stroke.
+076,p,high,P is on long-dashed RS; Q has switched to the upper short-dashed PS curve at the disputed location.
+077,p,high,P is on the RS dash crossing the grid line; Q follows the higher PS dash there.
+078,all no,high,"P (792,2544) is in white space left of both the frame and the first RS dash."
+079,all yes,high,P lies on the last RS dash's cap before the right frame.
+080,all yes,medium,P lies on or within 2 px of the RSM-a stroke's left cap.
+081,all yes,medium,Q is on the RSM-a stroke's upper edge immediately left of the frame.
+082,all yes,medium,P is within 2 px of the RSM-b dash's left cap before the grid line.
+083,all yes,medium,"P is within 2 px of the last RSM-b dash's cap, beyond the grid line."
+084,all yes,high,Q lies on the solid SS curve's left cap before the grid line.
+085,all yes,high,Q lies on the solid SS curve's terminal cap beyond the grid line.

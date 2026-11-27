@@ -1,0 +1,6 @@
+﻿p='out/read_curves.py'
+s=open(p,encoding='utf-8-sig').read()
+s=s.replace("pred=gu(P,v)\n   if endpoint:","pred=gu(P,v)\n   if not endpoint and min(abs(v-P[0,1]),abs(v-P[-1,1]))<8:\n    e=P[0] if abs(v-P[0,1])<abs(v-P[-1,1]) else P[-1]\n    return float(e[0]),float(e[1])\n   if endpoint:")
+s=s.replace("if ov:b=max(b,7 if f=='F2-32' else 9);note+='; '+ov", "if ov:b=max(b,7 if f=='F2-32' else 9);note+='; '+ov\n   if f=='F2-32' and s=='lpt52' and endpoint and vv<2300:\n    b=max(b,12);note+='; terminal dotted ink merges with fit and grid; endpoint uncertain'\n   if f=='F2-32' and s=='lpt93' and endpoint and vv>3680:\n    note+='; cap extends slightly beyond zero-penetration line'\n   # Recenter faint-edge/gap candidates on ink within 3 px, without changing branch.\n   ui,vi=round(u),round(vv)\n   yy,xx=np.mgrid[vi-3:vi+4,ui-3:ui+4];sub=g[vi-3:vi+4,ui-3:ui+4];dd=np.hypot(xx-u,yy-vv)\n   if np.any(sub<180) and np.min(dd[sub<180])>2:\n    score=np.where(sub<180,dd,99);a,z=np.unravel_index(score.argmin(),score.shape);u=float(xx[a,z]);vv=float(yy[a,z]);note+='; snapped faint edge to nearby ink'")
+open(p,'w',encoding='utf-8').write(s)
+p='out/qa.py';s=open(p,encoding='utf-8-sig').read().replace("(0,2358,3788),(600","(0,2364,3788),(600");open(p,'w',encoding='utf-8').write(s)

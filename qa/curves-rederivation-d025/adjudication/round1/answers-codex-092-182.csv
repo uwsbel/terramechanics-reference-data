@@ -1,0 +1,92 @@
+item,answer,confidence,comment
+092,all yes,high,Sample is on the dash after the square.
+093,all yes,high,Sample is on the start of the next dash.
+094,all yes,high,Sample is on the dash end before the square.
+095,all yes,high,Sample lies on the next dash after the square.
+096,all yes,medium,Both samples meet the line at the dash ends around the triangle.
+097,all yes,high,Sample is on the dash end before the triangle.
+098,all yes,high,Sample is at the ink end before the triangle.
+099,all yes,high,Both samples lie on dash ends around the triangle.
+100,all yes,high,Sample lies on the dash end before the triangle.
+101,all yes,medium,Both samples are within tolerance of the dash ends.
+102,all yes,high,Sample lies on the next dash after the triangle.
+103,all yes,high,Sample lies on the next dash after the triangle.
+104,all yes,high,Sample lies on the dash end before the triangle.
+105,all yes,high,Sample lies on the dash after the circle.
+106,all yes,high,Both samples lie on line ink at the circle interruption.
+107,all yes,high,Sample lies on the next dash after the circle.
+108,all yes,high,Page enlargement confirms both samples on dash ink outside the circle.
+109,all yes,high,Both samples lie on dash ends outside the circle.
+110,all yes,high,Sample lies on the next dash after the circle.
+111,all yes,high,Sample is on line ink before the circle outline.
+112,all yes,high,Both samples lie on dash ink outside the circle.
+113,all yes,high,Sample lies on the dash end before the circle.
+114,all yes,high,Both samples lie on dash ink outside the circle.
+115,no,high,Mark is inside the first dash; ink starts lower and farther left with a gap from the plus.
+116,neither,medium,"P is short of the thin terminal ink tip near (2122,1619); Q is farther inside the dash."
+117,all yes,high,Both samples are on the dash after the plus.
+118,all yes,high,Enlargement confirms the sample is on the start of the next dash.
+119,all yes,high,Sample lies on the dash end before the plus.
+120,all yes,high,Sample lies on the next dash after the plus.
+121,all yes,high,Sample lies on the next dash after the plus.
+122,all yes,high,Sample lies on the next dash after the plus.
+123,all yes,high,Both samples lie on dash ends outside the plus.
+124,all yes,high,Both samples lie on dash ends outside the triangle.
+125,all yes,high,Sample lies on the next dash after the triangle.
+126,all yes,high,Sample lies on the next dash after the triangle.
+127,all yes,high,Sample lies on the drawn line below and right of the triangle.
+128,all yes,high,Both samples lie on dash ends outside the triangle.
+129,all yes,high,Sample lies on the dash end before the triangle.
+130,q,high,Line runs into the final square at the frame; its center is Q.
+131,some,high,"Off-line: (1229,2119) is in the white gap before the next dash; (1186,2119) is on ink."
+132,some,high,"Off-line: (1803,2164) is in the white gap immediately after the square outline; (1771,2155) is on the preceding dash."
+133,all yes,high,Both samples lie on dash ends outside the square.
+134,all yes,high,Both samples lie on dash ends outside the square.
+135,all yes,high,Sample lies on the dash after the square.
+136,all yes,high,Enlargement confirms all three samples on curve ink outside the square.
+137,all yes,high,Sample lies on terminal line ink leading into the final square.
+138,all yes,high,Both samples lie on dash ends outside the triangle.
+139,all yes,high,Both samples lie on dash ends outside the triangle.
+140,all yes,high,Both samples lie on dash ends outside the triangle.
+141,all yes,high,Both samples lie on dash ends outside the triangle.
+142,all yes,high,Both samples lie on dash ends outside the triangle.
+143,all yes,medium,Both samples meet the dash ink within the two-pixel height tolerance.
+144,all yes,high,Sample lies on the dash after the circle.
+145,all yes,high,Sample lies on the dash after the circle.
+146,all yes,high,Sample lies on the dash after the circle.
+147,all no,high,"Off-line: (2118,1413) is in the white gap just before the next dash."
+148,all no,high,"Off-line: (2248,1442) is in the white gap beyond the terminal dash."
+149,all yes,high,Both samples lie on dash ends outside the plus.
+150,all yes,high,Sample lies on line ink before the plus below it.
+151,all yes,high,Sample lies on the dash end before the plus.
+152,q,high,Q is at the triangle centroid; P lies on its right outline.
+153,q,high,Q is at the triangle center; P lies on its right outline near the frame.
+154,all no,high,"Off-line: (1346,2495) is in the white gap before the next dash."
+155,all yes,high,Both samples lie on the dash end before the triangle.
+156,all yes,high,Both samples lie on dash ends outside the triangle.
+157,all yes,high,All three samples lie on dash ink outside the triangle.
+158,some,high,"Off-line: (1587,2542) lies on the horizontal grid line in the triangle gap; (1596,2537) is on the dash."
+159,all yes,high,Sample lies on the dash after the triangle.
+160,all yes,high,Sample lies on the dash end before the triangle.
+161,all no,high,"Off-line: (1959,2578) lies on the triangle outline."
+162,all yes,high,Sample lies on the dash after the triangle.
+163,no,high,Mark is inside a square separated from both drawn segments; it is not a point of line ink.
+164,no,high,Mark is inside an isolated triangle rather than on the renewed line segment.
+165,no,high,Line enters the frame triangle; the last point is its center rather than this preceding point.
+166,all yes,high,All four samples lie on dash ink outside the triangle.
+167,yes,medium,Mark is on the bend into the progressively steeper terminal fall.
+168,neither,high,Both marks lie on the isolated triangle; line starts to its right across a white gap.
+169,all yes,high,All three samples lie on dash ink outside the triangle.
+170,all yes,high,All three samples lie on dash ink outside the square.
+171,all yes,high,All four samples lie on the drawn crest between triangles.
+172,all yes,high,Both samples lie on dash ends outside the triangle.
+173,all yes,high,Both samples lie on the descending n2934 ink on either side of the shared symbol gap.
+174,all yes,medium,Larger context shows shared ink before the circle; remaining samples follow the n3815 upper branch.
+175,no,high,First plus is isolated by white gaps; the drawn line starts above and to its right.
+176,all yes,high,All five samples lie on n4695 dash ink outside the plus.
+177,all yes,high,All six samples lie on the drawn line below the detached plus.
+178,all no,high,"Off-line: (727,2266) is on the first square outline rather than the drawn segment."
+179,no,high,Mark is inside the rising segment; line joins the first circle so its first point is the circle center.
+180,all yes,high,Both samples lie on dash ink outside the circle.
+181,no,high,Mark is inside the rising segment; line joins the first triangle so its first point is the triangle center.
+182,all yes,high,Both samples lie on dash ink outside the triangle.

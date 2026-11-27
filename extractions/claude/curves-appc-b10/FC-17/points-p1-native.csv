@@ -1,0 +1,85 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-17,1,data,marker,1,1132.0,2178.4,3.0,3.0,circle,"single; the solid (mean) curve runs over the top of the ring and merges with it (u 1115 to 1147), centre fitted on the free part of the ring; bound widened",0.1640603,43.42222,0.0023791,0.05207,piecewise
+FC-17,1,data,marker,2,1337.6,2146.9,2.5,2.5,circle,single; the x = 0.3 grid line runs through the right part of the ring,0.2942936,43.79625,0.0020788,0.04576,piecewise
+FC-17,1,data,marker,3,1364.6,1940.9,3.0,3.0,circle,"pair 1 left; the joining line leaves its right side; the x = 0.3 grid line touches its left side and the upper dashed curve passes behind its top (a dash ends at the grid line, the next starts at the ring's upper right); bound widened",0.3143069,46.47056,0.0025757,0.05208,piecewise
+FC-17,1,data,marker,4,1472.9,2168.0,2.0,2.0,circle,"single; sits in a gap of the lower dashed curve (one dash ends at u 1449, the next starts at the x = 0.4 grid line, u 1503); the ring does not touch the curve",0.3819364,43.49654,0.002307,0.0389,piecewise
+FC-17,1,data,marker,5,1676.9,1935.1,2.0,2.0,circle,pair 1 right; the joining line enters its left side,0.5182411,46.48896,0.0016664,0.03888,piecewise
+FC-17,1,data,marker,6,2644.9,1671.1,2.0,2.0,circle-dot,"outside the plot frame, 64 px right of the right frame line (about x 1.14 and y 49.7, beyond the labelled lines; the frame is at about x 1.10); ring heavier than the data circles and a dot at its centre; no joining line; whether it is a data point plotted beyond the frame or a mark that is not data cannot be told from the page; flagged for review",1.1414482,49.72757,0.0035405,0.03666,piecewise extrapolated x
+FC-17,1,upper,trace,1,880,2073.0,3.0,4.5,,first point: the ink starts at the right edge of the x = 0 grid line (columns 875 to 879 are the grid line); any part under the line cannot be seen,0.0021478,44.84287,0.0025147,0.07284,piecewise
+FC-17,1,upper,trace,2,953.0,2058.9,1.0,5.0,,"x=0.05; hgrid-top: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.0502003,45.01366,0.0011257,0.07895,piecewise
+FC-17,1,upper,trace,3,1050.0,2033.1,2.0,3.5,,"x=0.1 falls in a gap of the line (u 1001..1049); moved to the nearer dash end, on the ink",0.1136938,45.33117,0.0016573,0.05918,piecewise
+FC-17,1,upper,trace,4,1107.0,2018.3,1.0,4.5,,x=0.15,0.1500904,45.51301,0.0011009,0.07186,piecewise
+FC-17,1,upper,trace,5,1180.0,1994.3,2.0,4.0,,"x=0.2 falls in a gap of the line (u 1181..1225); moved to the nearer dash end, on the ink",0.1967787,45.81128,0.0018197,0.06534,piecewise
+FC-17,1,upper,trace,6,1264.0,1967.2,1.0,4.5,,x=0.25,0.2501,46.14769,0.0011699,0.07141,piecewise
+FC-17,1,upper,trace,7,1337.0,1941.6,2.0,4.5,,"x=0.3 falls in a gap of the line (u 1338..1379); moved to the nearer dash end, on the ink",0.2964439,46.46651,0.001788,0.07137,piecewise
+FC-17,1,upper,trace,8,1419.0,1912.5,1.0,4.5,,x=0.35,0.3500869,46.82897,0.001496,0.07094,piecewise
+FC-17,1,upper,trace,9,1495.0,1888.3,1.0,4.0,,"x=0.4; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.399876,47.12886,0.001781,0.06424,piecewise
+FC-17,1,upper,trace,10,1571.0,1862.8,1.0,4.0,,x=0.45,0.4502804,47.44551,0.0014443,0.06402,piecewise
+FC-17,1,upper,trace,11,1634.0,1842.2,2.0,4.5,,"x=0.5 falls in a gap of the line (u 1635..1701); moved to the nearer dash end, on the ink",0.4920766,47.70094,0.0018132,0.07051,piecewise
+FC-17,1,upper,trace,12,1725.0,1810.0,1.0,4.5,,x=0.55,0.550187,48.10144,0.0011148,0.07004,piecewise
+FC-17,1,upper,trace,13,1804.0,1783.9,1.0,3.5,,"x=0.6; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.6002832,48.42497,0.0011868,0.05685,piecewise
+FC-17,1,upper,trace,14,1882.0,1758.9,1.0,4.5,,x=0.65,0.6501864,48.73433,0.0011658,0.0696,piecewise
+FC-17,1,upper,trace,15,1960.0,1734.4,1.0,3.5,,"x=0.7; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.7000755,49.0371,0.0011566,0.05642,piecewise
+FC-17,1,upper,trace,16,2036.0,1711.3,1.0,4.0,,x=0.75,0.7502797,49.32201,0.0011941,0.06271,piecewise
+FC-17,1,upper,trace,17,2111.0,1688.2,1.0,4.0,,"x=0.8; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.7997769,49.60701,0.0012235,0.06251,piecewise
+FC-17,1,upper,trace,18,2190.0,1665.7,1.0,4.5,,x=0.85,0.8497571,49.88339,0.0014023,0.06879,piecewise
+FC-17,1,upper,trace,19,2269.0,1642.4,1.0,4.0,,"x=0.9; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.8997391,50.17003,0.001632,0.06329,piecewise extrapolated y
+FC-17,1,upper,trace,20,2347.0,1621.9,1.0,4.5,,x=0.95,0.9501678,50.42053,0.0013491,0.07098,piecewise extrapolated y
+FC-17,1,upper,trace,21,2424.0,1601.0,1.0,3.5,,"x=1; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.9999731,50.6763,0.0010349,0.05919,piecewise extrapolated x y
+FC-17,1,upper,trace,22,2501.0,1581.6,1.0,4.0,,x=1.05,1.0497731,50.91258,0.0016994,0.0668,piecewise extrapolated x y
+FC-17,1,upper,trace,23,2570.0,1564.2,1.5,4.5,,last point: the dash meets the inner edge of the right frame line (u 2571); nothing shows beyond the frame; also the maximum of the trace,1.0944076,51.12444,0.0026223,0.0744,piecewise extrapolated x y
+FC-17,1,upper,feature,1,880,2073.0,3.0,4.5,,first point: the ink starts at the right edge of the x = 0 grid line (columns 875 to 879 are the grid line); any part under the line cannot be seen,0.0021478,44.84287,0.0025147,0.07284,piecewise
+FC-17,1,upper,feature,2,2570.0,1564.2,1.5,4.5,,last point: the dash meets the inner edge of the right frame line (u 2571); nothing shows beyond the frame; also the maximum of the trace,1.0944076,51.12444,0.0026223,0.0744,piecewise extrapolated x y
+FC-17,1,mean,trace,1,866.0,2221.4,1.5,4.5,,first point: the ink starts 11 px left of the x = 0 grid line,-0.0087618,42.90906,0.0016123,0.07096,piecewise extrapolated x
+FC-17,1,mean,trace,2,879.0,2219.1,1.0,4.5,,"x=0; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",-0.0002088,42.93673,0.0012111,0.07089,piecewise extrapolated x
+FC-17,1,mean,trace,3,955.0,2206.7,1.0,3.5,,x=0.05,0.0497817,43.08483,0.0011086,0.05796,piecewise
+FC-17,1,mean,trace,4,1031.0,2190.9,1.0,4.0,,"x=0.1; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.0998139,43.27731,0.001033,0.06465,piecewise
+FC-17,1,mean,trace,5,1110.0,2171.5,1.0,4.0,,x=0.15,0.1501802,43.51622,0.0010936,0.06485,piecewise
+FC-17,1,mean,trace,6,1188.0,2149.7,1.0,3.5,,"x=0.2; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.1999515,43.78664,0.0011765,0.05854,piecewise
+FC-17,1,mean,trace,7,1267.0,2126.5,1.0,4.0,,x=0.25,0.2500377,44.07516,0.0011635,0.06531,piecewise
+FC-17,1,mean,trace,8,1346.0,2101.6,1.0,4.0,,"x=0.3; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.3001519,44.38587,0.0011952,0.06557,piecewise
+FC-17,1,mean,trace,9,1422.0,2076.9,1.0,3.5,,x=0.35,0.3499511,44.69453,0.0014825,0.0593,piecewise
+FC-17,1,mean,trace,10,1498.0,2051.8,1.0,5.5,,"x=0.4; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges); the x = 0.4 grid line and the 45 grid line both cross the curve here; centre from the curve's free edges on either side; bound widened",0.3997546,45.00836,0.0017969,0.08549,piecewise
+FC-17,1,mean,trace,11,1574.0,2025.4,1.0,4.0,,x=0.45,0.4500808,45.33703,0.0014432,0.06542,piecewise
+FC-17,1,mean,trace,12,1649.0,1998.8,1.0,4.0,,"x=0.5; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.4997816,45.66837,0.0010848,0.06519,piecewise
+FC-17,1,mean,trace,13,1728.0,1970.7,1.0,4.0,,x=0.55,0.5500234,46.01831,0.0011101,0.06494,piecewise
+FC-17,1,mean,trace,14,1807.0,1942.9,1.0,4.0,,"x=0.6; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.600226,46.36424,0.0011939,0.0647,piecewise
+FC-17,1,mean,trace,15,1885.0,1915.8,1.0,3.5,,x=0.65,0.6501903,46.70116,0.0011545,0.05798,piecewise
+FC-17,1,mean,trace,16,1963.0,1889.6,1.0,3.5,,"x=0.7; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.7001372,47.0263,0.0011609,0.05776,piecewise
+FC-17,1,mean,trace,17,2038.0,1865.3,1.0,4.0,,x=0.75,0.7498766,47.32728,0.0011982,0.06403,piecewise
+FC-17,1,mean,trace,18,2114.0,1840.4,1.0,3.0,,"x=0.8; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.8002178,47.63574,0.0012079,0.05086,piecewise
+FC-17,1,mean,trace,19,2193.0,1815.0,1.0,3.0,,x=0.85,0.8502057,47.95001,0.0013894,0.05064,piecewise
+FC-17,1,mean,trace,20,2272.0,1790.7,1.0,3.0,,"x=0.9; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.9001904,48.24994,0.0016238,0.05043,piecewise
+FC-17,1,mean,trace,21,2349.0,1767.1,1.0,3.5,,x=0.95,0.9499718,48.54107,0.001339,0.0567,piecewise
+FC-17,1,mean,trace,22,2426.0,1744.8,1.0,4.0,,"x=1; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.9997517,48.81528,0.0010365,0.06299,piecewise extrapolated x
+FC-17,1,mean,trace,23,2504.0,1723.0,1.0,4.0,,x=1.05,1.0501814,49.08274,0.0017035,0.0628,piecewise extrapolated x
+FC-17,1,mean,trace,24,2573.0,1704.3,1.5,4.5,,last point: the line meets the inner edge of the right frame line (u 2574); nothing shows beyond the frame; also the maximum of the trace,1.0947953,49.3117,0.0026253,0.0692,piecewise extrapolated x
+FC-17,1,mean,feature,1,866.0,2221.4,1.5,4.5,,first point: the ink starts 11 px left of the x = 0 grid line,-0.0087618,42.90906,0.0016123,0.07096,piecewise extrapolated x
+FC-17,1,mean,feature,2,2573.0,1704.3,1.5,4.5,,last point: the line meets the inner edge of the right frame line (u 2574); nothing shows beyond the frame; also the maximum of the trace,1.0947953,49.3117,0.0026253,0.0692,piecewise extrapolated x
+FC-17,1,lower,trace,1,863.0,2350.5,1.5,4.5,,first point: the ink starts 12 px left of the x = 0 grid line,-0.0122297,41.22511,0.0016406,0.06956,piecewise extrapolated x
+FC-17,1,lower,trace,2,882.0,2348.4,1.0,4.0,,"x=0; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.0002539,41.24908,0.0012012,0.06296,piecewise extrapolated x
+FC-17,1,lower,trace,3,958.0,2335.5,1.0,4.0,,x=0.05,0.0502415,41.40367,0.0011135,0.06309,piecewise
+FC-17,1,lower,trace,4,1019.0,2323.3,2.0,3.0,,"x=0.1 falls in a gap of the line (u 1020..1049); moved to the nearer dash end, on the ink",0.090386,41.55185,0.0016932,0.05034,piecewise
+FC-17,1,lower,trace,5,1112.0,2298.9,1.0,3.5,,x=0.15,0.1499411,41.85345,0.001086,0.05694,piecewise
+FC-17,1,lower,trace,6,1191.0,2276.6,1.0,4.5,,"x=0.2; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.2002941,42.13019,0.0011864,0.07023,piecewise
+FC-17,1,lower,trace,7,1269.0,2251.3,1.0,3.5,,x=0.25,0.2497681,42.44626,0.0011573,0.05743,piecewise
+FC-17,1,lower,trace,8,1348.0,2224.8,1.0,3.5,,"x=0.3; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.29989,42.77783,0.0011837,0.05771,piecewise
+FC-17,1,lower,trace,9,1424.0,2198.9,1.0,3.5,,x=0.35,0.3497031,43.10211,0.0014811,0.05798,piecewise
+FC-17,1,lower,trace,10,1506.0,2170.3,2.0,4.0,,"x=0.4 falls in a gap of the line (u 1450..1505); moved to the nearer dash end, on the ink",0.4034898,43.46056,0.0024381,0.06499,piecewise
+FC-17,1,lower,trace,11,1576.0,2143.5,1.0,4.0,,x=0.45,0.4498188,43.7977,0.0014432,0.06509,piecewise
+FC-17,1,lower,trace,12,1677.0,2105.0,2.0,4.5,,"x=0.5 falls in a gap of the line (u 1626..1676); moved to the nearer dash end, on the ink",0.5160683,44.28195,0.001699,0.0722,piecewise
+FC-17,1,lower,trace,13,1730.0,2085.4,1.0,3.5,,x=0.55,0.5498171,44.52821,0.0011047,0.05917,piecewise
+FC-17,1,lower,trace,14,1809.0,2056.4,1.0,3.4,,"x=0.6; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.600095,44.89247,0.0011871,0.05816,piecewise
+FC-17,1,lower,trace,15,1887.0,2027.5,1.0,4.5,,x=0.65,0.6501067,45.25374,0.0011673,0.07191,piecewise
+FC-17,1,lower,trace,16,1965.0,1999.2,1.0,4.0,,"x=0.7; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.7001026,45.60633,0.00117,0.06518,piecewise
+FC-17,1,lower,trace,17,2040.0,1972.7,1.0,4.5,,x=0.75,0.7499937,45.93604,0.0012068,0.07143,piecewise
+FC-17,1,lower,trace,18,2115.0,1946.6,1.0,4.0,,"x=0.8; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.7998224,46.26046,0.0012308,0.06473,piecewise
+FC-17,1,lower,trace,19,2194.0,1919.1,1.0,4.0,,x=0.85,0.849831,46.60216,0.0013972,0.06449,piecewise
+FC-17,1,lower,trace,20,2273.0,1892.5,1.0,4.0,,"x=0.9; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",0.8998264,46.93209,0.0016313,0.06426,piecewise
+FC-17,1,lower,trace,21,2351.0,1867.0,1.0,4.5,,x=0.95,0.9502384,47.24786,0.0013468,0.07051,piecewise
+FC-17,1,lower,trace,22,2428.0,1841.8,1.0,4.0,,"x=1; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",1.0000212,47.55981,0.0010395,0.06382,piecewise extrapolated x
+FC-17,1,lower,trace,23,2505.0,1818.0,1.0,4.5,,x=1.05,1.0498021,47.85355,0.001703,0.07009,piecewise extrapolated x
+FC-17,1,lower,trace,24,2583.0,1794.6,1.0,3.5,,"x=1.1; vgrid: centre bridged from the curve's own ink on either side (clean columns, and free-edge readings where a grid line merges)",1.1002343,48.14183,0.0023588,0.05694,piecewise extrapolated x
+FC-17,1,lower,trace,25,2593.0,1792.3,1.5,3.0,,last point: the last dash runs through the right frame line (u 2576 to 2585) and ends 8 px beyond it; also the maximum of the trace,1.1066931,48.16973,0.0027645,0.05054,piecewise extrapolated x
+FC-17,1,lower,feature,1,863.0,2350.5,1.5,4.5,,first point: the ink starts 12 px left of the x = 0 grid line,-0.0122297,41.22511,0.0016406,0.06956,piecewise extrapolated x
+FC-17,1,lower,feature,2,2593.0,1792.3,1.5,3.0,,last point: the last dash runs through the right frame line (u 2576 to 2585) and ends 8 px beyond it; also the maximum of the trace,1.1066931,48.16973,0.0027645,0.05054,piecewise extrapolated x

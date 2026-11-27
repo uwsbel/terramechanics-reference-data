@@ -1,0 +1,21 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_target_psf,x_unit,y_unit,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-8,1,rs-loose,marker,1,780.0,3347.0,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,136.365,204.767,12.12,19.289,piecewise
+FC-8,1,rs-loose,marker,2,955.0,3160.333,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,730.957,836.794,9.987,19.314,piecewise
+FC-8,1,rs-loose,marker,3,1425.333,2771.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,2345.202,2175.891,9.999,19.889,piecewise
+FC-8,1,rs-loose,marker,4,1592.667,2557.0,5,8,triangle-up,Triangle centroid from reconstructed vertices. Vertical and horizontal grid lines touch triangle; vertices reconstructed from visible sides.,,psf,psf,2920.859,2914.483,20.806,30.322,piecewise
+FC-8,1,rs-loose,marker,5,1846.0,2406.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,3788.111,3442.198,9.462,20.075,piecewise
+FC-8,1,rs-loose,marker,6,2104.333,2327.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,4671.767,3724.461,9.605,19.966,piecewise
+FC-8,1,rs-loose,trace,1,740.183,3332.662,9.46,7.5,,first point; line begins on zero axis; centre of short diagonal stroke meeting axis ink,,psf,psf,0.112,251.277,38.382,27.952,piecewise extrapolated x
+FC-8,1,rs-loose,trace,2,887.097,3216.0,9.46,7.5,,,500,psf,psf,500.001,647.712,36.428,27.967,piecewise
+FC-8,1,rs-loose,trace,3,1034.095,3099.441,9.46,7.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,1000,psf,psf,999.999,1044.522,34.896,28.451,piecewise
+FC-8,1,rs-loose,trace,4,1179.595,2985.0,9.46,7.5,,,1500,psf,psf,1499.999,1439.792,35.225,28.527,piecewise
+FC-8,1,rs-loose,trace,5,1325.118,2869.366,9.46,7.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,2000,psf,psf,2000.001,1839.099,35.675,28.604,piecewise
+FC-8,1,rs-loose,trace,6,1470.125,2755.0,9.46,7.5,,,2500,psf,psf,2500.001,2234.468,35.987,28.711,piecewise
+FC-8,1,rs-loose,trace,7,1615.104,2639.217,9.46,7.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3000,psf,psf,2999.999,2634.955,36.254,28.757,piecewise
+FC-8,1,rs-loose,trace,8,1761.438,2523.436,9.46,7.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3500,psf,psf,3500.0,3035.919,35.434,29.142,piecewise
+FC-8,1,rs-loose,trace,9,1907.761,2407.233,9.46,7.5,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,4000,psf,psf,4000.001,3442.593,34.896,28.985,piecewise
+FC-8,1,rs-loose,trace,10,2054.361,2290.0,9.46,7.5,,,4500,psf,psf,4500.0,3852.519,35.106,28.827,piecewise
+FC-8,1,rs-loose,trace,11,2108.829,2247.806,9.46,7.5,,"last point; peak of monotonically increasing straight trace; diagonal endpoint merges with 400.00 horizontal grid, no diagonal ink continues above it",,psf,psf,4685.765,4000.044,35.214,29.028,piecewise
+FC-8,1,rs-loose,feature,1,740.183,3332.662,9.46,7.5,,first point,,psf,psf,0.112,251.277,38.382,27.952,piecewise extrapolated x
+FC-8,1,rs-loose,feature,2,2108.829,2247.806,9.46,7.5,,"last point; peak of monotonically increasing straight trace; diagonal endpoint merges with 400.00 horizontal grid, no diagonal ink continues above it",,psf,psf,4685.765,4000.044,35.214,29.028,piecewise
+FC-8,1,rs-loose,feature,3,740.183,3332.662,9.46,7.5,,intercept,,psf,psf,0.112,251.277,38.382,27.952,piecewise extrapolated x

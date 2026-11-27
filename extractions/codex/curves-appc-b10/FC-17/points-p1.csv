@@ -1,0 +1,84 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-17,1,data,marker,1,1131.0,2180.0,18,18,circle,single; overlaps mean
+FC-17,1,data,marker,2,1336.5,2147.5,4,4,circle,single; overlaps vertical grid
+FC-17,1,data,marker,3,1471.5,2168.0,5,5,circle,single; near lower curve
+FC-17,1,data,marker,4,1364.5,1940.0,18,18,circle,pair 1 left; overlaps upper
+FC-17,1,data,marker,5,1675.0,1935.0,2,2,circle,pair 1 right
+FC-17,1,data,marker,6,2645.0,1670.5,3,3,circle,single; outside right frame; interior ink speck
+FC-17,1,mean,trace,1,867,2220,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,mean,trace,2,879.38,2219.13,4.5,4.5,,Dr target 0.00; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,3,955,2206.5,3.0,3.0,,Dr target 0.05
+FC-17,1,mean,trace,4,1031.36,2190.34,4.0,4.0,,Dr target 0.10; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,5,1188.19,2149.46,4.0,4.0,,Dr target 0.20; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,6,1267,2127.0,4.5,4.5,,Dr target 0.25
+FC-17,1,mean,trace,7,1345.65,2101.48,4.0,4.0,,Dr target 0.30; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,8,1422,2076.5,4.0,4.0,,Dr target 0.35
+FC-17,1,mean,trace,9,1497.77,2051.43,4.0,4.0,,Dr target 0.40; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,10,1574,2025.5,4.0,4.0,,Dr target 0.45
+FC-17,1,mean,trace,11,1649.43,1998.66,4.0,4.0,,Dr target 0.50; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,12,1728,1971.0,4.5,4.5,,Dr target 0.55
+FC-17,1,mean,trace,13,1806.69,1943.08,4.0,4.0,,Dr target 0.60; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,14,1885,1915.5,3.0,3.0,,Dr target 0.65
+FC-17,1,mean,trace,15,1962.82,1890.07,4.0,4.0,,Dr target 0.70; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,16,2038,1865.0,3.5,3.5,,Dr target 0.75
+FC-17,1,mean,trace,17,2113.43,1840.61,3.5,3.5,,Dr target 0.80; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,18,2193,1815.5,4.0,4.0,,Dr target 0.85
+FC-17,1,mean,trace,19,2271.95,1790.65,3.5,3.5,,Dr target 0.90; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,20,2349,1766.5,4.0,4.0,,Dr target 0.95
+FC-17,1,mean,trace,21,2426.3,1744.92,4.0,4.0,,Dr target 1.00; curve/grid crossing read from adjoining curve ink
+FC-17,1,mean,trace,22,2503,1723.0,3.5,3.5,,Dr target 1.05
+FC-17,1,mean,trace,23,2571,1705.5,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,mean,feature,1,867,2220,4.5,4.5,,first point; left end of identifiable curve ink
+FC-17,1,mean,feature,2,2571,1705.5,4.5,4.5,,last point; right end; peak of increasing trace
+FC-17,1,upper,trace,1,875,2074,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,upper,trace,2,983,2049.5,5.0,5.0,,Dr target 0.05; dash end when target is in gap; moved +30.3 px to nearest visible curve ink
+FC-17,1,upper,trace,3,1050,2033.0,2.5,2.5,,Dr target 0.10; dash end when target is in gap; moved +21.4 px to nearest visible curve ink
+FC-17,1,upper,trace,4,1107,2019.0,4.5,4.5,,Dr target 0.15; dash end when target is in gap
+FC-17,1,upper,trace,5,1178,1995.5,4.0,4.0,,Dr target 0.20; dash end when target is in gap; moved -7.1 px to nearest visible curve ink
+FC-17,1,upper,trace,6,1264,1968.0,4.5,4.5,,Dr target 0.25; dash end when target is in gap
+FC-17,1,upper,trace,7,1332,1944.0,4.5,4.5,,Dr target 0.30; dash end when target is in gap; moved -10.4 px to nearest visible curve ink
+FC-17,1,upper,trace,8,1418,1913.0,3.5,3.5,,Dr target 0.35; dash end when target is in gap
+FC-17,1,upper,trace,9,1494.15,1888.22,4.0,4.0,,Dr target 0.40; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,10,1570,1863.0,4.5,4.5,,Dr target 0.45; dash end when target is in gap
+FC-17,1,upper,trace,11,1634,1842.5,4.0,4.0,,Dr target 0.50; dash end when target is in gap; moved -11.9 px to nearest visible curve ink
+FC-17,1,upper,trace,12,1725,1809.5,4.0,4.0,,Dr target 0.55; dash end when target is in gap
+FC-17,1,upper,trace,13,1803.61,1784.3,4.0,4.0,,Dr target 0.60; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,14,1882,1758.0,4.5,4.5,,Dr target 0.65; dash end when target is in gap
+FC-17,1,upper,trace,15,1959.83,1734.64,3.5,3.5,,Dr target 0.70; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,16,2035,1711.0,3.5,3.5,,Dr target 0.75; dash end when target is in gap
+FC-17,1,upper,trace,17,2111.06,1688.22,3.5,3.5,,Dr target 0.80; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,18,2190,1666.0,3.5,3.5,,Dr target 0.85; dash end when target is in gap
+FC-17,1,upper,trace,19,2269.64,1642.32,4.0,4.0,,Dr target 0.90; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,20,2347,1622.5,5.0,5.0,,Dr target 0.95; dash end when target is in gap
+FC-17,1,upper,trace,21,2423.95,1601.07,3.5,3.5,,Dr target 1.00; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,upper,trace,22,2501,1582.0,3.5,3.5,,Dr target 1.05; dash end when target is in gap
+FC-17,1,upper,trace,23,2570,1564,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,upper,feature,1,875,2074,4.5,4.5,,first point; left end of identifiable curve ink
+FC-17,1,upper,feature,2,2570,1564,4.5,4.5,,last point; right end; peak of increasing trace
+FC-17,1,lower,trace,1,864,2350.5,4.5,4.5,,left end; first identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,lower,trace,2,881.67,2348.36,4.0,4.0,,Dr target 0.00; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,3,958,2336.0,3.5,3.5,,Dr target 0.05; dash end when target is in gap
+FC-17,1,lower,trace,4,1018,2323.5,3.0,3.0,,Dr target 0.10; dash end when target is in gap; moved -15.7 px to nearest visible curve ink
+FC-17,1,lower,trace,5,1112,2298.5,4.0,4.0,,Dr target 0.15; dash end when target is in gap
+FC-17,1,lower,trace,6,1190.64,2276.58,4.0,4.0,,Dr target 0.20; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,7,1269,2251.5,3.0,3.0,,Dr target 0.25; dash end when target is in gap
+FC-17,1,lower,trace,8,1348.07,2224.92,3.5,3.5,,Dr target 0.30; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,9,1424,2199.0,4.5,4.5,,Dr target 0.35; dash end when target is in gap
+FC-17,1,lower,trace,10,1508,2169.5,4.0,4.0,,Dr target 0.40; dash end when target is in gap; moved +7.7 px to nearest visible curve ink
+FC-17,1,lower,trace,11,1576,2144.0,3.5,3.5,,Dr target 0.45; dash end when target is in gap
+FC-17,1,lower,trace,12,1677,2104.5,3.0,3.0,,Dr target 0.50; dash end when target is in gap; moved +25.0 px to nearest visible curve ink
+FC-17,1,lower,trace,13,1730,2085.5,4.0,4.0,,Dr target 0.55; dash end when target is in gap
+FC-17,1,lower,trace,14,1801,2059.0,4.5,4.5,,Dr target 0.60; dash end when target is in gap; moved -7.8 px to nearest visible curve ink
+FC-17,1,lower,trace,15,1887,2028.0,4.5,4.5,,Dr target 0.65; dash end when target is in gap
+FC-17,1,lower,trace,16,1964.85,1999.4,4.5,4.5,,Dr target 0.70; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,17,2040,1973.0,3.5,3.5,,Dr target 0.75; dash end when target is in gap
+FC-17,1,lower,trace,18,2115.04,1946.49,4.0,4.0,,Dr target 0.80; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,19,2194,1919.0,3.5,3.5,,Dr target 0.85; dash end when target is in gap
+FC-17,1,lower,trace,20,2273.54,1892.15,4.0,4.0,,Dr target 0.90; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,21,2351,1866.5,4.0,4.0,,Dr target 0.95; dash end when target is in gap
+FC-17,1,lower,trace,22,2427.89,1841.94,4.0,4.0,,Dr target 1.00; dash end when target is in gap; curve/grid crossing read from adjoining curve ink
+FC-17,1,lower,trace,23,2505,1818.0,4.5,4.5,,Dr target 1.05; dash end when target is in gap
+FC-17,1,lower,trace,24,2586,1793.5,4.0,4.0,,Dr target 1.10; dash end when target is in gap; moved +3.8 px to nearest visible curve ink
+FC-17,1,lower,trace,25,2591,1792.5,4.5,4.5,,right end; last identifiable curve ink; terminal merged with frame/symbol where noted
+FC-17,1,lower,feature,1,864,2350.5,4.5,4.5,,first point; left end of identifiable curve ink
+FC-17,1,lower,feature,2,2591,1792.5,4.5,4.5,,last point; right end; peak of increasing trace

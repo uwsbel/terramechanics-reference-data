@@ -1,0 +1,92 @@
+item,answer,confidence,comment
+183,all yes,high,"(1539,1796) is the last px of the left dash (ends u1540); (1585,1798) on the right dash (starts u1579); triangle sits in the gap with white on both sides."
+184,q,high,"Plus vertical bar u1840-1846, v1664-1694: center ~(1843,1679). Q 1 px off; P 5 px right, on the right arm just off the vertical bar."
+185,all yes,high,"(1204,1688) on the left dash (ends u1210); (1253,1683) on the left edge of the right dash; the plus (u1217-1240) sits in the gap."
+186,all yes,high,"(1113,2226) on the right dash, 3 px inside its start (u1110); white gap u1104-1109 separates it from the triangle."
+187,all yes,high,"(1184,2224) on the left dash end (u1186); (1227,2222) on the right dash (starts u1224); triangle in the gap."
+188,all yes,high,"(1302,2222) on the left dash end (u1304); (1347,2222) on the right dash (starts ~u1342); triangle u1308-1335 in the gap."
+189,all yes,high,(1418) last px of the left dash; (1458) first px of the right dash; (1467) on that dash; triangle u1423-1451 in the gap.
+190,all yes,high,(1538) on the left dash (ends u1541); (1578) first px of the right dash just right of the grid line (u1568-1572); (1587) on that dash.
+191,all yes,high,"(1695,2218) is the first dark px of the right dash; white u1690-1694 separates it from the triangle."
+192,all yes,high,"(1767) on the left dash (ends ~u1771); (1815) on the left edge of the right dash, after the triangle (u1778-1806)."
+193,all yes,high,Both on the line ink before it merges into the last triangle; the triangle outline starts at u~2137-2141 at that height.
+194,all yes,high,"(726,1920) on the line ink near its lower end (ink from u724); the circle below-left is separated by a gap."
+195,all yes,high,"Both on ink; the line ends at u2071, then a white gap and the circle at ~u2085."
+196,all yes,high,"Both on ink; the line ends at ~u2070, white gap before the triangle."
+197,neither,medium,"Line tip (718-721,1723) touches the square's top edge (717,1724) with no white gap, so by convention the first point is the square center ~(704,1739). Both marks are on the line above it (Q 8 px, P 16 px above the ink tip)."
+198,all yes,high,"All three P samples are on the ink of the line's lower tip (u716-730, v1707-1714)."
+199,all yes,high,"Both on ink; the line ends at u2070, white gap to the square at u2075."
+200,no,medium,"P is on the short stroke between the square and the triangle, but that stroke runs into the triangle apex with no gap, so the first point is the triangle centroid ~(706,1783), 22 px lower."
+201,q,high,"Plus: vertical bar u1922-1929 (v1983-2012), arm v1994-1999: center ~(1925,1997). Q on it; P is in white space below-right of the plus."
+202,all yes,high,Both on ink; the line ends at u2064.
+203,neither,medium,"The line tip merges into the first triangle's apex/right side (only 1-2 px slivers, no real gap), so by convention the first point is the triangle centroid ~(708,2177). Both marks are on the line 15-20 px above it; if a gap were read, the ink tip (~718,2167) is nearer P."
+204,p,medium,"Line ink ends at u2097 (rows 2015-2023) with a 1-4 px white gap before the triangle (u2099-2102): P is at the ink end, Q 7 px short."
+205,p,high,"Triangle apex (1637,1986), base ~v2011 from u1622 to 1652: centroid ~(1637,2003), bbox middle v2000. P on center; Q 10 px right on the right side stroke."
+206,q,medium,"The drawn line ends at u~2080 with a white gap before the last square (u2089-2118); Q is 2 px from that end. P is on a blob fused to the square's lower-right corner (u2113-2128); no line ink crosses the square interior, so it is not the line."
+207,some,medium,"(2079,1558) on the line's end ink. Off: (2126,1564), on the blob fused to the last square's lower-right corner beyond the square, not on the drawn line."
+208,all yes,high,Both on the left dash end (dash ends u1485); the square starts at u1494.
+209,some,high,"(1881,1523) on the left dash end and (1946,1522) on the right dash edge are on the n3815 line. Off: (1887,1538) and (1890,1538), which are on the n2934 dash below (v1534-1546)."
+210,p,high,"Vertical bar u1626-1632, v1220-1249: center ~(1629,1234). P 1 px off; Q 5 px left, off the bar on the arm/line."
+211,p,high,"Vertical bar u1916-1921, arm v1217-1221 (u1907-1932): center ~(1918,1219). Q is in white space below the left arm."
+212,all yes,high,"(1889,1228) on the left dash end (u1885-1890); (1949,1225) on the left edge of the right dash (starts u1948). The line runs along the 4000 psf grid line here."
+213,p,high,"Line ink ends at u2098, white gap u2099-2103, circle at u2104: P exactly at the end, Q 9 px short."
+214,q,high,"Plus: vertical bar u1924-1930, arm v2938-2943: center ~(1927,2941). P is on the left side of the adjacent n2934 square (u1937-1942)."
+215,q,high,"Plus: vertical bar u2092-2097 (v2926-2952), arms u2081-2108: center ~(2094.5,2938.5). P is 10 px right on the right arm next to the square."
+216,neither,medium,"The final dash (u2170-2222) has a lower bulge that merges into the last triangle's left side, so by convention the last point is the triangle center ~(2232,2172). Even taking the ink end (~u2221), P is 30 px and Q 16 px short."
+217,all yes,high,"(2196,2163) is inside the final dash ink (v2156-2165 at that u)."
+218,both,medium,"Line separated from the circle by a 3-4 px gap; ink tip ~(826,2073). Q is 3 px from the tip (near the edge), P 7 px in on the centerline; both inside the end cap, y differs by ~3 psf."
+219,all yes,high,"(1136,1922) at the end of the left dash where it crosses the grid line (dash ink above and below the grid at u1136); (1183,1904) on the right dash (starts u1181)."
+220,all yes,high,"(1251,1883) on ink; the dash ends at u1252."
+221,all yes,high,"(1727,1786) on the left dash end (u1729); (1767,1780) on the right dash (starts u1765)."
+222,all yes,high,(1844) on the left dash (ends u1848); (1884) on the left edge of the right dash (starts u1883).
+223,all yes,high,(1961) on the left dash end; (2010) on the right dash (starts u2008).
+224,neither,medium,"Line tip (834-837,1986-1987) touches the square's top edge (row 1988) with no gap, so the first point is the square center ~(826,1999). Both marks are on the line above it; the ink tip is nearer Q."
+225,all yes,high,"(833,1980) on the line ink (row 1980 dark u831-845)."
+226,all yes,high,"All three on the continuous line through the grid crossing (vertical grid u1345-1349, horizontal v1623-1628), not on the grid lines alone."
+227,all yes,high,"(1482,1551) on the left dash end; (1527,1532) on the right dash start; square in the gap."
+228,all yes,high,"(1601) on the left dash end; (1647) on the right dash, 4 px right of the vertical grid line (u1639-1642)."
+229,neither,high,"The line runs straight into the triangle-down's top edge (rows 1832-1838), no gap: first point is the triangle centroid ~(813,1843). Both marks are on the line above it."
+230,all yes,high,"(826,1828) on the line ink (row 1828 dark u817-830)."
+231,all yes,high,"(1131,1462) on the lower dash near its end; (1172,1424) on the upper dash near its start; the triangle (u1137-1170) sits in the gap."
+232,all yes,high,"(1306,1322) on the left dash end; (1349,1293) on the right dash, right of the grid line (u1340-1344)."
+233,all yes,high,"(1755,1146) on the left edge of the right dash (starts u1753); triangle edge at u1744."
+234,all yes,high,"(2203,1104) on ink; the line ends at u2205, gap to the triangle at u2210."
+235,q,high,"Last plus: vertical bar u2210-2215 (v843-872) just left of the border line (u2216-2223), arm v853-857: center ~(2212,856). P is in white space right of the border."
+236,all yes,high,"(1310,1161) on the lower dash end; (1346,1127) on the upper dash just right of the grid line; plus in the gap."
+237,all yes,high,"(1767,896) on the left dash end (u1768); (1809,878) on the right dash (starts u1807); plus in the gap."
+238,all yes,high,"(1882,862) on the left dash end; (1931,852) on the right dash just right of the grid line (u1922-1927)."
+239,all yes,high,"(2117,848) on the left dash (ends u2119); (2162,856) on the right dash (starts u2158), separate from the plus (u2135-2160)."
+240,all yes,high,"Both on the dash ink, which ends at u2202; the plus starts at u2210."
+241,both,medium,"Left-pointing (figure up) triangle: base u~1611-1614, apex at the axis (~u1580); centroid u~1602, bbox middle ~u1597. P (1604) and Q (1599) are both within a few px of the center; v2672 matches."
+242,all yes,low,"Q is on the y-axis stroke 2 px below the lowest row (3086) where the dash's ink meets the axis, and inside the dash's band extrapolated into the axis (center ~3083 at u927). On only if the axis stroke under the line's end counts as shared ink."
+243,all yes,medium,"P (927,3118) is where the lower line meets the axis (line ink at u930: v3104-3119) and on its extrapolated centerline (~3118)."
+244,all yes,low,Q is on the y-axis exactly on the line's extrapolated centerline (~3307 at u947) but 3 px below the lowest row (3305) of line-only ink beside the axis. On only if the axis stroke under the line's end counts.
+245,all yes,medium,Q at the lower edge of the dash ink at the axis (u952: v3234-3248) and on its extrapolated centerline (~3248).
+246,both,high,"Circle u1765-1799, v2669-2701: center (1782,2685). Both marks within 2 px."
+247,all yes,medium,P inside the axis where the line meets it (line ink at u927: v3439-3450); 2 px from the extrapolated centerline (~3449).
+248,all yes,medium,"Q in the grid line at v2088, within the band where the line meets it (v2087-2100)."
+249,all yes,medium,"P inside the axis within the line's contact band (u925: v2984-3001), 1 px from the extrapolated centerline."
+250,all yes,high,On ink at the line's right edge near its upper end (row 1054 dark u2372-2381).
+251,cannot tell,medium,"No outline separable from the merged line bundle near the origin. A white pocket with vertical sides (u902-907, v2954-2962) hints at an obscured symbol near (905,2958), plausible as a low-sigma point of the 36.9 deg group, but its shape and center cannot be confirmed; Q's mark is ~5 px right of it."
+252,all yes,medium,Q is at the origin corner where all four lines converge into the axes; ink is continuous there.
+253,all yes,high,Q in the grid line column within the line's contact band (v2193-2201).
+254,all yes,medium,P at the origin corner where the lines converge into the axes; continuous ink.
+255,all yes,high,On ink at the line's right edge (row 2153 dark u2147-2154).
+256,q,high,"Triangle-down top edge v2232 (u~1880-1915), apex (1898,2264): centroid ~(1898,2243). Q on it; P 7 px right near the right side."
+257,all yes,medium,P at the origin corner where the lines converge into the axes.
+258,all yes,high,On ink at the line's right edge (row 2174 dark u1952-1969).
+259,all yes,medium,P at the origin corner where the lines converge into the axes.
+260,all yes,high,On ink at the line tip's right edge (row 2272 dark u1669-1682).
+261,dr19-28,medium,"Symbol under the dr103-107 square: rounded interior ~11 px, widest at mid-height (circle-like, matching the ~22 px circles on this figure); the pointed bottom comes from merging with the line. Legend has no triangle-down; position (sigma ~2930, tau ~2890) fits the FC-6B n2934 peak (~2910)."
+262,cannot tell,medium,"P (946,3008) is inside the merged origin mass (axes, solid dr5-40 line, triangle base) where the dr103-107 extension would meet tau=0. The dashed line's last identifiable dash ends at ~(985,2968) with the triangle's white interior below it, so its ink cannot be traced to P."
+263,all yes,high,On ink at the line's right edge (u2262); white gap before the square.
+264,dr19-28,medium,"Same ink as item 261: rounded circle-like interior under the dr103-107 square, pointed bottom from the line; legend has no triangle-down; position fits the FC-6B n2934 peak."
+265,yes,high,"Printed circle u880-901, v3043-3066, center (890.5,3054.5), within 2 px of P. It lies outside the axes (sigma -141, tau -156) at the end of the dr19-28 dashed extension, so it is likely a key for that line rather than a test peak."
+266,all yes,high,"(934,3055) on the lower end of the last dash of the dr19-28 extension (row 3055 dark u926-940)."
+267,all yes,high,"On ink at the line tip's right edge (u2254, rows 1724-1729)."
+268,all yes,medium,P inside the x-axis band (v3004-3012) at the origin corner where the solid dr5-40 line runs into the axes.
+269,all yes,high,On ink at the line tip's right edge (u2345).
+270,all yes,medium,Q inside the top border band (v949-960) exactly on the line's extrapolated centerline (u~2312 at v956); the line runs into the border with no gap.
+271,all yes,low,"Q on the y-axis 5 px below the dash's extrapolated centerline (~3011), at the edge of its band (+-5.5 px), and 7 px below the last line-only ink (v3009 at u671). Off if only ink beside the axis counts."
+272,all yes,low,"Q on the y-axis 2 px below the dash's extrapolated centerline (~3085), within its band, but 6+ px below the last line-only ink (~3081). Off if only ink beside the axis counts."
+273,all yes,high,"P (2309,1377) on the line's tip, which extends a little past the last circle (circle top at v~1393)."

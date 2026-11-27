@@ -1,0 +1,24 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,checked_at,residual_px,residual_value,residual_pct_span,note
+FC-6B,1,x,50,957.0,959.0,v=2085,2.0,0.34,0.17,"gridline center at v=2085 (row scan, crop)"
+FC-6B,1,x,100,1245.4,1247.0,v=2085,1.6,0.28,0.14,gridline center at v=2085
+FC-6B,1,x,150,1533.7,1528.5,v=2085,-5.2,-0.9,0.45,gridline center at v=2085
+FC-6B,1,x,200,1822.1,1821.5,v=2085,-0.6,-0.1,0.05,gridline center at v=2085
+FC-6B,1,x,250,2110.4,2113.5,v=2085,3.1,0.54,0.27,gridline center at v=2085; x labels are printed under the lower panel only
+FC-6B,1,y,4000,924.5,925.5,u=700,1.0,-3.57,0.09,gridline at u=700 and tick left of frame at u=625 (925.5)
+FC-6B,1,y,3000,1217.8,1215.5,u=700,-2.3,7.85,0.2,gridline at u=700; tick left of frame 1213.5
+FC-6B,1,y,2000,1511.2,1511.5,u=700,0.3,-1.19,0.03,gridline at u=700; tick 1511.5
+FC-6B,1,y,1000,1804.5,1802.0,u=700,-2.5,8.52,0.21,gridline at u=700; tick 1801.5
+FC-6B,1,y,0,2097.8,2101.5,u=700,3.7,-12.45,0.31,bottom frame at u=700
+FC-6B,2,x,50,961.0,962.5,v=3295,1.5,0.27,0.13,"gridline tick below the frame at v=3295, label 50 centered under it"
+FC-6B,2,x,100,1250.0,1250.5,v=3295,0.5,0.08,0.04,tick below frame
+FC-6B,2,x,150,1539.1,1533.5,v=3295,-5.6,-0.98,0.49,tick below frame
+FC-6B,2,x,200,1828.2,1825.5,v=3295,-2.7,-0.47,0.24,tick below frame
+FC-6B,2,x,250,2113.1,2114.5,v=2300,1.4,0.25,0.12,gridline at v=2300 (no tick below the frame)
+FC-6B,2,y,50,2244.6,2245.5,u=700,0.9,-0.3,0.08,top frame at u=700; label +50 leader at v=2258
+FC-6B,2,y,0,2392.2,2392.0,u=700,-0.2,0.07,0.02,drawn zero line at u=700; leader at v=2403
+FC-6B,2,y,-300,3277.6,3276.0,u=700,-1.6,0.55,0.16,bottom frame at u=700; leader at v=3287.5
+FC-6B,2,y,-100,2687.3,2649.0,u=620,-38.3,12.98,3.71,"NO drawn gridline; eye pixel = label leader (v=2660.5) minus the 11.5 px leader offset seen on +50, 0, -300; label sits about 13 units high of the linear scale defined by the drawn lines"
+FC-6B,2,y,-200,2982.4,2974.0,u=620,-8.4,2.86,0.82,NO drawn gridline; eye pixel = label leader (v=2985.5) minus the 11.5 px leader offset
+FC-6B,1,x,"(left frame, unlabeled)",,641.5,v=2085,,-4.71,,left frame is not a labeled gridline; residual_value column holds the x value the 50-250 calibration gives it
+FC-6B,2,x,"(left frame, unlabeled)",,642.5,v=2300,,-4.34,,left frame is not a labeled gridline; residual_value column holds the x value the 50-250 calibration gives it
+FC-6B,1,y,"(top frame, unlabeled)",,784.0,u=1300,,4479.7,,top frame not labeled; residual_value column holds the y value the calibration gives it

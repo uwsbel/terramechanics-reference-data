@@ -1,0 +1,10 @@
+figure_id,panel,axis,printed_label,value,line_px,label_centre_px,label_minus_line_px,evidence,verdict
+FC-22,1,y,50,50,v 1640 (fitted line at u 705),v 1632,-8,crops/lab_y50.png (zoom 3),label printed beside the 50 line (slightly high); next line 385 px away; confirmed
+FC-22,1,y,40,40,v 2409 (fitted line at u 705),v 2411,+2,crops/lab_y40.png (zoom 3),label on the 40 line; confirmed
+FC-22,1,y,30,30,v 3173 (fitted line at u 705),v 3176,+3,crops/lab_y30.png (zoom 3),label on the 30 line; confirmed
+FC-22,1,y,45,45,v 2026 (fitted line at u 705),on the line,,crops/ylabels.png (half scale),label beside the 45 line; confirmed
+FC-22,1,y,35,35,v 2791 (fitted line at u 705),on the line,,crops/ylabels.png (half scale),label beside the 35 line; confirmed
+FC-22,1,x,0,0,u 871 (fitted line at v 3540),u 868,-3,crops/lab_x0.png (zoom 3),label centred under the first vertical grid line (not under the left frame at Dr about -0.1); confirmed
+FC-22,1,x,0.5,0.5,u 1650 (fitted line at v 3540),u 1651,+1,crops/lab_x05.png (zoom 3),label centred under the 0.5 line; confirmed
+FC-22,1,x,1.0,1.0,u 2425 (fitted line at v 3540),u 2431,+6,crops/lab_x10.png (zoom 3),label centred under the eleventh vertical grid line (not under the right frame at Dr about 1.1); confirmed
+FC-22,1,x,0.1 to 0.9,0.1 to 0.9,each fitted line at v 3540,each label under its line,within about 6,crops/xlabels.png (native scale),every label centred under its own line; eleven labelled lines between the two frame lines; confirmed

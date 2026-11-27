@@ -1,0 +1,63 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-21,1,data,marker,1,667.5,2036.25,2,2,circle,pair 1 left; long joining line runs right to circle at u 1357.5 (pair 1 right); hatch lines touch its ring,-0.0468375,43.88028,0.0024141,0.03565
+FC-21,1,data,marker,2,1031.25,1984.5,2,2,circle,pair 2 left; hatch lines touch its ring,0.1876364,44.46826,0.0024141,0.03565
+FC-21,1,data,marker,3,1176.5,1985.75,2,2,circle,pair 2 right; joining line hides the left side of its ring,0.2809597,44.41742,0.0024141,0.03565
+FC-21,1,data,marker,4,1357.5,2024.5,3,4,circle,"pair 1 right; upper of two overlapping circles at Dr about 0.39 (the other is 11 px lower), also crossed by the Dr 0.4 grid line and hatch lines; center from a two-ring fit; bound widened",0.3967348,43.8693,0.0030846,0.06195
+FC-21,1,data,marker,5,1359.0,2035.5,3,4,circle,"single; lower of two overlapping circles at Dr about 0.39, overlapping the pair 1 right circle, the Dr 0.4 grid line and hatch lines; no joining line of its own; center from a two-ring fit; bound widened",0.3975456,43.72556,0.0030846,0.06195
+FC-21,1,data,marker,6,2338.5,2204.25,2,2,circle,pair 3 left; hatch line merges with the top of its ring,1.0246441,41.29307,0.0024141,0.03565
+FC-21,1,data,marker,7,2339.5,2244.75,2,2,circle,single; directly below pair 3 left; hatch lines touch its ring,1.0247229,40.76495,0.0024141,0.03565
+FC-21,1,data,marker,8,2423.5,2198.75,2,2,circle,"pair 3 right; joining line hides the left side of its ring; ring ends about 8 px inside the right frame, not cut",1.0793434,41.34453,0.0024141,0.03565
+FC-21,1,band-top,trace,1,595.0,1952.19,5,3,,"left end: top edge of the hatched band, drawn on the 45 grid line (one line of grid thickness); its ink meets the left frame here (frame inner edge), u bound covers the frame centre",-0.0922574,44.99317,0.0043559,0.0494
+FC-21,1,band-top,trace,2,662.21,1951.09,3,3,,"Dr -0.05 sample; ink centre from 29 columns, line 6 px thick",-0.0490515,44.99152,0.0030706,0.04892
+FC-21,1,band-top,trace,3,738.86,1949.47,3,3,,"Dr 0.00 sample; ink centre from 36 columns, line 6 px thick",0.000228,44.9944,0.0030706,0.04892
+FC-21,1,band-top,trace,4,815.52,1948.52,3,3,,"Dr 0.05 sample; ink centre from 30 columns, line 5 px thick",0.0495045,44.98855,0.0030706,0.04892
+FC-21,1,band-top,trace,5,892.17,1946.44,3,3,,"Dr 0.10 sample; ink centre from 36 columns, line 6 px thick",0.0987904,44.99743,0.0030706,0.04892
+FC-21,1,band-top,trace,6,970.47,1945.89,3,3,,"Dr 0.15 sample; ink centre from 30 columns, line 5 px thick",0.1491153,44.98597,0.0030706,0.04892
+FC-21,1,band-top,trace,7,1048.77,1943.78,3,3,,"Dr 0.20 sample; ink centre from 36 columns, line 6 px thick",0.1994619,44.99485,0.0030706,0.04892
+FC-21,1,band-top,trace,8,1127.87,1943.1,3,3,,"Dr 0.25 sample; ink centre from 29 columns, line 5 px thick",0.2503027,44.98489,0.0030706,0.04892
+FC-21,1,band-top,trace,9,1206.97,1941.93,3,3,,"Dr 0.30 sample; ink centre from 33 columns, line 6 px thick",0.3011504,44.98133,0.0030706,0.04892
+FC-21,1,band-top,trace,10,1282.99,1940.14,3,3,,"Dr 0.35 sample; ink centre from 28 columns, line 5 px thick",0.3500274,44.98658,0.0030706,0.04892
+FC-21,1,band-top,trace,11,1359.0,1938.73,3,3,,"Dr 0.40 sample; ink centre from 35 columns, line 4 px thick",0.3988926,44.98687,0.0030706,0.04892
+FC-21,1,band-top,trace,12,1437.44,1937.66,3,3,,"Dr 0.45 sample; ink centre from 31 columns, line 6 px thick",0.4493147,44.98216,0.0030706,0.04892
+FC-21,1,band-top,trace,13,1515.87,1936.31,3,3,,"Dr 0.50 sample; ink centre from 37 columns, line 6 px thick",0.4997343,44.9811,0.0030706,0.04892
+FC-21,1,band-top,trace,14,1594.65,1934.56,3,3,,"Dr 0.55 sample; ink centre from 40 columns, line 6 px thick",0.5503844,44.98517,0.0030706,0.04892
+FC-21,1,band-top,trace,15,1673.43,1932.77,3,3,,"Dr 0.60 sample; ink centre from 29 columns, line 4 px thick",0.601035,44.98976,0.0030706,0.04892
+FC-21,1,band-top,trace,16,1751.35,1931.05,3,3,,"Dr 0.65 sample; ink centre from 32 columns, line 5 px thick",0.651132,44.99365,0.0030706,0.04892
+FC-21,1,band-top,trace,17,1829.27,1929.7,3,3,,"Dr 0.70 sample; ink centre from 36 columns, line 4 px thick",0.7012238,44.99271,0.0030706,0.04892
+FC-21,1,band-top,trace,18,1905.61,1928.08,3,3,,"Dr 0.75 sample; ink centre from 39 columns, line 5 px thick",0.7503041,44.99566,0.0030706,0.04892
+FC-21,1,band-top,trace,19,1981.94,1926.41,3,3,,"Dr 0.80 sample; ink centre from 25 columns, line 4 px thick",0.7993786,44.99927,0.0030706,0.04892
+FC-21,1,band-top,trace,20,2059.95,1924.25,3,3,,"Dr 0.85 sample; ink centre from 34 columns, line 5 px thick",0.8495396,45.00887,0.0030706,0.04892
+FC-21,1,band-top,trace,21,2137.97,1923.27,3,3,,"Dr 0.90 sample; ink centre from 35 columns, line 4 px thick",0.8996905,45.00308,0.0030706,0.04892
+FC-21,1,band-top,trace,22,2216.3,1922.22,3,3,,"Dr 0.95 sample; ink centre from 37 columns, line 5 px thick",0.9500417,44.99814,0.0030706,0.04892
+FC-21,1,band-top,trace,23,2294.63,1920.78,3,3,,"Dr 1.00 sample; ink centre from 20 columns, line 4 px thick",1.0003982,44.99827,0.0030706,0.04892
+FC-21,1,band-top,trace,24,2372.96,1919.13,3,3,,"Dr 1.05 sample; ink centre from 31 columns, line 6 px thick",1.0507577,45.00115,0.0030706,0.04892
+FC-21,1,band-top,trace,25,2443.0,1916.94,5,3,,"right end: top edge of the hatched band, drawn on the 45 grid line (one line of grid thickness); its ink meets the right frame here (frame inner edge), u bound covers the frame centre",1.0957974,45.01303,0.0043559,0.0494
+FC-21,1,band-top,feature,1,595.0,1952.19,5,3,,"first point (left end at the left frame); straight line, no knee; flat on the drawing, so no peak is read",-0.0922574,44.99317,0.0043559,0.0494
+FC-21,1,band-top,feature,2,2443.0,1916.94,5,3,,last point (right end at the right frame),1.0957974,45.01303,0.0043559,0.0494
+FC-21,1,band-bottom,trace,1,602.0,2333.86,5,3,,"left end: bottom edge of the hatched band, drawn on the 40 grid line (one line of grid thickness); its ink meets the left frame here (frame inner edge), u bound covers the frame centre",-0.093072,40.01678,0.0043559,0.0494
+FC-21,1,band-bottom,trace,2,670.0,2333.47,3,3,,"Dr -0.05 sample; ink centre from 32 columns, line 6 px thick",-0.0493683,40.00569,0.0030706,0.04892
+FC-21,1,band-bottom,trace,3,746.87,2332.91,3,3,,"Dr 0.00 sample; ink centre from 35 columns, line 6 px thick",3.78e-05,39.9947,0.0030706,0.04892
+FC-21,1,band-bottom,trace,4,823.74,2330.83,3,3,,"Dr 0.05 sample; ink centre from 38 columns, line 6 px thick",0.0494651,40.00353,0.0030706,0.04892
+FC-21,1,band-bottom,trace,5,900.61,2330.27,3,3,,"Dr 0.10 sample; ink centre from 22 columns, line 6 px thick",0.0988712,39.99254,0.0030706,0.04892
+FC-21,1,band-bottom,trace,6,979.02,2328.61,3,3,,"Dr 0.15 sample; ink centre from 41 columns, line 4 px thick",0.1492822,39.99553,0.0030706,0.04892
+FC-21,1,band-bottom,trace,7,1057.42,2327.3,3,3,,"Dr 0.20 sample; ink centre from 22 columns, line 6 px thick",0.1996819,39.99395,0.0030706,0.04892
+FC-21,1,band-bottom,trace,8,1136.67,2326.77,3,3,,"Dr 0.25 sample; ink centre from 29 columns, line 5 px thick",0.250617,39.98201,0.0030706,0.04892
+FC-21,1,band-bottom,trace,9,1215.92,2324.63,3,3,,"Dr 0.30 sample; ink centre from 23 columns, line 6 px thick",0.3015746,39.99105,0.0030706,0.04892
+FC-21,1,band-bottom,trace,10,1291.95,2324.07,3,3,,"Dr 0.35 sample; ink centre from 41 columns, line 5 px thick",0.3504409,39.98027,0.0030706,0.04892
+FC-21,1,band-bottom,trace,11,1367.98,2322.24,3,3,,"Dr 0.40 sample; ink centre from 35 columns, line 4 px thick",0.3993248,39.98603,0.0030706,0.04892
+FC-21,1,band-bottom,trace,12,1446.2,2321.14,3,3,,"Dr 0.45 sample; ink centre from 31 columns, line 5 px thick",0.449606,39.98176,0.0030706,0.04892
+FC-21,1,band-bottom,trace,13,1524.42,2319.59,3,3,,"Dr 0.50 sample; ink centre from 36 columns, line 4 px thick",0.4998934,39.98336,0.0030706,0.04892
+FC-21,1,band-bottom,trace,14,1603.3,2318.47,3,3,,"Dr 0.55 sample; ink centre from 41 columns, line 6 px thick",0.550599,39.9792,0.0030706,0.04892
+FC-21,1,band-bottom,trace,15,1682.17,2317.03,3,3,,"Dr 0.60 sample; ink centre from 19 columns, line 6 px thick",0.6013025,39.9792,0.0030706,0.04892
+FC-21,1,band-bottom,trace,16,1760.04,2315.42,3,3,,"Dr 0.65 sample; ink centre from 33 columns, line 6 px thick",0.6513659,39.98167,0.0030706,0.04892
+FC-21,1,band-bottom,trace,17,1837.91,2313.88,3,3,,"Dr 0.70 sample; ink centre from 35 columns, line 4 px thick",0.7014282,39.98322,0.0030706,0.04892
+FC-21,1,band-bottom,trace,18,1913.55,2312.47,3,3,,"Dr 0.75 sample; ink centre from 30 columns, line 6 px thick",0.7500557,39.9836,0.0030706,0.04892
+FC-21,1,band-bottom,trace,19,1989.19,2310.16,3,3,,"Dr 0.80 sample; ink centre from 26 columns, line 4 px thick",0.7986958,39.99572,0.0030706,0.04892
+FC-21,1,band-bottom,trace,20,2067.36,2309.33,3,3,,"Dr 0.85 sample; ink centre from 34 columns, line 6 px thick",0.848941,39.98794,0.0030706,0.04892
+FC-21,1,band-bottom,trace,21,2145.53,2308.17,3,3,,"Dr 0.90 sample; ink centre from 33 columns, line 4 px thick",0.8991909,39.98447,0.0030706,0.04892
+FC-21,1,band-bottom,trace,22,2223.95,2306.48,3,3,,"Dr 0.95 sample; ink centre from 33 columns, line 6 px thick",0.9496088,39.98784,0.0030706,0.04892
+FC-21,1,band-bottom,trace,23,2302.37,2305.72,3,3,,"Dr 1.00 sample; ink centre from 34 columns, line 5 px thick",1.0000137,39.97909,0.0030706,0.04892
+FC-21,1,band-bottom,trace,24,2380.79,2303.5,3,3,,"Dr 1.05 sample; ink centre from 21 columns, line 6 px thick",1.050439,39.98937,0.0030706,0.04892
+FC-21,1,band-bottom,trace,25,2452.0,2302.55,5,3,,"right end: bottom edge of the hatched band, drawn on the 40 grid line (one line of grid thickness); its ink meets the right frame here (frame inner edge), u bound covers the frame centre",1.0962132,39.98482,0.0043559,0.0494
+FC-21,1,band-bottom,feature,1,602.0,2333.86,5,3,,"first point (left end at the left frame); straight line, no knee; flat on the drawing, so no peak is read",-0.093072,40.01678,0.0043559,0.0494
+FC-21,1,band-bottom,feature,2,2452.0,2302.55,5,3,,last point (right end at the right frame),1.0962132,39.98482,0.0043559,0.0494

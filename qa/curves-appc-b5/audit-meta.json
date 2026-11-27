@@ -1,0 +1,110 @@
+{
+  "FC-1A": {
+    "source": "1968-vol2",
+    "title": "Figure C-1A: Failure Envelopes (Maximum Shear Stress vs. Normal Stress) (printed C-2, PDF 116)",
+    "rotation": 0,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "envelope",
+    "series": {
+      "dr100-116": {
+        "label": "Dr 1.0 to 1.16 group",
+        "symbol": "triangle-down"
+      },
+      "dr50-57": {
+        "label": "Dr .50 to .57 group",
+        "symbol": "circle"
+      },
+      "dr73-88": {
+        "label": "Dr .73 to .88 group",
+        "symbol": "filled circle"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (maximum shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Failure envelopes of RS soil: maximum shear stress against normal stress for three density groups. Open circles Dr .50 to .57 (45.5 degrees), filled circles Dr .73 to .88 (47 degrees), triangles Dr 1.0 to 1.16 (51 degrees; drawn pointing down although the legend shows them up). Two open circles and one filled circle sit on another group's line; their group is settled by the data sheets. The triangle on the axis at zero normal stress is a real test."
+  },
+  "FC-2A": {
+    "source": "1968-vol2",
+    "title": "Figure C-2A: Failure Envelopes - Maximum Shear Stress vs. Normal Stress (printed C-6, PDF 120)",
+    "rotation": 0,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "envelope",
+    "series": {
+      "dr115-130": {
+        "label": "Dr 1.15 to 1.3 group",
+        "symbol": "square"
+      },
+      "dr33-53": {
+        "label": "Dr .33 to .53 group",
+        "symbol": "circle"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (maximum shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Failure envelopes of PS soil. The printed legend is swapped: the squares are the dense tests (Dr 1.15 to 1.3, 49.5 degrees) and the circles the loose tests (Dr .33 to .53, 46.7 degrees), as the data sheets FC-2B and FC-2C show. The checklist names each point by its actual group."
+  },
+  "FC-3A": {
+    "source": "1968-vol2",
+    "title": "Figure C-3A: Failure Envelopes - Maximum Shear Stress vs. Normal Stress (printed C-9, PDF 123)",
+    "rotation": 0,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "envelope",
+    "series": {
+      "dr0-15": {
+        "label": "Dr 0 to .15 group",
+        "symbol": "circle"
+      },
+      "dr100-130": {
+        "label": "Dr 1.0 to 1.3 group",
+        "symbol": "square"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (maximum shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Failure envelopes of RSM-a soil: open circles Dr 0 to .15 (38 degrees), open squares Dr 1.0 to 1.3 (47 degrees). No grid lines, only ticks on the axes."
+  },
+  "FC-4A": {
+    "source": "1968-vol2",
+    "title": "Figure C-4A: Failure Envelopes - Maximum Shear Stress vs. Normal Stress (printed C-12, PDF 126)",
+    "rotation": 0,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "envelope",
+    "series": {
+      "dr0": {
+        "label": "Dr 0 group",
+        "symbol": "circle"
+      },
+      "dr95": {
+        "label": "Dr .95 group",
+        "symbol": "square"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (maximum shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Failure envelopes of RC2 soil: open circles Dr 0 (43 degrees), open squares Dr .95 (53 degrees). No grid lines, only ticks; the upper line's dashed extension runs above the top frame. Two dense points sit 150 to 200 psf below the data-sheet peaks (in the report, not a reading error)."
+  }
+}

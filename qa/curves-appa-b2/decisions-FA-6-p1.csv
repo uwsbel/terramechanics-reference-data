@@ -1,0 +1,34 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,average,feature,1,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 044 (Claude's adjudicator: p; Codex's: p))
+1,average,marker,14,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 060 (Claude's adjudicator: no; Codex's: no): Band and frame end at u 2259 for v 2920-2946 except the No. 120 dash; a circle centered at (2250,2933) would show outline beyond the frame. The only ring nearby"
+1,average,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 063 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,average,trace,2,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 063 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,average,trace,31,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 061 (Claude's adjudicator: p; Codex's: p))
+1,average,trace,32,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 062 (Claude's adjudicator: q; Codex's: q))
+1,lower,feature,1,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 065 (Claude's adjudicator: p; Codex's: p))
+1,lower,marker,1,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 068 (Claude's adjudicator: yes; Codex's: yes)
+1,lower,marker,3,codex,resolved,claude,the claude reading is on the symbol center; credit claude (blind adjudication item 070 (Claude's adjudicator: p; Codex's: p))
+1,lower,marker,4,codex,resolved,claude,the claude reading is on the symbol center; credit claude (blind adjudication item 071 (Claude's adjudicator: q; Codex's: q))
+1,lower,marker,6,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 072 (Claude's adjudicator: no; Codex's: no): Mark is in the white gap between the band (ends u 2227) and the frame (2248); the gap is open upward along the frame, so it is not a ring interior"
+1,lower,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lower,trace,2,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,feature,1,codex,resolved,claude,the claude reading is on the feature; credit claude (blind adjudication item 076 (Claude's adjudicator: p; Codex's: p))
+1,upper,marker,3,codex,resolved,claude,the claude reading is on the symbol center; credit claude (blind adjudication item 081 (Claude's adjudicator: q; Codex's: q))
+1,upper,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 090 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,2,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 090 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,15,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 087 (Claude's adjudicator: q; Codex's: q))
+1,upper,trace,30,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 088 (Claude's adjudicator: p; Codex's: p))
+1,upper,trace,36,codex,resolved,claude,the claude reading is on the drawn line; credit claude (blind adjudication item 089 (Claude's adjudicator: q; Codex's: q))
+1,average,trace,45,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 018 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,average,trace,46,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 018 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lower,marker,2,codex,excluded,,"second round: not on the ink of this test (both adjudicators); blind adjudication item 021 (Claude's adjudicator: no; Codex's: no): Mark is in an open white channel (u 1378-1403 and beyond, v 1818-1826) between the 2.0 mm grid line (v 1808-1817) and a curve stroke below; no ring above or bel"
+1,lower,trace,45,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 022 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lower,trace,46,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 022 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,marker,8,codex,excluded,,"second round: not on the ink of this test (both adjudicators); blind adjudication item 026 (Claude's adjudicator: no; Codex's: no): The enclosed white hole (u 2228-2236, v 2816-2830) is a dash gap of the leftmost dashed stroke; its left wall is the 2% dotted grid line (u 2225-2229) and its b"
+1,upper,trace,45,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 027 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,upper,trace,46,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 027 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,average,feature,3,codex,resolved,claude,second round: the claude reading is on the feature; credit claude (blind adjudication item 013 (Claude's adjudicator: q; Codex's: both))
+1,average,feature,4,codex,resolved,,second round: the codex reading is on the feature; credit codex (blind adjudication item 014 (Claude's adjudicator: q; Codex's: both))
+1,lower,feature,3,codex,resolved,claude,second round: the claude reading is on the feature; credit claude (blind adjudication item 019 (Claude's adjudicator: q; Codex's: both))
+1,lower,feature,4,codex,resolved,,second round: the codex reading is on the feature; credit codex (blind adjudication item 020 (Claude's adjudicator: q; Codex's: both))
+1,upper,feature,3,codex,resolved,claude,second round: the claude reading is on the feature; credit claude (blind adjudication item 023 (Claude's adjudicator: q; Codex's: both))

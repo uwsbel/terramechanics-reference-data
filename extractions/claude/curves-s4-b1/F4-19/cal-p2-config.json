@@ -1,0 +1,302 @@
+{
+ "image": "packet/p0208.png",
+ "box": [
+  715,
+  2150,
+  2470,
+  3290
+ ],
+ "step": 10,
+ "half": 10,
+ "dark": 160,
+ "out": "out/F4-19/cal-p2",
+ "vertical": [
+  {
+   "value": 0,
+   "label": "0",
+   "guess": [
+    709.7,
+    0.0115
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 14
+  },
+  {
+   "value": 10,
+   "label": "10",
+   "guess": [
+    835.7,
+    0.0104
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 20,
+   "label": "20",
+   "guess": [
+    953.4,
+    0.0119
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 30,
+   "label": "30",
+   "guess": [
+    1083.1,
+    0.0093
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 40,
+   "label": "40",
+   "guess": [
+    1199.9,
+    0.0114
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 50,
+   "label": "50",
+   "guess": [
+    1323.2,
+    0.0104
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 60,
+   "label": "60",
+   "guess": [
+    1443.1,
+    0.0109
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 70,
+   "label": "70",
+   "guess": [
+    1568.1,
+    0.0101
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 80,
+   "label": "80",
+   "guess": [
+    1690.7,
+    0.0099
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 90,
+   "label": "90",
+   "guess": [
+    1813.3,
+    0.01
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 100,
+   "label": "100",
+   "guess": [
+    1930.9,
+    0.0124
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10
+  },
+  {
+   "value": 110,
+   "label": "120",
+   "guess": [
+    2057.2,
+    0.0102
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  },
+  {
+   "value": 120,
+   "label": "130",
+   "guess": [
+    2175.7,
+    0.0107
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  },
+  {
+   "value": 130,
+   "label": "140",
+   "guess": [
+    2304.9,
+    0.0073
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  },
+  {
+   "value": 140,
+   "label": "(none)",
+   "guess": [
+    2425.0,
+    0.0082
+   ],
+   "t0": 2180,
+   "t1": 3262,
+   "wmax": 14,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  }
+ ],
+ "horizontal": [
+  {
+   "value": 4.5,
+   "label": "(none, top frame)",
+   "guess": [
+    2172.7,
+    -0.0003
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 14,
+   "anchor": false,
+   "note": "not anchored: the top frame is unlabeled and not parallel to the grid (level, while every drawn line of constant displacement falls about 0.007 px per px to the right); 128 px above the 4.0 line at the left, 117 px at the right, against 120 to 122 px between labeled lines. 4.5 is the value of an even grid, not a value the page prints."
+  },
+  {
+   "value": 4.0,
+   "label": "4.0",
+   "guess": [
+    2305.7,
+    -0.007
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 3.5,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    2425.5,
+    -0.0067
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 3.0,
+   "label": "3.0",
+   "guess": [
+    2549.6,
+    -0.0074
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 2.5,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    2672.7,
+    -0.0079
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 2.0,
+   "label": "2.0",
+   "guess": [
+    2793.9,
+    -0.0083
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 1.5,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    2912.7,
+    -0.0069
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 1.0,
+   "label": "1.0",
+   "guess": [
+    3032.0,
+    -0.0056
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 0.5,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    3155.4,
+    -0.0061
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 10
+  },
+  {
+   "value": 0.0,
+   "label": "0",
+   "guess": [
+    3278.5,
+    -0.0062
+   ],
+   "t0": 750,
+   "t1": 2440,
+   "wmax": 14
+  }
+ ]
+}

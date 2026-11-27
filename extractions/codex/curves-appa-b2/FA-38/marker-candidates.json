@@ -1,0 +1,410 @@
+[
+  {
+    "label": "3",
+    "series_id": "upper",
+    "pixel_u": 696,
+    "pixel_v": 1354,
+    "radius": 10,
+    "score": 0.98
+  },
+  {
+    "label": "3",
+    "series_id": "average",
+    "pixel_u": 696,
+    "pixel_v": 1354,
+    "radius": 10,
+    "score": 0.985
+  },
+  {
+    "label": "3",
+    "series_id": "lower",
+    "pixel_u": 697,
+    "pixel_v": 1354,
+    "radius": 10,
+    "score": 0.985
+  },
+  {
+    "label": "4",
+    "series_id": "upper",
+    "pixel_u": 736,
+    "pixel_v": 1450,
+    "radius": 9,
+    "score": 0.738
+  },
+  {
+    "label": "4",
+    "series_id": "average",
+    "pixel_u": 737,
+    "pixel_v": 1450,
+    "radius": 9,
+    "score": 0.907
+  },
+  {
+    "label": "4",
+    "series_id": "lower",
+    "pixel_u": 739,
+    "pixel_v": 1447,
+    "radius": 9,
+    "score": 0.991
+  },
+  {
+    "label": "6",
+    "series_id": "upper",
+    "pixel_u": 812,
+    "pixel_v": 1581,
+    "radius": 9,
+    "score": 0.747
+  },
+  {
+    "label": "6",
+    "series_id": "average",
+    "pixel_u": 819,
+    "pixel_v": 1586,
+    "radius": 11,
+    "score": 0.942
+  },
+  {
+    "label": "6",
+    "series_id": "lower",
+    "pixel_u": 820,
+    "pixel_v": 1585,
+    "radius": 12,
+    "score": 0.863
+  },
+  {
+    "label": "8",
+    "series_id": "upper",
+    "pixel_u": 904,
+    "pixel_v": 1738,
+    "radius": 9,
+    "score": 0.904
+  },
+  {
+    "label": "8",
+    "series_id": "average",
+    "pixel_u": 911,
+    "pixel_v": 1740,
+    "radius": 9,
+    "score": 0.998
+  },
+  {
+    "label": "8",
+    "series_id": "lower",
+    "pixel_u": 921,
+    "pixel_v": 1742,
+    "radius": 9,
+    "score": 0.972
+  },
+  {
+    "label": "10",
+    "series_id": "upper",
+    "pixel_u": 943,
+    "pixel_v": 1806,
+    "radius": 10,
+    "score": 0.835
+  },
+  {
+    "label": "10",
+    "series_id": "average",
+    "pixel_u": 943,
+    "pixel_v": 1806,
+    "radius": 10,
+    "score": 0.904
+  },
+  {
+    "label": "10",
+    "series_id": "lower",
+    "pixel_u": 964,
+    "pixel_v": 1825,
+    "radius": 9,
+    "score": 0.843
+  },
+  {
+    "label": "12",
+    "series_id": "upper",
+    "pixel_u": 969,
+    "pixel_v": 1878,
+    "radius": 13,
+    "score": 0.881
+  },
+  {
+    "label": "12",
+    "series_id": "average",
+    "pixel_u": 981,
+    "pixel_v": 1886,
+    "radius": 9,
+    "score": 0.999
+  },
+  {
+    "label": "12",
+    "series_id": "lower",
+    "pixel_u": 992,
+    "pixel_v": 1886,
+    "radius": 9,
+    "score": 0.999
+  },
+  {
+    "label": "16",
+    "series_id": "upper",
+    "pixel_u": 1022,
+    "pixel_v": 2029,
+    "radius": 9,
+    "score": 0.975
+  },
+  {
+    "label": "16",
+    "series_id": "average",
+    "pixel_u": 1034,
+    "pixel_v": 2030,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "16",
+    "series_id": "lower",
+    "pixel_u": 1043,
+    "pixel_v": 2030,
+    "radius": 9,
+    "score": 0.951
+  },
+  {
+    "label": "20",
+    "series_id": "upper",
+    "pixel_u": 1063,
+    "pixel_v": 2173,
+    "radius": 12,
+    "score": 0.882
+  },
+  {
+    "label": "20",
+    "series_id": "average",
+    "pixel_u": 1064,
+    "pixel_v": 2174,
+    "radius": 12,
+    "score": 0.946
+  },
+  {
+    "label": "20",
+    "series_id": "lower",
+    "pixel_u": 1083,
+    "pixel_v": 2186,
+    "radius": 11,
+    "score": 0.915
+  },
+  {
+    "label": "30",
+    "series_id": "upper",
+    "pixel_u": 1101,
+    "pixel_v": 2323,
+    "radius": 9,
+    "score": 0.977
+  },
+  {
+    "label": "30",
+    "series_id": "average",
+    "pixel_u": 1112,
+    "pixel_v": 2323,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "30",
+    "series_id": "lower",
+    "pixel_u": 1129,
+    "pixel_v": 2326,
+    "radius": 9,
+    "score": 0.988
+  },
+  {
+    "label": "40",
+    "series_id": "upper",
+    "pixel_u": 1137,
+    "pixel_v": 2462,
+    "radius": 9,
+    "score": 0.927
+  },
+  {
+    "label": "40",
+    "series_id": "average",
+    "pixel_u": 1144,
+    "pixel_v": 2462,
+    "radius": 9,
+    "score": 0.95
+  },
+  {
+    "label": "40",
+    "series_id": "lower",
+    "pixel_u": 1156,
+    "pixel_v": 2472,
+    "radius": 11,
+    "score": 0.884
+  },
+  {
+    "label": "50",
+    "series_id": "upper",
+    "pixel_u": 1171,
+    "pixel_v": 2615,
+    "radius": 9,
+    "score": 0.939
+  },
+  {
+    "label": "50",
+    "series_id": "average",
+    "pixel_u": 1188,
+    "pixel_v": 2614,
+    "radius": 9,
+    "score": 1.0
+  },
+  {
+    "label": "50",
+    "series_id": "lower",
+    "pixel_u": 1199,
+    "pixel_v": 2614,
+    "radius": 9,
+    "score": 0.98
+  },
+  {
+    "label": "60",
+    "series_id": "upper",
+    "pixel_u": 1200,
+    "pixel_v": 2681,
+    "radius": 9,
+    "score": 0.922
+  },
+  {
+    "label": "60",
+    "series_id": "average",
+    "pixel_u": 1216,
+    "pixel_v": 2689,
+    "radius": 14,
+    "score": 0.987
+  },
+  {
+    "label": "60",
+    "series_id": "lower",
+    "pixel_u": 1224,
+    "pixel_v": 2691,
+    "radius": 9,
+    "score": 0.953
+  },
+  {
+    "label": "70",
+    "series_id": "upper",
+    "pixel_u": 1226,
+    "pixel_v": 2756,
+    "radius": 9,
+    "score": 0.967
+  },
+  {
+    "label": "70",
+    "series_id": "average",
+    "pixel_u": 1238,
+    "pixel_v": 2752,
+    "radius": 9,
+    "score": 0.918
+  },
+  {
+    "label": "70",
+    "series_id": "lower",
+    "pixel_u": 1246,
+    "pixel_v": 2756,
+    "radius": 9,
+    "score": 0.758
+  },
+  {
+    "label": "80",
+    "series_id": "upper",
+    "pixel_u": 1250,
+    "pixel_v": 2824,
+    "radius": 9,
+    "score": 0.958
+  },
+  {
+    "label": "80",
+    "series_id": "average",
+    "pixel_u": 1275,
+    "pixel_v": 2833,
+    "radius": 12,
+    "score": 0.9
+  },
+  {
+    "label": "80",
+    "series_id": "lower",
+    "pixel_u": 1276,
+    "pixel_v": 2832,
+    "radius": 11,
+    "score": 0.813
+  },
+  {
+    "label": "100",
+    "series_id": "upper",
+    "pixel_u": 1289,
+    "pixel_v": 2903,
+    "radius": 9,
+    "score": 0.89
+  },
+  {
+    "label": "100",
+    "series_id": "average",
+    "pixel_u": 1305,
+    "pixel_v": 2906,
+    "radius": 9,
+    "score": 0.959
+  },
+  {
+    "label": "100",
+    "series_id": "lower",
+    "pixel_u": 1310,
+    "pixel_v": 2903,
+    "radius": 9,
+    "score": 0.944
+  },
+  {
+    "label": "120",
+    "series_id": "upper",
+    "pixel_u": 1320,
+    "pixel_v": 2982,
+    "radius": 11,
+    "score": 0.808
+  },
+  {
+    "label": "120",
+    "series_id": "average",
+    "pixel_u": 1335,
+    "pixel_v": 2976,
+    "radius": 11,
+    "score": 0.995
+  },
+  {
+    "label": "120",
+    "series_id": "lower",
+    "pixel_u": 1340,
+    "pixel_v": 2980,
+    "radius": 9,
+    "score": 0.951
+  },
+  {
+    "label": "200",
+    "series_id": "upper",
+    "pixel_u": 1381,
+    "pixel_v": 3176,
+    "radius": 9,
+    "score": 0.802
+  },
+  {
+    "label": "200",
+    "series_id": "average",
+    "pixel_u": 1415,
+    "pixel_v": 3182,
+    "radius": 14,
+    "score": 0.844
+  },
+  {
+    "label": "200",
+    "series_id": "lower",
+    "pixel_u": 1444,
+    "pixel_v": 3186,
+    "radius": 9,
+    "score": 0.839
+  }
+]

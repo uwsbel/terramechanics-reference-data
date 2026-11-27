@@ -1,0 +1,1 @@
+Created and checked all 24 transcriptions: `out/p0049.md` through `out/p0072.md`, plus `out/notes.md` documenting uncertain readings and page-map discrepancies. File and format checks passed.

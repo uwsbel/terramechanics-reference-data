@@ -1,0 +1,306 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-3B,1,n4695,marker,1,743.5,2219.0,2,2,plus,,9.9,1749.327,0.645,15.612
+FC-3B,1,n4695,marker,2,866.5,2052.5,2,2,plus,,30.923,2321.272,0.645,15.612
+FC-3B,1,n4695,marker,3,963.5,1957.5,3,3,plus,just left of the 50 gridline,47.511,2648.044,0.816,19.051
+FC-3B,1,n4695,marker,4,1091.5,1876.5,3,3,plus,top arm touches the 3000 gridline,69.41,2927.398,0.816,19.051
+FC-3B,1,n4695,marker,5,1202.5,1819.5,3,3,plus,plus drawn over the dash,88.404,3124.321,0.816,19.051
+FC-3B,1,n4695,marker,6,1314.5,1774.5,3,3,plus,dash touches right arm,107.572,3280.184,0.816,19.051
+FC-3B,1,n4695,marker,7,1434.5,1736.5,2,2,plus,,128.111,3412.216,0.645,15.612
+FC-3B,1,n4695,marker,8,1562.0,1707.0,4,4,plus,on the 150 gridline and on the dash; bar merged with gridline,149.937,3515.274,0.988,22.491
+FC-3B,1,n4695,marker,9,1664.5,1693.0,2,2,plus,,167.485,3564.868,0.645,15.612
+FC-3B,1,n4695,marker,10,1791.0,1673.0,3,3,plus,dash touches left arm,189.142,3635.39,0.816,19.051
+FC-3B,1,n4695,marker,11,1988.5,1625.0,2,2,plus,,222.95,3802.916,0.645,15.612
+FC-3B,1,n4695,marker,12,2132.0,1618.0,3,3,plus,right arm merged with the 250 gridline,247.52,3829.215,0.816,19.051
+FC-3B,1,n4695,trace,1,761,2189.0,1,10.5,plus,shifted +16 px from nominal x=10; thick run 21 px (steep line),12.89,1852.304,0.475,44.692
+FC-3B,1,n4695,trace,2,774,2166.0,1,10.5,plus,thick run 21 px (steep line),15.11,1931.247,0.475,44.692
+FC-3B,1,n4695,trace,3,803,2125.0,1,9.5,plus,thick run 19 px (steep line),20.067,2072.065,0.475,41.269
+FC-3B,1,n4695,trace,4,832,2085.0,1,7.5,plus,thick run 15 px (steep line),25.023,2209.46,0.475,34.423
+FC-3B,1,n4695,trace,5,850,2068.5,1,3.0,plus,shifted -12 px from nominal x=30,28.101,2266.234,0.474,19.019
+FC-3B,1,n4695,trace,6,891,2023.0,1,7.5,plus,thick run 15 px (steep line),35.112,2422.652,0.475,34.423
+FC-3B,1,n4695,trace,7,920,1996.5,1,7.0,plus,,40.071,2513.835,0.475,32.711
+FC-3B,1,n4695,trace,8,947,1974.0,1,6.5,plus,shifted -2 px from nominal x=45,44.689,2591.294,0.474,30.999
+FC-3B,1,n4695,trace,9,984,1943.0,1,4.5,plus,shifted +6 px from nominal x=50,51.018,2698.012,0.474,24.153
+FC-3B,1,n4695,trace,10,1008,1928.5,1,6.0,plus,,55.124,2748.038,0.474,29.288
+FC-3B,1,n4695,trace,11,1037,1909.5,1,7.0,plus,,60.086,2813.549,0.475,32.711
+FC-3B,1,n4695,trace,12,1066,1891.5,1,7.0,plus,,65.047,2875.636,0.475,32.711
+FC-3B,1,n4695,trace,13,1111,1859.5,1,6.0,plus,shifted +16 px from nominal x=70,72.745,2985.908,0.474,29.288
+FC-3B,1,n4695,trace,14,1124,1856.5,1,6.0,plus,,74.971,2996.389,0.474,29.288
+FC-3B,1,n4695,trace,15,1154,1840.5,1,7.0,plus,,80.104,3051.647,0.475,32.711
+FC-3B,1,n4695,trace,16,1183,1825.5,1,7.0,plus,,85.066,3103.465,0.475,32.711
+FC-3B,1,n4695,trace,17,1220,1811.5,1,6.0,plus,shifted +8 px from nominal x=90,91.399,3151.991,0.474,29.288
+FC-3B,1,n4695,trace,18,1241,1800.5,1,6.0,plus,,94.992,3189.987,0.474,29.288
+FC-3B,1,n4695,trace,19,1264,1791.0,1,6.5,plus,shifted -6 px from nominal x=100,98.928,3222.881,0.474,30.999
+FC-3B,1,n4695,trace,20,1292,1782.0,1,5.5,plus,shifted -8 px from nominal x=105,103.721,3254.145,0.474,27.576
+FC-3B,1,n4695,trace,21,1331,1767.0,1,3.5,plus,shifted +2 px from nominal x=110,110.396,3306.126,0.474,20.73
+FC-3B,1,n4695,trace,22,1358,1759.5,1,7.0,plus,,115.017,3332.239,0.475,32.711
+FC-3B,1,n4695,trace,23,1387,1749.0,1,6.5,plus,,119.981,3368.654,0.474,30.999
+FC-3B,1,n4695,trace,24,1414,1744.5,1,4.0,plus,shifted -2 px from nominal x=125,124.603,3384.498,0.474,22.442
+FC-3B,1,n4695,trace,25,1460,1728.5,1,6.0,plus,shifted +14 px from nominal x=130,132.476,3440.016,0.474,29.288
+FC-3B,1,n4695,trace,26,1475,1726.0,1,7.5,plus,thick run 15 px (steep line),135.044,3448.819,0.475,34.423
+FC-3B,1,n4695,trace,27,1504,1718.5,1,6.0,plus,,140.008,3474.964,0.474,29.288
+FC-3B,1,n4695,trace,28,1533,1711.5,1,7.0,plus,,144.972,3499.398,0.475,32.711
+FC-3B,1,n4695,trace,29,1578,1705.0,1,4.5,plus,shifted +16 px from nominal x=150,152.676,3522.381,0.474,24.153
+FC-3B,1,n4695,trace,30,1592,1703.5,1,6.0,plus,,155.073,3527.744,0.474,29.288
+FC-3B,1,n4695,trace,31,1621,1697.5,1,6.0,plus,,160.038,3548.755,0.474,29.288
+FC-3B,1,n4695,trace,32,1648,1693.5,1,4.0,plus,shifted -2 px from nominal x=165,164.66,3562.887,0.474,22.442
+FC-3B,1,n4695,trace,33,1683,1690.5,1,4.0,plus,shifted +4 px from nominal x=170,170.652,3573.727,0.474,22.442
+FC-3B,1,n4695,trace,34,1708,1685.5,1,6.0,plus,,174.932,3591.249,0.474,29.288
+FC-3B,1,n4695,trace,35,1738,1680.0,1,6.5,plus,,180.068,3610.565,0.474,30.999
+FC-3B,1,n4695,trace,36,1767,1676.5,1,3.0,plus,,185.033,3623.018,0.474,19.019
+FC-3B,1,n4695,trace,37,1816,1664.5,1,6.0,plus,shifted +20 px from nominal x=190,193.421,3664.894,0.474,29.288
+FC-3B,1,n4695,trace,38,1825,1661.5,1,6.0,plus,,194.961,3675.309,0.474,29.288
+FC-3B,1,n4695,trace,39,1848,1655.5,1,6.0,plus,shifted -6 px from nominal x=200,198.898,3696.223,0.474,29.288
+FC-3B,1,n4695,trace,40,1884,1646.5,1,6.0,plus,,205.061,3727.617,0.474,29.288
+FC-3B,1,n4695,trace,41,1913,1638.0,1,6.5,plus,,210.024,3757.185,0.474,30.999
+FC-3B,1,n4695,trace,42,1942,1632.0,1,6.5,plus,,214.989,3778.196,0.474,30.999
+FC-3B,1,n4695,trace,43,1963,1630.0,1,4.5,plus,shifted -8 px from nominal x=220,218.584,3785.385,0.474,24.153
+FC-3B,1,n4695,trace,44,2020,1621.5,1,4.0,plus,shifted +20 px from nominal x=225,228.343,3815.41,0.474,22.442
+FC-3B,1,n4695,trace,45,2030,1620.5,1,6.0,plus,,230.055,3818.996,0.474,29.288
+FC-3B,1,n4695,trace,46,2059,1618.5,1,5.0,plus,,235.02,3826.314,0.474,25.865
+FC-3B,1,n4695,trace,47,2088,1617.0,1,5.5,plus,,239.986,3831.921,0.474,27.576
+FC-3B,1,n4695,trace,48,2113,1618.0,1,4.5,plus,shifted -4 px from nominal x=245,244.267,3828.906,0.474,24.153
+FC-3B,1,n4695,feature,1,759,2190.0,2,10.5,plus,first point: left end of the first dash (the line starts at the first marker); thick run 21 px (steep line),12.547,1848.849,0.647,44.708
+FC-3B,1,n4695,feature,2,2088,1617.0,3,5.5,plus,"peak: minimum v among the trace samples (flat plateau, location along it uncertain)",239.986,3831.921,0.817,27.609
+FC-3B,1,n4695,feature,3,2114,1618.0,2,4.5,plus,last point: end of the last dash; the last marker follows on the 250 gridline,244.438,3828.922,0.645,24.17
+FC-3B,1,n3815,marker,1,740.5,2336.5,2,2,circle,,9.413,1347.068,0.645,15.612
+FC-3B,1,n3815,marker,2,860.5,2197.0,2,2,circle,,29.929,1826.541,0.645,15.612
+FC-3B,1,n3815,marker,3,966.5,2114.0,3,3,circle,50 gridline through right side; dash merges lower left,48.061,2112.383,0.816,19.051
+FC-3B,1,n3815,marker,4,1089.5,2042.5,2,2,circle,,69.106,2359.136,0.645,15.612
+FC-3B,1,n3815,marker,5,1202.0,1992.0,2,2,circle,,88.358,2533.834,0.645,15.612
+FC-3B,1,n3815,marker,6,1318.5,1951.0,2,2,circle,dashes enter both sides,108.298,2676.078,0.645,15.612
+FC-3B,1,n3815,marker,7,1440.0,1921.0,3,3,circle,outline broken top right; dashes merge; read on zoom-6 crop,129.096,2780.75,0.816,19.051
+FC-3B,1,n3815,marker,8,1552.0,1898.0,3,3,circle,150 gridline through right side,148.269,2861.306,0.816,19.051
+FC-3B,1,n3815,marker,9,1667.5,1883.0,3,3,circle,outline open at right; read on zoom-6 crop,168.043,2914.534,0.816,19.051
+FC-3B,1,n3815,marker,10,1789.5,1866.0,3,3,circle,3000 gridline and dashes through the circle,188.93,2974.714,0.816,19.051
+FC-3B,1,n3815,marker,11,1962.5,1865.5,3,3,circle,3000 gridline and dashes through the circle,218.553,2979.244,0.816,19.051
+FC-3B,1,n3815,marker,12,2134.5,1863.5,4,4,circle,on the 250 gridline; 3000 gridline and dash through the circle,248.005,2988.893,0.988,22.491
+FC-3B,1,n3815,trace,1,759,2308.5,1,9.0,circle,shifted +14 px from nominal x=10; thick run 18 px (steep line),12.575,1443.215,0.475,39.557
+FC-3B,1,n3815,trace,2,774,2287.0,1,8.5,circle,thick run 17 px (steep line),15.138,1517.056,0.475,37.846
+FC-3B,1,n3815,trace,3,803,2253.0,1,7.5,circle,thick run 15 px (steep line),20.096,1633.912,0.475,34.423
+FC-3B,1,n3815,trace,4,832,2221.5,1,6.0,circle,,25.055,1742.212,0.474,29.288
+FC-3B,1,n3815,trace,5,880,2177.5,1,7.0,circle,shifted +18 px from nominal x=30,33.264,1893.609,0.475,32.711
+FC-3B,1,n3815,trace,6,891,2168.5,1,7.0,circle,,35.145,1924.595,0.475,32.711
+FC-3B,1,n3815,trace,7,920,2144.5,1,7.0,circle,curve crosses the 2000 gridline here; run merged,40.106,2007.222,0.475,32.711
+FC-3B,1,n3815,trace,8,947,2125.0,1,6.5,circle,shifted -2 px from nominal x=45,44.724,2074.411,0.474,30.999
+FC-3B,1,n3815,trace,9,986,2098.0,1,3.5,circle,shifted +8 px from nominal x=50,51.396,2167.47,0.474,20.73
+FC-3B,1,n3815,trace,10,1008,2086.5,1,6.0,circle,,55.161,2207.193,0.474,29.288
+FC-3B,1,n3815,trace,11,1037,2068.5,1,6.0,circle,,60.122,2269.281,0.474,29.288
+FC-3B,1,n3815,trace,12,1066,2054.0,1,7.5,circle,thick run 15 px (steep line),65.085,2319.388,0.475,34.423
+FC-3B,1,n3815,trace,13,1109,2031.0,1,3.5,circle,shifted +14 px from nominal x=70,72.443,2398.819,0.474,20.73
+FC-3B,1,n3815,trace,14,1124,2025.0,1,6.5,circle,,75.01,2419.602,0.474,30.999
+FC-3B,1,n3815,trace,15,1154,2011.5,1,7.0,circle,,80.144,2466.302,0.475,32.711
+FC-3B,1,n3815,trace,16,1183,2000.5,1,3.0,circle,,85.107,2504.429,0.474,19.019
+FC-3B,1,n3815,trace,17,1224,1982.5,1,3.0,circle,shifted +12 px from nominal x=90,92.123,2566.712,0.474,19.019
+FC-3B,1,n3815,trace,18,1241,1976.5,1,6.0,circle,,95.033,2587.527,0.474,29.288
+FC-3B,1,n3815,trace,19,1264,1968.0,1,6.5,circle,shifted -6 px from nominal x=100,98.969,2616.998,0.474,30.999
+FC-3B,1,n3815,trace,20,1300,1956.5,1,6.0,circle,,105.131,2656.95,0.474,29.288
+FC-3B,1,n3815,trace,21,1337,1946.0,1,4.5,circle,shifted +8 px from nominal x=110,111.464,2693.495,0.474,24.153
+FC-3B,1,n3815,trace,22,1358,1940.5,1,6.0,circle,,115.059,2712.664,0.474,29.288
+FC-3B,1,n3815,trace,23,1387,1932.5,1,6.0,circle,,120.023,2740.521,0.474,29.288
+FC-3B,1,n3815,trace,24,1416,1926.0,1,5.5,circle,,124.987,2763.244,0.474,27.576
+FC-3B,1,n3815,trace,25,1458,1916.5,1,6.0,circle,shifted +12 px from nominal x=130,132.177,2796.447,0.474,29.288
+FC-3B,1,n3815,trace,26,1475,1913.5,1,6.0,circle,,135.087,2806.994,0.474,29.288
+FC-3B,1,n3815,trace,27,1504,1907.5,1,6.0,circle,,140.052,2828.004,0.474,29.288
+FC-3B,1,n3815,trace,28,1533,1903.5,1,7.0,circle,,145.017,2842.169,0.475,32.711
+FC-3B,1,n3815,trace,29,1574,1895.5,1,6.0,circle,shifted +12 px from nominal x=150,152.035,2870.222,0.474,29.288
+FC-3B,1,n3815,trace,30,1592,1893.0,1,6.5,circle,,155.117,2879.073,0.474,30.999
+FC-3B,1,n3815,trace,31,1621,1888.5,1,5.0,circle,,160.082,2894.949,0.474,25.865
+FC-3B,1,n3815,trace,32,1648,1884.5,1,6.0,circle,shifted -2 px from nominal x=165,164.704,2909.081,0.474,29.288
+FC-3B,1,n3815,trace,33,1687,1878.5,1,6.0,circle,shifted +8 px from nominal x=170,171.381,2930.255,0.474,29.288
+FC-3B,1,n3815,trace,34,1708,1876.5,1,7.0,circle,,174.977,2937.444,0.475,32.711
+FC-3B,1,n3815,trace,35,1738,1871.5,1,6.0,circle,,180.112,2955.048,0.474,29.288
+FC-3B,1,n3815,trace,36,1767,1868.5,1,6.0,circle,,185.078,2965.79,0.474,29.288
+FC-3B,1,n3815,trace,37,1812,1869.0,1,5.5,circle,shifted +16 px from nominal x=190,192.783,2964.811,0.474,27.576
+FC-3B,1,n3815,trace,38,1825,1867.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,195.009,2970.158,0.474,22.442
+FC-3B,1,n3815,trace,39,1848,1867.5,1,4.0,circle,shifted -6 px from nominal x=200; run merged with the 3000 gridline; curve is the lower part of the run,198.947,2970.533,0.474,22.442
+FC-3B,1,n3815,trace,40,1884,1866.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,205.112,2974.542,0.474,22.442
+FC-3B,1,n3815,trace,41,1913,1866.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,210.077,2975.015,0.474,22.442
+FC-3B,1,n3815,trace,42,1940,1863.5,1,6.0,circle,shifted -2 px from nominal x=215,214.7,2985.724,0.474,29.288
+FC-3B,1,n3815,trace,43,1981,1864.5,1,4.0,circle,shifted +10 px from nominal x=220; run merged with the 3000 gridline; curve is the lower part of the run,221.721,2982.969,0.474,22.442
+FC-3B,1,n3815,trace,44,2000,1866.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,224.975,2976.432,0.474,22.442
+FC-3B,1,n3815,trace,45,2030,1866.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,230.112,2976.921,0.474,22.442
+FC-3B,1,n3815,trace,46,2059,1866.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,235.078,2977.394,0.474,22.442
+FC-3B,1,n3815,trace,47,2088,1867.5,1,4.0,circle,run merged with the 3000 gridline; curve is the lower part of the run,240.044,2974.443,0.474,22.442
+FC-3B,1,n3815,trace,48,2115,1869.5,1,4.0,circle,shifted -2 px from nominal x=245; run merged with the 3000 gridline; curve is the lower part of the run,244.668,2968.037,0.474,22.442
+FC-3B,1,n3815,feature,1,758,2310.5,2,9.0,circle,first point: left end of the first dash (the line starts at the first marker); thick run 18 px (steep line),12.404,1436.353,0.646,39.573
+FC-3B,1,n3815,feature,2,1940,1863.5,3,6.0,circle,"peak: minimum v among the trace samples (flat plateau, location along it uncertain); shifted -2 px from nominal x=215",214.7,2985.724,0.817,29.321
+FC-3B,1,n3815,feature,3,2116,1869.5,2,4.0,circle,last point: end of the last dash; the last marker follows on the 250 gridline; run merged with the 3000 gridline; curve is the lower part of the run,244.839,2968.053,0.645,22.458
+FC-3B,1,n2934,marker,1,742.0,2455.0,3,3,triangle-down,top edge on the 1000 gridline,9.698,941.459,0.816,19.051
+FC-3B,1,n2934,marker,2,865.0,2287.0,3,3,triangle-down,,30.721,1518.538,0.816,19.051
+FC-3B,1,n2934,marker,3,979.0,2198.5,3,3,triangle-down,centered on the 50 gridline,50.221,1823.337,0.816,19.051
+FC-3B,1,n2934,marker,4,1091.5,2131.0,3,3,triangle-down,apex touches the 2000 gridline,69.469,2056.228,0.816,19.051
+FC-3B,1,n2934,marker,5,1200.0,2090.5,3,3,triangle-down,,88.039,2196.63,0.816,19.051
+FC-3B,1,n2934,marker,6,1325.0,2049.0,3,3,triangle-down,,109.434,2340.724,0.816,19.051
+FC-3B,1,n2934,marker,7,1440.0,2011.0,3,3,triangle-down,,129.117,2472.674,0.816,19.051
+FC-3B,1,n2934,marker,8,1551.5,1986.0,3,3,triangle-down,,148.204,2560.068,0.816,19.051
+FC-3B,1,n2934,marker,9,1665.5,1960.5,3,3,triangle-down,,167.719,2649.214,0.816,19.051
+FC-3B,1,n2934,marker,10,1791.0,1947.0,3,3,triangle-down,,189.205,2697.47,0.816,19.051
+FC-3B,1,n2934,marker,11,1960.5,1951.0,3,3,triangle-down,dashes touch both sides,218.231,2686.54,0.816,19.051
+FC-3B,1,n2934,trace,1,757,2421.0,1,7.5,triangle-down,shifted +12 px from nominal x=10; thick run 15 px (steep line),12.258,1058.088,0.475,34.423
+FC-3B,1,n2934,trace,2,774,2395.5,1,9.0,triangle-down,thick run 18 px (steep line),15.163,1145.653,0.475,39.557
+FC-3B,1,n2934,trace,3,803,2359.0,1,8.5,triangle-down,thick run 17 px (steep line),20.121,1271.067,0.475,37.846
+FC-3B,1,n2934,trace,4,832,2321.5,1,4.0,triangle-down,,25.078,1399.905,0.474,22.442
+FC-3B,1,n2934,trace,5,846,2311.0,1,3.5,triangle-down,shifted -16 px from nominal x=30,27.473,1436.075,0.474,20.73
+FC-3B,1,n2934,trace,6,891,2260.5,1,3.0,triangle-down,,35.167,1609.673,0.474,19.019
+FC-3B,1,n2934,trace,7,920,2239.0,1,6.5,triangle-down,,40.127,1683.742,0.474,30.999
+FC-3B,1,n2934,trace,8,949,2215.0,1,6.5,triangle-down,,45.088,1766.368,0.474,30.999
+FC-3B,1,n2934,trace,9,960,2209.0,1,5.5,triangle-down,shifted -18 px from nominal x=50,46.97,1787.086,0.474,27.576
+FC-3B,1,n2934,trace,10,1008,2176.0,1,6.5,triangle-down,,55.182,1900.829,0.474,30.999
+FC-3B,1,n2934,trace,11,1037,2158.5,1,6.0,triangle-down,,60.143,1961.205,0.474,29.288
+FC-3B,1,n2934,trace,12,1066,2146.0,1,5.5,triangle-down,,65.106,2004.466,0.474,27.576
+FC-3B,1,n2934,trace,13,1124,2120.5,1,5.0,triangle-down,,75.032,2092.699,0.474,25.865
+FC-3B,1,n2934,trace,14,1154,2109.5,1,6.0,triangle-down,,80.166,2130.842,0.474,29.288
+FC-3B,1,n2934,trace,15,1179,2101.0,1,6.5,triangle-down,shifted -4 px from nominal x=85,84.445,2160.345,0.474,30.999
+FC-3B,1,n2934,trace,16,1222,2081.5,1,4.0,triangle-down,shifted +10 px from nominal x=90,91.804,2227.796,0.474,22.442
+FC-3B,1,n2934,trace,17,1241,2076.5,1,6.0,triangle-down,,95.056,2245.221,0.474,29.288
+FC-3B,1,n2934,trace,18,1264,2068.0,1,5.5,triangle-down,shifted -6 px from nominal x=100,98.993,2274.692,0.474,27.576
+FC-3B,1,n2934,trace,19,1300,2056.0,1,6.5,triangle-down,,105.154,2316.355,0.474,30.999
+FC-3B,1,n2934,trace,20,1358,2036.0,1,5.5,triangle-down,,115.081,2385.761,0.474,27.576
+FC-3B,1,n2934,trace,21,1387,2026.5,1,7.0,triangle-down,,120.045,2418.753,0.475,32.711
+FC-3B,1,n2934,trace,22,1416,2019.0,1,2.5,triangle-down,,125.009,2444.899,0.474,17.307
+FC-3B,1,n2934,trace,23,1475,2000.5,1,6.0,triangle-down,,135.108,2509.187,0.474,29.288
+FC-3B,1,n2934,trace,24,1504,1992.5,1,6.0,triangle-down,,140.071,2537.044,0.474,29.288
+FC-3B,1,n2934,trace,25,1529,1988.5,1,3.0,triangle-down,shifted -4 px from nominal x=145,144.351,2551.143,0.474,19.019
+FC-3B,1,n2934,trace,26,1576,1977.0,1,3.5,triangle-down,shifted +14 px from nominal x=150,152.397,2591.275,0.474,20.73
+FC-3B,1,n2934,trace,27,1592,1972.0,1,4.5,triangle-down,,155.135,2608.651,0.474,24.153
+FC-3B,1,n2934,trace,28,1621,1966.5,1,7.0,triangle-down,,160.1,2627.95,0.475,32.711
+FC-3B,1,n2934,trace,29,1642,1963.5,1,5.0,triangle-down,shifted -8 px from nominal x=165,163.695,2638.561,0.474,25.865
+FC-3B,1,n2934,trace,30,1693,1954.0,1,4.5,triangle-down,shifted +14 px from nominal x=170,172.426,2671.912,0.474,24.153
+FC-3B,1,n2934,trace,31,1708,1952.5,1,6.0,triangle-down,,174.994,2677.291,0.474,29.288
+FC-3B,1,n2934,trace,32,1738,1949.5,1,6.0,triangle-down,,180.13,2688.049,0.474,29.288
+FC-3B,1,n2934,trace,33,1765,1947.5,1,6.0,triangle-down,shifted -2 px from nominal x=185,184.753,2695.335,0.474,29.288
+FC-3B,1,n2934,trace,34,1816,1944.0,1,3.5,triangle-down,shifted +20 px from nominal x=190,193.486,2708.147,0.474,20.73
+FC-3B,1,n2934,trace,35,1825,1943.5,1,6.0,triangle-down,,195.027,2710.005,0.474,29.288
+FC-3B,1,n2934,trace,36,1848,1944.5,1,6.0,triangle-down,shifted -6 px from nominal x=200,198.965,2706.956,0.474,29.288
+FC-3B,1,n2934,trace,37,1884,1946.5,1,6.0,triangle-down,,205.13,2700.697,0.474,29.288
+FC-3B,1,n2934,trace,38,1913,1948.0,1,4.5,triangle-down,,210.096,2696.035,0.474,24.153
+FC-3B,1,n2934,trace,39,1942,1947.0,1,3.5,triangle-down,,215.062,2699.93,0.474,20.73
+FC-3B,1,n2934,trace,40,1983,1948.5,1,4.0,triangle-down,shifted +12 px from nominal x=220,222.083,2695.464,0.474,22.442
+FC-3B,1,n2934,trace,41,2000,1950.5,1,6.0,triangle-down,,224.994,2688.895,0.474,29.288
+FC-3B,1,n2934,trace,42,2030,1953.0,1,5.5,triangle-down,,230.132,2680.826,0.474,27.576
+FC-3B,1,n2934,trace,43,2059,1955.5,1,6.0,triangle-down,,235.098,2672.741,0.474,29.288
+FC-3B,1,n2934,trace,44,2088,1959.0,1,6.5,triangle-down,,240.065,2661.233,0.474,30.999
+FC-3B,1,n2934,trace,45,2117,1962.0,1,5.5,triangle-down,,245.031,2651.436,0.474,27.576
+FC-3B,1,n2934,feature,1,757,2421.0,2,7.5,triangle-down,first point: left end of the first dash (the line starts at the first marker); thick run 15 px (steep line),12.258,1058.088,0.646,34.439
+FC-3B,1,n2934,feature,2,1825,1943.5,3,6.0,triangle-down,"peak: minimum v among the trace samples (flat plateau, location along it uncertain)",195.027,2710.005,0.817,29.321
+FC-3B,1,n2934,feature,3,2118,1963.0,2,4.5,triangle-down,"last point: end of the last dash; no marker follows, the line ends short of 250",245.203,2648.029,0.645,24.17
+FC-3B,1,n1761,marker,1,743.5,2513.5,2,2,square,,9.968,741.234,0.645,15.612
+FC-3B,1,n1761,marker,2,860.5,2451.0,3,3,square,top edge on the 1000 gridline,29.988,957.082,0.816,19.051
+FC-3B,1,n1761,marker,3,974.0,2409.5,3,3,square,on the 50 gridline,49.414,1100.989,0.816,19.051
+FC-3B,1,n1761,marker,4,1088.5,2371.0,2,2,square,,69.011,1234.643,0.645,15.612
+FC-3B,1,n1761,marker,5,1208.0,2342.0,2,2,square,,89.467,1335.859,0.645,15.612
+FC-3B,1,n1761,marker,6,1317.5,2316.0,2,2,square,,108.211,1426.643,0.645,15.612
+FC-3B,1,n1761,marker,7,1441.0,2292.0,2,2,square,,129.353,1510.809,0.645,15.612
+FC-3B,1,n1761,marker,8,1553.0,2274.0,3,3,square,150 gridline touches right edge,148.527,1574.249,0.816,19.051
+FC-3B,1,n1761,marker,9,1674.5,2247.0,2,2,square,,169.326,1668.652,0.645,15.612
+FC-3B,1,n1761,marker,10,1792.5,2223.0,2,2,square,,189.526,1752.728,0.645,15.612
+FC-3B,1,n1761,marker,11,1958.5,2203.5,2,2,square,,217.947,1822.183,0.645,15.612
+FC-3B,1,n1761,marker,12,2136.0,2197.5,4,4,square,right side merged with the 250 gridline,248.34,1845.613,0.988,22.491
+FC-3B,1,n1761,trace,1,765,2500.5,1,6.0,square,shifted +20 px from nominal x=10,13.647,786.084,0.474,29.288
+FC-3B,1,n1761,trace,2,774,2495.5,1,5.0,square,,15.187,803.346,0.474,25.865
+FC-3B,1,n1761,trace,3,803,2479.5,1,6.0,square,,20.149,858.588,0.474,29.288
+FC-3B,1,n1761,trace,4,832,2464.0,1,5.5,square,,25.111,912.118,0.474,27.576
+FC-3B,1,n1761,trace,5,882,2440.5,1,6.0,square,shifted +20 px from nominal x=30,33.667,993.375,0.474,29.288
+FC-3B,1,n1761,trace,6,891,2437.5,1,6.0,square,,35.208,1003.791,0.474,29.288
+FC-3B,1,n1761,trace,7,920,2426.5,1,7.0,square,,40.171,1041.917,0.475,32.711
+FC-3B,1,n1761,trace,8,949,2416.0,1,6.5,square,,45.134,1078.332,0.474,30.999
+FC-3B,1,n1761,trace,9,994,2399.5,1,5.0,square,shifted +16 px from nominal x=50,52.836,1135.545,0.474,25.865
+FC-3B,1,n1761,trace,10,1008,2395.5,1,6.0,square,,55.232,1149.466,0.474,29.288
+FC-3B,1,n1761,trace,11,1037,2386.5,1,6.0,square,,60.196,1180.746,0.474,29.288
+FC-3B,1,n1761,trace,12,1066,2380.0,1,3.5,square,,65.16,1203.468,0.474,20.73
+FC-3B,1,n1761,trace,13,1113,2363.5,1,4.0,square,shifted +18 px from nominal x=70,73.205,1260.715,0.474,22.442
+FC-3B,1,n1761,trace,14,1124,2362.5,1,6.0,square,,75.088,1264.317,0.474,29.288
+FC-3B,1,n1761,trace,15,1154,2353.5,1,6.0,square,,80.223,1295.614,0.474,29.288
+FC-3B,1,n1761,trace,16,1183,2347.5,1,6.0,square,,85.187,1316.625,0.474,29.288
+FC-3B,1,n1761,trace,17,1228,2337.0,1,4.5,square,shifted +16 px from nominal x=90,92.891,1353.3,0.474,24.153
+FC-3B,1,n1761,trace,18,1241,2334.5,1,6.0,square,,95.116,1362.07,0.474,29.288
+FC-3B,1,n1761,trace,19,1264,2328.5,1,6.0,square,shifted -6 px from nominal x=100,99.053,1382.983,0.474,29.288
+FC-3B,1,n1761,trace,20,1294,2324.5,1,4.0,square,shifted -6 px from nominal x=105,104.189,1397.164,0.474,22.442
+FC-3B,1,n1761,trace,21,1341,2313.0,1,4.5,square,shifted +12 px from nominal x=110,112.235,1437.295,0.474,24.153
+FC-3B,1,n1761,trace,22,1358,2310.5,1,6.0,square,,115.145,1446.13,0.474,29.288
+FC-3B,1,n1761,trace,23,1387,2303.5,1,5.0,square,,120.109,1470.564,0.474,25.865
+FC-3B,1,n1761,trace,24,1416,2296.5,1,6.0,square,,125.073,1494.998,0.474,29.288
+FC-3B,1,n1761,trace,25,1466,2287.5,1,6.0,square,shifted +20 px from nominal x=130,133.633,1526.62,0.474,29.288
+FC-3B,1,n1761,trace,26,1475,2287.5,1,6.0,square,,135.174,1526.767,0.474,29.288
+FC-3B,1,n1761,trace,27,1504,2281.5,1,6.0,square,,140.139,1547.778,0.474,29.288
+FC-3B,1,n1761,trace,28,1533,2277.0,1,4.5,square,,145.103,1563.654,0.474,24.153
+FC-3B,1,n1761,trace,29,1574,2268.0,1,4.5,square,shifted +12 px from nominal x=150,152.122,1595.13,0.474,24.153
+FC-3B,1,n1761,trace,30,1592,2267.0,1,7.5,square,thick run 15 px (steep line),155.204,1598.846,0.475,34.423
+FC-3B,1,n1761,trace,31,1621,2263.0,1,6.5,square,,160.169,1613.011,0.474,30.999
+FC-3B,1,n1761,trace,32,1650,2256.5,1,6.0,square,,165.133,1635.733,0.474,29.288
+FC-3B,1,n1761,trace,33,1697,2247.0,1,4.5,square,shifted +18 px from nominal x=170,173.179,1669.018,0.474,24.153
+FC-3B,1,n1761,trace,34,1708,2244.5,1,6.0,square,,175.062,1677.755,0.474,29.288
+FC-3B,1,n1761,trace,35,1738,2239.0,1,6.5,square,,180.198,1697.071,0.474,30.999
+FC-3B,1,n1761,trace,36,1765,2234.5,1,4.0,square,shifted -2 px from nominal x=185,184.82,1712.915,0.474,22.442
+FC-3B,1,n1761,trace,37,1816,2223.0,1,4.5,square,shifted +20 px from nominal x=190,193.55,1753.111,0.474,24.153
+FC-3B,1,n1761,trace,38,1825,2222.5,1,7.0,square,,195.091,1754.969,0.475,32.711
+FC-3B,1,n1761,trace,39,1848,2218.5,1,6.0,square,shifted -6 px from nominal x=200,199.029,1769.036,0.474,29.288
+FC-3B,1,n1761,trace,40,1884,2213.5,1,7.0,square,,205.192,1786.738,0.475,32.711
+FC-3B,1,n1761,trace,41,1913,2209.5,1,6.0,square,,210.157,1800.903,0.474,29.288
+FC-3B,1,n1761,trace,42,1938,2209.0,1,2.5,square,shifted -4 px from nominal x=215,214.438,1803.022,0.474,17.307
+FC-3B,1,n1761,trace,43,1981,2202.0,1,4.5,square,shifted +10 px from nominal x=220,221.799,1827.684,0.474,24.153
+FC-3B,1,n1761,trace,44,2000,2200.5,1,6.0,square,,225.052,1833.128,0.474,29.288
+FC-3B,1,n1761,trace,45,2030,2200.0,1,5.5,square,,230.189,1835.329,0.474,27.576
+FC-3B,1,n1761,trace,46,2059,2197.5,1,6.0,square,,235.154,1844.359,0.474,29.288
+FC-3B,1,n1761,trace,47,2088,2197.5,1,6.0,square,,240.12,1844.831,0.474,29.288
+FC-3B,1,n1761,trace,48,2117,2198.5,1,5.0,square,,245.086,1841.881,0.474,25.865
+FC-3B,1,n1761,feature,1,764,2501.0,2,4.5,square,first point: left end of the first dash (the line starts at the first marker),13.476,784.356,0.645,24.17
+FC-3B,1,n1761,feature,2,2059,2197.5,3,6.0,square,"peak: minimum v among the trace samples (flat plateau, location along it uncertain)",235.154,1844.359,0.817,29.321
+FC-3B,1,n1761,feature,3,2118,2199.0,2,4.5,square,last point: end of the last dash; the last marker follows on the 250 gridline,245.258,1840.186,0.645,24.17
+FC-3B,1,n734,marker,1,741.5,2625.5,3,3,triangle-up,,9.652,357.818,0.816,19.051
+FC-3B,1,n734,marker,2,854.5,2584.5,3,3,triangle-up,base merged with dash,28.992,500.005,0.816,19.051
+FC-3B,1,n734,marker,3,994.5,2552.0,3,3,triangle-up,base merged with dash; right of the 50 gridline,52.957,613.536,0.816,19.051
+FC-3B,1,n734,marker,4,1091.5,2535.5,3,3,triangle-up,base merged with dashes,69.563,671.597,0.816,19.051
+FC-3B,1,n734,marker,5,1208.5,2517.0,3,3,triangle-up,base merged with dash on the right,89.593,736.83,0.816,19.051
+FC-3B,1,n734,marker,6,1330.5,2487.5,3,3,triangle-up,base merged with dash,110.477,839.799,0.816,19.051
+FC-3B,1,n734,marker,7,1443.0,2490.5,3,3,triangle-up,,129.742,831.363,0.816,19.051
+FC-3B,1,n734,marker,8,1670.5,2496.0,3,3,triangle-up,,168.699,816.243,0.816,19.051
+FC-3B,1,n734,marker,9,1782.5,2494.5,3,3,triangle-up,base merged with dash,187.877,823.202,0.816,19.051
+FC-3B,1,n734,marker,10,1963.0,2494.5,3,3,triangle-up,,218.785,826.144,0.816,19.051
+FC-3B,1,n734,marker,11,2141.0,2500.0,4,4,triangle-up,centered on the 250 gridline; apex merged with it,249.266,810.217,0.988,22.491
+FC-3B,1,n734,trace,1,759,2616.0,1,4.5,triangle-up,shifted +14 px from nominal x=10,12.646,390.622,0.474,24.153
+FC-3B,1,n734,trace,2,774,2611.5,1,6.0,triangle-up,,15.214,406.27,0.474,29.288
+FC-3B,1,n734,trace,3,803,2602.5,1,6.0,triangle-up,,20.177,437.551,0.474,29.288
+FC-3B,1,n734,trace,4,832,2593.0,1,5.5,triangle-up,,25.141,470.542,0.474,27.576
+FC-3B,1,n734,trace,5,891,2577.5,1,6.0,triangle-up,,35.24,524.561,0.474,29.288
+FC-3B,1,n734,trace,6,920,2569.5,1,6.0,triangle-up,,40.204,552.418,0.474,29.288
+FC-3B,1,n734,trace,7,949,2563.0,1,6.5,triangle-up,,45.168,575.141,0.474,30.999
+FC-3B,1,n734,trace,8,968,2560.0,1,2.5,triangle-up,shifted -10 px from nominal x=50,48.421,585.72,0.474,17.307
+FC-3B,1,n734,trace,9,1024,2547.0,1,4.5,triangle-up,shifted +16 px from nominal x=55,58.007,631.132,0.474,24.153
+FC-3B,1,n734,trace,10,1037,2545.5,1,6.0,triangle-up,,60.233,636.478,0.474,29.288
+FC-3B,1,n734,trace,11,1066,2540.5,1,5.0,triangle-up,,65.198,654.066,0.474,25.865
+FC-3B,1,n734,trace,12,1111,2534.0,1,4.5,triangle-up,shifted +16 px from nominal x=70,72.902,677.049,0.474,24.153
+FC-3B,1,n734,trace,13,1124,2533.0,1,5.5,triangle-up,,75.128,680.684,0.474,27.576
+FC-3B,1,n734,trace,14,1154,2529.5,1,6.0,triangle-up,,80.264,693.154,0.474,29.288
+FC-3B,1,n734,trace,15,1179,2526.0,1,4.5,triangle-up,shifted -4 px from nominal x=85,84.544,705.542,0.474,24.153
+FC-3B,1,n734,trace,16,1241,2517.5,1,3.0,triangle-up,,95.158,735.648,0.474,19.019
+FC-3B,1,n734,trace,17,1264,2515.0,1,5.5,triangle-up,shifted -6 px from nominal x=100,99.096,744.581,0.474,27.576
+FC-3B,1,n734,trace,18,1300,2511.0,1,4.5,triangle-up,,105.26,758.86,0.474,24.153
+FC-3B,1,n734,trace,19,1347,2506.5,1,6.0,triangle-up,shifted +18 px from nominal x=110,113.307,775.029,0.474,29.288
+FC-3B,1,n734,trace,20,1358,2505.0,1,4.5,triangle-up,,115.19,780.343,0.474,24.153
+FC-3B,1,n734,trace,21,1387,2501.5,1,5.0,triangle-up,,120.155,792.796,0.474,25.865
+FC-3B,1,n734,trace,22,1414,2499.0,1,4.5,triangle-up,shifted -2 px from nominal x=125,124.778,801.794,0.474,24.153
+FC-3B,1,n734,trace,23,1475,2494.5,1,6.0,triangle-up,,135.222,818.192,0.474,29.288
+FC-3B,1,n734,trace,24,1504,2494.5,1,6.0,triangle-up,,140.188,818.664,0.474,29.288
+FC-3B,1,n734,trace,25,1533,2493.5,1,6.0,triangle-up,,145.154,822.56,0.474,29.288
+FC-3B,1,n734,trace,26,1558,2491.5,1,6.0,triangle-up,shifted -4 px from nominal x=150,149.434,829.814,0.474,29.288
+FC-3B,1,n734,trace,27,1592,2491.5,1,6.0,triangle-up,,155.256,830.368,0.474,29.288
+FC-3B,1,n734,trace,28,1621,2491.5,1,6.0,triangle-up,,160.222,830.84,0.474,29.288
+FC-3B,1,n734,trace,29,1632,2493.0,1,4.5,triangle-up,shifted -18 px from nominal x=165,162.106,825.885,0.474,24.153
+FC-3B,1,n734,trace,30,1708,2492.5,1,5.0,triangle-up,,175.119,828.835,0.474,25.865
+FC-3B,1,n734,trace,31,1738,2492.5,1,5.0,triangle-up,,180.256,829.324,0.474,25.865
+FC-3B,1,n734,trace,32,1759,2493.0,1,4.5,triangle-up,shifted -8 px from nominal x=185,183.853,827.954,0.474,24.153
+FC-3B,1,n734,trace,33,1808,2494.0,1,2.5,triangle-up,shifted +12 px from nominal x=190,192.243,825.33,0.474,17.307
+FC-3B,1,n734,trace,34,1825,2494.5,1,6.0,triangle-up,,195.154,823.895,0.474,29.288
+FC-3B,1,n734,trace,35,1848,2494.5,1,6.0,triangle-up,shifted -6 px from nominal x=200,199.093,824.27,0.474,29.288
+FC-3B,1,n734,trace,36,1884,2496.5,1,6.0,triangle-up,,205.258,818.01,0.474,29.288
+FC-3B,1,n734,trace,37,1913,2496.5,1,6.0,triangle-up,,210.224,818.483,0.474,29.288
+FC-3B,1,n734,trace,38,1928,2497.5,1,6.0,triangle-up,shifted -14 px from nominal x=215,212.792,815.304,0.474,29.288
+FC-3B,1,n734,trace,39,2000,2498.5,1,5.0,triangle-up,,225.121,813.054,0.474,25.865
+FC-3B,1,n734,trace,40,2030,2499.0,1,4.5,triangle-up,,230.259,811.832,0.474,24.153
+FC-3B,1,n734,trace,41,2059,2499.5,1,6.0,triangle-up,,235.224,810.593,0.474,29.288
+FC-3B,1,n734,trace,42,2088,2500.5,1,6.0,triangle-up,,240.191,807.642,0.474,29.288
+FC-3B,1,n734,trace,43,2117,2500.5,1,6.0,triangle-up,,245.156,808.115,0.474,29.288
+FC-3B,1,n734,feature,1,758,2617.0,2,2.5,triangle-up,first point: left end of the first dash (the line starts at the first marker),12.475,387.183,0.645,17.323
+FC-3B,1,n734,feature,2,1558,2491.5,3,6.0,triangle-up,"peak: minimum v among the trace samples (flat plateau, location along it uncertain); shifted -4 px from nominal x=150",149.434,829.814,0.817,29.321
+FC-3B,1,n734,feature,3,2121,2501.5,2,4.0,triangle-up,last point: end of the last dash; the last marker follows on the 250 gridline,245.842,804.757,0.645,22.458

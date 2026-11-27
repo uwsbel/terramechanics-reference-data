@@ -1,0 +1,3247 @@
+{
+  "file": "figures.csv",
+  "source": "Bendix AM-68-1 Vol. I, Section II (PDF 26 to 138) plus Table 1-1 (PDF 20)",
+  "method": "two independent inventories from the page images (Claude, Codex gpt-6-astra high), exact-match diff (tools/diff_tables.py), vocabulary rules and a resolutions file (qa/inventory-s2-b1/resolutions.csv) applied by tools/build_figures.py",
+  "submissions": [
+    "extractions/claude/inventory-s2-b1/inventory-claude.csv",
+    "extractions/codex/inventory-s2-b1/inventory-codex.csv"
+  ],
+  "resolutions": "qa/inventory-s2-b1/resolutions.csv",
+  "scope_rule": "in_scope: the item carries numbers to extract into data/ (yes | maybe | no). transcribe: the page is transcribed in phase b (yes for all of Section II).",
+  "priority_rule": "1: needed for the first calibration and prediction protocols (shear family, LPT records with known bed state, DPT signatures and correlation, materials tables). 2: needed to set up or interpret those tests (bed preparation, boundary and bin effects, rate series, degradation). 3: context only.",
+  "mcc_rule": "mcc_relevant yes only for figures showing the same material after different loading or handling histories with a different response, plus the state maps needed to read them; maybe for the direct shear dilation panel.",
+  "curve_count_convention": "every drawn line is a trace, including each boundary of a shaded or bracketed range; markers and the fitted line through them are one response series; construction guides are not counted.",
+  "vocabularies": {
+    "axis_type": [
+      "linear",
+      "log",
+      "normalized",
+      "reciprocal",
+      "n/a"
+    ],
+    "unit": [
+      "inch",
+      "lb",
+      "psf",
+      "psi",
+      "pcf",
+      "g",
+      "s",
+      "mm",
+      "percent",
+      "deg",
+      "none",
+      "n/a"
+    ],
+    "test_type": [
+      "grain size",
+      "density",
+      "bed preparation",
+      "direct shear",
+      "triaxial",
+      "load penetration",
+      "dynamic penetrometer",
+      "drag",
+      "impact",
+      "sonic",
+      "soil model",
+      "soil properties",
+      "apparatus",
+      "other"
+    ],
+    "data_form": [
+      "table",
+      "curve",
+      "schematic",
+      "photo",
+      "text",
+      "mixed"
+    ],
+    "status": [
+      "agreed",
+      "vocabulary-resolved",
+      "resolved",
+      "convention",
+      "rule",
+      "provisional",
+      "pending-review"
+    ]
+  },
+  "missing_ids": [],
+  "cells": [
+    {
+      "id": "T1-1",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "resolved",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "rotation": "Page re-read (PDF 20): table printed sideways. Claude had not inspected the page. Credit Codex.",
+        "priority": "Protocol rule: duplicate of Table 2-3; Table 2-3 is canonical.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "T2-1",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: table of numbers (target property ranges). Claude's reading kept.",
+        "priority": "Protocol rule: lunar estimates are context for soil selection.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "T2-2",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule keeps Claude's maybe; settle when the materials crosswalk is extended.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "T2-3",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-1",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-2",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "resolved",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "data_form": "Flow chart drawn as boxes and arrows; a diagram rather than running text."
+      }
+    },
+    {
+      "id": "F2-3",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-4",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-5",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: conceptual chart; transcribed with the page.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-6",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule."
+      }
+    },
+    {
+      "id": "F2-7",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-8",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: equipment photo.",
+        "priority": "Protocol rule: photo without setup numbers."
+      }
+    },
+    {
+      "id": "F2-9",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-10",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-11",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-12",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: a worked sieve sheet for one bed supports interpretation of the degradation figures; not a calibration input.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-13",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-14",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-15",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "resolved",
+        "test_type": "agreed",
+        "x_axis_type": "vocabulary-resolved",
+        "y_axis_type": "vocabulary-resolved",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "data_form": "One drawn conversion line (curves = 1 agreed); curve is consistent with the count.",
+        "in_scope": "Narrow scope rule keeps Claude's maybe: nomograph with a hypothetical soil.",
+        "priority": "Protocol rule: method illustration.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-16",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-17",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "vocabulary-resolved",
+        "y_axis_type": "vocabulary-resolved",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: state-to-unit-weight map needed to interpret beds; derivable from min and max density."
+      }
+    },
+    {
+      "id": "F2-18",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "test_type": "Density against compaction duration describes bed preparation."
+      }
+    },
+    {
+      "id": "F2-19",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: photo. Codex's finer test_type label kept so a search for direct shear finds it.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-20",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-21",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "resolved"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule with the dilation panel as maybe: dilatancy is state dependent but may be covered by mu(I) with a dilatancy term.",
+        "y_unit": "Two panels: shear stress in psf above and normal displacement in thousandths of an inch below (printed multiplier x 10^3). Codex recorded the upper panel only."
+      }
+    },
+    {
+      "id": "F2-22",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-23",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "vocabulary-resolved",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule; Codex's own note says density dependence does not identify history dependence."
+      }
+    },
+    {
+      "id": "F2-24",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule."
+      }
+    },
+    {
+      "id": "F2-25",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: hypothetical envelopes without ticks.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-26",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-27",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-28",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-29",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-30",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-31",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule keeps maybe: classical factors reproducible from formulas.",
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-32",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "convention",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "data_form": "Recorded traces with an author fit: data_form stays curve; trace_classes carries the mixture."
+      }
+    },
+    {
+      "id": "F2-33",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "convention",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "data_form": "Same convention as F2-32."
+      }
+    },
+    {
+      "id": "F2-34",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "convention",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "data_form": "Same convention as F2-32."
+      }
+    },
+    {
+      "id": "F2-35",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "convention",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "data_form": "Same convention as F2-32.",
+        "priority": "Protocol rule: bin-size comparison supports interpretation (boundary effects)."
+      }
+    },
+    {
+      "id": "F2-36",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-37",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "provisional",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "curves": "Claude 10 (about ten) against Codex 11 at 300 dpi; two curves labeled only Dr approx 0.96. Count again at 600 dpi during extraction.",
+        "priority": "Protocol rule: size and bin effects."
+      }
+    },
+    {
+      "id": "F2-38",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-39",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "vocabulary-resolved",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-40",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: rate series are interpretation (rate insensitivity) unless the extended rate protocol is run.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-41",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-42",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule."
+      }
+    },
+    {
+      "id": "F2-43",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-44",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: bin size sets the simulation domain; not a calibration input."
+      }
+    },
+    {
+      "id": "F2-45",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-46",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-47",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-48",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-49",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "resolved",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "curves": "Page re-read (PDF 110): nine labeled curves plus one unlabeled line ending near Df/D 0.95 at ordinate 270. Credit Codex. Identity of the unlabeled line open."
+      }
+    },
+    {
+      "id": "F2-50",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-51",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-52",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "vocabulary-resolved",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: every Gp printed on an LPT figure is read through the DPT correlations."
+      }
+    },
+    {
+      "id": "F2-53",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "rule",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "priority": "Protocol rule: DPT geometry is the setup of a prediction target."
+      }
+    },
+    {
+      "id": "F2-54",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-55",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "vocabulary-resolved",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-56",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-57",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "convention",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "curves": "Each drawn line is a trace: two used-soil curves plus the two boundaries of the unused range. Credit Codex for the convention."
+      }
+    },
+    {
+      "id": "F2-58",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "convention",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "curves": "Same convention as F2-57."
+      }
+    },
+    {
+      "id": "F2-59",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "vocabulary-resolved",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: photo of the density scoop.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-60",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "agreed",
+        "x_unit": "vocabulary-resolved",
+        "y_unit": "vocabulary-resolved"
+      },
+      "resolution_notes": {}
+    },
+    {
+      "id": "F2-61",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "agreed",
+        "priority": "agreed",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-62",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule: photo; the parts list on printed 2-107 is transcribed with the page.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-63",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-64",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    },
+    {
+      "id": "F2-65",
+      "cell_status": {
+        "kind": "agreed",
+        "printed_page": "agreed",
+        "pdf_page": "agreed",
+        "panels": "agreed",
+        "curves": "agreed",
+        "rotation": "agreed",
+        "data_form": "agreed",
+        "test_type": "agreed",
+        "x_axis_type": "agreed",
+        "y_axis_type": "agreed",
+        "in_scope": "rule",
+        "priority": "rule",
+        "mcc_relevant": "rule",
+        "x_unit": "agreed",
+        "y_unit": "agreed"
+      },
+      "resolution_notes": {
+        "in_scope": "Narrow scope rule; roller passes per soil are transcribed with printed 2-110 and 2-113.",
+        "priority": "Protocol rule.",
+        "mcc_relevant": "Narrow MCC rule."
+      }
+    }
+  ],
+  "descriptive_alternates": [
+    {
+      "id": "T1-1",
+      "column": "states",
+      "claude": "all",
+      "codex": "loose;intermediate;dense"
+    },
+    {
+      "id": "T1-1",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "derived"
+    },
+    {
+      "id": "T1-1",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "n/a"
+    },
+    {
+      "id": "T1-1",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-1",
+      "column": "soils",
+      "claude": "lunar estimate",
+      "codex": "none"
+    },
+    {
+      "id": "T2-1",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-1",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-2",
+      "column": "soils",
+      "claude": "candidates",
+      "codex": "example"
+    },
+    {
+      "id": "T2-2",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-2",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-3",
+      "column": "soils",
+      "claude": "all (1 to 12)",
+      "codex": "all"
+    },
+    {
+      "id": "T2-3",
+      "column": "states",
+      "claude": "all",
+      "codex": "loose;intermediate;dense"
+    },
+    {
+      "id": "T2-3",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "derived"
+    },
+    {
+      "id": "T2-3",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "n/a"
+    },
+    {
+      "id": "T2-3",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-1",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-2",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "dynamic"
+    },
+    {
+      "id": "F2-2",
+      "column": "trace_classes",
+      "claude": "schematic",
+      "codex": "computed"
+    },
+    {
+      "id": "F2-2",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-3",
+      "column": "soils",
+      "claude": "none",
+      "codex": "example"
+    },
+    {
+      "id": "F2-3",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-4",
+      "column": "soils",
+      "claude": "none",
+      "codex": "example"
+    },
+    {
+      "id": "F2-4",
+      "column": "x_quantity",
+      "claude": "strain epsilon_ij",
+      "codex": "Eij"
+    },
+    {
+      "id": "F2-4",
+      "column": "y_quantity",
+      "claude": "stress sigma_ij",
+      "codex": "σij"
+    },
+    {
+      "id": "F2-4",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-5",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-6",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-7",
+      "column": "states",
+      "claude": "all",
+      "codex": "loose;intermediate;dense"
+    },
+    {
+      "id": "F2-7",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-7",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-8",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-9",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-10",
+      "column": "apparatus",
+      "claude": "balance",
+      "codex": "triple beam balance"
+    },
+    {
+      "id": "F2-10",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-11",
+      "column": "apparatus",
+      "claude": "splitter",
+      "codex": "sample splitter"
+    },
+    {
+      "id": "F2-11",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-12",
+      "column": "soils",
+      "claude": "RC2",
+      "codex": "RC2 (6)"
+    },
+    {
+      "id": "F2-12",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-12",
+      "column": "trace_classes",
+      "claude": "measurement-markers",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-12",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-13",
+      "column": "soils",
+      "claude": "RC2",
+      "codex": "RC2 (6)"
+    },
+    {
+      "id": "F2-13",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-13",
+      "column": "x_quantity",
+      "claude": "grain size (upper axis: US standard sieve number)",
+      "codex": "Grain Size"
+    },
+    {
+      "id": "F2-13",
+      "column": "y_quantity",
+      "claude": "percent finer by weight",
+      "codex": "Percent Finer Than By Weight"
+    },
+    {
+      "id": "F2-13",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-14",
+      "column": "soils",
+      "claude": "RSM-a; RS; PS; LSM; SS; RC2",
+      "codex": "RS;PS;RSM-a;RC2;SS;LSM"
+    },
+    {
+      "id": "F2-14",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-14",
+      "column": "x_quantity",
+      "claude": "grain size (upper axis: US standard sieve number)",
+      "codex": "Grain Size"
+    },
+    {
+      "id": "F2-14",
+      "column": "y_quantity",
+      "claude": "percent finer by weight",
+      "codex": "Percent Finer Than By Weight"
+    },
+    {
+      "id": "F2-14",
+      "column": "legend_entries",
+      "claude": "RSM-a;RS;PS;LSM;SS;RC2",
+      "codex": "LSM;SS;RC2;RSM-a;RS;PS"
+    },
+    {
+      "id": "F2-15",
+      "column": "soils",
+      "claude": "hypothetical",
+      "codex": "example"
+    },
+    {
+      "id": "F2-15",
+      "column": "states",
+      "claude": "0 to 1.0",
+      "codex": "Dr 0 to 1"
+    },
+    {
+      "id": "F2-15",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-15",
+      "column": "trace_classes",
+      "claude": "schematic",
+      "codex": "computed"
+    },
+    {
+      "id": "F2-15",
+      "column": "y_quantity",
+      "claude": "unit weight gamma",
+      "codex": "Minimum Density, γ min"
+    },
+    {
+      "id": "F2-15",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-16",
+      "column": "apparatus",
+      "claude": "Proctor mold and vibro-graver",
+      "codex": "vibrating tool;Proctor mold"
+    },
+    {
+      "id": "F2-16",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "dynamic"
+    },
+    {
+      "id": "F2-16",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-17",
+      "column": "soils",
+      "claude": "PS; RS; RSM-a; RC2; LSM; SS",
+      "codex": "RS;PS;RSM;RC2;SS;LSM"
+    },
+    {
+      "id": "F2-17",
+      "column": "states",
+      "claude": "0 to 1.0",
+      "codex": "Dr 0 to 1"
+    },
+    {
+      "id": "F2-17",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-17",
+      "column": "trace_classes",
+      "claude": "author-fit",
+      "codex": "computed"
+    },
+    {
+      "id": "F2-17",
+      "column": "y_quantity",
+      "claude": "unit weight gamma",
+      "codex": "Minimum Density, γ min"
+    },
+    {
+      "id": "F2-17",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-18",
+      "column": "states",
+      "claude": "n/a",
+      "codex": "used soil"
+    },
+    {
+      "id": "F2-18",
+      "column": "apparatus",
+      "claude": "vibro-graver with 1-1/4 inch foot on 1/2 inch layers",
+      "codex": "small vibratory compactor"
+    },
+    {
+      "id": "F2-18",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "dynamic"
+    },
+    {
+      "id": "F2-18",
+      "column": "legend_entries",
+      "claude": "test #13 (square);test #14 (circle);test #15 (triangle)",
+      "codex": "Test No. 13;Test No. 14;Test No. 15"
+    },
+    {
+      "id": "F2-19",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "static"
+    },
+    {
+      "id": "F2-19",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-20",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "setup-evidence;schematic"
+    },
+    {
+      "id": "F2-20",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-21",
+      "column": "states",
+      "claude": "Dr 0.50 to 0.57 (gamma 46.5 to 47.4 pcf)",
+      "codex": "Dr .5 to .57"
+    },
+    {
+      "id": "F2-21",
+      "column": "x_quantity",
+      "claude": "shear displacement delta x 10^3",
+      "codex": "Shear Displacement δσ x 10^3"
+    },
+    {
+      "id": "F2-21",
+      "column": "y_quantity",
+      "claude": "top: shear stress tau (psf); bottom: normal displacement (dilation) delta x 10^3 (inch)",
+      "codex": "Shear Stress τ"
+    },
+    {
+      "id": "F2-21",
+      "column": "legend_entries",
+      "claude": "sigma 3520 psf gamma 46.7 (x);2935/46.5 (asterisk);2345/46.7 (square);1760/46.7 (plus);1172/46.8 (inverted triangle);587/47.2 (triangle);294/47.4 (circle)",
+      "codex": "3520 46.7;2935 46.5;2345 46.7;1760 46.7;1172 46.8;587 47.2;294 47.4"
+    },
+    {
+      "id": "F2-22",
+      "column": "states",
+      "claude": "Dr approx 0.55 (gamma avg 46.9 pcf)",
+      "codex": "Dr approximately .55"
+    },
+    {
+      "id": "F2-22",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-22",
+      "column": "x_quantity",
+      "claude": "normal stress sigma",
+      "codex": "Normal Stress, σ"
+    },
+    {
+      "id": "F2-22",
+      "column": "y_quantity",
+      "claude": "maximum shear stress tau_max",
+      "codex": "Maximum Shear Stress, τmax"
+    },
+    {
+      "id": "F2-22",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-23",
+      "column": "states",
+      "claude": "0 to 1.0",
+      "codex": "Dr 0 to 1"
+    },
+    {
+      "id": "F2-23",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-23",
+      "column": "y_quantity",
+      "claude": "angle of internal friction phi",
+      "codex": "Angle of Internal Friction φ"
+    },
+    {
+      "id": "F2-24",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-25",
+      "column": "soils",
+      "claude": "hypothetical",
+      "codex": "example"
+    },
+    {
+      "id": "F2-25",
+      "column": "states",
+      "claude": "n/a",
+      "codex": "loose;dense"
+    },
+    {
+      "id": "F2-25",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-25",
+      "column": "x_quantity",
+      "claude": "normal stress sigma_n",
+      "codex": "Normal Stress, σn"
+    },
+    {
+      "id": "F2-25",
+      "column": "y_quantity",
+      "claude": "shear stress tau",
+      "codex": "Shear Stress τ"
+    },
+    {
+      "id": "F2-25",
+      "column": "legend_entries",
+      "claude": "phi_L;phi_D;phi prime;sigma_ncr;(Ca)_D;(Ca)_L",
+      "codex": "Dense Soil;Loose Soil;φL;φD;φ';σncr;(Ca)D;(Ca)L"
+    },
+    {
+      "id": "F2-26",
+      "column": "apparatus",
+      "claude": "triaxial cell",
+      "codex": "triaxial machine"
+    },
+    {
+      "id": "F2-26",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "static"
+    },
+    {
+      "id": "F2-26",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-27",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "static"
+    },
+    {
+      "id": "F2-27",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-28",
+      "column": "apparatus",
+      "claude": "LPT fixture",
+      "codex": "LPT setup"
+    },
+    {
+      "id": "F2-28",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "static"
+    },
+    {
+      "id": "F2-28",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-29",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-29",
+      "column": "rate_or_dynamics",
+      "claude": "static (1/2 in/min)",
+      "codex": "static"
+    },
+    {
+      "id": "F2-29",
+      "column": "legend_entries",
+      "claude": "LPT #27; 2 inch diameter cylinder; DPT record no. 54074; pen rate 1/2 inch per min; plate compactor",
+      "codex": "LPT #27;2\" Diameter Cylinder;D.P.T. Record No. 54074;Pen Rate 1/2\" Per Min.;Plate Compactor"
+    },
+    {
+      "id": "F2-30",
+      "column": "apparatus",
+      "claude": "LPT adaptation for subscale impact bin",
+      "codex": "LPT footpad setup"
+    },
+    {
+      "id": "F2-30",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "static"
+    },
+    {
+      "id": "F2-30",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-31",
+      "column": "x_quantity",
+      "claude": "angle of internal friction phi",
+      "codex": "φ"
+    },
+    {
+      "id": "F2-31",
+      "column": "y_quantity",
+      "claude": "Nc; Nq; Nq prime; Ngamma; Ngamma prime; Nc prime",
+      "codex": "Nc;Nq;Nγ;Nc';Nq';Nγ'"
+    },
+    {
+      "id": "F2-31",
+      "column": "legend_entries",
+      "claude": "Ngamma, Nq, Nc (general shear);Ngamma prime, Nq prime, Nc prime (local shear)",
+      "codex": "Nc;Nq;Nγ;Nc';Nq';Nγ';General Shear;Local Shear"
+    },
+    {
+      "id": "F2-32",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves for Two-Inch Diameter Cylinder in Soil No. 1 (RS Loose) (Dr approx 0.0)",
+      "codex": "Load-Penetration Curves for Two-Inch Diameter Cylinder in Soil No. 1 (RS Loose) (Dr ≈ 0.0)"
+    },
+    {
+      "id": "F2-32",
+      "column": "soils",
+      "claude": "RS (soil 1)",
+      "codex": "RS (1)"
+    },
+    {
+      "id": "F2-32",
+      "column": "states",
+      "claude": "Dr approx 0.0",
+      "codex": "Dr approximately 0.0"
+    },
+    {
+      "id": "F2-32",
+      "column": "legend_entries",
+      "claude": "LPT No. 52 Gp 15.4 (started 2 in below surface; solid);LPT No. 53 Gp 15.6 (started 1 in below; dotted);LPT No. 63 Gp 16.2 (surface; dashed);straight line fit",
+      "codex": "LPT No. 93, Gp = 16.2;LPT No. 53, Gp = 15.6;LPT No. 52, Gp = 15.4"
+    },
+    {
+      "id": "F2-33",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves in RS Dense (Dr approx 0.94)",
+      "codex": "Load-Penetration Curves in RS Dense (Dr ≈ 0.94)"
+    },
+    {
+      "id": "F2-33",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-33",
+      "column": "states",
+      "claude": "Dr approx 0.94",
+      "codex": "Dr approximately .94"
+    },
+    {
+      "id": "F2-33",
+      "column": "legend_entries",
+      "claude": "A started at soil surface (LPT No. 74 Gp 103; thin trace);B started two inches below soil (LPT No. 75 Gp 105; heavy trace);four-inch dia cyl; surface test run in 36 by 36 inch bin;bearing capacity equation phi 49.5",
+      "codex": "A Started at Soil Surface;B Started Two Inches Below Soil Surface;A LPT No. 74, Gp = 103;B LPT No. 75, Gp = 105;Bearing Capacity Equation, φ = 49.5°"
+    },
+    {
+      "id": "F2-34",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves for Four-Inch Cylinder in Soil No. 9 (Dr approx 0.76)",
+      "codex": "Load-Penetration Curves for Four-Inch Cylinder in Soil No. 9 (Dr ≈ 0.76)"
+    },
+    {
+      "id": "F2-34",
+      "column": "soils",
+      "claude": "SS (soil 9)",
+      "codex": "SS (9)"
+    },
+    {
+      "id": "F2-34",
+      "column": "states",
+      "claude": "Dr approx 0.76",
+      "codex": "Dr approximately .76"
+    },
+    {
+      "id": "F2-34",
+      "column": "legend_entries",
+      "claude": "A LPT started at soil surface (LPT No. 87);B LPT started two inches below soil surface (LPT No. 88);test bin 108 inches by 36 inches",
+      "codex": "A LPT Started at Soil Surface;B LPT Started Two Inches Below Soil Surface;A LPT No. 87;B LPT No. 88"
+    },
+    {
+      "id": "F2-35",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves for Four-Inch Cylinder in RS Dense (Dr approx 0.97); Bin Size: 18 Inches by 36 Inches",
+      "codex": "Load-Penetration Curves for Four-Inch Cylinder in RS Dense (Dr ≈ 0.97); Bin Size: 18 Inches by 36 Inches"
+    },
+    {
+      "id": "F2-35",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-35",
+      "column": "states",
+      "claude": "Dr approx 0.97",
+      "codex": "Dr approximately .97"
+    },
+    {
+      "id": "F2-35",
+      "column": "legend_entries",
+      "claude": "A started at soil surface (LPT No. 73 Gp 117; thin);B started two inches below soil surface (LPT No. 76 Gp 103; heavy)",
+      "codex": "A Started at Soil Surface;B Started Two Inches Below Soil Surface;A LPT No. 73, Gp = 117;B LPT No. 76, Gp = 103"
+    },
+    {
+      "id": "F2-36",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (1,3,4)"
+    },
+    {
+      "id": "F2-36",
+      "column": "states",
+      "claude": "Dr 0.14; 0.16; 0.46; 0.50; 0.83; 0.95",
+      "codex": "Dr .14;.16;.46;.50;.83;.95"
+    },
+    {
+      "id": "F2-36",
+      "column": "apparatus",
+      "claude": "2 inch and 4 inch cylinders",
+      "codex": "2 inch cylinder;4 inch cylinder"
+    },
+    {
+      "id": "F2-36",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-36",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-36",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ"
+    },
+    {
+      "id": "F2-36",
+      "column": "legend_entries",
+      "claude": "Dr approx 0.95 2 in cyl;Dr approx 0.83 4 in cyl;Dr approx 0.50 4 in cyl;Dr approx 0.46 2 in cyl;Dr approx 0.16 4 in cyl;Dr approx 0.14 2 in cyl",
+      "codex": "Dr ≈ 0.95 2\" Cyl.;Dr ≈ 0.83 4\" Cyl.;Dr ≈ 0.50 4\" Cyl.;Dr ≈ 0.46 2\" Cyl.;Dr ≈ 0.16 4\" Cyl.;Dr ≈ 0.14 2\" Cyl."
+    },
+    {
+      "id": "F2-37",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (3,4)"
+    },
+    {
+      "id": "F2-37",
+      "column": "states",
+      "claude": "Dr 0.33; 0.69; 0.83; 0.93; 0.95; 0.96",
+      "codex": "Dr .33;.69;.83;.93;.95;.96"
+    },
+    {
+      "id": "F2-37",
+      "column": "apparatus",
+      "claude": "1 inch; 2 inch; 4 inch cylinders in 18 by 36; 54 by 36; 108 by 36 inch bins",
+      "codex": "1 inch cylinder;2 inch cylinder;4 inch cylinder"
+    },
+    {
+      "id": "F2-37",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-37",
+      "column": "trace_classes",
+      "claude": "recorded-trace;measurement-markers",
+      "codex": "measurement-markers;author-fit"
+    },
+    {
+      "id": "F2-37",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ"
+    },
+    {
+      "id": "F2-37",
+      "column": "legend_entries",
+      "claude": "2 in cyl 54 by 36 bin Dr 0.93;2 in cyl 18 by 36 bin Dr 0.95;Dr 0.96;4 in cyl 54 by 36 bin Dr 0.93;4 in cyl 18 by 36 bin Dr 0.83;1 in cyl 18 by 36 bin Dr 0.69;108 by 36 bin: 4 in cyl Dr 0.69; 2 in cyl Dr 0.69; 4 in cyl Dr 0.33; 2 in cyl Dr 0.33",
+      "codex": "Dr ≈ 0.93 2\" Cyl. 54\" x 36\" Bin;Dr ≈ 0.95 2\" Cyl. 18\" x 36\" Bin;Dr ≈ 0.96;Dr ≈ 0.93 4\" Cyl. 54\" x 36\" Bin;Dr ≈ 0.83 4\" Cyl. 18\" x 36\" Bin;Dr ≈ 0.96;Dr ≈ 0.69 1\" Cyl. 18\" x 36\" Bin;Dr ≈ 0.69 4\" Cyl.;Dr ≈ 0.69 2\" Cyl.;Dr ≈ 0.33 4\" Cyl.;Dr ≈ 0.33 2\" Cyl."
+    },
+    {
+      "id": "F2-38",
+      "column": "soils",
+      "claude": "SS",
+      "codex": "SS (7,8,9)"
+    },
+    {
+      "id": "F2-38",
+      "column": "states",
+      "claude": "Dr 0.14; 0.24; 0.46; 0.47; 0.92; 0.98",
+      "codex": "Dr .14;.24;.46;.47;.92;.98"
+    },
+    {
+      "id": "F2-38",
+      "column": "apparatus",
+      "claude": "2 inch and 4 inch cylinders",
+      "codex": "2 inch cylinder;4 inch cylinder"
+    },
+    {
+      "id": "F2-38",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-38",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-38",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ"
+    },
+    {
+      "id": "F2-38",
+      "column": "legend_entries",
+      "claude": "dashed 2 in cylinder;solid 4 in cylinder;Dr approx 0.98;0.92;0.47;0.46;0.14;0.24",
+      "codex": "2\" Cylinder;4\" Cylinder;Dr ≈ 0.98;Dr ≈ 0.92;Dr ≈ 0.47;Dr ≈ 0.46;Dr ≈ 0.14;Dr ≈ 0.24"
+    },
+    {
+      "id": "F2-39",
+      "column": "states",
+      "claude": "Dr 0.12; 0.14; 0.44; 0.52; 1.0",
+      "codex": "Dr .12;.14;.44;.52;1.0"
+    },
+    {
+      "id": "F2-39",
+      "column": "apparatus",
+      "claude": "2 inch and 4 inch cylinders",
+      "codex": "2 inch cylinder;4 inch cylinder"
+    },
+    {
+      "id": "F2-39",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-39",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-39",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter q/Dγ"
+    },
+    {
+      "id": "F2-39",
+      "column": "legend_entries",
+      "claude": "Dr approx 1.0 2 in cylinder;Dr approx 1.0 4 in cylinder;Dr approx 0.52 4 in cylinder;Dr approx 0.44 2 in cylinder;Dr approx 0.14 2 in cylinder;Dr approx 0.12 4 in cylinder",
+      "codex": "Dr ≈ 1.0 2\" Cylinder;Dr ≈ 1.0 4\" Cylinder;Dr ≈ 0.52 4\" Cylinder;Dr ≈ 0.44 2\" Cylinder;Dr ≈ 0.14 2\" Cylinder;Dr ≈ 0.12 4\" Cylinder"
+    },
+    {
+      "id": "F2-40",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (1)"
+    },
+    {
+      "id": "F2-40",
+      "column": "states",
+      "claude": "loose (Dr approx 0.15)",
+      "codex": "loose"
+    },
+    {
+      "id": "F2-40",
+      "column": "apparatus",
+      "claude": "4 inch cylinder in 36 by 18 inch bin",
+      "codex": "4 inch cylinder"
+    },
+    {
+      "id": "F2-40",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-40",
+      "column": "legend_entries",
+      "claude": "A static test (load increments);B penetration rate one inch per min;C two inches per min;D four inches per min",
+      "codex": "A \"Static\" Test;B Penetration Rate = One Inch per Min.;C Penetration Rate = Two Inches per Min.;D Penetration Rate = Four Inches per Min."
+    },
+    {
+      "id": "F2-41",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (3)"
+    },
+    {
+      "id": "F2-41",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-42",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-42",
+      "column": "states",
+      "claude": "dense (gamma 50.6 to 51.6 pcf)",
+      "codex": "dense"
+    },
+    {
+      "id": "F2-42",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-42",
+      "column": "legend_entries",
+      "claude": "A LPT No. 22 (Gp 130) gamma 51.2 pcf rate 4 in/min;B LPT No. 23 (99) gamma 50.6 pcf rate 1 in/min;C LPT No. 24 (83) gamma 51.5 pcf rate 1 in/min;D LPT No. 25 (130) gamma 51.6 pcf rate 2 in/min",
+      "codex": "A LPT No. 22 (130);B LPT No. 23 (99);C LPT No. 24 (83);D LPT No. 25 (130)"
+    },
+    {
+      "id": "F2-43",
+      "column": "states",
+      "claude": "intermediate",
+      "codex": "intermediate per caption"
+    },
+    {
+      "id": "F2-43",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-44",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-44",
+      "column": "states",
+      "claude": "dense (Dr approx 0.96)",
+      "codex": "dense"
+    },
+    {
+      "id": "F2-44",
+      "column": "apparatus",
+      "claude": "4 inch cylinder in 18 by 36; 36 by 36; 54 by 36 inch bins",
+      "codex": "4 inch cylinder"
+    },
+    {
+      "id": "F2-44",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-44",
+      "column": "legend_entries",
+      "claude": "A 18 inch by 36 inch bin;B 36 inch by 36 inch bin;C 54 inch by 36 inch bin;(Gp values in parentheses);A LPT No. 73 (117);A LPT No. 24 (83);B LPT No. 74 (103);C LPT No. 69 (103);C LPT No. 64A (112)",
+      "codex": "A 24 (83);A 73 (117);B 74 (103);C 69 (103);C 64A (112)"
+    },
+    {
+      "id": "F2-45",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves in Soil No. 1 (RS Loose) (Dr approx 0.0)",
+      "codex": "Load-Penetration Curves in Soil No. 1 (RS Loose) (Dr ≈ 0.0)"
+    },
+    {
+      "id": "F2-45",
+      "column": "soils",
+      "claude": "RS (soil 1)",
+      "codex": "RS (1)"
+    },
+    {
+      "id": "F2-45",
+      "column": "states",
+      "claude": "Dr approx 0.0",
+      "codex": "Dr approximately 0.0"
+    },
+    {
+      "id": "F2-45",
+      "column": "apparatus",
+      "claude": "4 inch cylinder and 4 inch footpad",
+      "codex": "4 inch cylinder;4 inch footpad"
+    },
+    {
+      "id": "F2-45",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-45",
+      "column": "legend_entries",
+      "claude": "four-inch cylinder LPT No. 95 Gp 16.2 (solid);four-inch footpad LPT No. 79 Gp 15.2 (dotted)",
+      "codex": "Four-Inch Cylinder LPT No. 95 Gp = 16.2;Four-Inch Footpad LPT No. 79 Gp = 15.2"
+    },
+    {
+      "id": "F2-46",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves in Soil No. 3 (RS Intermediate) (Dr approx 0.29)",
+      "codex": "Load-Penetration Curves in Soil No. 3 (RS Intermediate) (Dr ≈ 0.29)"
+    },
+    {
+      "id": "F2-46",
+      "column": "soils",
+      "claude": "RS (soil 3)",
+      "codex": "RS (3)"
+    },
+    {
+      "id": "F2-46",
+      "column": "states",
+      "claude": "Dr approx 0.29",
+      "codex": "Dr approximately .29"
+    },
+    {
+      "id": "F2-46",
+      "column": "apparatus",
+      "claude": "4 inch cylinder and 4 inch footpad",
+      "codex": "4 inch cylinder;4 inch footpad"
+    },
+    {
+      "id": "F2-46",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-46",
+      "column": "legend_entries",
+      "claude": "LPT No. 98 four-inch cylinder Gp 27.3 (solid);LPT No. 89 four-inch footpad Gp 22.4 (dotted)",
+      "codex": "Four-Inch Cylinder LPT No. 98 Gp = 27.3;Four-Inch Footpad LPT No. 89 Gp = 22.4"
+    },
+    {
+      "id": "F2-47",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves in Soil No. 4 (RS Dense) (Dr approx 0.69)",
+      "codex": "Load-Penetration Curves in Soil No. 4 (RS Dense) (Dr ≈ 0.69)"
+    },
+    {
+      "id": "F2-47",
+      "column": "soils",
+      "claude": "RS (soil 4)",
+      "codex": "RS (4)"
+    },
+    {
+      "id": "F2-47",
+      "column": "states",
+      "claude": "Dr approx 0.69",
+      "codex": "Dr approximately .69"
+    },
+    {
+      "id": "F2-47",
+      "column": "apparatus",
+      "claude": "4 inch cylinder and 4 inch footpad",
+      "codex": "4 inch cylinder;4 inch footpad"
+    },
+    {
+      "id": "F2-47",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-47",
+      "column": "legend_entries",
+      "claude": "four-inch cylinder LPT No. 101 Gp 63.9 (dashed);four-inch footpad LPT No. 91 Gp 62.8 (solid)",
+      "codex": "Four-Inch Cylinder - LPT No. 101, Gp = 63.9;Four-Inch Footpad - LPT No. 91, Gp = 62.8"
+    },
+    {
+      "id": "F2-48",
+      "column": "title_as_printed",
+      "claude": "Load-Penetration Curves for Four-Inch Cylinder and Four-Inch Footpad in Soil No. 9 (SS Dense) (Dr approx 0.76)",
+      "codex": "Load-Penetration Curves for Four-Inch Cylinder and Four-Inch Footpad in Soil No. 9 (SS Dense) (Dr ≈ 0.76)"
+    },
+    {
+      "id": "F2-48",
+      "column": "soils",
+      "claude": "SS (soil 9)",
+      "codex": "SS (9)"
+    },
+    {
+      "id": "F2-48",
+      "column": "states",
+      "claude": "Dr approx 0.76",
+      "codex": "Dr approximately .76"
+    },
+    {
+      "id": "F2-48",
+      "column": "apparatus",
+      "claude": "4 inch cylinder and 4 inch footpad",
+      "codex": "4 inch cylinder;4 inch footpad"
+    },
+    {
+      "id": "F2-48",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "recorded-trace;author-fit"
+    },
+    {
+      "id": "F2-48",
+      "column": "legend_entries",
+      "claude": "four-inch cylinder (LPT No. 87) Gp 45 (solid);four-inch footpad (LPT No. 85) Gp 46 (dotted)",
+      "codex": "Four-Inch Cylinder (LPT No. 87) Gp = 45;Four-Inch Footpad (LPT No. 85) Gp = 46"
+    },
+    {
+      "id": "F2-49",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (1,3,4)"
+    },
+    {
+      "id": "F2-49",
+      "column": "states",
+      "claude": "Dr 0.0; 0.25; 0.33; 0.68; 0.69",
+      "codex": "Dr 0;.25;.33;.68;.69"
+    },
+    {
+      "id": "F2-49",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-49",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-49",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ"
+    },
+    {
+      "id": "F2-49",
+      "column": "legend_entries",
+      "claude": "Dr 0.68 4 in FP;Dr 0.69 4 in cyl;Dr 0.68 6 in FP;Dr 0.33 4 in cyl;Dr 0.25 4 in FP;Dr 0.25 6 in FP;Dr 0.0 4 in cyl;Dr 0.0 6 in FP;Dr 0.0 4 in FP",
+      "codex": "Dr ≈ 0.68 4\" FP;Dr ≈ 0.69 4\" Cyl.;Dr ≈ 0.68 6\" FP;Dr ≈ 0.33 4\" Cyl.;Dr ≈ 0.25 4\" FP;Dr ≈ 0.25 6\" FP;Dr ≈ 0.0 4\" Cyl.;Dr ≈ 0.0 4\" FP;Dr ≈ 0.0 6\" FP"
+    },
+    {
+      "id": "F2-50",
+      "column": "soils",
+      "claude": "SS",
+      "codex": "SS (7,8,9)"
+    },
+    {
+      "id": "F2-50",
+      "column": "states",
+      "claude": "Dr 0.0; 0.63; 0.75",
+      "codex": "Dr 0;.63;.75"
+    },
+    {
+      "id": "F2-50",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-50",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-50",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma)",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ"
+    },
+    {
+      "id": "F2-50",
+      "column": "legend_entries",
+      "claude": "solid lines Dr approx 0.75;dashed lines Dr approx 0.63;dotted lines Dr approx 0.0;4 in cyl;4 in FP;6 in FP",
+      "codex": "Solid lines: Dr ≈ 0.75;Dashed lines: Dr ≈ 0.63;Dotted lines: Dr ≈ 0.0;4\" Cyl.;4\" FP;6\" FP"
+    },
+    {
+      "id": "F2-51",
+      "column": "states",
+      "claude": "several",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-51",
+      "column": "apparatus",
+      "claude": "4 inch footpad; 6 inch footpad; 4 inch cylinder",
+      "codex": "4 inch cylinder;4 inch footpad;6 inch footpad"
+    },
+    {
+      "id": "F2-51",
+      "column": "x_quantity",
+      "claude": "mechanical strength coefficient Cms",
+      "codex": "Cms"
+    },
+    {
+      "id": "F2-51",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma) at Df/D 0.2",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ at Df/D = 0.2"
+    },
+    {
+      "id": "F2-51",
+      "column": "legend_entries",
+      "claude": "RS four-inch footpad (dotted circle);RS six-inch footpad (circle);RS four-inch cylinder (circle plus);SS four-inch footpad (dotted triangle);SS six-inch footpad (triangle)",
+      "codex": "RS Four-Inch Footpad;RS Six-Inch Footpad;RS Four-Inch Cylinder;SS Four-Inch Footpad;SS Six-Inch Footpad"
+    },
+    {
+      "id": "F2-52",
+      "column": "states",
+      "claude": "several",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-52",
+      "column": "apparatus",
+      "claude": "DPT with 4 inch cylinder; 4 inch footpad; 6 inch footpad LPT",
+      "codex": "DPT;4 inch cylinder;4 inch footpad;6 inch footpad"
+    },
+    {
+      "id": "F2-52",
+      "column": "y_quantity",
+      "claude": "dimensionless pressure parameter q/(D gamma) at Df/D 0.2",
+      "codex": "Dimensionless Pressure Parameter, q/Dγ (at Df/D = 0.2)"
+    },
+    {
+      "id": "F2-52",
+      "column": "legend_entries",
+      "claude": "RS soil 4 in cyl;4 in footpad;6 in footpad;SS soil 4 in footpad;6 in footpad",
+      "codex": "RS Soil 4\" Cyl.;4\" Footpad;6\" Footpad;SS Soil 4\" Footpad;6\" Footpad"
+    },
+    {
+      "id": "F2-53",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "dynamic"
+    },
+    {
+      "id": "F2-53",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "setup-evidence;schematic"
+    },
+    {
+      "id": "F2-53",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-54",
+      "column": "soils",
+      "claude": "RS",
+      "codex": "RS (1,3,4)"
+    },
+    {
+      "id": "F2-54",
+      "column": "states",
+      "claude": "loose (41.1 pcf); intermediate (44.1 pcf); dense (52.0 pcf)",
+      "codex": "loose;intermediate;dense"
+    },
+    {
+      "id": "F2-54",
+      "column": "x_quantity",
+      "claude": "time (scale bar 0.01 sec; no labeled origin)",
+      "codex": "unlabeled time direction"
+    },
+    {
+      "id": "F2-54",
+      "column": "y_quantity",
+      "claude": "deceleration",
+      "codex": "G's"
+    },
+    {
+      "id": "F2-54",
+      "column": "legend_entries",
+      "claude": "Record No. 53958 2 ft box soil type RS loose absolute density 41.1 pcf (scale 0 to 20 g);Record No. 54025 2 ft box RS intermediate 44.1 pcf (0 to 30 g);Record No. 54-65 LPT No. 26 RS dense 52.0 pcf (0 to 80 g)",
+      "codex": "Record No. 53958 2' Box Soil Type RS-Loose Absolute Density 41.1 PCF;Record No. 54025 2' Box Soil Type RS-Intermediate Absolute Density 44.1 PCF;Record No. 54-65 LPT No. 26 Soil Type RS-Dense Absolute Density 52.0 PCF"
+    },
+    {
+      "id": "F2-55",
+      "column": "states",
+      "claude": "0 to 1.0",
+      "codex": "Dr approximately .1 to 1"
+    },
+    {
+      "id": "F2-55",
+      "column": "rate_or_dynamics",
+      "claude": "dynamic",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-55",
+      "column": "x_quantity",
+      "claude": "relative density Dr",
+      "codex": "Dr - Relative Density"
+    },
+    {
+      "id": "F2-55",
+      "column": "y_quantity",
+      "claude": "peak magnitude Gp",
+      "codex": "Gp - Peak Magnitude"
+    },
+    {
+      "id": "F2-56",
+      "column": "title_as_printed",
+      "claude": "Grain Size Analysis Curves - LM SMS; RS Soil Used in Sub-Scale Drag Tests",
+      "codex": "Grain Size Analysis Curves - LM SMS"
+    },
+    {
+      "id": "F2-56",
+      "column": "apparatus",
+      "claude": "sieve",
+      "codex": "sieve;nsoil vacuum handling system"
+    },
+    {
+      "id": "F2-56",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-56",
+      "column": "trace_classes",
+      "claude": "recorded-trace",
+      "codex": "author-fit"
+    },
+    {
+      "id": "F2-56",
+      "column": "x_quantity",
+      "claude": "grain size (upper axis US standard sieve number)",
+      "codex": "Grain Size"
+    },
+    {
+      "id": "F2-56",
+      "column": "legend_entries",
+      "claude": "SSD 1-1 unused soil;SSD 3-1 shoveled soil;SSD 3-10 10 cycles through vacuum system;SSD 4-3 31 cycles;SSD 4-18 46 cycles;SSD 4-26 54 cycles",
+      "codex": "SSD 1-1;SSD 3-1;SSD 3-10;SSD 4-3;SSD 4-26;SSD 4-18"
+    },
+    {
+      "id": "F2-57",
+      "column": "apparatus",
+      "claude": "sieve",
+      "codex": "sieve;vacuum handling system"
+    },
+    {
+      "id": "F2-57",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-57",
+      "column": "trace_classes",
+      "claude": "recorded-trace;measurement-markers",
+      "codex": "measurement-markers;author-fit"
+    },
+    {
+      "id": "F2-57",
+      "column": "x_quantity",
+      "claude": "grain size (upper axis US standard sieve number)",
+      "codex": "Grain Size"
+    },
+    {
+      "id": "F2-57",
+      "column": "legend_entries",
+      "claude": "range of PS unused;2-10 10 cycles through vacuum system;2-41 13 cycles plus shoveled for 27 tests",
+      "codex": "2-10;2-41;Range of PS Unused"
+    },
+    {
+      "id": "F2-58",
+      "column": "apparatus",
+      "claude": "sieve",
+      "codex": "sieve;vacuum handling system"
+    },
+    {
+      "id": "F2-58",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-58",
+      "column": "trace_classes",
+      "claude": "recorded-trace;measurement-markers",
+      "codex": "measurement-markers;author-fit"
+    },
+    {
+      "id": "F2-58",
+      "column": "x_quantity",
+      "claude": "grain size (upper axis US standard sieve number)",
+      "codex": "Grain Size"
+    },
+    {
+      "id": "F2-58",
+      "column": "legend_entries",
+      "claude": "unused soil;5-1 2 cycles through vacuum system;5-6 8 cycles;5-15 17 cycles;5-23 25 cycles;range of RSM unused",
+      "codex": "5-1;5-6;5-23;5-15;Range of RSM Unused"
+    },
+    {
+      "id": "F2-59",
+      "column": "apparatus",
+      "claude": "density scoop (Selig; IITRI)",
+      "codex": "mass density scoop"
+    },
+    {
+      "id": "F2-59",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-60",
+      "column": "soils",
+      "claude": "RS (see notes; caption says SS)",
+      "codex": "RS"
+    },
+    {
+      "id": "F2-60",
+      "column": "states",
+      "claude": "loose",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-60",
+      "column": "apparatus",
+      "claude": "DPT; water cone; IITRI scoop; MMDT",
+      "codex": "water cone;IIT-RI scoop;DPT"
+    },
+    {
+      "id": "F2-60",
+      "column": "rate_or_dynamics",
+      "claude": "static",
+      "codex": "derived"
+    },
+    {
+      "id": "F2-60",
+      "column": "trace_classes",
+      "claude": "measurement-markers;author-fit",
+      "codex": "measurement-markers;author-fit;computed"
+    },
+    {
+      "id": "F2-60",
+      "column": "x_quantity",
+      "claude": "number of tests (second axis: test number 1-1 to 4-20)",
+      "codex": "Number of Tests"
+    },
+    {
+      "id": "F2-60",
+      "column": "legend_entries",
+      "claude": "square maximum density by test;circle minimum density by test;dot in-place density (tests 1 to 75 water cone; 76 and up IITRI scoop);x density from Gp",
+      "codex": "Maximum Density by Test;Minimum Density by Test;Test 1-75: Water Cone Density;Test 76 & Up: IIT-RI-SCOOP Density;Density From Gp"
+    },
+    {
+      "id": "F2-61",
+      "column": "apparatus",
+      "claude": "placement hopper",
+      "codex": "soil-placement hopper"
+    },
+    {
+      "id": "F2-61",
+      "column": "trace_classes",
+      "claude": "setup-evidence",
+      "codex": "setup-evidence;schematic"
+    },
+    {
+      "id": "F2-61",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-62",
+      "column": "apparatus",
+      "claude": "vacuum soil handling system",
+      "codex": "vacuum soil-removal system"
+    },
+    {
+      "id": "F2-62",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-63",
+      "column": "apparatus",
+      "claude": "full-scale placement hopper",
+      "codex": "test-bed preparation equipment"
+    },
+    {
+      "id": "F2-63",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-64",
+      "column": "apparatus",
+      "claude": "vibratory compactor with 8 inch square plate",
+      "codex": "pneumatic hammer;compaction plate"
+    },
+    {
+      "id": "F2-64",
+      "column": "rate_or_dynamics",
+      "claude": "n/a",
+      "codex": "dynamic"
+    },
+    {
+      "id": "F2-64",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    },
+    {
+      "id": "F2-65",
+      "column": "apparatus",
+      "claude": "lawn roller",
+      "codex": "densifying roller"
+    },
+    {
+      "id": "F2-65",
+      "column": "legend_entries",
+      "claude": "",
+      "codex": "n/a"
+    }
+  ]
+}

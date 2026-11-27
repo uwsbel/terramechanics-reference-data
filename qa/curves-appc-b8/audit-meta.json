@@ -1,0 +1,112 @@
+{
+  "FC-10B": {
+    "source": "1968-vol2",
+    "title": "Figure C-10B: PS Loose (printed C-29, PDF 143)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "ps-loose": {
+        "label": "PS loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of PS soil (white crushed pumice), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-10C": {
+    "source": "1968-vol2",
+    "title": "Figure C-10C: PS Loose (printed C-30, PDF 144)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "ps-loose": {
+        "label": "PS loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of PS soil (white crushed pumice), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-11A": {
+    "source": "1968-vol2",
+    "title": "Figure C-11A: RSM Loose (printed C-31, PDF 145)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "rsm-loose": {
+        "label": "RSM-a loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of RSM-a soil (crushed scoria mixed with crushed marble), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-11B": {
+    "source": "1968-vol2",
+    "title": "Figure C-11B: RSM Loose (printed C-32, PDF 146)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "rsm-loose": {
+        "label": "RSM-a loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of RSM-a soil (crushed scoria mixed with crushed marble), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-11C": {
+    "source": "1968-vol2",
+    "title": "Figure C-11C: RSM Loose (printed C-33, PDF 149)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "rsm-loose": {
+        "label": "RSM-a loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of RSM-a soil (crushed scoria mixed with crushed marble), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  }
+}

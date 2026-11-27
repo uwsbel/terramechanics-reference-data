@@ -1,0 +1,16 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-9B,1,rs-dense,marker,1,948.6,3285.9,2.5,5.5,triangle-up,centroid from the side and base strokes (rule 8); the x = 1000 grid line runs through the symbol and hides its apex; symbol in a gap of the fitted line; a stray horizontal stroke lies right of it (u 1025 to 1110 at v 3280),1000.302,1798.493,12.231,22.337,piecewise
+FC-9B,1,rs-dense,marker,2,1249.5,2998.2,2.5,5.5,triangle-up,centroid from the side and base strokes; left base corner on the x = 2000 grid line; symbol in a gap of the fitted line,2050.632,2775.259,12.377,21.362,piecewise
+FC-9B,1,rs-dense,marker,3,1502.5,2675.7,2.5,5.5,triangle-up,centroid from the side and base strokes; right base corner merges with the x = 3000 grid line and with the fitted line which passes through it without a gap,2930.886,3882.755,11.05,21.162,piecewise
+FC-9B,1,rs-dense,marker,4,1848.7,2348.5,2.5,6,triangle-up,centroid from the side and base strokes; the base merges with the y = 5000 grid line (taken as 6 px below it: rows 2357 to 2362) and the fitted line's upper end runs into its left half,4128.984,5013.218,11.386,23.687,piecewise
+FC-9B,1,rs-dense,trace,1,658.2,3618.0,4,9,,left end: the line's ink starts at the left frame (x = 0) and merges with it; centre extrapolated from the straight stretch u 668 to 935,0.13,681.078,17.162,33.365,piecewise extrapolated x
+FC-9B,1,rs-dense,trace,2,803.4,3461.4,0.5,9,,x = 500 psf; local fit of 34 columns,500.138,1205.633,5.238,34.216,piecewise
+FC-9B,1,rs-dense,trace,3,1091.7,3152.5,0.5,9,,x = 1500 psf; x = 1000 not sampled: it falls where the segment below marker 1 ends under the x = 1000 grid line and the line's ink there cannot be seen,1499.965,2250.603,5.575,34.082,piecewise
+FC-9B,1,rs-dense,trace,4,1378.8,2843.4,0.5,9,,x = 2500 psf; x = 2000 not sampled: it falls in the drawn gap around marker 2 (no ink),2500.094,3305.445,4.935,33.277,piecewise
+FC-9B,1,rs-dense,trace,5,1522.7,2688.8,0.5,9,,x = 3000 psf; on the x = 3000 grid line where the line passes through marker 3's base corner; centre from the columns either side,2999.862,3837.259,4.182,33.221,piecewise
+FC-9B,1,rs-dense,trace,6,1667.1,2533.9,0.5,9,,x = 3500 psf,3500.034,4372.239,4.446,33.779,piecewise
+FC-9B,1,rs-dense,trace,7,1811.4,2377.9,0.5,9,,x = 4000 psf; on the x = 4000 grid line; centre from the columns either side,4000.083,4911.912,4.721,34.272,piecewise
+FC-9B,1,rs-dense,trace,8,1826.0,2362.3,3,9,,right end as seen: the line runs into the base of marker 4 and the y = 5000 grid line here; any continuation under that ink (to about u 1848) is hidden,4050.682,4965.869,13.266,34.354,piecewise
+FC-9B,1,rs-dense,feature,1,658.2,3618.0,4,9,,first point of the line (= trace 1),0.13,681.078,17.162,33.365,piecewise extrapolated x
+FC-9B,1,rs-dense,feature,2,1826.0,2362.3,3,9,,last visible point of the line (= trace 8); also the maximum of the trace as seen; the end itself is hidden under marker 4's base,4050.682,4965.869,13.266,34.354,piecewise
+FC-9B,1,rs-dense,feature,3,658.2,3618.0,0.5,9,,intercept: the line reaches the normal-stress-zero axis (left frame); centre extrapolated from u 668 to 935,0.13,681.078,5.168,33.324,piecewise extrapolated x

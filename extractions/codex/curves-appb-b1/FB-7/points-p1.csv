@@ -1,0 +1,59 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,trace_segment
+FB-7,1,dr104,marker,1,502.0,3364.0,6.0,6.0,square with x,Square overlaps left frame and y=2 tick.,
+FB-7,1,dr104,marker,2,497.0,3091.0,10.0,10.0,square with x,"Square overlaps frame, y=3 tick, and open circle above.",
+FB-7,1,dr104,marker,3,788.0,2408.0,3.0,3.0,square with x,Touches lower polyline; belongs to square group by symbol.,
+FB-7,1,dr104,marker,4,809.5,2136.0,2.0,2.0,square with x,,
+FB-7,1,dr104,marker,5,1099.0,1993.0,3.0,3.0,square with x,Upper polyline crosses square.,
+FB-7,1,dr104,marker,6,1188.0,1899.0,3.0,3.0,square with x,Upper polyline crosses square.,
+FB-7,1,dr104,marker,7,1187.0,2169.0,2.0,2.0,square with x,,
+FB-7,1,dr104,marker,8,1804.0,1828.0,3.0,3.0,square with x,Near lower polyline; square group by symbol.,
+FB-7,1,dr104,marker,9,2101.5,1646.0,2.0,2.0,square with x,,
+FB-7,1,dr99p5,marker,1,498.0,3021.0,4.0,4.0,circle,Open circle overlaps left frame.,
+FB-7,1,dr99p5,marker,2,498.0,3067.0,8.0,8.0,circle,Open circle overlaps frame and square below.,
+FB-7,1,dr99p5,marker,3,773.5,2212.0,2.0,2.0,circle,,
+FB-7,1,dr99p5,marker,4,1245.0,1870.5,2.0,2.0,circle,,
+FB-7,1,dr99p5,marker,5,1758.0,1687.5,2.0,2.0,circle,,
+FB-7,1,dr99p5,marker,6,1830.0,1518.5,2.0,2.0,circle,,
+FB-7,1,dr99p5,marker,7,1943.0,1674.5,2.0,2.0,circle,,
+FB-7,1,dr77,marker,1,503.0,3848.0,3.0,3.0,filled circle,Filled circle overlaps left frame.,
+FB-7,1,dr77,marker,2,502.0,3474.0,10.0,10.0,filled circle,Two overlapping filled circles; upper lobe.,
+FB-7,1,dr77,marker,3,502.0,3495.0,10.0,10.0,filled circle,Two overlapping filled circles; lower lobe.,
+FB-7,1,dr77,marker,4,763.0,2669.0,2.0,2.0,filled circle,,
+FB-7,1,dr77,marker,5,787.0,2284.0,2.0,2.0,filled circle,,
+FB-7,1,dr77,marker,6,1237.0,1828.0,2.0,2.0,filled circle,,
+FB-7,1,dr77,marker,7,1170.5,2318.5,2.0,2.0,filled circle,,
+FB-7,1,dr77,marker,8,1906.0,1769.0,2.0,2.0,filled circle,,
+FB-7,1,dr77,marker,9,1928.0,1826.0,2.0,2.0,filled circle,,
+FB-7,1,dr104,feature,1,2030.0,1325.0,2.0,2.0,,label: Dr = 1.04; printed legend symbol is a square with x,
+FB-7,1,dr99p5,feature,1,504.0,3080.0,70.0,70.0,,first point; origin obscured by left frame/symbol ink; wide extent only; trace starts on first separable diagonal stroke,
+FB-7,1,dr99p5,feature,2,771.593,2213.728,22.0,22.0,,vertex; intersection obscured by symbol; reconstructed from adjacent straight ink,
+FB-7,1,dr99p5,feature,3,1245.277,1871.315,22.0,22.0,,vertex; intersection obscured by symbol; reconstructed from adjacent straight ink,
+FB-7,1,dr99p5,feature,4,2032.36,1585.884,4.0,4.0,,last point; peak; visible line end,
+FB-7,1,dr99p5,feature,5,2300.0,1585.0,2.0,2.0,,label: Dr = 0.995,
+FB-7,1,dr99p5,trace,1,520.025,2996.008,4.0,4.0,,first point,1
+FB-7,1,dr99p5,trace,2,638.467,2629.818,4.5,4.5,,x=1 psi,1
+FB-7,1,dr99p5,trace,3,914.362,2112.376,4.0,4.0,,x=3 psi,3
+FB-7,1,dr99p5,trace,4,1058.486,2007.729,4.5,4.5,,x=4 psi,3
+FB-7,1,dr99p5,trace,5,1295.482,1852.976,5.0,5.0,,x=6 psi,5
+FB-7,1,dr99p5,trace,6,1489.737,1783.062,5.0,5.0,,x=7 psi,5
+FB-7,1,dr99p5,trace,7,1687.572,1711.717,5.0,5.0,,x=8 psi,5
+FB-7,1,dr99p5,trace,8,1799.863,1670.065,5.0,5.0,,x=9 psi,6
+FB-7,1,dr99p5,trace,9,1911.628,1630.066,5.0,5.0,,x=10 psi,6
+FB-7,1,dr99p5,trace,10,2032.36,1585.884,3.5,3.5,,last point,6
+FB-7,1,dr77,feature,1,506.0,3690.0,70.0,70.0,,first point; origin obscured by left frame/symbol ink; wide extent only; trace starts on first separable diagonal stroke,
+FB-7,1,dr77,feature,2,784.54,2431.125,4.0,4.0,,vertex,
+FB-7,1,dr77,feature,3,1199.98,2102.096,4.0,4.0,,vertex,
+FB-7,1,dr77,feature,4,1989.351,1771.03,4.0,4.0,,last point; peak; visible line end,
+FB-7,1,dr77,feature,5,2175.0,1769.0,2.0,2.0,,label: Dr = 0.77,
+FB-7,1,dr77,trace,1,518.581,3646.128,4.5,4.5,,first point,1
+FB-7,1,dr77,trace,2,642.977,3078.307,4.0,4.0,,x=1 psi,1
+FB-7,1,dr77,trace,3,773.407,2481.838,4.5,4.5,,x=2 psi,1
+FB-7,1,dr77,trace,4,916.184,2327.82,5.0,5.0,,x=3 psi,2
+FB-7,1,dr77,trace,5,1058.838,2212.924,5.0,5.0,,x=4 psi,2
+FB-7,1,dr77,trace,6,1181.108,2118.0,5.0,5.0,,x=5 psi,2
+FB-7,1,dr77,trace,7,1199.747,2101.802,5.0,5.0,,vertex,2
+FB-7,1,dr77,trace,8,1301.215,2059.909,5.0,5.0,,x=6 psi,2
+FB-7,1,dr77,trace,9,1489.592,1979.954,4.0,4.0,,x=7 psi,2
+FB-7,1,dr77,trace,10,1682.251,1898.745,4.5,4.5,,x=8 psi,2
+FB-7,1,dr77,trace,11,1911.113,1802.759,4.5,4.5,,x=10 psi,3
+FB-7,1,dr77,trace,12,1989.303,1770.914,3.5,3.5,,last point,3

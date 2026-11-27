@@ -1,0 +1,8 @@
+{
+  "_note": "Page-qualified aliases (id@pdf_page) applied to either submission before the diff and the build: both inventories gave Table 5-T2 one row per printed page (PDF 308 to 312); Codex repeated the id T5-2 on every page, Claude suffixed the continuation pages. Codex gave the two-page foldout Fig. 5-2 a row per page, Claude one row (PDF 284). Canonical: the first page keeps the printed id, later pages take -pNNN.",
+  "T5-2@309": "T5-2-p309",
+  "T5-2@310": "T5-2-p310",
+  "T5-2@311": "T5-2-p311",
+  "T5-2@312": "T5-2-p312",
+  "F5-2@285": "F5-2-p285"
+}

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the release you used."
+type: dataset
+title: "Terramechanics Reference Data"
+abstract: >-
+  Versioned physical-test data with point-level provenance for simulation-to-reality gap analysis
+  of terramechanics simulators, beginning with soil tests recovered from Apollo-era reports. Every
+  number is traceable to its printed page, carries a reading bound and a status that says how it
+  was checked, and is given in SI with the printed value kept.
+version: "1.0.0"
+date-released: "2026-11-27"
+doi: "10.5281/zenodo.24477009"
+license: CC-BY-4.0
+repository-code: "https://github.com/uwsbel/terramechanics-reference-data"
+authors:
+  - family-names: Negrut
+    given-names: Dan
+    orcid: "https://orcid.org/0000-0003-1565-2784"
+    affiliation: "Simulation-Based Engineering Laboratory, University of Wisconsin-Madison"
+  - family-names: Serban
+    given-names: Radu
+    orcid: "https://orcid.org/0000-0002-4219-905X"
+    affiliation: "Simulation-Based Engineering Laboratory, University of Wisconsin-Madison"
+keywords:
+  - terramechanics
+  - granular media
+  - lunar soil simulants
+  - Apollo
+  - load-penetration
+  - direct shear
+  - simulation-to-reality
+  - validation data

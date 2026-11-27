@@ -1,0 +1,50 @@
+---
+title: "Materials"
+---
+The twelve test soils of Table 2-3 (Bendix AM-68-1 Vol. I, Table 2-3, printed 2-16, PDF 41). SI canonical; the printed values are in the traceability table below.
+
+| no. | designation | family | state | [Dr]{.term title="relative density: 0 at the soil's maximum void ratio (loosest) and 1 at its minimum (densest), from the reference void-ratio limits; a bed packed past the reference densest state reads above 1" tabindex="0"} | unit weight, N/m^3 | bulk density, kg/m^3 | [phi]{.term title="angle of internal friction of the soil" tabindex="0"}, deg | E, Pa | [D50]{.term title="grain size that half of the soil, by weight, is finer than" tabindex="0"}, mm | [Cu]{.term title="uniformity coefficient: D60 divided by D10; near 1 for a narrowly graded soil" tabindex="0"} | passing No. 200 | [D95]{.term title="grain size that 95 percent of the soil, by weight, is finer than" tabindex="0"}, mm | status |
+| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | ---: | --- |
+| 1 | RS Loose | RS | loose | 0 | 6503.4 | 663.2 | 40 | 37921165 | 1.8 | 1.7 | <3% | 2.7 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 2 | PS Loose | PS | loose | 0 | 3738.7 | 381.2 | 43 | 31026408 | 1.8 | 1.7 | <3% | 2.7 | [agreed]{.status .status-agreed} |
+| 3 | RS Inter. | RS | intermediate | 0.45 | 7210.3 | 735.2 | 44.5 | 59294913 | 1.8 | 1.7 | <3% | 2.7 | [agreed]{.status .status-agreed} |
+| 4 | RS Dense | RS | dense | 0.80 | 7948.6 | 810.5 | 47.3 | 75152854 | 1.8 | 1.7 | <3% | 2.7 | [agreed]{.status .status-agreed} |
+| 5 | RSM-a Loose | RSM | loose | 0 | 9142.5 | 932.3 | 37 | 53779107 | 2.4 | 1.6 | <3% | 2.7 | [agreed]{.status .status-agreed} |
+| 6 | RC2 Loose | RC2 | loose | 0 | 9645.2 | 983.5 | 43 | 55158058 | 1.1 | 17.0 | 11% | 4.7 | [agreed]{.status .status-agreed} |
+| 7 | SS Loose | SS | loose | 0 | 14876.2 | 1516.9 | 29 | 68947573 | 0.4 | 1.3 | 0% | 0.52 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 8 | SS Inter. | SS | intermediate | 0.53 | 16337.1 | 1665.9 | 36.8 | 124105631 | 0.4 | 1.3 | 0% | 0.52 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 9 | SS Dense | SS | dense | 0.69 | 16808.4 | 1714.0 | 39 | 165474175 | 0.4 | 1.3 | 0% | 0.52 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 10 | LSM Inter. | LSM | intermediate | 0.50 | 12174.3 | 1241.4 | 42 | 27579029 | 0.07 | large | 51% | 4 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 11 | LSM Dense | LSM | dense | 0.70 | 12881.2 | 1313.5 | 42 | 41368544 | 0.07 | large | 51% | 4 | [resolved-with-notes]{.status .status-resolved-with-notes} |
+| 12 | RSM-b Dense | RSM | dense | 0.75 | 13352.4 | 1361.6 | 48 | 137895146 | 2.15 | 1.87 | <1% | 2.9 | [agreed]{.status .status-agreed} |
+
+: Source: `data/materials/materials.csv`. E is the initial tangent modulus by sonic means at 4 psi confinement.
+
+## Traceability: values as printed
+
+| no. | description as printed | unit weight | modulus | read flags | source |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Red Crushed Volcanic Scoria (narrowly graded) | 41.4 pcf | 5500 psi | damaged_<wbr>percent_<wbr>digit;<wbr>percent_<wbr>passing_<wbr>glyph_<wbr>unclear | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 1 |
+| 2 | White Crushed Pumice (narrowly graded) | 23.8 pcf | 4500 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 2 |
+| 3 | Red Crushed Volcanic Scoria (narrowly graded) | 45.9 pcf | 8600 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 3 |
+| 4 | Red Crushed Volcanic Scoria (narrowly graded) | 50.6 pcf | 10900 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 4 |
+| 5 | Mixture of RS and Crushed Marble (MS) (narrowly graded) | 58.2 pcf | 7800 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 5 |
+| 6 | Red Crushed Volcanic Scoria (Broadly graded) | 61.4 pcf | 8000 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 6 |
+| 7 | White Silica Sand (Wedron 4040-narrowly graded) | 94.7 pcf | 10000 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 7 |
+| 8 | White Silica Sand (Wedron 4040-narrowly graded) | 104 pcf | 18000 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 8 |
+| 9 | White Silica Sand (Wedron 4040-narrowly graded) | 107 pcf | 24000 psi |  | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 9 |
+| 10 | Mixture of RC and Air-Floated Clay | 77.5 pcf | 4000 psi | uniformity_<wbr>coeff_<wbr>given_<wbr>as_<wbr>word | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 10 |
+| 11 | Mixture of RC and Air-Floated Clay | 82 pcf | 6000 psi | uniformity_<wbr>coeff_<wbr>given_<wbr>as_<wbr>word | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 11 |
+| 12 | Mixture of RS and Crushed Marbel (MS) (narrowly graded) | 85 pcf | 20000 psi | description_<wbr>spelling_<wbr>as_<wbr>printed_<wbr>Marbel | 1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 12 |
+
+## Conversion factors and source inconsistencies
+
+- `pcf->N_m3`: 157.08746384624618
+- `pcf->kg_m3`: 16.018463373960138
+- `psi->Pa`: 6894.757293168
+- Soil 4, unit_weight_native: canonical 50.6 (Table 2-3) against 50.5 in Table 1-1, printed 1-6, PDF 20 (found by Codex, inventory-s2-b1, 2026-10-07).
+
+::: {.generated-note}
+Generated view. Inputs: `data/materials/materials.csv`, `data/materials/materials.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

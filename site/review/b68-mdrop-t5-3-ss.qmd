@@ -1,0 +1,71 @@
+---
+title: "b68-mdrop-t5-3-ss: provenance"
+---
+Provenance and review record of [b68-mdrop-t5-3-ss](../experiments/b68-mdrop-t5-3-ss.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | incomplete: see the reproduce block on the record page |
+| observations | 2 runs transcribed from the printed table (`runs.csv`), agreed 2; batch review `qa/tables-s5-b1/review.md`, arithmetic check `qa/tables-s5-b1/arithmetic.md` |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 15, merged 1, resolved 5 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | SS Loose |
+| Dr | 0 |
+| unit weight, pcf | 96.0 |
+| Gp, g | *not reported* |
+| tool | scaled LM footpads, round (text 5-33), leg set No. 1 instrumented (diameter not printed in Section V) |
+| bin, inches | 18 by 12 ft (the soil bed; maximum below ground depth 5 ft; depth of soil adjusted to the test, text 5-22); depth of the SS loose beds not printed |
+| rate | V_v -118.0 to -60.0 in/s; V_h 0 to 84.0 in/s |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| apparatus | [resolved]{.status .status-resolved} | both readings name the model and the rig; the laboratory and figures checked on printed 5-22, PDF 302 (also in Codex's notes); Claude's sensor count and strut detail not kept (one reading, not needed to find the test) |
+| bin_printed_in | [resolved]{.status .status-resolved} | both readings give the 18 by 12 ft bed (text 5-22, PDF 302); five feet is the pit's maximum depth, not the bed's; neither reading finds a loose-bed depth |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| loading | [resolved]{.status .status-resolved} | both readings agree in substance; checked on printed 5-22, 5-43 and 5-44 (PDF 302, 323, 324) and Fig. 6-10 (printed 6-15, PDF 373, which prints the unit fps) |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| measured_channels | [resolved]{.status .status-resolved} | both readings agree on the table's contents and that Section V prints no histories for Tests 7 and 8; their packet held Section V only. Section VI's experimental histories found by Codex's review and checked on the captions of PDF 404 to 411 |
+| penetrator_printed | [resolved]{.status .status-resolved} | both readings agree in substance (Codex: round simulated LM footpads; Claude adds the instrumented No. 1 pad and the missing diameter); wording as resolved for b68-mdrop-10 and b68-mdrop-11 in experiments-s3s5-b1, plus round |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | modified Langley-Grumman 1/6-scale dynamic model of LM (Figs. 5-1 to 5-3; honeycomb shock struts, 37 sensors) launched by the six-degree-of-freedom drop test rig (Figs. 5-12, 5-13) of the Bendix spacecraft model dynamic drop test laboratory | Modified Langley-Grumman 1/6-scale dynamic LM model; six-degree-of-freedom drop test rig |
+| loading | free-body landing after release from the drop rig on a level landing surface (zero slope); zero angular rates, zero pitch and roll, 45-degree yaw (2-2 landings) (text 5-44); total model weight 68.4 Lbs. (text 5-22); two nominal conditions: pure vertical drop at nominal V_v ten (printed teen) feet per second, or nominal V_v five and V_h seven feet per second (text 5-44); Table 5-T2: V_V, V_H 10, 0 or 5, 7 (no unit printed), ground slope 0, yaw 45; SS beds: NASA Test 8 vertical, Test 7 vertical plus horizontal | Free-body drop (vertical or combined vertical and horizontal), total model weight 68.4 Lbs., zero pitch and roll and zero angular rates at release, 45-degree yaw (2-2 landing), zero surface slope |
+| measured_channels | per drop (table): V_v and V_h (In./Sec.) calculated from tau; tau (Sec.), release to touchdown, measured from the x accelerometer record; bed D_r, gamma (Lb./Ft.^3), phi (Deg.); Section V prints no loads, penetration or accelerations for Tests 7 and 8 | Per drop: vertical and horizontal touchdown velocities, release-to-touchdown time, soil designation, relative density, unit weight, and internal angle of friction. Section V prints no load, penetration, or acceleration histories for NASA 7 or 8. |
+
+## Notes from the two readings
+
+- Claude: 2 drops: NASA Tests 7 and 8 = Bendix drops 20 and 21 (Table 5-T2: NASA Drop No. 7 and 8), SS Loose. soil_no 7 matched by family and state (Table 2-3 SS Loose); T5-3 gamma 96.0 and phi 30 differ from Table 2-3 soil 7 (94.7 pcf, 29 deg). Table 5-T2 prints the same D_r, gamma, phi and nominal V_V, V_H 5, 7 and 10, 0; the repeated SS Loose drops 18 (Bad recording) and 19 (Bad release) print 95.2 pcf. Text 5-44: after each drop the soil was completely removed before a new bed was prepared; no reuse stated. setup_incomplete: footpad diameter and mass not printed in Section V; depth of the loose beds not printed; test gravity not stated (Table 5-T1 scale factors imply 1 g model drops); formula and g used to calculate V_v, V_h from tau not printed
+- Codex: Two drops, NASA 7-8, Bendix 20-21. Table 5-T2 gives nominal ft/s. Table 2-3 soil No. 7 is a family-and-state match. Fill depth and numerical test gravity are unspecified. Fresh bed per drop.
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

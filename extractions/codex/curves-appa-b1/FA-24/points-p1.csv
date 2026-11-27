@@ -1,0 +1,25 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-24,1,curve,trace,1,784.88,2145.88,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.
+FA-24,1,curve,trace,2,861.39,2127.5,5.0,5.0,,
+FA-24,1,curve,trace,3,937.89,2104.5,6.0,6.0,,
+FA-24,1,curve,trace,4,1014.37,2077.5,6.0,6.0,,
+FA-24,1,curve,trace,5,1090.83,2044.71,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-24,1,curve,trace,6,1167.64,2008.5,6.0,6.0,,
+FA-24,1,curve,trace,7,1244.44,1969.5,6.0,6.0,,
+FA-24,1,curve,trace,8,1321.24,1929.5,7.0,7.0,,
+FA-24,1,curve,trace,9,1398.04,1888.71,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-24,1,curve,trace,10,1474.54,1848.0,7.5,7.5,,
+FA-24,1,curve,trace,11,1551.04,1807.0,6.5,6.5,,
+FA-24,1,curve,trace,12,1627.54,1762.5,6.0,6.0,,
+FA-24,1,curve,trace,13,1704.05,1720.27,6.5,6.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-24,1,curve,trace,14,1783.72,1675.0,6.5,6.5,,
+FA-24,1,curve,trace,15,1863.42,1629.5,6.0,6.0,,
+FA-24,1,curve,trace,16,1943.14,1583.5,7.0,7.0,,
+FA-24,1,curve,trace,17,2022.88,1537.06,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-24,1,curve,trace,18,2100.32,1494.5,6.0,6.0,,
+FA-24,1,curve,trace,19,2177.77,1455.5,6.0,6.0,,
+FA-24,1,curve,trace,20,2255.24,1417.0,5.5,5.5,,
+FA-24,1,curve,trace,21,2332.72,1384.14,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.
+FA-24,1,curve,feature,1,784.88,2145.88,6.0,6.0,,First point. Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.
+FA-24,1,curve,feature,2,1090.83,2044.71,65,35,,"Rounded lower knee, approximately Dr 0.16 to 0.24; no sharp corner. Feature bounds describe the rounded transition region; trace bounds remain half the local stroke thickness."
+FA-24,1,curve,feature,3,2332.72,1384.14,6.0,6.0,,Last point; peak (maximum of monotonically rising trace). Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.

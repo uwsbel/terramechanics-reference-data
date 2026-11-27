@@ -1,0 +1,408 @@
+{
+ "image": "packet/p0208.png",
+ "box": [
+  705,
+  508,
+  2462,
+  2002
+ ],
+ "step": 10,
+ "half": 10,
+ "dark": 160,
+ "out": "out/F4-19/cal-p1",
+ "vertical": [
+  {
+   "value": 0,
+   "label": "0",
+   "guess": [
+    715.0,
+    0.0103
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 14
+  },
+  {
+   "value": 10,
+   "label": "10",
+   "guess": [
+    835.0,
+    0.0088
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10
+  },
+  {
+   "value": 20,
+   "label": "20",
+   "guess": [
+    956.7,
+    0.0096
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10
+  },
+  {
+   "value": 30,
+   "label": "30",
+   "guess": [
+    1080.7,
+    0.009
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10
+  },
+  {
+   "value": 40,
+   "label": "40",
+   "guess": [
+    1204.6,
+    0.0062
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10
+  },
+  {
+   "value": 50,
+   "label": "50",
+   "guess": [
+    1325.9,
+    0.0077
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 60,
+   "label": "60",
+   "guess": [
+    1447.3,
+    0.0071
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 70,
+   "label": "70",
+   "guess": [
+    1566.8,
+    0.0087
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 80,
+   "label": "80",
+   "guess": [
+    1689.7,
+    0.0077
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 90,
+   "label": "90",
+   "guess": [
+    1813.3,
+    0.0079
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 100,
+   "label": "100",
+   "guess": [
+    1933.8,
+    0.0093
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ],
+   "note": "not drawn inside the legend box (v 590 to 990): not sampled there"
+  },
+  {
+   "value": 110,
+   "label": "120",
+   "guess": [
+    2054.4,
+    0.0104
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130) not drawn inside the legend box (v 590 to 990): not sampled there",
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ]
+  },
+  {
+   "value": 120,
+   "label": "130",
+   "guess": [
+    2179.0,
+    0.009
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130) not drawn inside the legend box (v 590 to 990): not sampled there",
+   "skip": [
+    [
+     590,
+     990
+    ]
+   ]
+  },
+  {
+   "value": 130,
+   "label": "140",
+   "guess": [
+    2299.7,
+    0.009
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 10,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  },
+  {
+   "value": 140,
+   "label": "(none)",
+   "guess": [
+    2421.1,
+    0.0104
+   ],
+   "t0": 540,
+   "t1": 1980,
+   "wmax": 14,
+   "anchor": false,
+   "note": "not anchored: value uncertain. Printed labels skip 110 (0,10,...,100,120,130,140 under the first 14 of 15 evenly spaced lines; the right frame is unlabeled). value given here is the uniform-grid value (labels 120,130,140 read as misprints of 110,120,130)"
+  }
+ ],
+ "horizontal": [
+  {
+   "value": 0,
+   "label": "0",
+   "guess": [
+    1994.8,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 14
+  },
+  {
+   "value": 50,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    1872.8999999999999,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 100,
+   "label": "100",
+   "guess": [
+    1751.0,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 150,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    1629.1,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 200,
+   "label": "200",
+   "guess": [
+    1507.1999999999998,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 250,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    1385.3,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 300,
+   "label": "300",
+   "guess": [
+    1263.3999999999999,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 350,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    1141.5,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 400,
+   "label": "400",
+   "guess": [
+    1019.5999999999999,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10
+  },
+  {
+   "value": 450,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    897.6999999999998,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10,
+   "skip": [
+    [
+     1290,
+     2300
+    ]
+   ],
+   "note": "not drawn inside the legend box (u 1290 to 2300): not sampled there"
+  },
+  {
+   "value": 500,
+   "label": "500",
+   "guess": [
+    775.8,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10,
+   "skip": [
+    [
+     1290,
+     2300
+    ]
+   ],
+   "note": "not drawn inside the legend box (u 1290 to 2300): not sampled there"
+  },
+  {
+   "value": 550,
+   "label": "(unlabeled, midway)",
+   "guess": [
+    653.8999999999999,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 10,
+   "skip": [
+    [
+     1290,
+     2300
+    ]
+   ],
+   "note": "not drawn inside the legend box (u 1290 to 2300): not sampled there"
+  },
+  {
+   "value": 600,
+   "label": "600",
+   "guess": [
+    531.9999999999998,
+    -0.0058
+   ],
+   "t0": 735,
+   "t1": 2420,
+   "wmax": 14
+  }
+ ]
+}

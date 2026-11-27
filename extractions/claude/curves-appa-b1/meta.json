@@ -1,0 +1,60 @@
+{
+  "agent": "claude",
+  "batch": "curves-appa-b1",
+  "date": "2026-10-15",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session)",
+  "prompt": "TASK.md plus a task naming the workspace and the figures of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appa-b1/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "readers": {
+    "FA-28": {
+      "reader": "one subagent for FA-28, FA-40 and FA-48, one after the other",
+      "note": "totals of the one reader for the three figures; early on it computed checksums of the tools/ scripts in all seven workspaces of the batch (its own report); it opened no packet/ or out/ files of the other workspaces",
+      "elapsed_sec": 976.4,
+      "subagent_tokens": 242992,
+      "tool_uses": 102
+    },
+    "FA-40": {
+      "reader": "one subagent for FA-28, FA-40 and FA-48, one after the other",
+      "note": "totals of the one reader for the three figures; early on it computed checksums of the tools/ scripts in all seven workspaces of the batch (its own report); it opened no packet/ or out/ files of the other workspaces",
+      "elapsed_sec": 976.4,
+      "subagent_tokens": 242992,
+      "tool_uses": 102
+    },
+    "FA-48": {
+      "reader": "one subagent for FA-28, FA-40 and FA-48, one after the other",
+      "note": "totals of the one reader for the three figures; early on it computed checksums of the tools/ scripts in all seven workspaces of the batch (its own report); it opened no packet/ or out/ files of the other workspaces",
+      "elapsed_sec": 976.4,
+      "subagent_tokens": 242992,
+      "tool_uses": 102
+    },
+    "FA-4": {
+      "reader": "one subagent for FA-4, FA-8, FA-20 and FA-24, one after the other",
+      "elapsed_sec": 1466.0,
+      "subagent_tokens": 336323,
+      "tool_uses": 137,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FA-8": {
+      "reader": "one subagent for FA-4, FA-8, FA-20 and FA-24, one after the other",
+      "elapsed_sec": 1466.0,
+      "subagent_tokens": 336323,
+      "tool_uses": 137,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FA-20": {
+      "reader": "one subagent for FA-4, FA-8, FA-20 and FA-24, one after the other",
+      "elapsed_sec": 1466.0,
+      "subagent_tokens": 336323,
+      "tool_uses": 137,
+      "note": "totals of the one reader for the four figures"
+    },
+    "FA-24": {
+      "reader": "one subagent for FA-4, FA-8, FA-20 and FA-24, one after the other",
+      "elapsed_sec": 1466.0,
+      "subagent_tokens": 336323,
+      "tool_uses": 137,
+      "note": "totals of the one reader for the four figures"
+    }
+  }
+}

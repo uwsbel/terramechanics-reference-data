@@ -1,0 +1,4 @@
+figure_id,panel,image,box,points_a,points_b,name,feature_roles,canonical,canonical_reason
+F4-19,1,corpus/1968/images/p0208.png,650 450 2520 2060,extractions/claude/curves-s4-b1/F4-19/points-p1-native.csv,extractions/codex/curves-s4-b1/F4-19/points-p1-native.csv,F4-19-p1,leading,,
+F4-19,2,corpus/1968/images/p0208.png,650 2100 2520 3350,extractions/claude/curves-s4-b1/F4-19/points-p2-native.csv,extractions/codex/curves-s4-b1/F4-19/points-p2-native.csv,F4-19-p2,leading,claude,"Codex's extra line, 4.5 in, is the panel's top frame, which tilts -0.0063 against about +0.0006 for the grid lines (about 5 px, 0.02 in, at the panel's ends); Claude left the frame out and extrapolates the even 3.5 to 4.0 in spacing. Only run 4's displacement above 4.0 in uses that interval"
+F4-20,1,corpus/1968/images/p0209.png,330 950 2350 3880,extractions/claude/curves-s4-b1/F4-20/points-p1-native.csv,extractions/codex/curves-s4-b1/F4-20/points-p1-native.csv,F4-20-p1,leading,,

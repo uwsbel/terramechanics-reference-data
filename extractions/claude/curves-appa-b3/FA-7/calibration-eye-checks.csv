@@ -1,0 +1,14 @@
+figure_id,panel,axis,printed_label,label_side,label_centre_u,label_centre_v,line_value_anchored,line_position_at_label_px,label_offset_px,verdict,note
+FA-7,1,y,25,left,577.0,1977.5,25,v 1976.9,+0.6,agrees,"the frame continues above 25: two unlabelled lines (anchored as 24 and 23, see notes.md) and the top frame line (left out)"
+FA-7,1,y,30,left,574.5,2388.5,30,v 2391.3,-2.8,agrees,
+FA-7,1,y,40,left,564.5,2893.0,40,v 2894.5,-1.5,agrees,
+FA-7,1,y,50,left,562.0,3200.0,50,v 3199.3,+0.7,agrees,
+FA-7,1,y,65,left,559.0,3478.5,65,v 3482.6,-4.1,agrees,label printed slightly above the thick bottom frame line which carries 65
+FA-7,1,y,25,right,2229.0,1995.0,25,v 1996.2,-1.2,agrees,right scale (maximum density) on the same lines; the page is tilted about 0.7 degree (lines fall 17 px from left to right)
+FA-7,1,y,30,right,2219.0,2411.0,30,v 2412.0,-1.0,agrees,the mean line ends on this line's right end; the 30 label is clear of the 29.3 and 30.2 labels
+FA-7,1,y,40,right,2214.5,2919.0,40,v 2916.2,+2.8,agrees,
+FA-7,1,y,65,right,2214.5,3503.0,65,v 3507.3,-4.3,agrees,
+FA-7,1,x,0,bottom,628.5,3540.0,0,u 616.4,+12.1,agrees,the 0 is printed just right of the left frame line; no other line within 140 px
+FA-7,1,x,0.1,bottom,767.5,3541.5,0.1,u 772.0,-4.5,agrees,
+FA-7,1,x,0.5,bottom,1372.0,3546.5,0.5,u 1380.9,-8.9,agrees,
+FA-7,1,x,1.0,bottom,2153.5,3561.0,1.0,u 2153.5,+0.0,agrees,

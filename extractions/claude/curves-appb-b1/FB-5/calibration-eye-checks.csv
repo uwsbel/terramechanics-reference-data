@@ -1,0 +1,16 @@
+figure_id,panel,axis,printed_label,value_used,line_anchored,line_position_px,label_centre_u,label_centre_v,label_offset_px,spacing_from_previous_px,verdict,note
+FB-5,1,x,0,0,left frame line,702.5,717.5,4037.0,14.2,,ok,"label under the lower left corner, centred 14 px right of the left frame line, like the single-digit labels 2 to 8 (13 to 15 px right of their ticks); spacing to the 2 tick 354 px, within the 354 to 359 px of the tick intervals"
+FB-5,1,x,2,2,tick on the bottom frame,1056.7,1070.0,4031.5,12.6,354.2,ok,single digit 13 px right of its tick (the speck at u 1093 to 1097 beside it is not part of the digit)
+FB-5,1,x,4,4,tick on the bottom frame,1410.7,1426.5,4028.5,15.2,354.0,ok,15 px right of its tick
+FB-5,1,x,6,6,tick on the bottom frame,1769.3,1785.0,4025.5,15.1,358.6,ok,15 px right of its tick
+FB-5,1,x,8,8,tick on the bottom frame,2125.7,2140.0,4022.5,13.7,356.5,ok,14 px right of its tick
+FB-5,1,x,10,10,tick on the bottom frame,2482.5,2480.0,4021.0,-3.0,356.7,ok,two digits centred on the tick (3 px left of it)
+FB-5,1,x,12,12,right frame line,2833.4,2801.0,4018.0,-32.9,351.0,off its line; value confirmed by the tick spacing,"printed 33 px left of the right frame line (the '10' sits centred on its tick, so '12' is about 31 px out of the pattern, 0.17 psi); the right frame is 351 px past the 10 tick, against 354 to 359 px for the other 2 psi intervals (mean 356, so 1.4 percent short, within the drafting scatter), so the right frame is x = 12 and is used as that line"
+FB-5,1,y,40,40,top frame line,879.9,565.5,893.5,12.0,,ok,"label beside the top frame line, its centre 12 px below it; spacing 35 to 40 is 447 px against 443 to 449 px for the other 5 ksi intervals, so the top frame is y = 40 (no tick of its own)"
+FB-5,1,y,35,35,tick on the left frame,1327.4,576.5,1336.0,7.2,447.4,ok,7 px below its tick
+FB-5,1,y,30,30,tick on the left frame,1776.2,587.5,1786.5,9.0,448.8,ok,9 px below its tick
+FB-5,1,y,25,25,tick on the left frame,2220.8,593.5,2229.0,6.9,444.7,ok,7 px below its tick
+FB-5,1,y,20,20,tick on the left frame,2665.0,602.5,2656.5,-9.6,444.1,ok,10 px above its tick
+FB-5,1,y,15,15,tick on the left frame,3109.6,610.5,3117.0,6.4,444.7,ok,6 px below its tick
+FB-5,1,y,10,10,tick on the left frame,3553.0,619.5,3548.0,-5.8,443.4,ok,6 px above its tick
+FB-5,1,y,5,5,bottom frame line,3998.0,646.0,3987.0,-11.5,445.0,ok,"label beside the lower left corner, its centre 12 px above the bottom frame line; spacing 5 to 10 is 445 px, so the bottom frame is y = 5"

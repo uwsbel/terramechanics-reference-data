@@ -1,0 +1,253 @@
+id,column,value,status,note
+FA-1,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-5,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-9,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-13,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-17,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-21,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-25,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-29,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-33,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-37,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-41,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FA-45,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FB-1,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FB-2,panels,0,convention,"Vol. I convention: a photograph has 0 panels and 0 curves (F2-6, F2-9 and the other 15 photos)."
+FB-1,priority,3,rule,"Apparatus photographs without dimensions are context (Vol. I: F2-9, F2-10 at 3)."
+FB-2,priority,3,rule,"Apparatus photographs without dimensions are context (Vol. I: F2-9, F2-10 at 3)."
+FB-1,printed_page,4,convention,"Printed as the IITRI report's own page number; the bare number is the printed label, the IITRI qualifier lives in notes."
+FB-3,printed_page,6,convention,Same convention as FB-1.
+FB-4,printed_page,7,convention,Same convention as FB-1.
+FB-5,printed_page,8,convention,Same convention as FB-1.
+FB-6,printed_page,9,convention,Same convention as FB-1.
+FB-2,printed_page,5,resolved,Page re-read (PDF 108): printed 5. Codex copied the page-map label 'unknown'; the page map is wrong here. Credit Claude.
+FB-7,printed_page,10,resolved,Page re-read (PDF 113): printed 10. Codex copied the page-map label 'ii'. Credit Claude.
+FB-8,printed_page,11,resolved,Page re-read (PDF 114): printed 11. Codex copied the page-map label 'ii'. Credit Claude.
+FC-13,printed_page,C-35,resolved,"Page re-read (PDF 147): printed C-35 (Figure C-13, SS Loose). The binding order is scrambled (PDF 147 = C-35, 148 = C-34, 149 = C-33) and the page map inferred sequential labels. Credit Claude."
+FC-11C,printed_page,C-33,resolved,Page re-read (PDF 149): printed C-33 (Figure C-11C). Same scramble as FC-13. Credit Claude.
+FC-22,printed_page,C-44,resolved,Page re-read (PDF 158): printed C-44 at lower left. Codex copied the page-map label 'i'. Credit Claude.
+FC-23,printed_page,C-45/C-46,resolved,Page re-read (PDF 159): printed 'C-45/C-46' (double page number). Codex copied the page-map label 'unknown'. Credit Claude.
+TA-p035,printed_page,A-34,resolved,Page re-read: the chemical analysis table starts on this page (Claude had given the specification's page span). Credit Codex.
+TA-p035,pdf_page,35,resolved,Same re-read as printed_page. Credit Codex.
+TA-p072,printed_page,A-71,resolved,Page re-read: the chemical analysis table starts on this page (Claude had given the specification's page span). Credit Codex.
+TA-p072,pdf_page,72,resolved,Same re-read as printed_page. Credit Codex.
+TA-p081,printed_page,A-80,resolved,Page re-read: the chemical analysis table starts on this page (Claude had given the specification's page span). Credit Codex.
+TA-p081,pdf_page,81,resolved,Same re-read as printed_page. Credit Codex.
+TA-p090,printed_page,A-89,resolved,Page re-read: the chemical analysis table starts on this page (Claude had given the specification's page span). Credit Codex.
+TA-p090,pdf_page,90,resolved,Same re-read as printed_page. Credit Codex.
+FC-16,curves,3,convention,"Curve-count convention: every drawn line is a trace (solid average plus two dashed bounds = 3); the plotted series means with their Dr range bars are markers, not traces. Page re-read (PDF 152)."
+FC-17,curves,3,convention,"Curve-count convention: every drawn line is a trace (solid average plus two dashed bounds = 3); the plotted series means with their Dr range bars are markers, not traces. Page re-read (PDF 152)."
+FC-18,curves,3,convention,"Curve-count convention: every drawn line is a trace (solid average plus two dashed bounds = 3); the plotted series means with their Dr range bars are markers, not traces. Page re-read (PDF 152)."
+FC-20,curves,3,convention,"Curve-count convention: every drawn line is a trace (solid average plus two dashed bounds = 3); the plotted series means with their Dr range bars are markers, not traces. Page re-read (PDF 152)."
+FC-21,curves,2,convention,"Band: two boundary lines; the hatching is fill, the markers with range bars are markers. Page re-read (PDF 157)."
+FA-2,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-6,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-10,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-14,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-18,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-22,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-26,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-30,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-34,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-38,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-42,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FA-46,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-8,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-9A,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-9B,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-9C,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-10A,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-10B,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-10C,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-11A,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-11B,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-11C,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-12,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-13,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-14,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-15,data_form,mixed,rule,"A plot that carries an inset table of numbers (D50, D10, Cu, D95) or printed fit parameters (average density, friction angle, tan theta, cohesion) is 'mixed' (Vol. I: F2-56 to F2-58). Codex's reading."
+FC-1B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-1C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-1D,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-2B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-2C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-3B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-3C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-4B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-4C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-5B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-6B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-6C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-6D,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-7B,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FC-7C,data_form,curve,rule,"A data sheet whose legend lists the test identities (normal stress, unit weight) is 'curve', as F2-21 in Vol. I; the legend is read with the curves. Claude's reading."
+FA-9,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-10,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-11,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-12,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-13,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-14,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-15,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-16,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-29,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-30,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-31,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-32,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-33,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-34,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-35,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-36,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-41,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-42,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-43,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-44,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-45,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p018,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p026,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p035,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p043,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p058,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p065,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p072,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p081,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p090,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p019,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p027,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p037,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p044,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p074,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p082,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p083,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+TA-p093,in_scope,no,rule,"Scope rule: a figure or table that reproduces another carries no new numbers; the numbers are extracted once, from the first printing. The page is still transcribed (transcribe = yes)."
+FA-9,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-10,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-11,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-12,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-13,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-14,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-15,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-16,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-29,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-30,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-31,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-32,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-33,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-34,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-35,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-36,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-41,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-42,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-43,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-44,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+FA-45,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p018,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p026,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p035,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p043,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p058,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p065,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p072,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p081,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p090,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p019,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p027,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p037,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p044,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p074,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p082,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p083,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p093,priority,3,rule,Priority rule: a reproduction needs no extraction; context only.
+TA-p003,priority,2,rule,"Protocol rule: a chemical analysis identifies the material for anyone reproducing the soil physically, but is not an input to a virtual experiment; 2, not 1."
+TA-p011,priority,2,rule,"Protocol rule: a chemical analysis identifies the material for anyone reproducing the soil physically, but is not an input to a virtual experiment; 2, not 1."
+TA-p051,priority,2,rule,"Protocol rule: a chemical analysis identifies the material for anyone reproducing the soil physically, but is not an input to a virtual experiment; 2, not 1."
+TA-p073,priority,2,rule,"Protocol rule: a chemical analysis identifies the material for anyone reproducing the soil physically, but is not an input to a virtual experiment; 2, not 1."
+TA-p004,in_scope,no,rule,"The normative mineral analysis is of a reference rock from the literature (Clarke), not of the test soil ('No mineralogic analysis of the test soil has been done', A-3). Context, not soil data."
+TA-p004,priority,3,rule,Same reason as in_scope.
+FA-4,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-8,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-20,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-24,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-28,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-40,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FA-48,priority,2,rule,"Protocol rule: a per-soil phi versus Dr curve is the authors' summary of the Appendix C shear results (FC-16 to FC-22, priority 1); the primary data come first."
+FB-3,priority,1,resolved,Material property curve (modulus versus confining pressure) from which Table 2-3 reads E at 4 psi; the elastic parameters of the CRM constitutive model are set from it. Codex graded 2 (setup); Claude 1 (materials table). Dan decided 1 on 2026-10-08.
+FB-4,priority,1,resolved,Material property curve (modulus versus confining pressure) from which Table 2-3 reads E at 4 psi; the elastic parameters of the CRM constitutive model are set from it. Codex graded 2 (setup); Claude 1 (materials table). Dan decided 1 on 2026-10-08.
+FB-5,priority,1,resolved,Material property curve (modulus versus confining pressure) from which Table 2-3 reads E at 4 psi; the elastic parameters of the CRM constitutive model are set from it. Codex graded 2 (setup); Claude 1 (materials table). Dan decided 1 on 2026-10-08.
+FB-6,priority,1,resolved,Material property curve (modulus versus confining pressure) from which Table 2-3 reads E at 4 psi; the elastic parameters of the CRM constitutive model are set from it. Codex graded 2 (setup); Claude 1 (materials table). Dan decided 1 on 2026-10-08.
+FB-7,priority,1,resolved,Material property curve (modulus versus confining pressure) from which Table 2-3 reads E at 4 psi; the elastic parameters of the CRM constitutive model are set from it. Codex graded 2 (setup); Claude 1 (materials table). Dan decided 1 on 2026-10-08.
+FB-8,in_scope,no,rule,Computed curve of f(nu) = (1+nu)(1-2nu)/(1-nu); no measurement.
+FB-8,priority,3,rule,Same reason as in_scope.
+FA-3,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-7,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-19,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-23,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-27,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-39,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-47,mcc_relevant,yes,rule,"Narrow MCC rule, state-map clause: density versus relative density with confidence limits is the state map used to read any history-dependent response (Vol. I: F2-17 yes)."
+FA-40,mcc_relevant,yes,rule,"Narrow MCC rule: the same material gave the same phi loose and dense because the loose specimen densified under the normal load (A-79, A-88); a handling history changed the state."
+FC-21,mcc_relevant,yes,rule,"Narrow MCC rule: the same material gave the same phi loose and dense because the loose specimen densified under the normal load (A-79, A-88); a handling history changed the state."
+FC-1B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-1C,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-1D,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-2B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-2C,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-3B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-3C,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-4B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-4C,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-5B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-6B,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-6C,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FC-6D,mcc_relevant,maybe,rule,"Narrow MCC rule: the dilation panel of a direct shear data sheet is 'maybe' (Vol. I: F2-21 maybe), including the sheets that show pure contraction."
+FA-45,relation,reproduces,resolved,"Images compared (PDF 36 and 92): the RSM-b photomicrograph is the same photograph as A-17 (RSM-a), same grains and ruler. The report has no RSM-b photomicrograph. Credit Codex."
+FA-45,relation_target,FA-17,resolved,See relation.
+FC-9A,relation,derived-from,resolved,"Codex's link checked: the printed average density equals the mean of the unit weights in the FC-1D legend (54.2 from 53.0 to 55.4; 25.9 from 25.6 to 26.8; 58.2 from 57.9 and 59.4). Credit Codex. Marker count differs by one for FC-9A (six markers, seven tests); confirm at transcription."
+FC-9A,relation_target,FC-1D,resolved,See relation.
+FC-10A,relation,derived-from,resolved,"Codex's link checked: the printed average density equals the mean of the unit weights in the FC-2B legend (54.2 from 53.0 to 55.4; 25.9 from 25.6 to 26.8; 58.2 from 57.9 and 59.4). Credit Codex. Marker count differs by one for FC-9A (six markers, seven tests); confirm at transcription."
+FC-10A,relation_target,FC-2B,resolved,See relation.
+FC-11A,relation,derived-from,resolved,"Codex's link checked: the printed average density equals the mean of the unit weights in the FC-3B legend (54.2 from 53.0 to 55.4; 25.9 from 25.6 to 26.8; 58.2 from 57.9 and 59.4). Credit Codex. Marker count differs by one for FC-9A (six markers, seven tests); confirm at transcription."
+FC-11A,relation_target,FC-3B,resolved,See relation.
+FC-12,relation,unresolved,resolved,"Codex's candidate kept as unresolved: the printed average density does not equal the mean of the FC-4B legend unit weights (58.0 vs 58.7; 95.2 vs 96.4; 75.2 vs 71.5; 91.2 vs 91.5), so the computer envelope may use other tests."
+FC-12,relation_target,FC-4B,resolved,See relation.
+FC-13,relation,unresolved,resolved,"Codex's candidate kept as unresolved: the printed average density does not equal the mean of the FC-5B legend unit weights (58.0 vs 58.7; 95.2 vs 96.4; 75.2 vs 71.5; 91.2 vs 91.5), so the computer envelope may use other tests."
+FC-13,relation_target,FC-5B,resolved,See relation.
+FC-14,relation,unresolved,resolved,"Codex's candidate kept as unresolved: the printed average density does not equal the mean of the FC-6B;FC-6D legend unit weights (58.0 vs 58.7; 95.2 vs 96.4; 75.2 vs 71.5; 91.2 vs 91.5), so the computer envelope may use other tests."
+FC-14,relation_target,FC-6B;FC-6D,resolved,See relation.
+FC-15,relation,unresolved,resolved,"Codex's candidate kept as unresolved: the printed average density does not equal the mean of the FC-6C legend unit weights (58.0 vs 58.7; 95.2 vs 96.4; 75.2 vs 71.5; 91.2 vs 91.5), so the computer envelope may use other tests."
+FC-15,relation_target,FC-6C,resolved,See relation.
+FC-5A,relation,derived-from,resolved,The first series (Dr .02 to .13) is the FC-5B data; the other three series are credited to Bendix MM-66-2 (C-1). Codex's reading.
+FC-5A,relation_target,FC-5B,resolved,See relation.
+TA-p018,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p018,relation_target,TA-p003,convention,See relation.
+TA-p026,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p026,relation_target,TA-p003,convention,See relation.
+TA-p035,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p035,relation_target,TA-p003,convention,See relation.
+TA-p043,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p043,relation_target,TA-p003,convention,See relation.
+TA-p058,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p058,relation_target,TA-p051,convention,See relation.
+TA-p065,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p065,relation_target,TA-p051,convention,See relation.
+TA-p090,relation,reproduces,convention,Vocabulary: a table printed again under another soil is 'reproduces' (as the repeated figures); 'same-as' is not in the vocabulary. Target is the canonical page-locator id.
+TA-p090,relation_target,TA-p003,convention,See relation.
+TA-p072,relation,reproduces,resolved,"Page re-read (PDF 73): the soil 10 copy of the Volcalite analysis omits the MgO line and prints 5.58 against Calcium Oxide (the master on A-34 has CaO 8.11, MgO 5.58): a typesetting slip, so this is a flawed reproduction; the canonical values are TA-p003. Credit Codex for catching the A-72 slip; Claude had read the page as clean."
+TA-p072,relation_target,TA-p003,resolved,See relation.
+TA-p081,relation,reproduces,resolved,"Page re-read (PDF 82): the soil 11 copy prints MgO 1.61 and omits the Na2O line (master: MgO 5.58, Na2O 1.61): a second, different typesetting slip. Both agents caught it. Flawed reproduction of TA-p003."
+TA-p081,relation_target,TA-p003,resolved,See relation.
+TA-p019,relation,reproduces,convention,Reproduces TA-p004.
+TA-p019,relation_target,TA-p004,convention,See relation.
+TA-p027,relation,reproduces,convention,Reproduces TA-p004.
+TA-p027,relation_target,TA-p004,convention,See relation.
+TA-p037,relation,reproduces,convention,Reproduces TA-p004.
+TA-p037,relation_target,TA-p004,convention,See relation.
+TA-p044,relation,reproduces,convention,Reproduces TA-p004.
+TA-p044,relation_target,TA-p004,convention,See relation.
+TA-p074,relation,reproduces,convention,Reproduces TA-p004.
+TA-p074,relation_target,TA-p004,convention,See relation.
+TA-p083,relation,reproduces,convention,Reproduces TA-p004.
+TA-p083,relation_target,TA-p004,convention,See relation.
+TA-p093,relation,reproduces,convention,Reproduces TA-p004.
+TA-p093,relation_target,TA-p004,convention,See relation.
+TA-p082,relation,reproduces,resolved,"Reproduces TA-p073 with iron oxide 1.2 against 1.1: typesetting slip in one copy, unresolved which."
+TA-p082,relation_target,TA-p073,resolved,See relation.

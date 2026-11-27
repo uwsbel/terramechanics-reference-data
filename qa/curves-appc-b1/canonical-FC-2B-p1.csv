@@ -1,0 +1,536 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-2B,1,n1468,feature,1,816,2715,4,5,,first point of the drawn line; drawn line starts at the first circle,9.5276,408.87,0.7987,21.75,piecewise,agreed,claude,10.246,411.5,,820,2714
+FC-2B,1,n1468,feature,2,1700,2281.5,46.0,3,,peak of the drawn line (plateau within 3 px from u=1638 to u=1730); u bound is half the plateau width,162.6789,1904.475,11.487,14.034,piecewise,agreed,claude,152.3219,1895.654,rule: peak compared in y only; x bound widened from 8.047 to cover the other reading's x 152.322 +- 1.130,1640,2284
+FC-2B,1,n1468,feature,3,1852,2304.0,4,7.5,,last sampled point of the drawn line (line ends at the last circle),188.8642,1826.148,0.8364,29.926,piecewise,agreed,claude,189.5587,1836.623,,1856,2301
+FC-2B,1,n1468,marker,1,820,2712,2,2,circle,first point; open circle,10.224,419.18,0.4491,11.428,piecewise,agreed,claude,10.5935,414.932,,822,2713
+FC-2B,1,n1468,marker,2,883,2631,2,2,circle,,21.216,697.554,0.4454,12.304,piecewise,agreed,claude,21.4004,686.014,,884,2634
+FC-2B,1,n1468,marker,3,942,2562,2,2,circle,,31.506,934.555,0.4419,13.05,piecewise,agreed,claude,31.8564,926.221,,944,2564
+FC-2B,1,n1468,marker,4,1000,2520,2,2,circle,,41.604,1079.268,0.4384,13.104,piecewise,agreed,claude,41.7744,1071.061,,1001,2522
+FC-2B,1,n1468,marker,5,1112,2462,2,2,circle,,61.0343,1279.76,0.4341,12.47,piecewise,agreed,claude,61.2018,1272.091,,1113,2464
+FC-2B,1,n1468,marker,6,1170,2443,2,2,circle,,71.0675,1345.408,0.4349,12.263,piecewise,agreed,claude,71.2372,1337.933,,1171,2445
+FC-2B,1,n1468,marker,7,1225,2422,2,2,circle,,80.5836,1418.023,0.4356,12.034,piecewise,agreed,claude,80.5832,1414.168,,1225,2423
+FC-2B,1,n1468,marker,8,1287,2395,2,2,circle,,91.313,1511.45,0.4364,11.739,piecewise,agreed,claude,91.659,1500.791,,1289,2398
+FC-2B,1,n1468,marker,9,1357,2368,3,2,circle,touches the x=100 gridline,103.4212,1604.9,0.609,11.446,piecewise,agreed,claude,103.2494,1594.336,,1356,2371
+FC-2B,1,n1468,marker,10,1398,2352,2,2,circle,,110.5093,1660.302,0.4359,11.268,piecewise,agreed,claude,110.5087,1656.696,,1398,2353
+FC-2B,1,n1468,marker,11,1460,2327,2,2,circle,,121.2298,1746.902,0.4352,10.994,piecewise,agreed,claude,121.2261,1746.764,,1460,2327
+FC-2B,1,n1468,marker,12,1512,2308,2,2,circle,,130.2209,1812.738,0.4346,10.786,piecewise,agreed,claude,130.3859,1809.108,,1513,2309
+FC-2B,1,n1468,marker,13,1687,2282,2,2,circle,,160.4376,1902.754,0.4477,10.505,piecewise,agreed,claude,160.4284,1902.554,,1687,2282
+FC-2B,1,n1468,marker,14,1742,2283,2,2,circle,,169.9174,1899.221,0.4609,10.519,piecewise,agreed,claude,170.083,1892.124,,1743,2285
+FC-2B,1,n1468,marker,15,1807,2292,2,2,circle,,181.1153,1867.889,0.4765,10.621,piecewise,agreed,claude,180.9429,1871.297,,1806,2291
+FC-2B,1,n1468,marker,16,1865,2305,2,2,circle,last marker; the drawn line ends here,191.1045,1822.657,0.4904,10.768,piecewise,agreed,claude,191.1081,1822.761,,1865,2305
+FC-2B,1,n1468,trace,1,834,2694.0,1,7.5,,,12.6666,481.053,0.2784,30.594,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 057 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-2B,1,n1468,trace,2,842,2681.0,1,8.5,,thick run: curve merged with a gridline or another curve,14.0643,525.74,0.2786,34.184,piecewise,one-sided-verified,claude,14.064,519.589,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 057 (Claude's adjudicator: all yes; Codex's: all yes)",842.0,2682.5
+FC-2B,1,n1468,trace,3,862,2655.0,1,7.5,,,17.554,615.094,0.2767,31.014,piecewise,agreed,claude,17.554,606.800,,861.9,2657.1
+FC-2B,1,n1468,trace,4,897,2614.0,1,6.5,,,23.6581,755.958,0.274,28.005,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,5,902,2608.0,1,6.5,,,24.5302,776.57,0.2737,28.069,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,6,922,2588.5,1,7.0,,,28.0157,843.537,0.2728,30.003,piecewise,agreed,claude,28.016,841.497,,922.0,2588.7
+FC-2B,1,n1468,trace,10,928,2582.0,1,7.5,,visible author-line ink; column displaced from vertical grid,29.0684,864.452,0.2654,27.851,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,11,934,2576.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,30.113,883.326,0.2712,57.031,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,8,962,2549.5,1,8.0,,,34.9866,977.439,0.2712,33.881,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,9,982,2538.0,1,7.5,,on a horizontal gridline,38.4667,1017.007,0.2696,32.199,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,10,1014,2512.5,1,3.0,,,44.0397,1105.186,0.2646,16.492,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,11,1022,2507.5,1,5.0,,,45.432,1122.472,0.2655,23.387,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,12,1039,2497.5,1,6.0,,,48.3902,1157.043,0.2652,26.753,piecewise,agreed,claude,48.390,1158.294,,1039.0,2496.8
+FC-2B,1,n1468,trace,13,1062,2484.5,1,6.0,,,52.3806,1201.987,0.2635,26.612,piecewise,agreed,claude,52.381,1202.832,,1062.0,2484.0
+FC-2B,1,n1468,trace,14,1082,2474.5,1,5.0,,,55.8428,1236.557,0.2631,23.028,piecewise,agreed,claude,55.843,1236.036,,1082.0,2474.4
+FC-2B,1,n1468,trace,23,1084,2473.5,1,6.0,,visible author-line ink; column displaced from vertical grid,56.184,1239.167,0.265,23.179,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,24,1096,2469.5,1,3.0,,visible author-line ink; column displaced from vertical grid,58.2603,1253.03,0.2634,12.786,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,27,1131,2457.0,1,4.5,,visible author-line ink; column displaced from vertical grid,64.317,1296.35,0.2659,18.064,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,17,1142,2454.5,1,6.0,,,66.2223,1305.647,0.2645,26.289,piecewise,agreed,claude,66.222,1309.558,,1142.0,2453.2
+FC-2B,1,n1468,trace,28,1144,2452.5,1,6.0,,visible author-line ink; column displaced from vertical grid,66.5665,1311.944,0.2675,23.297,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,32,1193,2434.5,1,6.0,,visible author-line ink; column displaced from vertical grid,75.0459,1374.32,0.2695,23.398,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,20,1202,2431.5,1,6.0,,,76.6037,1385.164,0.2653,26.042,piecewise,agreed,claude,76.604,1382.829,,1202.0,2432.0
+FC-2B,1,n1468,trace,33,1204,2431.5,1,6.0,,visible author-line ink; column displaced from vertical grid,76.9487,1384.714,0.27,23.415,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,22,1242,2414.5,1,2,,,83.5256,1443.971,0.263,11.949,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,23,1262,2408.5,1,7.0,,,86.9849,1464.715,0.2667,29.271,piecewise,agreed,claude,86.985,1464.975,,1262.0,2408.3
+FC-2B,1,n1468,trace,24,1273,2403.0,1,4.5,,,88.8889,1483.752,0.2651,20.518,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,41,1304,2391.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,94.2556,1525.046,0.281,58.356,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,42,1312,2387.5,1,5.0,,visible author-line ink; column displaced from vertical grid,95.6402,1537.172,0.2738,20.191,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,26,1322,2383.5,1,6.0,,,97.3673,1551.235,0.2668,25.524,piecewise,agreed,claude,97.367,1548.700,,1322.0,2384.2
+FC-2B,1,n1468,trace,43,1324,2383.5,1,6.0,,visible author-line ink; column displaced from vertical grid,97.7164,1551.03,0.275,23.685,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,44,1331,2380.0,1,5.5,,visible author-line ink; column displaced from vertical grid,98.9283,1563.157,0.2749,21.969,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,28,1371,2363.5,1,5.0,,,105.8408,1620.475,0.2657,21.829,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,29,1382,2358.0,1,4.5,,,107.7433,1639.526,0.2652,20.029,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,30,1417,2344.0,1,5.5,,,113.7947,1688.011,0.2656,23.357,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,31,1422,2341.5,1,6.0,,,114.6596,1696.673,0.2659,25.069,piecewise,agreed,claude,114.660,1695.682,,1422.0,2341.7
+FC-2B,1,n1468,trace,32,1442,2333.5,1,5.0,,,118.1178,1724.386,0.265,21.503,piecewise,agreed,claude,118.118,1722.854,,1442.0,2333.9
+FC-2B,1,n1468,trace,53,1443,2333.5,1,5.0,,visible author-line ink; column displaced from vertical grid,118.2878,1724.248,0.2705,20.495,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,56,1479,2321.5,1,5.0,,visible author-line ink; column displaced from vertical grid,124.509,1765.812,0.2692,20.562,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,34,1482,2320.0,1,5.5,,,125.0328,1771.15,0.265,23.097,piecewise,agreed,claude,125.033,1769.849,,1482.0,2320.3
+FC-2B,1,n1468,trace,57,1492,2316.5,1,6.0,,visible author-line ink; column displaced from vertical grid,126.7561,1783.131,0.2695,24.061,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,61,1540,2302.5,1,6.0,,visible author-line ink; column displaced from vertical grid,135.0505,1831.615,0.2677,24.14,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,37,1542,2302.0,1,5.5,,,135.4046,1833.515,0.2644,22.903,piecewise,agreed,claude,135.405,1830.823,,1542.1,2302.7
+FC-2B,1,n1468,trace,38,1562,2296.5,1,6.0,,,138.8617,1852.574,0.2646,24.584,piecewise,agreed,claude,138.862,1849.255,,1562.1,2297.4
+FC-2B,1,n1468,trace,39,1582,2292.0,1,4.5,,,142.3182,1868.165,0.2632,19.314,piecewise,agreed,claude,142.318,1866.277,,1582.1,2292.5
+FC-2B,1,n1468,trace,40,1602,2288.5,1,5.0,,,145.7739,1880.288,0.2634,21.018,piecewise,agreed,claude,145.774,1875.870,,1602.1,2289.7
+FC-2B,1,n1468,trace,41,1619,2287.5,1,6.0,,,148.7096,1883.739,0.264,24.49,piecewise,agreed,claude,148.710,1883.185,,1619.1,2287.6
+FC-2B,1,n1468,trace,42,1642,2284.5,1,6.0,,,152.6788,1894.125,0.2676,24.459,piecewise,agreed,claude,152.679,1892.210,,1642.1,2285.0
+FC-2B,1,n1468,trace,43,1662,2284.5,1,6.0,,,156.1263,1894.103,0.2723,24.461,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,75,1708,2283.5,1,6.0,,visible author-line ink; column displaced from vertical grid,164.0486,1897.343,0.2786,24.244,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,76,1720,2284.0,1,5.5,,visible author-line ink; column displaced from vertical grid,166.1175,1895.603,0.2803,22.506,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,46,1722,2284.0,1,5.5,,,166.4692,1895.771,0.2862,22.719,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,79,1759,2287.0,1,2.5,,visible author-line ink; column displaced from vertical grid,172.8407,1885.185,0.2848,12.078,piecewise,one-sided,codex,,,,,
+FC-2B,1,n1468,trace,48,1762,2287.0,1,5.5,,,173.3619,1885.308,0.2957,22.756,piecewise,agreed,claude,173.362,1884.601,,1762.0,2287.2
+FC-2B,1,n1468,trace,49,1782,2290.0,1,5.5,,,176.8073,1874.866,0.3004,22.791,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,51,1825,2297.0,1,4.5,,,184.2146,1850.5,0.31,19.388,piecewise,one-sided,claude,,,,,
+FC-2B,1,n1468,trace,52,1842,2300.5,1,4.0,,,187.1427,1838.32,0.3137,17.685,piecewise,one-sided-verified,claude,187.143,1841.829,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)",1840.0,2299.5
+FC-2B,1,n2200,feature,1,814,2600,4,5,,first point of the drawn line; drawn line starts at the first triangle,9.2591,804.382,0.7988,23.003,piecewise,agreed,claude,9.2835,819.847,,814,2595
+FC-2B,1,n2200,feature,2,1884,2044.0,72.0,3.5,,peak of the drawn line (plateau within 3 px from u=1884 to u=2028); u bound is half the plateau width,194.5547,2717.687,12.5342,14.173,piecewise,agreed,claude,197.3117,2717.645,,1900,2044
+FC-2B,1,n2200,feature,3,2210,2061,5,5,,last visible curve,249.8607,2659.277,0.9542,19.472,piecewise extrapolated x,resolved,codex,247.8232,2659.286,the codex reading is on the feature; credit codex (blind adjudication item 059 (Claude's adjudicator: p; Codex's: p)),2198,2061.0
+FC-2B,1,n2200,marker,1,817,2592,2,3,triangle-up,"first point; centre = bounding-box centre (apex and base midpoint), as for all triangles",9.7853,831.885,0.45,16.182,piecewise,agreed,claude,9.8026,812.984,,817,2597
+FC-2B,1,n2200,marker,2,883,2507,2,3,triangle-up,,21.3013,1124.744,0.446,16.426,piecewise,agreed,claude,21.482,1102.267,,884,2513
+FC-2B,1,n2200,marker,3,942,2447,2,3,triangle-up,,31.5855,1332.263,0.4425,15.768,piecewise,agreed,claude,31.4131,1313.723,,941,2452
+FC-2B,1,n2200,marker,4,1002,2392,2,3,triangle-up,,42.0402,1522.552,0.439,15.165,piecewise,agreed,claude,41.863,1507.828,,1001,2396
+FC-2B,1,n2200,marker,5,1109,2309,2,3,triangle-up,,60.6216,1809.846,0.4348,14.255,piecewise,agreed,claude,60.27,1788.546,,1107,2315
+FC-2B,1,n2200,marker,6,1167,2279,2,3,triangle-up,,70.6618,1913.721,0.4355,13.927,piecewise,agreed,claude,71.0032,1892.49,,1169,2285
+FC-2B,1,n2200,marker,7,1227,2237,2,3,triangle-up,,81.0554,2058.427,0.4363,13.361,piecewise,agreed,claude,81.4,2044.357,,1229,2241
+FC-2B,1,n2200,marker,8,1283,2210,2,3,triangle-up,,90.7476,2150.697,0.437,13.226,piecewise,agreed,claude,90.9195,2129.823,,1284,2216
+FC-2B,1,n2200,marker,9,1395,2160,2,3,triangle-up,,110.1268,2321.554,0.4369,12.976,piecewise,agreed,claude,110.4699,2304.171,,1397,2165
+FC-2B,1,n2200,marker,10,1460,2150,2,3,triangle-up,,121.3605,2355.688,0.4362,12.926,piecewise,agreed,claude,121.3562,2345.168,,1460,2153
+FC-2B,1,n2200,marker,11,1510,2132,2,3,triangle-up,,130.01,2417.184,0.4356,12.836,piecewise,agreed,claude,130.1751,2403.274,,1511,2136
+FC-2B,1,n2200,marker,12,1567,2097,2,3,triangle-up,,139.8832,2536.791,0.435,12.661,piecewise,agreed,claude,140.0432,2512.678,,1568,2104
+FC-2B,1,n2200,marker,13,1632,2087,3,3,triangle-up,on the x=150 gridline,151.1166,2570.92,0.6078,12.612,piecewise,agreed,claude,150.9315,2557.094,,1631,2091
+FC-2B,1,n2200,marker,14,1688,2071,2,3,triangle-up,,160.7756,2625.568,0.4486,12.531,piecewise,agreed,claude,161.1086,2604.934,,1690,2077
+FC-2B,1,n2200,marker,15,1865,2045,2,3,triangle-up,,191.2815,2714.287,0.4909,12.401,piecewise,agreed,claude,191.2775,2693.73,,1865,2051
+FC-2B,1,n2200,marker,16,2040,2045,2,3,triangle-up,,221.0669,2714.123,0.4653,12.401,piecewise,agreed,claude,220.8976,2693.603,,2039,2051
+FC-2B,1,n2200,marker,17,2210,2060,6,4,triangle-up,symbol on the right frame (x about 250); doubles as legend key,249.8562,2662.693,1.1068,15.902,piecewise extrapolated x,agreed,claude,250.537,2642.174,,2214,2066
+FC-2B,1,n2200,trace,2,827,2575.0,1,1,,visible author-line ink; column displaced from vertical grid,11.5519,888.477,0.2609,5.494,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 060 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-2B,1,n2200,trace,1,831,2575.0,1,5.5,,,12.2274,890.297,0.2772,24.987,piecewise,one-sided-verified,claude,12.227,897.563,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 060 (Claude's adjudicator: all yes; Codex's: all yes)",830.9,2572.4
+FC-2B,1,n2200,trace,2,842,2563.0,1,8.5,,thick run: curve merged with a gridline or another curve,14.1452,931.52,0.2786,35.464,piecewise,agreed,claude,14.145,938.703,,841.9,2560.4
+FC-2B,1,n2200,trace,3,862,2533.0,1,2.5,,,17.6378,1034.827,0.2733,14.971,piecewise,agreed,claude,17.638,1037.789,,861.9,2531.6
+FC-2B,1,n2200,trace,4,870,2528.5,1,7.0,,,19.0297,1050.37,0.2759,30.549,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,5,902,2488.0,1,8.5,,thick run: curve merged with a gridline or another curve,24.6129,1190.448,0.275,35.316,piecewise,agreed,claude,24.613,1187.596,,901.9,2488.4
+FC-2B,1,n2200,trace,6,922,2466.0,1,7.5,,,28.1002,1266.544,0.2732,31.603,piecewise,agreed,claude,28.100,1261.333,,922.0,2467.1
+FC-2B,1,n2200,trace,7,954,2431.5,1,6.0,,,33.6795,1385.896,0.2702,26.016,piecewise,agreed,claude,33.679,1374.344,,954.0,2434.5
+FC-2B,1,n2200,trace,8,962,2424.0,1,7.5,,,35.0736,1411.843,0.2708,31.145,piecewise,agreed,claude,35.074,1405.708,,962.0,2425.5
+FC-2B,1,n2200,trace,9,982,2406.5,1,6.0,,,38.5579,1472.388,0.2686,25.743,piecewise,agreed,claude,38.558,1471.537,,982.0,2406.5
+FC-2B,1,n2200,trace,10,1014,2375.5,1,4.0,,,44.135,1579.668,0.2653,18.456,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,11,1022,2371.0,1,6.5,,,45.527,1595.235,0.2666,27.093,piecewise,agreed,claude,45.527,1584.924,,1022.0,2373.8
+FC-2B,1,n2200,trace,12,1039,2356.5,1,6.0,,,48.4885,1645.421,0.2652,25.198,piecewise,agreed,claude,48.489,1640.156,,1039.0,2357.8
+FC-2B,1,n2200,trace,13,1062,2339.5,1,5.0,,,52.4812,1704.262,0.2628,21.538,piecewise,agreed,claude,52.481,1704.567,,1062.0,2339.2
+FC-2B,1,n2200,trace,14,1082,2324.5,1,5.0,,,55.9466,1756.189,0.2631,21.374,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,16,1122,2297.5,1,5.0,,,62.8753,1849.671,0.2636,21.079,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,17,1142,2287.5,1,6.0,,,66.3372,1884.295,0.2645,24.446,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,18,1182,2260.5,1,9.0,,thick run: curve merged with a gridline or another curve,73.2657,1977.816,0.2671,34.581,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,19,1202,2251.5,1,6.0,,on a horizontal gridline,76.7268,2008.87,0.2653,23.933,piecewise,agreed,claude,76.727,2003.643,,1202.0,2252.9
+FC-2B,1,n2200,trace,20,1213,2251.0,1,6.5,,on a horizontal gridline,78.6274,2010.571,0.2657,25.644,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,21,1242,2231.5,1,5.0,,,83.6504,2077.22,0.2651,20.181,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,22,1262,2222.5,1,7.0,,,87.1114,2107.976,0.2667,26.984,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,24,1302,2203.5,1,6.0,,,94.0341,2172.906,0.2665,23.465,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,25,1322,2194.5,1,6.0,,,97.4951,2203.66,0.2668,23.42,piecewise,agreed,claude,97.495,2199.875,,1322.0,2195.5
+FC-2B,1,n2200,trace,26,1345,2185.0,1,5.5,,,101.4742,2236.122,0.2664,21.66,piecewise,agreed,claude,101.474,2236.245,,1345.0,2184.9
+FC-2B,1,n2200,trace,27,1362,2177.5,1,7.0,,,104.4153,2261.75,0.2673,26.759,piecewise,agreed,claude,104.415,2258.571,,1362.0,2178.3
+FC-2B,1,n2200,trace,47,1366,2176.5,1,6.0,,visible author-line ink; column displaced from vertical grid,105.1096,2264.861,0.2742,23.619,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,48,1377,2174.0,1,4.5,,visible author-line ink; column displaced from vertical grid,107.0105,2273.404,0.2728,18.463,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,51,1410,2163.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,112.7159,2311.002,0.2798,57.798,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,30,1422,2155.0,1,5.5,,,114.7936,2338.626,0.2657,21.51,piecewise,agreed,claude,114.794,2334.261,,1422.0,2156.2
+FC-2B,1,n2200,trace,31,1442,2148.0,1,4.5,,,118.253,2362.541,0.2648,18.051,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,32,1474,2135.5,1,5.0,,,123.7893,2405.249,0.2648,19.701,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,33,1482,2132.5,1,5.0,,,125.1734,2415.499,0.2647,19.686,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,56,1486,2131.5,1,6.0,,visible author-line ink; column displaced from vertical grid,125.8617,2418.683,0.2698,23.337,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,35,1522,2118.5,1,3.0,,,132.0932,2463.327,0.2628,12.768,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,36,1542,2113.5,1,6.0,,,135.5517,2480.404,0.2649,23.014,piecewise,agreed,claude,135.552,2479.150,,1542.0,2113.8
+FC-2B,1,n2200,trace,61,1545,2113.0,1,6.5,,visible author-line ink; column displaced from vertical grid,136.0642,2481.913,0.2681,24.934,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,64,1582,2098.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,142.4654,2531.479,0.2745,57.394,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,38,1582,2099.5,1,5.0,,,142.4723,2528.231,0.2637,19.52,piecewise,agreed,claude,142.472,2531.510,,1582.0,2098.5
+FC-2B,1,n2200,trace,39,1602,2094.5,1,6.0,,,145.9312,2545.307,0.2643,22.919,piecewise,agreed,claude,145.931,2548.296,,1602.0,2093.6
+FC-2B,1,n2200,trace,66,1606,2092.5,1,6.0,,visible author-line ink; column displaced from vertical grid,146.615,2551.982,0.2655,23.093,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,41,1645,2095.0,1,2,,,153.3495,2543.559,0.2651,9.227,piecewise,resolved,claude,,,"the other reading is on the line's ink and the kept one is not; credit codex (audit re-check 2026-10-27: item 068, round 1, Claude's adjudicator other, Codex's other; students R1 problem)",,
+FC-2B,1,n2200,trace,42,1662,2078.5,1,5.0,,,156.2912,2599.952,0.2715,19.415,piecewise,agreed,claude,156.291,2599.864,,1662.0,2078.5
+FC-2B,1,n2200,trace,71,1666,2077.5,1,6.0,,visible author-line ink; column displaced from vertical grid,156.9731,2603.241,0.2713,22.999,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,74,1705,2069.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,163.6993,2632.284,0.2858,57.21,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,75,1714,2068.0,1,5.5,,visible author-line ink; column displaced from vertical grid,165.2506,2635.697,0.2792,21.226,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,45,1722,2065.5,1,6.0,,,166.6363,2644.339,0.2866,22.774,piecewise,agreed,claude,166.636,2641.417,,1722.0,2066.3
+FC-2B,1,n2200,trace,46,1742,2062.0,1,5.5,,,170.0839,2656.286,0.2909,21.044,piecewise,agreed,claude,170.084,2659.065,,1742.0,2061.2
+FC-2B,1,n2200,trace,47,1762,2058.5,1,6.0,,,173.5314,2668.232,0.2961,22.738,piecewise,agreed,claude,173.531,2668.170,,1762.0,2058.5
+FC-2B,1,n2200,trace,48,1782,2055.5,1,6.0,,,176.9784,2678.47,0.3008,22.723,piecewise,agreed,claude,176.978,2680.427,,1782.0,2054.9
+FC-2B,1,n2200,trace,49,1802,2051.5,1,5.0,,,180.4261,2692.125,0.3048,19.28,piecewise,agreed,claude,180.426,2689.185,,1802.0,2052.3
+FC-2B,1,n2200,trace,50,1822,2050.0,1,5.5,,,183.8719,2697.234,0.3099,20.984,piecewise,agreed,claude,183.872,2697.185,,1822.0,2050.0
+FC-2B,1,n2200,trace,51,1842,2047.5,1,6.0,,,187.3184,2705.762,0.315,22.683,piecewise,agreed,claude,187.318,2704.666,,1842.0,2047.8
+FC-2B,1,n2200,trace,86,1846,2047.5,1,6.0,,visible author-line ink; column displaced from vertical grid,188.0066,2705.714,0.3022,22.811,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,89,1883,2044.0,1,3.5,,visible author-line ink; column displaced from vertical grid,194.3831,2717.657,0.307,14.223,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,53,1885,2044.0,1,3.5,,,194.7269,2717.686,0.3236,14.107,piecewise,agreed,claude,194.727,2717.035,,1885.0,2044.2
+FC-2B,1,n2200,trace,54,1902,2045.0,1,5.5,,,197.6542,2714.252,0.3289,20.959,piecewise,agreed,claude,197.654,2714.223,,1902.0,2045.0
+FC-2B,1,n2200,trace,55,1928,2045.0,1,5.5,,,202.0969,2714.228,0.3237,20.959,piecewise,agreed,claude,202.097,2714.635,,1928.0,2044.9
+FC-2B,1,n2200,trace,56,1942,2045.0,1,5.5,,,204.4682,2714.215,0.3204,20.959,piecewise,agreed,claude,204.468,2714.194,,1942.0,2045.0
+FC-2B,1,n2200,trace,57,1962,2045.0,1,5.5,,,207.8556,2714.196,0.3156,20.958,piecewise,agreed,claude,207.856,2714.179,,1962.0,2045.0
+FC-2B,1,n2200,trace,58,1982,2045.0,1,5.5,,,211.2431,2714.177,0.3108,20.958,piecewise,agreed,claude,211.243,2713.116,,1982.0,2045.3
+FC-2B,1,n2200,trace,59,2002,2046.0,1,6.5,,,214.6301,2710.74,0.3066,24.387,piecewise,agreed,claude,214.630,2710.730,,2002.0,2046.0
+FC-2B,1,n2200,trace,99,2002,2046.0,1,6.5,,visible author-line ink; column displaced from vertical grid,214.6327,2710.73,0.2987,24.515,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,100,2014,2046.5,1,6.0,,visible author-line ink; column displaced from vertical grid,216.6651,2709.011,0.297,22.805,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2200,trace,61,2062,2047.5,1,6.0,,,224.792,2705.557,0.2919,22.682,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2200,trace,62,2082,2049.5,1,6.0,,,228.1786,2698.702,0.2871,22.692,piecewise,agreed,claude,228.179,2697.572,,2082.0,2049.8
+FC-2B,1,n2200,trace,63,2102,2050.5,1,6.0,,,231.5658,2695.265,0.2823,22.697,piecewise,agreed,claude,231.566,2693.172,,2102.0,2051.1
+FC-2B,1,n2200,trace,64,2122,2053.0,1,5.5,,,234.9524,2686.701,0.2773,20.998,piecewise,agreed,claude,234.952,2684.999,,2122.0,2053.5
+FC-2B,1,n2200,trace,65,2142,2055.5,1,6.0,,,238.3392,2678.137,0.2728,22.722,piecewise,agreed,claude,238.339,2680.431,,2142.0,2054.8
+FC-2B,1,n2200,trace,66,2162,2056.5,1,6.0,,,241.7266,2674.701,0.268,22.727,piecewise,agreed,claude,241.727,2674.702,,2162.0,2056.5
+FC-2B,1,n2200,trace,67,2182,2059.5,1,6.0,,,245.1134,2664.428,0.2632,22.741,piecewise,agreed,claude,245.113,2664.450,,2182.0,2059.5
+FC-2B,1,n2200,trace,68,2196,2059.5,1,6.0,,,247.4849,2664.415,0.2598,22.741,piecewise,one-sided-verified,claude,247.485,2664.419,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 061 (Claude's adjudicator: all yes; Codex's: all yes)",2194.0,2059.5
+FC-2B,1,n2995,feature,1,826,2520,5,5,,first visible curve / first symbol,11.4147,1078.004,0.9575,19.448,piecewise,resolved,codex,10.3451,1028.081,"decision made on codex 1, carried to its pair claude 1; the codex reading is on the feature; credit codex (blind adjudication item 062 (Claude's adjudicator: p; Codex's: p))",820,2535
+FC-2B,1,n2995,feature,2,2060,1858.0,98.0,4.5,,peak of the drawn line (plateau within 3 px from u=1942 to u=2138); u bound is half the plateau width,224.5429,3351.534,16.7228,17.34,piecewise,agreed,claude,217.7762,3358.494,,2020,1856
+FC-2B,1,n2995,feature,3,2202,1863.5,4,6.0,,last sampled point of the drawn line (line runs to the right frame),248.5622,3332.69,0.7662,22.341,piecewise,agreed,claude,250.2551,3344.741,,2212,1860
+FC-2B,1,n2995,marker,1,825,2520,2,2,square,first point; just below the n4400/n3660 first markers,11.2234,1079.976,0.4488,13.093,piecewise,agreed,claude,10.8929,1071.07,,823,2522
+FC-2B,1,n2995,marker,2,883,2403,2,2,square,,21.3729,1484.765,0.4453,11.807,piecewise,agreed,claude,20.8601,1473.205,,880,2406
+FC-2B,1,n2995,marker,3,943,2320,2,2,square,,31.8469,1771.996,0.4418,10.894,piecewise,agreed,claude,31.3277,1757.441,,940,2324
+FC-2B,1,n2995,marker,4,995,2249,3,3,square,on the 2000 gridline,40.9242,2017.571,0.6131,13.422,piecewise,agreed,claude,40.5758,2006.902,,993,2252
+FC-2B,1,n2995,marker,5,1053,2197,3,2,square,on the x=50 gridline,51.0253,2195.326,0.6061,9.738,piecewise,agreed,claude,50.8489,2184.711,,1052,2200
+FC-2B,1,n2995,marker,6,1110,2148,2,2,square,,60.9055,2362.819,0.4341,9.493,piecewise,agreed,claude,60.3841,2345.422,,1107,2153
+FC-2B,1,n2995,marker,7,1167,2115,2,2,square,,70.7744,2475.601,0.4348,9.328,piecewise,agreed,claude,70.4293,2468.507,,1165,2117
+FC-2B,1,n2995,marker,8,1225,2078,2,2,square,,80.8185,2602.055,0.4356,9.143,piecewise,agreed,claude,80.4733,2588.172,,1223,2082
+FC-2B,1,n2995,marker,9,1284,2052,2,2,square,,91.0276,2690.896,0.4363,9.013,piecewise,agreed,claude,90.5127,2687.315,,1281,2053
+FC-2B,1,n2995,marker,10,1343,2023,3,2,square,on the x=100 gridline,101.2388,2789.99,0.6098,8.869,piecewise,agreed,claude,100.8958,2779.617,,1341,2026
+FC-2B,1,n2995,marker,11,1402,2000,2,2,square,,111.4493,2868.568,0.4363,8.754,piecewise,agreed,claude,110.7595,2865.079,,1398,2001
+FC-2B,1,n2995,marker,12,1513,1957,2,3,square,on the 3000 gridline,130.6623,3015.386,0.4358,11.923,piecewise,agreed,claude,130.3142,3015.396,,1511,1957
+FC-2B,1,n2995,marker,13,1688,1898,2,2,square,,160.9113,3215.86,0.799,29.010,piecewise,pending-review,claude,160.903,3202.314,"neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 071, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 problem); bounds widened to cover the other reading (use span)",1688,1902
+FC-2B,1,n2995,marker,14,1917,1860,3,2,square,on the x=200 gridline,200.3517,3344.87,0.6669,8.735,piecewise,agreed,claude,200.6856,3331.367,,1919,1864
+FC-2B,1,n2995,marker,15,2042,1858,2,2,square,,221.498,3351.551,0.4636,8.739,piecewise,agreed,claude,220.6506,3348.278,,2037,1859
+FC-2B,1,n2995,marker,16,2150,1860,2,2,square,,239.7667,3344.644,0.4383,8.734,piecewise,agreed,claude,239.4271,3334.589,,2148,1863
+FC-2B,1,n2995,marker,17,2226,1864,8,3,square,symbol beyond the right frame (x about 253); doubles as legend key,252.6221,3330.967,1.4582,12.134,piecewise extrapolated x,agreed,claude,252.2833,3320.927,,2224,1867
+FC-2B,1,n2995,trace,1,837,2492.0,1,7.5,,,13.3258,1176.84,0.2782,31.879,piecewise,one-sided-verified,claude,13.326,1185.474,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 062 (Claude's adjudicator: all yes; Codex's: all yes)",839.0,2489.0
+FC-2B,1,n2995,trace,2,848,2469.0,1,10.5,,thick run: curve merged with a gridline or another curve,15.2513,1256.409,0.2796,42.044,piecewise,agreed,claude,15.251,1246.085,,847.9,2471.5
+FC-2B,1,n2995,trace,3,868,2433.5,1,9.0,,thick run: curve merged with a gridline or another curve,18.7478,1379.227,0.2774,36.447,piecewise,agreed,claude,18.748,1379.133,,867.9,2433.1
+FC-2B,1,n2995,trace,4,897,2382.0,1,7.5,,,23.8179,1557.429,0.2746,30.674,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,5,908,2364.0,1,7.5,,,25.74,1619.72,0.274,30.477,piecewise,agreed,claude,25.740,1609.963,,908.0,2366.5
+FC-2B,1,n2995,trace,6,928,2337.0,1,7.5,,,29.2309,1713.16,0.2728,30.182,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,7,957,2297.5,1,7.0,,,34.2931,1849.884,0.2707,28.013,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,8,968,2283.0,1,7.5,,,36.213,1900.08,0.2704,29.591,piecewise,agreed,claude,36.213,1893.459,,968.0,2284.8
+FC-2B,1,n2995,trace,9,982,2267.5,1,7.0,,,38.6544,1953.741,0.2693,27.685,piecewise,agreed,claude,38.654,1950.940,,982.0,2268.2
+FC-2B,1,n2995,trace,10,1011,2236.0,1,5.5,,,43.7112,2062.01,0.2665,21.916,piecewise,agreed,claude,43.711,2064.597,,1011.0,2235.1
+FC-2B,1,n2995,trace,11,1028,2219.5,1,7.0,,,46.6742,2118.414,0.2665,26.97,piecewise,agreed,claude,46.674,2119.753,,1028.0,2219.0
+FC-2B,1,n2995,trace,12,1039,2209.5,1,6.0,,,48.5911,2152.597,0.2652,23.496,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,13,1068,2183.5,1,5.0,,,53.6258,2241.473,0.2629,19.942,piecewise,agreed,claude,53.626,2249.675,,1068.0,2181.0
+FC-2B,1,n2995,trace,14,1088,2168.5,1,7.0,,,57.091,2292.745,0.2645,26.715,piecewise,agreed,claude,57.091,2291.006,,1088.0,2168.9
+FC-2B,1,n2995,trace,15,1096,2163.0,1,4.5,,,58.4768,2311.544,0.2629,18.127,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,16,1128,2139.5,1,6.0,,,64.0207,2391.867,0.2643,23.146,piecewise,agreed,claude,64.021,2397.830,,1128.0,2137.7
+FC-2B,1,n2995,trace,17,1148,2126.5,1,5.0,,,67.4844,2436.298,0.2639,19.657,piecewise,agreed,claude,67.484,2435.157,,1148.0,2126.8
+FC-2B,1,n2995,trace,18,1183,2102.5,1,5.0,,,73.5468,2518.326,0.2643,19.537,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,19,1188,2101.0,1,6.5,,,74.4115,2523.45,0.2654,24.666,piecewise,agreed,claude,74.412,2524.320,,1188.0,2100.7
+FC-2B,1,n2995,trace,20,1208,2089.5,1,6.0,,,77.8741,2562.752,0.2653,22.896,piecewise,agreed,claude,77.874,2558.529,,1208.0,2090.7
+FC-2B,1,n2995,trace,21,1243,2068.0,1,2.5,,,83.9345,2636.229,0.2634,10.804,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,22,1248,2066.5,1,5.0,,,84.7992,2641.353,0.2651,19.357,piecewise,agreed,claude,84.799,2638.027,,1248.0,2067.4
+FC-2B,1,n2995,trace,23,1268,2058.0,1,4.5,,,88.2597,2670.397,0.2651,17.602,piecewise,agreed,claude,88.260,2664.947,,1268.0,2059.5
+FC-2B,1,n2995,trace,24,1300,2040.0,1,3.5,,,93.7994,2731.909,0.2648,14.088,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,25,1308,2036.5,1,5.0,,,95.1837,2743.867,0.2659,19.207,piecewise,agreed,claude,95.184,2738.284,,1308.0,2038.1
+FC-2B,1,n2995,trace,26,1328,2029.5,1,4.0,,,98.6431,2767.781,0.2655,15.748,piecewise,agreed,claude,98.643,2766.380,,1328.0,2029.9
+FC-2B,1,n2995,trace,27,1357,2014.5,1,4.0,,,103.6636,2819.037,0.2654,15.673,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,28,1368,2010.5,1,6.0,,,105.567,2832.703,0.2667,22.501,piecewise,agreed,claude,105.567,2832.013,,1368.0,2010.7
+FC-2B,1,n2995,trace,29,1382,2006.0,1,4.5,,,107.9892,2848.074,0.2655,17.342,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,30,1420,1988.5,1,3.0,,,114.5678,2907.867,0.264,12.119,piecewise,agreed,claude,114.568,2907.816,,1420.0,1988.5
+FC-2B,1,n2995,trace,31,1428,1987.0,1,4.5,,,115.9513,2912.988,0.265,17.247,piecewise,agreed,claude,115.951,2911.225,,1428.0,1987.5
+FC-2B,1,n2995,trace,32,1448,1979.5,1,6.0,,,119.4128,2938.609,0.2659,22.346,piecewise,agreed,claude,119.413,2939.714,,1448.0,1979.2
+FC-2B,1,n2995,trace,33,1468,1971.5,1,6.0,,,122.8748,2965.94,0.2657,22.305,piecewise,agreed,claude,122.875,2969.343,,1468.0,1970.5
+FC-2B,1,n2995,trace,34,1488,1964.5,1,6.0,,on a horizontal gridline,126.3363,2989.851,0.2655,22.27,piecewise,agreed,claude,126.336,2992.132,,1488.0,1963.8
+FC-2B,1,n2995,trace,35,1534,1948.5,1,5.0,,,134.2981,3044.271,0.2643,18.746,piecewise,agreed,claude,134.298,3045.352,,1534.0,1948.2
+FC-2B,1,n2995,trace,36,1548,1944.5,1,6.0,,,136.7207,3057.86,0.265,22.158,piecewise,agreed,claude,136.721,3060.169,,1548.0,1943.8
+FC-2B,1,n2995,trace,37,1568,1937.5,1,6.0,,,140.1827,3081.646,0.2648,22.174,piecewise,agreed,claude,140.183,3079.996,,1568.0,1938.0
+FC-2B,1,n2995,trace,38,1588,1932.0,1,3.5,,,143.6436,3100.331,0.2626,13.678,piecewise,agreed,claude,143.644,3100.406,,1588.0,1932.0
+FC-2B,1,n2995,trace,39,1608,1925.5,1,6.0,,,147.1055,3122.416,0.2644,22.2,piecewise,agreed,claude,147.106,3124.181,,1608.0,1925.0
+FC-2B,1,n2995,trace,40,1637,1916.5,1,6.0,,,152.1167,3152.995,0.2664,22.22,piecewise,agreed,claude,152.117,3155.070,,1637.0,1915.9
+FC-2B,1,n2995,trace,41,1648,1913.5,1,6.0,,,154.0129,3163.187,0.269,22.227,piecewise,agreed,claude,154.013,3165.824,,1648.0,1912.7
+FC-2B,1,n2995,trace,42,1668,1906.5,1,5.0,,,157.4616,3186.973,0.273,18.839,piecewise,agreed,claude,157.462,3185.930,,1668.0,1906.8
+FC-2B,1,n2995,trace,72,1678,1903.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,159.1802,3197.22,0.2813,56.296,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2995,trace,44,1711,1894.0,1,2,,,164.8738,3229.441,0.2809,8.658,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,45,1728,1889.5,1,6.0,,,167.8037,3244.728,0.288,22.28,piecewise,agreed,claude,167.804,3244.346,,1728.0,1889.6
+FC-2B,1,n2995,trace,46,1748,1884.5,1,6.0,,,171.2502,3261.713,0.2927,22.291,piecewise,agreed,claude,171.250,3259.975,,1748.0,1885.0
+FC-2B,1,n2995,trace,47,1768,1888.5,1,2,,,174.6901,3248.09,0.2945,8.67,piecewise,agreed,claude,174.690,3248.164,,1768.0,1888.5
+FC-2B,1,n2995,trace,48,1788,1877.5,1,6.0,,,178.1409,3285.48,0.3022,22.307,piecewise,agreed,claude,178.141,3286.702,,1788.0,1877.2
+FC-2B,1,n2995,trace,49,1808,1874.5,1,6.0,,,181.5858,3295.663,0.307,22.314,piecewise,agreed,claude,181.586,3295.442,,1808.0,1874.6
+FC-2B,1,n2995,trace,50,1828,1871.5,1,6.0,,,185.0306,3305.846,0.3117,22.32,piecewise,agreed,claude,185.031,3306.789,,1828.0,1871.2
+FC-2B,1,n2995,trace,51,1848,1868.5,1,6.0,,,188.4753,3316.03,0.3164,22.327,piecewise,agreed,claude,188.475,3316.118,,1848.0,1868.5
+FC-2B,1,n2995,trace,52,1868,1866.5,1,6.0,,,191.9193,3322.812,0.3212,22.331,piecewise,agreed,claude,191.919,3321.780,,1868.0,1866.8
+FC-2B,1,n2995,trace,53,1888,1865.5,1,6.0,,,195.3625,3326.193,0.3259,22.334,piecewise,agreed,claude,195.363,3326.290,,1888.0,1865.5
+FC-2B,1,n2995,trace,54,1902,1865.5,1,6.0,,,197.7723,3326.18,0.3292,22.334,piecewise,agreed,claude,197.772,3332.466,,1902.0,1863.7
+FC-2B,1,n2995,trace,91,1905,1863.0,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,198.2883,3334.779,0.3186,56.393,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2995,trace,94,1942,1861.0,1,4.5,,visible author-line ink; column displaced from vertical grid,204.5783,3341.551,0.3043,17.261,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2995,trace,56,1948,1861.5,1,7.0,,,205.5948,3339.739,0.3193,25.746,piecewise,agreed,claude,205.595,3340.695,,1948.0,1861.3
+FC-2B,1,n2995,trace,57,1968,1860.0,1,5.5,,,208.979,3344.821,0.3136,20.644,piecewise,agreed,claude,208.979,3346.632,,1968.0,1859.5
+FC-2B,1,n2995,trace,58,1988,1859.5,1,6.0,,,212.3625,3346.502,0.3091,22.347,piecewise,agreed,claude,212.363,3346.617,,1988.0,1859.5
+FC-2B,1,n2995,trace,59,2008,1859.5,1,6.0,,,215.7458,3346.483,0.3043,22.347,piecewise,agreed,claude,215.746,3346.600,,2008.0,1859.5
+FC-2B,1,n2995,trace,60,2022,1858.5,1,5.0,,,218.1146,3349.87,0.3005,18.946,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,61,2060,1858.0,1,4.5,,,224.5429,3351.534,0.2912,17.246,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,62,2068,1858.5,1,5.0,,,225.896,3349.825,0.2895,18.946,piecewise,agreed,claude,225.896,3349.955,,2068.0,1858.5
+FC-2B,1,n2995,trace,63,2088,1859.5,1,6.0,,,229.2788,3346.405,0.2852,22.347,piecewise,agreed,claude,229.279,3349.371,,2088.0,1858.7
+FC-2B,1,n2995,trace,64,2108,1859.5,1,6.0,,,232.662,3346.386,0.2804,22.347,piecewise,agreed,claude,232.662,3346.522,,2108.0,1859.5
+FC-2B,1,n2995,trace,65,2128,1859.5,1,6.0,,,236.0453,3346.366,0.2756,22.347,piecewise,agreed,claude,236.045,3345.721,,2128.0,1859.7
+FC-2B,1,n2995,trace,66,2136,1861.0,1,2,,,237.398,3341.257,0.2722,8.731,piecewise,one-sided,claude,,,,,
+FC-2B,1,n2995,trace,113,2175,1863.0,1,1,,visible author-line ink; column displaced from vertical grid,243.9948,3334.568,0.2756,5.345,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2995,trace,114,2183,1861.5,1,5.0,,visible author-line ink; column displaced from vertical grid,245.3487,3339.662,0.2759,18.961,piecewise,one-sided,codex,,,,,
+FC-2B,1,n2995,trace,68,2188,1861.5,1,5.0,,,246.1945,3339.506,0.261,18.94,piecewise,agreed,claude,246.195,3339.658,,2188.0,1861.5
+FC-2B,1,n2995,trace,69,2202,1863.5,1,6.0,,,248.5622,3332.69,0.258,22.338,piecewise,one-sided-verified,claude,248.562,3335.682,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 063 (Claude's adjudicator: all yes; Codex's: all yes)",2202.0,1862.7
+FC-2B,1,n2995,trace,116,2204,1863.0,1,5.5,,visible author-line ink; column displaced from vertical grid,248.9009,3334.545,0.2735,20.658,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 064 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-2B,1,n3660,feature,1,820,2491,6,6,,first curve; initial branch doubles back left,10.3929,1178.543,1.1317,23.085,piecewise,resolved,codex,10.0082,1080.004,"decision made on codex 1, carried to its pair claude 1; the codex reading is on the feature; credit codex (blind adjudication item 065 (Claude's adjudicator: q; Codex's: q))",818,2520
+FC-2B,1,n3660,feature,2,2052,1680.0,70.0,5.5,,peak of the drawn line (plateau within 3 px from u=2024 to u=2164); u bound is half the plateau width,223.2753,3956.915,11.9676,21.105,piecewise,agreed,claude,229.6919,3963.763,,2090,1678
+FC-2B,1,n3660,feature,3,2190,1688.5,4,3,,last sampled point of the drawn line (line runs to the right frame),246.5888,3927.881,0.7671,12.519,piecewise,resolved,claude,249.964,3922.851,"decision made on codex 3, carried to its pair claude 3; second round: the claude reading is on the feature; credit claude (blind adjudication item 066 (Claude's adjudicator: q; Codex's: q))",2210,1690
+FC-2B,1,n3660,marker,1,823,2497,6,6,x,first x inferred under the first asterisk of n4400; not separable from it,10.8919,1159.587,1.1463,26.743,piecewise,agreed,claude,10.3929,1178.543,,820,2491
+FC-2B,1,n3660,marker,2,855,2326,2,2,x,,16.5646,1751.365,0.447,10.956,piecewise,agreed,claude,16.2271,1743.621,,853,2328
+FC-2B,1,n3660,marker,3,932,2220,2,2,x,,30.0062,2116.778,0.4424,9.853,piecewise,agreed,claude,29.6629,2112.973,,930,2221
+FC-2B,1,n3660,marker,4,1053,2093,4,3,x,left half hidden by the x=50 gridline,51.0974,2550.923,0.7795,12.644,piecewise,agreed,claude,50.7529,2554.095,,1051,2092
+FC-2B,1,n3660,marker,5,1107,2037,2,2,x,,60.4639,2742.347,0.434,8.939,piecewise,agreed,claude,60.1196,2738.747,,1105,2038
+FC-2B,1,n3660,marker,6,1168,1999,2,2,x,,71.0267,2872.215,0.4348,8.749,piecewise,agreed,claude,70.6857,2878.931,,1166,1997
+FC-2B,1,n3660,marker,7,1230,1957,2,3,x,on the 3000 gridline,81.7647,3015.669,0.4363,11.922,piecewise,agreed,claude,81.5974,3022.407,,1229,1955
+FC-2B,1,n3660,marker,8,1400,1871,2,2,x,,111.1951,3307.963,0.4365,8.71,piecewise,agreed,claude,110.1609,3307.97,,1394,1871
+FC-2B,1,n3660,marker,9,1463,1844,2,2,x,,122.1053,3399.723,0.4358,8.769,piecewise,agreed,claude,121.7588,3392.942,,1461,1846
+FC-2B,1,n3660,marker,10,1575,1798,2,2,x,,141.5039,3556.052,0.4345,8.871,piecewise,agreed,claude,141.1547,3552.697,,1573,1799
+FC-2B,1,n3660,marker,11,1685,1764,2,2,x,,160.5,3671.577,0.447,8.946,piecewise,agreed,claude,160.1522,3671.639,,1683,1764
+FC-2B,1,n3660,marker,12,1800,1729,2,2,x,,180.3131,3790.5,0.4745,9.024,piecewise,agreed,claude,179.7921,3787.173,,1797,1730
+FC-2B,1,n3660,marker,13,1915,1699,3,2,x,on the x=200 gridline,200.1161,3892.422,0.6703,9.091,piecewise,agreed,claude,199.768,3889.099,,1913,1700
+FC-2B,1,n3660,marker,14,2090,1678,2,2,x,,229.6966,3963.683,0.4517,9.137,piecewise,agreed,claude,229.354,3963.764,,2088,1678
+FC-2B,1,n3660,marker,15,2208,1690,6,3,x,symbol on the right frame (x about 250); doubles as legend key,249.6298,3922.763,1.1027,12.517,piecewise extrapolated x,agreed,claude,249.2879,3919.454,,2206,1691
+FC-2B,1,n3660,trace,1,820,2482,4,4,,by-eye initial bend; drawing order preserved,10.3988,1209.744,0.7834,16.191,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 068 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-2B,1,n3660,trace,2,816,2470,4,4,,by-eye initial bend; drawing order preserved,9.7127,1251.347,0.7834,16.259,piecewise,one-sided,codex,,,,,
+FC-2B,1,n3660,trace,1,823.5,2475,7.0,1,,row sample on the near-vertical start of the curve; u bound is half the run width,10.9938,1235.727,1.3165,9.143,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 064 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-2B,1,n3660,trace,2,821.0,2450,4.5,1,,row sample on the near-vertical start of the curve; u bound is half the run width,10.5769,1322.26,0.8825,8.858,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 064 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-2B,1,n3660,trace,3,842.0,2350,4.5,1,,row sample on the near-vertical start of the curve; u bound is half the run width,14.2912,1668.317,0.8813,7.753,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,4,837,2368.0,1,6.5,,,13.4108,1606.026,0.2775,27.041,piecewise,agreed,claude,13.411,1650.979,,836.9,2354.7
+FC-2B,1,n3660,trace,5,842,2353.0,1,11.5,,thick run: curve merged with a gridline or another curve,14.2891,1657.933,0.2806,44.238,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,6,868,2300.5,1,10.0,,thick run: curve merged with a gridline or another curve,18.8392,1839.614,0.2781,38.455,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,7,888,2269.0,1,6.5,,,22.3332,1948.634,0.2745,25.956,piecewise,agreed,claude,22.333,1945.129,,888.0,2269.9
+FC-2B,1,n3660,trace,8,908,2251.5,1,6.0,,on a horizontal gridline,25.8176,2009.088,0.2729,23.915,piecewise,agreed,claude,25.818,1995.638,,908.0,2255.3
+FC-2B,1,n3660,trace,9,916,2239.5,1,3.0,,,27.2148,2050.114,0.2704,13.374,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,10,948,2195.0,1,4.5,,,32.8015,2202.248,0.2695,18.288,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,11,968,2174.0,1,7.5,,,36.2885,2274.037,0.2704,28.456,piecewise,agreed,claude,36.288,2273.213,,968.0,2174.1
+FC-2B,1,n3660,trace,12,988,2152.0,1,6.5,,,39.7763,2349.244,0.2685,24.921,piecewise,agreed,claude,39.776,2346.479,,988.0,2152.7
+FC-2B,1,n3660,trace,13,1008,2131.5,1,6.0,,,43.263,2419.322,0.267,23.107,piecewise,agreed,claude,43.263,2417.302,,1008.0,2132.0
+FC-2B,1,n3660,trace,14,1028,2112.0,1,7.5,,,46.7491,2485.98,0.2669,28.146,piecewise,agreed,claude,46.749,2484.125,,1028.0,2112.5
+FC-2B,1,n3660,trace,15,1039,2106.0,1,2,,,48.6632,2506.486,0.2624,9.282,piecewise,agreed,claude,48.663,2504.511,,1039.0,2106.5
+FC-2B,1,n3660,trace,16,1068,2074.0,1,6.5,,,53.7017,2615.874,0.2639,24.531,piecewise,agreed,claude,53.702,2606.481,,1068.0,2076.7
+FC-2B,1,n3660,trace,17,1088,2055.0,1,7.5,,,57.1695,2680.82,0.2648,27.86,piecewise,agreed,claude,57.169,2677.466,,1088.0,2055.9
+FC-2B,1,n3660,trace,18,1123,2023.5,1,4.0,,,63.2369,2788.49,0.2629,15.719,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,19,1128,2022.0,1,6.5,,,64.1016,2793.614,0.2647,24.271,piecewise,agreed,claude,64.102,2796.399,,1128.0,2021.1
+FC-2B,1,n3660,trace,20,1148,2005.5,1,5.0,,,67.5676,2850.01,0.2639,19.053,piecewise,agreed,claude,67.568,2847.416,,1148.0,2006.2
+FC-2B,1,n3660,trace,21,1183,1984.0,1,4.5,,,73.628,2923.487,0.264,17.233,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,22,1188,1980.0,1,5.5,,,74.4944,2937.158,0.2647,20.637,piecewise,agreed,claude,74.494,2935.731,,1188.0,1980.4
+FC-2B,1,n3660,trace,23,1208,1967.0,1,7.5,,on a horizontal gridline,77.9578,2981.586,0.2663,27.42,piecewise,agreed,claude,77.958,2979.471,,1208.0,1967.6
+FC-2B,1,n3660,trace,24,1248,1944.5,1,6.0,,,84.8823,3058.16,0.2658,22.158,piecewise,agreed,claude,84.882,3058.497,,1248.0,1944.4
+FC-2B,1,n3660,trace,25,1268,1934.5,1,6.0,,,88.3437,3092.147,0.2661,22.18,piecewise,agreed,claude,88.344,3090.214,,1268.0,1935.1
+FC-2B,1,n3660,trace,26,1288,1923.5,1,6.0,,,91.8057,3129.535,0.2663,22.204,piecewise,agreed,claude,91.806,3125.780,,1288.0,1924.6
+FC-2B,1,n3660,trace,27,1308,1915.0,1,7.5,,,95.2659,3158.421,0.2676,27.327,piecewise,agreed,claude,95.266,3160.896,,1308.0,1914.3
+FC-2B,1,n3660,trace,28,1328,1904.5,1,6.0,,,98.7276,3194.109,0.2668,22.246,piecewise,agreed,claude,98.728,3192.340,,1328.0,1905.0
+FC-2B,1,n3660,trace,29,1348,1893.5,1,6.0,,,102.1911,3231.498,0.267,22.271,piecewise,agreed,claude,102.191,3227.120,,1348.0,1894.8
+FC-2B,1,n3660,trace,30,1368,1885.5,1,7.0,,,105.6536,3258.684,0.2675,25.691,piecewise,agreed,claude,105.654,3259.913,,1368.0,1885.1
+FC-2B,1,n3660,trace,31,1382,1880.0,1,4.5,,,108.0773,3277.374,0.2656,17.196,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,32,1414,1867.5,1,7.0,,,113.6177,3319.852,0.2671,25.731,piecewise,agreed,claude,113.618,3321.254,,1414.0,1867.1
+FC-2B,1,n3660,trace,33,1428,1860.0,1,5.5,,,116.0432,3345.345,0.2658,20.643,piecewise,agreed,claude,116.043,3341.553,,1428.0,1861.1
+FC-2B,1,n3660,trace,34,1445,1855.0,1,2,,,118.9855,3362.332,0.2631,8.744,piecewise,agreed,claude,118.986,3361.704,,1445.0,1855.2
+FC-2B,1,n3660,trace,35,1480,1839.0,1,5.5,,,125.0479,3416.71,0.2653,20.69,piecewise,agreed,claude,125.048,3416.733,,1480.0,1839.0
+FC-2B,1,n3660,trace,36,1488,1835.5,1,6.0,,,126.4336,3428.606,0.2656,22.399,piecewise,agreed,claude,126.434,3428.632,,1488.0,1835.5
+FC-2B,1,n3660,trace,37,1508,1827.5,1,6.0,,,129.8972,3455.793,0.2654,22.417,piecewise,agreed,claude,129.897,3455.970,,1508.0,1827.5
+FC-2B,1,n3660,trace,38,1528,1820.5,1,6.0,,,133.3603,3479.579,0.2652,22.432,piecewise,agreed,claude,133.360,3481.745,,1528.0,1819.9
+FC-2B,1,n3660,trace,39,1548,1812.0,1,5.5,,,136.8247,3508.467,0.2647,20.75,piecewise,agreed,claude,136.825,3509.291,,1548.0,1811.8
+FC-2B,1,n3660,trace,40,1559,1809.0,1,3.5,,,138.7288,3518.659,0.263,13.95,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,41,1594,1795.0,1,2,,,144.7914,3566.237,0.2614,8.877,piecewise,agreed,claude,144.791,3567.437,,1594.0,1794.7
+FC-2B,1,n3660,trace,42,1608,1790.5,1,6.0,,,147.2156,3581.527,0.2645,22.499,piecewise,agreed,claude,147.216,3582.871,,1608.0,1790.1
+FC-2B,1,n3660,trace,43,1637,1780.5,1,7.0,,,152.2273,3615.508,0.2673,25.924,piecewise,agreed,claude,152.227,3615.928,,1637.0,1780.4
+FC-2B,1,n3660,trace,44,1648,1776.0,1,5.5,,,154.1238,3630.801,0.2687,20.83,piecewise,agreed,claude,154.124,3629.841,,1648.0,1776.3
+FC-2B,1,n3660,trace,45,1668,1773.0,1,2,,,157.5677,3640.985,0.2706,8.926,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,46,1711,1755.0,1,3.5,,,164.9807,3702.16,0.2821,14.07,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,47,1728,1750.5,1,7.0,,,167.9092,3717.448,0.2888,25.991,piecewise,agreed,claude,167.909,3718.392,,1728.0,1750.2
+FC-2B,1,n3660,trace,48,1748,1744.5,1,7.0,,,171.355,3737.835,0.2935,26.004,piecewise,agreed,claude,171.355,3738.909,,1748.0,1744.2
+FC-2B,1,n3660,trace,49,1768,1737.0,1,6.5,,,174.8016,3763.323,0.2979,24.319,piecewise,agreed,claude,174.802,3758.751,,1768.0,1738.4
+FC-2B,1,n3660,trace,50,1776,1737.0,1,2,,,176.1781,3763.315,0.2965,9.005,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,51,1828,1721.5,1,6.0,,,185.1357,3815.981,0.3117,22.652,piecewise,agreed,claude,185.136,3817.339,,1828.0,1721.1
+FC-2B,1,n3660,trace,52,1848,1715.5,1,6.0,,,188.5807,3836.368,0.3164,22.665,piecewise,agreed,claude,188.581,3833.504,,1848.0,1716.4
+FC-2B,1,n3660,trace,53,1868,1710.5,1,6.0,,,192.0249,3853.354,0.3212,22.676,piecewise,agreed,claude,192.025,3854.301,,1868.0,1710.2
+FC-2B,1,n3660,trace,54,1888,1706.5,1,6.0,,,195.4684,3866.94,0.3259,22.685,piecewise,agreed,claude,195.468,3870.292,,1888.0,1705.5
+FC-2B,1,n3660,trace,55,1896,1704.0,1,5.5,,,196.8463,3875.435,0.3274,20.989,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,56,1940,1695.0,1,5.5,,,204.343,3906.003,0.3198,21.009,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,57,1948,1693.5,1,5.0,,,205.6957,3911.097,0.3176,19.311,piecewise,agreed,claude,205.696,3909.766,,1948.0,1693.9
+FC-2B,1,n3660,trace,58,1968,1690.5,1,5.0,,,209.0769,3921.281,0.3128,19.318,piecewise,agreed,claude,209.077,3920.107,,1968.0,1690.9
+FC-2B,1,n3660,trace,59,1988,1687.5,1,5.0,,,212.4579,3931.466,0.3081,19.324,piecewise,agreed,claude,212.458,3931.132,,1988.0,1687.6
+FC-2B,1,n3660,trace,60,2008,1685.5,1,6.0,,,215.8383,3938.25,0.3038,22.732,piecewise,agreed,claude,215.838,3938.328,,2008.0,1685.5
+FC-2B,1,n3660,trace,61,2028,1682.5,1,6.0,,,219.2191,3948.435,0.2991,22.739,piecewise,agreed,claude,219.219,3947.242,,2028.0,1682.9
+FC-2B,1,n3660,trace,62,2048,1681.5,1,5.0,,,222.5988,3951.817,0.2938,19.338,piecewise,agreed,claude,222.599,3951.621,,2048.0,1681.6
+FC-2B,1,n3660,trace,63,2068,1682.5,1,3.0,,,225.9775,3948.398,0.2881,12.529,piecewise,one-sided,claude,,,,,
+FC-2B,1,n3660,trace,64,2117,1680.0,1,5.5,,,234.2576,3956.856,0.2776,21.043,piecewise,agreed,claude,234.258,3956.937,,2117.0,1680.0
+FC-2B,1,n3660,trace,65,2128,1680.5,1,6.0,,,236.116,3955.146,0.2752,22.743,piecewise,agreed,claude,236.116,3952.331,,2128.0,1681.4
+FC-2B,1,n3660,trace,66,2148,1682.5,1,6.0,,,239.4944,3948.325,0.2704,22.739,piecewise,agreed,claude,239.494,3947.981,,2148.0,1682.6
+FC-2B,1,n3660,trace,67,2168,1684.5,1,5.0,,,242.8729,3941.505,0.2653,19.331,piecewise,agreed,claude,242.873,3942.006,,2168.0,1684.4
+FC-2B,1,n3660,trace,68,2188,1688.0,1,4.5,,,246.2511,3929.584,0.2604,17.622,piecewise,one-sided-verified,claude,246.251,3927.971,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 065 (Claude's adjudicator: all yes; Codex's: all yes)",2188.0,1688.5
+FC-2B,1,n3660,trace,121,2191,1688.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,246.7539,3927.968,0.2779,56.815,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 069 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-2B,1,n4400,feature,1,814,2312,5,5,,first visible curve / first symbol,9.4696,1799.112,0.9578,20.629,piecewise,resolved,codex,8.9631,1062.724,"decision made on codex 1, carried to its pair claude 1; the codex reading is on the feature; credit codex (blind adjudication item 070 (Claude's adjudicator: q; Codex's: q))",812,2525
+FC-2B,1,n4400,feature,2,2160,1500.0,49.0,5.5,,peak of the drawn line (plateau within 3 px from u=2104 to u=2202); u bound is half the plateau width,241.5871,4576.299,8.3785,21.49,piecewise,agreed,claude,244.954,4576.394,,2180,1500
+FC-2B,1,n4400,feature,3,2202,1501.0,4,4.5,,last sampled point of the drawn line (line runs to the right frame),248.6745,4572.848,0.7637,18.039,piecewise,agreed,claude,250.3543,4576.387,,2212,1500
+FC-2B,1,n4400,marker,2,816,2312,2,2,asterisk,,9.8032,1799.882,0.4493,10.8,piecewise,agreed,claude,9.6438,1802.578,,815,2311
+FC-2B,1,n4400,marker,3,930,2079,2,2,asterisk,,29.7564,2598.902,0.4425,9.149,piecewise,agreed,claude,29.7618,2605.486,,930,2077
+FC-2B,1,n4400,marker,4,990,2004,2,2,asterisk,,40.2263,2855.292,0.439,8.774,piecewise,agreed,claude,40.4033,2858.538,,991,2003
+FC-2B,1,n4400,marker,5,1106,1893,2,2,asterisk,,60.3906,3233.435,0.434,8.661,piecewise,agreed,claude,60.5693,3243.571,,1107,1890
+FC-2B,1,n4400,marker,6,1167,1839,2,2,asterisk,,70.9638,3417.012,0.4348,8.78,piecewise,agreed,claude,71.142,3420.382,,1168,1838
+FC-2B,1,n4400,marker,7,1225,1792,2,2,asterisk,,81.0137,3576.788,0.4355,8.884,piecewise,agreed,claude,81.0197,3580.188,,1225,1791
+FC-2B,1,n4400,marker,8,1282,1758,2,2,asterisk,,90.8816,3692.359,0.4362,8.96,piecewise,agreed,claude,90.7151,3695.779,,1281,1757
+FC-2B,1,n4400,marker,9,1334,1730,3,2,asterisk,on the x=100 gridline,99.8818,3787.53,0.6102,9.022,piecewise,agreed,claude,99.7165,3797.767,,1333,1727
+FC-2B,1,n4400,marker,10,1452,1670,2,3,asterisk,on the 4000 gridline,120.3318,3991.467,0.4369,12.604,piecewise,agreed,claude,120.3366,4001.746,,1452,1667
+FC-2B,1,n4400,marker,11,1517,1643,2,2,asterisk,,131.5952,4084.232,0.4354,9.289,piecewise,agreed,claude,131.4258,4094.632,,1516,1640
+FC-2B,1,n4400,marker,12,1575,1619,2,2,asterisk,,141.647,4166.793,0.4347,9.311,piecewise,agreed,claude,141.6489,4173.764,,1575,1617
+FC-2B,1,n4400,marker,13,1690,1581,2,2,asterisk,,161.5033,4297.528,0.4481,9.346,piecewise,agreed,claude,161.3311,4304.518,,1689,1579
+FC-2B,1,n4400,marker,14,1798,1552,2,2,asterisk,,180.096,4397.319,0.4739,9.374,piecewise,agreed,claude,180.2643,4404.316,,1799,1550
+FC-2B,1,n4400,marker,15,1973,1514,2,2,asterisk,,210.0224,4528.115,0.4784,9.41,piecewise,agreed,claude,210.1833,4535.115,,1974,1512
+FC-2B,1,n4400,marker,16,2221,1501,8,3,asterisk,symbol at/just beyond the right frame (x about 252); doubles as legend key; may be the x=250 reading,251.8808,4572.845,1.4511,12.872,piecewise extrapolated x,agreed,claude,251.7046,4579.83,,2220,1499
+FC-2B,1,n4400,trace,2,827,2281.0,1,14.5,,visible author-line ink; column displaced from vertical grid,11.7461,1906.576,0.2699,53.791,piecewise,resolved,codex,,,the codex reading is on the drawn line; credit codex (blind adjudication item 072 (Claude's adjudicator: q; Codex's: q)),,
+FC-2B,1,n4400,trace,4,828.5,2279.2,4.5,1,,row sample on the near-vertical start of the curve; u bound is half the run width,12.003,1912.715,0.270,53.791,piecewise,resolved,codex-interp,12.0034,1512.594,the codex reading is on the drawn line; credit codex (blind adjudication item 066 (Claude's adjudicator: p; Codex's: p)),829.0,2395
+FC-2B,1,n4400,trace,5,837,2252.5,1,11.0,,thick run: curve merged with a gridline or another curve,13.4899,2005.721,0.2806,41.324,piecewise,agreed,claude,13.490,1948.184,,837.0,2269.0
+FC-2B,1,n4400,trace,6,845,2231.5,1,11.0,,thick run: curve merged with a gridline or another curve,14.8933,2077.522,0.2801,40.729,piecewise,agreed,claude,14.893,2010.530,,845.0,2251.0
+FC-2B,1,n4400,trace,7,862,2192.5,1,10.0,,thick run: curve merged with a gridline or another curve,17.8716,2210.865,0.2784,37.11,piecewise,agreed,claude,17.872,2206.904,,862.0,2193.6
+FC-2B,1,n4400,trace,8,882,2152.0,1,8.5,,thick run: curve merged with a gridline or another curve,21.372,2349.333,0.2762,31.771,piecewise,agreed,claude,21.372,2343.389,,882.0,2153.6
+FC-2B,1,n4400,trace,9,902,2117.5,1,10.0,,thick run: curve merged with a gridline or another curve,24.8683,2467.283,0.276,36.735,piecewise,agreed,claude,24.868,2460.456,,902.0,2119.4
+FC-2B,1,n4400,trace,10,916,2096.5,1,8.0,,,27.3135,2539.077,0.2738,29.781,piecewise,agreed,claude,27.314,2535.259,,916.0,2097.5
+FC-2B,1,n4400,trace,11,942,2062.5,1,6.0,,,31.8514,2655.31,0.2709,22.762,piecewise,agreed,claude,31.851,2659.572,,942.0,2061.2
+FC-2B,1,n4400,trace,12,962,2039.5,1,8.0,,,35.3399,2733.935,0.2711,29.496,piecewise,agreed,claude,35.340,2734.782,,962.0,2039.2
+FC-2B,1,n4400,trace,13,976,2023.5,1,7.0,,,37.7819,2788.63,0.2696,25.992,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,14,1005,1988.5,1,6.0,,,42.8416,2908.276,0.2672,22.393,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,15,1022,1969.5,1,10.0,,thick run: curve merged with a gridline or another curve,45.8066,2973.225,0.2689,35.994,piecewise,agreed,claude,45.807,2966.230,,1022.0,1971.5
+FC-2B,1,n4400,trace,16,1039,1957.5,1,8.0,,on a horizontal gridline,48.7668,3014.161,0.2665,29.009,piecewise,agreed,claude,48.767,3017.395,,1039.0,1956.5
+FC-2B,1,n4400,trace,17,1062,1933.5,1,7.0,,,52.7626,3095.753,0.2642,25.585,piecewise,agreed,claude,52.763,3098.219,,1062.0,1932.7
+FC-2B,1,n4400,trace,18,1082,1915.0,1,7.5,,,56.23,3158.645,0.2648,27.327,piecewise,agreed,claude,56.230,3160.965,,1082.0,1914.3
+FC-2B,1,n4400,trace,19,1093,1904.5,1,6.0,,,58.1372,3194.341,0.2639,22.246,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,20,1122,1877.5,1,6.0,,,63.1648,3286.13,0.2642,22.306,piecewise,agreed,claude,63.165,3290.364,,1122.0,1876.2
+FC-2B,1,n4400,trace,21,1142,1861.5,1,7.0,,,66.6303,3340.521,0.2652,25.744,piecewise,agreed,claude,66.630,3343.918,,1142.0,1860.5
+FC-2B,1,n4400,trace,22,1153,1851.0,1,6.5,,,68.5375,3376.217,0.265,24.066,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,23,1182,1826.5,1,6.0,,,73.5632,3459.506,0.265,22.419,piecewise,agreed,claude,73.563,3462.296,,1182.0,1825.7
+FC-2B,1,n4400,trace,24,1202,1813.0,1,7.5,,,77.0268,3505.396,0.2663,27.553,piecewise,agreed,claude,77.027,3510.969,,1202.0,1811.4
+FC-2B,1,n4400,trace,25,1213,1803.0,1,6.5,,,78.9335,3539.392,0.2657,24.172,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,26,1242,1784.5,1,6.0,,,83.955,3602.277,0.2657,22.512,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,27,1262,1771.5,1,7.0,,,87.4182,3646.468,0.2667,25.943,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,28,1294,1750.5,1,4.0,,,92.9593,3717.853,0.265,15.781,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,29,1302,1746.0,1,6.5,,,94.3441,3733.148,0.2668,24.298,piecewise,agreed,claude,94.344,3734.159,,1302.0,1745.7
+FC-2B,1,n4400,trace,42,1307,1743.0,1,6.5,,visible author-line ink; column displaced from vertical grid,95.2152,3743.372,0.2746,24.357,piecewise,one-sided,codex,,,,,
+FC-2B,1,n4400,trace,31,1348,1720.5,1,5.0,,,102.3091,3819.824,0.2664,19.25,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,32,1362,1713.5,1,6.0,,,104.7351,3843.617,0.267,22.669,piecewise,agreed,claude,104.735,3840.215,,1362.0,1714.5
+FC-2B,1,n4400,trace,33,1382,1704.0,1,5.5,,,108.2006,3875.905,0.2664,20.988,piecewise,agreed,claude,108.201,3875.336,,1382.0,1704.2
+FC-2B,1,n4400,trace,34,1402,1693.5,1,5.0,,,111.667,3911.595,0.2659,19.31,piecewise,agreed,claude,111.667,3913.169,,1402.0,1693.1
+FC-2B,1,n4400,trace,35,1422,1684.5,1,5.0,,,115.1325,3942.183,0.2657,19.33,piecewise,agreed,claude,115.132,3943.707,,1422.0,1684.1
+FC-2B,1,n4400,trace,52,1423,1683.5,1,6.0,,visible author-line ink; column displaced from vertical grid,115.3094,3945.634,0.2725,22.799,piecewise,one-sided,codex,,,,,
+FC-2B,1,n4400,trace,37,1468,1666.0,1,4.5,,on a horizontal gridline,123.1022,4005.116,0.2648,17.872,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,38,1482,1657.0,1,4.5,,,125.5305,4036.078,0.2647,17.881,piecewise,agreed,claude,125.531,4032.684,,1482.0,1658.0
+FC-2B,1,n4400,trace,39,1502,1649.5,1,6.0,,,128.9956,4061.873,0.2656,23.052,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,40,1531,1636.0,1,4.5,,,134.0223,4108.313,0.2642,17.901,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,41,1542,1632.0,1,5.5,,,135.9282,4122.072,0.2649,21.348,piecewise,agreed,claude,135.928,4122.804,,1542.0,1631.8
+FC-2B,1,n4400,trace,42,1556,1628.5,1,3.0,,,138.3527,4134.108,0.2627,12.744,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,43,1602,1609.5,1,5.0,,,146.3255,4199.474,0.2639,19.648,piecewise,agreed,claude,146.326,4202.145,,1602.0,1608.8
+FC-2B,1,n4400,trace,44,1619,1604.5,1,6.0,,,149.2705,4216.674,0.2645,23.096,piecewise,agreed,claude,149.270,4219.423,,1619.0,1603.7
+FC-2B,1,n4400,trace,45,1642,1596.0,1,5.5,,,153.2371,4245.919,0.2673,21.383,piecewise,agreed,claude,153.237,4246.020,,1642.0,1596.0
+FC-2B,1,n4400,trace,46,1662,1590.0,1,5.5,,,156.6813,4266.561,0.272,21.389,piecewise,agreed,claude,156.681,4264.377,,1662.0,1590.7
+FC-2B,1,n4400,trace,47,1714,1574.5,1,6.0,,,165.6354,4319.893,0.2847,23.126,piecewise,agreed,claude,165.635,4320.010,,1714.0,1574.5
+FC-2B,1,n4400,trace,48,1722,1572.0,1,5.5,,,167.013,4328.495,0.2862,21.407,piecewise,agreed,claude,167.013,4326.896,,1722.0,1572.5
+FC-2B,1,n4400,trace,49,1742,1567.5,1,5.0,,,170.4555,4343.978,0.2906,19.69,piecewise,agreed,claude,170.456,4344.102,,1742.0,1567.5
+FC-2B,1,n4400,trace,50,1762,1561.5,1,5.0,,,173.899,4364.626,0.2953,19.696,piecewise,agreed,claude,173.899,4361.316,,1762.0,1562.5
+FC-2B,1,n4400,trace,51,1779,1558.0,1,4.5,,,176.8247,4376.669,0.299,17.977,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,52,1822,1545.5,1,3.0,,,184.2273,4419.69,0.3081,12.824,piecewise,agreed,claude,184.227,4421.528,,1822.0,1545.0
+FC-2B,1,n4400,trace,53,1842,1541.5,1,6.0,,,187.6688,4433.455,0.315,23.16,piecewise,agreed,claude,187.669,4430.788,,1842.0,1542.3
+FC-2B,1,n4400,trace,54,1862,1536.0,1,5.5,,,191.1114,4452.387,0.3194,21.443,piecewise,agreed,claude,191.111,4449.656,,1862.0,1536.8
+FC-2B,1,n4400,trace,55,1882,1531.5,1,5.0,,,194.5531,4467.875,0.3238,19.726,piecewise,agreed,claude,194.553,4464.588,,1882.0,1532.5
+FC-2B,1,n4400,trace,56,1902,1528.5,1,5.0,,,197.9937,4478.2,0.3285,19.729,piecewise,agreed,claude,197.994,4479.489,,1902.0,1528.2
+FC-2B,1,n4400,trace,57,1928,1523.5,1,6.0,,,202.4219,4495.411,0.3224,23.179,piecewise,agreed,claude,202.422,4494.182,,1928.1,1523.9
+FC-2B,1,n4400,trace,58,1942,1521.5,1,6.0,,,204.786,4502.294,0.3191,23.181,piecewise,agreed,claude,204.786,4504.150,,1942.1,1521.0
+FC-2B,1,n4400,trace,59,1956,1519.5,1,2,,,207.1501,4509.178,0.3134,9.405,piecewise,one-sided,claude,,,,,
+FC-2B,1,n4400,trace,100,2001,1513.0,1,4.5,,visible author-line ink; column displaced from vertical grid,214.7396,4531.663,0.2965,17.911,piecewise,one-sided,codex,,,,,
+FC-2B,1,n4400,trace,61,2002,1513.0,1,4.5,,,214.9172,4531.553,0.304,18.023,piecewise,agreed,claude,214.917,4532.081,,2002.1,1512.9
+FC-2B,1,n4400,trace,62,2022,1509.5,1,6.0,,,218.2943,4543.602,0.3,23.194,piecewise,agreed,claude,218.294,4542.601,,2022.1,1509.8
+FC-2B,1,n4400,trace,63,2042,1507.5,1,5.0,,,221.6706,4550.487,0.2948,19.752,piecewise,agreed,claude,221.671,4547.151,,2042.1,1508.5
+FC-2B,1,n4400,trace,64,2062,1506.0,1,5.5,,,225.0465,4555.649,0.2903,21.476,piecewise,agreed,claude,225.047,4557.478,,2062.0,1505.5
+FC-2B,1,n4400,trace,65,2082,1505.5,1,6.0,,,228.4219,4557.368,0.2857,23.2,piecewise,agreed,claude,228.422,4545.907,,2082.1,1508.9
+FC-2B,1,n4400,trace,66,2102,1504.0,1,4.5,,,231.7977,4562.531,0.2803,18.034,piecewise,agreed,claude,231.798,4550.298,,2102.1,1507.6
+FC-2B,1,n4400,trace,67,2122,1502.5,1,6.0,,,235.1735,4567.694,0.2762,23.204,piecewise,agreed,claude,235.173,4567.797,,2122.0,1502.5
+FC-2B,1,n4400,trace,68,2142,1501.5,1,5.0,,,238.549,4571.135,0.2711,19.76,piecewise,agreed,claude,238.549,4570.102,,2142.1,1501.8
+FC-2B,1,n4400,trace,69,2162,1500.0,1,5.5,,,241.9246,4576.299,0.2665,21.484,piecewise,agreed,claude,241.925,4572.570,,2162.1,1501.1
+FC-2B,1,n4400,trace,70,2182,1501.5,1,5.0,,,245.2992,4571.129,0.2616,19.761,piecewise,agreed,claude,245.299,4571.227,,2182.0,1501.5
+FC-2B,1,n4400,trace,71,2202,1501.0,1,4.5,,,248.6745,4572.848,0.2567,18.039,piecewise,one-sided-verified,claude,248.674,4572.762,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 068 (Claude's adjudicator: all yes; Codex's: all yes)",2202.0,1501.1
+FC-2B,1,n4400,trace,117,2203,1501.0,1,4.5,,visible author-line ink; column displaced from vertical grid,248.8352,4572.944,0.2726,17.912,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 074 (Claude's adjudicator: some; Codex's: some) (corrected 2026-11-07, D-039: the `some` comment named this sample on the line)",,
+FC-2B,1,n734,feature,1,812,2753,4,5,,first point of the drawn line; solid line starts at the first dot,8.8073,278.187,0.7989,21.336,piecewise,agreed,claude,9.5279,284.536,,816,2751
+FC-2B,1,n734,feature,2,2078,2524.0,103.0,3,,peak of the drawn line (plateau within 3 px from u=1872 to u=2078); u bound is half the plateau width,227.2852,1060.981,46.984,17.126,piecewise,agreed,claude,181.4612,1032.912,rule: peak compared in y only; x bound widened from 17.645 to cover the other reading's x 181.461 +- 1.160,1810,2533
+FC-2B,1,n734,feature,3,2202,2537.5,4,8.0,,last sampled point of the drawn line (line runs to the right frame),248.3519,1013.514,0.7706,34.097,piecewise,agreed,claude,250.0684,1032.902,,2212,2533
+FC-2B,1,n734,marker,1,817,2750,3,3,circle,filled dot; all n734 markers are filled dots on a solid line,9.6773,288.497,0.6236,14.467,piecewise,agreed,claude,9.702,287.968,,817,2750
+FC-2B,1,n734,marker,2,868,2723,3,3,circle,filled dot,18.5489,381.263,0.6206,14.757,piecewise,agreed,claude,18.564,373.746,,868,2725
+FC-2B,1,n734,marker,3,938,2691,3,3,circle,filled dot,30.7224,491.136,0.6165,15.1,piecewise,agreed,claude,30.7255,476.682,,938,2695
+FC-2B,1,n734,marker,4,997,2671,3,3,circle,filled dot,40.9783,559.736,0.613,15.314,piecewise,agreed,claude,40.6268,548.738,,995,2674
+FC-2B,1,n734,marker,5,1051,2655,3,3,circle,filled dot; on the x=50 gridline,50.3619,614.575,0.608,15.484,piecewise,agreed,claude,49.832,607.071,,1048,2657
+FC-2B,1,n734,marker,6,1112,2638,3,3,circle,filled dot,60.9128,672.804,0.6076,15.664,piecewise,agreed,claude,60.0409,665.404,,1107,2640
+FC-2B,1,n734,marker,7,1171,2617,3,3,circle,filled dot,71.1208,744.748,0.6084,15.887,piecewise,agreed,claude,70.9444,744.33,,1170,2617
+FC-2B,1,n734,marker,8,1224,2599,3,3,circle,filled dot,80.29,806.378,0.6091,16.079,piecewise,agreed,claude,80.2888,806.1,,1224,2599
+FC-2B,1,n734,marker,9,1282,2588,3,3,circle,filled dot,90.3181,843.934,0.6098,16.194,piecewise,agreed,claude,90.1466,843.848,,1281,2588
+FC-2B,1,n734,marker,10,1340,2572,3,3,circle,filled dot; on the x=100 gridline,100.349,898.632,0.6099,16.363,piecewise,agreed,claude,100.3518,895.325,,1340,2573
+FC-2B,1,n734,marker,11,1397,2561,3,3,circle,filled dot,110.1893,936.154,0.6089,16.477,piecewise,agreed,claude,109.8422,929.644,,1395,2563
+FC-2B,1,n734,marker,12,1453,2555,3,4,circle,filled dot; merged with the 1000 gridline,119.8541,956.51,0.609,19.979,piecewise,agreed,claude,120.5372,950.235,,1457,2557
+FC-2B,1,n734,marker,13,1518,2552,3,4,circle,filled dot; merged with the 1000 gridline,131.0695,966.531,0.6083,20.005,piecewise,agreed,claude,130.5467,987.988,,1515,2546
+FC-2B,1,n734,marker,14,1571,2552,3,4,circle,filled dot; merged with the 1000 gridline,140.2126,966.311,0.6077,20.0,piecewise,agreed,claude,141.0646,984.555,,1576,2547
+FC-2B,1,n734,marker,15,1681,2548,3,4,circle,filled dot; merged with the 1000 gridline,159.1931,979.563,3.034,55.361,piecewise,pending-review,claude,161.0865,1012.126,"the claude reading is on the symbol center; credit claude (blind adjudication item 069 (Claude's adjudicator: p; Codex's: p)); then neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 078, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 problem); bounds widened to cover the other reading (use span)",1692,2539
+FC-2B,1,n734,marker,16,1742,2530,4,4,circle,"filled dot; small bump above the line, less distinct than the others",169.7311,1041.532,0.8081,20.235,piecewise,agreed,claude,169.5492,1029.449,,1741,2534
+FC-2B,1,n734,marker,17,1806,2527,3,3,circle,filled dot,180.7745,1051.683,0.6499,16.719,piecewise,agreed,claude,180.2571,1053.698,,1803,2527
+FC-2B,1,n734,marker,18,1860,2527,3,3,circle,filled dot,190.0905,1051.459,0.6628,16.723,piecewise,agreed,claude,190.2693,1053.696,,1861,2527
+FC-2B,1,n734,marker,19,1918,2524,3,3,circle,filled dot; on the x=200 gridline,200.0971,1061.641,0.6734,16.694,piecewise,agreed,claude,199.7655,1064.086,,1916,2524
+FC-2B,1,n734,marker,20,1975,2529,3,3,circle,filled dot,209.78,1044.03,0.6528,16.753,piecewise,agreed,claude,209.6205,1032.908,,1974,2533
+FC-2B,1,n734,marker,21,2032,2529,3,3,circle,filled dot,219.4661,1043.791,0.6392,16.758,piecewise,agreed,claude,219.4775,1032.906,,2032,2533
+FC-2B,1,n734,marker,22,2096,2525,3,3,circle,filled dot,230.3435,1057.43,0.624,16.718,piecewise,agreed,claude,231.3727,1022.514,,2102,2536
+FC-2B,1,n734,marker,23,2159,2526,3,3,circle,filled dot,241.0486,1053.691,0.609,16.734,piecewise,agreed,claude,240.2102,1022.513,,2154,2536
+FC-2B,1,n734,marker,24,2218,2526,6,3,circle,filled dot on the right frame (x about 251); doubles as legend key,251.0744,1053.446,1.1159,16.751,piecewise extrapolated x,agreed,claude,250.5793,1046.756,,2215,2529
+FC-2B,1,n734,trace,1,831,2740.0,1,4.5,,,12.1144,322.867,0.2765,19.746,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 070 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-2B,1,n734,trace,2,842,2736.5,1,5.0,,,14.0263,334.886,0.2762,21.508,piecewise,agreed,claude,14.026,333.011,,841.9,2736.9
+FC-2B,1,n734,trace,3,856,2731.5,1,6.0,,,16.46,352.056,0.2761,25.01,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,4,882,2720.5,1,6.0,,,20.9809,389.833,0.2745,25.127,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,5,902,2713.5,1,6.0,,,24.4575,413.862,0.2734,25.201,piecewise,agreed,claude,24.457,416.008,,901.9,2712.7
+FC-2B,1,n734,trace,6,922,2705.0,1,5.5,,,27.9353,443.044,0.2718,23.566,piecewise,agreed,claude,27.935,441.850,,922.0,2705.2
+FC-2B,1,n734,trace,7,951,2693.0,1,5.5,,,32.9777,484.232,0.2701,23.693,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,8,962,2689.5,1,6.0,,,34.8897,496.238,0.2698,25.454,piecewise,agreed,claude,34.890,497.255,,962.0,2689.0
+FC-2B,1,n734,trace,9,982,2682.5,1,5.0,,,38.3664,520.25,0.2679,22.08,piecewise,agreed,claude,38.366,529.843,,982.0,2679.5
+FC-2B,1,n734,trace,10,1011,2672.0,1,5.5,,,43.4079,556.265,0.2666,23.915,piecewise,agreed,claude,43.408,557.342,,1011.0,2671.5
+FC-2B,1,n734,trace,11,1022,2666.5,1,6.0,,,45.3213,575.137,0.2663,25.697,piecewise,agreed,claude,45.321,570.154,,1022.0,2667.8
+FC-2B,1,n734,trace,19,1031,2664.5,1,7.0,,visible author-line ink; column displaced from vertical grid,46.8779,581.335,0.2652,26.445,piecewise,one-sided,codex,,,,,
+FC-2B,1,n734,trace,13,1065,2652.0,1,4.5,,,52.7828,624.844,0.2625,20.679,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,14,1082,2646.5,1,6.0,,,55.7237,643.692,0.2638,25.907,piecewise,agreed,claude,55.724,642.594,,1082.0,2646.6
+FC-2B,1,n734,trace,24,1092,2642.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,57.4469,656.826,0.2724,57.282,piecewise,one-sided,codex,,,,,
+FC-2B,1,n734,trace,26,1121,2632.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,62.4656,691.141,0.2736,57.245,piecewise,one-sided,codex,,,,,
+FC-2B,1,n734,trace,16,1125,2631.5,1,6.0,,,63.1633,695.092,0.2643,26.064,piecewise,agreed,claude,63.163,697.068,,1125.0,2630.8
+FC-2B,1,n734,trace,17,1142,2626.5,1,6.0,,,66.1039,712.213,0.2645,26.117,piecewise,agreed,claude,66.104,713.758,,1142.0,2625.9
+FC-2B,1,n734,trace,18,1159,2620.5,1,6.0,,,69.0451,732.766,0.2647,26.18,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,19,1185,2611.5,1,6.0,,,73.5434,763.589,0.2651,26.274,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,20,1202,2608.5,1,6.0,,,76.4825,773.834,0.2653,26.304,piecewise,agreed,claude,76.483,775.224,,1202.0,2608.0
+FC-2B,1,n734,trace,21,1210,2605.5,1,6.0,,,77.8668,784.108,0.2654,26.336,piecewise,agreed,claude,77.867,782.089,,1210.0,2606.0
+FC-2B,1,n734,trace,22,1242,2596.5,1,6.0,,,83.4016,814.898,0.2658,26.43,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,23,1262,2591.5,1,5.0,,,86.8604,831.992,0.2653,23.037,piecewise,agreed,claude,86.860,830.121,,1262.0,2592.0
+FC-2B,1,n734,trace,24,1294,2584.5,1,6.0,,,92.3937,855.904,0.2664,26.553,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,25,1302,2581.5,1,6.0,,,93.7779,866.172,0.2665,26.585,piecewise,agreed,claude,93.778,861.001,,1302.0,2583.0
+FC-2B,1,n734,trace,26,1322,2578.0,1,5.5,,,97.2357,878.109,0.2664,24.899,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,27,1354,2572.0,1,6.5,,,102.764,898.578,0.2667,28.402,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,28,1362,2569.5,1,6.0,,,104.1458,907.126,0.2663,26.707,piecewise,agreed,claude,104.146,903.043,,1362.0,2570.8
+FC-2B,1,n734,trace,29,1382,2566.5,1,6.0,,,107.5979,917.342,0.2661,26.737,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,30,1411,2561.5,1,5.0,,,112.6041,934.382,0.2651,23.346,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,31,1422,2560.0,1,5.5,,,114.5027,939.484,0.2654,25.082,piecewise,agreed,claude,114.503,939.216,,1422.0,2560.2
+FC-2B,1,n734,trace,32,1439,2557.5,1,6.0,,,117.4372,947.991,0.2656,26.828,piecewise,agreed,claude,117.437,948.184,,1439.0,2557.6
+FC-2B,1,n734,trace,33,1465,2554.5,1,6.0,,,121.9246,958.176,0.2653,26.857,piecewise,agreed,claude,121.925,956.274,,1465.0,2555.2
+FC-2B,1,n734,trace,34,1482,2551.5,1,6.0,,,124.8595,968.395,0.2652,26.887,piecewise,agreed,claude,124.859,967.753,,1482.0,2551.9
+FC-2B,1,n734,trace,35,1502,2548.0,1,8.5,,thick run: curve merged with a gridline or another curve,128.3124,980.316,0.2669,35.606,piecewise,agreed,claude,128.312,980.732,,1502.1,2548.1
+FC-2B,1,n734,trace,36,1531,2545.5,1,6.0,,on a horizontal gridline,133.3172,988.767,0.2647,27.031,piecewise,agreed,claude,133.317,987.285,,1531.1,2546.2
+FC-2B,1,n734,trace,37,1542,2545.5,1,6.0,,on a horizontal gridline,135.2148,988.721,0.2646,27.031,piecewise,agreed,claude,135.215,990.572,,1542.1,2545.2
+FC-2B,1,n734,trace,38,1559,2543.5,1,5.0,,on a horizontal gridline,138.1491,995.506,0.2636,23.632,piecewise,agreed,claude,138.149,996.172,,1559.1,2543.6
+FC-2B,1,n734,trace,39,1585,2542.0,1,5.5,,on a horizontal gridline,142.6357,1000.545,0.2637,25.402,piecewise,agreed,claude,142.636,1002.203,,1585.1,2541.9
+FC-2B,1,n734,trace,40,1602,2539.5,1,6.0,,on a horizontal gridline,145.5705,1009.148,0.264,27.106,piecewise,agreed,claude,145.571,1008.691,,1602.1,2540.0
+FC-2B,1,n734,trace,41,1619,2539.5,1,6.0,,on a horizontal gridline,148.5033,1009.074,0.2638,27.108,piecewise,agreed,claude,148.503,1010.395,,1619.1,2539.5
+FC-2B,1,n734,trace,42,1642,2539.0,1,6.5,,on a horizontal gridline,152.4717,1010.711,0.2679,28.835,piecewise,agreed,claude,152.472,1014.931,,1642.1,2538.2
+FC-2B,1,n734,trace,43,1662,2538.0,1,7.5,,on a horizontal gridline,155.923,1014.096,0.2735,32.287,piecewise,agreed,claude,155.923,1015.591,,1662.1,2538.0
+FC-2B,1,n734,trace,44,1694,2532.0,1,4.5,,,161.4485,1034.79,0.2787,21.982,piecewise,agreed,claude,161.448,1021.983,,1694.1,2536.2
+FC-2B,1,n734,trace,45,1702,2533.0,1,5.5,,,162.8279,1031.284,0.2814,25.477,piecewise,agreed,claude,162.828,1030.779,,1702.1,2533.6
+FC-2B,1,n734,trace,46,1722,2531.5,1,5.0,,,166.2795,1036.408,0.2858,23.72,piecewise,agreed,claude,166.280,1037.252,,1722.0,2531.7
+FC-2B,1,n734,trace,47,1754,2530.0,1,5.5,,,171.8013,1041.482,0.2938,25.449,piecewise,agreed,claude,171.801,1043.307,,1754.0,2530.0
+FC-2B,1,n734,trace,48,1762,2530.0,1,5.5,,,173.1815,1041.448,0.2957,25.45,piecewise,agreed,claude,173.181,1043.306,,1762.0,2530.0
+FC-2B,1,n734,trace,49,1782,2529.0,1,4.5,,,176.6326,1044.837,0.2997,21.957,piecewise,agreed,claude,176.633,1045.674,,1782.0,2529.3
+FC-2B,1,n734,trace,50,1793,2528.5,1,5.0,,,178.5307,1046.528,0.3027,23.694,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,51,1822,2527.5,1,6.0,,,183.5345,1049.88,0.3103,27.17,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,52,1842,2527.5,1,6.0,,,186.9848,1049.797,0.3151,27.173,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,53,1874,2527.0,1,5.5,,,192.5058,1051.401,0.3224,25.428,piecewise,agreed,claude,192.506,1053.696,,1874.0,2527.0
+FC-2B,1,n734,trace,54,1882,2527.0,1,5.5,,,193.886,1051.367,0.3243,25.429,piecewise,agreed,claude,193.886,1053.695,,1882.0,2527.0
+FC-2B,1,n734,trace,55,1902,2527.0,1,5.5,,,197.3363,1051.284,0.329,25.431,piecewise,agreed,claude,197.336,1055.408,,1901.9,2526.5
+FC-2B,1,n734,trace,56,1931,2527.0,1,5.5,,,202.3043,1051.163,0.3245,25.434,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,57,1942,2527.5,1,6.0,,,204.1732,1049.38,0.3221,27.184,piecewise,agreed,claude,204.173,1052.260,,1941.9,2527.4
+FC-2B,1,n734,trace,58,1962,2527.5,1,6.0,,,207.5718,1049.297,0.3173,27.186,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,59,1988,2528.5,1,5.0,,,211.9894,1045.713,0.3105,23.713,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,60,2002,2530.0,1,5.5,,,214.3676,1040.441,0.3074,25.475,piecewise,agreed,claude,214.368,1035.831,,2001.9,2532.2
+FC-2B,1,n734,trace,61,2019,2530.5,1,6.0,,,217.2562,1038.631,0.3036,27.226,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,62,2045,2531.5,1,5.0,,,221.674,1035.046,0.2968,23.752,piecewise,one-sided,claude,,,,,
+FC-2B,1,n734,trace,63,2062,2532.0,1,4.5,,,224.5626,1033.236,0.2925,22.016,piecewise,agreed,claude,224.563,1033.806,,2061.9,2532.7
+FC-2B,1,n734,trace,64,2082,2533.0,1,5.5,,,227.9609,1029.675,0.2882,25.517,piecewise,agreed,claude,227.961,1032.905,,2081.9,2533.0
+FC-2B,1,n734,trace,65,2108,2536.5,1,9.0,,thick run: curve merged with a gridline or another curve,232.3778,1017.395,0.2834,37.527,piecewise,agreed,claude,232.378,1026.092,,2107.9,2535.0
+FC-2B,1,n734,trace,66,2122,2536.5,1,9.0,,thick run: curve merged with a gridline or another curve,234.7569,1017.335,0.28,37.529,piecewise,agreed,claude,234.757,1020.782,,2121.9,2536.5
+FC-2B,1,n734,trace,67,2142,2537.5,1,8.0,,on a horizontal gridline,238.1554,1013.772,0.2747,34.076,piecewise,agreed,claude,238.155,1023.896,,2141.9,2535.6
+FC-2B,1,n734,trace,68,2171,2537.5,1,8.0,,on a horizontal gridline,243.0837,1013.647,0.2676,34.08,piecewise,agreed,claude,243.084,1030.707,,2170.9,2533.6
+FC-2B,1,n734,trace,69,2182,2538.0,1,7.5,,on a horizontal gridline,244.9529,1011.861,0.2648,32.354,piecewise,agreed,claude,244.953,1018.001,,2181.9,2537.3
+FC-2B,1,n734,trace,70,2202,2537.5,1,8.0,,on a horizontal gridline,248.3519,1013.514,0.2601,34.085,piecewise,agreed,claude,248.352,1017.317,,2201.9,2537.5
+FC-2B,1,n734,trace,117,2205,2537.5,1,16,,visible author-line ink; column displaced from vertical grid; curve/marker shared ink; ordinate uncertain,248.8774,1017.317,0.2778,57.489,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 076 (Claude's adjudicator: all yes; Codex's: all yes)",,

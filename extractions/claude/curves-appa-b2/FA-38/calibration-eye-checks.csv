@@ -1,0 +1,25 @@
+figure_id,panel,axis,printed_label,value,label_where,label_centre_px,fitted_line_px,offset_px,line_role,anchored,verdict,note
+FA-38,1,x,9.0,9,right of frame (u 2185-2240),v 1162.5,v 1166.0 at u 2150,-3.5,interior (heaviest line below the top frame),yes,ok,"label decimal point on the heavy line at v 1166; the top frame (v 1119 at u 2150, v 1127 at u 692) is 46 px above it, carries no label and sits where 10 mm falls on the log spacing; frame not anchored"
+FA-38,1,x,5.0,5,right of frame,v 1414.0,v 1415.7 at u 2150,-1.7,interior,yes,ok,line carries a short tick past the right frame pointing at the label
+FA-38,1,x,4.0,4,right of frame,v 1514.5,v 1512.2 at u 2150,2.3,interior,yes,ok,
+FA-38,1,x,3.0,3,right of frame,v 1640.5,v 1635.2 at u 2150,5.3,interior,yes,ok,"label decimal point at v 1637; a table rule 3 to 8 px below this line inside the Grain Size Parameters table is not the grid line"
+FA-38,1,x,2.0,2,right of frame,v 1811.5,v 1807.1 at u 2150,4.4,interior,yes,ok,the #10 sieve dashed line (2.00 mm) coincides with this line
+FA-38,1,x,1.5,1.5,right of frame,v 1926.0,v 1928.4 at u 2150,-2.4,interior,yes,ok,
+FA-38,1,x,1.0,1,right of frame,v 2098.5,v 2099.1 at u 2150,-0.6,interior,yes,ok,
+FA-38,1,x,0.5,0.5,right of frame,v 2392.5,v 2391.4 at u 2150,1.1,interior,yes,ok,
+FA-38,1,x,0.2,0.2,right of frame,v 2773.5,v 2774.7 at u 2150,-1.2,interior,yes,ok,
+FA-38,1,x,0.1,0.1,right of frame,v 3069.0,v 3066.2 at u 2150,2.8,interior,yes,ok,
+FA-38,1,x,0.05,0.05,right of frame,v 3363.0,v 3358.0 at u 2150,5.0,interior,yes,ok,"four-character label centred 5 px below its heavy line; next lines 80 px away, no ambiguity"
+FA-38,1,x,0.02,0.02,right of frame,v 3751.5,v 3745.5 at u 2150,6.0,bottom frame,yes,ok,"the bottom frame carries the 0.02 label and lies where 0.02 falls on the log spacing from 0.05 and 0.1 (971 px per decade)"
+FA-38,1,x,(none),10 (implied),top frame,,v 1119 at u 2150,,top frame,no,unlabelled,"frame extends 46 px past the last labelled line (9.0); left out of the calibration"
+FA-38,1,y,100,100,below frame (v 3765-3845) and above frame (v 1035-1110),u 708.5 (bottom); u 690.5 (top),u 710.8 at v 3748; u 691.3 at v 1170,-2.3; -0.8,left frame,yes,ok,left frame is labelled 100 at both ends
+FA-38,1,y,90,90,below and above frame,u 850.5 (bottom); u 834.5 (top),u 854.2; u 837.6,-3.7; -3.1,interior,yes,ok,
+FA-38,1,y,80,80,below and above frame,u 992.5 (bottom); u 980.0 (top),u 998.7; u 982.4,-6.2; -2.4,interior,yes,ok,"bottom labels sit 2 to 6 px left of their lines, spacing 145 px, no ambiguity"
+FA-38,1,y,70,70,below and above frame,u 1138.5; u 1125.5,u 1144.9; u 1128.5,-6.4; -3.0,interior,yes,ok,
+FA-38,1,y,60,60,below and above frame,u 1283.5; u 1267.5,u 1289.2; u 1272.3,-5.7; -4.8,interior,yes,ok,
+FA-38,1,y,50,50,below and above frame,u 1434.0; u 1419.0,u 1436.8; u 1418.0,-2.8; 1.0,interior,yes,ok,"line interrupted by the Grain Size Parameters table (v 1262-2735); a table rule runs 8 to 10 px right of it inside the table"
+FA-38,1,y,40,40,below and above frame,u 1581.0; u 1566.5,u 1582.4; u 1566.1,-1.4; 0.4,interior,yes,ok,"interrupted by the table; a table rule lies near it inside the table"
+FA-38,1,y,30,30,below and above frame,u 1725.5; u 1713.0,u 1728.0; u 1712.2,-2.5; 0.8,interior,yes,ok,interrupted by the table
+FA-38,1,y,20,20,below and above frame,u 1868.5; u 1861.0,u 1871.7; u 1857.3,-3.2; 3.7,interior,yes,ok,interrupted by the table
+FA-38,1,y,10,10,below and above frame,u 2017.0; u 2002.5,u 2017.2; u 2003.5,-0.2; -1.0,interior,yes,ok,
+FA-38,1,y,0,0,below and above frame,u 2165.5; u 2146.5,u 2165.0; u 2149.9,0.5; -3.4,right frame,yes,ok,right frame is labelled 0 at both ends

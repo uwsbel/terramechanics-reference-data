@@ -1,0 +1,95 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-16,1,data,marker,1,642.2,2458.4,3,3,circle,"pair 1 left; cut by the left frame, which runs through its centre (Dr about -0.1); the solid curve runs into its top right",-0.0957083,38.82038,0.0033362,0.04584
+FC-16,1,data,marker,2,793.5,2453.0,2,2,circle,pair 1 right; the Dr 0 grid line runs through it; the lower dashed curve has a gap around it (dashes end 20 px either side),0.0013835,38.88071,0.0026891,0.03277
+FC-16,1,data,marker,3,1563.6,1919.4,3,3,circle,"pair 2 left; the Dr 0.5 grid line runs through it; it sits in a gap of the upper dashed curve, whose next dash starts at its ring",0.4983738,45.76958,0.0033362,0.04584
+FC-16,1,data,marker,4,1679.0,1921.8,3,3,circle,"pair 2 right; overlaps the solid curve, which crosses its lower half",0.5723919,45.73082,0.0033362,0.04584
+FC-16,1,data,marker,5,1923.7,1848.3,3,3,circle,"pair 3 left; overlaps the solid curve, which crosses its upper half",0.729779,46.67066,0.0033362,0.04584
+FC-16,1,data,marker,6,2146.5,1847.0,2,2,circle,pair 3 right,0.8727169,46.673,0.0026891,0.03277
+FC-16,1,data,marker,7,2345.2,1532.3,3,3,circle,pair 4 left; the Dr 1.0 grid line runs through it; the upper dashed curve touches the top of its ring,1.0019301,50.75253,0.0033362,0.04584
+FC-16,1,data,marker,8,2498.5,1391.8,3,3,circle,"single; cut by the right frame, which runs through its centre (Dr about 1.1); the upper dashed curve passes through it",1.1010534,52.56964,0.0033362,0.04584
+FC-16,1,data,marker,9,2501.3,1617.0,3,3,circle,"single; cut by the right frame, which runs through its centre (Dr about 1.1); the solid curve passes through it",1.1016022,49.64084,0.0033362,0.04584
+FC-16,1,data,marker,10,2500.2,1846.6,3,3,circle,"single; cut by the right frame, which runs through its centre (Dr about 1.1); the lower dashed curve ends at its ring",1.0996247,46.65508,0.0033362,0.04584
+FC-16,1,data,marker,11,2547.7,1528.6,2,2,circle,"pair 4 right; outside the plot frame, right of the right frame (Dr about 1.13); its joining line crosses the frame",1.1318584,50.78741,0.0026891,0.03277
+FC-16,1,mean,trace,1,660,2443.3,4.0,4.0,solid,left end: first ink clear of the frame-cut circle of pair 1 (left) at the left frame; the line runs into that ring,-0.0842056,39.01558,0.0039832,0.05891
+FC-16,1,mean,trace,2,713.9,2414.4,4.0,4.0,solid,Dr -0.05,-0.0494676,39.38789,0.0039832,0.05891
+FC-16,1,mean,trace,3,790.2,2372.6,3.5,3.5,solid,Dr 0.00,-0.0002881,39.92649,0.0036597,0.05237
+FC-16,1,mean,trace,4,866.4,2331.9,3.5,3.5,solid,Dr 0.05,0.0488212,40.45079,0.0036597,0.05237
+FC-16,1,mean,trace,5,942.7,2291.2,2.5,2.5,solid,Dr 0.10,0.0979946,40.97509,0.0030126,0.0393
+FC-16,1,mean,trace,6,1022.1,2249.3,3.5,3.5,solid,Dr 0.15,0.1491634,41.51479,0.0036597,0.05237
+FC-16,1,mean,trace,7,1101.5,2207.8,3.0,3.0,solid,Dr 0.20,0.2003299,42.04928,0.0033362,0.04584
+FC-16,1,mean,trace,8,1180.8,2166.9,3.5,3.5,solid,Dr 0.25,0.251429,42.57598,0.0036597,0.05237
+FC-16,1,mean,trace,9,1260.1,2126.3,3.0,3.0,solid,Dr 0.30,0.3025264,43.09878,0.0033362,0.04584
+FC-16,1,mean,trace,10,1334.7,2089.4,2.5,2.5,solid,Dr 0.35,0.3505882,43.57377,0.0030126,0.0393
+FC-16,1,mean,trace,11,1409.2,2052.5,2.5,2.5,solid,Dr 0.40,0.3985859,44.04877,0.0030126,0.0393
+FC-16,1,mean,trace,12,1487.6,2016.6,3.5,3.5,solid,Dr 0.45,0.4490799,44.51051,0.0036597,0.05237
+FC-16,1,mean,trace,13,1566.0,1980.8,3.5,3.5,solid,Dr 0.50,0.4995734,44.97094,0.0036597,0.05237
+FC-16,1,mean,trace,14,1644.8,1946.1,4.0,4.0,solid,Dr 0.55,0.5503173,45.41705,0.0039832,0.05891
+FC-16,1,mean,trace,15,1723.6,1913.7,3.5,3.5,solid,Dr 0.60,0.6010486,45.83324,0.0036597,0.05237
+FC-16,1,mean,trace,16,1801.2,1883.9,3.5,3.5,solid,Dr 0.65,0.6509956,46.21571,0.0036597,0.05237
+FC-16,1,mean,trace,17,1878.8,1857.5,4.0,4.0,solid,Dr 0.70,0.7009238,46.55395,0.0039832,0.05891
+FC-16,1,mean,trace,18,1955.9,1828.7,4.5,4.5,solid,Dr 0.75,0.7505445,46.92344,0.0043068,0.06544
+FC-16,1,mean,trace,19,2033.0,1800.3,3.5,3.5,solid,Dr 0.80,0.800163,47.28773,0.0036597,0.05237
+FC-16,1,mean,trace,20,2110.7,1770.9,4.0,4.0,solid,Dr 0.85,0.850172,47.66498,0.0039832,0.05891
+FC-16,1,mean,trace,21,2188.4,1739.9,3.0,3.0,solid,Dr 0.90,0.9001898,48.06304,0.0033362,0.04584
+FC-16,1,mean,trace,22,2266.3,1708.7,4.0,4.0,solid,Dr 0.95,0.950337,48.46369,0.0039832,0.05891
+FC-16,1,mean,trace,23,2344.1,1675.5,4.0,4.0,solid,Dr 1.00,1.0004312,48.89036,0.0039832,0.05891
+FC-16,1,mean,trace,24,2421.9,1641.1,4.0,4.0,solid,Dr 1.05,1.050532,49.33262,0.0039832,0.05891
+FC-16,1,mean,trace,25,2516,1595.9,4.0,4.0,solid,Dr 1.10 moved +16 px to the nearest clear ink: the line is under the ring of the single circle at the right frame (middle) and the frame,1.1111494,49.91428,0.0039832,0.05891
+FC-16,1,mean,trace,26,2545,1581.7,4.0,4.0,solid,"right end: last ink, beyond the right frame (the line passes through the middle single circle)",1.1298321,50.09705,0.0039832,0.05891
+FC-16,1,mean,feature,1,660,2443.3,4.0,4.0,solid,first point; left end: first ink clear of the frame-cut circle of pair 1 (left) at the left frame; the line runs into that ring,-0.0842056,39.01558,0.0039832,0.05891
+FC-16,1,mean,feature,2,2545,1581.7,4.0,4.0,solid,"last point, also the maximum of the trace (the curve rises monotonically, no knee); right end: last ink, beyond the right frame (the line passes through the middle single circle)",1.1298321,50.09705,0.0039832,0.05891
+FC-16,1,upper,trace,1,653,2413.3,4.0,4.0,dashed,left end: ink emerges from under the left frame (Dr about -0.1); the line may start under the frame,-0.0885301,39.40617,0.0039832,0.05891
+FC-16,1,upper,trace,2,713.6,2377.9,4.0,4.0,dashed,Dr -0.05,-0.0494579,39.86257,0.0039832,0.05891
+FC-16,1,upper,trace,3,789.8,2334.6,3.0,3.0,dashed,Dr 0.00,-0.0003342,40.42069,0.0033362,0.04584
+FC-16,1,upper,trace,4,866.1,2291.9,4.0,4.0,dashed,Dr 0.05,0.0488503,40.97099,0.0039832,0.05891
+FC-16,1,upper,trace,5,942.3,2247.1,3.5,3.5,dashed,Dr 0.10,0.0979822,41.54861,0.0036597,0.05237
+FC-16,1,upper,trace,6,1021.7,2202.3,4.0,4.0,dashed,Dr 0.15,0.1491671,42.12603,0.0039832,0.05891
+FC-16,1,upper,trace,7,1101.1,2158.7,4.0,4.0,dashed,Dr 0.20,0.2003453,42.68783,0.0039832,0.05891
+FC-16,1,upper,trace,8,1180.3,2115.3,4.0,4.0,dashed,Dr 0.25,0.2513941,43.24705,0.0039832,0.05891
+FC-16,1,upper,trace,9,1259.6,2072.9,4.0,4.0,dashed,Dr 0.30,0.3025015,43.79326,0.0039832,0.05891
+FC-16,1,upper,trace,10,1334.1,2032.9,3.0,3.0,dashed,Dr 0.35,0.3505163,44.30857,0.0033362,0.04584
+FC-16,1,upper,trace,11,1408.6,1994.7,4.0,4.0,dashed,Dr 0.40,0.3985211,44.80047,0.0039832,0.05891
+FC-16,1,upper,trace,12,1486.9,1955.1,4.0,4.0,dashed,Dr 0.45,0.4489715,45.31033,0.0039832,0.05891
+FC-16,1,upper,trace,13,1583,1907.2,4.0,4.0,dashed,Dr 0.50 falls in a gap between dashes (the gap holds the left circle of pair 2); moved +18 px to the nearest dash end,0.5108869,45.92696,0.0039832,0.05891
+FC-16,1,upper,trace,14,1644.1,1878.6,4.0,4.0,dashed,Dr 0.55,0.5502422,46.2949,0.0039832,0.05891
+FC-16,1,upper,trace,15,1722.9,1840.5,4.0,4.0,dashed,Dr 0.60,0.601005,46.78522,0.0039832,0.05891
+FC-16,1,upper,trace,16,1800.5,1803.4,3.5,3.5,dashed,Dr 0.65,0.6509925,47.26262,0.0036597,0.05237
+FC-16,1,upper,trace,17,1878.0,1764.4,3.5,3.5,dashed,Dr 0.70,0.7009263,47.76472,0.0036597,0.05237
+FC-16,1,upper,trace,18,1955.1,1725.2,4.0,4.0,dashed,Dr 0.75,0.7506046,48.26946,0.0039832,0.05891
+FC-16,1,upper,trace,19,2032.4,1684.3,3.0,3.0,dashed,Dr 0.80,0.8004207,48.79629,0.0033362,0.04584
+FC-16,1,upper,trace,20,2110.0,1643.1,4.0,4.0,dashed,Dr 0.85,0.8504308,49.32701,0.0039832,0.05891
+FC-16,1,upper,trace,21,2187.5,1600.2,4.0,4.0,dashed,Dr 0.90,0.9003863,49.87983,0.0039832,0.05891
+FC-16,1,upper,trace,22,2265.3,1554.4,4.0,4.0,dashed,Dr 0.95,0.9505502,50.47035,0.0039832,0.05891
+FC-16,1,upper,trace,23,2342.9,1506.1,4.0,4.0,dashed,Dr 1.00,1.0005997,51.0934,0.0039832,0.05891
+FC-16,1,upper,trace,24,2414,1462.5,4.5,4.5,dashed,Dr 1.05 falls in a gap between dashes; moved -6 px to the nearest dash end,1.0464533,51.65575,0.0043068,0.06544
+FC-16,1,upper,trace,25,2479,1410.9,5.0,5.0,dashed,Dr 1.10 moved -19 px to the nearest clear ink: the line is under the ring of the single circle at the right frame (top) and the frame,1.0884379,52.32253,0.0046303,0.07198
+FC-16,1,upper,trace,26,2530,1368.4,4.5,4.5,dashed,"right end: last ink of the last dash, beyond the right frame (the dash passes through the top single circle)",1.1213909,52.87189,0.0043068,0.06544
+FC-16,1,upper,feature,1,653,2413.3,4.0,4.0,dashed,first point; left end: ink emerges from under the left frame (Dr about -0.1); the line may start under the frame,-0.0885301,39.40617,0.0039832,0.05891
+FC-16,1,upper,feature,2,2530,1368.4,4.5,4.5,dashed,"last point, also the maximum of the trace (the curve rises monotonically, no knee); right end: last ink of the last dash, beyond the right frame (the dash passes through the top single circle)",1.1213909,52.87189,0.0043068,0.06544
+FC-16,1,lower,trace,1,653,2523.4,4.0,4.0,dashed,left end: ink emerges from under the left frame (Dr about -0.1); the line may start under the frame,-0.08914,37.97438,0.0039832,0.05891
+FC-16,1,lower,trace,2,714.5,2494.5,4.0,4.0,dashed,Dr -0.05,-0.0495264,38.34619,0.0039832,0.05891
+FC-16,1,lower,trace,3,821,2444.3,3.5,3.5,dashed,Dr 0.00 falls in a gap between dashes (the gap holds the right circle of pair 1); moved +30 px to the nearest dash end,0.0190735,38.99205,0.0036597,0.05237
+FC-16,1,lower,trace,4,867.3,2425.0,4.0,4.0,dashed,Dr 0.05,0.0488828,39.24001,0.0039832,0.05891
+FC-16,1,lower,trace,5,931,2396.9,4.0,4.0,dashed,Dr 0.10 falls in a gap between dashes (the gap holds the Dr 0.1 grid line); moved -13 px to the nearest dash end,0.0899033,39.60127,0.0039832,0.05891
+FC-16,1,lower,trace,6,1023.1,2357.3,4.0,4.0,dashed,Dr 0.15,0.1492066,40.11023,0.0039832,0.05891
+FC-16,1,lower,trace,7,1102.7,2323.6,4.0,4.0,dashed,Dr 0.20,0.2004583,40.54328,0.0039832,0.05891
+FC-16,1,lower,trace,8,1182.0,2290.4,4.0,4.0,dashed,Dr 0.25,0.2515147,40.96985,0.0039832,0.05891
+FC-16,1,lower,trace,9,1261.4,2257.2,4.0,4.0,dashed,Dr 0.30,0.3026353,41.39641,0.0039832,0.05891
+FC-16,1,lower,trace,10,1336.1,2226.9,4.0,4.0,dashed,Dr 0.35,0.3507247,41.78556,0.0039832,0.05891
+FC-16,1,lower,trace,11,1410.8,2195.6,4.0,4.0,dashed,Dr 0.40,0.3988196,42.18772,0.0039832,0.05891
+FC-16,1,lower,trace,12,1489.1,2164.6,4.0,4.0,dashed,Dr 0.45,0.4492224,42.58574,0.0039832,0.05891
+FC-16,1,lower,trace,13,1567.4,2134.3,3.5,3.5,dashed,Dr 0.50,0.4996212,42.97466,0.0036597,0.05237
+FC-16,1,lower,trace,14,1646.2,2104.9,4.5,4.5,dashed,Dr 0.55,0.5503358,43.35184,0.0043068,0.06544
+FC-16,1,lower,trace,15,1725.0,2074.6,3.5,3.5,dashed,Dr 0.60,0.6010554,43.74072,0.0036597,0.05237
+FC-16,1,lower,trace,16,1802.7,2046.7,4.5,4.5,dashed,Dr 0.65,0.6510561,44.09847,0.0043068,0.06544
+FC-16,1,lower,trace,17,1880.4,2017.6,3.0,3.0,dashed,Dr 0.70,0.7010634,44.47182,0.0033362,0.04584
+FC-16,1,lower,trace,18,1957.1,1991.3,4.5,4.5,dashed,Dr 0.75,0.7504137,44.80883,0.0043068,0.06544
+FC-16,1,lower,trace,19,2040,1963.1,4.0,4.0,dashed,Dr 0.80 falls in a gap between dashes (the gap holds the crossings of the 45 deg and Dr 0.8 grid lines); moved +6 px to the nearest dash end,0.8037519,45.17013,0.0039832,0.05891
+FC-16,1,lower,trace,20,2111.7,1939.7,4.5,4.5,dashed,Dr 0.85,0.8498785,45.46975,0.0043068,0.06544
+FC-16,1,lower,trace,21,2215,1908.4,4.5,4.5,dashed,Dr 0.90 falls in a gap between dashes; moved +26 px to the nearest dash end,0.9163209,45.87004,0.0043068,0.06544
+FC-16,1,lower,trace,22,2267.5,1893.6,3.5,3.5,dashed,Dr 0.95,0.9500826,46.05908,0.0036597,0.05237
+FC-16,1,lower,trace,23,2358,1871.7,4.5,4.5,dashed,Dr 1.00 falls in a gap between dashes (the gap holds the Dr 1.0 grid line); moved +12 px to the nearest dash end,1.0082615,46.33796,0.0043068,0.06544
+FC-16,1,lower,trace,24,2423.6,1858.6,4.5,4.5,dashed,Dr 1.05,1.0504178,46.50403,0.0043068,0.06544
+FC-16,1,lower,trace,25,2479,1851.0,4.5,4.5,dashed,"right end: last ink clear of the ring of the bottom single circle at the right frame, which the dash runs into 2 to 3 px further right; no ink of the curve beyond the circle",1.0860001,46.59924,0.0043068,0.06544
+FC-16,1,lower,feature,1,653,2523.4,4.0,4.0,dashed,first point; left end: ink emerges from under the left frame (Dr about -0.1); the line may start under the frame,-0.08914,37.97438,0.0039832,0.05891
+FC-16,1,lower,feature,2,2479,1851.0,4.5,4.5,dashed,"last point, also the maximum of the trace (the curve rises monotonically, no knee); right end: last ink clear of the ring of the bottom single circle at the right frame, which the dash runs into 2 to 3 px further right; no ink of the curve beyond the circle",1.0860001,46.59924,0.0043068,0.06544

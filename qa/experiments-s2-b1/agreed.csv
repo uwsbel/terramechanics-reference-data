@@ -1,0 +1,133 @@
+experiment_id,kind,test_type,soil_family,soil_no,soil_no_status,state_printed,dr_printed,unit_weight_printed_pcf,gp_printed_g,penetrator_printed,bin_printed_in,rate_printed,start_depth_printed_in,evidence,setup_status,mcc_relevant,priority,status
+b68-dens-13,single,dens,RS,,unknown,,,,,,,,,,setup_incomplete,yes,2,partial
+b68-dens-14,single,dens,RS,,unknown,,,,,,,,,,setup_incomplete,yes,2,partial
+b68-dens-15,single,dens,RS,,unknown,,,,,,,,,,setup_incomplete,yes,2,partial
+b68-lpt-022,single,lpt,RS,4,inferred,RS Dense,,51.2,130,,,,0,F2-42,setup_incomplete,no,1,partial
+b68-lpt-023,single,lpt,RS,4,inferred,RS Dense,,50.6,99,,,,0,F2-42,setup_incomplete,no,1,partial
+b68-lpt-024,single,lpt,RS,4,inferred,RS Dense,,51.5,83,,,,0,,,no,1,partial
+b68-lpt-025,single,lpt,RS,4,inferred,RS Dense,,51.6,130,,,,0,F2-42,setup_incomplete,no,1,partial
+b68-lpt-026,single,lpt,RS,,conflict,,,,,,,,0,F2-43;F2-54,setup_incomplete,no,1,partial
+b68-lpt-027,single,lpt,RS,,conflict,,,,,,,,0,F2-29;F2-43,setup_incomplete,no,1,partial
+b68-lpt-028,single,lpt,RS,3,inferred,RS Intermediate,,,,,,,0,F2-41,setup_incomplete,no,,partial
+b68-lpt-029,single,lpt,RS,3,inferred,RS Intermediate,,,,,,,0,F2-41,setup_incomplete,no,,partial
+b68-lpt-052,single,lpt,RS,1,reported,,,,15.4,,,,,,setup_incomplete,no,1,partial
+b68-lpt-053,single,lpt,RS,1,reported,,,,15.6,,,,,,setup_incomplete,no,1,partial
+b68-lpt-069,single,lpt,RS,,,RS Dense,,,103,,,,0,,setup_incomplete,no,1,partial
+b68-lpt-073,single,lpt,RS,,,RS Dense,,,117,,,,0,,setup_incomplete,no,1,partial
+b68-lpt-074,single,lpt,RS,,,RS Dense,,,103,,,,0,,setup_incomplete,no,1,partial
+b68-lpt-075,single,lpt,RS,,,RS Dense,approx 0.94,,105,,,,2,F2-33,setup_incomplete,no,1,partial
+b68-lpt-076,single,lpt,RS,,,RS Dense,approx 0.97,,103,,,,2,F2-35,setup_incomplete,no,1,partial
+b68-lpt-079,single,lpt,RS,1,reported,,approx 0.0,,15.2,,,,0,F2-45,setup_incomplete,no,1,partial
+b68-lpt-085,single,lpt,SS,9,reported,,approx 0.76,,46,,,,0,F2-48,setup_incomplete,no,1,partial
+b68-lpt-087,single,lpt,SS,9,reported,,approx 0.76,,45,,,,0,F2-34;F2-48,setup_incomplete,no,1,partial
+b68-lpt-088,single,lpt,SS,9,reported,,approx 0.76,,,,,,2,F2-34,setup_incomplete,no,1,partial
+b68-lpt-089,single,lpt,RS,3,reported,,approx 0.29,,22.4,,,,0,F2-46,setup_incomplete,no,1,partial
+b68-lpt-091,single,lpt,RS,4,reported,,approx 0.69,,62.8,,,,0,F2-47,setup_incomplete,no,1,partial
+b68-lpt-095,single,lpt,RS,1,reported,,approx 0.0,,16.2,,,,0,F2-45,setup_incomplete,no,1,partial
+b68-lpt-098,single,lpt,RS,3,reported,,approx 0.29,,27.3,,,,0,F2-46,setup_incomplete,no,1,partial
+b68-lpt-101,single,lpt,RS,4,reported,,approx 0.69,,63.9,,,,0,F2-47,setup_incomplete,no,1,partial
+b68-lpt-064a,single,lpt,RS,,,RS Dense,,,112,,,,0,,setup_incomplete,no,1,partial
+b68-dpt-r53958,single,dpt,RS,1,inferred,,,41.1,,,,,,,setup_incomplete,no,1,partial
+b68-dpt-r54-65,single,dpt,RS,,conflict,,,52.0,,,,,,,setup_incomplete,no,1,partial
+b68-dpt-r54025,single,dpt,RS,3,inferred,,,44.1,,,,,,,setup_incomplete,no,1,partial
+b68-gs-ssd-6-1,,gs,RC2,,,,,,,,,,,F2-12;F2-13,,no,2,partial
+b68-ds-f2-22-rs,derived-series,ds,RS,3,inferred,,approx 0.55,46.9,,,,,,,,no,,partial
+b68-ds-f2-23-ps,,ds,PS,,unknown,,,,,,,,,,pending,no,1,partial
+b68-ds-f2-23-rs,,ds,RS,,unknown,,,,,,,,,,pending,no,1,partial
+b68-ds-f2-23-ss,,ds,SS,,unknown,,,,,,,,,,pending,no,1,partial
+b68-gs-f2-14-ps,averaged-series,gs,PS,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-gs-f2-14-rs,averaged-series,gs,RS,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-gs-f2-14-ss,averaged-series,gs,SS,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-smp-ssd-1-1,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-3-1,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-4-3,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-5-1,sample,gs;dens,RSM,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-5-6,sample,gs;dens,RSM,,,,,,,,,,,,,yes,2,partial
+b68-dpt-f2-55-ps,correlation,dpt,PS,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-dpt-f2-55-rs,correlation,dpt,RS,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-dpt-f2-55-ss,correlation,dpt,SS,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-ds-f2-23-rc2,,ds,RC2,,unknown,,,,,,,,,,pending,no,1,partial
+b68-gs-f2-14-lsm,averaged-series,gs,LSM,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-gs-f2-14-rc2,averaged-series,gs,RC2,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-smp-ssd-2-10,sample,gs;dens,PS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-2-41,sample,gs;dens,PS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-3-10,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-4-18,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-4-26,sample,gs;dens,RS,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-5-15,sample,gs;dens,RSM,,,,,,,,,,,,,yes,2,partial
+b68-smp-ssd-5-23,sample,gs;dens,RSM,,,,,,,,,,,,,yes,2,partial
+b68-dpt-f2-55-lsm,correlation,dpt,LSM,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-dpt-f2-55-rc2,correlation,dpt,RC2,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-dpt-f2-55-rsm,correlation,dpt,RSM,,unknown,,,,,,,,,,pending,yes,1,partial
+b68-ds-f2-21-n294,single,ds,RS,3,inferred,,,47.4,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-21-n587,single,ds,RS,3,inferred,,,47.2,,,,,,,setup_incomplete,maybe,1,partial
+b68-lpt-f2-36-s01,averaged-series,lpt,RS,4,inferred,,approx 0.95,,,,,,,,pending,no,2,partial
+b68-lpt-f2-36-s02,averaged-series,lpt,RS,4,inferred,,approx 0.83,,,,,,,,pending,no,2,partial
+b68-lpt-f2-36-s03,averaged-series,lpt,RS,3,inferred,,approx 0.50,,,,,,,,pending,no,2,partial
+b68-lpt-f2-36-s04,averaged-series,lpt,RS,3,inferred,,approx 0.46,,,,,,,,pending,,2,partial
+b68-lpt-f2-36-s05,averaged-series,lpt,RS,1,inferred,,approx 0.16,,,,,,,,pending,no,2,partial
+b68-lpt-f2-36-s06,averaged-series,lpt,RS,1,inferred,,approx 0.14,,,,,,,,pending,no,2,partial
+b68-lpt-f2-37-s01,,lpt,RS,4,inferred,,approx 0.93,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s02,,lpt,RS,4,inferred,,approx 0.95,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s03,,lpt,RS,,,,approx 0.96,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s04,,lpt,RS,4,inferred,,approx 0.93,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s05,,lpt,RS,4,inferred,,approx 0.83,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s06,,lpt,RS,,,,approx 0.96,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s07,,lpt,RS,4,inferred,,approx 0.69,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s08,,lpt,RS,4,inferred,,approx 0.69,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s09,,lpt,RS,4,inferred,,approx 0.69,,,,,,,,,no,2,partial
+b68-lpt-f2-37-s10,,lpt,RS,3,inferred,,approx 0.33,,,,,,,,,,2,partial
+b68-lpt-f2-37-s11,,lpt,RS,3,inferred,,approx 0.33,,,,,,,,,,2,partial
+b68-lpt-f2-38-s01,averaged-series,lpt,SS,9,inferred,,approx 0.98,,,,,,,,pending,no,2,partial
+b68-lpt-f2-38-s02,averaged-series,lpt,SS,9,inferred,,approx 0.92,,,,,,,,pending,no,2,partial
+b68-lpt-f2-38-s03,averaged-series,lpt,SS,8,inferred,,approx 0.47,,,,,,,,pending,no,2,partial
+b68-lpt-f2-38-s04,averaged-series,lpt,SS,8,inferred,,approx 0.46,,,,,,,,pending,no,2,partial
+b68-lpt-f2-38-s05,averaged-series,lpt,SS,7,inferred,,approx 0.14,,,,,,,,pending,no,2,partial
+b68-lpt-f2-38-s06,averaged-series,lpt,SS,7,inferred,,approx 0.24,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s01,averaged-series,lpt,PS,,unknown,,approx 1.0,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s02,averaged-series,lpt,PS,,unknown,,approx 1.0,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s03,averaged-series,lpt,PS,,unknown,,approx 0.52,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s04,averaged-series,lpt,PS,,unknown,,approx 0.44,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s05,averaged-series,lpt,PS,2,inferred,,approx 0.14,,,,,,,,pending,no,2,partial
+b68-lpt-f2-39-s06,averaged-series,lpt,PS,2,inferred,,approx 0.12,,,,,,,,pending,no,2,partial
+b68-lpt-f2-40-s01,single,lpt,RS,1,inferred,RS Loose,approx 0.15,,,,,,0,,setup_incomplete,no,2,partial
+b68-lpt-f2-40-s02,single,lpt,RS,1,inferred,RS Loose,approx 0.15,,,,,,0,,,no,2,partial
+b68-lpt-f2-40-s03,single,lpt,RS,1,inferred,RS Loose,approx 0.15,,,,,,0,,,no,2,partial
+b68-lpt-f2-40-s04,single,lpt,RS,1,inferred,RS Loose,approx 0.15,,,,,,0,,,no,2,partial
+b68-lpt-f2-49-s01,,lpt,RS,4,inferred,,approx 0.68,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s02,,lpt,RS,4,inferred,,approx 0.69,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s03,,lpt,RS,4,inferred,,approx 0.68,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s04,,lpt,RS,3,inferred,,approx 0.33,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s05,,lpt,RS,3,inferred,,approx 0.25,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s06,,lpt,RS,3,inferred,,approx 0.25,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s07,,lpt,RS,1,inferred,,approx 0.0,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s08,,lpt,RS,1,inferred,,approx 0.0,,,,,,,,pending,no,2,partial
+b68-lpt-f2-49-s09,,lpt,RS,1,inferred,,approx 0.0,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s01,,lpt,SS,9,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s02,,lpt,SS,9,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s03,,lpt,SS,9,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s04,,lpt,SS,8,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s05,,lpt,SS,8,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s06,,lpt,SS,7,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-50-s07,,lpt,SS,7,inferred,,,,,,,,,,pending,no,2,partial
+b68-lpt-f2-52-s01,correlation,lpt,RS,,unknown,,,,,,,,,F2-52,pending,no,2,partial
+b68-lpt-f2-52-s02,correlation,lpt,RS,,unknown,,,,,,,,,F2-52,pending,no,2,partial
+b68-lpt-f2-52-s03,correlation,lpt,RS,,unknown,,,,,,,,,F2-52,pending,no,2,partial
+b68-lpt-f2-52-s04,correlation,lpt,SS,,unknown,,,,,,,,,F2-52,pending,no,2,partial
+b68-lpt-f2-52-s05,correlation,lpt,SS,,unknown,,,,,,,,,F2-52,pending,no,2,partial
+b68-dens-f2-17-s01,,dens,PS,,,,,,,,,,,,pending,,,partial
+b68-dens-f2-17-s02,,dens,RS,,,,,,,,,,,,pending,,,partial
+b68-dens-f2-17-s03,,dens,RSM-a,,,,,,,,,,,,pending,,,partial
+b68-dens-f2-17-s04,,dens,RC2,,,,,,,,,,,,pending,,,partial
+b68-dens-f2-17-s06,,dens,SS,,,,,,,,,,,,pending,,,partial
+b68-ds-f2-21-n1172,single,ds,RS,3,inferred,,,46.8,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-21-n1760,single,ds,RS,3,inferred,,,46.7,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-21-n2345,single,ds,RS,3,inferred,,,46.7,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-21-n2935,single,ds,RS,3,inferred,,,46.5,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-21-n3520,single,ds,RS,3,inferred,,,46.7,,,,,,,setup_incomplete,maybe,1,partial
+b68-ds-f2-23-rsm-a,,ds,RSM-a,,unknown,,,,,,,,,,pending,no,1,partial
+b68-ds-f2-23-rsm-b,,ds,RSM-b,,unknown,,,,,,,,,,pending,no,1,partial
+b68-gs-f2-14-rsm-a,averaged-series,gs,RSM-a,,,,,,,,,,,F2-14;T2-3,pending,no,1,partial
+b68-tx-p2-49-rs-dense,summary,tx,RS,4,inferred,,,,,,,,,,setup_incomplete,no,,partial
+b68-dpt-p2-90-rs-49-beds,summary,dpt,RS,1,reported,RS Loose,,,,,,,,text 2-90 (PDF 115),setup_incomplete,no,,partial
+b68-tx-p2-49-rs-intermediate,summary,tx,RS,3,inferred,,,,,,,,,,setup_incomplete,no,,partial

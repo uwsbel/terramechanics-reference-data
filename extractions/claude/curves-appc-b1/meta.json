@@ -1,0 +1,31 @@
+{
+  "agent": "claude",
+  "batch": "curves-appc-b1",
+  "date": "2026-10-13",
+  "model": "claude-fable-5-1 (one subagent per figure, launched from a Claude Code session)",
+  "prompt": "BRIEF.md plus a per-figure task naming the workspace and the figure",
+  "evidence_packet": "page images, figures-rows.csv, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py (same packet as Codex, one figure per workspace)",
+  "blindness": "workspace outside the repository; the brief forbids opening the repository or the Codex run folder; filed after both Codex runs had finished",
+  "runs": {
+    "FC-1C": {
+      "elapsed_sec": 1243.3,
+      "subagent_tokens": 245162,
+      "tool_uses": 110
+    },
+    "FC-1D": {
+      "elapsed_sec": 1338.7,
+      "subagent_tokens": 294743,
+      "tool_uses": 99
+    },
+    "FC-2B": {
+      "elapsed_sec": 1407.6,
+      "subagent_tokens": 267695,
+      "tool_uses": 100
+    },
+    "FC-2C": {
+      "elapsed_sec": 1559.1,
+      "subagent_tokens": 262530,
+      "tool_uses": 109
+    }
+  }
+}

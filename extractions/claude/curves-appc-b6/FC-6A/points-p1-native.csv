@@ -1,0 +1,78 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-6A,1,dr5-40,marker,1,975.7,2976.0,3,6,triangle-up,"T0: centroid of reconstructed triangle (rule 8), v bound >= height/6; at the origin corner; line A and the lowest dash of line B cross its base; sides from rows 2959-2983, base centerline v 2987.5",142.015,102.874,13.855,26.575
+FC-6A,1,dr5-40,marker,2,1446.3,2545.4,3,6,triangle-up,"T1: centroid of reconstructed triangle (rule 8), v bound >= height/6; under circle C1 (apex hidden in the circle) and crossed by lines M and B; base-left corner hidden by line B, reconstructed from the left side at v 2540 and the right side (rows 2548-2553) with an equilateral shape; rule 9: it sits on line B (squares' line, 3 px) and next to line M, 45 px below line A; series by shape",1763.153,1553.494,13.855,26.575
+FC-6A,1,dr5-40,marker,3,1767.3,2207.7,3,6,triangle-up,"T2: centroid of reconstructed triangle (rule 8), v bound >= height/6; crossed by line M; line A has a gap at this triangle (A passes through its apex); base centerline v 2219; rule 9: its centroid sits on line M (circles' line, 3 px), 27 px below line A; series by shape",2870.628,2692.508,13.855,26.575
+FC-6A,1,dr5-40,marker,4,2030.0,1916.8,3,6,triangle-up,"T3: centroid of reconstructed triangle (rule 8), v bound >= height/6; the dashed reference lines labelled 3680 and 3820 meet at this triangle; circle C3 touches its apex; line A has a gap here, line M crosses the base-right corner; base centerline v 1928",3777.52,3674.063,13.855,26.575
+FC-6A,1,dr5-40,marker,5,2264.5,1653.5,3,6,triangle-up,"T4: centroid of reconstructed triangle (rule 8), v bound >= height/6; right side faint below v 1645, base-right corner merges with line A (corner reconstructed symmetric); triangle sits about 31 px above line A",4587.199,4562.583,13.855,26.575
+FC-6A,1,dr19-28,marker,1,1147.0,2881.0,2,2,circle,C0: clean,729.752,421.005,10.292,12.948
+FC-6A,1,dr19-28,marker,2,1440.0,2526.0,3,3,circle,"C1: the apex of triangle T1 lies inside the ring and its left side crosses the hole; ring outer extent u 1429-1451, v 2515-2538",1742.414,1619.627,13.74,16.376
+FC-6A,1,dr19-28,marker,3,1782.5,2152.8,2.5,2.5,circle,"C2: top touches square S2's bottom edge, bottom crossed by line A where A resumes; rule 9: it sits on line A (triangles' line, 13 px) and 43 px above line M; series by shape",2924.559,2878.724,12.016,14.662
+FC-6A,1,dr19-28,marker,4,2042.0,1885.5,2.5,2.5,circle,"C3: bottom touches triangle T3's apex, right side touches line A; rule 9: nearest line is A (triangles' line, 21 px), 48 px above line M; series by shape",3819.636,3780.136,12.016,14.662
+FC-6A,1,dr19-28,marker,5,2288.0,1738.0,2,2,circle,C4: clean; between the right ends of lines M and B,4664.095,4274.641,10.292,12.948
+FC-6A,1,dr19-28,marker,6,892.5,3054.5,2,2,circle,"Cx: circle printed OUTSIDE the plot frame, below-left of the origin, at negative sigma and tau (about -145, -162 psf); same size as the circle symbols; it sits at the same height (within about 2 px) as the point where the dashed extension of line M meets the sigma = 0 axis, 41 px to its left; not a physical test (negative normal stress); series by shape only; probably an intercept or identity mark, not a data point",-144.686,-161.652,10.292,12.948
+FC-6A,1,dr103-107,marker,1,1149.2,2772.8,2,2,square,"S0: right side touches line A; rule 9: nearest line is A (triangles' line, 24 px), 48 px above line B; series by shape",741.395,788.795,10.292,12.948
+FC-6A,1,dr103-107,marker,2,1440.0,2591.0,2,2,square,S1: clean,1739.926,1398.644,10.292,12.948
+FC-6A,1,dr103-107,marker,3,1784.0,2128.5,2.5,2.5,square,"S2: top edge merges with the tau = 3000 grid line (center from sides and bottom, size 25 px)",2930.604,2961.295,12.016,14.662
+FC-6A,1,dr103-107,marker,4,2038.5,2098.5,2.5,2.5,square,S3: left side coincides with the dashed reference line drawn at sigma ~3750 (labelled 3820); bottom edge touches the tau = 3000 grid line,3799.548,3056.09,12.016,14.662
+FC-6A,1,dr103-107,marker,5,2288.8,1796.8,2,2,square,S4: clean; line B ends 12 px left of its left side,4664.572,4074.713,10.292,12.948
+FC-6A,1,dr5-40,trace,1,934.4,3010.8,5,5,,left end: solid line runs into the frame corner at the origin; point where the fitted line meets sigma = 0 (ink merges with the frame),-0.142,-14.269,20.636,23.232
+FC-6A,1,dr5-40,trace,2,1007,2938.4,0,7,,sigma 250; fitted position on merged ink (merged with line B),250.181,229.819,3.664,29.89
+FC-6A,1,dr5-40,trace,3,1079,2866.5,0,7,,sigma 500,498.44,472.224,3.664,29.89
+FC-6A,1,dr5-40,trace,4,1150,2796.0,0,7,,sigma 750; moved -2 px along the line from the 750 psf column (the run there touches a symbol outline),743.235,709.898,3.664,29.89
+FC-6A,1,dr5-40,trace,5,1224,2722.2,0,7,,sigma 1000; fitted position on merged ink (at or next to a grid line),998.386,958.706,3.664,29.89
+FC-6A,1,dr5-40,trace,6,1297,2650.5,0,7,,sigma 1250,1250.046,1200.403,3.664,29.89
+FC-6A,1,dr5-40,trace,7,1369,2578.5,0,7,,sigma 1500,1498.308,1443.148,3.664,29.89
+FC-6A,1,dr5-40,trace,8,1443,2502.0,0,7,,sigma 1750; moved +1 px along the line from the 1750 psf column (gap or end of a drawn segment),1753.562,1701.136,3.664,29.89
+FC-6A,1,dr5-40,trace,9,1514,2433.1,0,7,,sigma 2000; fitted position on merged ink (at or next to a grid line),1998.296,1933.37,3.664,29.89
+FC-6A,1,dr5-40,trace,10,1587,2360.5,0,7,,sigma 2250,2249.991,2178.127,3.664,29.89
+FC-6A,1,dr5-40,trace,11,1660,2286.0,0,7,,sigma 2500,2501.759,2429.343,3.664,29.89
+FC-6A,1,dr5-40,trace,12,1732,2216.5,0,7,,sigma 2750,2749.925,2663.589,3.664,29.89
+FC-6A,1,dr5-40,trace,13,1805,2143.1,0,7,,sigma 3000; fitted position on merged ink (at or next to a grid line),3001.651,2911.065,3.664,29.89
+FC-6A,1,dr5-40,trace,14,1877,2070.5,0,7,,sigma 3250,3249.936,3155.85,3.664,29.89
+FC-6A,1,dr5-40,trace,15,1950,1998.5,0,7,,sigma 3500,3501.608,3398.567,3.664,29.89
+FC-6A,1,dr5-40,trace,16,2095,1854.1,0,7,,sigma 4000; fitted position on merged ink (at or next to a grid line),4001.558,3885.389,3.664,29.89
+FC-6A,1,dr5-40,trace,17,2167,1783.5,0,7,,sigma 4250,4249.766,4123.374,3.664,29.89
+FC-6A,1,dr5-40,trace,18,2240,1709.5,0,7,,sigma 4500,4501.515,4372.89,3.664,29.89
+FC-6A,1,dr5-40,trace,19,2312,1638.5,0,7,,sigma 4750,4749.739,4612.236,3.664,29.89
+FC-6A,1,dr5-40,trace,20,2343.0,1610.0,5,5,,right end of the ink (solid line ends at sigma ~4860),4856.534,4708.252,20.636,23.232
+FC-6A,1,dr19-28,trace,1,934.9,3052.5,4,4,,dashed; left end: the lowest dash reaches the sigma = 0 axis below the frame (tau < 0) and its ink runs on to u 926; point on the dash centerline at sigma = 0,-0.033,-156.052,17.188,19.804
+FC-6A,1,dr19-28,trace,2,1007,2981.0,0,7,,dashed; sigma 250,248.551,84.99,3.664,29.89
+FC-6A,1,dr19-28,trace,3,1080,2906.0,0,7,,dashed; sigma 500,500.338,337.907,3.664,29.89
+FC-6A,1,dr19-28,trace,4,1152,2831.9,0,7,,dashed; sigma 750; fitted position on merged ink (merged with line B),748.68,587.791,3.664,29.89
+FC-6A,1,dr19-28,trace,5,1225,2758.2,0,7,,"sigma 1000; fitted position on merged ink (merged with line B, at or next to a grid line)",1000.417,836.287,3.664,29.89
+FC-6A,1,dr19-28,trace,6,1297,2685.6,0,7,,sigma 1250; fitted position on merged ink (merged with line B),1248.702,1081.072,3.664,29.89
+FC-6A,1,dr19-28,trace,7,1370,2611.9,0,7,,sigma 1500; fitted position on merged ink (merged with line B),1500.44,1329.569,3.664,29.89
+FC-6A,1,dr19-28,trace,8,1515,2465.6,0,7,,sigma 2000; fitted position on merged ink (at or next to a grid line),2000.462,1822.85,3.664,29.89
+FC-6A,1,dr19-28,trace,9,1587,2393.0,0,7,,sigma 2250,2248.747,2067.635,3.664,29.89
+FC-6A,1,dr19-28,trace,10,1660,2319.0,0,7,,sigma 2500,2500.496,2317.151,3.664,29.89
+FC-6A,1,dr19-28,trace,11,1732,2245.5,0,7,,sigma 2750,2748.815,2564.996,3.664,29.89
+FC-6A,1,dr19-28,trace,12,1805,2173.0,0,7,,sigma 3000; fitted position on merged ink (at or next to a grid line),3000.506,2809.413,3.664,29.89
+FC-6A,1,dr19-28,trace,13,1877,2100.0,0,7,,sigma 3250,3248.807,3055.558,3.664,29.89
+FC-6A,1,dr19-28,trace,14,1950,2028.0,0,7,,sigma 3500,3500.479,3298.275,3.664,29.89
+FC-6A,1,dr19-28,trace,15,2022,1954.0,0,7,,sigma 3750,3748.818,3547.819,3.664,29.89
+FC-6A,1,dr19-28,trace,16,2095,1880.3,0,7,,sigma 4000; fitted position on merged ink (at or next to a grid line),4000.555,3796.315,3.664,29.89
+FC-6A,1,dr19-28,trace,17,2167,1807.7,0,7,,sigma 4250; fitted position on merged ink (at or next to a grid line),4248.84,4041.1,3.664,29.89
+FC-6A,1,dr19-28,trace,18,2240,1734.0,0,7,,sigma 4500,4500.577,4289.597,3.664,29.89
+FC-6A,1,dr19-28,trace,19,2252.0,1725.0,5,5,,"right end of the ink (ink ends at u 2254, last full-width column 2252)",4541.839,4319.855,20.636,23.232
+FC-6A,1,dr103-107,trace,1,946.3,3007.7,4,5,,dashed; left end: the lowest dash runs into the tau = 0 frame line about 12 px right of the sigma = 0 axis (merged with line A and the frame); it does not reach the sigma = 0 axis,40.553,-4.066,17.226,23.204
+FC-6A,1,dr103-107,trace,2,1007,2951.9,0,7,,dashed; sigma 250; fitted position on merged ink (merged with line A),249.665,183.923,3.664,29.89
+FC-6A,1,dr103-107,trace,3,1080,2885.0,0,7,,dashed; sigma 500,501.141,409.301,3.664,29.89
+FC-6A,1,dr103-107,trace,4,1152,2818.6,0,7,,dashed; sigma 750; fitted position on merged ink (merged with line M),749.189,633.008,3.664,29.89
+FC-6A,1,dr103-107,trace,5,1225,2751.5,0,7,,"sigma 1000; fitted position on merged ink (merged with line M, at or next to a grid line)",1000.674,859.066,3.664,29.89
+FC-6A,1,dr103-107,trace,6,1297,2685.4,0,7,,sigma 1250; fitted position on merged ink (merged with line M),1248.71,1081.752,3.664,29.89
+FC-6A,1,dr103-107,trace,7,1370,2618.3,0,7,,sigma 1500; fitted position on merged ink (merged with line M),1500.195,1307.81,3.664,29.89
+FC-6A,1,dr103-107,trace,8,1515,2485.0,0,7,,sigma 2000; fitted position on merged ink (at or next to a grid line),1999.719,1756.895,3.664,29.89
+FC-6A,1,dr103-107,trace,9,1588,2417.9,0,7,,sigma 2250; fitted position on merged ink (at or next to a grid line),2251.204,1982.953,3.664,29.89
+FC-6A,1,dr103-107,trace,10,1660,2352.0,0,7,,sigma 2500,2499.232,2204.96,3.664,29.89
+FC-6A,1,dr103-107,trace,11,1733,2285.0,0,7,,sigma 2750,2750.713,2430.678,3.664,29.89
+FC-6A,1,dr103-107,trace,12,1805,2218.4,0,7,,sigma 3000; fitted position on merged ink (at or next to a grid line),2998.768,2655.065,3.664,29.89
+FC-6A,1,dr103-107,trace,13,1878,2151.5,0,7,,sigma 3250,3250.245,2880.443,3.664,29.89
+FC-6A,1,dr103-107,trace,14,1950,2085.0,0,7,,sigma 3500,3498.297,3104.489,3.664,29.89
+FC-6A,1,dr103-107,trace,15,2023,2017.5,0,7,,sigma 3750,3749.797,3331.907,3.664,29.89
+FC-6A,1,dr103-107,trace,16,2096,1950.9,0,7,,sigma 4000; fitted position on merged ink (at or next to a grid line),4001.262,3556.266,3.664,29.89
+FC-6A,1,dr103-107,trace,17,2168,1884.5,0,7,,sigma 4250,4249.31,3779.972,3.664,29.89
+FC-6A,1,dr103-107,trace,18,2241,1817.7,0,7,,sigma 4500; fitted position on merged ink (at or next to a grid line),4500.783,4005.01,3.664,29.89
+FC-6A,1,dr103-107,trace,19,2261.0,1801.0,5,5,,right end of the ink (ends 12 px left of square S4),4569.618,4061.221,20.636,23.232
+FC-6A,1,dr5-40,feature,1,934.4,3010.8,3,4,,"intercept: line A meets sigma = 0 at the frame corner, 3 px below the tau = 0 line center (tau about -14 psf, zero within the bound)",-0.142,-14.269,13.778,19.776
+FC-6A,1,dr19-28,feature,1,934.9,3052.5,3,4,,"intercept: the dashed extension of line M meets sigma = 0 below the frame (tau < 0), on the measured dash centerline; the solid part's fit extrapolated gives v 3051.0 there (+1.6 px)",-0.033,-156.052,13.778,19.776
+FC-6A,1,dr103-107,feature,1,934.5,3018.5,3,5,,"intercept: extrapolated on the line fitted to B (its dashes lie within 2 px of the fit); the drawn dashed extension stops at the tau = 0 frame line, about 12 px short of the sigma = 0 axis",-0.096,-40.45,13.816,23.175

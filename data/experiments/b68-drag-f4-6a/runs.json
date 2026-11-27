@@ -1,0 +1,170 @@
+{
+  "experiment_id": "b68-drag-f4-6a",
+  "source": "bendix-1968-vol1",
+  "figure_id": "F4-6a",
+  "batch": "tables-s4-b1",
+  "kind": "run-table",
+  "method": "two independent transcriptions of the printed table (Claude; Codex gpt-6.2-sol high), compared cell by cell by tools/diff_tables.py, every number exactly as printed; a cell enters only when both agree (status agreed)",
+  "runs": 32,
+  "by_status": {
+    "agreed": 32
+  },
+  "columns": [
+    {
+      "printed": "D_in",
+      "quantity": "footpad diameter D",
+      "unit_native": "in",
+      "unit_si": "m",
+      "column_si": "D_m",
+      "factor": 0.0254
+    },
+    {
+      "printed": "d_in",
+      "quantity": "footpad depth d: from the soil surface to the bottom of the pad at zero pitch (Fig. 4-4), a nominal set point held by locking the loading piston (printed 3-13, PDF 154); the pad's ball pivot may have been free or clamped, which is not stated per run (Fig. 3-10)",
+      "unit_native": "in",
+      "unit_si": "m",
+      "column_si": "d_m",
+      "factor": 0.0254
+    },
+    {
+      "printed": "VH_fps",
+      "quantity": "horizontal velocity V_H",
+      "unit_native": "ft_s",
+      "unit_si": "m_s",
+      "column_si": "VH_m_s",
+      "factor": 0.3048
+    },
+    {
+      "printed": "gp_bar",
+      "quantity": "mean dynamic penetrometer peak deceleration of the bed, g_p bar",
+      "unit_native": "g",
+      "unit_si": "m_s2",
+      "column_si": "gp_bar_m_s2",
+      "factor": 9.80665
+    },
+    {
+      "printed": "Dr",
+      "quantity": "relative density D_r",
+      "unit_native": "none",
+      "unit_si": "none",
+      "column_si": "Dr",
+      "factor": 1.0
+    },
+    {
+      "printed": "gamma_pcf",
+      "quantity": "unit weight gamma",
+      "unit_native": "pcf",
+      "unit_si": "N_m3",
+      "column_si": "unit_weight_N_m3",
+      "factor": 157.08746384624618
+    },
+    {
+      "printed": "FD_lb",
+      "quantity": "drag load F_D",
+      "unit_native": "lbf",
+      "unit_si": "N",
+      "column_si": "FD_N",
+      "factor": 4.4482216152605
+    },
+    {
+      "printed": "FV_lb",
+      "quantity": "vertical load F_V",
+      "unit_native": "lbf",
+      "unit_si": "N",
+      "column_si": "FV_N",
+      "factor": 4.4482216152605
+    },
+    {
+      "printed": "alpha_deg",
+      "quantity": "footpad pitch angle alpha",
+      "unit_native": "deg",
+      "unit_si": "deg",
+      "column_si": "alpha_deg",
+      "factor": 1.0
+    },
+    {
+      "printed": "FD_over_d_gamma_Aft",
+      "quantity": "F_D / (d gamma A_ft), as printed (dimensionless)",
+      "unit_native": "none",
+      "unit_si": "none",
+      "column_si": "FD_over_d_gamma_Aft",
+      "factor": 1.0
+    },
+    {
+      "printed": "VH_over_sqrt_dg",
+      "quantity": "V_H / sqrt(d g), as printed (dimensionless)",
+      "unit_native": "none",
+      "unit_si": "none",
+      "column_si": "VH_over_sqrt_dg",
+      "factor": 1.0
+    },
+    {
+      "printed": "FD_over_Aft",
+      "quantity": "F_D / A_ft, as printed (psi)",
+      "unit_native": "psi",
+      "unit_si": "Pa",
+      "column_si": "FD_over_Aft_Pa",
+      "factor": 6894.757293168
+    },
+    {
+      "printed": "FV_over_Apt",
+      "quantity": "F_V / A_pt, as printed (psi)",
+      "unit_native": "psi",
+      "unit_si": "Pa",
+      "column_si": "FV_over_Apt_Pa",
+      "factor": 6894.757293168
+    },
+    {
+      "printed": "gamma_pcf",
+      "quantity": "bulk density (unit weight under standard gravity)",
+      "unit_native": "pcf",
+      "unit_si": "kg_m3",
+      "column_si": "bulk_density_kg_m3",
+      "factor": 16.018463373960138
+    }
+  ],
+  "derived_columns": "A_ft is the total horizontal frontal area and A_pt the vertical frontal area of the footpad (labels of Fig. 4-4, printed 4-6, PDF 191; no formula printed); g in V_H/sqrt(dg) is not defined on the page. The arithmetic check is qa/tables-s4-b1/arithmetic.md; rows outside the printed rounding are named in `check`.",
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "cells": 416,
+    "cells_sampled": 0,
+    "cells_confirmed": 0,
+    "by_pair_outcome": {},
+    "rule": "the student reviewers check a sample of the printed cells against the scan, each cell for its row and column (A) and its value as printed (B); a cell is confirmed when two reviewers answered ok; `audit` in runs.csv lists each run's audited cells with their outcome; a run's status stays as the two transcriptions left it"
+  },
+  "precision": "each value carries the precision of its printing (half a unit of its last printed digit), except the diameters D and depths d, nominal set points of the rig, taken as exact; no reading bound applies to a transcribed number. The units of F_D/A_ft and F_V/A_pt are not printed; psi is inferred from their magnitudes and the other columns. Printed values are in the columns named by their printed unit (D_in, FD_lb, ...); a column kept as printed (Dr, alpha_deg, the dimensionless derived columns) is not repeated",
+  "pending_cells": "a cell with an unreadable digit (`?`) keeps it in the printed column, its SI value is empty and its row is pending-review",
+  "arithmetic": {
+    "table": "qa/tables-s4-b1/agreed.csv",
+    "runs": 32,
+    "skipped": [],
+    "factor": {
+      "common": true,
+      "low": 0.9737712878536644,
+      "high": 0.9763480499993051,
+      "used": 0.9750596689264848,
+      "raw_range": [
+        0.9721518987341772,
+        0.9792809538921884
+      ],
+      "effective_gamma_pcf": [
+        40.02199993078561,
+        40.12790485497144
+      ],
+      "printed_gamma_pcf": 41.1,
+      "rows_off": []
+    },
+    "flags": [
+      "1-4",
+      "1-10",
+      "1-13",
+      "1-23",
+      "1-25",
+      "1-28",
+      "1-29",
+      "1-30",
+      "1-31"
+    ],
+    "report": "qa/tables-s4-b1/arithmetic.md"
+  }
+}

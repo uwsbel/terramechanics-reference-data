@@ -1,0 +1,81 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-20,1,data,marker,1,826,3230,2,2,circle,single
+FC-20,1,data,marker,2,826,3281,18,18,circle,pair 1 left; circle overlaps solid curve
+FC-20,1,data,marker,3,1008,3281,2,2,circle,pair 1 right
+FC-20,1,data,marker,4,1263,2966,9,9,circle,single; circle overlaps vertical grid line
+FC-20,1,data,marker,5,1529,2672,2,2,circle,single
+FC-20,1,data,marker,6,1994,2319,2,2,circle,single
+FC-20,1,data,marker,7,2342,2320,18,18,circle,single; circle overlaps solid curve and vertical grid line
+FC-20,1,mean,trace,1,798.0,3264.0,3.0,3.0,,first ink point
+FC-20,1,mean,trace,2,804.74,3264.85,4.5,4.5,,target Dr=0.00
+FC-20,1,mean,trace,3,880.43,3244.08,4.0,4.0,,target Dr=0.05
+FC-20,1,mean,trace,4,956.0,3218.02,3.5,3.5,,target Dr=0.10
+FC-20,1,mean,trace,5,1033.98,3187.91,3.0,3.0,,target Dr=0.15
+FC-20,1,mean,trace,6,1111.84,3152.91,3.5,3.5,,target Dr=0.20
+FC-20,1,mean,trace,7,1191.62,3108.46,4.0,4.0,,target Dr=0.25
+FC-20,1,mean,trace,8,1271.12,3052.42,4.5,4.5,,target Dr=0.30
+FC-20,1,mean,trace,9,1347.03,2986.75,4.5,4.5,,target Dr=0.35
+FC-20,1,mean,trace,10,1422.76,2908.94,4.5,4.5,,target Dr=0.40
+FC-20,1,mean,trace,11,1497.57,2823.38,5.5,5.5,,target Dr=0.45
+FC-20,1,mean,trace,12,1572.31,2738.7,4.0,4.0,,target Dr=0.50
+FC-20,1,mean,trace,13,1649.85,2659.21,4.5,4.5,,target Dr=0.55
+FC-20,1,mean,trace,14,1727.77,2594.21,4.5,4.5,,target Dr=0.60
+FC-20,1,mean,trace,15,1803.72,2542.62,3.5,3.5,,target Dr=0.65
+FC-20,1,mean,trace,16,1879.85,2498.4,3.5,3.5,,target Dr=0.70
+FC-20,1,mean,trace,17,1953.06,2462.22,3.5,3.5,,target Dr=0.75
+FC-20,1,mean,trace,18,2026.41,2430.5,4.0,4.0,,target Dr=0.80
+FC-20,1,mean,trace,19,2106.11,2397.46,3.5,3.5,,target Dr=0.85
+FC-20,1,mean,trace,20,2185.93,2368.22,4.5,4.5,,target Dr=0.90
+FC-20,1,mean,trace,21,2263.15,2340.13,3.5,3.5,,target Dr=0.95
+FC-20,1,mean,trace,22,2322.0,2318.0,3.0,3.0,,last ink point
+FC-20,1,mean,feature,1,798.0,3264.0,3.0,3.0,,first point
+FC-20,1,mean,feature,2,2322.0,2318.0,3.0,3.0,,last point; peak
+FC-20,1,upper,trace,1,801.0,3177.0,3.0,3.0,,first ink point
+FC-20,1,upper,trace,2,810.0,3167.93,4.0,4.0,,target Dr=0.00; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,3,878.0,3140.86,4.5,4.5,,target Dr=0.05
+FC-20,1,upper,trace,4,961.0,3097.82,4.0,4.0,,target Dr=0.10; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,5,1031.0,3053.9,3.5,3.5,,target Dr=0.15
+FC-20,1,upper,trace,6,1099.0,3007.45,2.0,2.0,,target Dr=0.20; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,7,1188.0,2937.62,4.0,4.0,,target Dr=0.25
+FC-20,1,upper,trace,8,1279.0,2857.47,2.0,2.0,,target Dr=0.30; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,9,1343.0,2803.52,4.5,4.5,,target Dr=0.35
+FC-20,1,upper,trace,10,1441.0,2710.92,2.0,2.0,,target Dr=0.40; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,11,1494.0,2667.28,2.0,2.0,,target Dr=0.45
+FC-20,1,upper,trace,12,1582.0,2580.06,3.0,3.0,,target Dr=0.50; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,13,1647.0,2522.28,5.0,5.0,,target Dr=0.55
+FC-20,1,upper,trace,14,1732.0,2449.75,4.5,4.5,,target Dr=0.60; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,15,1798.0,2399.5,2.0,2.0,,target Dr=0.65
+FC-20,1,upper,trace,16,1869.0,2349.62,4.0,4.0,,target Dr=0.70; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,17,1953.0,2301.2,2.5,2.5,,target Dr=0.75
+FC-20,1,upper,trace,18,2016.0,2269.4,3.5,3.5,,target Dr=0.80; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,19,2120.0,2222.33,3.5,3.5,,target Dr=0.85; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,20,2190.0,2197.5,4.0,4.0,,target Dr=0.90; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,upper,trace,21,2259.0,2188.6,2.0,2.0,,target Dr=0.95
+FC-20,1,upper,trace,22,2336.0,2167.0,3.0,3.0,,last ink point
+FC-20,1,upper,feature,1,801.0,3177.0,3.0,3.0,,first point
+FC-20,1,upper,feature,2,2336.0,2167.0,3.0,3.0,,last point; peak
+FC-20,1,lower,trace,1,805.0,3385.0,3.0,3.0,,first ink point
+FC-20,1,lower,trace,2,815.0,3381.2,4.5,4.5,,target Dr=0.00; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,3,883.0,3355.85,4.0,4.0,,target Dr=0.05
+FC-20,1,lower,trace,4,951.0,3331.0,4.0,4.0,,target Dr=0.10; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,5,1036.0,3296.5,4.0,4.0,,target Dr=0.15
+FC-20,1,lower,trace,6,1107.0,3265.92,3.0,3.0,,target Dr=0.20; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,7,1187.0,3231.0,2.0,2.0,,target Dr=0.25; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,8,1267.0,3184.41,3.0,3.0,,target Dr=0.30; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,9,1350.0,3132.05,2.0,2.0,,target Dr=0.35
+FC-20,1,lower,trace,10,1433.0,3059.07,4.5,4.5,,target Dr=0.40; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,11,1505.0,2973.69,2.5,2.5,,target Dr=0.45
+FC-20,1,lower,trace,12,1583.0,2879.5,5.0,5.0,,target Dr=0.50; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,13,1659.0,2793.0,4.5,4.5,,target Dr=0.55
+FC-20,1,lower,trace,14,1723.0,2728.0,4.5,4.5,,target Dr=0.60; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,15,1806.0,2657.62,3.5,3.5,,target Dr=0.65
+FC-20,1,lower,trace,16,1875.0,2607.72,3.5,3.5,,target Dr=0.70; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,17,1943.0,2568.11,2.0,2.0,,target Dr=0.75; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,18,2036.0,2519.69,4.0,4.0,,target Dr=0.80; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,19,2108.0,2487.44,3.5,3.5,,target Dr=0.85
+FC-20,1,lower,trace,20,2180.0,2457.19,4.0,4.0,,target Dr=0.90; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,21,2265.0,2424.5,3.0,3.0,,target Dr=0.95
+FC-20,1,lower,trace,22,2335.0,2398.0,3.5,3.5,,target Dr=1.00; moved to nearest visible dash end or ink beside grid/symbol interruption
+FC-20,1,lower,trace,23,2343.0,2393.0,3.0,3.0,,last ink point
+FC-20,1,lower,feature,1,805.0,3385.0,3.0,3.0,,first point
+FC-20,1,lower,feature,2,2343.0,2393.0,3.0,3.0,,last point; peak

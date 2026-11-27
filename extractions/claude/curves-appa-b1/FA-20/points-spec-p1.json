@@ -1,0 +1,11 @@
+{
+ "figure_id": "FA-20", "series_id": "curve", "panel": 1,
+ "x_values": [0.05,0.10,0.15,0.20,0.25,0.30,0.35,0.40,0.45,0.50,0.55,0.60,0.65,0.70,0.75,0.80,0.85,0.90,0.95],
+ "bound_px": 6.0,
+ "first": {"u": 817.5, "v": 2504.8, "ub": 6.0, "vb": 6.0,
+   "note": "the curve runs into the left frame (x = 0 line; frame ink u 806 to 816, centre 811.6): sample at the frame's inner edge, u bound reaching the frame centre; no ink left of the frame"},
+ "last": {"u": 2352.5, "v": 1765.3, "ub": 6.0, "vb": 6.0,
+   "note": "the curve runs into the right frame (x = 1.0 line; frame ink u 2353 to 2361, centre 2357.2): sample at the frame's inner edge; no ink beyond the frame"},
+ "features": [{"role": "knee", "u": 1571, "v": 2102.0, "ub": 80, "vb": 44,
+   "note": "gradual bend made of two gentle sub-bends (curvature peaks near u 1480 and 1735), not a kink: straight stretches dv/du -0.544 (u 818 to 1370) and -0.420 (u 1800 to 2350), a 23 % change, with a short stretch at -0.474 (u 1560 to 1660) between them; knee at the curvature-weighted centroid of the whole bend (u 1571, Dr 0.50); u bound 80 px (about 0.05 in Dr), v bound = |slope| x 80 px + half the line thickness"}]
+}

@@ -1,0 +1,18 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,ps,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 072 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,ps,trace,6,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 070 (Claude's adjudicator: p; Codex's: p))
+1,ps,trace,19,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 071 (Claude's adjudicator: q; Codex's: q))
+1,ps,trace,24,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 073 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rc2,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 074 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rc2,trace,23,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 075 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rs,trace,18,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 076 (Claude's adjudicator: p; Codex's: p))
+1,rs,trace,19,claude,resolved,,the claude reading is on the drawn line; credit claude (blind adjudication item 077 (Claude's adjudicator: p; Codex's: p))
+1,rs,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 078 (Claude's adjudicator: all no; Codex's: all no)
+1,rs,trace,26,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 079 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rsm-a,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 080 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rsm-a,trace,24,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 081 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rsm-b,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 082 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rsm-b,trace,23,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 083 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,ss,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 084 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,ss,trace,23,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 085 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rs,trace,1,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 033 (Claude's adjudicator: all yes; Codex's: all yes)"

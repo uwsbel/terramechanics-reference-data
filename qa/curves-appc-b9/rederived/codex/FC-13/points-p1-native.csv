@@ -1,0 +1,22 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-13,1,ss-loose,marker,1,755.0,3678.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Fit crosses lower left and right side.,146.102,131.797,23.022,28.6,piecewise
+FC-13,1,ss-loose,marker,2,1213.0,3411.0,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 32 px. Base overlaps horizontal grid line.,1720.208,1030.962,23.803,29.544,piecewise
+FC-13,1,ss-loose,marker,3,1396.0,3316.33,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 34 px. Fit touches left base and right side.,2352.545,1354.468,23.909,29.36,piecewise
+FC-13,1,ss-loose,marker,4,1560.0,3235.33,2.0,5.167,triangle-up,Reconstructed triangle centroid; outer height about 31 px. ,2919.485,1631.262,9.44,19.53,piecewise
+FC-13,1,ss-loose,marker,5,1819.0,3076.67,2.0,5.5,triangle-up,Reconstructed triangle centroid; outer height about 33 px. ,3811.67,2173.355,9.747,20.531,piecewise
+FC-13,1,ss-loose,marker,6,1991.0,2945.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. ,4402.004,2623.562,9.538,20.021,piecewise
+FC-13,1,ss-loose,marker,7,2075.0,2932.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 33 px. Fit ends against left base; symbol remains identifiable.,4688.986,2666.099,23.063,29.142,piecewise
+FC-13,1,ss-loose,trace,1,712.314,3702.0,5.5,5.5,,first point; fit meets x=0 axis,-0.001,53.506,21.463,20.19,piecewise extrapolated x
+FC-13,1,ss-loose,trace,2,858.399,3619.783,5.663,5.663,,Normal stress sampling target 500 psf; local diagonal ink center.,499.999,329.423,21.557,20.884,piecewise
+FC-13,1,ss-loose,trace,3,1004.524,3537.226,5.228,5.228,,Normal stress sampling target 1000 psf; local diagonal ink center.,999.999,606.585,19.884,19.573,piecewise
+FC-13,1,ss-loose,trace,4,1149.278,3455.372,5.663,5.663,,Normal stress sampling target 1500 psf; local diagonal ink center.,1500.0,881.492,22.235,21.179,piecewise
+FC-13,1,ss-loose,trace,5,1294.043,3372.838,6.099,6.099,,Normal stress sampling target 2000 psf; local diagonal ink center.,2000.001,1161.431,24.552,22.998,piecewise
+FC-13,1,ss-loose,trace,6,1438.644,3292.536,6.099,6.099,,Normal stress sampling target 2500 psf; local diagonal ink center.,2500.001,1435.742,24.064,22.843,piecewise
+FC-13,1,ss-loose,trace,7,1583.236,3210.411,5.663,5.663,,Normal stress sampling target 3000 psf; local diagonal ink center.,2999.999,1716.21,22.012,21.197,piecewise
+FC-13,1,ss-loose,trace,8,1728.484,3129.595,6.535,6.535,,Normal stress sampling target 3500 psf; local diagonal ink center.,3500.001,1992.185,25.179,24.048,piecewise
+FC-13,1,ss-loose,trace,9,1873.703,3047.493,5.228,5.228,,Normal stress sampling target 4000 psf; local diagonal ink center.,3999.999,2273.251,20.915,19.636,piecewise
+FC-13,1,ss-loose,trace,10,2019.788,2965.326,5.663,5.663,,Normal stress sampling target 4500 psf; local diagonal ink center.,4500.001,2554.414,21.996,21.157,piecewise
+FC-13,1,ss-loose,trace,11,2058.0,2944.0,5.5,5.5,,last point; maximum of trace; last distinguishable fit ink at terminal triangle junction; continuation within symbol is not separately readable,4630.779,2627.365,21.355,20.609,piecewise
+FC-13,1,ss-loose,feature,1,712.314,3702.0,5.5,5.5,,first point,-0.001,53.506,21.463,20.19,piecewise extrapolated x
+FC-13,1,ss-loose,feature,2,2058.0,2944.0,5.5,5.5,,last point; maximum of trace; terminal fit/symbol junction,4630.779,2627.365,21.355,20.609,piecewise
+FC-13,1,ss-loose,feature,3,712.314,3702.0,5.5,5.5,,intercept,-0.001,53.506,21.463,20.19,piecewise extrapolated x

@@ -1,0 +1,34 @@
+{
+  "F4-6a": {
+    "kind": "table",
+    "source": "1968",
+    "title": "Figure 4-6a: Subscale Drag Test Results - Soil No. 1 - RS Loose (printed 4-8, PDF 193)",
+    "image": "corpus/1968/images/p0193.png",
+    "rotation": 90,
+    "key": "run_number",
+    "row_label": "run",
+    "columns": [
+      ["run_number", "Run Number"],
+      ["D_in", "D (Inch)"],
+      ["d_in", "d (Inch)"],
+      ["VH_fps", "V_H (fps)"],
+      ["gp_bar", "g_p with a bar over it"],
+      ["Dr", "D_r"],
+      ["gamma_pcf", "γ (Lb./Ft.³)"],
+      ["FD_lb", "F_D (Lb.)"],
+      ["FV_lb", "F_V (Lb.)"],
+      ["FD_over_d_gamma_Aft", "F_D over d γ A_ft"],
+      ["VH_over_sqrt_dg", "V_H over the square root of d g"],
+      ["FD_over_Aft", "F_D over A_ft"],
+      ["FV_over_Apt", "F_V over A_pt"],
+      ["alpha_deg", "α (Deg.)"]
+    ],
+    "aliases": {"run_number": ["run number", "Run Number"], "gamma_pcf": ["gamma"], "alpha_deg": ["alpha"], "FV_lb": ["FV"], "FD_lb": ["FD"], "d_in": ["d"], "D_in": ["D"],
+                "VH_fps": ["VH", "V_H"], "Dr": ["D_r"]},
+    "check_columns": {"VH/sqrt(dg)": ["VH_over_sqrt_dg"], "implied A_ft": ["FD_over_Aft"], "implied A_pt": ["FV_over_Apt"],
+                      "FD/Aft against": ["FD_over_Aft"]},
+    "check_key": "run_number",
+    "flag_verdicts": ["off", "flag"],
+    "notes_for_reviewers": "A printed table of 32 drag runs, sideways on the page; the packet shows it turned upright. Each row of the checklist names a run and a column. Its picture shows the run number of that row at the left and, at the right, the column's heading above the cell; the row is boxed in blue in both. A: does the picture show that run and that column? B: does the cell read the value given, digit for digit, with the decimal point where it is printed? Fractions are written as printed (1 1/2 is one and a half). A digit with a break or a missing piece counts as printed if it can still be read with confidence; if it cannot, answer cannot tell and say why in C."
+  }
+}

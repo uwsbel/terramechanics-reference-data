@@ -1,0 +1,1152 @@
+{
+ "figure": "FC-6D",
+ "image": "packet/p0134.png",
+ "overlay1": [
+  795,
+  830,
+  2270,
+  2240
+ ],
+ "overlay2": [
+  740,
+  2510,
+  2380,
+  3235
+ ],
+ "series": {
+  "n4695": {
+   "symbol": "plus",
+   "grid_overlap": true,
+   "m1": [
+    [
+     815,
+     1750,
+     5,
+     "Short plus partly broken."
+    ],
+    [
+     926,
+     1557
+    ],
+    [
+     1040,
+     1405,
+     6,
+     "Plus against vertical gridline."
+    ],
+    [
+     1097,
+     1364
+    ],
+    [
+     1151,
+     1303
+    ],
+    [
+     1207,
+     1252
+    ],
+    [
+     1327,
+     1149
+    ],
+    [
+     1437,
+     1085
+    ],
+    [
+     1547,
+     979
+    ],
+    [
+     1663,
+     934
+    ],
+    [
+     1788,
+     882
+    ],
+    [
+     1902,
+     850
+    ],
+    [
+     2029,
+     840
+    ],
+    [
+     2145,
+     846
+    ],
+    [
+     2227,
+     855,
+     7,
+     "Plus on right vertical gridline."
+    ]
+   ],
+   "m2": [
+    [
+     766,
+     3130,
+     8,
+     "Plus on left frame; stem shares frame."
+    ],
+    [
+     835,
+     3148,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     889,
+     3158,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     946,
+     3157,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1005,
+     3157,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1124,
+     3161,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1179,
+     3162,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1299,
+     3165,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1365,
+     3152,
+     8,
+     "Plus/triangle stack beside vertical gridline."
+    ],
+    [
+     1471,
+     3157,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1590,
+     3151,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1705,
+     3148,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1814,
+     3148,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     1936,
+     3140,
+     8,
+     "Plus/triangle stack against vertical gridline."
+    ],
+    [
+     2057,
+     3123,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     2178,
+     3115,
+     6,
+     "Plus stem touches down-triangle apex."
+    ],
+    [
+     2243,
+     3113,
+     8,
+     "Plus/triangle on right gridline."
+    ]
+   ],
+   "t1": [
+    [
+     826,
+     1733
+    ],
+    [
+     900,
+     1600
+    ],
+    [
+     1000,
+     1450
+    ],
+    [
+     1100,
+     1350
+    ],
+    [
+     1200,
+     1260
+    ],
+    [
+     1320,
+     1150
+    ],
+    [
+     1450,
+     1058
+    ],
+    [
+     1550,
+     983
+    ],
+    [
+     1680,
+     929
+    ],
+    [
+     1800,
+     875
+    ],
+    [
+     1950,
+     840
+    ],
+    [
+     2100,
+     841
+    ],
+    [
+     2201,
+     862
+    ]
+   ],
+   "first": [
+    826,
+    1733
+   ],
+   "peak": [
+    2060,
+    840
+   ],
+   "last": [
+    2201,
+    862
+   ],
+   "peak_u_bound": 65
+  },
+  "n3814": {
+   "symbol": "triangle-down",
+   "grid_overlap": true,
+   "m1": [
+    [
+     812.5,
+     1845.5
+    ],
+    [
+     924.5,
+     1660.5
+    ],
+    [
+     1096,
+     1512.5
+    ],
+    [
+     1151.5,
+     1447.5
+    ],
+    [
+     1210,
+     1390
+    ],
+    [
+     1326.5,
+     1312.5
+    ],
+    [
+     1488.5,
+     1213.5
+    ],
+    [
+     1618.5,
+     1176
+    ],
+    [
+     1729.5,
+     1148.5
+    ],
+    [
+     1844.5,
+     1120.5
+    ],
+    [
+     1975,
+     1105.5
+    ],
+    [
+     2140,
+     1102.5
+    ],
+    [
+     2224,
+     1103,
+     7,
+     "Down triangle on right gridline."
+    ]
+   ],
+   "m2": [
+    [
+     766,
+     3097,
+     8,
+     "Down triangle on left frame; contour merges with frame."
+    ],
+    [
+     834.5,
+     3121
+    ],
+    [
+     889,
+     3130
+    ],
+    [
+     946.5,
+     3125.5
+    ],
+    [
+     1005,
+     3131
+    ],
+    [
+     1124.5,
+     3138.5
+    ],
+    [
+     1179,
+     3135.5
+    ],
+    [
+     1299.5,
+     3139
+    ],
+    [
+     1365,
+     3132,
+     8,
+     "Down triangle intersects 100-displacement gridline; split interior."
+    ],
+    [
+     1471.5,
+     3125
+    ],
+    [
+     1590.5,
+     3118
+    ],
+    [
+     1705,
+     3120,
+     6,
+     "Interrupted contour; identifiable lower apex above plus."
+    ],
+    [
+     1814.5,
+     3113
+    ],
+    [
+     1936,
+     3107.5,
+     8,
+     "Triangle/plus stack against vertical gridline."
+    ],
+    [
+     2057.5,
+     3096.5
+    ],
+    [
+     2178.5,
+     3089.5
+    ],
+    [
+     2243.5,
+     3082,
+     8,
+     "Triangle/plus stack on right gridline."
+    ],
+    [
+     2319,
+     2908,
+     5,
+     "Rebound marker beyond x=250 gridline; same u as outside square/up-triangle."
+    ]
+   ],
+   "t1": [
+    [
+     826,
+     1828
+    ],
+    [
+     920,
+     1690
+    ],
+    [
+     1040,
+     1535
+    ],
+    [
+     1140,
+     1450
+    ],
+    [
+     1240,
+     1380
+    ],
+    [
+     1370,
+     1280
+    ],
+    [
+     1530,
+     1210
+    ],
+    [
+     1700,
+     1154
+    ],
+    [
+     1870,
+     1130
+    ],
+    [
+     2100,
+     1110
+    ],
+    [
+     2203,
+     1103.5
+    ]
+   ],
+   "first": [
+    826,
+    1828
+   ],
+   "peak": [
+    2203,
+    1103.5
+   ],
+   "last": [
+    2203,
+    1103.5
+   ],
+   "peak_u_bound": 60
+  },
+  "n2934": {
+   "symbol": "square",
+   "grid_overlap": true,
+   "m1": [
+    [
+     826,
+     1999.5
+    ],
+    [
+     935,
+     1846,
+     4,
+     "Observation sits above drawn author-fit curve."
+    ],
+    [
+     1050,
+     1802
+    ],
+    [
+     1162.5,
+     1699.5
+    ],
+    [
+     1277.5,
+     1645.5
+    ],
+    [
+     1389,
+     1588.5
+    ],
+    [
+     1506,
+     1534.5
+    ],
+    [
+     1623,
+     1495.5
+    ],
+    [
+     1738,
+     1465,
+     5,
+     "Square contour interrupted by curve."
+    ],
+    [
+     1856,
+     1435
+    ],
+    [
+     1970,
+     1420.5
+    ],
+    [
+     2148,
+     1420.5
+    ],
+    [
+     2232,
+     1418.5,
+     7,
+     "Square on right gridline; split interior."
+    ]
+   ],
+   "m2": [
+    [
+     765,
+     2976.5,
+     8,
+     "Square on left frame."
+    ],
+    [
+     846,
+     2982.5
+    ],
+    [
+     965,
+     2995.5
+    ],
+    [
+     1086,
+     2995,
+     7,
+     "Square close to 50-displacement gridline."
+    ],
+    [
+     1201,
+     2992
+    ],
+    [
+     1313.5,
+     2991.5
+    ],
+    [
+     1377,
+     2991.5,
+     7,
+     "Square on 100-displacement gridline."
+    ],
+    [
+     1485,
+     2983.5
+    ],
+    [
+     1607,
+     2978,
+     6,
+     "Square contour interrupted by short printing stroke."
+    ],
+    [
+     1722,
+     2972.5
+    ],
+    [
+     1838.5,
+     2962.5
+    ],
+    [
+     1963.5,
+     2954.5,
+     7,
+     "Square on 200-displacement gridline."
+    ],
+    [
+     2064,
+     2950,
+     6,
+     "Square has incomplete contour."
+    ],
+    [
+     2190.5,
+     2944
+    ],
+    [
+     2234.5,
+     2928.5,
+     8,
+     "Square against right vertical gridline."
+    ],
+    [
+     2322,
+     2828,
+     5,
+     "Rebound marker beyond x=250; short adjacent dash toward notation text."
+    ]
+   ],
+   "t1": [
+    [
+     833,
+     1980.5
+    ],
+    [
+     930,
+     1892
+    ],
+    [
+     1040,
+     1810
+    ],
+    [
+     1140,
+     1730
+    ],
+    [
+     1200,
+     1695
+    ],
+    [
+     1250,
+     1665
+    ],
+    [
+     1300,
+     1635
+    ],
+    [
+     1380,
+     1598
+    ],
+    [
+     1530,
+     1536
+    ],
+    [
+     1690,
+     1477
+    ],
+    [
+     1880,
+     1441
+    ],
+    [
+     2080,
+     1428
+    ],
+    [
+     2208,
+     1423.5
+    ]
+   ],
+   "first": [
+    833,
+    1980.5
+   ],
+   "peak": [
+    2208,
+    1423.5
+   ],
+   "last": [
+    2208,
+    1423.5
+   ],
+   "peak_u_bound": 60,
+   "feature_widths": {
+    "peak": 12,
+    "last": 12
+   }
+  },
+  "n1761": {
+   "symbol": "circle",
+   "grid_overlap": true,
+   "m1": [
+    [
+     813.5,
+     2081.5
+    ],
+    [
+     935.5,
+     2007.5
+    ],
+    [
+     1051.5,
+     1949
+    ],
+    [
+     1165.5,
+     1913
+    ],
+    [
+     1279,
+     1875.5
+    ],
+    [
+     1393.5,
+     1839.5
+    ],
+    [
+     1509.5,
+     1823.5
+    ],
+    [
+     1633,
+     1807.5
+    ],
+    [
+     1750,
+     1794.5
+    ],
+    [
+     1861.5,
+     1763
+    ],
+    [
+     1986.5,
+     1744.5
+    ],
+    [
+     2148.5,
+     1728.5
+    ],
+    [
+     2224,
+     1723.5,
+     7,
+     "Circle on right gridline."
+    ]
+   ],
+   "m2": [
+    [
+     762,
+     2783,
+     8,
+     "Circle on left frame."
+    ],
+    [
+     840.5,
+     2787.5
+    ],
+    [
+     901.5,
+     2790
+    ],
+    [
+     957.5,
+     2796.5
+    ],
+    [
+     1019.5,
+     2798.5
+    ],
+    [
+     1131,
+     2799
+    ],
+    [
+     1251.5,
+     2796.5
+    ],
+    [
+     1365,
+     2793,
+     7,
+     "Circle on vertical gridline; split interior."
+    ],
+    [
+     1479.5,
+     2787.5
+    ],
+    [
+     1600,
+     2784.5
+    ],
+    [
+     1714,
+     2784.5
+    ],
+    [
+     1829.5,
+     2774.5
+    ],
+    [
+     1947,
+     2764.5,
+     7,
+     "Circle on vertical gridline."
+    ],
+    [
+     2067.5,
+     2757.5
+    ],
+    [
+     2187.5,
+     2757
+    ],
+    [
+     2240.5,
+     2762.5,
+     8,
+     "Circle on right gridline."
+    ]
+   ],
+   "t1": [
+    [
+     833,
+     2070
+    ],
+    [
+     950,
+     2000
+    ],
+    [
+     1100,
+     1938
+    ],
+    [
+     1300,
+     1862
+    ],
+    [
+     1500,
+     1815
+    ],
+    [
+     1700,
+     1773
+    ],
+    [
+     1900,
+     1755
+    ],
+    [
+     2110,
+     1739
+    ],
+    [
+     2206,
+     1731
+    ]
+   ],
+   "first": [
+    833,
+    2070
+   ],
+   "peak": [
+    2206,
+    1731
+   ],
+   "last": [
+    2206,
+    1731
+   ]
+  },
+  "n147": {
+   "symbol": "triangle-up",
+   "grid_overlap": false,
+   "m1": [
+    [
+     810.5,
+     2199.5,
+     5,
+     "Triangle close to bottom frame."
+    ],
+    [
+     873,
+     2197.5,
+     5,
+     "Triangle close to bottom frame."
+    ],
+    [
+     936,
+     2192.5,
+     5,
+     "Triangle close to bottom frame."
+    ],
+    [
+     987,
+     2192.5,
+     5,
+     "Triangle close to bottom frame."
+    ],
+    [
+     1104,
+     2194.5
+    ],
+    [
+     1167,
+     2191.5
+    ],
+    [
+     1222.5,
+     2189.5
+    ],
+    [
+     1282.5,
+     2188.5
+    ],
+    [
+     1336.5,
+     2184.5
+    ],
+    [
+     1396,
+     2182.5
+    ],
+    [
+     1453,
+     2179.5
+    ],
+    [
+     1513,
+     2173.5
+    ],
+    [
+     1571.5,
+     2171.5
+    ],
+    [
+     1632.5,
+     2174.5
+    ],
+    [
+     1684.5,
+     2173.5
+    ],
+    [
+     1744.5,
+     2169.5
+    ],
+    [
+     1804,
+     2172.5
+    ],
+    [
+     1860.5,
+     2171
+    ],
+    [
+     1923.5,
+     2170.5
+    ],
+    [
+     1978.5,
+     2172.5
+    ],
+    [
+     2035,
+     2172.5
+    ],
+    [
+     2098,
+     2169
+    ],
+    [
+     2155.5,
+     2164.5
+    ],
+    [
+     2227.5,
+     2169.5,
+     8,
+     "Triangle on right frame/grid intersection."
+    ]
+   ],
+   "m2": [
+    [
+     752,
+     2560,
+     8,
+     "Up triangle on left frame; interior split."
+    ],
+    [
+     831,
+     2571
+    ],
+    [
+     890.5,
+     2577.5
+    ],
+    [
+     949.5,
+     2571.5
+    ],
+    [
+     1006.5,
+     2574.5
+    ],
+    [
+     1062.5,
+     2574.5,
+     7,
+     "Up triangle on 50-displacement gridline."
+    ],
+    [
+     1125,
+     2575.5
+    ],
+    [
+     1185,
+     2577
+    ],
+    [
+     1242.5,
+     2575.5
+    ],
+    [
+     1297.5,
+     2577
+    ],
+    [
+     1355.5,
+     2571.5,
+     7,
+     "Up triangle on 100-displacement gridline."
+    ],
+    [
+     1414.5,
+     2568.5
+    ],
+    [
+     1471.5,
+     2567.5
+    ],
+    [
+     1531.5,
+     2566.5
+    ],
+    [
+     1588.5,
+     2565
+    ],
+    [
+     1652,
+     2564,
+     8,
+     "Up triangle intersects 150-displacement gridline; interior interrupted."
+    ],
+    [
+     1708,
+     2561,
+     6,
+     "Upper apex clear; broken lower contour."
+    ],
+    [
+     1765.5,
+     2554.5
+    ],
+    [
+     1829.5,
+     2551.5
+    ],
+    [
+     1880.5,
+     2547
+    ],
+    [
+     1939,
+     2547.5,
+     8,
+     "Triangle on 200-displacement gridline."
+    ],
+    [
+     2056.5,
+     2544.5
+    ],
+    [
+     2160.5,
+     2545.5
+    ],
+    [
+     2240,
+     2541,
+     8,
+     "Up triangle on right vertical gridline."
+    ],
+    [
+     2308,
+     2557,
+     5,
+     "Rebound marker beyond x=250 gridline, under Rebound label."
+    ]
+   ],
+   "t1": [
+    [
+     838,
+     2208
+    ],
+    [
+     950,
+     2200
+    ],
+    [
+     1080,
+     2191
+    ],
+    [
+     1250,
+     2184
+    ],
+    [
+     1400,
+     2177
+    ],
+    [
+     1600,
+     2174
+    ],
+    [
+     1800,
+     2170
+    ],
+    [
+     2000,
+     2167
+    ],
+    [
+     2205,
+     2165
+    ]
+   ],
+   "first": [
+    838,
+    2208
+   ],
+   "peak": [
+    2175,
+    2159.5
+   ],
+   "last": [
+    2205,
+    2165
+   ],
+   "peak_u_bound": 150,
+   "feature_width": 13,
+   "feature_widths": {
+    "peak": 12
+   }
+  }
+ }
+}

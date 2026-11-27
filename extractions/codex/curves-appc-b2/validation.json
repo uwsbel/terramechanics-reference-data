@@ -1,0 +1,75 @@
+{
+  "FC-3B": {
+    "panels": {
+      "1": {
+        "row_count": 508,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      },
+      "2": {
+        "row_count": 64,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      }
+    },
+    "manual_unisolated_centers": 0,
+    "warnings": [
+      "Trace sampling gaps above 5 thousandths are retained at visible interruptions or symbol/grid/shared-ink exclusions; details in trace-sampling-audit.json."
+    ]
+  },
+  "FC-3C": {
+    "panels": {
+      "1": {
+        "row_count": 531,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      },
+      "2": {
+        "row_count": 64,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      }
+    },
+    "manual_unisolated_centers": 0,
+    "warnings": [
+      "Trace sampling gaps above 5 thousandths are retained at visible interruptions or symbol/grid/shared-ink exclusions; details in trace-sampling-audit.json."
+    ]
+  },
+  "FC-4B": {
+    "panels": {
+      "1": {
+        "row_count": 530,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      },
+      "2": {
+        "row_count": 65,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      }
+    },
+    "manual_unisolated_centers": 0,
+    "warnings": [
+      "Upper maximum y calibration residual 35.687 psf = .714% of span; uneven printed grid, documented in notes.",
+      "Trace sampling gaps above 5 thousandths are retained at visible interruptions or symbol/grid/shared-ink exclusions; details in trace-sampling-audit.json."
+    ]
+  },
+  "FC-4C": {
+    "panels": {
+      "1": {
+        "row_count": 502,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      },
+      "2": {
+        "row_count": 69,
+        "trace_ink_checked": true,
+        "schema_and_sequences_checked": true
+      }
+    },
+    "manual_unisolated_centers": 0,
+    "warnings": [
+      "Trace sampling gaps above 5 thousandths are retained at visible interruptions or symbol/grid/shared-ink exclusions; details in trace-sampling-audit.json."
+    ]
+  }
+}

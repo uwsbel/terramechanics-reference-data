@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,printed_unit_label,label_glyph_center_u,label_glyph_center_v,value_assigned,fitted_line_position,fitted_line_source,by_eye,note
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),5,Penetration (In.),2360,2068.5,5,v = 2080.5 - 0.0037 u (2072 at the axis),detected in 5/5 bands,ok,label glyph v 2057 to 2080 right of the frame; tick stub on the line at u 2290
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),3,Penetration (In.),2360,2689.5,3,v = 2694.9 - 0.0021 u (2689.5 at the axis),detected in 4/5 bands,ok,label glyph v 2678 to 2701; tick stub on the line
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),0,Penetration (In.),2360,3608,0,v = 3619.4 - 0.0025 u (3614.5 at the axis),detected in 5/5 bands,ok,label glyph v 3595 to 3621; the frame bottom line; a second 0 printed below the corner belongs to the load axis
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),4,Penetration (In.),2360,2379,4,v = 2386.0 - 0.0027 u,detected in 4/5 bands,ok,also checked
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),2,Penetration (In.),2360,2988.5,2,v = 2997.5 - 0.0019 u,detected in 4/5 bands,ok,also checked; the lpt75 trace is drawn on this line from load 0 to about 300 lb
+F2-33,1,penetration (x; increases up the page; horizontal grid lines),1,Penetration (In.),2360,3305,1,v = 3315.9 - 0.0021 u,detected in 4/5 bands,ok,also checked
+F2-33,1,load (y; increases to the left; vertical grid lines),2500,Load (Lb.),361,3700,2500,u = 344.6 + 0.0068 v (369 at the axis),detected in 5/5 bands,ok,label glyph u 342 to 380 below the axis; the left frame line
+F2-33,1,load (y; increases to the left; vertical grid lines),1500,Load (Lb.),1147,3700,1500,u = 1129.7 + 0.0065 v (1153 at the axis),detected in 5/5 bands,ok,label glyph u 1128 to 1166
+F2-33,1,load (y; increases to the left; vertical grid lines),0,Load (Lb.),2299.5,3700,0,u = 2292.8 + 0.0062 v (2315 at the axis),detected in 5/5 bands,ok,label glyph u 2281 to 2318; the right frame line
+F2-33,1,load (y; increases to the left; vertical grid lines),2000,Load (Lb.),761,3700,2000,u = 741.8 + 0.0068 v,detected in 5/5 bands,ok,also checked
+F2-33,1,load (y; increases to the left; vertical grid lines),1000,Load (Lb.),1528.5,3700,1000,u = 1516.5 + 0.0061 v,detected in 5/5 bands,ok,also checked
+F2-33,1,load (y; increases to the left; vertical grid lines),500,Load (Lb.),1918,3700,500,u = 1907.7 + 0.0053 v,detected in 5/5 bands,ok,also checked

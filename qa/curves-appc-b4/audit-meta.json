@@ -1,0 +1,86 @@
+{
+  "FC-7B": {
+    "source": "1968-vol2",
+    "title": "Figure C-7B: Direct Shear Test Data - Shear Stress vs. Shear Displacement (printed C-22, PDF 136)",
+    "rotation": 90,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "curve",
+    "series": {
+      "n10p2psi": {
+        "label": "10.2 psi (70.3 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n13p8psi": {
+        "label": "13.8 psi (95.1 kPa)",
+        "symbol": "star"
+      },
+      "n27p1psi": {
+        "label": "27.1 psi (186.8 kPa)",
+        "symbol": "quarter-circle"
+      },
+      "n3p4psi": {
+        "label": "3.4 psi (23.4 kPa)",
+        "symbol": "circle"
+      },
+      "n5p1psi": {
+        "label": "5.1 psi (35.2 kPa)",
+        "symbol": "square"
+      },
+      "n6p6psi": {
+        "label": "6.6 psi (45.5 kPa)",
+        "symbol": "diamond"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (horizontal load)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Printed sideways: horizontal load (psi) against horizontal motion (inches), RSM-b at Dr 1.0, six tests 3.4 to 27.1 psi, symbols only. Close-ups are shown upright. The legend prints only the stresses, each beside the end of its curve; symbols: quarter-circle 27.1, star 13.8, triangle 10.2, diamond 6.6, square 5.1, circle 3.4 psi. Near the origin many symbols overlap."
+  },
+  "FC-7C": {
+    "source": "1968-vol2",
+    "title": "Figure C-7C: Direct Shear Test Data - Shear Stress vs. Shear Displacement (printed C-23, PDF 137)",
+    "rotation": 90,
+    "legend_hint": "see the notes on this figure",
+    "series_noun": "curve",
+    "series": {
+      "n10p2psi": {
+        "label": "10.2 psi (70.3 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n13p8psi": {
+        "label": "13.8 psi (95.1 kPa)",
+        "symbol": "star"
+      },
+      "n26p5psi": {
+        "label": "26.5 psi (182.7 kPa)",
+        "symbol": "quarter-circle"
+      },
+      "n3p4psi": {
+        "label": "3.4 psi (23.4 kPa)",
+        "symbol": "circle"
+      },
+      "n5p1psi": {
+        "label": "5.1 psi (35.2 kPa)",
+        "symbol": "square"
+      },
+      "n6p6psi": {
+        "label": "6.6 psi (45.5 kPa)",
+        "symbol": "diamond"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (horizontal load)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Printed sideways: horizontal load (psi) against horizontal motion (inches), RSM-b at Dr 0.53, six tests 3.4 to 26.5 psi, symbols only; symbols as on FC-7B. Squares and circles share ink in pairs near the origin; one diamond is half hidden by a square and the axis."
+  }
+}

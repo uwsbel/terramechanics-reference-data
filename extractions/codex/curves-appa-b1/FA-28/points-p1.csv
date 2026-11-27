@@ -1,0 +1,26 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-28,1,curve,trace,1,770,3223,6,6,,"First visible cap ink at (770,3223), detached from the left frame by 3 white columns. Cap is worn to 1 px at its extreme left; bound is half the adjoining 12 px stroke. No invented sample at Dr=0."
+FA-28,1,curve,trace,2,838.08,3205.5,6.0,6.0,,
+FA-28,1,curve,trace,3,912.76,3181.0,6.5,6.5,,
+FA-28,1,curve,trace,4,987.43,3152.5,7.0,7.0,,
+FA-28,1,curve,trace,5,1062.09,3118.35,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-28,1,curve,trace,6,1139.64,3079.0,6.5,6.5,,
+FA-28,1,curve,trace,7,1217.15,3029.5,7.0,7.0,,
+FA-28,1,curve,trace,8,1294.57,2956.5,8.0,8.0,,
+FA-28,1,curve,trace,9,1371.93,2868.43,9.0,9.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-28,1,curve,trace,10,1448.02,2780.5,9.0,9.0,,
+FA-28,1,curve,trace,11,1524.09,2693.5,9.0,9.0,,
+FA-28,1,curve,trace,12,1600.17,2614.5,8.0,8.0,,
+FA-28,1,curve,trace,13,1676.3,2551.68,7.5,7.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-28,1,curve,trace,14,1754.72,2497.5,7.0,7.0,,
+FA-28,1,curve,trace,15,1833.19,2453.5,6.0,6.0,,
+FA-28,1,curve,trace,16,1911.7,2415.0,6.5,6.5,,
+FA-28,1,curve,trace,17,1990.24,2385.09,6.5,6.5,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink.
+FA-28,1,curve,trace,18,2069.69,2358.5,6.0,6.0,,
+FA-28,1,curve,trace,19,2149.16,2335.0,7.5,7.5,,
+FA-28,1,curve,trace,20,2228.65,2313.5,6.0,6.0,,
+FA-28,1,curve,trace,21,2308.14,2293.13,6.0,6.0,,Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.
+FA-28,1,curve,feature,1,770,3223,6,6,,"First point. First visible cap ink at (770,3223), detached from the left frame by 3 white columns. Cap is worn to 1 px at its extreme left; bound is half the adjoining 12 px stroke. No invented sample at Dr=0."
+FA-28,1,curve,feature,2,1217.15,3029.5,65,55,,"Lower rounded knee: onset of the steep segment, approximately Dr 0.26 to 0.34. Feature bounds describe the rounded transition region; trace bounds remain half the local stroke thickness."
+FA-28,1,curve,feature,3,1754.72,2497.5,90,60,,"Upper rounded knee: transition toward the flatter upper tail, approximately Dr 0.59 to 0.71. Feature bounds describe the rounded transition region; trace bounds remain half the local stroke thickness."
+FA-28,1,curve,feature,4,2308.14,2293.13,6.0,6.0,,Last point; peak (maximum of monotonically rising trace). Curve/grid or frame intersection; centre and line thickness read from adjoining curve ink. Endpoint merges with frame; curve centre followed into the junction.

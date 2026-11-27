@@ -1,0 +1,90 @@
+---
+title: "b68-ds-fc-13: provenance"
+---
+Provenance and review record of [b68-ds-fc-13](../experiments/b68-ds-fc-13.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 21 points recovered, agreed 13, audited 4, confirmed 2, one-sided 1, one-sided-verified 1 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 17, convention 1 |
+| human audit | 13 points sampled by the student reviewers, 6 confirmed by two of them (status audited or confirmed); see the audits table on the Review page |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+21 points (from FC-13) read by two readings made separately and reconciled (batch `curves-appc-b9`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FC-13-p1](../img/overlays/FC-13-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | normal stress (Pa, from psf) | shear strength (peak shear stress) (Pa, from psf) | 21 |
+
+Points by status: [agreed]{.status .status-agreed} 13, [audited]{.status .status-audited} 4, [confirmed]{.status .status-confirmed} 2, [one-sided]{.status .status-one-sided} 1, [one-sided-verified]{.status .status-one-sided-verified} 1; by kind: `feature` 3, `marker` 7, `trace` 11.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 72 | 4.36 / 11.7 | 10.1 / 21.2 |
+| codex | cal-p1 | 72 | 3.96 / 9.28 | 10 / 20.6 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-ds-fc-13/observations.csv), [series.json](../files/data/experiments/b68-ds-fc-13/series.json) (repository paths `data/experiments/b68-ds-fc-13/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | Loose |
+| Dr | *not reported* |
+| unit weight, pcf | 95.20 |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [agreed]{.status .status-agreed} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [convention]{.status .status-convention} | The computer plots draw the test points with the computed curve; docs/DATA-ORGANIZATION.md reserves `correlation` for a fit drawn without its points. Claude's reading follows the vocabulary. |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [agreed]{.status .status-agreed} |  |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | direct shear (University of Notre Dame) | direct shear (Notre Dame) |
+| measured_channels | peak shear strength vs normal stress with least-squares line (Univac 1107, CAL-COMP plot) | computed shear strength vs normal stress |
+
+## Notes from the two readings
+
+- Claude: inset angle 29.76, tan theta .5718, cohesion printed -1.87 or 11.87 (first character overstruck); seven markers, none at 734 psf; four stresses match FC-5B but avg density 95.20 against FC-5B mean 96.4; bound at PDF 147
+- Codex: Computer fit; Avg. Density 95.20; phi 29.76; tan theta .5718; cohesion unreadable. Geometry and rate missing. Underlying test identities unresolved. Cohesion -1.87 or 11.87; overstruck character; density differs from C-5B. AM-68-1 Vol. II, Fig. C-13, printed C-35, PDF 147
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

@@ -1,0 +1,58 @@
+[
+ {
+  "figure_id": "FC-12",
+  "series_id": "rc2-loose",
+  "marker": 8,
+  "trace": 11,
+  "feature": 3,
+  "rms_x_psf": 3.885876597167359,
+  "rms_y_psf": 10.14682362304928,
+  "trace_slope": 0.9289007476103067,
+  "slope_minus_print": -0.005999252389693233,
+  "intercept_psf": 150.313,
+  "intercept_bound_psf": 20.401,
+  "intercept_minus_print_psf": 4.502999999999986
+ },
+ {
+  "figure_id": "FC-13",
+  "series_id": "ss-loose",
+  "marker": 7,
+  "trace": 11,
+  "feature": 3,
+  "rms_x_psf": 3.956236450891176,
+  "rms_y_psf": 10.03284588171912,
+  "trace_slope": 0.5557998706336632,
+  "slope_minus_print": -0.01600012936633677,
+  "intercept_psf": 53.506,
+  "intercept_bound_psf": 20.19,
+  "intercept_minus_print_psf": 41.636
+ },
+ {
+  "figure_id": "FC-14",
+  "series_id": "lsm-loose",
+  "marker": 8,
+  "trace": 11,
+  "feature": 3,
+  "rms_x_psf": 3.440644037882026,
+  "rms_y_psf": 10.325456161178293,
+  "trace_slope": 0.9245922185997756,
+  "slope_minus_print": -0.03960778140022436,
+  "intercept_psf": 0.07,
+  "intercept_bound_psf": 21.145,
+  "intercept_minus_print_psf": 110.03999999999999
+ },
+ {
+  "figure_id": "FC-15",
+  "series_id": "lsm-dense",
+  "marker": 8,
+  "trace": 11,
+  "feature": 3,
+  "rms_x_psf": 5.800141444093441,
+  "rms_y_psf": 12.014296468436969,
+  "trace_slope": 0.8679065216264337,
+  "slope_minus_print": -0.0030934783735663274,
+  "intercept_psf": 168.679,
+  "intercept_bound_psf": 20.032,
+  "intercept_minus_print_psf": -45.08099999999999
+ }
+]

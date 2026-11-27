@@ -1,0 +1,148 @@
+== rc2: 23 samples
+  dr=      u_t=        u=  926 v=2257.1 vb=5.0 left end  
+  dr=  0.0 u_t=  948.2 u=  948 v=2253.5 vb=6.0 grid-crossing  
+  dr= 0.05 u_t= 1024.2 u= 1024 v=2237.0 vb=4.5 ink  ps
+  dr=  0.1 u_t= 1100.2 u= 1100 v=2211.9 vb=6.0 grid-crossing  ps
+  dr= 0.15 u_t= 1174.7 u= 1175 v=2183.0 vb=4.5 ink  
+  dr=  0.2 u_t= 1249.2 u= 1249 v=2149.6 vb=5.0 grid-crossing  
+  dr= 0.25 u_t= 1325.4 u= 1325 v=2112.5 vb=6.0 ink  
+  dr=  0.3 u_t= 1401.7 u= 1402 v=2069.7 vb=6.6 grid-crossing  hgrid
+  dr= 0.35 u_t= 1481.2 u= 1481 v=2025.5 vb=6.0 ink  
+  dr=  0.4 u_t= 1560.6 u= 1561 v=1979.0 vb=5.5 grid-crossing  
+  dr= 0.45 u_t= 1639.9 u= 1640 v=1932.0 vb=5.5 ink  
+  dr=  0.5 u_t= 1719.3 u= 1719 v=1882.7 vb=5.0 grid-crossing  
+  dr= 0.55 u_t= 1798.5 u= 1798 v=1833.0 vb=5.5 ink  
+  dr=  0.6 u_t= 1877.7 u= 1878 v=1784.5 vb=5.0 grid-crossing  
+  dr= 0.65 u_t= 1952.5 u= 1953 v=1740.0 vb=5.5 ink  
+  dr=  0.7 u_t= 2027.3 u= 2027 v=1696.8 vb=5.0 grid-crossing  hgrid
+  dr= 0.75 u_t= 2103.2 u= 2103 v=1654.5 vb=5.0 ink  
+  dr=  0.8 u_t= 2179.0 u= 2179 v=1611.4 vb=5.0 grid-crossing  
+  dr= 0.85 u_t= 2255.7 u= 2256 v=1572.0 vb=4.5 ink  
+  dr=  0.9 u_t= 2332.4 u= 2332 v=1532.5 vb=5.0 grid-crossing  
+  dr= 0.95 u_t= 2410.5 u= 2411 v=1497.0 vb=4.5 ink  
+  dr=  1.0 u_t= 2488.7 u= 2489 v=1464.6 vb=5.0 grid-crossing  
+  dr=      u_t=        u= 2510 v=1457.1 vb=4.5 right end  
+== ps: 24 samples
+  dr=      u_t=        u=  924 v=2245.6 vb=4.0 left end  
+  dr=  0.0 u_t=  948.1 u=  944 v=2241.5 vb=4.0 dash end at grid line (left side) -4 
+  dr= 0.05 u_t= 1024.2 u= 1026 v=2226.5 vb=5.6 gap: moved to dash end 2 
+  dr=  0.1 u_t= 1100.2 u= 1100 v=2211.9 vb=6.0 grid-crossing  rc2
+  dr= 0.15 u_t= 1174.8 u= 1175 v=2195.0 vb=4.5 ink  
+  dr=  0.2 u_t= 1249.4 u= 1249 v=2173.2 vb=5.0 grid-crossing  
+  dr= 0.25 u_t= 1325.7 u= 1326 v=2150.0 vb=4.5 ink  
+  dr=  0.3 u_t= 1402.1 u= 1402 v=2127.2 vb=6.0 grid-crossing  
+  dr= 0.35 u_t= 1481.8 u= 1482 v=2102.0 vb=4.5 ink  
+  dr=  0.4 u_t= 1561.4 u= 1561 v=2075.3 vb=4.2 grid-crossing  hgrid
+  dr= 0.45 u_t= 1640.9 u= 1641 v=2047.5 vb=4.2 ink  
+  dr=  0.5 u_t= 1720.4 u= 1720 v=2021.7 vb=6.0 grid-crossing  
+  dr= 0.55 u_t= 1799.7 u= 1800 v=1993.0 vb=4.5 ink  
+  dr=  0.6 u_t= 1879.1 u= 1875 v=1965.5 vb=5.0 dash end at grid line (left side) -4 
+  dr= 0.65 u_t= 1954.1 u= 1951 v=1941.8 vb=4.5 gap: moved to dash end -3 
+  dr=  0.7 u_t= 2029.1 u= 2025 v=1918.1 vb=4.5 dash end at grid line (left side) -4 
+  dr= 0.75 u_t= 2105.2 u= 2105 v=1895.0 vb=4.5 ink  
+  dr=  0.8 u_t= 2181.3 u= 2177 v=1872.2 vb=4.5 dash end at grid line (left side) -4 
+  dr= 0.85 u_t= 2258.3 u= 2256 v=1849.0 vb=4.5 gap: moved to dash end -2 
+  dr=  0.9 u_t= 2335.3 u= 2339 v=1824.0 vb=4.5 dash end at grid line (right side) 4 
+  dr= 0.95 u_t= 2413.5 u= 2414 v=1804.5 vb=6.0 coincident  rs
+  dr=  1.0 u_t= 2491.7 u= 2492 v=1785.0 vb=6.1 grid-crossing  rs
+  dr= 1.05 u_t= 2570.0 u= 2570 v=1765.5 vb=4.2 ink  
+  dr=      u_t=        u= 2646 v=1748.1 vb=4.5 right end  
+== rs: 25 samples
+  dr=      u_t=        u=  799 v=2545.0 vb=5.0 left end  
+  dr=-0.05 u_t=  874.7 u=  875 v=2504.5 vb=5.0 ink  
+  dr=  0.0 u_t=  950.3 u=  950 v=2464.9 vb=6.5 grid-crossing  hgrid
+  dr= 0.05 u_t= 1025.9 u= 1019 v=2428.6 vb=4.5 gap: moved to dash end -7 
+  dr=  0.1 u_t= 1101.6 u= 1102 v=2383.9 vb=6.0 grid-crossing  
+  dr= 0.15 u_t= 1176.0 u= 1176 v=2345.0 vb=4.5 ink  
+  dr=  0.2 u_t= 1250.4 u= 1250 v=2308.3 vb=5.0 grid-crossing  
+  dr= 0.25 u_t= 1326.6 u= 1328 v=2267.6 vb=5.0 gap: moved to dash end 1 
+  dr=  0.3 u_t= 1402.8 u= 1403 v=2230.4 vb=6.5 grid-crossing  
+  dr= 0.35 u_t= 1482.4 u= 1482 v=2192.0 vb=4.5 ink  
+  dr=  0.4 u_t= 1562.1 u= 1566 v=2151.8 vb=5.0 dash end at grid line (right side) 4 
+  dr= 0.45 u_t= 1641.4 u= 1641 v=2116.0 vb=4.5 ink  
+  dr=  0.5 u_t= 1720.9 u= 1713 v=2085.5 vb=5.0 gap: moved to dash end -8 
+  dr= 0.55 u_t= 1800.1 u= 1800 v=2045.0 vb=4.5 ink  
+  dr=  0.6 u_t= 1879.4 u= 1879 v=2012.6 vb=6.4 grid-crossing  rsmb
+  dr= 0.65 u_t= 1954.4 u= 1954 v=1984.0 vb=4.5 ink  
+  dr=  0.7 u_t= 2029.4 u= 2025 v=1957.8 vb=4.5 dash end at grid line (left side) -4 
+  dr= 0.75 u_t= 2105.5 u= 2110 v=1924.3 vb=4.5 gap: moved to dash end 5 
+  dr=  0.8 u_t= 2181.6 u= 2182 v=1897.6 vb=5.0 grid-crossing  
+  dr= 0.85 u_t= 2258.5 u= 2259 v=1869.0 vb=5.5 ink  
+  dr=  0.9 u_t= 2335.4 u= 2331 v=1841.3 vb=4.5 dash end at grid line (left side) -4 
+  dr= 0.95 u_t= 2413.5 u= 2417 v=1804.8 vb=6.0 gap: moved to dash end 3 ps
+  dr=  1.0 u_t= 2491.6 u= 2492 v=1773.6 vb=6.3 grid-crossing  ps
+  dr= 1.05 u_t= 2569.7 u= 2570 v=1740.0 vb=5.5 ink  
+  dr=      u_t=        u= 2644 v=1706.4 vb=4.5 right end  
+== rsmb: 23 samples
+  dr=      u_t=        u=  936 v=2605.1 vb=4.5 left end  
+  dr=  0.0 u_t=  951.6 u=  952 v=2599.4 vb=5.5 grid-crossing  
+  dr= 0.05 u_t= 1027.1 u= 1027 v=2558.0 vb=4.5 ink  
+  dr=  0.1 u_t= 1102.7 u= 1099 v=2515.6 vb=5.0 dash end at grid line (left side) -4 
+  dr= 0.15 u_t= 1177.0 u= 1177 v=2468.0 vb=4.7 ink  hgrid
+  dr=  0.2 u_t= 1251.3 u= 1251 v=2423.8 vb=5.0 grid-crossing  
+  dr= 0.25 u_t= 1327.4 u= 1327 v=2377.0 vb=4.7 ink  
+  dr=  0.3 u_t= 1403.5 u= 1403 v=2326.7 vb=5.0 grid-crossing  
+  dr= 0.35 u_t= 1483.1 u= 1483 v=2273.5 vb=5.0 ink  
+  dr=  0.4 u_t= 1562.6 u= 1563 v=2221.1 vb=4.8 grid-crossing  
+  dr= 0.45 u_t= 1641.9 u= 1642 v=2167.5 vb=5.0 ink  
+  dr=  0.5 u_t= 1721.1 u= 1717 v=2116.3 vb=4.8 dash end at grid line (left side) -4 
+  dr= 0.55 u_t= 1800.2 u= 1797 v=2062.2 vb=6.2 gap: moved to dash end -3 
+  dr=  0.6 u_t= 1879.4 u= 1879 v=2004.5 vb=6.9 grid-crossing  rs
+  dr= 0.65 u_t= 1954.2 u= 1954 v=1952.0 vb=4.8 ink  
+  dr=  0.7 u_t= 2029.0 u= 2029 v=1900.0 vb=5.5 grid-crossing  
+  dr= 0.75 u_t= 2104.8 u= 2105 v=1848.5 vb=6.0 ink  
+  dr=  0.8 u_t= 2180.7 u= 2181 v=1799.3 vb=6.0 grid-crossing  
+  dr= 0.85 u_t= 2257.4 u= 2257 v=1749.0 vb=5.5 ink  
+  dr=  0.9 u_t= 2334.1 u= 2334 v=1701.2 vb=5.5 grid-crossing  
+  dr= 0.95 u_t= 2412.1 u= 2412 v=1656.0 vb=5.5 ink  
+  dr=  1.0 u_t= 2490.1 u= 2490 v=1612.6 vb=5.5 grid-crossing  
+  dr=      u_t=        u= 2504 v=1606.5 vb=4.5 right end  
+== rsma: 24 samples
+  dr=      u_t=        u=  935 v=2715.7 vb=4.7 left end  
+  dr=  0.0 u_t=  952.6 u=  953 v=2706.6 vb=6.0 grid-crossing  
+  dr= 0.05 u_t= 1028.1 u= 1028 v=2666.0 vb=4.5 ink  
+  dr=  0.1 u_t= 1103.6 u= 1104 v=2624.8 vb=7.0 grid-crossing  
+  dr= 0.15 u_t= 1177.9 u= 1178 v=2584.5 vb=6.0 ink  
+  dr=  0.2 u_t= 1252.2 u= 1252 v=2545.2 vb=6.0 grid-crossing  
+  dr= 0.25 u_t= 1328.3 u= 1328 v=2504.5 vb=4.5 ink  
+  dr=  0.3 u_t= 1404.5 u= 1404 v=2466.8 vb=6.5 grid-crossing  hgrid
+  dr= 0.35 u_t= 1484.3 u= 1484 v=2427.5 vb=6.0 ink  
+  dr=  0.4 u_t= 1564.0 u= 1564 v=2387.8 vb=6.0 grid-crossing  
+  dr= 0.45 u_t= 1643.4 u= 1643 v=2350.5 vb=4.5 ink  
+  dr=  0.5 u_t= 1722.7 u= 1723 v=2310.1 vb=5.0 grid-crossing  
+  dr= 0.55 u_t= 1801.9 u= 1802 v=2273.0 vb=4.5 ink  
+  dr=  0.6 u_t= 1881.1 u= 1881 v=2235.2 vb=5.0 grid-crossing  
+  dr= 0.65 u_t= 1956.1 u= 1956 v=2198.5 vb=4.5 ink  
+  dr=  0.7 u_t= 2031.1 u= 2036 v=2163.7 vb=5.0 gap: moved to dash end 5 
+  dr= 0.75 u_t= 2107.3 u= 2107 v=2133.0 vb=5.5 ink  
+  dr=  0.8 u_t= 2183.4 u= 2183 v=2099.1 vb=5.0 grid-crossing  
+  dr= 0.85 u_t= 2260.4 u= 2260 v=2066.0 vb=4.5 ink  hgrid
+  dr=  0.9 u_t= 2337.4 u= 2337 v=2033.3 vb=4.5 grid-crossing  
+  dr= 0.95 u_t= 2415.4 u= 2415 v=2002.5 vb=5.0 ink  
+  dr=  1.0 u_t= 2493.4 u= 2493 v=1971.9 vb=5.0 grid-crossing  
+  dr= 1.05 u_t= 2571.5 u= 2572 v=1941.5 vb=6.0 ink  
+  dr=      u_t=        u= 2648 v=1916.8 vb=4.5 right end  
+== ss: 23 samples
+  dr=      u_t=        u=  945 v=3295.8 vb=4.5 left end  
+  dr=  0.0 u_t=  958.3 u=  958 v=3292.3 vb=5.0 grid-crossing  
+  dr= 0.05 u_t= 1033.4 u= 1033 v=3265.0 vb=4.5 ink  
+  dr=  0.1 u_t= 1108.5 u= 1108 v=3236.9 vb=5.5 grid-crossing  
+  dr= 0.15 u_t= 1182.7 u= 1183 v=3205.0 vb=4.5 ink  
+  dr=  0.2 u_t= 1256.8 u= 1257 v=3170.4 vb=5.5 grid-crossing  
+  dr= 0.25 u_t= 1332.9 u= 1333 v=3130.0 vb=4.6 ink  
+  dr=  0.3 u_t= 1408.8 u= 1409 v=3083.2 vb=5.0 grid-crossing  
+  dr= 0.35 u_t= 1488.9 u= 1489 v=3022.0 vb=5.3 ink  
+  dr=  0.4 u_t= 1568.7 u= 1569 v=2946.9 vb=6.5 grid-crossing  
+  dr= 0.45 u_t= 1647.6 u= 1648 v=2858.0 vb=6.5 ink  
+  dr=  0.5 u_t= 1726.4 u= 1726 v=2766.8 vb=6.5 grid-crossing  
+  dr= 0.55 u_t= 1805.1 u= 1805 v=2693.0 vb=5.3 ink  
+  dr=  0.6 u_t= 1884.0 u= 1884 v=2626.3 vb=5.0 grid-crossing  
+  dr= 0.65 u_t= 1959.0 u= 1959 v=2579.0 vb=4.6 ink  
+  dr=  0.7 u_t= 2034.1 u= 2034 v=2535.8 vb=5.0 grid-crossing  
+  dr= 0.75 u_t= 2110.4 u= 2110 v=2498.5 vb=4.5 ink  
+  dr=  0.8 u_t= 2186.7 u= 2187 v=2466.6 vb=6.5 grid-crossing  hgrid
+  dr= 0.85 u_t= 2263.9 u= 2264 v=2437.0 vb=4.2 ink  
+  dr=  0.9 u_t= 2341.1 u= 2341 v=2407.2 vb=5.0 grid-crossing  
+  dr= 0.95 u_t= 2419.0 u= 2419 v=2381.0 vb=4.5 ink  
+  dr=  1.0 u_t= 2497.0 u= 2497 v=2353.1 vb=5.0 grid-crossing  
+  dr=      u_t=        u= 2515 v=2348.9 vb=4.5 right end  

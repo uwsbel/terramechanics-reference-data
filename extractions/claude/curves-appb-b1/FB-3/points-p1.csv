@@ -1,0 +1,43 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FB-3,1,dr99,marker,1,862.7,3124.8,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; the dense line's left end touches its top
+FB-3,1,dr99,marker,2,875.3,2971.6,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; the dense line passes close to its right side
+FB-3,1,dr99,marker,3,1235.2,1987.0,4,5,circle,"upper of two overlapping circles (one double-outlined blob, centres 9 px apart vertically); centre from a two-ring model fit (mismatch 4.3 % of pixels, against 21.6 % for one ring); bound widened; the dense polyline's vertex is under this pair"
+FB-3,1,dr99,marker,4,1236.0,1996.2,4,5,circle,lower of two overlapping circles (see the upper one); centre from the two-ring model fit; bound widened
+FB-3,1,dr99,marker,5,1936.2,931.5,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; touches the circle above it; the dense line ends at its lower left
+FB-3,1,dr99,marker,6,1938.5,889.5,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; touches the circle below it
+FB-3,1,dr30,marker,1,1094.0,3789.8,4,4,circle,left of the two overlapping circles above the lowest loose symbol at 4 psi; its ring crosses the hole of the upper one and the loose line runs over its right side; centre from a two-ring model fit (mismatch 6.1 %); bound widened
+FB-3,1,dr30,marker,2,1103.8,3770.5,4,4,circle,upper of the two overlapping circles at 4 psi; the loose line runs over its right side; centre from the two-ring model fit; bound widened
+FB-3,1,dr30,marker,3,1105.6,3852.8,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; lowest loose symbol; the loose line's left end touches its top
+FB-3,1,dr30,marker,4,1384.1,3232.6,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; the loose polyline's vertex is under it
+FB-3,1,dr30,marker,5,2444.4,2285.5,2,2,circle,clean open circle; centre = centroid of its enclosed white hole; the loose line runs over the upper left of its outline
+FB-3,1,dr30,marker,6,2443.4,2203.6,2,2,circle,"clean open circle; centre = centroid of its enclosed white hole; above the loose line's right end, not touched by it"
+FB-3,1,dr99,trace,1,857.3,3099.3,4.1,4.1,,left end: the line's ink starts at the top outline of the lower circle at 2.3 psi (last clean ink before the ring)
+FB-3,1,dr99,trace,2,968.2,2786.8,4.1,4.1,,every 1 psi: on the line's ink at x = 3
+FB-3,1,dr99,trace,3,1109.0,2383.6,4.1,4.1,,every 1 psi: on the line's ink at x = 4
+FB-3,1,dr99,trace,4,1235.5,2018.0,4.1,4.1,,the line's ink meets the outline of the overlapping pair at 4.9 psi (last clean ink before the ring); the vertex is hidden under the pair
+FB-3,1,dr99,trace,5,1255.9,1973.3,4.8,4.8,,the line's ink leaves the outline of the overlapping pair at 4.9 psi (last clean ink before the ring)
+FB-3,1,dr99,trace,6,1390.8,1765.8,4.8,4.8,,every 1 psi: on the line's ink at x = 6
+FB-3,1,dr99,trace,7,1533.1,1549.4,4.8,4.8,,every 1 psi: on the line's ink at x = 7
+FB-3,1,dr99,trace,8,1675.4,1327.1,4.8,4.8,,every 1 psi: on the line's ink at x = 8
+FB-3,1,dr99,trace,9,1815.9,1106.4,4.8,4.8,,every 1 psi: on the line's ink at x = 9
+FB-3,1,dr99,trace,10,1919.2,945.5,4.8,4.8,,right end: the line's ink ends at the lower-left outline of the lower circle at 9.9 psi (last clean ink before the ring)
+FB-3,1,dr30,trace,1,1094.8,3827.7,4.5,4.5,,"left end: the line's ink starts where it meets the upper left outline of the lowest circle at 4 psi (last clean ink before the ring; the line, extended, would graze the ring, 20.8 px from the centre)"
+FB-3,1,dr30,trace,2,1245.7,3527.2,4.5,4.5,,every 1 psi: on the line's ink at x = 5
+FB-3,1,dr30,trace,3,1382.3,3255.5,4.5,4.5,,the line's ink meets the outline of the circle at 6 psi (last clean ink before the ring); the vertex is hidden under it
+FB-3,1,dr30,trace,4,1404.8,3220.7,4.6,4.6,,the line's ink leaves the outline of the circle at 6 psi (last clean ink before the ring)
+FB-3,1,dr30,trace,5,1528.6,3108.2,4.6,4.6,,every 1 psi: on the line's ink at x = 7
+FB-3,1,dr30,trace,6,1670.7,2976.6,4.6,4.6,,every 1 psi: on the line's ink at x = 8
+FB-3,1,dr30,trace,7,1811.0,2845.5,4.6,4.6,,every 1 psi: on the line's ink at x = 9
+FB-3,1,dr30,trace,8,1951.2,2716.4,4.6,4.6,,every 1 psi: on the line's ink at x = 10
+FB-3,1,dr30,trace,9,2093.2,2584.6,4.6,4.6,,every 1 psi: on the line's ink at x = 11
+FB-3,1,dr30,trace,10,2235.1,2451.5,4.6,4.6,,every 1 psi: on the line's ink at x = 12
+FB-3,1,dr30,trace,11,2375.5,2323.0,4.6,4.6,,every 1 psi: on the line's ink at x = 13
+FB-3,1,dr30,trace,12,2482.7,2222.6,4.6,4.6,,"right end: the last ink of the line's rounded tip on its centreline, short of the right frame; no symbol there"
+FB-3,1,dr99,feature,1,857.3,3099.3,4.1,4.1,,first point of the polyline (its left end)
+FB-3,1,dr99,feature,2,1246.9,1990.9,4.5,5,,vertex: hidden under the overlapping pair at 4.9 psi; intersection of the two segments fitted to their ink (angle 13.4 deg); about 11 px right of the pair's centres
+FB-3,1,dr99,feature,3,1919.2,945.5,4.8,4.8,,last point of the polyline (its right end; also the trace's maximum)
+FB-3,1,dr30,feature,1,1094.8,3827.7,4.5,4.5,,first point of the polyline (its left end)
+FB-3,1,dr30,feature,2,1394.2,3233.3,4.5,4.5,,"vertex: hidden under the circle at 6 psi (inside its white hole, where no line ink is drawn); intersection of the two segments fitted to their ink (angle 20.4 deg); about 10 px right of the circle's centre"
+FB-3,1,dr30,feature,3,2482.7,2222.6,4.6,4.6,,last point of the polyline (its right end; also the trace's maximum)
+FB-3,1,dr99,feature,4,2145.0,1056.0,8,8,,"label: Dense, Dr = 0.99 (two lines, 'Dense' over 'Dr = 0.99', r subscript; centre of the ink box u 1988-2302, v 983-1129; right of the dense line's upper end)"
+FB-3,1,dr30,feature,4,2184.5,2739.5,8,8,,"label: Loose, Dr = 0.30 (two lines, 'Loose' over 'Dr = 0.30', r subscript; centre of the ink box u 2027-2342, v 2684-2795; below the loose line's upper segment)"

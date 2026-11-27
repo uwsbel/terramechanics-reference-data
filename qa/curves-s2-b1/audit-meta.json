@@ -1,0 +1,58 @@
+{
+  "F2-29": {
+    "source": "1968",
+    "title": "Figure 2-29: Load-Penetration Test (RS Dense) (printed 2-55, PDF 80)",
+    "rotation": 90,
+    "legend_hint": "the labels on the figure",
+    "series_noun": "record",
+    "series": {
+      "lpt27": {"label": "LPT 27", "symbol": "", "noun": "record (the only line on the figure)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load on a 2-inch cylinder pushed into dense RS soil (lb) against how deep it went (inches). Printed sideways in the report; the close-ups and the viewer show it upright: penetration from left to right, load from bottom to top. One recorded line, LPT 27, solid and slightly ragged: a small peak near 0.3 in, a dip, then a long climb to about 1150 lb at 8 in."
+  },
+  "F2-32": {
+    "source": "1968",
+    "title": "Figure 2-32: Load-Penetration Curves for Two-Inch Diameter Cylinder in Soil No. 1 (RS Loose) (Dr approx 0.0) (printed 2-63, PDF 88)",
+    "rotation": 90,
+    "legend_hint": "the labels on the figure",
+    "series_noun": "record",
+    "series": {
+      "lpt93": {"label": "LPT 93", "symbol": "", "noun": "record (the dashed line that starts at 0)"},
+      "lpt52": {"label": "LPT 52", "symbol": "", "noun": "record (the dotted line that starts at 1 in)"},
+      "lpt53": {"label": "LPT 53", "symbol": "", "noun": "record (the solid curved line that starts at 2 in)"},
+      "fit": {"label": "author's fitted straight line", "symbol": "", "noun": "(the thin straight line labeled Slope = 6.5 lbs./in.)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load on a 2-inch cylinder in loose RS soil against penetration. Printed sideways; shown upright (penetration left to right, load bottom to top). Three recorded lines, each labeled on the figure: LPT 93 is the dashed line starting at 0, LPT 52 the dotted line starting at 1 in, LPT 53 the solid line starting at 2 in. Above about 3 in the dotted and the solid line run on top of each other: follow each one from where it starts. The thin straight line labeled Slope = 6.5 lbs./in. is the author's fit, not a test. On the dashed and the dotted line, a crosshair in the white gap between dashes or dots is a no."
+  },
+  "F2-33": {
+    "source": "1968",
+    "title": "Figure 2-33: Load-Penetration Curves in RS Dense (Dr approx 0.94) (printed 2-64, PDF 89)",
+    "rotation": 90,
+    "legend_hint": "the labels on the figure",
+    "series_noun": "record",
+    "series": {
+      "lpt74": {"label": "LPT 74", "symbol": "", "noun": "record (A, the thin line that starts at 0)"},
+      "lpt75": {"label": "LPT 75", "symbol": "", "noun": "record (B, the thick line that starts at 2 in)"},
+      "fit": {"label": "author's fitted straight line", "symbol": "", "noun": "(the upper straight line, labeled Slope at the right edge)"},
+      "bce": {"label": "bearing capacity equation line", "symbol": "", "noun": "(the lower straight line, labeled Bearing Capacity Equation)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load on a 4-inch cylinder in dense RS soil against penetration. Printed sideways; shown upright (penetration left to right, load bottom to top). Two recorded lines: A, LPT 74, the thin ragged line that starts at 0 (started at the soil surface); B, LPT 75, the thick line that starts at 2 in (started two inches below the surface). The two straight lines are not tests: the upper one is the author's fit (its label, Slope = ..., is cut off at the right edge of the page), the lower one is the bearing capacity equation. The thick line B touches the upper straight line near 3 in, and A and B come close near 2.2 in: follow each line from where it starts."
+  },
+  "F2-34": {
+    "source": "1968",
+    "title": "Figure 2-34: Load-Penetration Curves for Four-Inch Cylinder in Soil No. 9 (Dr approx 0.76) (printed 2-65, PDF 90)",
+    "rotation": 90,
+    "legend_hint": "the labels on the figure",
+    "series_noun": "record",
+    "series": {
+      "lpt87": {"label": "LPT 87", "symbol": "", "noun": "record (A, the thick line that starts at 0)"},
+      "lpt88": {"label": "LPT 88", "symbol": "", "noun": "record (B, the thin wavy line that starts at 2 in)"},
+      "fit": {"label": "author's fitted straight line", "symbol": "", "noun": "(the thick straight line labeled Slope = 54 lbs./in.)"}
+    },
+    "panels": {"1": {"name": "panel 1 (load)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "Load on a 4-inch cylinder in soil No. 9 (SS) against penetration. Printed sideways; shown upright (penetration left to right, load bottom to top). The load axis is labeled in hundreds of pounds (Lbs. x 100). Two recorded lines: A, LPT 87, the thick line that starts at 0; B, LPT 88, the thin wavy line that starts at 2 in. The straight line labeled Slope = 54 lbs./in. is the author's fit, not a test. The lines cross near 2.3 in, and the thin line B runs along the fitted straight line between about 2.5 and 5 in: follow each line from where it starts."
+  }
+}

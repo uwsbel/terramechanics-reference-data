@@ -1,0 +1,77 @@
+[
+  {
+    "figure": "FC-8",
+    "series": "rs-loose",
+    "marker": 6,
+    "trace": 11,
+    "feature": 3,
+    "rms_x_psf": 4.008442315540865,
+    "rms_y_psf": 10.43218262693128,
+    "slope": 0.7999527900027954,
+    "slope_diff": 0.0007527900027953782,
+    "intercept_psf": 251.277,
+    "intercept_diff_psf": 9.156999999999982,
+    "omitted_targets": []
+  },
+  {
+    "figure": "FC-9A",
+    "series": "rs-dense",
+    "marker": 6,
+    "trace": 9,
+    "feature": 3,
+    "rms_x_psf": 3.6266417692891557,
+    "rms_y_psf": 10.222405084038373,
+    "slope": 1.316692855776107,
+    "slope_diff": 0.010792855776107002,
+    "intercept_psf": 617.416,
+    "intercept_diff_psf": -16.783999999999992,
+    "omitted_targets": []
+  },
+  {
+    "figure": "FC-9B",
+    "series": "rs-dense",
+    "marker": 4,
+    "trace": 8,
+    "feature": 3,
+    "rms_x_psf": 4.144572771614858,
+    "rms_y_psf": 10.990138457784193,
+    "slope": 1.0559591654213196,
+    "slope_diff": -0.003440834578680274,
+    "intercept_psf": 686.024,
+    "intercept_diff_psf": -12.206000000000017,
+    "omitted_targets": [
+      1000,
+      2000
+    ]
+  },
+  {
+    "figure": "FC-9C",
+    "series": "rs-dense",
+    "marker": 11,
+    "trace": 9,
+    "feature": 3,
+    "rms_x_psf": 3.965658890800013,
+    "rms_y_psf": 10.270627481199233,
+    "slope": 1.152600630305302,
+    "slope_diff": -0.013699369694697872,
+    "intercept_psf": 685.988,
+    "intercept_diff_psf": -14.451999999999998,
+    "omitted_targets": [
+      1000
+    ]
+  },
+  {
+    "figure": "FC-10A",
+    "series": "ps-loose",
+    "marker": 6,
+    "trace": 10,
+    "feature": 3,
+    "rms_x_psf": 3.456995672602194,
+    "rms_y_psf": 10.23515727285335,
+    "slope": 0.9581990412880746,
+    "slope_diff": 0.011099041288074596,
+    "intercept_psf": 508.241,
+    "intercept_diff_psf": 19.550999999999988,
+    "omitted_targets": []
+  }
+]

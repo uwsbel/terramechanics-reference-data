@@ -1,0 +1,30 @@
+source,symbol,meaning,units,pdf_page,printed_page,equation,review_status
+bendix-1968-vol1,F,force on footpad,F,36,2-11,,resolved
+bendix-1968-vol1,δ,displacement of footpad,L,36,2-11,,resolved
+bendix-1968-vol1,γ,soil density,F/L³,36,2-11,,resolved
+bendix-1968-vol1,μ,mean grain size,L,36,2-11,,resolved
+bendix-1968-vol1,S,standard deviation in size,L,36,2-11,,resolved
+bendix-1968-vol1,$D_r$,relative density,F° L° T°,36,2-11,,resolved
+bendix-1968-vol1,E,elastic (Young's) modulus,F/L²,36,2-11,,resolved
+bendix-1968-vol1,C,cohesive strength parameter,F/L²,36,2-11,,resolved
+bendix-1968-vol1,φ,angle of internal friction,F° L° T°,36,2-11,,resolved
+bendix-1968-vol1,f,function of,,36,2-11,,resolved
+bendix-1968-vol1,$D_r$,relative density,,54,2-29,2-1,resolved
+bendix-1968-vol1,e,void ratio = $V_v$/$V_s$,,54,2-29,2-1,resolved
+bendix-1968-vol1,$V_v$,volume of voids or pore spaces in a soil mass of unit volume,,54,2-29,2-1,resolved
+bendix-1968-vol1,$V_s$,volume of soil grains in a soil mass of unit volume,,54,2-29,2-1,resolved
+bendix-1968-vol1,$e_{max}$,"maximum possible value of ""e"" for a given soil",,54,2-29,2-1,resolved
+bendix-1968-vol1,$e_{min}$,"minimum possible value of ""e"" for a given soil.",,54,2-29,2-1,resolved
+bendix-1968-vol1,G,specific gravity of the soil grains,,54,2-29,,resolved
+bendix-1968-vol1,$γ_w$,unit weight of water,,54,2-29,,resolved
+bendix-1968-vol1,γ,dry unit weight or density of the soil.,,54,2-29,,resolved
+bendix-1968-vol1,$γ_{min}$,minimum density or unit weight (corresponding to $e_{max}$),,55,2-30,2-2,resolved
+bendix-1968-vol1,$γ_{max}$,maximum density or unit weight (corresponding to $e_{min}$).,,55,2-30,2-2,resolved
+bendix-1968-vol1,q,bearing capacity of footing,$FL^{-2}$ units,85,2-60,3-1,resolved
+bendix-1968-vol1,γ,unit weight of soil,$FL^{-3}$ units,85,2-60,3-1,resolved
+bendix-1968-vol1,$D_f$,surcharge depth; depth of soil above bottom of footing,L units,85,2-60,3-1,resolved
+bendix-1968-vol1,D,diameter of circular footing,L units,85,2-60,3-1,resolved
+bendix-1968-vol1,C,cohesive strength,$FL^{-2}$ units,85,2-60,3-1,resolved
+bendix-1968-vol1,"$N_q$, $N_γ$, $N_c$","bearing capacity factors dependent solely on the angle of internal friction, φ, of the soil (dimensionless)",,85,2-60,3-1,resolved
+bendix-1968-vol1,Q,load on footing at failure,F units,86,2-61,3-2,resolved
+bendix-1968-vol1,A,area of bottom of footing,$L^2$ units,86,2-61,3-2,resolved

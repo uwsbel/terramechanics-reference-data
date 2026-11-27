@@ -1,0 +1,93 @@
+x_value,y_value,u,v,x_source,y_source
+0.0,6000.0,553.8,1174.5,detected in 23/24 bands,detected in 24/24 bands
+50.0,6000.0,841.8,1169.3,detected in 23/24 bands,detected in 24/24 bands
+100.0,6000.0,1139.9,1163.9,detected in 22/24 bands,detected in 24/24 bands
+150.0,6000.0,1427.4,1158.7,detected in 23/24 bands,detected in 24/24 bands
+200.0,6000.0,1724.9,1153.3,detected in 24/24 bands,detected in 24/24 bands
+250.0,6000.0,2016.2,1148.0,detected in 24/24 bands,detected in 24/24 bands
+0.0,,559.7,1464.2,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+50.0,,848.2,1459.0,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+100.0,,1146.1,1453.6,detected in 22/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+150.0,,1433.6,1448.4,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+200.0,,1731.0,1443.0,detected in 24/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+250.0,,2022.1,1437.8,detected in 24/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+0.0,4000.0,565.7,1758.2,detected in 23/24 bands,detected in 21/24 bands
+50.0,4000.0,854.6,1753.2,detected in 23/24 bands,detected in 21/24 bands
+100.0,4000.0,1152.3,1748.1,detected in 22/24 bands,detected in 21/24 bands
+150.0,4000.0,1439.8,1743.1,detected in 23/24 bands,detected in 21/24 bands
+200.0,4000.0,1737.2,1738.0,detected in 24/24 bands,detected in 21/24 bands
+250.0,4000.0,2028.2,1733.0,detected in 24/24 bands,detected in 21/24 bands
+0.0,3000.0,571.6,2045.1,detected in 23/24 bands,detected in 24/24 bands
+50.0,3000.0,860.9,2039.8,detected in 23/24 bands,detected in 24/24 bands
+100.0,3000.0,1158.4,2034.4,detected in 22/24 bands,detected in 24/24 bands
+150.0,3000.0,1445.9,2029.1,detected in 23/24 bands,detected in 24/24 bands
+200.0,3000.0,1743.2,2023.7,detected in 24/24 bands,detected in 24/24 bands
+250.0,3000.0,2034.1,2018.4,detected in 24/24 bands,detected in 24/24 bands
+0.0,2000.0,577.4,2333.5,detected in 23/24 bands,detected in 24/24 bands
+50.0,2000.0,867.2,2328.2,detected in 23/24 bands,detected in 24/24 bands
+100.0,2000.0,1164.5,2322.9,detected in 22/24 bands,detected in 24/24 bands
+150.0,2000.0,1452.0,2317.7,detected in 23/24 bands,detected in 24/24 bands
+200.0,2000.0,1749.2,2312.4,detected in 24/24 bands,detected in 24/24 bands
+250.0,2000.0,2040.0,2307.1,detected in 24/24 bands,detected in 24/24 bands
+0.0,,583.3,2623.0,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+50.0,,873.5,2617.8,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+100.0,,1170.7,2612.5,detected in 22/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+150.0,,1458.1,2607.4,detected in 23/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+200.0,,1755.3,2602.0,detected in 24/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+250.0,,2045.9,2596.8,detected in 24/24 bands,replaced by a recovered line (qa/<batch>/knots.csv)
+0.0,0.0,589.2,2912.7,detected in 23/24 bands,detected in 23/24 bands
+50.0,0.0,879.8,2907.5,detected in 23/24 bands,detected in 23/24 bands
+100.0,0.0,1176.9,2902.2,detected in 22/24 bands,detected in 23/24 bands
+150.0,0.0,1464.2,2897.1,detected in 23/24 bands,detected in 23/24 bands
+200.0,0.0,1761.4,2891.8,detected in 24/24 bands,detected in 23/24 bands
+250.0,0.0,2051.9,2886.6,detected in 24/24 bands,detected in 23/24 bands
+,1000.0,604.72,2620.54,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,654.71,2619.96,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,704.7,2618.7,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,754.69,2617.44,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,804.69,2616.99,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,904.67,2615.47,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,954.64,2612.9,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1004.64,2612.86,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1054.63,2611.61,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1154.63,2610.98,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1204.62,2609.54,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1354.6,2607.44,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1404.58,2605.83,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1454.58,2605.53,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1504.58,2604.88,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1554.56,2603.52,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1604.55,2602.45,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1654.55,2602.0,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1704.54,2600.58,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1754.57,2602.06,,measured on the page (D-025 recovery: the reading left it out)
+,1000.0,1804.52,2598.74,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,583.95,1461.48,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,633.94,1460.46,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,683.93,1459.6,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,733.93,1459.26,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,783.91,1457.73,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,833.9,1456.53,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,883.88,1455.17,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,933.88,1454.56,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,983.88,1454.1,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1033.85,1452.07,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1083.85,1451.48,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1133.84,1450.54,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1183.82,1449.19,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1233.82,1448.53,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1283.81,1447.57,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1333.8,1446.5,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1383.84,1448.25,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1433.81,1446.02,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1483.8,1445.08,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1533.77,1443.19,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1583.77,1442.91,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1633.77,1442.21,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1683.75,1440.39,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1733.75,1440.07,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1783.74,1439.11,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1833.72,1437.86,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1883.71,1436.73,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1933.71,1436.32,,measured on the page (D-025 recovery: the reading left it out)
+,5000.0,1983.68,1434.24,,measured on the page (D-025 recovery: the reading left it out)

@@ -1,0 +1,87 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-54,1,r53958,feature,1,866.3,3031.0,6.8,6.8,,"first: where the trace meets the -20 ms timing line, the first timing line right of the break marks (its ink continues left to the break marks, off the time base); on the line's ink, interpolated across it",-19.9995,-0.13821,0.47262,0.81989,piecewise extrapolated x y
+F2-54,1,r53958,trace,2,866.3,3031.0,7.0,7.0,,t = -20 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the -20 ms timing line: interpolated across the line's ink,-19.9995,-0.13821,0.48558,0.83977,piecewise extrapolated x y
+F2-54,1,r53958,trace,3,865.8,2999.6,4.5,4.5,,t = -18 ms,-17.99887,-0.12721,0.32355,0.59014,piecewise extrapolated y
+F2-54,1,r53958,trace,4,865.5,2968.2,4.0,4.0,,t = -16 ms,-15.99835,-0.13403,0.29335,0.54114,piecewise extrapolated y
+F2-54,1,r53958,trace,5,865.0,2936.8,4.4,4.4,,t = -14 ms,-13.99772,-0.12304,0.32109,0.57977,piecewise extrapolated y
+F2-54,1,r53958,trace,6,864.0,2905.5,3.5,3.5,,t = -12 ms,-12.00314,-0.06739,0.26513,0.4846,piecewise extrapolated y
+F2-54,1,r53958,trace,7,863.7,2874.1,6.0,6.0,,t = -10 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the -10 ms timing line: interpolated across the line's ink,-10.00262,-0.07421,0.44024,0.7338,piecewise extrapolated y
+F2-54,1,r53958,trace,8,863.0,2843.6,4.5,4.5,,t = -8 ms,-7.99975,-0.04444,0.33969,0.58165,piecewise extrapolated y
+F2-54,1,r53958,trace,9,862.5,2813.1,3.7,3.7,,t = -6 ms,-5.99691,-0.03248,0.28461,0.5009,piecewise extrapolated y
+F2-54,1,r53958,trace,10,862.5,2782.7,4.0,4.0,,t = -4 ms,-4.00096,-0.06496,0.30256,0.53405,piecewise extrapolated y
+F2-54,1,r53958,trace,11,862.0,2752.2,4.5,4.5,,t = -2 ms,-1.99811,-0.053,0.3338,0.58253,piecewise extrapolated y
+F2-54,1,r53958,trace,12,862.2,2721.8,7.0,7.0,,t = 0 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 0 ms timing line: interpolated across the line's ink,-0.00232,-0.1033,0.49919,0.83619,piecewise extrapolated y
+F2-54,1,r53958,trace,13,857.5,2600.4,6.0,6.0,,t = 8 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,7.99994,0.18571,0.43195,0.70715,piecewise extrapolated y
+F2-54,1,r53958,trace,14,857.5,2592.8,6.8,6.8,,t = 8.5 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,8.5007,0.17759,0.48511,0.7875,piecewise extrapolated y
+F2-54,1,r53958,trace,15,856.5,2585.2,5.1,5.1,,t = 9 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,9.00206,0.25855,0.37202,0.61022,piecewise extrapolated y
+F2-54,1,r53958,trace,16,856.5,2577.6,5.1,5.1,,t = 9.5 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,9.50281,0.25043,0.37198,0.61105,piecewise extrapolated y
+F2-54,1,r53958,feature,17,853.0,2569.0,6.0,5.0,,"knee, onset: where the trace leaves its pre-impact level; the corner is not inked: a white gap of about 10 px where the baseline (last ink at u 856-860, v 2574), the 10 ms timing line (broken at u 843-855) and the dashed line meet; the rise's first ink is at u 844-846, v 2563-2566; placed in the gap, bound covering it",10.07268,0.55305,0.37194,0.6683,piecewise
+F2-54,1,r53958,trace,18,836.7,2565.5,5.1,5.1,,g = 2 on the rise (about 7 g/ms there); trace runs on the 10 ms timing line's ink: center from the free edge and the stroke width,10.31661,2.00169,0.37797,0.63242,piecewise
+F2-54,1,r53958,trace,19,827.2,2562.8,7.2,7.2,,t = 10.5 ms; trace runs on the 10 ms timing line's ink: center from the free edge and the stroke width,10.50291,2.99808,0.51968,0.87276,piecewise
+F2-54,1,r53958,trace,20,817.6,2561.5,4.7,4.7,,g = 4 on the rise (about 8 g/ms there),10.59547,4.00626,0.35086,0.59974,piecewise
+F2-54,1,r53958,trace,21,797.1,2558.5,4.9,4.9,,g = 6 on the rise (about 8 g/ms there),10.808,6.00232,0.36421,0.54918,piecewise
+F2-54,1,r53958,trace,22,785.5,2555.7,4.9,4.9,,t = 11 ms,11.00195,7.10368,0.36411,0.54096,piecewise
+F2-54,1,r53958,trace,23,776.1,2554.0,5.5,5.5,,g = 8 on the rise (about 9 g/ms there),11.12099,7.99681,0.40451,0.59619,piecewise
+F2-54,1,r53958,trace,24,755.0,2552.0,4.4,4.4,,g = 10 on the rise (about 12 g/ms there),11.2666,10.00375,0.33014,0.48311,piecewise
+F2-54,1,r53958,trace,25,734.5,2549.0,4.9,4.9,,g = 12 on the rise (about 10 g/ms there),11.47861,11.99986,0.3637,0.54577,piecewise
+F2-54,1,r53958,trace,26,714.4,2546.7,5.0,5.0,,g = 14 on the rise (about 10 g/ms there),11.64345,14.00625,0.37028,0.55542,piecewise
+F2-54,1,r53958,trace,27,692.9,2544.0,4.5,4.5,,g = 16 on the rise (about 10 g/ms there),11.83565,16.00322,0.33643,0.55905,piecewise
+F2-54,1,r53958,trace,28,674.7,2541.7,5.4,5.4,,t = 12 ms,11.99919,17.91574,0.39689,0.64146,piecewise
+F2-54,1,r53958,trace,29,673.9,2541.0,4.4,4.4,,g = 18 on the rise (about 6 g/ms there),12.04636,17.99905,0.32956,0.5313,piecewise
+F2-54,1,r53958,trace,30,652.8,2535.2,5.7,10.0,,"g = 20 on the rise (about 5 g/ms there); interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.4449,20.00167,0.70385,0.72149,piecewise extrapolated y
+F2-54,1,r53958,feature,31,652.0,2534.5,4.5,10.0,,"peak: main peak; the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5); centerline = outer edge + half the 9 px stroke; above the ruler's top label (20 g)",12.49205,20.07704,0.70318,0.60389,piecewise extrapolated y
+F2-54,1,r53958,trace,32,652.1,2534.4,5.7,10.0,,"t = 12.5 ms; interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.49867,20.06741,0.70384,0.72712,piecewise extrapolated y
+F2-54,1,r53958,trace,33,656.6,2526.9,4.5,10.0,,"t = 13 ms; interpolated through the hand-read pulse tip (the tip is a short flat stretch of ink at u 648-653, v 2524-2544 (outer edge u 647.5))",12.99681,19.63035,0.7032,0.56562,piecewise extrapolated y
+F2-54,1,r53958,trace,34,665.6,2519.3,4.6,4.6,,t = 13.5 ms,13.49939,18.76469,0.34284,0.53147,piecewise
+F2-54,1,r53958,trace,35,677.2,2511.7,4.2,4.2,,t = 14 ms,14.00084,17.61477,0.31596,0.51699,piecewise
+F2-54,1,r53958,trace,36,686.7,2504.2,5.0,5.0,,t = 14.5 ms,14.49687,16.60549,0.36981,0.62031,piecewise
+F2-54,1,r53958,trace,37,698.2,2496.6,5.4,5.4,,t = 15 ms,14.9988,15.45705,0.39676,0.59187,piecewise
+F2-54,1,r53958,trace,38,707.5,2489.0,6.0,6.0,,t = 15.5 ms,15.502,14.58362,0.43716,0.63151,piecewise
+F2-54,1,r53958,trace,39,719.4,2481.5,5.4,5.4,,t = 16 ms,15.99748,13.42863,0.39682,0.59637,piecewise
+F2-54,1,r53958,trace,40,726.9,2473.9,5.0,5.0,,t = 16.5 ms,16.50189,12.66967,0.36991,0.55589,piecewise
+F2-54,1,r53958,trace,41,740.1,2466.4,5.2,5.2,,t = 17 ms,16.99722,11.357,0.38342,0.56208,piecewise
+F2-54,1,r53958,trace,42,747.7,2458.8,4.6,4.6,,t = 17.5 ms,17.50194,10.60678,0.34304,0.50285,piecewise
+F2-54,1,r53958,trace,43,758.5,2451.3,5.2,5.2,,t = 18 ms,17.99875,9.55539,0.38345,0.56123,piecewise
+F2-54,1,r53958,trace,44,774.3,2436.2,5.0,5.0,,t = 19 ms,19.00207,8.03368,0.37001,0.5489,piecewise
+F2-54,1,r53958,trace,45,781.6,2421.1,7.5,7.5,,t = 20 ms; on the 20 ms timing line: interpolated across the line's ink,20.00893,7.32133,0.53784,0.79382,piecewise
+F2-54,1,r53958,trace,46,790.5,2390.0,4.0,4.0,,t = 22 ms,21.99685,6.43836,0.2897,0.4462,piecewise
+F2-54,1,r53958,feature,47,790.5,2388.0,4.0,39.0,,"knee, minimum: local minimum after the main peak; the trace stays within half a stroke width of this level over t 20.8 to 24.6 ms",22.1249,6.43607,2.54891,0.48657,piecewise
+F2-54,1,r53958,trace,48,787.4,2358.7,4.0,4.0,,t = 24 ms,24.00216,6.6978,0.28978,0.44897,piecewise
+F2-54,1,r53958,trace,49,784.0,2327.5,4.4,4.4,,t = 26 ms,26.00131,6.98592,0.31565,0.491,piecewise
+F2-54,1,r53958,trace,50,779.3,2296.3,4.4,4.4,,t = 28 ms,28.00115,7.39782,0.31574,0.4954,piecewise
+F2-54,1,r53958,feature,51,779.0,2289.0,7.3,10.3,,"knee: the slow climb after the minimum turns steeper toward the second peak; break of a two-line fit over t 25.5 to 30.5 ms, its place along the curve known to a few px",28.46872,7.41805,0.69489,0.77697,piecewise
+F2-54,1,r53958,trace,52,766.9,2265.3,8.0,8.0,,t = 30 ms; on the 30 ms timing line: interpolated across the line's ink,29.99192,8.54315,0.56886,0.84029,piecewise
+F2-54,1,r53958,feature,53,760.0,2247.0,4.5,67.0,,"peak: second, lower peak; the trace turns sharply here, near the 30 ms timing line; the trace stays within half a stroke width of this level over t 30.5 to 35.7 ms",31.21074,9.17927,4.49258,0.56994,piecewise
+F2-54,1,r53958,trace,54,760.5,2235.1,4.0,4.0,,t = 32 ms,32.0011,9.11807,0.30329,0.44965,piecewise
+F2-54,1,r53958,trace,55,762.0,2205.0,3.5,3.5,,t = 34 ms,34.00015,8.94087,0.27189,0.4031,piecewise
+F2-54,1,r53958,trace,56,764.0,2174.9,4.5,4.5,,t = 36 ms,35.999,8.71606,0.34095,0.50351,piecewise
+F2-54,1,r53958,trace,57,766.0,2144.8,4.4,4.4,,t = 38 ms,37.99789,8.49124,0.33633,0.49634,piecewise
+F2-54,1,r53958,trace,58,768.0,2114.5,6.9,6.9,,t = 40 ms; on the 40 ms timing line: interpolated across the line's ink,40.00964,8.2662,0.50429,0.73251,piecewise
+F2-54,1,r53958,trace,59,770.9,2083.1,3.5,3.5,,t = 42 ms,41.99797,7.95421,0.26405,0.40532,piecewise
+F2-54,1,r53958,trace,60,775.0,2051.5,4.5,4.5,,t = 44 ms,43.99861,7.52772,0.32675,0.50498,piecewise
+F2-54,1,r53958,trace,61,779.0,2019.9,4.5,4.5,,t = 46 ms,45.99943,7.11076,0.32564,0.50207,piecewise
+F2-54,1,r53958,trace,62,784.0,1988.3,4.4,4.4,,t = 48 ms,48.00005,6.59857,0.31817,0.48687,piecewise
+F2-54,1,r53958,trace,63,787.7,1956.7,7.5,7.5,,t = 50 ms; on the 50 ms timing line: interpolated across the line's ink,50.00128,6.21017,0.51805,0.80182,piecewise
+F2-54,1,r53958,trace,64,790.5,1925.3,4.0,4.0,,t = 52 ms,52.00229,5.90545,0.29534,0.46059,piecewise
+F2-54,1,r53958,trace,65,795.0,1893.9,3.5,3.5,,t = 54 ms,54.00247,5.42977,0.26511,0.42152,piecewise
+F2-54,1,r53958,trace,66,799.5,1862.5,4.0,4.0,,t = 56 ms,56.00239,4.9541,0.29908,0.48355,piecewise
+F2-54,1,r53958,trace,67,804.0,1831.1,3.5,3.5,,t = 58 ms,58.00204,4.47842,0.26883,0.44449,piecewise
+F2-54,1,r53958,feature,68,806.0,1812.0,7.5,10.5,,"knee: the decay steepens; break of a two-line fit over t 54 to 66 ms, its place along the curve known to a few px",59.21861,4.26099,0.71847,0.88127,piecewise
+F2-54,1,r53958,trace,69,808.5,1799.6,6.9,6.9,,t = 60 ms; on the 60 ms timing line: interpolated across the line's ink,60.00751,4.00263,0.48799,0.83117,piecewise
+F2-54,1,r53958,trace,70,816.0,1767.0,3.3,3.3,,t = 62 ms,62.00293,3.17238,0.24657,0.45409,piecewise
+F2-54,1,r53958,trace,71,823.8,1734.4,4.4,4.4,,t = 64 ms,63.99906,2.31035,0.31314,0.56107,piecewise
+F2-54,1,r53958,trace,72,831.0,1701.7,3.3,3.3,,t = 66 ms,66.00237,1.58635,0.24389,0.38557,piecewise
+F2-54,1,r53958,trace,73,837.5,1669.1,6.8,6.8,,t = 68 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,68.0005,0.97245,0.45833,0.72465,piecewise
+F2-54,1,r53958,feature,74,841.5,1644.0,9.8,12.8,,"knee: the decay ends; the trace runs on along the dashed line to the frame; break of a two-line fit over t 64 to 76 ms, its place along the curve known to a few px; trace runs on or against the dashed line here",69.53964,0.58929,0.8263,1.04702,piecewise extrapolated y
+F2-54,1,r53958,trace,75,841.5,1636.5,6.8,6.8,,t = 70 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 70 ms timing line: interpolated across the line's ink,69.99984,0.58128,0.45681,0.7461,piecewise extrapolated y
+F2-54,1,r53958,trace,76,841.5,1603.9,6.8,6.8,,t = 72 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,71.99844,0.54645,0.45696,0.74967,piecewise extrapolated y
+F2-54,1,r53958,trace,77,841.5,1571.3,6.8,6.8,,t = 74 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,73.99703,0.51162,0.4577,0.75325,piecewise extrapolated y
+F2-54,1,r53958,trace,78,841.5,1538.6,6.8,6.8,,t = 76 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,76.00176,0.47668,0.45844,0.75683,piecewise extrapolated y
+F2-54,1,r53958,trace,79,841.5,1506.0,6.8,6.8,,t = 78 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,78.00034,0.44185,0.45918,0.7604,piecewise extrapolated y
+F2-54,1,r53958,trace,80,841.5,1473.5,6.8,6.8,,t = 80 ms; trace runs on or against the dashed line: center from the free edge and the stroke width; on the 80 ms timing line: interpolated across the line's ink,79.99279,0.40713,0.47825,0.76396,piecewise extrapolated y
+F2-54,1,r53958,trace,81,841.4,1442.0,6.8,6.8,,t = 82 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,82.0019,0.38238,0.47928,0.7665,piecewise extrapolated y
+F2-54,1,r53958,trace,82,839.5,1410.7,6.8,6.8,,t = 84 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,83.99903,0.51821,0.48001,0.75257,piecewise extrapolated y
+F2-54,1,r53958,trace,83,839.5,1379.3,6.8,6.8,,t = 86 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,86.00203,0.48466,0.48075,0.75601,piecewise extrapolated y
+F2-54,1,r53958,trace,84,839.5,1348.0,6.8,6.8,,t = 88 ms; trace runs on or against the dashed line: center from the free edge and the stroke width,87.99865,0.45122,0.48147,0.75944,piecewise extrapolated y
+F2-54,1,r53958,feature,85,837.9,1316.9,6.8,6.5,,last: the trace's ink runs into the top frame line (taken as the 90 ms timing line); last point on the frame's center line,89.98297,0.56053,0.46692,0.74788,piecewise extrapolated x y
+F2-54,1,r53958,trace,86,837.9,1316.9,6.8,6.5,,t = 90 ms; last: the trace's ink runs into the top frame line (taken as the 90 ms timing line); last point on the frame's center line,89.98297,0.56053,0.46692,0.74788,piecewise extrapolated x y

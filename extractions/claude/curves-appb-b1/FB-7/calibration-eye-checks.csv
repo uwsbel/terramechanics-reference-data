@@ -1,0 +1,12 @@
+axis,printed_label,value,anchored_to,line_u,line_v,label_center_u,label_center_v,label_offset_px,affine_value_at_line,by_eye,note
+x,0,0,left frame line,508.5,3937.6,521.0,3976.5,12.5,-0.0045,agrees,"printed 13 px right of the frame line, under the corner; the next line (tick 2) is 284 px away, so the label can only belong to the frame; the frame carries the x = 0 symbols"
+x,2,2,tick,792.9,3937.0,770.5,3976.0,-22.4,2.0237,agrees,"printed 22 px left of its tick, the largest offset on the axis; still 260 px from any other line"
+x,8,8,tick,1632.7,3935.5,1630.0,3970.5,-2.7,8.0122,agrees,centred under its tick
+x,10,10,tick,1911.5,3935.0,1927.0,3970.0,15.5,10.0006,agrees,the '1' of '10' sits under the tick
+x,16,16,right frame line,2750.3,3933.4,2749.0,3966.0,-1.3,15.9824,agrees,"centred under the right frame line; tick spacing 2 to 14 (mean 280.3 px) puts 16 at 2754.8, 4.5 px from the frame"
+y,0,0,bottom frame line,508.5,3937.6,485.5,3934.5,-3.1,0.0059,agrees,level with the bottom frame line at the corner
+y,1,1,tick,506.9,3659.5,462.5,3656.5,-3.0,0.9982,agrees,level with its tick (the dr77 polyline crosses the tick near the frame)
+y,3,3,tick,503.8,3101.2,456.5,3103.0,1.8,2.9905,agrees,level with its tick (a square and an open circle at sigma3 = 0 sit just above the tick)
+y,6,6,tick,499.1,2259.9,445.0,2257.0,-2.9,5.9928,agrees,level with its tick
+y,10,10,tick,492.8,1138.2,416.5,1146.5,8.3,9.9958,agrees,printed 8 px below its tick
+y,11,11,top frame line,491.2,852.8,411.5,863.0,10.2,11.0145,agrees,"printed 10 px below the top frame line, at its left end; tick spacing 1 to 10 (mean 280.0 px) puts 11 at 858, 5 px from the frame"

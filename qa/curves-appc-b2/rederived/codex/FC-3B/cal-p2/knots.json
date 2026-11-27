@@ -1,0 +1,1061 @@
+{
+ "across_x": [
+  1.0,
+  0.000258
+ ],
+ "across_y": [
+  0.004428,
+  -0.99999
+ ],
+ "x": [
+  {
+   "value": 0.0,
+   "s0_px": 688.72,
+   "tilt": -0.00146,
+   "location_error_px": 1.52,
+   "n_anchors": 2,
+   "ink_check": {
+    "positions": 3,
+    "found": [
+     [
+      3017.2,
+      0.11
+     ],
+     [
+      3163.0,
+      -1.37
+     ],
+     [
+      3308.9,
+      0.6
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.5,
+    "ink_line_offset_px": [
+     -0.71,
+     0.27
+    ],
+    "ink_scatter_px": 0.81,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 50.0,
+   "s0_px": 976.62,
+   "tilt": 0.00077,
+   "location_error_px": 0.52,
+   "n_anchors": 2,
+   "ink_check": {
+    "positions": 3,
+    "found": [
+     [
+      3018.5,
+      0.24
+     ],
+     [
+      3164.2,
+      -0.18
+     ],
+     [
+      3309.9,
+      -0.15
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.5,
+    "ink_line_offset_px": [
+     0.35,
+     -0.42
+    ],
+    "ink_scatter_px": 0.11,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 100.0,
+   "s0_px": 1271.0,
+   "tilt": 0.00026,
+   "location_error_px": 0.5,
+   "n_anchors": 2,
+   "ink_check": {
+    "positions": 3,
+    "found": [
+     [
+      3019.9,
+      0.1
+     ],
+     [
+      3165.5,
+      -0.01
+     ],
+     [
+      3311.1,
+      -0.07
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.5,
+    "ink_line_offset_px": [
+     0.17,
+     -0.16
+    ],
+    "ink_scatter_px": 0.01,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 150.0,
+   "s0_px": 1561.52,
+   "tilt": 0.00095,
+   "location_error_px": 1.09,
+   "n_anchors": 2,
+   "ink_check": {
+    "positions": 3,
+    "found": [
+     [
+      3021.2,
+      0.48
+     ],
+     [
+      3166.7,
+      0.1
+     ],
+     [
+      3312.1,
+      -0.54
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.5,
+    "ink_line_offset_px": [
+     1.03,
+     -1.01
+    ],
+    "ink_scatter_px": 0.06,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 200.0,
+   "s0_px": 1854.0,
+   "tilt": 9e-05,
+   "location_error_px": 1.12,
+   "n_anchors": 2,
+   "ink_check": {
+    "positions": 3,
+    "found": [
+     [
+      3022.5,
+      -0.75
+     ],
+     [
+      3167.9,
+      -0.09
+     ],
+     [
+      3313.2,
+      -0.11
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.5,
+    "ink_line_offset_px": [
+     -0.96,
+     0.33
+    ],
+    "ink_scatter_px": 0.16,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 250.0,
+   "s0_px": 2145.2,
+   "tilt": -0.00026,
+   "location_error_px": 1.02,
+   "n_anchors": 11,
+   "ink_check": {
+    "positions": 25,
+    "found": [
+     [
+      2908.8,
+      -0.84
+     ],
+     [
+      2921.3,
+      -0.83
+     ],
+     [
+      2933.8,
+      -0.56
+     ],
+     [
+      2971.3,
+      -0.86
+     ],
+     [
+      2983.8,
+      -0.86
+     ],
+     [
+      3008.8,
+      0.13
+     ],
+     [
+      3021.3,
+      1.3
+     ],
+     [
+      3033.8,
+      0.13
+     ],
+     [
+      3071.3,
+      -0.69
+     ],
+     [
+      3083.8,
+      0.12
+     ],
+     [
+      3108.8,
+      -0.89
+     ],
+     [
+      3121.3,
+      0.11
+     ],
+     [
+      3133.8,
+      0.1
+     ],
+     [
+      3196.3,
+      1.56
+     ],
+     [
+      3221.3,
+      0.08
+     ],
+     [
+      3258.8,
+      0.07
+     ],
+     [
+      3271.3,
+      0.07
+     ],
+     [
+      3308.8,
+      -1.39
+     ],
+     [
+      3321.3,
+      1.33
+     ],
+     [
+      3333.8,
+      -0.01
+     ],
+     [
+      3358.8,
+      -0.09
+     ],
+     [
+      3371.3,
+      -0.02
+     ],
+     [
+      3408.8,
+      -0.14
+     ],
+     [
+      3421.3,
+      -0.1
+     ],
+     [
+      3433.8,
+      -0.11
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.95,
+    "ink_line_offset_px": [
+     -0.42,
+     0.1
+    ],
+    "ink_scatter_px": 0.6,
+    "set_aside": 1
+   }
+  }
+ ],
+ "y": [
+  {
+   "value": -150.0,
+   "s0_px": -3452.49,
+   "tilt": 0.00092,
+   "location_error_px": 2.22,
+   "n_anchors": 6,
+   "ink_check": {
+    "positions": 15,
+    "found": [
+     [
+      772.0,
+      -0.64
+     ],
+     [
+      845.9,
+      -0.4
+     ],
+     [
+      919.8,
+      0.35
+     ],
+     [
+      1066.8,
+      -0.16
+     ],
+     [
+      1140.0,
+      -0.41
+     ],
+     [
+      1213.1,
+      0.84
+     ],
+     [
+      1359.5,
+      0.83
+     ],
+     [
+      1432.7,
+      0.58
+     ],
+     [
+      1506.0,
+      1.15
+     ],
+     [
+      1651.6,
+      1.24
+     ],
+     [
+      1723.9,
+      1.25
+     ],
+     [
+      1796.3,
+      1.82
+     ],
+     [
+      1941.1,
+      1.49
+     ],
+     [
+      2013.6,
+      1.43
+     ],
+     [
+      2086.0,
+      1.18
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.9,
+    "ink_line_offset_px": [
+     -0.47,
+     1.86
+    ],
+    "ink_scatter_px": 0.36,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 0.0,
+   "s0_px": -3013.46,
+   "tilt": -0.0008,
+   "location_error_px": 0.6,
+   "n_anchors": 29,
+   "ink_check": {
+    "positions": 25,
+    "found": [
+     [
+      734.0,
+      -0.35
+     ],
+     [
+      784.0,
+      -0.6
+     ],
+     [
+      846.5,
+      -0.87
+     ],
+     [
+      896.5,
+      -0.96
+     ],
+     [
+      959.0,
+      0.09
+     ],
+     [
+      1009.0,
+      0.59
+     ],
+     [
+      1084.0,
+      0.39
+     ],
+     [
+      1134.0,
+      0.4
+     ],
+     [
+      1196.5,
+      0.46
+     ],
+     [
+      1246.5,
+      0.09
+     ],
+     [
+      1309.0,
+      -0.33
+     ],
+     [
+      1359.0,
+      -0.18
+     ],
+     [
+      1434.0,
+      -0.33
+     ],
+     [
+      1484.0,
+      0.26
+     ],
+     [
+      1534.0,
+      0.09
+     ],
+     [
+      1596.5,
+      0.53
+     ],
+     [
+      1646.5,
+      0.41
+     ],
+     [
+      1709.0,
+      0.13
+     ],
+     [
+      1759.0,
+      -0.13
+     ],
+     [
+      1834.0,
+      -0.58
+     ],
+     [
+      1884.0,
+      -0.33
+     ],
+     [
+      1946.5,
+      -0.44
+     ],
+     [
+      1996.5,
+      -0.39
+     ],
+     [
+      2059.0,
+      0.34
+     ],
+     [
+      2109.0,
+      0.08
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.98,
+    "ink_line_offset_px": [
+     -0.17,
+     0.04
+    ],
+    "ink_scatter_px": 0.43,
+    "set_aside": 0
+   }
+  },
+  {
+   "value": 50.0,
+   "s0_px": -2867.77,
+   "tilt": -0.00093,
+   "location_error_px": 0.5,
+   "n_anchors": 6,
+   "ink_check": {
+    "positions": 15,
+    "found": [
+     [
+      770.1,
+      -0.37
+     ],
+     [
+      843.7,
+      0.18
+     ],
+     [
+      917.2,
+      0.36
+     ],
+     [
+      1064.0,
+      -0.4
+     ],
+     [
+      1137.3,
+      0.15
+     ],
+     [
+      1210.5,
+      0.33
+     ],
+     [
+      1356.8,
+      0.41
+     ],
+     [
+      1430.0,
+      0.12
+     ],
+     [
+      1503.1,
+      0.17
+     ],
+     [
+      1648.7,
+      0.59
+     ],
+     [
+      1721.2,
+      0.09
+     ],
+     [
+      1793.7,
+      0.14
+     ],
+     [
+      1938.8,
+      -0.62
+     ],
+     [
+      2011.3,
+      0.43
+     ],
+     [
+      2083.9,
+      0.08
+     ]
+    ],
+    "missing": [],
+    "span_fraction": 0.9,
+    "ink_line_offset_px": [
+     0.07,
+     0.16
+    ],
+    "ink_scatter_px": 0.32,
+    "set_aside": 0
+   }
+  }
+ ],
+ "rejected_x": [],
+ "rejected_y": [],
+ "model": "piecewise between verified lines (D-025)",
+ "submitted_calibration": "extractions/codex/curves-appc-b2/FC-3B/cal-p2",
+ "recovered_lines": [
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.55",
+   "v": "2896.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2144.1",
+   "v": "2946.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.51",
+   "v": "2996.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.56",
+   "v": "3046.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.54",
+   "v": "3096.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.55",
+   "v": "3146.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.5",
+   "v": "3246.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.56",
+   "v": "3296.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.51",
+   "v": "3346.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.01",
+   "v": "3396.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "250.0",
+   "y_value": "",
+   "u": "2143.78",
+   "v": "3446.88",
+   "x_source": "measured on the page (D-025 recovery: the reading's line failed the ink check)",
+   "y_source": "",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 11 points over 94% of the line, straight-line rms 0.22 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "708.16",
+   "v": "3016.94",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "758.16",
+   "v": "3016.62",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "808.16",
+   "v": "3017.03",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "858.16",
+   "v": "3017.43",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "908.15",
+   "v": "3018.53",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "958.15",
+   "v": "3018.52",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1008.15",
+   "v": "3019.52",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1058.15",
+   "v": "3019.52",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1108.15",
+   "v": "3019.83",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1158.15",
+   "v": "3019.93",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1208.15",
+   "v": "3020.01",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1258.15",
+   "v": "3020.01",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1308.15",
+   "v": "3020.18",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1358.15",
+   "v": "3020.5",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1408.14",
+   "v": "3021.42",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1458.14",
+   "v": "3021.49",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1508.14",
+   "v": "3021.49",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1558.14",
+   "v": "3021.48",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1608.14",
+   "v": "3022.49",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1658.14",
+   "v": "3022.48",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1708.14",
+   "v": "3022.48",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1758.14",
+   "v": "3022.48",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1808.14",
+   "v": "3022.62",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1858.14",
+   "v": "3022.97",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1908.14",
+   "v": "3022.66",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "1958.14",
+   "v": "3023.47",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "2008.14",
+   "v": "3024.45",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "2058.13",
+   "v": "3025.16",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  },
+  {
+   "figure_id": "FC-3B",
+   "panel": "2",
+   "reader": "codex",
+   "x_value": "",
+   "y_value": "0.0",
+   "u": "2108.14",
+   "v": "3023.42",
+   "x_source": "",
+   "y_source": "measured on the page (D-025 recovery: the reading left it out)",
+   "note": "recovered by Claude 2026-10-14 with tools/calibrate_axes.py recover from the reading's own two nearest lines, independently of the other reading; 29 points over 96% of the line, straight-line rms 0.49 px"
+  }
+ ],
+ "image": "corpus/1968-vol2/images/p0124.png"
+}

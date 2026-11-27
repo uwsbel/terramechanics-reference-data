@@ -1,0 +1,169 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-38,1,average,marker,1,696,1354,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; merged range symbols cannot be counted separately; only visible average/shared symbol retained; near printed sieve label 3, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,2,737,1450,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 4, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,3,819,1586,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 6, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,4,911,1740,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 8, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,5,943,1806,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 10, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,6,981,1886,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 12, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,7,1034,2030,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 16, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,8,1064,2174,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 20, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,9,1112,2323,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 30, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,10,1144,2462,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 40, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,11,1188,2614,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 50, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,12,1216,2689,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 60, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,13,1238,2752,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 70, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,14,1275,2833,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 80, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,15,1305,2906,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 100, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,16,1335,2976,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 120, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,marker,17,1415,3182,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 200, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,average,trace,1,1427.514,3177.821,7.75,20,,"first point; Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; endpoint line extent overlaps marker/frame ink; widened extent bound"
+FA-38,1,average,trace,2,1419.085,3164.391,6.75,6.75,,Nominal grain-size sample 0.079621434 mm
+FA-38,1,average,trace,3,1393.154,3115.761,7.0,7.0,,Nominal grain-size sample 0.089336718 mm
+FA-38,1,average,trace,4,1361.022,3064.451,13.25,13.25,,"Sample moved -3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.10023745 mm"
+FA-38,1,average,trace,5,1346.001,3019.326,5.5,5.5,,Nominal grain-size sample 0.11246827 mm
+FA-38,1,average,trace,6,1325.717,2961.287,13.25,13.25,,"Sample moved -11.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.12619147 mm"
+FA-38,1,average,trace,7,1310.06,2923.151,11.75,11.75,,Nominal grain-size sample 0.14158916 mm
+FA-38,1,average,trace,8,1288.158,2872.755,11.5,11.5,,Nominal grain-size sample 0.15886565 mm
+FA-38,1,average,trace,9,1272.989,2813.312,5.75,5.75,,"Sample moved -8.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.17825019 mm"
+FA-38,1,average,trace,10,1241.245,2775.067,6.25,6.25,,"Sample moved -4.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.2 mm"
+FA-38,1,average,trace,11,1241.375,2731.318,5.0,5.0,,Nominal grain-size sample 0.22440369 mm
+FA-38,1,average,trace,12,1203.27,2664.219,7.0,7.0,,"Sample moved -16.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.25178508 mm"
+FA-38,1,average,trace,13,1189.008,2634.965,12.25,12.25,,Nominal grain-size sample 0.28250751 mm
+FA-38,1,average,trace,14,1181.011,2584.816,19.0,19.0,,Nominal grain-size sample 0.31697864 mm
+FA-38,1,average,trace,15,1164.424,2534.796,6.5,6.5,,"Sample moved -4.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.35565588 mm"
+FA-38,1,average,trace,16,1152.303,2490.582,17.75,17.75,,Nominal grain-size sample 0.39905246 mm
+FA-38,1,average,trace,17,1138.511,2442.752,17.0,17.0,,Nominal grain-size sample 0.44774423 mm
+FA-38,1,average,trace,18,1126.387,2392.33,16.5,16.5,,"Sample moved -2.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.50237729 mm"
+FA-38,1,average,trace,19,1118.294,2345.814,12.75,12.75,,Nominal grain-size sample 0.56367659 mm
+FA-38,1,average,trace,20,1101.51,2296.74,7.25,7.25,,Nominal grain-size sample 0.63245553 mm
+FA-38,1,average,trace,21,1089.819,2245.516,18.25,18.25,,Nominal grain-size sample 0.70962678 mm
+FA-38,1,average,trace,22,1071.561,2199.286,12.5,12.5,,Nominal grain-size sample 0.79621434 mm
+FA-38,1,average,trace,23,1062.745,2150.529,18.0,18.0,,Nominal grain-size sample 0.89336718 mm
+FA-38,1,average,trace,24,1043.992,2100.042,14.0,14.0,,"Sample moved -2.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.0023745 mm"
+FA-38,1,average,trace,25,1040.907,2053.895,6.75,6.75,,Nominal grain-size sample 1.1246827 mm
+FA-38,1,average,trace,26,1028.591,2005.88,18.75,18.75,,Nominal grain-size sample 1.2619147 mm
+FA-38,1,average,trace,27,1012.083,1957.963,17.0,17.0,,Nominal grain-size sample 1.4158916 mm
+FA-38,1,average,trace,28,994.256,1909.818,17.0,17.0,,Nominal grain-size sample 1.5886565 mm
+FA-38,1,average,trace,29,967.831,1860.842,12.0,12.0,,"Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.7825019 mm"
+FA-38,1,average,trace,30,935.205,1790.31,10.75,10.75,,"Sample moved -25.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 2 mm"
+FA-38,1,average,trace,31,926.301,1762.004,6.5,6.5,,Nominal grain-size sample 2.2440369 mm
+FA-38,1,average,trace,32,896.123,1715.445,10.5,10.5,,Nominal grain-size sample 2.5178508 mm
+FA-38,1,average,trace,33,871.772,1666.36,14.75,14.75,,Nominal grain-size sample 2.8250751 mm
+FA-38,1,average,trace,34,842.568,1620.469,14.75,14.75,,"Sample moved +2.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.1697864 mm"
+FA-38,1,average,trace,35,806.399,1564.683,15.0,15.0,,"Sample moved -4.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.5565588 mm"
+FA-38,1,average,trace,36,779.418,1522.86,14.25,14.25,,"Sample moved +3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.9905246 mm"
+FA-38,1,average,trace,37,748.525,1470.28,13.0,13.0,,Nominal grain-size sample 4.4774423 mm
+FA-38,1,average,trace,38,721.571,1420.844,19.1,15.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.0237729 mm"
+FA-38,1,average,trace,39,692.869,1371.899,20.48,14.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.6367659 mm"
+FA-38,1,average,trace,40,685.792,1335.66,4.75,20,,last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,average,feature,1,1427.514,3177.821,7.75,20,,"first point; first point; Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; endpoint line extent overlaps marker/frame ink; widened extent bound"
+FA-38,1,average,feature,2,685.792,1335.66,4.75,20,,last point; maximum percent finer (peak at coarse end); last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,average,feature,3,1002.404,1940.718,13.25,13.25,,"Broad knee / change of curvature, not a sharp kink; location spans transition; "
+FA-38,1,upper,marker,1,904,1738,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 8, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,2,969,1878,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 12, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,3,1063,2173,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 20, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,4,1101,2323,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 30, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,5,1171,2615,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 50, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,6,1200,2681,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 60, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,7,1226,2756,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 70, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,8,1289,2903,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 100, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,9,1320,2982,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 120, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,marker,10,1381,3176,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 200, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,upper,trace,1,1374.413,3180.883,3.0,20,,first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,upper,trace,2,1376.784,3157.548,6.25,6.25,,"Sample moved -6.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.079621434 mm"
+FA-38,1,upper,trace,3,1361.014,3115.759,5.75,5.75,,Nominal grain-size sample 0.089336718 mm
+FA-38,1,upper,trace,4,1338.698,3062.666,7.75,7.75,,"Sample moved -3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.10023745 mm"
+FA-38,1,upper,trace,5,1326.051,3027.543,3.5,3.5,,"Sample moved +2.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.11246827 mm"
+FA-38,1,upper,trace,6,1301.954,2970.803,4.5,4.5,,Nominal grain-size sample 0.12619147 mm
+FA-38,1,upper,trace,7,1286.591,2938.904,6.5,6.5,,"Sample moved +14.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.14158916 mm"
+FA-38,1,upper,trace,8,1265.062,2875.353,5.5,5.5,,Nominal grain-size sample 0.15886565 mm
+FA-38,1,upper,trace,9,1240.168,2809.555,4.75,4.75,,"Sample moved -20.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.17825019 mm"
+FA-38,1,upper,trace,10,1244.468,2782.865,5.75,5.75,,"Sample moved +4.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.2 mm"
+FA-38,1,upper,trace,11,1219.338,2731.42,10.5,10.5,,Nominal grain-size sample 0.22440369 mm
+FA-38,1,upper,trace,12,1199.713,2663.509,3.5,3.5,,"Sample moved -9.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.25178508 mm"
+FA-38,1,upper,trace,13,1185.508,2634.49,8.75,8.75,,"Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.28250751 mm"
+FA-38,1,upper,trace,14,1172.087,2586.845,9.75,9.75,,Nominal grain-size sample 0.31697864 mm
+FA-38,1,upper,trace,15,1162.319,2532.384,5.5,5.5,,"Sample moved +0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.35565588 mm"
+FA-38,1,upper,trace,16,1145.501,2490.551,11.25,11.25,,Nominal grain-size sample 0.39905246 mm
+FA-38,1,upper,trace,17,1133.342,2442.395,11.5,11.5,,Nominal grain-size sample 0.44774423 mm
+FA-38,1,upper,trace,18,1113.095,2392.248,20.5,20.5,,"Sample moved -2.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.50237729 mm"
+FA-38,1,upper,trace,19,1109.477,2345.49,13.0,13.0,,Nominal grain-size sample 0.56367659 mm
+FA-38,1,upper,trace,20,1101.14,2296.818,7.0,7.0,,Nominal grain-size sample 0.63245553 mm
+FA-38,1,upper,trace,21,1082.691,2247.736,10.75,10.75,,"Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.70962678 mm"
+FA-38,1,upper,trace,22,1069.369,2199.231,10.5,10.5,,Nominal grain-size sample 0.79621434 mm
+FA-38,1,upper,trace,23,1055.571,2150.536,11.0,11.0,,Nominal grain-size sample 0.89336718 mm
+FA-38,1,upper,trace,24,1044.052,2095.99,10.0,10.0,,"Sample moved -3.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.0023745 mm"
+FA-38,1,upper,trace,25,1039.163,2054.207,5.25,5.25,,Nominal grain-size sample 1.1246827 mm
+FA-38,1,upper,trace,26,1019.49,2005.921,9.75,9.75,,Nominal grain-size sample 1.2619147 mm
+FA-38,1,upper,trace,27,996.487,1942.341,11.5,11.5,,"Sample moved -10.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.4158916 mm"
+FA-38,1,upper,trace,28,984.396,1906.261,9.0,9.0,,"Sample moved -3.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.5886565 mm"
+FA-38,1,upper,trace,29,965.244,1860.867,9.5,9.5,,"Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.7825019 mm"
+FA-38,1,upper,trace,30,934.059,1791.306,9.0,9.0,,"Sample moved -16.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 2 mm"
+FA-38,1,upper,trace,31,923.509,1764.782,7.5,7.5,,Nominal grain-size sample 2.2440369 mm
+FA-38,1,upper,trace,32,886.56,1701.461,3.0,3.0,,"Sample moved -1.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 2.5178508 mm"
+FA-38,1,upper,trace,33,868.11,1680.778,4.5,4.5,,"Sample moved +23.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 2.8250751 mm"
+FA-38,1,upper,trace,34,830.318,1617.762,5.0,5.0,,Nominal grain-size sample 3.1697864 mm
+FA-38,1,upper,trace,35,799.241,1568.676,6.75,6.75,,Nominal grain-size sample 3.5565588 mm
+FA-38,1,upper,trace,36,760.064,1501.438,5.75,5.75,,"Sample moved -9.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.9905246 mm"
+FA-38,1,upper,trace,37,742.173,1470.219,7.25,7.25,,Nominal grain-size sample 4.4774423 mm
+FA-38,1,upper,trace,38,721.571,1420.844,19.1,15.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.0237729 mm"
+FA-38,1,upper,trace,39,692.869,1371.899,20.48,14.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.6367659 mm"
+FA-38,1,upper,trace,40,685.452,1334.347,5.0,20,,last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,upper,feature,1,1374.413,3180.883,3.0,20,,first point; first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,upper,feature,2,685.452,1334.347,5.0,20,,last point; maximum percent finer (peak at coarse end); last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,upper,feature,3,990.242,1942.267,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; Sample moved +3.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid"
+FA-38,1,lower,marker,1,921,1742,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 8, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,2,964,1825,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 10, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,3,992,1886,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 12, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,4,1083,2186,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 20, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,5,1129,2326,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 30, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,6,1156,2472,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 40, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,7,1199,2614,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 50, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,8,1224,2691,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 60, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,9,1246,2756,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 70, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,10,1310,2903,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 100, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,11,1340,2980,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 120, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,marker,12,1444,3186,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 200, read from symbol ink (sieve scale not calibrated)"
+FA-38,1,lower,trace,1,1448.852,3183.842,5.25,20,,first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,lower,trace,2,1432.851,3153.1,6.5,6.5,,"Sample moved -4.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.079621434 mm"
+FA-38,1,lower,trace,3,1396.514,3115.438,8.25,8.25,,Nominal grain-size sample 0.089336718 mm
+FA-38,1,lower,trace,4,1370.242,3064.366,5.25,5.25,,"Sample moved -3.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.10023745 mm"
+FA-38,1,lower,trace,5,1361.739,3019.275,5.0,5.0,,Nominal grain-size sample 0.11246827 mm
+FA-38,1,lower,trace,6,1328.633,2959.854,10.0,10.0,,"Sample moved -11.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.12619147 mm"
+FA-38,1,lower,trace,7,1313.213,2923.324,9.25,9.25,,Nominal grain-size sample 0.14158916 mm
+FA-38,1,lower,trace,8,1299.363,2879.949,3.0,3.0,,"Sample moved -1.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.15886565 mm"
+FA-38,1,lower,trace,9,1276.891,2815.017,9.25,9.25,,"Sample moved -13.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.17825019 mm"
+FA-38,1,lower,trace,10,1262.023,2782.56,14.0,14.0,,"Sample moved +7.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.2 mm"
+FA-38,1,lower,trace,11,1241.407,2731.019,4.5,4.5,,Nominal grain-size sample 0.22440369 mm
+FA-38,1,lower,trace,12,1222.518,2673.026,5.0,5.0,,"Sample moved -9.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.25178508 mm"
+FA-38,1,lower,trace,13,1209.362,2634.942,5.75,5.75,,Nominal grain-size sample 0.28250751 mm
+FA-38,1,lower,trace,14,1193.393,2582.563,6.5,6.5,,Nominal grain-size sample 0.31697864 mm
+FA-38,1,lower,trace,15,1166.624,2540.158,6.0,6.0,,"Sample moved +1.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.35565588 mm"
+FA-38,1,lower,trace,16,1160.077,2490.977,12.5,12.5,,"Sample moved +0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.39905246 mm"
+FA-38,1,lower,trace,17,1145.582,2442.435,10.0,10.0,,Nominal grain-size sample 0.44774423 mm
+FA-38,1,lower,trace,18,1134.078,2391.301,9.25,9.25,,"Sample moved -3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.50237729 mm"
+FA-38,1,lower,trace,19,1134.109,2358.481,4.75,4.75,,"Sample moved +11.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.56367659 mm"
+FA-38,1,lower,trace,20,1104.097,2296.729,5.25,5.25,,Nominal grain-size sample 0.63245553 mm
+FA-38,1,lower,trace,21,1102.253,2247.956,5.25,5.25,,Nominal grain-size sample 0.70962678 mm
+FA-38,1,lower,trace,22,1091.437,2200.983,5.0,5.0,,"Sample moved +1.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.79621434 mm"
+FA-38,1,lower,trace,23,1078.704,2151.072,7.0,7.0,,"Sample moved +0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.89336718 mm"
+FA-38,1,lower,trace,24,1068.762,2100.086,3.0,3.0,,"Sample moved -3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.0023745 mm"
+FA-38,1,lower,trace,25,1042.689,2053.774,4.75,4.75,,Nominal grain-size sample 1.1246827 mm
+FA-38,1,lower,trace,26,1035.337,2005.778,11.5,11.5,,Nominal grain-size sample 1.2619147 mm
+FA-38,1,lower,trace,27,1019.186,1958.291,10.75,10.75,,Nominal grain-size sample 1.4158916 mm
+FA-38,1,lower,trace,28,998.267,1909.575,14.25,14.25,,Nominal grain-size sample 1.5886565 mm
+FA-38,1,lower,trace,29,984.484,1851.949,5.0,5.0,,"Sample moved -9.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 1.7825019 mm"
+FA-38,1,lower,trace,30,960.182,1799.953,4.25,4.25,,"Sample moved -9.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 2 mm"
+FA-38,1,lower,trace,31,943.713,1764.08,4.75,4.75,,Nominal grain-size sample 2.2440369 mm
+FA-38,1,lower,trace,32,916.79,1715.383,5.5,5.5,,Nominal grain-size sample 2.5178508 mm
+FA-38,1,lower,trace,33,875.096,1666.471,17.0,17.0,,Nominal grain-size sample 2.8250751 mm
+FA-38,1,lower,trace,34,843.725,1617.804,16.75,16.75,,Nominal grain-size sample 3.1697864 mm
+FA-38,1,lower,trace,35,809.035,1564.012,16.75,16.75,,"Sample moved -5.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.5565588 mm"
+FA-38,1,lower,trace,36,777.709,1515.314,17.25,17.25,,"Sample moved -4.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 3.9905246 mm"
+FA-38,1,lower,trace,37,751.875,1470.128,16.75,16.75,,Nominal grain-size sample 4.4774423 mm
+FA-38,1,lower,trace,38,721.571,1420.844,19.1,15.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.0237729 mm"
+FA-38,1,lower,trace,39,692.869,1371.899,20.48,14.0,,"Curves overlap or merge with percent frame; shared ink, individual position unresolved; widened bound; Nominal grain-size sample 5.6367659 mm"
+FA-38,1,lower,trace,40,699.992,1334.874,6.0,20,,last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,lower,feature,1,1448.852,3183.842,5.25,20,,first point; first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,lower,feature,2,699.992,1334.874,6.0,20,,last point; maximum percent finer (peak at coarse end); last point; maximum percent finer (peak at coarse end); ; endpoint line extent overlaps marker/frame ink; widened extent bound
+FA-38,1,lower,feature,3,1013.005,1943.975,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; "

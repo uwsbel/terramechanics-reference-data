@@ -1,0 +1,159 @@
+{
+  "FC-20": {
+    "source": "1968-vol2",
+    "title": "Figure C-20: Angle of Internal Friction vs. Relative Density (printed C-42, PDF 156)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for SS soil. The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The short horizontal joining lines are not curves. Circles at the edges can be cut by the frame. The solid curve runs through the middle; the two dashed curves run above and below it. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  },
+  "FC-21": {
+    "source": "1968-vol2",
+    "title": "Figure C-21: Angle of Internal Friction vs. Relative Density (printed C-43, PDF 157)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "band-top": {
+        "label": "upper edge of the cross-hatched band",
+        "symbol": "",
+        "noun": ""
+      },
+      "band-bottom": {
+        "label": "lower edge of the cross-hatched band",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for LSM soil. Instead of curves the figure shows a cross-hatched band between two straight edge lines. The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The short horizontal joining lines are not curves. Circles at the edges can be cut by the frame. A row on the band asks about its upper or lower edge line; a crosshair on a hatching stroke inside the band but not on the named edge line is a no."
+  },
+  "FC-22": {
+    "source": "1968-vol2",
+    "title": "Figure C-22: Angle of Internal Friction vs. Relative Density (printed C-44, PDF 158)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for RSM-b soil. The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The short horizontal joining lines are not curves. Circles at the edges can be cut by the frame. The solid curve runs through the middle; the two dashed curves run above and below it. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  },
+  "FC-23": {
+    "source": "1968-vol2",
+    "title": "Figure C-23: Angle of Internal Friction Versus Relative Density (From Direct Shear Test Results) (printed C-45/C-46, PDF 159)",
+    "rotation": 0,
+    "legend_hint": "there are no symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "ps": {
+        "label": "curve labelled PS",
+        "symbol": "",
+        "noun": ""
+      },
+      "rc2": {
+        "label": "curve labelled RC2",
+        "symbol": "",
+        "noun": ""
+      },
+      "rs": {
+        "label": "curve labelled RS",
+        "symbol": "",
+        "noun": ""
+      },
+      "rsm-a": {
+        "label": "curve labelled RSM-a",
+        "symbol": "",
+        "noun": ""
+      },
+      "rsm-b": {
+        "label": "curve labelled RSM-b",
+        "symbol": "",
+        "noun": ""
+      },
+      "ss": {
+        "label": "curve labelled SS",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for six soils, one curve each, named by the label printed beside it (RC2, PS, RS, RSM-b, RSM-a, SS). RC2 and SS are solid; the other four are dashed in different patterns. Between about Dr 0.4 and 1.0 the RS, PS and RSM-b curves cross and run close together: follow each one from its label. A crosshair on another curve, or in a white gap between dashes, is a no."
+  }
+}

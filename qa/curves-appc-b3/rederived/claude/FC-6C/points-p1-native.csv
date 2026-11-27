@@ -1,0 +1,382 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-6C,1,n4695,marker,1,700,1828.5,2,3,plus,horizontal arm hidden in the 2000 gridline; v from the center of the vertical arm,8.6846,1999.905,0.4276,14.272,piecewise
+FC-6C,1,n4695,marker,2,766,1664,2,2,plus,,19.8719,2564.054,0.435,13.392,piecewise
+FC-6C,1,n4695,marker,3,881.5,1465.5,2,2,plus,,39.2719,3237.096,0.4511,14.244,piecewise
+FC-6C,1,n4695,marker,4,1102,1313.5,2,2,plus,,77.199,3741.79,0.4703,12.58,piecewise
+FC-6C,1,n4695,marker,5,1223.5,1281.5,3,2,plus,right arm touches the 100 vertical gridline,98.3061,3846.055,0.6336,12.276,piecewise
+FC-6C,1,n4695,marker,6,1382.5,1249.5,2,2,plus,,125.7634,3949.481,0.4454,11.917,piecewise
+FC-6C,1,n4695,marker,7,1504,1243,2,3,plus,just below the 4000 gridline; drawn line runs into it,146.7032,3967.928,0.4379,15.268,piecewise
+FC-6C,1,n4695,marker,8,1629.5,1233.5,2,3,plus,horizontal arm merged with the 4000 gridline and the drawn line; v from the center of the vertical arm,168.139,3996.48,0.4516,15.434,piecewise
+FC-6C,1,n4695,marker,9,1742.5,1226,2,2,plus,horizontal arm merges with the drawn line on both sides,187.4061,4019.203,0.4705,12.06,piecewise
+FC-6C,1,n4695,marker,10,1918,1219,2,3,plus,v from the horizontal arm; the vertical arm runs into the 4000 gridline below (its extent center is 1222.5),217.7324,4038.417,0.4779,15.499,piecewise
+FC-6C,1,n4695,marker,11,2091.5,1219.5,2,2,plus,right arm touches the 250 vertical gridline,247.9941,4031.503,0.4425,12.017,piecewise
+FC-6C,1,n3815,marker,1,707,2010.5,2,2,triangle-down,center = bounding-box center of the symbol,9.5078,1386.908,0.4267,9.78,piecewise
+FC-6C,1,n3815,marker,2,769.5,1875,2,2,triangle-down,,20.0701,1841.531,0.4354,10.343,piecewise
+FC-6C,1,n3815,marker,3,876,1727.5,3,3,triangle-down,symbol distorted (right side broken; specks above the top edge); a stray dash touches its lower right,37.9059,2342.149,0.6171,15.84,piecewise
+FC-6C,1,n3815,marker,4,993,1634,2,2,triangle-down,,57.7328,2659.226,0.4792,13.788,piecewise
+FC-6C,1,n3815,marker,5,1110,1571,2,2,triangle-down,,78.1034,2870.886,0.4696,14.733,piecewise
+FC-6C,1,n3815,marker,6,1230.5,1540.5,3,3,triangle-down,on the 100 vertical gridline; top edge on the 3000 gridline,99.0231,2970.626,0.6348,18.64,piecewise
+FC-6C,1,n3815,marker,7,1336.5,1534,2,2,triangle-down,the 3000 gridline and the drawn line cross the symbol,117.3006,2988.681,0.4492,15.139,piecewise
+FC-6C,1,n3815,marker,8,1509,1525,2,2,triangle-down,right corner touches the 150 gridline; the 3000 gridline crosses the symbol,147.0337,3012.507,0.4359,15.079,piecewise
+FC-6C,1,n3815,marker,9,1626,1525,2,3,triangle-down,apex touches the top edge of the 2934 square directly below; bottom extent uncertain,166.993,3007.936,0.4501,18.482,piecewise
+FC-6C,1,n3815,marker,10,1746.5,1525,2,3,triangle-down,apex hidden in the gridline band and the top edge of the 2934 square below; v from top edge plus symbol height,187.5144,3003.217,0.4723,18.457,piecewise
+FC-6C,1,n3815,marker,11,1920.5,1519,2,3,triangle-down,apex inside the 3000 gridline and drawn-line band; 2934 square touches below,217.5852,3016.792,0.4784,18.531,piecewise
+FC-6C,1,n3815,marker,12,2098.5,1517.5,3,3,triangle-down,on the 250 vertical gridline; drawn line enters from the left,248.6556,3014.924,0.6187,18.567,piecewise
+FC-6C,1,n2934,marker,1,707.5,2089.5,2,2,square,,9.4462,1120.894,0.4267,9.45,piecewise
+FC-6C,1,n2934,marker,2,764.5,1976,2,2,square,a stray short dash to the right of the symbol is not part of any curve,19.063,1501.644,0.4347,9.921,piecewise
+FC-6C,1,n2934,marker,3,883,1857.5,2,2,square,a stray short dash to the right of the symbol is not part of any curve,38.8331,1897.485,0.4512,10.408,piecewise
+FC-6C,1,n2934,marker,4,992,1743,2,2,square,,57.3609,2285.353,0.4793,12.08,piecewise
+FC-6C,1,n2934,marker,5,1110.5,1681,2,2,square,,77.9845,2494.103,0.4695,13.014,piecewise
+FC-6C,1,n2934,marker,6,1224.5,1632,3,2,square,right edge on the 100 vertical gridline,97.8095,2657.919,0.6333,13.777,piecewise
+FC-6C,1,n2934,marker,7,1337,1597.5,2,2,square,,117.2663,2771.794,0.4492,14.24,piecewise
+FC-6C,1,n2934,marker,8,1509,1570,3,2,square,right edge touches the 150 vertical gridline,146.949,2859.232,0.6083,14.644,piecewise
+FC-6C,1,n2934,marker,9,1629,1554,2,2,square,top edge touches the apex of the 3815 triangle above,167.4492,2909.168,0.4487,14.81,piecewise
+FC-6C,1,n2934,marker,10,1743,1548,2,2,square,top edge merged with the apex of the 3815 triangle above,186.8743,2925.209,0.4697,14.861,piecewise
+FC-6C,1,n2934,marker,11,1919.5,1540,2,3,square,top edge merged into the 3815 line and 3000 gridline band; v from the bottom edge and the symbol size,217.3698,2945.581,0.4786,18.325,piecewise
+FC-6C,1,n2934,marker,12,2104,1563,3,6,square,on the 250 vertical gridline; read as a square (top edge 1547; bottom bar 1574-1579) with the drawn line passing through at v about 1564 and poking out of the right edge (plus-like look; not a 4695 marker); if the bar at 1574-1579 is a separate stroke the square spans 1547-1567 and its center is v about 1557,249.5302,2860.703,0.6234,28.13,piecewise extrapolated x
+FC-6C,1,n1961,marker,1,708,2173.5,2,2,triangle-up,center = bounding-box center of the symbol,9.3755,836.881,0.4267,9.26,piecewise
+FC-6C,1,n1961,marker,2,770.5,2097.5,2,2,triangle-up,,19.8349,1092.469,0.4354,9.413,piecewise
+FC-6C,1,n1961,marker,3,883.5,2035.5,2,2,triangle-up,,38.6037,1298.451,0.4512,9.665,piecewise
+FC-6C,1,n1961,marker,4,1001,2020,2,2,triangle-up,,58.4126,1347.749,0.4785,9.723,piecewise
+FC-6C,1,n1961,marker,5,1115.5,2017.5,2,2,triangle-up,,78.2212,1353.366,0.4691,9.726,piecewise
+FC-6C,1,n1961,marker,6,1225,2013.5,3,3,triangle-up,right corner on the 100 vertical gridline; base merged with the drawn line,97.1681,1364.144,0.635,13.127,piecewise
+FC-6C,1,n1961,marker,7,1347,2016.5,2,2,triangle-up,,118.1945,1351.086,0.4489,9.717,piecewise
+FC-6C,1,n1961,marker,8,1516.5,2012.5,3,2,triangle-up,right corner on the 150 vertical gridline; base merged with the drawn line,147.4081,1360.395,0.6083,9.748,piecewise
+FC-6C,1,n1961,marker,9,1637,2000,2,2,triangle-up,,167.9701,1399.428,0.449,9.768,piecewise
+FC-6C,1,n1961,marker,10,1752,1997,2,2,triangle-up,,187.5466,1406.683,0.4701,9.773,piecewise
+FC-6C,1,n1961,marker,11,1928,2012,2,2,triangle-up,,217.9356,1352.055,0.4765,9.701,piecewise
+FC-6C,1,n1961,marker,12,2114,2015.5,3,3,triangle-up,on the 250 vertical gridline (apex merged with it),250.4274,1335.8,0.622,13.056,piecewise extrapolated x
+FC-6C,1,n714,marker,1,713.5,2244.5,2,2,circle,,10.1544,595.963,0.4274,9.112,piecewise
+FC-6C,1,n714,marker,2,772,2203,2,2,circle,,19.8928,735.268,0.4356,9.2,piecewise
+FC-6C,1,n714,marker,3,882.5,2192.5,2,2,circle,,38.1631,768.188,0.451,9.224,piecewise
+FC-6C,1,n714,marker,4,999.5,2197.5,2,2,circle,,57.8294,748.354,0.4786,9.216,piecewise
+FC-6C,1,n714,marker,5,1119.5,2195,2,2,circle,,78.5816,753.903,0.4687,9.224,piecewise
+FC-6C,1,n714,marker,6,1227.5,2197.5,2,2,circle,,97.2496,742.761,0.4599,9.221,piecewise
+FC-6C,1,n714,marker,7,1349,2197.5,2,2,circle,,118.1958,739.776,0.4489,9.224,piecewise
+FC-6C,1,n714,marker,8,1463.5,2197.5,2,2,circle,,137.9267,736.961,0.4401,9.226,piecewise
+FC-6C,1,n714,marker,9,1579.5,2197.5,2,2,circle,,157.8154,734.106,0.4379,9.228,piecewise
+FC-6C,1,n714,marker,10,1695,2196.5,2,2,circle,,177.4673,734.665,0.4591,9.233,piecewise
+FC-6C,1,n714,marker,11,1817,2194.5,3,2,circle,right edge on the 200 vertical gridline,198.227,738.471,0.6517,9.264,piecewise
+FC-6C,1,n714,marker,12,1927,2195,2,2,circle,,217.4044,734.057,0.4773,9.241,piecewise
+FC-6C,1,n714,marker,13,2047,2195,2,2,circle,,238.3793,731.097,0.4541,9.244,piecewise
+FC-6C,1,n714,marker,14,2115.5,2197.5,2,2,circle,on the 250 vertical gridline,250.3479,720.881,0.4444,9.24,piecewise extrapolated x
+FC-6C,1,n4695,trace,1,709.5,1811,3,3,,first ink of the drawn line (lower end); the line stops about 12 px short of the first plus marker,10.2842,2059.896,0.5941,14.576,piecewise
+FC-6C,1,n4695,trace,2,729,1746.5,1,14,,steep stroke: run is long along the column; v bound is half the run,13.619,2281.362,0.2865,53.563,piecewise
+FC-6C,1,n4695,trace,3,749,1697,1,14.5,,steep stroke: run is long along the column; v bound is half the run,17.0081,2451.082,0.2901,56.053,piecewise
+FC-6C,1,n4695,trace,4,774,1637,1,8.5,,,21.24,2656.658,0.2827,36.241,piecewise
+FC-6C,1,n4695,trace,5,794,1601,1,9.5,,steep stroke: run is long along the column; v bound is half the run,24.6032,2779.754,0.2872,40.248,piecewise
+FC-6C,1,n4695,trace,6,814,1566,1,7.5,,,27.9641,2899.349,0.2864,33.877,piecewise
+FC-6C,1,n4695,trace,7,834,1532.5,1,8,,line crosses the 3000 psf gridline at this column; run includes the gridline,31.3217,3013.433,0.2901,35.498,piecewise
+FC-6C,1,n4695,trace,8,854,1505.5,1,8,,,34.6673,3103.507,0.2928,34.906,piecewise
+FC-6C,1,n4695,trace,9,865,1485.5,1,3,,short run: tapered end of a dash next to a marker,36.5163,3170.394,0.2855,17.804,piecewise
+FC-6C,1,n4695,trace,10,899,1447,1,3.5,,short run: tapered end of a dash next to a marker,42.1895,3298.735,0.2911,19.07,piecewise
+FC-6C,1,n4695,trace,11,919,1428,1,7.5,,,45.5198,3361.992,0.3008,32.376,piecewise
+FC-6C,1,n4695,trace,12,938,1410.5,1,6,,,48.6824,3420.258,0.3008,27.119,piecewise
+FC-6C,1,n4695,trace,13,958,1393.5,1,6,,,52.1104,3476.829,0.3161,26.935,piecewise
+FC-6C,1,n4695,trace,14,978,1379.5,1,7,,,55.5997,3523.315,0.3163,30.166,piecewise
+FC-6C,1,n4695,trace,15,998,1365.5,1,6,,,59.0892,3569.82,0.3129,26.635,piecewise
+FC-6C,1,n4695,trace,16,1018,1353.5,1,6,,,62.5752,3609.604,0.3112,26.507,piecewise
+FC-6C,1,n4695,trace,17,1038,1342,1,6.5,,,66.0605,3647.718,0.3105,28.077,piecewise
+FC-6C,1,n4695,trace,18,1058,1331.5,1,7,,,69.5441,3682.477,0.3099,29.658,piecewise
+FC-6C,1,n4695,trace,19,1078,1322.5,1,7,,,73.025,3712.19,0.3082,29.564,piecewise
+FC-6C,1,n4695,trace,20,1123,1305,1,4.5,,,80.8525,3769.811,0.2999,20.921,piecewise
+FC-6C,1,n4695,trace,21,1143,1300.5,1,6,,,84.3254,3784.375,0.3011,25.956,piecewise
+FC-6C,1,n4695,trace,22,1163,1294.5,1,6,,,87.8012,3804.009,0.2995,25.895,piecewise
+FC-6C,1,n4695,trace,23,1183,1288.5,1,6,,,91.2771,3823.651,0.2979,25.835,piecewise
+FC-6C,1,n4695,trace,24,1203,1284,1,4.5,,,94.7502,3838.235,0.2934,20.709,piecewise
+FC-6C,1,n4695,trace,25,1243,1273.5,1,3,,short run: tapered end of a dash next to a marker,101.6897,3872.49,0.2857,15.518,piecewise
+FC-6C,1,n4695,trace,26,1263,1270.5,1,6,,,105.1404,3882.025,0.2898,25.66,piecewise
+FC-6C,1,n4695,trace,27,1283,1267,1,5.5,,,108.5919,3893.253,0.2873,23.932,piecewise
+FC-6C,1,n4695,trace,28,1303,1264,1,5.5,,,112.0425,3902.796,0.2858,23.905,piecewise
+FC-6C,1,n4695,trace,29,1323,1260.5,1,6,,,115.494,3914.034,0.2852,25.569,piecewise
+FC-6C,1,n4695,trace,30,1343,1258,1,5.5,,,118.9437,3921.894,0.2827,23.851,piecewise
+FC-6C,1,n4695,trace,31,1363,1255.5,1,6,,,122.3933,3929.758,0.2821,25.526,piecewise
+FC-6C,1,n4695,trace,32,1408,1250,1,4.5,,,130.1546,3947.04,0.2758,20.387,piecewise
+FC-6C,1,n4695,trace,33,1428,1247.5,1,5,,,133.6042,3954.914,0.2752,22.063,piecewise
+FC-6C,1,n4695,trace,34,1448,1245,1,4.5,,,137.0538,3962.791,0.2727,20.343,piecewise
+FC-6C,1,n4695,trace,35,1468,1244.5,1,5,,,140.4996,3963.899,0.2721,22.042,piecewise
+FC-6C,1,n4695,trace,36,1484,1243,1,3.5,,short run: tapered end of a dash next to a marker,143.2583,3968.512,0.2681,16.933,piecewise
+FC-6C,1,n4695,trace,37,1532,1239,1,7.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",151.5169,3980.663,0.2715,30.634,piecewise
+FC-6C,1,n4695,trace,38,1552,1237.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",154.9273,3985.165,0.2724,25.538,piecewise
+FC-6C,1,n4695,trace,39,1572,1237.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",158.3348,3984.584,0.2761,25.526,piecewise
+FC-6C,1,n4695,trace,40,1592,1235.5,1,5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",161.7461,3990.784,0.2779,22.213,piecewise
+FC-6C,1,n4695,trace,41,1612,1234.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",165.1555,3993.595,0.2835,25.771,piecewise
+FC-6C,1,n4695,trace,42,1646,1233,1,4.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",170.9512,3997.698,0.2869,20.658,piecewise
+FC-6C,1,n4695,trace,43,1666,1232.5,1,5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",174.3597,3998.816,0.2915,22.428,piecewise
+FC-6C,1,n4695,trace,44,1686,1231,1,5.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",177.7702,4003.424,0.2962,24.187,piecewise
+FC-6C,1,n4695,trace,45,1706,1230,1,4.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",181.1796,4006.321,0.298,20.697,piecewise
+FC-6C,1,n4695,trace,46,1715,1230,1,4.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",182.713,4006.053,0.2996,20.697,piecewise
+FC-6C,1,n4695,trace,47,1769,1230,1,4.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",191.9135,4004.446,0.3096,20.702,piecewise
+FC-6C,1,n4695,trace,48,1789,1228.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",195.3239,4009.088,0.3162,25.907,piecewise
+FC-6C,1,n4695,trace,49,1808,1227.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",198.563,4012.014,0.3197,25.897,piecewise
+FC-6C,1,n4695,trace,50,1828,1227.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",202.0174,4011.419,0.3266,25.898,piecewise
+FC-6C,1,n4695,trace,51,1848,1227,1,7.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",205.5069,4012.569,0.3257,31.115,piecewise
+FC-6C,1,n4695,trace,52,1868,1228,1,6.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",208.9935,4008.482,0.3198,27.647,piecewise
+FC-6C,1,n4695,trace,53,1888,1228.5,1,6,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",212.4811,4006.141,0.315,25.914,piecewise
+FC-6C,1,n4695,trace,54,1949,1226.5,1,7,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",223.125,4011.308,0.3051,29.376,piecewise
+FC-6C,1,n4695,trace,55,1969,1225,1,8.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",226.6164,4015.95,0.3041,34.581,piecewise
+FC-6C,1,n4695,trace,56,1989,1224,1,7.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",230.1069,4018.846,0.2982,31.091,piecewise
+FC-6C,1,n4695,trace,57,2009,1225,1,8.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",233.5935,4014.759,0.2962,34.583,piecewise
+FC-6C,1,n4695,trace,58,2029,1225,1,8.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",237.082,4014.164,0.2923,34.585,piecewise
+FC-6C,1,n4695,trace,59,2049,1224,1,7.5,,"line runs along the 4000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",240.5725,4017.059,0.2865,31.095,piecewise
+FC-6C,1,n4695,trace,60,2061,1225,2,8,,"last ink of the drawn line; ends about 19 px short of the last plus marker (only the 4000 gridline continues); merged with the 4000 gridline, v center of merged run",242.6637,4013.211,0.4598,32.877,piecewise
+FC-6C,1,n4695,feature,1,709.5,1811,3,3,,first point: lower end of the drawn line,10.2842,2059.896,0.5941,14.576,piecewise
+FC-6C,1,n4695,feature,2,2015,1224,46,8.5,,"peak: the drawn line is flat-topped (top edge v 1217) from u about 1969 to 2062, merged with the 4000 gridline; v = highest trace sample (u 1989 and 2049), u the middle of the flat top, u bound covers it",234.642,4018.072,8.153,35.909,piecewise
+FC-6C,1,n4695,feature,3,2061,1225,2,8,,"last point: right end of the drawn line's ink, merged with the 4000 gridline",242.6637,4013.211,0.4598,32.877,piecewise
+FC-6C,1,n3815,trace,1,712.5,1995.5,3,2,,"first ink of the drawn line, where it meets the top edge of the first triangle",10.4432,1437.279,0.5927,9.867,piecewise
+FC-6C,1,n3815,trace,2,719,1977.5,1,11,,steep stroke: run is long along the column; v bound is half the run,11.549,1497.725,0.2795,40.233,piecewise
+FC-6C,1,n3815,trace,3,739,1933.5,1,9,,steep stroke: run is long along the column; v bound is half the run,14.9304,1645.366,0.2786,33.671,piecewise
+FC-6C,1,n3815,trace,4,756,1901,1,9.5,,steep stroke: run is long along the column; v bound is half the run,17.7951,1754.35,0.2819,35.49,piecewise
+FC-6C,1,n3815,trace,5,784,1852,1,7.5,,,22.5044,1918.581,0.2821,28.949,piecewise
+FC-6C,1,n3815,trace,6,804,1823,1,8.5,,line crosses the 2000 psf gridline at this column; run includes the gridline,25.8568,2016.013,0.2866,33.301,piecewise
+FC-6C,1,n3815,trace,7,824,1796,1,8.5,,,29.2052,2108.29,0.2894,33.714,piecewise
+FC-6C,1,n3815,trace,8,844,1770.5,1,7,,,32.5504,2195.365,0.2895,28.924,piecewise
+FC-6C,1,n3815,trace,9,859,1753.5,1,6,,,35.0554,2253.34,0.2898,25.731,piecewise
+FC-6C,1,n3815,trace,10,896,1712,1,3.5,,short run: tapered end of a dash next to a marker,41.2326,2394.759,0.2905,17.738,piecewise
+FC-6C,1,n3815,trace,11,916,1695,1,7.5,,,44.5617,2452.493,0.3002,31.794,piecewise
+FC-6C,1,n3815,trace,12,936,1677.5,1,7,,,47.8914,2511.913,0.3021,30.333,piecewise
+FC-6C,1,n3815,trace,13,960,1659,1,7.5,,,51.9751,2574.598,0.3187,32.333,piecewise
+FC-6C,1,n3815,trace,14,974,1649,1,5.5,,,54.4166,2608.43,0.314,25.588,piecewise
+FC-6C,1,n3815,trace,15,1014,1621.5,1,3,,short run: tapered end of a dash next to a marker,61.3909,2701.352,0.3061,17.386,piecewise
+FC-6C,1,n3815,trace,16,1034,1610.5,1,6,,,64.8732,2738.348,0.31,27.882,piecewise
+FC-6C,1,n3815,trace,17,1054,1600.5,1,6,,,68.3539,2771.899,0.3084,28.028,piecewise
+FC-6C,1,n3815,trace,18,1074,1590.5,1,7,,,71.8347,2805.432,0.3086,31.615,piecewise
+FC-6C,1,n3815,trace,19,1091,1582.5,1,6,,,74.7926,2832.208,0.3054,28.289,piecewise
+FC-6C,1,n3815,trace,20,1131,1566,1,4.5,,,81.7484,2887.21,0.2993,23.365,piecewise
+FC-6C,1,n3815,trace,21,1151,1559,1,6.5,,,85.2241,2910.411,0.3015,30.342,piecewise
+FC-6C,1,n3815,trace,22,1171,1552.5,1,6,,,88.6989,2931.888,0.2989,28.713,piecewise
+FC-6C,1,n3815,trace,23,1191,1547.5,1,5,,,92.171,2948.222,0.2954,25.343,piecewise
+FC-6C,1,n3815,trace,24,1211,1543.5,1,6,,,95.6413,2961.128,0.2957,28.831,piecewise
+FC-6C,1,n3815,trace,25,1254,1536,1,4.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",103.0848,2985.091,0.2879,23.6,piecewise
+FC-6C,1,n3815,trace,26,1274,1534,1,5.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",106.534,2991.141,0.2883,26.982,piecewise
+FC-6C,1,n3815,trace,27,1294,1533.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",109.9803,2992.062,0.2877,28.681,piecewise
+FC-6C,1,n3815,trace,28,1314,1533.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",113.4256,2991.274,0.2862,28.67,piecewise
+FC-6C,1,n3815,trace,29,1360,1530,1,4.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",121.3565,3001.401,0.2798,23.587,piecewise
+FC-6C,1,n3815,trace,30,1380,1529.5,1,5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",124.8028,3002.31,0.2792,25.277,piecewise
+FC-6C,1,n3815,trace,31,1400,1528.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",128.25,3004.912,0.2795,28.658,piecewise
+FC-6C,1,n3815,trace,32,1420,1528.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",131.6953,3004.131,0.278,28.656,piecewise
+FC-6C,1,n3815,trace,33,1440,1528.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",135.1407,3003.35,0.2765,28.653,piecewise
+FC-6C,1,n3815,trace,34,1460,1528.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",138.586,3002.568,0.2749,28.649,piecewise
+FC-6C,1,n3815,trace,35,1480,1528.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",142.0313,3001.785,0.2734,28.645,piecewise
+FC-6C,1,n3815,trace,36,1535,1528,1,6.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",151.4898,3001.327,0.2695,30.323,piecewise
+FC-6C,1,n3815,trace,37,1555,1526.5,1,7,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",154.8986,3005.627,0.2741,32.01,piecewise
+FC-6C,1,n3815,trace,38,1575,1527.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",158.3028,3001.455,0.2759,28.615,piecewise
+FC-6C,1,n3815,trace,39,1595,1526.5,1,7,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",161.7107,3004.062,0.2815,31.998,piecewise
+FC-6C,1,n3815,trace,40,1601,1528,1,5.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",162.7297,2998.737,0.2798,26.905,piecewise
+FC-6C,1,n3815,trace,41,1648,1527,1,4.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",170.7358,3000.29,0.2865,23.509,piecewise
+FC-6C,1,n3815,trace,42,1668,1525.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",174.1447,3004.596,0.2931,28.591,piecewise
+FC-6C,1,n3815,trace,43,1688,1525.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",177.5508,3003.812,0.2968,28.584,piecewise
+FC-6C,1,n3815,trace,44,1708,1525.5,1,6,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",180.9568,3003.028,0.3005,28.576,piecewise
+FC-6C,1,n3815,trace,45,1723,1526.5,1,5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",183.5095,2999.044,0.3013,25.183,piecewise
+FC-6C,1,n3815,trace,46,1768,1525,1,6.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",191.1759,3002.373,0.3125,30.26,piecewise
+FC-6C,1,n3815,trace,47,1788,1524,1,7.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",194.5839,3004.986,0.3181,33.644,piecewise
+FC-6C,1,n3815,trace,48,1808,1524,1,7.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",197.9899,3004.201,0.3218,33.653,piecewise
+FC-6C,1,n3815,trace,49,1828,1524,1,7.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",201.4307,3003.417,0.3305,33.663,piecewise
+FC-6C,1,n3815,trace,50,1848,1524,1,7.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",204.9215,3002.632,0.3266,33.672,piecewise
+FC-6C,1,n3815,trace,51,1868,1524,1,7.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",208.4122,3001.846,0.3227,33.682,piecewise
+FC-6C,1,n3815,trace,52,1881,1523.5,1,7,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",210.6822,3003.036,0.3191,31.988,piecewise
+FC-6C,1,n3815,trace,53,1948,1522,1,8.5,,"first ink after the gap at the 11th triangle (line resumes at u 1945); merged with the 3000 gridline, v center of the merged run, bound half of it",222.3791,3005.507,0.309,37.089,piecewise
+FC-6C,1,n3815,trace,54,1964,1522,1,8.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",225.1718,3004.879,0.3059,37.097,piecewise
+FC-6C,1,n3815,trace,55,1984,1522,1,8.5,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",228.6625,3004.093,0.302,37.107,piecewise
+FC-6C,1,n3815,trace,56,2004,1520.5,1,8,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",232.1561,3008.414,0.2971,35.404,piecewise
+FC-6C,1,n3815,trace,57,2024,1521.5,1,9,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",235.645,3004.223,0.2951,38.819,piecewise
+FC-6C,1,n3815,trace,58,2044,1520.5,1,8,,"line runs along the 3000 psf gridline and shares ink with it; v is the center of the merged run, bound half of it",239.1377,3006.843,0.2893,35.424,piecewise
+FC-6C,1,n3815,trace,59,2064,1517,1,4.5,,"line runs next to the 3000 psf gridline (separate ink, within 2 px)",242.635,3017.981,0.2787,23.565,piecewise
+FC-6C,1,n3815,trace,60,2080,1516.5,2,5,,"last ink of the drawn line, about 4 px left of the last triangle; here the line is separate from the 3000 gridline below it",245.4286,3019.057,0.4513,25.3,piecewise
+FC-6C,1,n3815,feature,1,712.5,1995.5,3,2,,first point: lower end of the drawn line at the top edge of the first triangle,10.4432,1437.279,0.5927,9.867,piecewise
+FC-6C,1,n3815,feature,2,2070,1516.5,36,4.5,,peak: the line's top edge is flat (v 1513) from u about 2004 to 2080; v read where the line is separate from the gridline (u 2064 to 2080); u bound covers the flat top,243.6832,3019.449,6.3931,24.943,piecewise
+FC-6C,1,n3815,feature,3,2080,1516.5,2,5,,last point: right end of the drawn line's ink next to the last triangle,245.4286,3019.057,0.4513,25.3,piecewise
+FC-6C,1,n2934,trace,1,721.5,2072,3,3,,"first ink of the drawn line, where it meets the top right corner of the first square",11.7899,1179.484,0.5957,12.917,piecewise
+FC-6C,1,n2934,trace,2,743,2036,1,8.5,,,15.4052,1300.174,0.2782,31.558,piecewise
+FC-6C,1,n2934,trace,3,763,2002,1,7.5,,,18.7686,1414.151,0.2791,28.327,piecewise
+FC-6C,1,n2934,trace,4,786,1965.5,1,7,,,22.6311,1536.455,0.2814,26.791,piecewise
+FC-6C,1,n2934,trace,5,806,1939,1,7.5,,,25.98,1625.157,0.285,28.584,piecewise
+FC-6C,1,n2934,trace,6,826,1908.5,1,4,,,29.3355,1727.312,0.2816,16.913,piecewise
+FC-6C,1,n2934,trace,7,846,1887,1,7.5,,,32.6746,1799.162,0.2905,28.796,piecewise
+FC-6C,1,n2934,trace,8,858,1875,1,4.5,,,34.6763,1839.24,0.2869,18.735,piecewise
+FC-6C,1,n2934,trace,9,899,1828.5,1,6,,line crosses the 2000 psf gridline at this column; run includes the gridline,41.5243,1994.656,0.2952,24.427,piecewise
+FC-6C,1,n2934,trace,10,919,1808,1,6.5,,,44.8604,2064.399,0.2988,26.574,piecewise
+FC-6C,1,n2934,trace,11,939,1790,1,6.5,,,48.1918,2125.634,0.3016,26.846,piecewise
+FC-6C,1,n2934,trace,12,959,1772.5,1,6,,,51.5964,2185.121,0.3161,25.387,piecewise
+FC-6C,1,n2934,trace,13,972,1765.5,1,3,,short run: tapered end of a dash next to a marker,53.8588,2208.76,0.3096,15.15,piecewise
+FC-6C,1,n2934,trace,14,1017,1727.5,1,3,,short run: tapered end of a dash next to a marker,61.7158,2337.744,0.3059,15.728,piecewise
+FC-6C,1,n2934,trace,15,1037,1716.5,1,5,,,65.1974,2374.833,0.3079,22.781,piecewise
+FC-6C,1,n2934,trace,16,1057,1704.5,1,7,,,68.681,2415.33,0.31,29.846,piecewise
+FC-6C,1,n2934,trace,17,1077,1693.5,1,6,,,72.163,2452.38,0.3065,26.565,piecewise
+FC-6C,1,n2934,trace,18,1087,1689,1,4.5,,,73.9021,2467.472,0.3029,21.468,piecewise
+FC-6C,1,n2934,trace,19,1131,1666.5,1,3,,short run: tapered end of a dash next to a marker,81.5599,2543.075,0.2965,16.64,piecewise
+FC-6C,1,n2934,trace,20,1151,1659.5,1,5,,,85.0348,2566.364,0.2987,23.619,piecewise
+FC-6C,1,n2934,trace,21,1171,1651.5,1,6,,,88.5118,2593.063,0.2989,27.173,piecewise
+FC-6C,1,n2934,trace,22,1191,1643,1,6.5,,,91.9898,2621.46,0.2983,29.013,piecewise
+FC-6C,1,n2934,trace,23,1197,1641.5,1,4,,,93.0312,2626.384,0.293,20.441,piecewise
+FC-6C,1,n2934,trace,24,1249,1622,1,3.5,,short run: tapered end of a dash next to a marker,102.0597,2691.248,0.2865,19.005,piecewise
+FC-6C,1,n2934,trace,25,1269,1617.5,1,7,,,105.5138,2705.919,0.2916,31.085,piecewise
+FC-6C,1,n2934,trace,26,1289,1611.5,1,5,,,108.9707,2725.708,0.2863,24.301,piecewise
+FC-6C,1,n2934,trace,27,1296,1609.5,1,6,,,110.1804,2732.29,0.2876,27.761,piecewise
+FC-6C,1,n2934,trace,28,1309,1606.5,1,6,,,112.4256,2742.07,0.2866,27.801,piecewise
+FC-6C,1,n2934,trace,29,1317,1607,1,2.5,,short run: tapered end of a dash next to a marker,113.8029,2740.072,0.2794,15.778,piecewise
+FC-6C,1,n2934,trace,30,1359,1594.5,1,3,,short run: tapered end of a dash next to a marker,121.062,2781.233,0.2771,17.671,piecewise
+FC-6C,1,n2934,trace,31,1379,1591.5,1,6,,,124.5131,2790.739,0.2812,27.997,piecewise
+FC-6C,1,n2934,trace,32,1399,1586.5,1,6,,,127.968,2807.066,0.2797,28.064,piecewise
+FC-6C,1,n2934,trace,33,1419,1582.5,1,6,,,131.421,2819.974,0.2781,28.115,piecewise
+FC-6C,1,n2934,trace,34,1439,1579.5,1,6,,,134.8721,2829.463,0.2766,28.151,piecewise
+FC-6C,1,n2934,trace,35,1459,1576.5,1,6,,,138.3232,2838.948,0.275,28.187,piecewise
+FC-6C,1,n2934,trace,36,1479,1573.5,1,6,,,141.7742,2848.428,0.2735,28.222,piecewise
+FC-6C,1,n2934,trace,37,1540,1565,1,2.5,,short run: tapered end of a dash next to a marker,152.2724,2875.099,0.2628,16.345,piecewise
+FC-6C,1,n2934,trace,38,1560,1562.5,1,6,,,155.6829,2882.857,0.273,28.349,piecewise
+FC-6C,1,n2934,trace,39,1580,1561.5,1,6,,,159.0906,2885.505,0.2767,28.354,piecewise
+FC-6C,1,n2934,trace,40,1600,1558.5,1,6,,,162.5021,2894.959,0.2804,28.389,piecewise
+FC-6C,1,n2934,trace,41,1610,1555.5,1,3,,short run: tapered end of a dash next to a marker,164.2107,2904.789,0.2766,18.174,piecewise
+FC-6C,1,n2934,trace,42,1652,1553,1,5.5,,,171.3679,2911.692,0.2891,26.738,piecewise
+FC-6C,1,n2934,trace,43,1672,1551.5,1,5,,,174.7766,2916.03,0.2918,25.042,piecewise
+FC-6C,1,n2934,trace,44,1692,1551.5,1,5,,,178.1825,2915.265,0.2955,25.033,piecewise
+FC-6C,1,n2934,trace,45,1712,1549.5,1,6,,,181.5923,2921.299,0.3011,28.468,piecewise
+FC-6C,1,n2934,trace,46,1718,1548,1,4.5,,,182.6169,2926.167,0.2994,23.366,piecewise
+FC-6C,1,n2934,trace,47,1769,1545,1,4.5,,,191.3078,2934.403,0.3088,23.389,piecewise
+FC-6C,1,n2934,trace,48,1789,1544,1,6.5,,,194.7157,2937.03,0.3163,30.217,piecewise
+FC-6C,1,n2934,trace,49,1809,1543.5,1,6,,,198.1226,2937.959,0.319,28.508,piecewise
+FC-6C,1,n2934,trace,50,1829,1542,1,5.5,,,201.5696,2942.281,0.3264,26.816,piecewise
+FC-6C,1,n2934,trace,51,1849,1540.5,1,6,,,205.0635,2946.601,0.3235,28.532,piecewise
+FC-6C,1,n2934,trace,52,1869,1540.5,1,6,,,208.5543,2945.83,0.3196,28.522,piecewise
+FC-6C,1,n2934,trace,53,1889,1537.5,1,6,,,212.0511,2955.234,0.3157,28.557,piecewise
+FC-6C,1,n2934,trace,54,1947,1543,1,3.5,,short run: tapered end of a dash next to a marker,222.164,2934.356,0.2996,19.931,piecewise
+FC-6C,1,n2934,trace,55,1967,1544,1,6.5,,,225.653,2930.201,0.3015,30.118,piecewise
+FC-6C,1,n2934,trace,56,1987,1546.5,1,6,,,229.1391,2920.968,0.2966,28.367,piecewise
+FC-6C,1,n2934,trace,57,2007,1548,1,5.5,,,232.6272,2915.125,0.2918,26.633,piecewise
+FC-6C,1,n2934,trace,58,2027,1551,1,5.5,,,236.1124,2904.207,0.2879,26.577,piecewise
+FC-6C,1,n2934,trace,59,2047,1553,1,6.5,,,239.5996,2896.68,0.2859,29.937,piecewise
+FC-6C,1,n2934,trace,60,2067,1556.5,1,6,,,243.084,2884.08,0.2811,28.173,piecewise
+FC-6C,1,n2934,trace,61,2079,1558.5,1,3,,short run: tapered end of a dash next to a marker,245.1748,2876.862,0.2731,17.94,piecewise
+FC-6C,1,n2934,trace,62,2126,1564,2,4,,"last ink of the drawn line: it passes through the last square and pokes out about 10 px past its right edge (x about 253, beyond the 250 gridline)",253.3685,2856.5,0.4614,21.273,piecewise extrapolated x
+FC-6C,1,n2934,feature,1,721.5,2072,3,3,,first point: lower end of the drawn line at the first square,11.7899,1179.484,0.5957,12.917,piecewise
+FC-6C,1,n2934,feature,2,1889,1537.5,4,6,,"peak: highest ink of the drawn line, at the right end of the dash before the 11th square; the line is hidden by that square from u 1890 to 1946 and descends after it",212.0511,2955.234,0.8399,28.674,piecewise
+FC-6C,1,n2934,feature,3,2126,1564,2,4,,"last point: right end of the drawn line, just past the right edge of the last square",253.3685,2856.5,0.4614,21.273,piecewise extrapolated x
+FC-6C,1,n1961,trace,1,719,2162.5,3,3,,"first ink of the drawn line, where it meets the right side of the first triangle near its apex",11.2123,873.921,0.5954,12.701,piecewise
+FC-6C,1,n1961,trace,2,727,2150,1,8.5,,,12.5563,916.124,0.2759,31.345,piecewise
+FC-6C,1,n1961,trace,3,747,2127.5,1,8,,line crosses the 1000 psf gridline at this column; run includes the gridline,15.9001,991.963,0.2777,29.661,piecewise
+FC-6C,1,n1961,trace,4,789,2091.5,1,7,,,22.9006,1112.23,0.2817,26.265,piecewise
+FC-6C,1,n1961,trace,5,809,2079,1,7.5,,,26.2255,1153.833,0.2853,28.0,piecewise
+FC-6C,1,n1961,trace,6,829,2066.5,1,6,,,29.5502,1195.43,0.2854,22.995,piecewise
+FC-6C,1,n1961,trace,7,849,2056.5,1,6,,,32.8703,1228.608,0.2882,23.035,piecewise
+FC-6C,1,n1961,trace,8,865,2050,1,4.5,,,35.5236,1250.1,0.2877,18.006,piecewise
+FC-6C,1,n1961,trace,9,905,2034.5,1,4,,,42.1552,1301.295,0.2924,16.382,piecewise
+FC-6C,1,n1961,trace,10,925,2031.5,1,5,,,45.4626,1310.905,0.2969,19.762,piecewise
+FC-6C,1,n1961,trace,11,944,2029.5,1,6,,,48.6031,1317.174,0.3012,23.138,piecewise
+FC-6C,1,n1961,trace,12,964,2027,1,5.5,,,52.0003,1325.099,0.3148,21.462,piecewise
+FC-6C,1,n1961,trace,13,981,2026.5,1,3,,short run: tapered end of a dash next to a marker,54.9415,1326.368,0.3089,13.041,piecewise
+FC-6C,1,n1961,trace,14,1021,2022.5,1,4,,,61.8672,1338.851,0.3075,16.423,piecewise
+FC-6C,1,n1961,trace,15,1041,2021,1,5.5,,,65.3292,1343.41,0.3086,21.479,piecewise
+FC-6C,1,n1961,trace,16,1061,2021,1,5.5,,,68.7884,1342.923,0.307,21.477,piecewise
+FC-6C,1,n1961,trace,17,1081,2020.5,1,6,,,72.2485,1344.118,0.3063,23.161,piecewise
+FC-6C,1,n1961,trace,18,1093,2021,1,2.5,,short run: tapered end of a dash next to a marker,74.3231,1342.144,0.2988,11.372,piecewise
+FC-6C,1,n1961,trace,19,1134,2019,1,4.5,,,81.4182,1347.871,0.2992,18.112,piecewise
+FC-6C,1,n1961,trace,20,1154,2020.5,1,6,,,84.8746,1342.34,0.3004,23.154,piecewise
+FC-6C,1,n1961,trace,21,1174,2021,1,5.5,,,88.3328,1340.172,0.2978,21.467,piecewise
+FC-6C,1,n1961,trace,22,1194,2021,1,5.5,,,91.792,1339.685,0.2962,21.465,piecewise
+FC-6C,1,n1961,trace,23,1206,2022,1,4.5,,,93.8656,1336.031,0.2934,18.093,piecewise
+FC-6C,1,n1961,trace,24,1250,2022.5,1,7,,,101.4693,1333.28,0.2935,26.502,piecewise
+FC-6C,1,n1961,trace,25,1270,2023.5,1,6,,,104.9136,1329.433,0.29,23.13,piecewise
+FC-6C,1,n1961,trace,26,1290,2021.5,1,6,,,108.3635,1335.669,0.2885,23.136,piecewise
+FC-6C,1,n1961,trace,27,1310,2021.5,1,6,,,111.8097,1335.183,0.2869,23.134,piecewise
+FC-6C,1,n1961,trace,28,1320,2023.5,1,3,,short run: tapered end of a dash next to a marker,113.5289,1328.218,0.2805,13.03,piecewise
+FC-6C,1,n1961,trace,29,1371,2020.5,1,3,,short run: tapered end of a dash next to a marker,122.3223,1337.061,0.2766,13.039,piecewise
+FC-6C,1,n1961,trace,30,1391,2022,1,7.5,,,125.7656,1331.534,0.2836,28.17,piecewise
+FC-6C,1,n1961,trace,31,1411,2022,1,7.5,,,129.2118,1331.048,0.282,28.168,piecewise
+FC-6C,1,n1961,trace,32,1431,2018.5,1,6,,,132.6645,1342.321,0.2776,23.134,piecewise
+FC-6C,1,n1961,trace,33,1451,2018,1,5.5,,,136.1116,1343.515,0.2751,21.453,piecewise
+FC-6C,1,n1961,trace,34,1471,2017.5,1,6,,,139.5587,1344.708,0.2745,23.134,piecewise
+FC-6C,1,n1961,trace,35,1489,2018,1,2.5,,short run: tapered end of a dash next to a marker,142.6593,1342.59,0.2666,11.359,piecewise
+FC-6C,1,n1961,trace,36,1544,2013.5,1,4,,,152.1181,1356.366,0.2653,16.418,piecewise
+FC-6C,1,n1961,trace,37,1564,2012,1,6.5,,,155.5245,1360.916,0.2736,24.829,piecewise
+FC-6C,1,n1961,trace,38,1584,2011.5,1,6,,,158.929,1362.108,0.2764,23.148,piecewise
+FC-6C,1,n1961,trace,39,1604,2008.5,1,6,,,162.3382,1371.694,0.2801,23.158,piecewise
+FC-6C,1,n1961,trace,40,1613,2010,1,4.5,,,163.867,1366.438,0.2789,18.108,piecewise
+FC-6C,1,n1961,trace,41,1656,2002,1,4.5,,,171.1998,1392.249,0.2868,18.138,piecewise
+FC-6C,1,n1961,trace,42,1676,2000,1,6.5,,,174.6072,1398.474,0.2943,24.867,piecewise
+FC-6C,1,n1961,trace,43,1696,1999.5,1,6,,,178.0117,1399.663,0.297,23.186,piecewise
+FC-6C,1,n1961,trace,44,1716,1999.5,1,6,,,181.4154,1399.173,0.3007,23.184,piecewise
+FC-6C,1,n1961,trace,45,1733,2001.5,1,4,,,184.3046,1392.044,0.3,16.453,piecewise
+FC-6C,1,n1961,trace,46,1777,2007,1,4.5,,,191.7819,1372.509,0.3091,18.107,piecewise
+FC-6C,1,n1961,trace,47,1797,2006.5,1,6,,,195.1865,1373.7,0.3156,23.147,piecewise
+FC-6C,1,n1961,trace,48,1817,2009,1,6.5,,,198.5852,1364.822,0.3203,24.815,piecewise
+FC-6C,1,n1961,trace,49,1837,2011.5,1,6,,,202.0369,1355.946,0.3272,23.122,piecewise
+FC-6C,1,n1961,trace,50,1857,2012.5,1,6,,,205.5293,1352.104,0.3233,23.116,piecewise
+FC-6C,1,n1961,trace,51,1877,2014.5,1,6,,,209.0198,1344.908,0.3194,23.106,piecewise
+FC-6C,1,n1961,trace,52,1897,2015,1,6.5,,,212.5133,1342.744,0.3165,24.781,piecewise
+FC-6C,1,n1961,trace,53,1909,2016,1,4.5,,,214.608,1339.098,0.3102,18.058,piecewise
+FC-6C,1,n1961,trace,54,1952,2018,1,3.5,,short run: tapered end of a dash next to a marker,222.1173,1331.346,0.2999,14.688,piecewise
+FC-6C,1,n1961,trace,55,1972,2018.5,1,6,,,225.6108,1329.184,0.3009,23.08,piecewise
+FC-6C,1,n1961,trace,56,1992,2018.5,1,6,,,229.1053,1328.699,0.297,23.078,piecewise
+FC-6C,1,n1961,trace,57,2012,2019.5,1,5,,,232.5978,1324.86,0.2912,19.714,piecewise
+FC-6C,1,n1961,trace,58,2032,2019.5,1,5,,,236.0924,1324.376,0.2873,19.712,piecewise
+FC-6C,1,n1961,trace,59,2052,2020,1,4.5,,,239.5859,1322.215,0.2824,18.029,piecewise
+FC-6C,1,n1961,trace,60,2072,2019.5,1,7,,,243.0814,1323.407,0.2833,26.423,piecewise
+FC-6C,1,n1961,trace,61,2092,2018,1,5.5,,,246.5787,1327.952,0.2765,21.391,piecewise
+FC-6C,1,n1961,trace,62,2097,2018.5,2,6,,"last ink of the drawn line, about 4 px short of the last triangle",247.4514,1326.154,0.4514,23.092,piecewise
+FC-6C,1,n1961,feature,1,719,2162.5,3,3,,first point: lower end of the drawn line at the first triangle,11.2123,873.921,0.5954,12.701,piecewise
+FC-6C,1,n1961,feature,2,1706,1999.5,12,6,,peak: highest stretch of the drawn line between the 9th and 10th triangles (u 1696 to 1716 at the same v),179.7135,1399.418,2.1729,23.456,piecewise
+FC-6C,1,n1961,feature,3,2097,2018.5,2,6,,last point: right end of the drawn line next to the last triangle,247.4514,1326.154,0.4514,23.092,piecewise
+FC-6C,1,n714,trace,1,731.5,2232,3,3,,first ink of the drawn line; it does not touch the first circle (gap of about 6 px),13.1505,637.906,0.5971,12.557,piecewise
+FC-6C,1,n714,trace,2,751,2215,1,5.5,,,16.4024,695.081,0.2737,21.029,piecewise
+FC-6C,1,n714,trace,3,757,2212.5,1,5,,,17.398,703.413,0.2736,19.337,piecewise
+FC-6C,1,n714,trace,4,788,2199.5,1,4,,,22.5419,746.749,0.2761,15.972,piecewise
+FC-6C,1,n714,trace,5,808,2197.5,1,6,,,25.8489,753.044,0.2824,22.767,piecewise
+FC-6C,1,n714,trace,6,828,2193.5,1,5,,,29.1595,766.126,0.2834,19.382,piecewise
+FC-6C,1,n714,trace,7,848,2192,1,5.5,,,32.4656,770.727,0.2871,21.084,piecewise
+FC-6C,1,n714,trace,8,863,2192,1,3.5,,short run: tapered end of a dash next to a marker,34.9431,770.361,0.2856,14.294,piecewise
+FC-6C,1,n714,trace,9,909,2196,1,4.5,,,42.5341,755.662,0.2937,17.683,piecewise
+FC-6C,1,n714,trace,10,929,2195.5,1,6,,,45.8384,756.87,0.2991,22.78,piecewise
+FC-6C,1,n714,trace,11,946,2195.5,1,6,,,48.6463,756.454,0.3014,22.781,piecewise
+FC-6C,1,n714,trace,12,966,2195.5,1,6,,,52.041,755.964,0.3156,22.783,piecewise
+FC-6C,1,n714,trace,13,979,2196.5,1,4,,,54.2868,752.251,0.3109,15.987,piecewise
+FC-6C,1,n714,trace,14,1023,2194.5,1,3,,short run: tapered end of a dash next to a marker,61.898,757.964,0.3055,12.596,piecewise
+FC-6C,1,n714,trace,15,1043,2195.5,1,6,,,65.3541,754.079,0.3094,22.788,piecewise
+FC-6C,1,n714,trace,16,1063,2195,1,5.5,,,68.8129,755.287,0.3069,21.092,piecewise
+FC-6C,1,n714,trace,17,1083,2195.5,1,6,,,72.2699,753.099,0.3062,22.791,piecewise
+FC-6C,1,n714,trace,18,1096,2196.5,1,4,,,74.5157,749.384,0.3014,15.993,piecewise
+FC-6C,1,n714,trace,19,1138,2194.5,1,3,,short run: tapered end of a dash next to a marker,81.7811,755.149,0.2961,12.6,piecewise
+FC-6C,1,n714,trace,20,1158,2195,1,5.5,,,85.2381,752.96,0.2992,21.098,piecewise
+FC-6C,1,n714,trace,21,1178,2195.5,1,6,,,88.6951,750.771,0.2985,22.798,piecewise
+FC-6C,1,n714,trace,22,1198,2195,1,5.5,,,92.1539,751.979,0.2959,21.101,piecewise
+FC-6C,1,n714,trace,23,1210,2197.5,1,3,,short run: tapered end of a dash next to a marker,94.2239,743.19,0.2902,12.596,piecewise
+FC-6C,1,n714,trace,24,1252,2195.5,1,6,,,101.4844,748.956,0.2916,22.804,piecewise
+FC-6C,1,n714,trace,25,1272,2195.5,1,6,,,104.9308,748.465,0.29,22.805,piecewise
+FC-6C,1,n714,trace,26,1292,2195.5,1,6,,,108.3773,747.975,0.2885,22.807,piecewise
+FC-6C,1,n714,trace,27,1312,2195.5,1,6,,,111.8237,747.484,0.287,22.808,piecewise
+FC-6C,1,n714,trace,28,1332,2196,1,4.5,,,115.2692,745.293,0.2826,17.706,piecewise
+FC-6C,1,n714,trace,29,1374,2196,1,4.5,,,122.5067,744.262,0.2793,17.708,piecewise
+FC-6C,1,n714,trace,30,1394,2195.5,1,6,,,125.9541,745.471,0.2806,22.814,piecewise
+FC-6C,1,n714,trace,31,1414,2195.5,1,6,,,129.4005,744.979,0.2791,22.816,piecewise
+FC-6C,1,n714,trace,32,1434,2195.5,1,6,,,132.847,744.488,0.2776,22.817,piecewise
+FC-6C,1,n714,trace,33,1441,2196.5,1,5,,,134.0513,740.915,0.2751,19.412,piecewise
+FC-6C,1,n714,trace,34,1489,2196,1,4.5,,,142.3237,741.436,0.2705,17.715,piecewise
+FC-6C,1,n714,trace,35,1509,2195,1,5.5,,,145.7721,744.346,0.2708,21.122,piecewise
+FC-6C,1,n714,trace,36,1525,2195.5,1,6,,,148.5283,742.252,0.2706,22.824,piecewise
+FC-6C,1,n714,trace,37,1545,2195,1,5.5,,,151.9505,743.461,0.2678,21.124,piecewise
+FC-6C,1,n714,trace,38,1561,2198,1,2.5,,short run: tapered end of a dash next to a marker,154.667,732.86,0.2652,10.905,piecewise
+FC-6C,1,n714,trace,39,1606,2194.5,1,3,,short run: tapered end of a dash next to a marker,162.3295,743.663,0.2743,12.616,piecewise
+FC-6C,1,n714,trace,40,1626,2195,1,5.5,,,165.7312,741.47,0.2827,21.13,piecewise
+FC-6C,1,n714,trace,41,1646,2194.5,1,6,,,169.1347,742.679,0.2874,22.835,piecewise
+FC-6C,1,n714,trace,42,1666,2194.5,1,6,,,172.5373,742.188,0.291,22.837,piecewise
+FC-6C,1,n714,trace,43,1673,2196.5,1,4,,,173.7245,735.207,0.2885,16.02,piecewise
+FC-6C,1,n714,trace,44,1720,2195,1,5.5,,,181.7234,739.157,0.3,21.136,piecewise
+FC-6C,1,n714,trace,45,1740,2195,1,5.5,,,185.126,738.664,0.3037,21.137,piecewise
+FC-6C,1,n714,trace,46,1760,2194.5,1,6,,,188.5296,739.874,0.3083,22.844,piecewise
+FC-6C,1,n714,trace,47,1780,2195,1,5.5,,,191.9313,737.679,0.3111,21.14,piecewise
+FC-6C,1,n714,trace,48,1798,2195,1,3.5,,short run: tapered end of a dash next to a marker,194.9936,737.236,0.3105,14.326,piecewise
+FC-6C,1,n714,trace,49,1841,2194.5,1,3,,short run: tapered end of a dash next to a marker,202.3734,737.88,0.321,12.624,piecewise
+FC-6C,1,n714,trace,50,1861,2195,1,6.5,,,205.8682,735.684,0.324,24.554,piecewise
+FC-6C,1,n714,trace,51,1881,2194.5,1,6,,,209.365,736.894,0.3191,22.853,piecewise
+FC-6C,1,n714,trace,52,1901,2194.5,1,6,,,212.8608,736.402,0.3152,22.854,piecewise
+FC-6C,1,n714,trace,53,1908,2195.5,1,3,,short run: tapered end of a dash next to a marker,214.0824,732.822,0.308,12.624,piecewise
+FC-6C,1,n714,trace,54,1953,2193.5,1,5,,,221.9519,738.528,0.3031,19.45,piecewise
+FC-6C,1,n714,trace,55,1973,2194.5,1,6,,,225.4457,734.627,0.3012,22.859,piecewise
+FC-6C,1,n714,trace,56,1993,2195,1,6.5,,,228.9406,732.429,0.2982,24.565,piecewise
+FC-6C,1,n714,trace,57,2013,2195,1,6.5,,,232.4364,731.936,0.2943,24.567,piecewise
+FC-6C,1,n714,trace,58,2028,2195,1,2.5,,short run: tapered end of a dash next to a marker,235.0583,731.566,0.2837,10.924,piecewise
+FC-6C,1,n714,trace,59,2066,2193.5,1,4,,,241.7032,735.742,0.2792,16.045,piecewise
+FC-6C,1,n714,trace,60,2086,2194.5,1,6,,,245.1972,731.839,0.2791,22.868,piecewise
+FC-6C,1,n714,trace,61,2098,2194.5,2,6,,"last ink of the drawn line, about 6 px short of the last circle",247.2947,731.543,0.4518,22.893,piecewise
+FC-6C,1,n714,feature,1,731.5,2232,3,3,,first point: lower end of the drawn line,13.1505,637.906,0.5971,12.557,piecewise
+FC-6C,1,n714,feature,2,855,2192,10,5.5,,peak: the line is nearly flat from x about 40 to 250; its highest stretch (u 848 to 863) is only about 3 px above the plateau,33.6218,770.556,1.7758,21.303,piecewise
+FC-6C,1,n714,feature,3,2098,2194.5,2,6,,last point: right end of the drawn line next to the last circle,247.2947,731.543,0.4518,22.893,piecewise

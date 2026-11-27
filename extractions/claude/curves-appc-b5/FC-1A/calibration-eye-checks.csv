@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,label_center_px,detected_line_px,affine_position_px,label_minus_line_px,affine_minus_line_px,affine_value_at_gridline_minus_printed,verdict,note
+FC-1A,1,x,0,926.5,927.7,920.5,-1.2,-7.2,24.6,label sits on its gridline,ink u 915-938; positions at v 3305.5 (bottom frame)
+FC-1A,1,x,1000,1214.5,1214.0,1214.8,0.5,0.8,-2.7,label sits on its gridline,ink u 1161-1268; positions at v 3305.5 (bottom frame)
+FC-1A,1,x,2000,1503.5,1501.2,1509.2,2.3,7.9,-26.9,label sits on its gridline,ink u 1450-1557 (a stray dot at u 1575 excluded); positions at v 3305.5 (bottom frame)
+FC-1A,1,x,3000,1792.0,1795.7,1803.5,-3.7,7.8,-26.5,label sits on its gridline,ink u 1738-1846; positions at v 3305.5 (bottom frame)
+FC-1A,1,x,4000,2102.5,2107.2,2097.8,-4.7,-9.3,31.7,label sits on its gridline,ink u 2050-2155; positions at v 3305.5 (bottom frame)
+FC-1A,1,y,0,3300.0,3305.2,3309.0,-5.2,3.8,13.4,label sits on its gridline,ink v 3281-3319; positions at u 925 (left frame)
+FC-1A,1,y,1000,3019.0,3023.2,3021.1,-4.2,-2.1,-7.4,label sits on its gridline,ink v 3000-3038; positions at u 925 (left frame)
+FC-1A,1,y,2000,2737.0,2734.2,2733.1,2.8,-1.0,-3.5,label sits on its gridline,ink v 2717-2757; positions at u 925 (left frame)
+FC-1A,1,y,3000,2447.0,2447.8,2445.2,-0.8,-2.6,-9.0,label sits on its gridline,ink v 2428-2466; positions at u 925 (left frame)
+FC-1A,1,y,4000,2163.0,2160.0,2157.3,3.0,-2.8,-9.6,label sits on its gridline,ink v 2143-2183; positions at u 925 (left frame)
+FC-1A,1,y,5000,1873.0,1870.3,1869.3,2.7,-1.0,-3.5,label sits on its gridline,ink v 1854-1892; positions at u 925 (left frame)
+FC-1A,1,y,6000,1580.0,1575.7,1581.4,4.3,5.7,20.0,label sits on its gridline,ink v 1562-1598; positions at u 925 (left frame)

@@ -1,0 +1,181 @@
+{
+  "experiment_id": "b68-ds-fc-4a-dr95",
+  "source": "bendix-1968-vol2",
+  "figure_id": "FC-4A",
+  "batch": "curves-appc-b5",
+  "reading_rules": "docs/CURVE-READING.md (2026-10-08)",
+  "method": "two independent readings (Claude, Codex gpt-6.1-sol high) with their own axis calibrations, compared by tools/diff_curves.py; values from each reading's pixels on a piecewise map between its verified lines (D-025); canonical reading chosen by the lines checked against the ink of the page (more verified lines, then closer to the ink, then the first submission), never averaged; status agreed where the two readings matched within the sum of their bounds, resolved where a page re-read settled a disagreement (qa/<batch>/decisions*.csv), one-sided-verified where only one reading holds the point and the other agent verified it on the page, one-sided where nobody has; `source` names the reading each point comes from and whose numbering `sequence` is",
+  "panels": {
+    "1": {
+      "x_quantity": "normal stress",
+      "x_unit_native": "psf",
+      "x_unit_si": "Pa",
+      "x_factor": 47.880258980336,
+      "y_quantity": "maximum shear stress",
+      "y_unit_native": "psf",
+      "y_unit_si": "Pa",
+      "y_factor": 47.880258980336
+    }
+  },
+  "calibrations": {
+    "claude": {
+      "cal-p1": {
+        "x_per_px": 3.4352489647136633,
+        "y_per_px": 3.439882185270304,
+        "rms_residual_x": 0.7275069862892842,
+        "rms_residual_y": 0.47207955244955807,
+        "max_residual_x": 1.5501428660336387,
+        "max_residual_y": 1.1119203987273067,
+        "n_anchors": 54,
+        "box": [
+          900,
+          1145,
+          2400,
+          3510
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-appc-b5/FC-4A/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.55
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.88
+            },
+            {
+              "value": 8000.0,
+              "location_error_px": 0.6
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    },
+    "codex": {
+      "cal-p1": {
+        "x_per_px": 3.4289352880255084,
+        "y_per_px": 3.424844671824153,
+        "rms_residual_x": 6.727325155390891,
+        "rms_residual_y": 2.2666227468829487,
+        "max_residual_x": 15.530279173219242,
+        "max_residual_y": 4.386071015801463,
+        "n_anchors": 14,
+        "box": [
+          915,
+          1155,
+          2385,
+          3490
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-appc-b5/FC-4A/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 2.57
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 1.46
+            },
+            {
+              "value": 1000.0,
+              "location_error_px": 1.53
+            },
+            {
+              "value": 2000.0,
+              "location_error_px": 1.33
+            },
+            {
+              "value": 3000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 4000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 5000.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 6000.0,
+              "location_error_px": 0.87
+            },
+            {
+              "value": 7000.0,
+              "location_error_px": 0.86
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    }
+  },
+  "points": {
+    "total": 29,
+    "by_status": {
+      "agreed": 12,
+      "audited": 11,
+      "confirmed": 4,
+      "resolved": 1,
+      "one-sided-verified": 1
+    },
+    "by_kind": {
+      "feature": 1,
+      "marker": 5,
+      "trace": 23
+    },
+    "by_panel": {
+      "1": 29
+    }
+  },
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "points_sampled": 19,
+    "by_pair_outcome": {
+      "confirmed": 15,
+      "problem + cannot tell": 1,
+      "split": 3
+    },
+    "rule": "a point both reviewers answered ok has status audited (it was agreed) or confirmed (it rested on a rule, a re-read or one reading); the earlier status is in the note; any other outcome is noted and leaves the status as the readings left it; a verdict on a reading a decision has since replaced is kept as history (superseded) and not applied"
+  },
+  "bounds": "x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.",
+  "pixel_frame": "pixel_u, pixel_v refer to the unrotated 300 dpi rendering of PDF page of FC-4A (tools/render_pages.py), origin top-left, u right, v down.",
+  "printed_labels": [
+    "53\u00b0"
+  ]
+}

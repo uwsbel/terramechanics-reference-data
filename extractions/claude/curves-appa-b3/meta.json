@@ -1,0 +1,67 @@
+{
+  "agent": "claude",
+  "batch": "curves-appa-b3",
+  "date": "2026-10-15",
+  "model": "claude-opus-5-5 (subagents launched from a Claude Code session)",
+  "prompt": "TASK.md plus a task naming the workspace and the figures of each reader",
+  "evidence_packet": "written by tools/make_reading_packet.py from qa/curves-appa-b3/batch.json: page images, figures-rows.csv without the agents' notes columns, series.csv, CURVE-READING.md, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspaces outside the repository; the task forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "readers": {
+    "FA-27": {
+      "reader": "one subagent for FA-27, FA-39 and FA-47, one after the other",
+      "elapsed_sec": 439.2,
+      "subagent_tokens": 403005,
+      "tool_uses": 26,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); these figures run 55 to 115 pcf and the reader followed the page"
+    },
+    "FA-39": {
+      "reader": "one subagent for FA-27, FA-39 and FA-47, one after the other",
+      "elapsed_sec": 439.2,
+      "subagent_tokens": 403005,
+      "tool_uses": 26,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); these figures run 55 to 115 pcf and the reader followed the page"
+    },
+    "FA-47": {
+      "reader": "one subagent for FA-27, FA-39 and FA-47, one after the other",
+      "elapsed_sec": 439.2,
+      "subagent_tokens": 403005,
+      "tool_uses": 26,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); these figures run 55 to 115 pcf and the reader followed the page"
+    },
+    "FA-3": {
+      "reader": "one subagent for FA-3, FA-7, FA-19 and FA-23, one after the other",
+      "elapsed_sec": 733.2,
+      "subagent_tokens": 474834,
+      "tool_uses": 57,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); FA-19 and FA-23 run 55 to 115 and 55 to 100 pcf and the reader followed the page"
+    },
+    "FA-7": {
+      "reader": "one subagent for FA-3, FA-7, FA-19 and FA-23, one after the other",
+      "elapsed_sec": 733.2,
+      "subagent_tokens": 474834,
+      "tool_uses": 57,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); FA-19 and FA-23 run 55 to 115 and 55 to 100 pcf and the reader followed the page"
+    },
+    "FA-19": {
+      "reader": "one subagent for FA-3, FA-7, FA-19 and FA-23, one after the other",
+      "elapsed_sec": 733.2,
+      "subagent_tokens": 474834,
+      "tool_uses": 57,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); FA-19 and FA-23 run 55 to 115 and 55 to 100 pcf and the reader followed the page"
+    },
+    "FA-23": {
+      "reader": "one subagent for FA-3, FA-7, FA-19 and FA-23, one after the other",
+      "elapsed_sec": 733.2,
+      "subagent_tokens": 474834,
+      "tool_uses": 57,
+      "note": "stopped by the account usage limit on 2026-10-14 evening and resumed 2026-10-15 08:30 in the same workspace; the figures shown are the resumed run only",
+      "packet_error": "the batch instructions described the unit-weight axis as 25 to 65 pcf (true of FA-3 only); FA-19 and FA-23 run 55 to 115 and 55 to 100 pcf and the reader followed the page"
+    }
+  }
+}

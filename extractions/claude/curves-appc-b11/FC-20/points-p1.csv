@@ -1,0 +1,80 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-20,1,data,marker,1,825.3,3228.9,3,3,circle,single; ring touches the Dr 0 grid line on its left; solid curve passes about 8 px below
+FC-20,1,data,marker,2,827.5,3280.5,3,3,circle,pair 1 left; the solid curve runs over the top of the ring and the joining line meets its right side; bound widened
+FC-20,1,data,marker,3,1009.2,3280.3,2,2,circle,pair 1 right; the joining line meets its left side; the lower dashed curve has a gap just below it
+FC-20,1,data,marker,4,1264.1,2964.0,3,3,circle,single; the Dr 0.3 grid line passes through the circle near its centre; bound widened
+FC-20,1,data,marker,5,1531.4,2671.5,3,3,circle,"single; ring printed broken (gaps at upper right and lower left); the upper dashed curve passes about 6 px from its upper left, there printed as fragments; bound widened"
+FC-20,1,data,marker,6,1994.2,2318.4,2,2,circle,single; the upper dashed curve passes about 10 px above it
+FC-20,1,data,marker,7,2341.2,2320.9,3,3,circle,single; the Dr 1.0 grid line passes through it near its centre; the solid curve ends on its left side; bound widened
+FC-20,1,mean,trace,1,797.5,3266.5,4,4,,left end: ink starts about 7 px left of the centre of the Dr 0 grid line
+FC-20,1,mean,trace,2,804.5,3265.8,4,6,,"Dr 0.00 on the Dr 0 grid line; curve merged with the grid line, the pair 1 left circle just right of it; v bound widened"
+FC-20,1,mean,trace,3,880.3,3243.8,4,4,,Dr 0.05
+FC-20,1,mean,trace,4,956.2,3218.3,4,4,,Dr 0.10; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,5,1033.9,3188.0,4,4,,Dr 0.15
+FC-20,1,mean,trace,6,1111.7,3152.6,4,4,,Dr 0.20; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,7,1191.7,3108.5,4,4,,Dr 0.25
+FC-20,1,mean,trace,8,1271.3,3052.1,4,4,,Dr 0.30; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,9,1347.0,2986.0,4,4,,Dr 0.35
+FC-20,1,mean,trace,10,1422.4,2910.1,4,4,,Dr 0.40; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,11,1497.5,2823.5,4,4,,Dr 0.45
+FC-20,1,mean,trace,12,1572.5,2739.0,4,4,,Dr 0.50; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,13,1649.9,2660.0,4,4,,Dr 0.55
+FC-20,1,mean,trace,14,1727.7,2593.8,4,4,,Dr 0.60; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,15,1803.8,2542.2,4,4,,Dr 0.65
+FC-20,1,mean,trace,16,1879.7,2498.9,4,4,,Dr 0.70; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,17,1953.1,2462.5,4,4,,Dr 0.75
+FC-20,1,mean,trace,18,2026.7,2430.1,4,5,,Dr 0.80; curve merged with a horizontal grid line: centre half a line width from its free edge; v bound widened; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,19,2106.2,2397.7,4,4,,Dr 0.85
+FC-20,1,mean,trace,20,2185.9,2367.9,4,4,,Dr 0.90; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,mean,trace,21,2263.3,2339.7,4,4,,Dr 0.95
+FC-20,1,mean,trace,22,2321.5,2321.0,4,4,,right end: ink ends where it meets the outline of the circle at Dr 0.99 (it does not enter the ring)
+FC-20,1,mean,feature,1,797.5,3266.5,4,4,,first point (left end of the ink)
+FC-20,1,mean,feature,2,2321.5,2321.0,4,4,,last point (right end of the ink); also the maximum of the trace; no knee on this curve
+FC-20,1,upper,trace,1,799.5,3171.0,4,4,,left end: ink starts at the left edge of the Dr 0 grid line
+FC-20,1,upper,trace,2,802.5,3170.1,4,5,,Dr 0.00 on the Dr 0 grid line; curve merged with the grid line; v bound widened
+FC-20,1,upper,trace,3,878.1,3141.0,4,4,,Dr 0.05
+FC-20,1,upper,trace,4,953.7,3101.8,4,4,,Dr 0.10; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,upper,trace,5,1031.1,3054.4,4,4,,Dr 0.15
+FC-20,1,upper,trace,6,1100.0,3006.5,4,4,,"Dr 0.20; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,7,1187.9,2937.1,4,4,,Dr 0.25
+FC-20,1,upper,trace,8,1278.0,2858.0,4,4,,"Dr 0.30; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,9,1343.1,2803.0,4,4,,Dr 0.35
+FC-20,1,upper,trace,10,1441.0,2711.0,4,4,,"Dr 0.40; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,11,1494.0,2665.5,4,4,,Dr 0.45; this stretch of the dashed curve is printed as fragments next to the circle at Dr 0.46
+FC-20,1,upper,trace,12,1581.0,2580.5,4,4,,"Dr 0.50; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,13,1646.9,2522.7,4,4,,Dr 0.55
+FC-20,1,upper,trace,14,1724.7,2455.3,4,4,,Dr 0.60; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,upper,trace,15,1799.0,2399.5,4,4,,"Dr 0.65; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,16,1876.5,2346.0,4,4,,Dr 0.70; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,upper,trace,17,1952.0,2301.5,4,4,,"Dr 0.75; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,18,2023.4,2265.8,4,4,,Dr 0.80; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,upper,trace,19,2119.0,2222.5,4,4,,"Dr 0.85; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,upper,trace,20,2182.8,2199.8,4,4,,Dr 0.90; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,upper,trace,21,2256.0,2188.5,4,8,,"Dr 0.95; in a gap between dashes: moved to the nearest dash end, on the ink; the dash ends in a thin flat tail (u 2239 to 2261) that lies up to 8 px below the path of the stroke (the next dash, from u 2284, continues that path); sample on the tail's ink, v bound widened to take in the stroke's path"
+FC-20,1,upper,trace,22,2335.5,2165.5,4,4,,right end: last dash runs into the Dr 1.0 grid line; no ink right of it
+FC-20,1,upper,feature,1,799.5,3171.0,4,4,,first point (left end of the ink)
+FC-20,1,upper,feature,2,2335.5,2165.5,4,4,,last point (right end of the ink); also the maximum of the trace; no knee on this curve
+FC-20,1,lower,trace,1,803.5,3383.0,4,4,,left end: ink starts about 3 px left of the Dr 0 grid line
+FC-20,1,lower,trace,2,806.9,3382.7,4,5,,Dr 0.00 on the Dr 0 grid line; curve merged with the grid line; v bound widened
+FC-20,1,lower,trace,3,882.7,3355.6,4,4,,Dr 0.05
+FC-20,1,lower,trace,4,958.6,3327.5,4,4,,Dr 0.10; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,5,1036.3,3296.8,4,4,,Dr 0.15
+FC-20,1,lower,trace,6,1114.1,3262.9,4,4,,Dr 0.20; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,7,1187.0,3231.0,4,4,,"Dr 0.25; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,lower,trace,8,1274.2,3180.7,4,4,,Dr 0.30; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,9,1349.0,3131.5,4,4,,"Dr 0.35; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,lower,trace,10,1425.7,3067.1,4,4,,Dr 0.40; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,11,1504.0,2974.5,4,4,,"Dr 0.45; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,lower,trace,12,1575.9,2888.8,4,4,,Dr 0.50; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,13,1653.0,2800.0,4,5,,Dr 0.55; curve merged with a horizontal grid line: centre half a line width from its free edge; v bound widened
+FC-20,1,lower,trace,14,1730.4,2720.6,4,4,,Dr 0.60; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,15,1806.2,2657.0,4,4,,Dr 0.65
+FC-20,1,lower,trace,16,1882.0,2604.6,4,4,,Dr 0.70; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,17,1942.0,2568.5,4,4,,"Dr 0.75; in a gap between dashes: moved to the nearest dash end, on the ink"
+FC-20,1,lower,trace,18,2028.6,2523.0,4,4,,Dr 0.80; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,19,2107.9,2487.1,4,4,,Dr 0.85
+FC-20,1,lower,trace,20,2187.5,2453.5,4,4,,Dr 0.90; on a vertical grid line: centre interpolated between the ink either side of it
+FC-20,1,lower,trace,21,2264.9,2424.5,4,5,,Dr 0.95; curve merged with a horizontal grid line: centre half a line width from its free edge; v bound widened
+FC-20,1,lower,trace,22,2339.5,2396.5,4,4,,right end: last dash runs into the Dr 1.0 grid line; no ink right of it
+FC-20,1,lower,feature,1,803.5,3383.0,4,4,,first point (left end of the ink)
+FC-20,1,lower,feature,2,2339.5,2396.5,4,4,,last point (right end of the ink); also the maximum of the trace; no knee on this curve

@@ -1,0 +1,152 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-44,1,lpt24,trace,1,763.0,3144.0,13,18,,"first trace ink; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.048053,143.587,0.045989,23.95,piecewise
+F2-44,1,lpt24,feature,2,763.0,3144.0,13,18,,"first; visible ink start; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.048053,143.587,0.045989,23.95,piecewise
+F2-44,1,lpt24,trace,3,776.95,3101.69,13,18,,"initial rise target 200 lb; dashed ink; half local gap 4.2 px along stroke; congested initial rise, individual starts not resolved",0.094648,197.807,0.045922,23.933,piecewise
+F2-44,1,lpt24,trace,4,777.75,3020.07,13,18,,"initial rise target 300 lb; dashed ink; half local gap 4.0 px along stroke; congested initial rise, individual starts not resolved",0.099742,302.531,0.045901,23.902,piecewise
+F2-44,1,lpt24,trace,5,807.94,2944.77,13,18,,"initial rise target 400 lb; dashed ink; half local gap 7.8 px along stroke; congested initial rise, individual starts not resolved",0.200011,398.991,0.045759,23.871,piecewise
+F2-44,1,lpt24,trace,6,823.95,2878.29,13,18,,"penetration target 0.25 in; dashed ink; half local gap 8.5 px along stroke; congested initial rise, individual starts not resolved",0.253959,484.203,0.045678,23.855,piecewise
+F2-44,1,lpt24,trace,7,824.5,2874.28,13,18,,"initial rise target 500 lb; moved 8.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 8.5 px along stroke; congested initial rise, individual starts not resolved",0.255863,489.345,0.045675,23.869,piecewise
+F2-44,1,lpt24,trace,8,846.96,2792.73,13,18,,"initial rise target 600 lb; moved 5.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 6.8 px along stroke; congested initial rise, individual starts not resolved",0.331152,593.87,0.045564,24.142,piecewise
+F2-44,1,lpt24,trace,9,878.03,2710.37,7.15,11.59,,initial rise target 700 lb; dashed ink; half local gap 7.2 px along stroke,0.434336,699.385,0.026236,16.135,piecewise
+F2-44,1,lpt24,trace,10,900.7,2659.21,6.07,9.84,,penetration target 0.5 in; dashed ink; half local gap 7.0 px along stroke,0.509325,764.906,0.02258,14.047,piecewise
+F2-44,1,lpt24,trace,11,912.23,2632.5,12,12,,"initial rise target 800 lb; dashed ink; half local gap 7.0 px along stroke; crossing/near approach of 24,73,74; identity from branch continuity",0.547474,799.114,0.041838,16.947,piecewise
+F2-44,1,lpt24,trace,12,978.43,2567.09,12,12,,"penetration target 0.75 in; moved 3.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 6.5 px along stroke; crossing/near approach of 24,73,74; identity from branch continuity",0.763893,882.668,0.041553,17.163,piecewise
+F2-44,1,lpt24,trace,13,993.07,2553.09,11.44,9.66,,initial rise target 900 lb; dashed ink; half local gap 7.2 px along stroke,0.811727,900.547,0.039607,14.196,piecewise
+F2-44,1,lpt24,feature,14,1017.13,2543.92,11.75,4.66,,peak; first local maximum; adjacent dash ends bound the uninked apex; dashed ink; half local gap 7.2 px along stroke,0.889946,912.175,0.040373,7.795,piecewise
+F2-44,1,lpt24,trace,15,1043.01,2547.03,11.6,6.62,,penetration target 1 in; moved 8.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,0.973721,908.036,0.039842,10.305,piecewise
+F2-44,1,lpt24,trace,16,1127.8,2566.01,26.19,20.52,,penetration target 1.25 in; dashed ink; half local gap 7.5 px along stroke; crossing or near-coincident trace neighborhood; identity by continuity/style,1.249406,883.201,0.088152,28.202,piecewise
+F2-44,1,lpt24,feature,17,1189.91,2578.45,15,16,,knee; minimum after first maximum; dashed ink; half local gap 5.0 px along stroke; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.451511,866.888,0.051673,22.281,piecewise
+F2-44,1,lpt24,trace,18,1200.62,2563.47,15,16,,penetration target 1.5 in; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.48682,886.044,0.051696,22.33,piecewise
+F2-44,1,lpt24,trace,19,1285.33,2537.46,15,16,,penetration target 1.75 in; 24/74/69 nearly coincident rising strokes; individual centers unresolved,1.763603,918.924,0.051885,22.414,piecewise
+F2-44,1,lpt24,trace,20,1350.46,2495.5,16.2,16,,penetration target 2 in; moved 8.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 2.2 px along stroke; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.976968,972.371,0.055865,22.558,piecewise
+F2-44,1,lpt24,trace,21,1438.51,2440.31,16.52,15.47,,penetration target 2.25 in; dashed ink; half local gap 6.8 px along stroke,2.263178,1043.074,0.056254,22.103,piecewise
+F2-44,1,lpt24,trace,22,1509.36,2372.24,9.95,9.32,,penetration target 2.5 in; dashed ink; half local gap 6.8 px along stroke,2.493889,1130.822,0.034586,14.056,piecewise
+F2-44,1,lpt24,trace,23,1587.55,2298.82,9.3,8.89,,penetration target 2.75 in; dashed ink; half local gap 6.5 px along stroke,2.748411,1225.431,0.032193,13.454,piecewise
+F2-44,1,lpt24,trace,24,1672.0,2210.0,6.14,7.64,,last trace ink; dashed ink; half local gap 7.0 px along stroke,3.023583,1339.915,0.021748,11.765,piecewise
+F2-44,1,lpt24,feature,25,1672.0,2210.0,6.14,7.64,,last; visible ink end; dashed ink; half local gap 7.0 px along stroke,3.023583,1339.915,0.021748,11.765,piecewise
+F2-44,1,lpt73,trace,1,749.0,3135.0,13,18,,"first trace ink; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.002868,155.205,0.046219,23.947,piecewise extrapolated x
+F2-44,1,lpt73,feature,2,749.0,3135.0,13,18,,"first; visible ink start; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.002868,155.205,0.046219,23.947,piecewise extrapolated x
+F2-44,1,lpt73,trace,3,754.55,3099.85,13,18,,"initial rise target 200 lb; congested initial rise, individual starts not resolved",0.021975,200.28,0.046112,23.933,piecewise extrapolated x
+F2-44,1,lpt73,trace,4,775.53,3022.55,13,18,,"initial rise target 300 lb; congested initial rise, individual starts not resolved",0.09246,299.36,0.045911,23.903,piecewise
+F2-44,1,lpt73,trace,5,788.49,2944.05,13,18,,"initial rise target 400 lb; congested initial rise, individual starts not resolved",0.136917,400.017,0.045841,23.872,piecewise
+F2-44,1,lpt73,trace,6,799.58,2873.48,13,18,,"initial rise target 500 lb; moved 8.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 1.2 px along stroke; congested initial rise, individual starts not resolved",0.175042,490.505,0.04578,23.873,piecewise
+F2-44,1,lpt73,trace,7,811.45,2791.37,13,18,,"initial rise target 600 lb; moved 4.0 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.216026,595.809,0.045713,24.147,piecewise
+F2-44,1,lpt73,trace,8,816.44,2763.81,13,18,,"penetration target 0.25 in; congested initial rise, individual starts not resolved",0.233038,631.149,0.045686,24.239,piecewise
+F2-44,1,lpt73,trace,9,824.52,2709.24,13,18,,"initial rise target 700 lb; congested initial rise, individual starts not resolved",0.260876,701.132,0.045641,24.42,piecewise
+F2-44,1,lpt73,trace,10,838.21,2629.85,14.14,18.69,,"initial rise target 800 lb; dashed ink; half local gap 6.2 px along stroke; congested initial rise, individual starts not resolved",0.307627,802.932,0.049288,25.578,piecewise
+F2-44,1,lpt73,trace,11,889.8,2566.47,9.69,7.28,,penetration target 0.5 in; moved 6.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,0.476696,883.969,0.034284,11.082,piecewise
+F2-44,1,lpt73,feature,12,889.8,2566.47,9.69,7.28,,peak; first local maximum; moved 2.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,0.476696,883.969,0.034284,11.082,piecewise
+F2-44,1,lpt73,trace,13,972.47,2591.57,12,12,,"penetration target 0.75 in; crossing/near approach of 24,73,74; identity from branch continuity",0.743889,851.292,0.041582,17.082,piecewise
+F2-44,1,lpt73,trace,14,1042.02,2628.06,10.81,8.94,,penetration target 1 in; moved 9.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 6.5 px along stroke,0.968294,804.08,0.037355,13.015,piecewise
+F2-44,1,lpt73,feature,15,1060.81,2631.06,9.59,8.07,,knee; minimum after first maximum; moved 6.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 5.0 px along stroke,1.029282,800.125,0.033522,11.879,piecewise
+F2-44,1,lpt73,trace,16,1127.1,2576.49,10,12,,penetration target 1.25 in; dashed ink; half local gap 6.0 px along stroke; crossing or near-coincident trace neighborhood; identity by continuity/style,1.246841,869.76,0.035115,17.116,piecewise
+F2-44,1,lpt73,trace,17,1200.54,2481.37,7.18,9.87,,penetration target 1.5 in; dashed ink; half local gap 6.0 px along stroke,1.488753,991.364,0.026025,14.717,piecewise
+F2-44,1,lpt73,trace,18,1276.74,2326.73,5.76,9.06,,penetration target 1.75 in; moved 6.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 6.5 px along stroke,1.741161,1191.213,0.021544,13.674,piecewise
+F2-44,1,lpt73,trace,19,1350.52,2195.27,10.39,11.99,,penetration target 2 in; moved 13.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,1.984972,1361.079,0.036828,17.429,piecewise
+F2-44,1,lpt73,feature,20,1365.46,2171.99,8.77,10.78,,knee; steep recovery becomes shallower; moved 5.5 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,2.033966,1391.143,0.031295,15.837,piecewise
+F2-44,1,lpt73,trace,21,1433.62,2077.31,9.1,9.1,,penetration target 2.25 in; moved 6.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 6.5 px along stroke,2.256599,1513.303,0.032074,13.591,piecewise
+F2-44,1,lpt73,trace,22,1503.45,2001.02,9.83,9.19,,penetration target 2.5 in; dashed ink; half local gap 6.8 px along stroke,2.484108,1611.328,0.034187,13.812,piecewise
+F2-44,1,lpt73,trace,23,1576.47,1930.21,10.44,10.81,,penetration target 2.75 in; moved 5.0 px along trace to ink clear of dash gap/grid; dashed ink; half local gap 7.2 px along stroke,2.721738,1702.256,0.03594,16.002,piecewise
+F2-44,1,lpt73,trace,24,1650.0,1861.0,9.34,9.7,,last trace ink; dashed ink; half local gap 6.8 px along stroke,2.96093,1791.113,0.032094,14.651,piecewise
+F2-44,1,lpt73,feature,25,1650.0,1861.0,9.34,9.7,,last; visible ink end; dashed ink; half local gap 6.8 px along stroke,2.96093,1791.113,0.032094,14.651,piecewise
+F2-44,1,lpt74,trace,1,751.0,3138.0,13,18,,"first trace ink; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.00927,151.345,0.046185,23.948,piecewise extrapolated x
+F2-44,1,lpt74,feature,2,751.0,3138.0,13,18,,"first; visible ink start; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",0.00927,151.345,0.046185,23.948,piecewise extrapolated x
+F2-44,1,lpt74,trace,3,754.48,3099.41,13,18,,"initial rise target 200 lb; congested initial rise, individual starts not resolved",0.021762,200.845,0.046113,23.933,piecewise extrapolated x
+F2-44,1,lpt74,trace,4,775.43,3022.99,13,18,,"initial rise target 300 lb; congested initial rise, individual starts not resolved",0.092122,298.796,0.045912,23.903,piecewise
+F2-44,1,lpt74,trace,5,788.53,2944.67,13,18,,"initial rise target 400 lb; congested initial rise, individual starts not resolved",0.137028,399.221,0.045841,23.872,piecewise
+F2-44,1,lpt74,trace,6,799.1,2873.9,13,18,,"initial rise target 500 lb; moved 8.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 1.2 px along stroke; congested initial rise, individual starts not resolved",0.173472,489.969,0.045782,23.872,piecewise
+F2-44,1,lpt74,trace,7,808.99,2789.37,13,18,,"initial rise target 600 lb; moved 2.5 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.208108,598.389,0.045723,24.154,piecewise
+F2-44,1,lpt74,trace,8,816.44,2762.76,13,18,,"penetration target 0.25 in; congested initial rise, individual starts not resolved",0.233069,632.496,0.045686,24.242,piecewise
+F2-44,1,lpt74,trace,9,824.52,2709.27,13,18,,"initial rise target 700 lb; congested initial rise, individual starts not resolved",0.260875,701.093,0.045641,24.42,piecewise
+F2-44,1,lpt74,trace,10,838.04,2630.13,14.27,19.22,,"initial rise target 800 lb; dotted ink; half local gap 6.5 px along stroke; congested initial rise, individual starts not resolved",0.307068,802.574,0.049727,26.259,piecewise
+F2-44,1,lpt74,feature,11,895.13,2586.9,12,12,,"peak; first local maximum; dotted ink; half local gap 6.5 px along stroke; crossing/near approach of 24,73,74; identity from branch continuity",0.493374,857.723,0.0419,17.099,piecewise
+F2-44,1,lpt74,trace,12,896.91,2588.15,12,12,,"penetration target 0.5 in; dotted ink; half local gap 2.5 px along stroke; crossing/near approach of 24,73,74; identity from branch continuity",0.499106,856.109,0.041892,17.095,piecewise
+F2-44,1,lpt74,trace,13,965.45,2624.56,12,12,,"penetration target 0.75 in; moved 5.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 3.8 px along stroke; crossing/near approach of 24,73,74; identity from branch continuity",0.720204,809.002,0.041617,16.972,piecewise
+F2-44,1,lpt74,trace,14,1062.06,2685.75,6.68,5.42,,penetration target 1 in; moved 12.5 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 4.8 px along stroke,1.031859,729.951,0.023961,8.272,piecewise
+F2-44,1,lpt74,feature,15,1064.89,2686.92,10.33,7.51,,knee; minimum after first maximum; dotted ink; half local gap 4.8 px along stroke,1.041052,728.434,0.035932,10.977,piecewise
+F2-44,1,lpt74,trace,16,1127.54,2664.12,10,12,,penetration target 1.25 in; dotted ink; half local gap 3.5 px along stroke; crossing or near-coincident trace neighborhood; identity by continuity/style,1.245903,757.336,0.035119,16.825,piecewise
+F2-44,1,lpt74,trace,17,1211.02,2603.94,15,16,,penetration target 1.5 in; dotted ink; half local gap 4.5 px along stroke; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.519637,834.069,0.051722,22.195,piecewise
+F2-44,1,lpt74,feature,18,1216.54,2578.1,19.94,20.41,,knee; recovery joins nearly coincident rising traces; dotted ink; half local gap 4.5 px along stroke; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.538319,867.185,0.067962,27.981,piecewise
+F2-44,1,lpt74,trace,19,1283.1,2538.81,15,16,,penetration target 1.75 in; 24/74/69 nearly coincident rising strokes; individual centers unresolved,1.7563,917.205,0.05188,22.409,piecewise
+F2-44,1,lpt74,trace,20,1350.89,2495.5,16.76,16,,penetration target 2 in; moved 9.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 2.8 px along stroke; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.97837,972.368,0.05769,22.561,piecewise
+F2-44,1,lpt74,trace,21,1428.72,2441.14,6.45,6.02,,penetration target 2.25 in; dotted ink; half local gap 1.2 px along stroke,2.231513,1042.057,0.023464,9.797,piecewise
+F2-44,1,lpt74,trace,22,1511.02,2400.47,8.14,6.87,,penetration target 2.5 in; dotted ink; half local gap 4.0 px along stroke,2.498546,1094.247,0.028664,10.885,piecewise
+F2-44,1,lpt74,trace,23,1587.15,2347.15,7.34,6.23,,penetration target 2.75 in; dotted ink; half local gap 3.5 px along stroke,2.745923,1162.842,0.025791,10.021,piecewise
+F2-44,1,lpt74,trace,24,1654.34,2297.46,8.83,7.51,,penetration target 3 in; moved 10.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 4.8 px along stroke,2.964284,1226.774,0.030406,11.661,piecewise
+F2-44,1,lpt74,trace,25,1737.14,2227.15,6.25,6.05,,penetration target 3.25 in; dotted ink; half local gap 3.8 px along stroke,3.234514,1317.29,0.022142,9.714,piecewise
+F2-44,1,lpt74,trace,26,1814.89,2158.15,5.94,5.8,,penetration target 3.5 in; moved 4.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 3.0 px along stroke,3.488514,1406.116,0.021224,9.35,piecewise
+F2-44,1,lpt74,trace,27,1906.07,2081.83,10,12,,penetration target 3.75 in; moved 9.0 px along trace to ink clear of dash gap/grid; crossing or near-coincident trace neighborhood; identity by continuity/style,3.78633,1504.291,0.034674,17.352,piecewise
+F2-44,1,lpt74,trace,28,1967.97,2020.23,10,12,,penetration target 4 in; moved 11.0 px along trace to ink clear of dash gap/grid; dotted ink; half local gap 3.2 px along stroke; crossing or near-coincident trace neighborhood; identity by continuity/style,3.988798,1583.4,0.034726,17.416,piecewise
+F2-44,1,lpt74,trace,29,2049.99,1930.88,7.31,7.38,,penetration target 4.25 in; dotted ink; half local gap 3.5 px along stroke,4.25559,1698.199,0.026001,11.544,piecewise
+F2-44,1,lpt74,trace,30,2107.0,1867.0,6.76,6.88,,last trace ink; dotted ink; half local gap 2.8 px along stroke,4.440992,1780.283,0.024396,10.978,piecewise
+F2-44,1,lpt74,feature,31,2107.0,1867.0,6.76,6.88,,last; visible ink end; dotted ink; half local gap 2.8 px along stroke,4.440992,1780.283,0.024396,10.978,piecewise
+F2-44,1,lpt69,trace,1,747.0,3130.0,13,18,,"first trace ink; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",-0.003472,161.63,0.046252,23.945,piecewise extrapolated x
+F2-44,1,lpt69,feature,2,747.0,3130.0,13,18,,"first; visible ink start; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",-0.003472,161.63,0.046252,23.945,piecewise extrapolated x
+F2-44,1,lpt69,trace,3,761.49,3087.52,13,18,,"initial rise target 200 lb; moved 14.0 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.044888,216.066,0.045988,23.928,piecewise
+F2-44,1,lpt69,trace,4,775.44,3023.51,13,18,,"initial rise target 300 lb; congested initial rise, individual starts not resolved",0.092139,298.129,0.045912,23.903,piecewise
+F2-44,1,lpt69,trace,5,788.58,2945.06,13,18,,"initial rise target 400 lb; congested initial rise, individual starts not resolved",0.137179,398.72,0.04584,23.872,piecewise
+F2-44,1,lpt69,trace,6,799.01,2874.73,13,18,,"initial rise target 500 lb; moved 8.5 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.173155,488.905,0.045782,23.869,piecewise
+F2-44,1,lpt69,trace,7,807.96,2787.52,13,18,,"initial rise target 600 lb; congested initial rise, individual starts not resolved",0.204823,600.769,0.045727,24.16,piecewise
+F2-44,1,lpt69,trace,8,819.92,2737.29,13,18,,"penetration target 0.25 in; congested initial rise, individual starts not resolved",0.245119,665.162,0.045666,24.327,piecewise
+F2-44,1,lpt69,trace,9,824.58,2710.19,13,18,,"initial rise target 700 lb; congested initial rise, individual starts not resolved",0.261042,699.912,0.045641,24.417,piecewise
+F2-44,1,lpt69,trace,10,837.99,2632.33,13,18,,"initial rise target 800 lb; congested initial rise, individual starts not resolved",0.30684,799.751,0.045569,24.675,piecewise
+F2-44,1,lpt69,trace,11,845.97,2553.59,13,18,,"initial rise target 900 lb; congested initial rise, individual starts not resolved",0.335043,900.747,0.04552,24.937,piecewise
+F2-44,1,lpt69,trace,12,869.43,2495.81,13,18,,"initial rise target 1000 lb; moved 18.0 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.412762,974.756,0.04541,25.128,piecewise
+F2-44,1,lpt69,trace,13,875.01,2397.03,4.62,4.62,,initial rise target 1100 lb,0.433735,1102.548,0.017798,7.954,piecewise
+F2-44,1,lpt69,trace,14,891.0,2353.24,5.0,5.0,,penetration target 0.5 in,0.486795,1159.233,0.018973,8.425,piecewise
+F2-44,1,lpt69,trace,15,914.37,2320.52,5.38,5.38,,initial rise target 1200 lb,0.563413,1201.515,0.020118,8.902,piecewise
+F2-44,1,lpt69,feature,16,949.91,2309.62,5.0,5.0,,peak; first local maximum,0.678791,1215.426,0.018731,8.401,piecewise
+F2-44,1,lpt69,trace,17,973.49,2311.03,6.38,6.38,,penetration target 0.75 in,0.755094,1213.45,0.023148,10.2,piecewise
+F2-44,1,lpt69,trace,18,1046.29,2376.07,6.88,6.88,,penetration target 1 in; moved 12.5 px along trace to ink clear of dash gap/grid,0.989018,1128.682,0.024544,10.885,piecewise
+F2-44,1,lpt69,trace,19,1129.88,2485.59,4.62,4.62,,penetration target 1.25 in,1.258362,986.36,0.017374,7.894,piecewise
+F2-44,1,lpt69,trace,20,1205.64,2567.46,15,16,,penetration target 1.5 in; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.503075,880.896,0.051707,22.317,piecewise
+F2-44,1,lpt69,feature,21,1221.05,2581.86,15,16,,knee; minimum after first maximum; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,1.552918,862.336,0.051743,22.268,piecewise
+F2-44,1,lpt69,trace,22,1282.89,2539.09,15,16,,penetration target 1.75 in; 24/74/69 nearly coincident rising strokes; individual centers unresolved,1.755608,916.847,0.051879,22.408,piecewise
+F2-44,1,lpt69,trace,23,1373.9,2473.07,15,16,,penetration target 2 in; moved 11.5 px along trace to ink clear of dash gap/grid; 24/74/69 nearly coincident rising strokes; individual centers unresolved; crossing or near-coincident trace neighborhood; identity by continuity/style,2.053502,1001.015,0.051581,22.782,piecewise
+F2-44,1,lpt69,trace,24,1437.03,2397.47,4.75,4.75,,penetration target 2.25 in,2.259483,1098.579,0.0179,8.117,piecewise
+F2-44,1,lpt69,trace,25,1512.9,2316.4,6.12,6.12,,penetration target 2.5 in,2.506731,1203.128,0.022098,9.856,piecewise
+F2-44,1,lpt69,trace,26,1590.84,2236.23,4.62,4.62,,penetration target 2.75 in,2.76059,1306.47,0.016933,7.858,piecewise
+F2-44,1,lpt69,trace,27,1661.29,2168.79,6.0,6.0,,penetration target 3 in; moved 11.0 px along trace to ink clear of dash gap/grid,2.989884,1393.348,0.021199,9.617,piecewise
+F2-44,1,lpt69,feature,28,1713.5,2126.22,6.12,6.12,,knee; recovery becomes shallower,3.160306,1448.126,0.021698,9.75,piecewise
+F2-44,1,lpt69,trace,29,1741.45,2109.24,5.12,5.12,,penetration target 3.25 in,3.251425,1469.924,0.018461,8.438,piecewise
+F2-44,1,lpt69,trace,30,1819.44,2076.78,5.75,5.75,,penetration target 3.5 in; moved 2.5 px along trace to ink clear of dash gap/grid,3.505326,1511.393,0.020615,9.237,piecewise
+F2-44,1,lpt69,trace,31,1893.83,2050.06,10,12,,penetration target 3.75 in; crossing or near-coincident trace neighborhood; identity by continuity/style,3.747419,1545.388,0.034661,17.377,piecewise
+F2-44,1,lpt69,trace,32,1960.79,2022.5,10,12,,penetration target 4 in; moved 8.5 px along trace to ink clear of dash gap/grid; crossing or near-coincident trace neighborhood; identity by continuity/style,3.965437,1580.518,0.034741,17.413,piecewise
+F2-44,1,lpt69,trace,33,2045.37,1986.93,5.25,5.25,,penetration target 4.25 in,4.239272,1625.87,0.019284,8.704,piecewise
+F2-44,1,lpt69,feature,34,2084.43,1959.95,5.38,5.38,,knee; final upturn,4.365888,1660.437,0.019833,8.908,piecewise
+F2-44,1,lpt69,trace,35,2121.62,1912.96,4.62,4.62,,penetration target 4.5 in,4.486969,1720.85,0.01748,7.982,piecewise
+F2-44,1,lpt69,trace,36,2185.0,1835.0,4.25,4.25,,last trace ink,4.693236,1821.068,0.016481,7.604,piecewise
+F2-44,1,lpt69,feature,37,2185.0,1835.0,4.25,4.25,,last; visible ink end,4.693236,1821.068,0.016481,7.604,piecewise
+F2-44,1,lpt64a,trace,1,747.0,3130.0,13,18,,"first trace ink; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",-0.003472,161.63,0.046252,23.945,piecewise extrapolated x
+F2-44,1,lpt64a,feature,2,747.0,3130.0,13,18,,"first; visible ink start; merged/partly unresolved start, bound covers neighboring initial strokes; congested initial rise, individual starts not resolved",-0.003472,161.63,0.046252,23.945,piecewise extrapolated x
+F2-44,1,lpt64a,trace,3,761.49,3087.52,13,18,,"initial rise target 200 lb; moved 14.0 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.044888,216.066,0.045988,23.928,piecewise
+F2-44,1,lpt64a,trace,4,775.44,3023.51,13,18,,"initial rise target 300 lb; congested initial rise, individual starts not resolved",0.092139,298.129,0.045912,23.903,piecewise
+F2-44,1,lpt64a,trace,5,788.4,2944.97,13,18,,"initial rise target 400 lb; congested initial rise, individual starts not resolved",0.136597,398.837,0.045841,23.872,piecewise
+F2-44,1,lpt64a,trace,6,798.96,2874.74,13,18,,"initial rise target 500 lb; moved 8.0 px along trace to ink clear of dash gap/grid; congested initial rise, individual starts not resolved",0.172993,488.892,0.045782,23.869,piecewise
+F2-44,1,lpt64a,trace,7,807.98,2787.46,13,18,,"initial rise target 600 lb; congested initial rise, individual starts not resolved",0.20489,600.846,0.045727,24.16,piecewise
+F2-44,1,lpt64a,trace,8,819.48,2742.77,13,18,,"penetration target 0.25 in; congested initial rise, individual starts not resolved",0.243528,658.132,0.045669,24.309,piecewise
+F2-44,1,lpt64a,trace,9,824.56,2710.19,13,18,,"initial rise target 700 lb; congested initial rise, individual starts not resolved",0.260977,699.912,0.045641,24.417,piecewise
+F2-44,1,lpt64a,trace,10,837.97,2631.75,13,18,,"initial rise target 800 lb; congested initial rise, individual starts not resolved",0.306793,800.495,0.045569,24.677,piecewise
+F2-44,1,lpt64a,trace,11,846.29,2551.16,13,18,,"initial rise target 900 lb; congested initial rise, individual starts not resolved",0.336152,903.864,0.045518,24.945,piecewise
+F2-44,1,lpt64a,trace,12,875.4,2483.11,4.5,4.5,,initial rise target 1000 lb; moved 8.5 px along trace to ink clear of dash gap/grid,0.432476,991.018,0.017413,7.752,piecewise
+F2-44,1,lpt64a,trace,13,896.08,2439.22,5.12,5.12,,penetration target 0.5 in,0.500747,1047.714,0.019354,8.628,piecewise
+F2-44,1,lpt64a,trace,14,922.47,2400.58,4.88,4.88,,initial rise target 1100 lb,0.587338,1097.658,0.018458,8.294,piecewise
+F2-44,1,lpt64a,feature,15,955.05,2383.0,5.62,5.62,,peak; first local maximum,0.693352,1120.254,0.020745,9.248,piecewise
+F2-44,1,lpt64a,trace,16,971.51,2384.47,5.12,5.12,,penetration target 0.75 in,0.746615,1118.248,0.019044,8.597,piecewise
+F2-44,1,lpt64a,trace,17,1039.98,2404.81,4.12,4.12,,penetration target 1 in; moved 15.5 px along trace to ink clear of dash gap/grid,0.967797,1091.464,0.015499,7.305,piecewise
+F2-44,1,lpt64a,trace,18,1133.45,2567.51,10,12,,penetration target 1.25 in; crossing or near-coincident trace neighborhood; identity by continuity/style,1.267781,881.244,0.035129,17.145,piecewise
+F2-44,1,lpt64a,trace,19,1210.59,2691.44,5.38,5.38,,penetration target 1.5 in,1.515901,721.824,0.02006,8.192,piecewise
+F2-44,1,lpt64a,trace,20,1281.56,2734.39,6.12,6.12,,penetration target 1.75 in,1.746127,666.336,0.022657,9.004,piecewise
+F2-44,1,lpt64a,feature,21,1319.71,2740.46,6.12,6.12,,knee; minimum after first maximum,1.870343,658.339,0.022744,8.983,piecewise
+F2-44,1,lpt64a,trace,22,1352.64,2736.07,4.88,4.88,,penetration target 2 in; moved 8.5 px along trace to ink clear of dash gap/grid,1.977815,663.789,0.018742,7.395,piecewise
+F2-44,1,lpt64a,trace,23,1437.88,2672.01,4.88,4.88,,penetration target 2.25 in,2.255252,745.48,0.018335,7.605,piecewise
+F2-44,1,lpt64a,trace,24,1513.46,2592.67,5.25,5.25,,penetration target 2.5 in,2.501612,846.81,0.019274,8.344,piecewise
+F2-44,1,lpt64a,trace,25,1589.03,2502.69,5.88,5.88,,penetration target 2.75 in,2.74815,961.771,0.021061,9.454,piecewise
+F2-44,1,lpt64a,trace,26,1657.72,2418.07,5.38,5.38,,penetration target 3 in; moved 12.5 px along trace to ink clear of dash gap/grid,2.97226,1070.571,0.019187,8.945,piecewise
+F2-44,1,lpt64a,trace,27,1743.65,2304.44,5.12,5.12,,penetration target 3.25 in,3.253717,1217.178,0.018457,8.544,piecewise
+F2-44,1,lpt64a,trace,28,1819.48,2200.06,4.88,4.88,,penetration target 3.5 in,3.502353,1351.831,0.017764,8.174,piecewise
+F2-44,1,lpt64a,trace,29,1891.99,2092.69,10,12,,penetration target 3.75 in; moved 3.0 px along trace to ink clear of dash gap/grid; crossing or near-coincident trace neighborhood; identity by continuity/style,3.740361,1490.34,0.034656,17.369,piecewise
+F2-44,1,lpt64a,trace,30,1962.38,2000.48,10,12,,penetration target 4 in; moved 13.5 px along trace to ink clear of dash gap/grid; crossing or near-coincident trace neighborhood; identity by continuity/style,3.971165,1608.935,0.03472,17.442,piecewise
+F2-44,1,lpt64a,trace,31,2047.53,1880.7,4.88,4.88,,penetration target 4.25 in,4.248933,1762.998,0.018088,8.363,piecewise
+F2-44,1,lpt64a,trace,32,2077.0,1840.0,5.62,5.62,,last trace ink,4.344964,1815.342,0.020589,9.377,piecewise
+F2-44,1,lpt64a,feature,33,2077.0,1840.0,5.62,5.62,,last; visible ink end,4.344964,1815.342,0.020589,9.377,piecewise

@@ -1,0 +1,247 @@
+[
+  {
+    "figure_id": "FA-3",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.13410479839913253,
+    "rms_y_reciprocal_span_percent": 0.1556649114611967,
+    "max_x_percent": 0.4060183458381328,
+    "max_y_reciprocal_span_percent": 0.34201225333001367,
+    "rms_x_pixels": 2.058467568264067,
+    "rms_y_pixels": 2.3419762684974126,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      25,
+      45,
+      65
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 9
+  },
+  {
+    "figure_id": "FA-7",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.1391202175019165,
+    "rms_y_reciprocal_span_percent": 0.1627611978129372,
+    "max_x_percent": 0.4036767372094685,
+    "max_y_reciprocal_span_percent": 0.3571153617830825,
+    "rms_x_pixels": 2.135599645005944,
+    "rms_y_pixels": 2.4501799645435933,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      25,
+      45,
+      65
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 9
+  },
+  {
+    "figure_id": "FA-19",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.13140018015377494,
+    "rms_y_reciprocal_span_percent": 0.10346979455265587,
+    "max_x_percent": 0.6763129409530944,
+    "max_y_reciprocal_span_percent": 0.24336142595261342,
+    "rms_x_pixels": 2.026162288743998,
+    "rms_y_pixels": 3.003117859530824,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      55,
+      85,
+      115
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 13
+  },
+  {
+    "figure_id": "FA-23",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.2038830478506852,
+    "rms_y_reciprocal_span_percent": 0.049357898502038075,
+    "max_x_percent": 0.569727052651281,
+    "max_y_reciprocal_span_percent": 0.10194566773879396,
+    "rms_x_pixels": 2.80920320370605,
+    "rms_y_pixels": 1.1039490450638125,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      55,
+      75,
+      100
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 10
+  },
+  {
+    "figure_id": "FA-27",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 3
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.13238275952160364,
+    "rms_y_reciprocal_span_percent": 0.09379585724316603,
+    "max_x_percent": 0.6837275238567919,
+    "max_y_reciprocal_span_percent": 0.22597841530192245,
+    "rms_x_pixels": 2.04135431931182,
+    "rms_y_pixels": 2.725951921034814,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      55,
+      85,
+      115
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 13
+  },
+  {
+    "figure_id": "FA-39",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.08344193429997275,
+    "rms_y_reciprocal_span_percent": 0.07149544186262478,
+    "max_x_percent": 0.3018132442185628,
+    "max_y_reciprocal_span_percent": 0.21078462604756945,
+    "rms_x_pixels": 1.1519256818528254,
+    "rms_y_pixels": 1.8606046634703197,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      55,
+      85,
+      115
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 13
+  },
+  {
+    "figure_id": "FA-47",
+    "counts": {
+      "mean": {
+        "trace": 11,
+        "feature": 4
+      },
+      "upper": {
+        "trace": 11,
+        "feature": 4
+      },
+      "lower": {
+        "trace": 11,
+        "feature": 4
+      }
+    },
+    "rms_x_percent": 0.08459016848089519,
+    "rms_y_reciprocal_span_percent": 0.07478856489947117,
+    "max_x_percent": 0.3348367685214626,
+    "max_y_reciprocal_span_percent": 0.21448272401532995,
+    "rms_x_pixels": 1.1680418260488388,
+    "rms_y_pixels": 1.9460019253551317,
+    "checks_x": [
+      0,
+      0.5,
+      1
+    ],
+    "checks_y": [
+      55,
+      85,
+      115
+    ],
+    "n_verified_x": 11,
+    "n_verified_y": 13
+  }
+]

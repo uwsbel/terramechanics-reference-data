@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,sample_dr_target
+FA-39,1,mean,trace,1,874.0,2010.49,3.5,3.5,,first point; stroke meets plot frame,0.0
+FA-39,1,mean,trace,2,1010.98,2110.98,3.75,3.75,,,0.1
+FA-39,1,mean,trace,3,1148.09,2213.02,4.0,4.0,,,0.2
+FA-39,1,mean,trace,4,1287.87,2315.91,4.5,4.5,,,0.3
+FA-39,1,mean,trace,5,1424.94,2416.04,4.0,4.0,,,0.4
+FA-39,1,mean,trace,6,1564.29,2517.68,3.0,3.0,,,0.5
+FA-39,1,mean,trace,7,1704.2,2618.48,3.25,3.25,,,0.6
+FA-39,1,mean,trace,8,1844.66,2720.6,4.0,4.0,,,0.7
+FA-39,1,mean,trace,9,1983.5,2820.82,4.5,4.5,,,0.8
+FA-39,1,mean,trace,10,2121.62,2921.9,4.0,4.0,,,0.9
+FA-39,1,mean,trace,11,2259.0,3021.97,5.0,5.0,,last point; stroke meets plot frame,1.0
+FA-39,1,mean,feature,1,874.0,2010.49,3.5,3.5,,first point,
+FA-39,1,mean,feature,2,2259.0,3021.97,5.0,5.0,,last point,
+FA-39,1,mean,feature,3,676.5,1966.0,2,2,,label: 67.8,
+FA-39,1,mean,feature,4,2437.0,3025.5,2,2,,label: 90.2,
+FA-39,1,upper,trace,1,873.0,1936.7,3.75,3.75,,first point; stroke meets plot frame,0.0
+FA-39,1,upper,trace,2,1010.34,2037.42,4.75,4.75,,,0.1
+FA-39,1,upper,trace,3,1147.43,2140.44,4.5,4.5,,,0.2
+FA-39,1,upper,trace,4,1284.0,2239.0,4.5,4.5,,target Dr=0.3; gap: moved -3.16 px to nearest dash end,0.3
+FA-39,1,upper,trace,5,1424.21,2342.62,4.5,4.5,,,0.4
+FA-39,1,upper,trace,6,1563.62,2442.04,4.0,4.0,,,0.5
+FA-39,1,upper,trace,7,1703.46,2542.31,5.0,5.0,,,0.6
+FA-39,1,upper,trace,8,1855,2653.5,3.0,3.0,,target Dr=0.7; gap: nearest dash end checked by eye,0.7
+FA-39,1,upper,trace,9,1982.69,2744.55,4.5,4.5,,,0.8
+FA-39,1,upper,trace,10,2120.87,2846.05,4.0,4.0,,,0.9
+FA-39,1,upper,trace,11,2259.0,2946.99,5.0,5.0,,last point; stroke meets plot frame,1.0
+FA-39,1,upper,feature,1,873.0,1936.7,3.75,3.75,,first point,
+FA-39,1,upper,feature,2,2259.0,2946.99,5.0,5.0,,last point,
+FA-39,1,upper,feature,3,672.5,1913.0,2,2,,label: 66.6,
+FA-39,1,upper,feature,4,2436.5,2947.5,2,2,,label: 88.1,
+FA-39,1,lower,trace,1,874.0,2086.24,4.5,4.5,,first point; stroke meets plot frame,0.0
+FA-39,1,lower,trace,2,1011.64,2185.8,4.0,4.0,,,0.1
+FA-39,1,lower,trace,3,1148.74,2286.79,3.5,3.5,,,0.2
+FA-39,1,lower,trace,4,1288.57,2389.47,3.0,3.0,,,0.3
+FA-39,1,lower,trace,5,1425.64,2488.18,3.25,3.25,,,0.4
+FA-39,1,lower,trace,6,1564.93,2588.03,4.5,4.5,,,0.5
+FA-39,1,lower,trace,7,1704.89,2687.81,3.75,3.75,,,0.6
+FA-39,1,lower,trace,8,1845.33,2789.82,4.5,4.5,,,0.7
+FA-39,1,lower,trace,9,1984.24,2889.01,4.0,4.0,,,0.8
+FA-39,1,lower,trace,10,2122.29,2988.85,3.5,3.5,,,0.9
+FA-39,1,lower,trace,11,2259.0,3086.9,5.0,5.0,,last point; stroke meets plot frame,1.0
+FA-39,1,lower,feature,1,874.0,2086.24,4.5,4.5,,first point,
+FA-39,1,lower,feature,2,2259.0,3086.9,5.0,5.0,,last point,
+FA-39,1,lower,feature,3,674.5,2020.5,2,2,,label: 69.0,
+FA-39,1,lower,feature,4,2434.5,3079.5,2,2,,label: 92.3,

@@ -1,0 +1,64 @@
+item,answer,confidence,comment
+001,all no,medium,"Q (740,3333) is inside the frame, over 2 px from the line's distinct ink."
+002,all yes,high,Q is on the diagonal line below the nearby triangle.
+003,all yes,high,P is on the diagonal line's own ink.
+004,some,medium,"Off-line: (560,3559), inside the frame beyond tolerance; (706,3390) is on the line."
+005,all yes,high,P is on the diagonal ink just below the horizontal grid line.
+006,all yes,high,P is on the diagonal line's own ink.
+007,all yes,high,P is on the diagonal line below the triangle.
+008,all yes,high,Both P samples are on the diagonal line's own ink.
+009,all yes,high,P is on the diagonal line's own ink.
+010,all no,medium,"Q (635,3604) is about 3 px inside the frame from the first distinct line ink."
+011,all yes,high,Q is on the diagonal line's own ink.
+012,some,high,"Off-line: (1948,2417), on the triangle base; (1895,2468) is on the line."
+013,all yes,high,Both P samples are on the diagonal line's own ink.
+014,all yes,high,Q is on the diagonal line's own ink.
+015,all yes,high,P is on the diagonal line below the triangle.
+016,all no,high,Q is on the vertical grid line below the upper curve's first visible ink.
+017,all no,high,Q is inside the vertical grid line beyond the lower dash's distinct end.
+018,some,high,"Off-line: (2404,1466), inside the vertical grid line; (2396,1468) is on the upper dash."
+019,all yes,medium,P is within 2 px of the lower line's first distinct ink beside the frame.
+020,all yes,medium,P is within 2 px of the lower line's last distinct ink at the frame.
+021,all no,medium,P is about 3 px inside the frame from the mean line's first distinct ink.
+022,all yes,medium,P is within 2 px of the mean line's last distinct ink at the frame.
+023,all no,medium,Q is about 3 px inside the frame from the upper dash's first distinct ink.
+024,all no,high,P is too far inside the frame beyond the upper dash's distinct end.
+025,all no,medium,Q is inside the frame beyond the 2 px tolerance at the lower line's start.
+026,all no,medium,P is inside the frame beyond the 2 px tolerance at the lower line's end.
+027,all no,high,P is in the thick frame rather than the mean line's distinct starting ink.
+028,all no,high,Q is too far inside the frame beyond the mean line's distinct end.
+029,all no,high,Q is too far inside the frame before the upper dash's distinct start.
+030,all no,high,Q is too far inside the frame beyond the upper dash's distinct end.
+031,all no,high,Q is in the frame above the lower line's visible start.
+032,all no,high,Q is inside the frame beyond the lower line's distinct end.
+033,neither,high,"First distinct mean-line ink is approximately (758,1119), at the frame's inner edge."
+034,all no,high,P is in the frame above the mean line's distinct starting ink.
+035,all no,high,P is too far inside the frame beyond the mean line's distinct end.
+036,all no,high,P is in the frame before the upper dash's distinct starting ink.
+037,all no,high,P is on merged frame/grid ink beyond the upper dash's distinct end.
+038,all no,high,P is in the frame above the lower line's distinct starting ink.
+039,all no,high,Q is too far inside the frame beyond the lower line's distinct end.
+040,neither,high,"Mean line loses its identity at the inner frame edge, approximately (2236,3158)."
+041,all no,medium,Q is inside the frame beyond tolerance before the mean line's distinct start.
+042,all no,high,Q is inside the frame below the mean line's distinct end.
+043,all no,medium,Q is about 3 px inside the frame from the upper dash's distinct starting ink.
+044,all no,medium,P is about 3 px inside the frame beyond the upper dash's distinct end.
+045,all no,high,Q is too far inside the thick frame beyond the lower line's distinct end.
+046,all no,high,P is in the thick frame below the lower line's distinct start.
+047,neither,high,"Last distinct mean-line ink is approximately (2220,3623), before the thick frame."
+048,all no,high,Q is too far inside the thick frame beyond the mean line's distinct end.
+049,all no,high,Q is in the thick frame before the mean line's distinct starting ink.
+050,all no,high,Q is inside the thick frame below the upper line's distinct end.
+051,all no,high,P is in the thick frame below the upper line's distinct start.
+052,all no,high,P is in the frame above the lower line's distinct starting ink.
+053,all no,medium,P is inside the frame beyond the 2 px tolerance at the lower line's end.
+054,all no,high,Q is in the frame before the mean line's distinct starting ink.
+055,all no,medium,P is about 3 px inside the frame beyond the mean line's distinct end.
+056,all no,high,Q is in the frame before the upper line's distinct starting ink.
+057,all no,medium,Q is about 3 px inside the frame beyond the upper line's distinct end.
+058,all no,high,P is in the frame above the lower dash's first distinct ink.
+059,all yes,medium,P is within 2 px of the lower line's last visible ink beside the frame.
+060,all no,medium,Q is about 3 px inside the frame from the mean line's first distinct ink.
+061,all no,high,P is below the mean line's end at the lower line/frame junction.
+062,all no,medium,P is about 3 px inside the frame from the upper line's first distinct ink.
+063,all yes,medium,P is within 2 px of the upper dash's last distinct ink beside the frame.

@@ -1,0 +1,8 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,curve,feature,2,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 029 (Claude's adjudicator: yes; Codex's: yes)
+1,curve,feature,2,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 030 (Claude's adjudicator: yes; Codex's: yes)
+1,curve,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 031 (Claude's adjudicator: all no; Codex's: all no)
+1,curve,trace,21,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 032 (Claude's adjudicator: all no; Codex's: all no)
+1,curve,trace,1,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 041 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,curve,trace,20,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 042 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,curve,trace,21,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 042 (Claude's adjudicator: all yes; Codex's: all yes)"

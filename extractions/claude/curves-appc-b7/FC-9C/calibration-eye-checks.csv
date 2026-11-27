@@ -1,0 +1,14 @@
+figure_id,panel,axis,value_psf,printed_label,label_centre_u,label_centre_v,fitted_line_px_near_label,label_minus_line_px,agrees,note
+FC-9C,1,y,8000,800.00,440,1419,1422.4,-3,yes,the plot frame continues about 490 px above this line around the text box; the frame top is not a grid line (box chosen to exclude it)
+FC-9C,1,y,7000,700.00,450,1721,1717.8,3,yes,
+FC-9C,1,y,4000,400.00,450,2586.5,2588.4,-2,yes,
+FC-9C,1,y,1000,100.00,450,3457,3465.3,-8,yes,
+FC-9C,1,y,0,00,500,3753,3764.1,-11,yes,printed as 00 with its baseline near the line
+FC-9C,1,x,0,00,556,3830,561.2,-5,yes,printed as 00 under the left frame
+FC-9C,1,x,1000,100.00,853.5,3830,855.8,-2,yes,
+FC-9C,1,x,2000,200.00,1135.5,3830,1143.9,-8,yes,
+FC-9C,1,x,3000,300.00,1429,3830,1434.3,-5,yes,
+FC-9C,1,x,4000,400.00,1722.5,3830,1727.2,-5,yes,
+FC-9C,1,x,5000,500.00,2016,3830,2019.0,-3,yes,
+FC-9C,1,x,6000,600.00,2308,3830,2309.8,-2,yes,
+FC-9C,1,x,7000,700.00,2602.5,3830,2600.9,2,yes,right frame is the 7000 line

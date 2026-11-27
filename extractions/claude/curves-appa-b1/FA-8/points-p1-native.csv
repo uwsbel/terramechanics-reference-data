@@ -1,0 +1,26 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-8,1,curve,trace,1,869.5,2063.0,6.5,6.5,,"left end of the curve's ink. the curve runs into the left frame (x = 0 line; frame ink u 858 to 868, centre 863.0): sample at the frame's inner edge, u bound reaching the frame centre; no ink left of the frame",0.0043632,43.0021,0.0047302,0.09008,piecewise extrapolated x
+FA-8,1,curve,trace,2,937.1,2052.5,6.5,6.5,,Dr 0.05 sample,0.0500236,43.13667,0.00473,0.09007,piecewise
+FA-8,1,curve,trace,3,1011.1,2039.0,6.5,6.5,,Dr 0.10 sample,0.1000108,43.30973,0.0047311,0.09006,piecewise
+FA-8,1,curve,trace,4,1085.1,2024.1,6.5,6.5,,Dr 0.15 sample,0.1500022,43.50072,0.0047321,0.09005,piecewise
+FA-8,1,curve,trace,5,1159.2,2005.8,6.5,6.5,,"Dr 0.20 sample; centre interpolated between clean columns u = 1155 and 1164, either side of a vertical grid line the curve's ink runs through",0.2000656,43.73536,0.0047311,0.09003,piecewise
+FA-8,1,curve,trace,6,1235.3,1982.4,6.5,6.5,,Dr 0.25 sample,0.2500107,44.03544,0.004597,0.09002,piecewise
+FA-8,1,curve,trace,7,1311.5,1956.0,6.5,6.5,,Dr 0.30 sample,0.3000225,44.37396,0.0045969,0.09001,piecewise
+FA-8,1,curve,trace,8,1387.6,1927.5,6.5,6.5,,Dr 0.35 sample,0.3499691,44.73934,0.0045967,0.09,piecewise
+FA-8,1,curve,trace,9,1463.9,1901.6,6.5,7.5,,"Dr 0.40 sample; centre interpolated between clean columns u = 1459 and 1469, either side of a vertical grid line the curve's ink runs through; one edge of the curve merged with a horizontal grid line: centre from the free edge and the local thickness",0.4000434,45.0728,0.0045962,0.10517,piecewise
+FA-8,1,curve,trace,10,1541.7,1878.0,6.5,6.5,,Dr 0.45 sample,0.4499751,45.38184,0.0044936,0.09208,piecewise
+FA-8,1,curve,trace,11,1619.7,1853.8,6.5,6.5,,Dr 0.50 sample,0.500022,45.69877,0.0044912,0.09213,piecewise
+FA-8,1,curve,trace,12,1697.6,1829.5,6.5,6.5,,Dr 0.55 sample,0.5499915,46.01702,0.0044917,0.09219,piecewise
+FA-8,1,curve,trace,13,1775.6,1805.7,6.5,6.5,,"Dr 0.60 sample; centre interpolated between clean columns u = 1771 and 1780, either side of a vertical grid line the curve's ink runs through",0.6000121,46.32872,0.0045038,0.09224,piecewise
+FA-8,1,curve,trace,14,1853.4,1782.0,6.5,6.5,,Dr 0.65 sample,0.650029,46.63913,0.0045028,0.09229,piecewise
+FA-8,1,curve,trace,15,1931.1,1756.5,6.5,6.5,,Dr 0.70 sample,0.6999961,46.97318,0.0045028,0.09234,piecewise
+FA-8,1,curve,trace,16,2008.8,1732.7,6.5,6.5,,Dr 0.75 sample,0.7499778,47.28492,0.0045054,0.09239,piecewise
+FA-8,1,curve,trace,17,2086.6,1712.7,6.5,6.5,,"Dr 0.80 sample; centre interpolated between clean columns u = 2082 and 2091, either side of a vertical grid line the curve's ink runs through",0.8000354,47.54676,0.0045074,0.09243,piecewise
+FA-8,1,curve,trace,18,2164.6,1693.5,6.5,6.5,,Dr 0.85 sample,0.8500166,47.79809,0.0045136,0.09247,piecewise
+FA-8,1,curve,trace,19,2242.6,1674.5,6.5,6.5,,Dr 0.90 sample,0.8999999,48.04681,0.0045364,0.09251,piecewise
+FA-8,1,curve,trace,20,2320.6,1654.5,6.5,6.5,,Dr 0.95 sample,0.9499862,48.30867,0.0045592,0.09256,piecewise
+FA-8,1,curve,trace,21,2393.5,1633.5,6.5,6.5,,"right end of the curve's ink. the curve runs into the right frame (x = 1.0 line; frame ink u 2394 to 2403, centre 2398.8): sample at the frame's inner edge; the small blob on the frame's outer edge at v 1616 to 1620 is part of the frame, not the curve",0.9967085,48.58374,0.0045846,0.0926,piecewise extrapolated x
+FA-8,1,curve,feature,1,869.5,2063.0,6.5,6.5,,"first point: the curve runs into the left frame (x = 0 line; frame ink u 858 to 868, centre 863.0): sample at the frame's inner edge, u bound reaching the frame centre; no ink left of the frame",0.0043632,43.0021,0.0047302,0.09008,piecewise extrapolated x
+FA-8,1,curve,feature,2,1124,2014.5,80,27,,"knee: toe of the S-shaped curve, a gradual bend, not a kink: straight stretches on either side have slopes dv/du -0.167 (u 870 to 990) and -0.364 (u 1250 to 1400), a 54 % change; knee at the curvature-weighted centroid of the bend between them (u 1124, Dr 0.17; curvature peak at u 1170); u bound 80 px (about 0.05 in Dr), v bound = |slope| x 80 px + half the line thickness",0.1762842,43.62382,0.0543903,0.35424,piecewise
+FA-8,1,curve,feature,3,2012,1732.5,80,29,,"knee: flattening, a gradual bend: straight stretches dv/du -0.311 (u 1530 to 1950) and -0.246 (u 2080 to 2230), a 21 % change; knee at the curvature-weighted centroid of the bend between them (u 2012, Dr 0.75; peak at u 2010), just right of a hairline print break at u 1995 to 2001; u bound 80 px, v bound = |slope| x 80 px + half the line thickness",0.7520362,47.28751,0.0517869,0.38879,piecewise
+FA-8,1,curve,feature,4,2393.5,1633.5,6.5,6.5,,"last point: the curve runs into the right frame (x = 1.0 line; frame ink u 2394 to 2403, centre 2398.8): sample at the frame's inner edge; the small blob on the frame's outer edge at v 1616 to 1620 is part of the frame, not the curve",0.9967085,48.58374,0.0045846,0.0926,piecewise extrapolated x

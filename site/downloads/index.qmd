@@ -1,0 +1,85 @@
+---
+title: "Downloads"
+---
+Every file on this page is the repository file itself, as of the revision named in the footer; the site never holds a separate copy of a number. Select a file name to open or download it. Each CSV has a JSON sidecar beside it that carries source, conversion factors, status definitions and the two submissions it was reconciled from.
+
+| file | what it contains | size |
+| --- | --- | --- |
+| [`data/experiments/index.csv`](../files/data/experiments/index.csv) | experiment index (one row per record; printed values as index fields) | 348 rows |
+| [`data/experiments/index.json`](../files/data/experiments/index.json) | sidecar: per-cell statuses, resolution notes, both agents' wording, rules applied |  |
+| [`data/materials/materials.csv`](../files/data/materials/materials.csv) | twelve soils in SI with the printed values beside them | 12 rows |
+| [`data/materials/materials.json`](../files/data/materials/materials.json) | sidecar: source, conversion factors, per-cell statuses, source inconsistencies |  |
+| [`corpus/1968/figures.csv`](../files/corpus/1968/figures.csv) | figures index of Vol. I, Table 1-1 and Sections II to VI | 254 rows |
+| [`corpus/1968/figures.json`](../files/corpus/1968/figures.json) | sidecar: rules, per-cell statuses, both agents' notes |  |
+| [`corpus/1968/page-map.csv`](../files/corpus/1968/page-map.csv) | PDF page to printed label | 449 rows |
+| [`corpus/1968-vol2/figures.csv`](../files/corpus/1968-vol2/figures.csv) | figures and tables index of Vol. II Appendices A, B, C (with relations to Vol. I) | 122 rows |
+| [`corpus/1968-vol2/figures.json`](../files/corpus/1968-vol2/figures.json) | sidecar: rules, per-cell statuses, id aliases, both agents' notes |  |
+| [`corpus/1968-vol2/page-map.csv`](../files/corpus/1968-vol2/page-map.csv) | PDF page to printed label, Vol. II | 236 rows |
+| [`corpus/1968-vol2/page-map-corrections.csv`](../files/corpus/1968-vol2/page-map-corrections.csv) | labels read from the page image where OCR and inference failed (scrambled binding, IITRI pages) | 8 rows |
+| [`sources/register.csv`](../files/sources/register.csv) | acquired and screened sources with rights evidence | 34 rows |
+| [`sources/leads.csv`](../files/sources/leads.csv) | graded leads from the broadened hunt | 64 rows |
+| [`sources/searches-log.csv`](../files/sources/searches-log.csv) | every search run, including dead ends | 95 rows |
+| [`qa/audits.csv`](../files/qa/audits.csv) | human audits recorded | 3360 rows |
+| [`docs/decisions.csv`](../files/docs/decisions.csv) | decision log | 58 rows |
+
+## Files of each record
+
+- `data/experiments/<id>/observations.csv` and `series.json`: the digitized points of a figure, with pixel coordinates, calibration residuals and reading bounds. Available for the 192 records whose figures have been read, and linked from each of their pages; the figures of the other records have not been read yet.
+- `data/experiments/<id>/runs.csv` and `runs.json`: a printed table of runs, one physical test per row. Available for the 3 records that are tables of runs, and linked from their pages.
+
+## Not yet available
+
+- `data/experiments/<id>/setup.json`: the setup of each test as machine-readable fields. Until it exists, each record page gives the setup as a table.
+
+## How to cite
+
+Cite the data release used and the report the numbers come from. Where numbers are used, give the record id and the source page as well, for example `b68-lpt-027`, AM-68-1 Vol. I, Fig. 2-29, printed 2-55, PDF 80.
+
+Record ids are permanent: a record keeps its id and its page address from one release to the next. A record that is merged into another or withdrawn keeps a page that says where its data went, and the changelog of the release lists the change. A citation of a release by its DOI always reaches the files of that release.
+
+The data release:
+
+```bibtex
+@misc{negrut2026terramechanics,
+  author       = {Negrut, Dan and Serban, Radu},
+  title        = {{Terramechanics Reference Data}},
+  howpublished = {Data set, version 1.0.0},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24477009},
+  url          = {https://doi.org/10.5281/zenodo.24477009}
+}
+```
+
+The source report, AM-68-1, in two volumes:
+
+```bibtex
+@techreport{bendix68vol1,
+  title       = {Lunar Module ({LM}) Soil Mechanics Study, Volume {I}, Final Report},
+  author      = {{Bendix Corporation, Energy Controls Division}},
+  institution = {Bendix Corporation, Energy Controls Division},
+  address     = {South Bend, IN},
+  number      = {AM-68-1, Vol. I; NASA CR-92208},
+  note        = {Prepared for NASA under contract NAS 9-5759},
+  month       = {May},
+  year        = {1968},
+  url         = {https://ntrs.nasa.gov/citations/19680021852}
+}
+
+@techreport{bendix68vol2,
+  title       = {Lunar Module ({LM}) Soil Mechanics Study, Volume {II}, Final Report},
+  author      = {{Bendix Corporation, Energy Controls Division}},
+  institution = {Bendix Corporation, Energy Controls Division},
+  address     = {South Bend, IN},
+  number      = {AM-68-1, Vol. II; NASA CR-92215},
+  note        = {Prepared for NASA under contract NAS 9-5759},
+  month       = {May},
+  year        = {1968},
+  url         = {https://ntrs.nasa.gov/citations/19680021853}
+}
+```
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `data/materials/materials.csv`, `data/materials/materials.json`, `corpus/1968/figures.csv`, `corpus/1968/figures.json`, `corpus/1968/page-map.csv`, `corpus/1968-vol2/figures.csv`, `corpus/1968-vol2/figures.json`, `corpus/1968-vol2/page-map.csv`, `corpus/1968-vol2/page-map-corrections.csv`, `sources/register.csv`, `sources/leads.csv`, `sources/searches-log.csv`, `qa/audits.csv`, `docs/decisions.csv`, `CITATION.cff`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

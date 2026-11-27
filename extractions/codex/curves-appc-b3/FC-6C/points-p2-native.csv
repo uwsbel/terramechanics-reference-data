@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-6C,2,n4695,marker,1,698.0,2975.5,2,2,plus,,5.373,-38.358,0.928,0.756
+FC-6C,2,n4695,marker,2,845.5,2978.5,2,2,plus,,30.621,-39.769,0.928,0.756
+FC-6C,2,n4695,marker,3,962,2974,6,6,plus,Plus on 50-displacement gridline.,50.577,-38.551,1.621,2.124
+FC-6C,2,n4695,marker,4,1077.0,2971.5,2,2,plus,,70.273,-38.009,0.928,0.756
+FC-6C,2,n4695,marker,5,1193.0,2963.5,2,2,plus,,90.151,-35.603,0.928,0.756
+FC-6C,2,n4695,marker,6,1308.5,2960.5,2,2,plus,,109.933,-34.892,0.928,0.756
+FC-6C,2,n4695,marker,7,1421.0,2959.0,2,2,plus,,129.198,-34.683,0.928,0.756
+FC-6C,2,n4695,marker,8,1541,2958,6,6,plus,Plus on 150-displacement gridline.,149.747,-34.663,1.621,2.124
+FC-6C,2,n4695,marker,9,1656.0,2953.0,2,2,plus,,169.447,-33.272,0.928,0.756
+FC-6C,2,n4695,marker,10,1778.0,2946.5,2,2,plus,,190.35,-31.391,0.928,0.756
+FC-6C,2,n4695,marker,11,1939,2940,5,5,plus,Plus approaches neighboring square.,217.93,-29.613,1.448,1.782
+FC-6C,2,n4695,marker,12,2105,2940,5,5,plus,Plus approaches final square/gridline.,246.352,-30.055,1.448,1.782
+FC-6C,2,n3815,marker,1,661,3004,7,7,triangle-down,Down triangle on left frame.,-1.025,-47.931,1.795,2.466
+FC-6C,2,n3815,marker,2,776.5,3023.5,2,2,triangle-down,,18.708,-54.856,0.928,0.756
+FC-6C,2,n3815,marker,3,900.5,3028.0,2,2,triangle-down,,39.929,-56.713,0.928,0.756
+FC-6C,2,n3815,marker,4,1015.5,3031.0,2,2,triangle-down,,59.613,-58.037,0.928,0.756
+FC-6C,2,n3815,marker,5,1133.0,3033.5,2,2,triangle-down,,79.725,-59.198,0.928,0.756
+FC-6C,2,n3815,marker,6,1245.5,3029.0,6,6,triangle-down,Down triangle on vertical gridline.,98.997,-57.97,1.621,2.124
+FC-6C,2,n3815,marker,7,1364.0,3026.0,2,2,triangle-down,,119.293,-57.267,0.928,0.756
+FC-6C,2,n3815,marker,8,1482.0,3027.5,2,2,triangle-down,,139.493,-58.09,0.928,0.756
+FC-6C,2,n3815,marker,9,1595.5,3025.0,2,2,triangle-down,,158.932,-57.544,0.928,0.756
+FC-6C,2,n3815,marker,10,1716.0,3020.5,2,2,triangle-down,,179.573,-56.338,0.928,0.756
+FC-6C,2,n3815,marker,11,1830.5,3020.0,6,6,triangle-down,Down triangle on vertical gridline.,199.178,-56.473,1.621,2.124
+FC-6C,2,n3815,marker,12,1950.5,3017.5,2,2,triangle-down,,219.73,-55.944,0.928,0.756
+FC-6C,2,n3815,marker,13,2130,3012,7,7,triangle-down,Down triangle on right gridline.,250.475,-54.555,1.795,2.466
+FC-6C,2,n2934,marker,1,655.0,2961.5,7,7,square,Square on left frame.,-1.959,-33.493,1.795,2.466
+FC-6C,2,n2934,marker,2,784.0,2965.0,2,2,square,,20.12,-35.024,0.928,0.756
+FC-6C,2,n2934,marker,3,900.0,2969.5,2,2,square,,39.972,-36.859,0.928,0.756
+FC-6C,2,n2934,marker,4,1016.0,2968.0,2,2,square,,59.836,-36.659,0.928,0.756
+FC-6C,2,n2934,marker,5,1137.0,2968.0,2,2,square,,80.553,-36.981,0.928,0.756
+FC-6C,2,n2934,marker,6,1245.0,2967.5,6,6,square,Square on vertical gridline.,99.046,-37.099,1.621,2.124
+FC-6C,2,n2934,marker,7,1369,2963,6,6,square,Outline interrupted by trace/grid; manual center with wider bound.,120.286,-35.902,1.621,2.124
+FC-6C,2,n2934,marker,8,1484.0,2960.5,2,2,square,,139.982,-35.359,0.928,0.756
+FC-6C,2,n2934,marker,9,1600.0,2949.5,2,2,square,,159.867,-31.935,0.928,0.756
+FC-6C,2,n2934,marker,10,1717.5,2946.5,2,2,square,,179.992,-31.23,0.928,0.756
+FC-6C,2,n2934,marker,11,1827.5,2945.0,6,6,square,Square on vertical gridline.,198.829,-31.013,1.621,2.124
+FC-6C,2,n2934,marker,12,1952.0,2939.5,5,5,square,Square close to plus sign.,220.157,-29.478,1.448,1.782
+FC-6C,2,n2934,marker,13,2129.5,2933.5,7,7,square,Square on right gridline.,250.561,-27.914,1.795,2.466
+FC-6C,2,n1961,marker,1,667.5,2922.5,7,7,triangle-up,Up triangle on left frame.,0.266,-20.291,1.795,2.466
+FC-6C,2,n1961,marker,2,779.5,2907.5,2,2,triangle-up,,19.475,-15.499,0.928,0.756
+FC-6C,2,n1961,marker,3,901.0,2898.5,2,2,triangle-up,,40.298,-12.768,0.928,0.756
+FC-6C,2,n1961,marker,4,1025,2902,4,4,triangle-up,Broken base with short nearby horizontal dash; apex identifiable.,61.521,-14.286,1.274,1.44
+FC-6C,2,n1961,marker,5,1133.0,2898.5,2,2,triangle-up,,80.02,-13.385,0.928,0.756
+FC-6C,2,n1961,marker,6,1245.0,2899.0,6,6,triangle-up,Up triangle on vertical gridline.,99.195,-13.853,1.621,2.124
+FC-6C,2,n1961,marker,7,1361.5,2895.5,2,2,triangle-up,,119.15,-12.975,0.928,0.756
+FC-6C,2,n1961,marker,8,1479.5,2897.5,2,2,triangle-up,,139.349,-13.968,0.928,0.756
+FC-6C,2,n1961,marker,9,1597.5,2895.5,2,2,triangle-up,,159.557,-13.603,0.928,0.756
+FC-6C,2,n1961,marker,10,1713.5,2891.5,2,2,triangle-up,,179.427,-12.555,0.928,0.756
+FC-6C,2,n1961,marker,11,1828.5,2886.5,6,6,triangle-up,Up triangle on vertical gridline.,199.128,-11.164,1.621,2.124
+FC-6C,2,n1961,marker,12,1945.5,2885.0,2,2,triangle-up,,219.163,-10.966,0.928,0.756
+FC-6C,2,n1961,marker,13,2116.0,2882.0,7,7,triangle-up,Up triangle on right gridline.,248.362,-10.402,1.795,2.466
+FC-6C,2,n714,marker,1,654.5,2877.5,7,7,circle,Circle on left frame and close to zero line.,-1.861,-4.986,1.795,2.466
+FC-6C,2,n714,marker,2,780.5,2871.5,5,5,circle,Circle intersects zero line; upper contour partly absent.,19.725,-3.285,1.448,1.782
+FC-6C,2,n714,marker,3,896.5,2848.5,4,4,circle,Circle base touches zero line.,39.637,4.211,1.274,1.44
+FC-6C,2,n714,marker,4,1010.5,2847.0,4,4,circle,Circle base touches zero line.,59.159,4.417,1.274,1.44
+FC-6C,2,n714,marker,5,1133.5,2844.0,4,4,circle,Circle base touches zero line.,80.225,5.108,1.274,1.44
+FC-6C,2,n714,marker,6,1245.5,2844.0,6,6,circle,Circle near vertical grid and zero line.,99.401,4.81,1.621,2.124
+FC-6C,2,n714,marker,7,1361.0,2842.5,4,4,circle,Circle base near zero line.,119.18,5.012,1.274,1.44
+FC-6C,2,n714,marker,8,1477.5,2838.5,2,2,circle,,139.135,6.059,0.928,0.756
+FC-6C,2,n714,marker,9,1593.0,2835.0,2,2,circle,,158.919,6.939,0.928,0.756
+FC-6C,2,n714,marker,10,1713.5,2824.5,2,2,circle,,179.573,10.182,0.928,0.756
+FC-6C,2,n714,marker,11,1830.0,2820.5,6,6,circle,Circle on vertical gridline.,199.529,11.229,1.621,2.124
+FC-6C,2,n714,marker,12,1951.0,2818.5,2,2,circle,,220.25,11.586,0.928,0.756
+FC-6C,2,n714,marker,13,2115.5,2811.0,7,7,circle,Circle on right gridline.,248.432,13.693,1.795,2.466

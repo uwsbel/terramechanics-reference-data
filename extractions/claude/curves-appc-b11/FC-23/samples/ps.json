@@ -1,0 +1,230 @@
+[
+{
+"u": 924,
+"v": 2245.636363636364,
+"vb": 4.0,
+"how": "left end",
+"near": []
+},
+{
+"u": 944,
+"v": 2241.5454545454554,
+"vb": 4.05,
+"how": "dash end at grid line (left side)",
+"near": [],
+"moved_px": -4,
+"dr": 0.0,
+"u_target": 948.1
+},
+{
+"u": 1026,
+"v": 2226.47408634294,
+"vb": 5.555029651699176,
+"how": "gap: moved to dash end",
+"near": [],
+"moved_px": 2,
+"dr": 0.05,
+"u_target": 1024.2
+},
+{
+"u": 1100,
+"v": 2211.8833333333337,
+"vb": 6.0,
+"how": "grid-crossing",
+"near": [
+"rc2"
+],
+"dr": 0.1,
+"u_target": 1100.2
+},
+{
+"u": 1175,
+"v": 2195.0,
+"vb": 4.5,
+"how": "ink",
+"near": [],
+"dr": 0.15,
+"u_target": 1174.8
+},
+{
+"u": 1249,
+"v": 2173.233154670749,
+"vb": 5.0,
+"how": "grid-crossing",
+"near": [],
+"dr": 0.2,
+"u_target": 1249.4
+},
+{
+"u": 1326,
+"v": 2150.0,
+"vb": 4.5,
+"how": "ink",
+"near": [],
+"dr": 0.25,
+"u_target": 1325.7
+},
+{
+"u": 1402,
+"v": 2127.2117151607954,
+"vb": 6.0,
+"how": "grid-crossing",
+"near": [],
+"dr": 0.3,
+"u_target": 1402.1
+},
+{
+"u": 1482,
+"v": 2102.0,
+"vb": 4.5,
+"how": "ink",
+"near": [],
+"dr": 0.35,
+"u_target": 1481.8
+},
+{
+"u": 1561,
+"v": 2075.343498581845,
+"vb": 4.2,
+"how": "grid-crossing",
+"near": [
+"hgrid"
+],
+"dr": 0.4,
+"u_target": 1561.4
+},
+{
+"u": 1641,
+"v": 2047.5,
+"vb": 4.25,
+"how": "ink",
+"near": [],
+"dr": 0.45,
+"u_target": 1640.9
+},
+{
+"u": 1720,
+"v": 2021.7205240174671,
+"vb": 6.0,
+"how": "grid-crossing",
+"near": [],
+"dr": 0.5,
+"u_target": 1720.4
+},
+{
+"u": 1800,
+"v": 1993.0,
+"vb": 4.5,
+"how": "ink",
+"near": [],
+"dr": 0.55,
+"u_target": 1799.7
+},
+{
+"u": 1875,
+"v": 1965.4545454545475,
+"vb": 5.0,
+"how": "dash end at grid line (left side)",
+"near": [],
+"moved_px": -4,
+"dr": 0.6,
+"u_target": 1879.1
+},
+{
+"u": 1951,
+"v": 1941.8409090909086,
+"vb": 4.5,
+"how": "gap: moved to dash end",
+"near": [],
+"moved_px": -3,
+"dr": 0.65,
+"u_target": 1954.1
+},
+{
+"u": 2025,
+"v": 1918.090909090909,
+"vb": 4.5,
+"how": "dash end at grid line (left side)",
+"near": [],
+"moved_px": -4,
+"dr": 0.7,
+"u_target": 2029.1
+},
+{
+"u": 2105,
+"v": 1895.0,
+"vb": 4.5,
+"how": "ink",
+"near": [],
+"dr": 0.75,
+"u_target": 2105.2
+},
+{
+"u": 2177,
+"v": 1872.2045454545469,
+"vb": 4.5,
+"how": "dash end at grid line (left side)",
+"near": [],
+"moved_px": -4,
+"dr": 0.8,
+"u_target": 2181.3
+},
+{
+"u": 2256,
+"v": 1848.9999999999995,
+"vb": 4.5,
+"how": "gap: moved to dash end",
+"near": [],
+"moved_px": -2,
+"dr": 0.85,
+"u_target": 2258.3
+},
+{
+"u": 2339,
+"v": 1823.9772727272725,
+"vb": 4.5,
+"how": "dash end at grid line (right side)",
+"near": [],
+"moved_px": 4,
+"dr": 0.9,
+"u_target": 2335.3
+},
+{
+"u": 2414,
+"v": 1804.5,
+"vb": 6.0,
+"how": "coincident",
+"near": [
+"rs"
+],
+"dr": 0.95,
+"u_target": 2413.5
+},
+{
+"u": 2492,
+"v": 1785.0098321050473,
+"vb": 6.118456478105175,
+"how": "grid-crossing",
+"near": [
+"rs"
+],
+"dr": 1.0,
+"u_target": 2491.7
+},
+{
+"u": 2570,
+"v": 1765.5,
+"vb": 4.15,
+"how": "ink",
+"near": [],
+"dr": 1.05,
+"u_target": 2570.0
+},
+{
+"u": 2646,
+"v": 1748.083333333333,
+"vb": 4.5,
+"how": "right end",
+"near": []
+}
+]

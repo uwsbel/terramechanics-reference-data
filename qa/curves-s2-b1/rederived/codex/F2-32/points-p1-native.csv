@@ -1,0 +1,101 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,x_unit,y_unit
+F2-32,1,lpt93,feature,1,1981.0,3695.0,5,5,,"first; cap extends slightly beyond zero-penetration line; grid crossing, thickness from adjacent clean stroke",-0.026563,0.56436,0.029545,0.2671,piecewise extrapolated x,inch,lb
+F2-32,1,lpt93,trace,2,1981.0,3695.0,5,5,,"target penetration 0 in; moved +5.6 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",-0.026563,0.56436,0.029545,0.2671,piecewise extrapolated x,inch,lb
+F2-32,1,lpt93,trace,3,1868.5,3636.0,7,7,,target penetration 0.25 in; dashed trace crosses fit,0.251749,5.96487,0.038236,0.3624,piecewise,inch,lb
+F2-32,1,lpt93,feature,4,1861.5,3630.0,7,7,,knee; local turn or recorder step; dashed trace crosses fit,0.280033,6.30081,0.038211,0.36234,piecewise,inch,lb
+F2-32,1,lpt93,trace,5,1832.0,3583.0,7,7,,target penetration 0.5 in; dashed trace crosses fit,0.501624,7.71458,0.038027,0.36212,piecewise,inch,lb
+F2-32,1,lpt93,trace,6,1775.5,3530.0,7,7,,target penetration 0.75 in; dashed trace crosses fit,0.751084,10.43033,0.03781,0.3636,piecewise,inch,lb
+F2-32,1,lpt93,trace,7,1732.0,3469.0,2.62,2.62,,target penetration 1 in; moved -8.1 px in v to nearby own ink (dash/dot or scan gap),1.039847,12.52755,0.017605,0.15243,piecewise,inch,lb
+F2-32,1,lpt93,feature,8,1701.5,3430.0,4.25,4.25,,knee; local turn or recorder step,1.231484,13.99804,0.025253,0.23216,piecewise,inch,lb
+F2-32,1,lpt93,trace,9,1698.5,3426.0,4.5,4.5,,target penetration 1.25 in,1.251122,14.14265,0.026448,0.24434,piecewise,inch,lb
+F2-32,1,lpt93,trace,10,1659.5,3375.0,3.5,3.5,,target penetration 1.5 in,1.501179,16.02246,0.020934,0.19685,piecewise,inch,lb
+F2-32,1,lpt93,trace,11,1614.0,3324.0,4.75,4.75,,target penetration 1.75 in,1.750421,18.21594,0.026573,0.25853,piecewise,inch,lb
+F2-32,1,lpt93,trace,12,1565.0,3263.0,5,5,,"target penetration 2 in; moved -9.9 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",2.047229,20.57866,0.026917,0.27266,piecewise,inch,lb
+F2-32,1,lpt93,trace,13,1531.5,3221.0,4.25,4.25,,target penetration 2.25 in,2.249278,22.19724,0.023554,0.23707,piecewise,inch,lb
+F2-32,1,lpt93,trace,14,1493.5,3169.0,4.12,4.12,,target penetration 2.5 in,2.500207,24.03243,0.02329,0.23172,piecewise,inch,lb
+F2-32,1,lpt93,trace,15,1448.5,3116.0,3.62,3.62,,target penetration 2.75 in; moved -1.4 px in v to nearby own ink (dash/dot or scan gap),2.756587,26.20626,0.021235,0.20857,piecewise,inch,lb
+F2-32,1,lpt93,trace,16,1409.0,3058.0,5,5,,"target penetration 3 in; moved -7.9 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",3.038183,28.11262,0.028297,0.27662,piecewise,inch,lb
+F2-32,1,lpt93,trace,17,1378.5,3014.0,4.25,4.25,,target penetration 3.25 in,3.252082,29.58444,0.024567,0.24095,piecewise,inch,lb
+F2-32,1,lpt93,trace,18,1344.0,2963.0,4.25,4.25,,target penetration 3.5 in,3.499949,31.26965,0.024482,0.24392,piecewise,inch,lb
+F2-32,1,lpt93,trace,19,1311.0,2912.0,4.25,4.25,,target penetration 3.75 in,3.747757,32.88903,0.024397,0.24224,piecewise,inch,lb
+F2-32,1,lpt93,trace,20,1282.0,2868.0,5,5,,"target penetration 4 in; moved +7.9 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",3.961491,34.31325,0.02798,0.27783,piecewise,inch,lb
+F2-32,1,lpt93,trace,21,1241.5,2807.0,2.88,2.88,,target penetration 4.25 in; moved -1.2 px in v to nearby own ink (dash/dot or scan gap),4.255982,36.30392,0.018409,0.17097,piecewise,inch,lb
+F2-32,1,lpt93,trace,22,1212.5,2756.0,3.5,3.5,,target penetration 4.5 in,4.502091,37.72998,0.022236,0.20014,piecewise,inch,lb
+F2-32,1,lpt93,trace,23,1182.0,2705.0,4.0,4.0,,target penetration 4.75 in,4.748255,39.23117,0.025481,0.22331,piecewise,inch,lb
+F2-32,1,lpt93,trace,24,1144.0,2645.0,5,5,,"target penetration 5 in; moved -7.9 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",5.037875,41.07358,0.030992,0.26517,piecewise,inch,lb
+F2-32,1,lpt93,trace,25,1116.0,2601.0,3.75,3.75,,target penetration 5.25 in,5.250003,42.41616,0.024091,0.20579,piecewise,inch,lb
+F2-32,1,lpt93,trace,26,1084.0,2549.0,3.5,3.5,,target penetration 5.5 in,5.500725,43.95047,0.021887,0.19462,piecewise,inch,lb
+F2-32,1,lpt93,trace,27,1055.0,2498.0,3.5,3.5,,target penetration 5.75 in; moved +0.7 px in v to nearby own ink (dash/dot or scan gap),5.746656,45.34076,0.020914,0.19541,piecewise,inch,lb
+F2-32,1,lpt93,trace,28,1015.0,2437.0,7,7,,target penetration 6 in; dashed trace crosses fit; moved -8.5 px in v to nearby own ink (dash/dot or scan gap),6.040742,47.25891,0.036782,0.36486,piecewise,inch,lb
+F2-32,1,lpt93,trace,29,988.0,2394.0,7,7,,target penetration 6.25 in; dashed trace crosses fit,6.247748,48.55358,0.037052,0.36559,piecewise,inch,lb
+F2-32,1,lpt93,trace,30,950.14,2341.59,7,7,,target penetration 6.5 in; dashed trace crosses fit,6.499956,50.36936,0.037381,0.36623,piecewise,inch,lb
+F2-32,1,lpt93,trace,31,925.0,2290.0,7,7,,target penetration 6.75 in; dashed trace crosses fit,6.748234,51.57406,0.037705,0.36635,piecewise,inch,lb
+F2-32,1,lpt93,feature,32,914.0,2271.0,3.25,3.25,,peak; maximum load of whole trace,6.839645,52.10133,0.019711,0.18611,piecewise,inch,lb
+F2-32,1,lpt93,feature,33,914.0,2271.0,3.25,3.25,,last,6.839645,52.10133,0.019711,0.18611,piecewise,inch,lb
+F2-32,1,lpt53,feature,1,1991.0,3273.0,5,5,,"first; grid crossing, thickness from adjacent clean stroke",2.01679,0.01234,0.026844,0.2694,piecewise extrapolated y,inch,lb
+F2-32,1,lpt53,trace,2,1991.0,3273.0,5,5,,"target penetration 2 in; grid crossing, thickness from adjacent clean stroke",2.01679,0.01234,0.026844,0.2694,piecewise extrapolated y,inch,lb
+F2-32,1,lpt53,trace,3,1719.0,3222.0,4.75,4.75,,target penetration 2.25 in,2.250738,13.13263,0.02582,0.25582,piecewise,inch,lb
+F2-32,1,lpt53,feature,4,1691.0,3210.0,4.5,4.5,,knee; local turn or recorder step,2.307587,14.48416,0.024709,0.24441,piecewise,inch,lb
+F2-32,1,lpt53,trace,5,1617.0,3170.0,4.0,4.0,,target penetration 2.5 in,2.498397,18.05485,0.0226,0.22204,piecewise,inch,lb
+F2-32,1,lpt53,trace,6,1555.5,3118.0,3.0,3.0,,target penetration 2.75 in,2.748529,21.02291,0.018128,0.17567,piecewise,inch,lb
+F2-32,1,lpt53,feature,7,1547.0,3110.0,3.5,3.5,,knee; local turn or recorder step,2.787124,21.4338,0.020617,0.20018,piecewise,inch,lb
+F2-32,1,lpt53,trace,8,1508.79,3065.97,7,7,,"target penetration 3 in; solid and dotted traces close/run together; branch uncertainty; grid crossing, thickness from adjacent clean stroke",3.000026,23.27977,0.03805,0.37119,piecewise,inch,lb
+F2-32,1,lpt53,trace,9,1467.5,3015.0,7,7,,target penetration 3.25 in; solid and dotted traces close/run together; branch uncertainty,3.247871,25.27381,0.037988,0.37223,piecewise,inch,lb
+F2-32,1,lpt53,trace,10,1436.0,2963.0,7,7,,target penetration 3.5 in; solid and dotted traces close/run together; branch uncertainty,3.500724,26.7932,0.037903,0.37302,piecewise,inch,lb
+F2-32,1,lpt53,trace,11,1405.5,2912.0,7,7,,target penetration 3.75 in; solid and dotted traces close/run together; branch uncertainty,3.748652,28.264,0.037819,0.37379,piecewise,inch,lb
+F2-32,1,lpt53,trace,12,1367.59,2860.28,7,7,,"target penetration 4 in; solid and dotted traces close/run together; branch uncertainty; grid crossing, thickness from adjacent clean stroke",3.999942,30.09488,0.037733,0.38057,piecewise,inch,lb
+F2-32,1,lpt53,trace,13,1336.5,2808.0,7,7,,target penetration 4.25 in; solid and dotted traces close/run together; branch uncertainty,4.252037,31.62077,0.038383,0.37987,piecewise,inch,lb
+F2-32,1,lpt53,trace,14,1310.5,2757.0,7,7,,target penetration 4.5 in; solid and dotted traces close/run together; branch uncertainty,4.498063,32.89702,0.039198,0.3786,piecewise,inch,lb
+F2-32,1,lpt53,trace,15,1277.0,2705.0,7,7,,target penetration 4.75 in; solid and dotted traces close/run together; branch uncertainty,4.748925,34.5442,0.040029,0.37691,piecewise,inch,lb
+F2-32,1,lpt53,trace,16,1241.02,2652.98,7,7,,"target penetration 5 in; solid and dotted traces close/run together; branch uncertainty; grid crossing, thickness from adjacent clean stroke",4.999946,36.31511,0.040595,0.37508,piecewise,inch,lb
+F2-32,1,lpt53,trace,17,1199.5,2601.0,7,7,,target penetration 5.25 in; solid and dotted traces close/run together; branch uncertainty,5.25047,38.36099,0.039846,0.37294,piecewise,inch,lb
+F2-32,1,lpt53,trace,18,1160.96,2549.26,7,7,,target penetration 5.5 in; solid and dotted traces close/run together; branch uncertainty,5.499877,40.25411,0.03886,0.36373,piecewise,inch,lb
+F2-32,1,lpt53,trace,19,1126.0,2497.0,7,7,,target penetration 5.75 in; solid and dotted traces close/run together; branch uncertainty,5.751835,41.93058,0.037863,0.36187,piecewise,inch,lb
+F2-32,1,lpt53,trace,20,1101.5,2445.57,7,7,,"target penetration 6 in; solid and dotted traces close/run together; branch uncertainty; grid crossing, thickness from adjacent clean stroke",5.999858,43.1047,0.036881,0.36253,piecewise,inch,lb
+F2-32,1,lpt53,trace,21,1067.0,2394.0,7,7,,target penetration 6.25 in; solid and dotted traces close/run together; branch uncertainty,6.248199,44.75915,0.037065,0.36346,piecewise,inch,lb
+F2-32,1,lpt53,trace,22,1041.0,2342.0,7,7,,target penetration 6.5 in; solid and dotted traces close/run together; branch uncertainty,6.498596,46.00533,0.037393,0.36416,piecewise,inch,lb
+F2-32,1,lpt53,trace,23,1016.0,2290.0,7,7,,target penetration 6.75 in; solid and dotted traces close/run together; branch uncertainty,6.748947,47.20349,0.037721,0.36484,piecewise,inch,lb
+F2-32,1,lpt53,trace,24,990.63,2237.84,7,7,,"target penetration 7 in; solid and dotted traces close/run together; branch uncertainty; grid crossing, thickness from adjacent clean stroke",7.000011,48.41944,0.038304,0.36552,piecewise,inch,lb
+F2-32,1,lpt53,feature,25,981.0,2217.0,7,7,,peak; maximum load of whole trace; solid and dotted traces close/run together; branch uncertainty,7.101187,48.88094,0.038285,0.36578,piecewise,inch,lb
+F2-32,1,lpt53,feature,26,981.0,2217.0,7,7,,last; solid and dotted traces close/run together; branch uncertainty,7.101187,48.88094,0.038285,0.36578,piecewise,inch,lb
+F2-32,1,lpt52,feature,1,1977.0,3477.0,5,5,,"first; snapped faint edge to nearby ink; grid crossing, thickness from adjacent clean stroke",1.003808,0.72104,0.029565,0.26754,piecewise,inch,lb
+F2-32,1,lpt52,trace,2,1977.0,3477.0,5,5,,"target penetration 1 in; snapped faint edge to nearby ink; moved -0.8 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",1.003808,0.72104,0.029565,0.26754,piecewise,inch,lb
+F2-32,1,lpt52,trace,3,1793.0,3427.0,3.25,3.25,,target penetration 1.25 in,1.248194,9.5768,0.020317,0.18107,piecewise,inch,lb
+F2-32,1,lpt52,trace,4,1703.0,3375.0,5.5,5.5,,target penetration 1.5 in,1.502425,13.92027,0.030887,0.29265,piecewise,inch,lb
+F2-32,1,lpt52,feature,5,1696.0,3368.0,3.0,3.0,,knee; local turn or recorder step,1.536697,14.25787,0.018399,0.1717,piecewise,inch,lb
+F2-32,1,lpt52,trace,6,1660.5,3324.0,3.75,3.75,,target penetration 1.75 in,1.752096,15.96902,0.021641,0.20891,piecewise,inch,lb
+F2-32,1,lpt52,trace,7,1637.5,3279.0,5,5,,"target penetration 2 in; moved +5.7 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",1.972486,17.07578,0.027369,0.27002,piecewise,inch,lb
+F2-32,1,lpt52,trace,8,1596.5,3221.0,3.0,3.0,,target penetration 2.25 in,2.251461,19.05056,0.017412,0.17414,piecewise,inch,lb
+F2-32,1,lpt52,trace,9,1566.0,3169.0,4.62,4.62,,target penetration 2.5 in,2.501982,20.51986,0.025664,0.25412,piecewise,inch,lb
+F2-32,1,lpt52,trace,10,1533.5,3118.0,4.38,4.38,,target penetration 2.75 in,2.748189,22.0887,0.024855,0.24328,piecewise,inch,lb
+F2-32,1,lpt52,trace,11,1502.0,3074.0,7,7,,target penetration 3 in; solid and dotted traces close/run together; branch uncertainty; moved +8.0 px in v to nearby own ink (dash/dot or scan gap),2.961048,23.60961,0.037906,0.37137,piecewise,inch,lb
+F2-32,1,lpt52,trace,12,1467.5,3015.0,7,7,,target penetration 3.25 in; solid and dotted traces close/run together; branch uncertainty,3.247871,25.27381,0.037988,0.37223,piecewise,inch,lb
+F2-32,1,lpt52,trace,13,1436.0,2963.0,7,7,,target penetration 3.5 in; solid and dotted traces close/run together; branch uncertainty,3.500724,26.7932,0.037903,0.37302,piecewise,inch,lb
+F2-32,1,lpt52,trace,14,1405.5,2912.0,7,7,,target penetration 3.75 in; solid and dotted traces close/run together; branch uncertainty,3.748652,28.264,0.037819,0.37379,piecewise,inch,lb
+F2-32,1,lpt52,trace,15,1354.0,2850.0,7,7,,target penetration 4 in; solid and dotted traces close/run together; branch uncertainty; moved -10.2 px in v to nearby own ink (dash/dot or scan gap),4.04943,30.76328,0.037714,0.38071,piecewise,inch,lb
+F2-32,1,lpt52,trace,16,1336.5,2808.0,7,7,,target penetration 4.25 in; solid and dotted traces close/run together; branch uncertainty,4.252037,31.62077,0.038383,0.37987,piecewise,inch,lb
+F2-32,1,lpt52,trace,17,1299.5,2757.0,7,7,,target penetration 4.5 in; solid and dotted traces close/run together; branch uncertainty,4.497973,33.4395,0.039199,0.37799,piecewise,inch,lb
+F2-32,1,lpt52,trace,18,1261.5,2705.0,7,7,,target penetration 4.75 in; solid and dotted traces close/run together; branch uncertainty,4.748816,35.30891,0.040032,0.37605,piecewise,inch,lb
+F2-32,1,lpt52,trace,19,1237.5,2661.0,7,7,,target penetration 5 in; solid and dotted traces close/run together; branch uncertainty; moved +8.1 px in v to nearby own ink (dash/dot or scan gap),4.961185,36.48948,0.040714,0.37486,piecewise,inch,lb
+F2-32,1,lpt52,trace,20,1199.5,2601.0,7,7,,target penetration 5.25 in; solid and dotted traces close/run together; branch uncertainty,5.25047,38.36099,0.039846,0.37294,piecewise,inch,lb
+F2-32,1,lpt52,trace,21,1154.5,2549.0,7,7,,target penetration 5.5 in; solid and dotted traces close/run together; branch uncertainty,5.501097,40.56437,0.038855,0.3611,piecewise,inch,lb
+F2-32,1,lpt52,trace,22,1126.0,2497.0,7,7,,target penetration 5.75 in; solid and dotted traces close/run together; branch uncertainty,5.751835,41.93058,0.037863,0.36187,piecewise,inch,lb
+F2-32,1,lpt52,trace,23,1086.5,2436.0,7,7,,target penetration 6 in; solid and dotted traces close/run together; branch uncertainty; moved -9.5 px in v to nearby own ink (dash/dot or scan gap),6.045907,43.82468,0.0368,0.36294,piecewise,inch,lb
+F2-32,1,lpt52,trace,24,1067.0,2394.0,7,7,,target penetration 6.25 in; solid and dotted traces close/run together; branch uncertainty,6.248199,44.75915,0.037065,0.36346,piecewise,inch,lb
+F2-32,1,lpt52,trace,25,1041.0,2342.0,7,7,,target penetration 6.5 in; solid and dotted traces close/run together; branch uncertainty,6.498596,46.00533,0.037393,0.36416,piecewise,inch,lb
+F2-32,1,lpt52,trace,26,997.5,2290.0,7,7,,target penetration 6.75 in; solid and dotted traces close/run together; branch uncertainty,6.748802,48.09207,0.037718,0.36534,piecewise,inch,lb
+F2-32,1,lpt52,trace,27,962.0,2230.0,7,7,,"target penetration 7 in; solid and dotted traces close/run together; branch uncertainty; moved -7.8 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",7.037846,49.7942,0.03832,0.36618,piecewise,inch,lb
+F2-32,1,lpt52,feature,28,962.0,2230.0,12,12,,"peak; maximum load of whole trace; solid and dotted traces close/run together; branch uncertainty; terminal dotted ink merges with fit and grid; endpoint uncertain; grid crossing, thickness from adjacent clean stroke",7.037846,49.7942,0.062595,0.60656,piecewise,inch,lb
+F2-32,1,lpt52,feature,29,962.0,2230.0,12,12,,"last; solid and dotted traces close/run together; branch uncertainty; terminal dotted ink merges with fit and grid; endpoint uncertain; grid crossing, thickness from adjacent clean stroke",7.037846,49.7942,0.062595,0.60656,piecewise,inch,lb
+F2-32,1,fit,trace,1,1897.0,3686.0,5,5,,"ink start; grid crossing, thickness from adjacent clean stroke",0.015813,4.60086,0.029097,0.26616,piecewise extrapolated x,inch,lb
+F2-32,1,fit,feature,2,1897.0,3686.0,5,5,,"intercept; terminal ink merges with load axis; grid crossing, thickness from adjacent clean stroke",0.015813,4.60086,0.029097,0.26616,piecewise extrapolated x,inch,lb
+F2-32,1,fit,trace,3,1764.55,3477.17,5,5,,"labelled penetration 1 in; grid crossing, thickness from adjacent clean stroke",1.000018,10.95494,0.029386,0.26693,piecewise,inch,lb
+F2-32,1,fit,trace,4,1630.88,3273.34,5,5,,"labelled penetration 2 in; grid crossing, thickness from adjacent clean stroke",2.000023,17.39505,0.027306,0.27019,piecewise,inch,lb
+F2-32,1,fit,trace,5,1495.88,3065.96,5,5,,"labelled penetration 3 in; grid crossing, thickness from adjacent clean stroke",2.999994,23.90513,0.028301,0.27436,piecewise,inch,lb
+F2-32,1,fit,trace,6,1367.56,2860.26,5,5,,"labelled penetration 4 in; grid crossing, thickness from adjacent clean stroke",4.000039,30.09635,0.027977,0.28188,piecewise,inch,lb
+F2-32,1,fit,trace,7,1230.02,2652.96,5,5,,"labelled penetration 5 in; grid crossing, thickness from adjacent clean stroke",4.999977,36.85803,0.030956,0.27549,piecewise,inch,lb
+F2-32,1,fit,trace,8,1093.39,2445.54,7,7,,"labelled penetration 6 in; dashed trace crosses fit; grid crossing, thickness from adjacent clean stroke",5.999965,43.49423,0.036881,0.36275,piecewise,inch,lb
+F2-32,1,fit,trace,9,980.0,2239.0,7,7,,"labelled penetration 7 in; dotted trace meets/crosses fit; snapped faint edge to nearby ink; moved +1.2 px in v to nearby own ink (dash/dot or scan gap); grid crossing, thickness from adjacent clean stroke",6.994329,48.93007,0.038256,0.36581,piecewise,inch,lb
+F2-32,1,fit,trace,10,829.03,2031.61,5,5,,"labelled penetration 8 in; grid crossing, thickness from adjacent clean stroke",8.00001,56.16864,0.027877,0.27065,piecewise,inch,lb
+F2-32,1,fit,trace,11,761.0,1927.0,3.25,3.25,,ink end,8.501448,59.42896,0.019625,0.18687,piecewise,inch,lb
+F2-32,1,fit,feature,12,862,1658,5,5,,label: Slope = 6.5 lbs./in. = AγNq,9.795246,54.5657,0.035115,0.2704,piecewise extrapolated x,inch,lb

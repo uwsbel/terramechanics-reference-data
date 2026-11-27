@@ -1,0 +1,90 @@
+---
+title: "b68-dens-fa-27: provenance"
+---
+Provenance and review record of [b68-dens-fa-27](../experiments/b68-dens-fa-27.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 38 points recovered, agreed 32, one-sided 3, one-sided-verified 3 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 16, convention 1, normalized 1 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+38 points (from FA-27) read by two readings made separately and reconciled (batch `curves-appa-b3`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FA-27-p1](../img/overlays/FA-27-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | relative density (none, from none) | unit weight (minimum at Dr 0 to maximum at Dr 1.0) (N_m3, from pcf) | 38 |
+
+Points by status: [agreed]{.status .status-agreed} 32, [one-sided]{.status .status-one-sided} 3, [one-sided-verified]{.status .status-one-sided-verified} 3; by kind: `feature` 5, `trace` 33.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 220 | 0.000689 / 0.00173 | 7.3e-06 / 1.69e-05 |
+| codex | cal-p1 | 143 | 0.00132 / 0.00684 | 8.9e-06 / 2.14e-05 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-dens-fa-27/observations.csv), [series.json](../files/data/experiments/b68-dens-fa-27/series.json) (repository paths `data/experiments/b68-dens-fa-27/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | *not reported* |
+| unit weight, pcf | 95.4 to 112.7 |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [agreed]{.status .status-agreed} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [convention]{.status .status-convention} | A figure printed under several specifications characterizes the material, not one numbered density state; like the Volume I averages (b68-gs-f2-14-rs) it carries no soil number, and the specifications it is printed under are in the evidence and notes. Claude wrote the list, Codex the first number; decided with Codex. |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [normalized]{.status .status-normalized} | The minimum and maximum unit weights of the solid line at Dr 0 and 1.0, in the index's normalized form for a range (as Claude wrote it). |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | method of test suggested by D. M. Burmister (ASTM Procedures for Testing Soils 1964 pp. 175-177) | Burmister method of test |
+| measured_channels | unit weight vs relative density (average and 95% confidence limits) | unit weight vs relative density |
+
+## Notes from the two readings
+
+- Claude: Average of several tests (no unused statement). Lower-limit label 95.8; the other limit starts at the 95 tick with no label of its own; max limits 110.5 and 114.9. Reprinted under soils 8 and 9 (FA-31; FA-35). Table 2-3 soil 7 (Dr 0) prints 94.7 against 95.4.
+- Codex: Unit weights are mean minimum;maximum. Average of several tests with 95% confidence limits; sample identities missing. Lower minimum-density bound is not numerically labeled. AM-68-1 Vol. II, Fig. A-27, printed A-54, PDF 55
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

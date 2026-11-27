@@ -1,0 +1,164 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-22,1,average,marker,1,2073.0,3205.0,6,6,circle,#200 sieve; merged with vertical grid lines; binarized scan: open or filled not reliably told apart
+FA-22,1,average,marker,2,1956.0,2922.0,4,4,circle,#100 sieve; open interior visible
+FA-22,1,average,marker,3,1847.0,2702.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line; binarized scan: open or filled not reliably told apart
+FA-22,1,average,marker,4,1722.0,2485.0,4,4,circle,#40 sieve; open interior visible
+FA-22,1,average,marker,5,1551.0,2193.0,5,5,circle,#20 sieve; filled
+FA-22,1,average,marker,6,1361.0,1904.0,5,5,circle,#12 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,average,marker,7,1240.0,1756.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,average,marker,8,1066.0,1606.0,5,5,circle,#6 sieve; filled
+FA-22,1,average,marker,9,865.0,1465.0,5,5,circle,#4 sieve; open interior visible; the lower curve's stroke touches it on the right
+FA-22,1,average,marker,10,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series
+FA-22,1,average,trace,1,2070.0,3190.0,6.0,6.0,,first point; fine end: the line meets the #200 symbol (merged with vertical grid lines there)
+FA-22,1,average,trace,2,2069.8,3179.8,5.0,5.0,,log10 d -1.10
+FA-22,1,average,trace,3,2047.9,3131.3,5.0,5.0,,log10 d -1.05
+FA-22,1,average,trace,4,2029.3,3082.8,5.0,5.0,,log10 d -1.00
+FA-22,1,average,trace,5,2009.6,3034.4,5.0,5.0,,log10 d -0.95
+FA-22,1,average,trace,6,1988.0,2986.0,5.0,5.0,,log10 d -0.90
+FA-22,1,average,trace,7,1970.5,2945.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm touches the lower edge of the #100 symbol; moved to the line ink just below it
+FA-22,1,average,trace,8,1943.5,2889.2,5.0,5.0,,log10 d -0.80
+FA-22,1,average,trace,9,1920.3,2840.9,5.0,5.0,,log10 d -0.75
+FA-22,1,average,trace,10,1895.5,2792.6,5.0,5.0,,log10 d -0.70
+FA-22,1,average,trace,11,1869.5,2744.5,5.0,5.0,,log10 d -0.65
+FA-22,1,average,trace,12,1839.0,2684.0,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the line ink just above it
+FA-22,1,average,trace,13,1816.1,2648.3,5.0,5.0,,log10 d -0.55
+FA-22,1,average,trace,14,1790.5,2600.2,5.0,5.0,,log10 d -0.50
+FA-22,1,average,trace,15,1763.1,2552.1,5.0,5.0,,log10 d -0.45
+FA-22,1,average,trace,16,1735.5,2504.0,5.0,5.0,,log10 d -0.40
+FA-22,1,average,trace,17,1708.5,2455.9,5.0,5.0,,log10 d -0.35
+FA-22,1,average,trace,18,1681.7,2407.8,5.0,5.0,,log10 d -0.30
+FA-22,1,average,trace,19,1651.4,2359.1,5.0,5.0,,log10 d -0.25
+FA-22,1,average,trace,20,1622.3,2310.5,5.0,5.0,,log10 d -0.20
+FA-22,1,average,trace,21,1594.0,2261.9,5.0,5.0,,log10 d -0.15
+FA-22,1,average,trace,22,1565.0,2213.2,5.0,5.0,,log10 d -0.10
+FA-22,1,average,trace,23,1536.0,2164.4,5.0,5.0,,log10 d -0.05
+FA-22,1,average,trace,24,1506.1,2115.7,5.0,5.0,,log10 d +0.00
+FA-22,1,average,trace,25,1476.0,2067.5,5.0,5.0,,log10 d +0.05
+FA-22,1,average,trace,26,1445.2,2019.3,5.0,5.0,,log10 d +0.10
+FA-22,1,average,trace,27,1412.0,1971.1,5.0,5.0,,log10 d +0.15
+FA-22,1,average,trace,28,1380.0,1922.7,5.0,5.0,,log10 d +0.20
+FA-22,1,average,trace,29,1345.0,1874.1,5.0,5.0,,log10 d +0.25
+FA-22,1,average,trace,30,1305.4,1825.4,5.0,5.0,,log10 d +0.30
+FA-22,1,average,trace,31,1263.1,1776.8,5.0,5.0,,log10 d +0.35
+FA-22,1,average,trace,32,1214.1,1728.2,5.0,5.0,,log10 d +0.40
+FA-22,1,average,trace,33,1160.0,1679.6,5.0,5.0,,log10 d +0.45
+FA-22,1,average,trace,34,1098.4,1630.8,5.0,5.0,,log10 d +0.50
+FA-22,1,average,trace,35,1030.6,1581.7,5.0,5.0,,log10 d +0.55
+FA-22,1,average,trace,36,962.0,1532.6,5.0,5.0,,log10 d +0.60
+FA-22,1,average,trace,37,897.0,1483.0,5.0,5.0,,log10 d +0.65
+FA-22,1,average,trace,38,841.0,1433.0,7.0,5.0,,"log10 d +0.70; on the 5.0 mm grid line, where the lower curve separates from this one; centre between the band above and the stroke below"
+FA-22,1,average,trace,39,818.5,1385.0,18.0,5.0,,"log10 d +0.75; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width"
+FA-22,1,average,trace,40,790.0,1336.0,10.0,5.0,,"log10 d +0.80; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width"
+FA-22,1,average,trace,41,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,average,trace,42,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,average,trace,43,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken
+FA-22,1,average,feature,1,2070.0,3190.0,6.0,6.0,,first point (start of the line's ink at the fine end)
+FA-22,1,average,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others"
+FA-22,1,upper,marker,1,2019.5,3212.0,4,4,circle,#200 sieve; open circle
+FA-22,1,upper,marker,2,1847.0,2925.0,6,6,circle,#100 sieve; blob merged with grid lines; shape not resolvable (filled circle or asterisk)
+FA-22,1,upper,marker,3,1706.0,2702.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line; binarized scan: open or filled not reliably told apart
+FA-22,1,upper,marker,4,1556.0,2485.0,4,4,x,#40 sieve; two crossing strokes on the #40 line
+FA-22,1,upper,marker,5,1342.0,2191.0,5,5,circle,#20 sieve; filled
+FA-22,1,upper,marker,6,1141.0,1903.0,5,5,circle,#12 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,upper,marker,7,1029.0,1757.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,upper,marker,8,896.0,1603.0,5,5,circle,#6 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,upper,marker,9,800.0,1463.0,5,5,circle,#4 sieve; open interior visible
+FA-22,1,upper,marker,10,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series
+FA-22,1,upper,trace,1,2009.5,3194.0,5.0,5.0,,first point; fine end: the line's ink starts at the #200 circle
+FA-22,1,upper,trace,2,2002.4,3179.9,5.0,5.0,,log10 d -1.10
+FA-22,1,upper,trace,3,1972.4,3131.4,5.0,5.0,,log10 d -1.05
+FA-22,1,upper,trace,4,1945.2,3083.0,5.0,5.0,,log10 d -1.00
+FA-22,1,upper,trace,5,1915.7,3034.6,5.0,5.0,,log10 d -0.95
+FA-22,1,upper,trace,6,1887.0,2986.2,5.0,5.0,,log10 d -0.90
+FA-22,1,upper,trace,7,1860.0,2946.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm falls inside the #100 symbol; moved to the line ink just below it
+FA-22,1,upper,trace,8,1824.8,2889.6,5.0,5.0,,log10 d -0.80
+FA-22,1,upper,trace,9,1789.5,2841.3,5.0,5.0,,log10 d -0.75
+FA-22,1,upper,trace,10,1757.0,2787.0,5.0,5.0,,log10 d -0.70; gap between dashes at the 0.2 mm grid line; moved to the nearest dash end (above)
+FA-22,1,upper,trace,11,1737.5,2747.5,5.0,5.0,,log10 d -0.65; gap between dashes; moved to the nearest dash end (below)
+FA-22,1,upper,trace,12,1688.0,2685.0,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the end of the dash above it
+FA-22,1,upper,trace,13,1669.4,2648.8,5.0,5.0,,log10 d -0.55
+FA-22,1,upper,trace,14,1636.4,2600.7,5.0,5.0,,log10 d -0.50
+FA-22,1,upper,trace,15,1603.8,2552.6,5.0,5.0,,log10 d -0.45
+FA-22,1,upper,trace,16,1569.3,2504.5,5.0,5.0,,log10 d -0.40
+FA-22,1,upper,trace,17,1536.5,2456.5,5.0,5.0,,log10 d -0.35
+FA-22,1,upper,trace,18,1501.9,2408.4,5.0,5.0,,log10 d -0.30
+FA-22,1,upper,trace,19,1465.3,2359.7,5.0,5.0,,log10 d -0.25
+FA-22,1,upper,trace,20,1428.4,2311.0,5.0,5.0,,log10 d -0.20
+FA-22,1,upper,trace,21,1387.5,2262.2,5.0,5.0,,log10 d -0.15
+FA-22,1,upper,trace,22,1355.6,2213.5,5.0,5.0,,log10 d -0.10
+FA-22,1,upper,trace,23,1316.4,2164.6,5.0,5.0,,log10 d -0.05
+FA-22,1,upper,trace,24,1283.0,2111.0,5.0,5.0,,log10 d +0.00; gap at the 1.0 mm grid line; moved to the end of the dash above (it may continue under the grid line)
+FA-22,1,upper,trace,25,1259.5,2073.0,5.0,5.0,,log10 d +0.05; gap between dashes; moved to the nearest dash end (below; the dash above ends 0.4 px farther)
+FA-22,1,upper,trace,26,1222.5,2019.6,5.0,5.0,,log10 d +0.10
+FA-22,1,upper,trace,27,1189.0,1971.5,5.0,5.0,,log10 d +0.15
+FA-22,1,upper,trace,28,1153.9,1923.2,5.0,5.0,,log10 d +0.20
+FA-22,1,upper,trace,29,1119.1,1874.5,5.0,5.0,,log10 d +0.25
+FA-22,1,upper,trace,30,1084.6,1825.8,5.0,5.0,,log10 d +0.30
+FA-22,1,upper,trace,31,1048.2,1777.2,5.0,5.0,,log10 d +0.35
+FA-22,1,upper,trace,32,1009.2,1728.6,5.0,5.0,,log10 d +0.40
+FA-22,1,upper,trace,33,968.4,1680.0,5.0,5.0,,log10 d +0.45
+FA-22,1,upper,trace,34,928.0,1631.1,5.0,5.0,,log10 d +0.50
+FA-22,1,upper,trace,35,887.7,1582.0,5.0,5.0,,log10 d +0.55
+FA-22,1,upper,trace,36,849.0,1532.8,5.0,5.0,,log10 d +0.60
+FA-22,1,upper,trace,37,817.4,1483.1,5.0,5.0,,log10 d +0.65
+FA-22,1,upper,trace,38,793.5,1433.0,5.0,5.0,,log10 d +0.70; on the 5.0 mm grid line; centre from the dash above and below it
+FA-22,1,upper,trace,39,774.5,1385.0,5.0,5.0,,log10 d +0.75; strand just right of the 100 percent line; the dash ends at v 1387
+FA-22,1,upper,trace,40,766.5,1336.0,6.0,5.0,,log10 d +0.80; touches the 100 percent line on its left; centre from its right edge and the stroke width
+FA-22,1,upper,trace,41,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,upper,trace,42,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,upper,trace,43,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken
+FA-22,1,upper,feature,1,2009.5,3194.0,5.0,5.0,,first point (start of the line's ink at the fine end)
+FA-22,1,upper,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others"
+FA-22,1,lower,marker,1,2119.0,3206.0,5,5,circle,#200 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,lower,marker,2,2012.0,2924.0,6,6,circle,#100 sieve; open interior visible
+FA-22,1,lower,marker,3,1924.0,2698.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line and two vertical lines; binarized scan: open or filled not reliably told apart
+FA-22,1,lower,marker,4,1832.0,2485.0,4,4,circle,#40 sieve; open interior visible
+FA-22,1,lower,marker,5,1695.0,2189.0,5,5,circle,#20 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,lower,marker,6,1502.0,1899.0,4,4,circle,#12 sieve; open interior visible
+FA-22,1,lower,marker,7,1367.0,1754.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart
+FA-22,1,lower,marker,8,1146.0,1602.0,5,5,circle,#6 sieve; filled
+FA-22,1,lower,marker,9,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series
+FA-22,1,lower,trace,1,2105.0,3175.0,5.0,5.0,,first point; fine end: lower end of the last dash above the #200 symbol (gap of about 10 px to the symbol); the 0.0794 mm sample would move here and is not repeated
+FA-22,1,lower,trace,2,2091.1,3131.2,5.0,5.0,,log10 d -1.05
+FA-22,1,lower,trace,3,2072.0,3082.7,5.0,5.0,,log10 d -1.00
+FA-22,1,lower,trace,4,2055.9,3034.3,5.0,5.0,,log10 d -0.95
+FA-22,1,lower,trace,5,2038.3,2985.8,5.0,5.0,,log10 d -0.90
+FA-22,1,lower,trace,6,2021.0,2944.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm falls inside the #100 symbol; moved to the line ink just below it
+FA-22,1,lower,trace,7,1998.0,2886.0,5.0,5.0,,log10 d -0.80; gap between the dash and the #100 symbol; moved to the dash end
+FA-22,1,lower,trace,8,1984.0,2841.0,5.0,5.0,,"log10 d -0.75; top of a dash, crossed by the dashed 0.177 mm sieve line"
+FA-22,1,lower,trace,9,1963.2,2792.3,5.0,5.0,,log10 d -0.70
+FA-22,1,lower,trace,10,1944.0,2744.2,5.0,5.0,,log10 d -0.65
+FA-22,1,lower,trace,11,1917.0,2678.5,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the line ink just above it
+FA-22,1,lower,trace,12,1903.4,2647.9,5.0,5.0,,log10 d -0.55
+FA-22,1,lower,trace,13,1882.0,2599.5,5.0,5.0,,log10 d -0.50; at the lower end of a dash
+FA-22,1,lower,trace,14,1864.0,2553.0,5.0,5.0,,log10 d -0.45; gap between dashes; moved to the nearest dash end (top of the dash below)
+FA-22,1,lower,trace,15,1841.0,2503.6,5.0,5.0,,log10 d -0.40
+FA-22,1,lower,trace,16,1821.0,2455.5,5.0,5.0,,log10 d -0.35
+FA-22,1,lower,trace,17,1800.5,2407.4,5.0,5.0,,log10 d -0.30
+FA-22,1,lower,trace,18,1778.5,2358.8,5.0,5.0,,log10 d -0.25
+FA-22,1,lower,trace,19,1754.0,2310.2,5.0,5.0,,log10 d -0.20
+FA-22,1,lower,trace,20,1728.0,2259.5,5.0,5.0,,log10 d -0.15; gap between dashes at a grid line; moved to the nearest dash end (above)
+FA-22,1,lower,trace,21,1709.0,2213.0,5.0,5.0,,log10 d -0.10
+FA-22,1,lower,trace,22,1683.0,2164.3,5.0,5.0,,log10 d -0.05
+FA-22,1,lower,trace,23,1657.3,2115.6,5.0,5.0,,log10 d +0.00
+FA-22,1,lower,trace,24,1629.0,2067.3,5.0,5.0,,log10 d +0.05
+FA-22,1,lower,trace,25,1597.9,2019.1,5.0,5.0,,log10 d +0.10
+FA-22,1,lower,trace,26,1562.8,1970.9,5.0,5.0,,log10 d +0.15
+FA-22,1,lower,trace,27,1523.5,1922.5,5.0,5.0,,log10 d +0.20
+FA-22,1,lower,trace,28,1481.0,1873.8,5.0,5.0,,log10 d +0.25
+FA-22,1,lower,trace,29,1437.5,1825.1,5.0,5.0,,log10 d +0.30
+FA-22,1,lower,trace,30,1387.9,1776.6,5.0,5.0,,log10 d +0.35
+FA-22,1,lower,trace,31,1337.0,1730.5,5.0,5.0,,"log10 d +0.40; gap between dashes at the 2.5 mm grid line; moved to the nearest dash end (top of the stroke below, which runs into the #8 symbol)"
+FA-22,1,lower,trace,32,1265.0,1679.4,5.0,5.0,,log10 d +0.45
+FA-22,1,lower,trace,33,1193.9,1630.6,5.0,5.0,,log10 d +0.50
+FA-22,1,lower,trace,34,1115.0,1581.5,5.0,5.0,,log10 d +0.55
+FA-22,1,lower,trace,35,1033.0,1532.5,5.0,5.0,,log10 d +0.60
+FA-22,1,lower,trace,36,941.0,1482.9,5.0,5.0,,log10 d +0.65
+FA-22,1,lower,trace,37,871.0,1439.0,6.0,5.0,,"log10 d +0.70; the lower curve's first separate dash, just below the 5.0 mm grid line; above it this curve runs together with the average"
+FA-22,1,lower,trace,38,818.5,1385.0,18.0,5.0,,"log10 d +0.75; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width"
+FA-22,1,lower,trace,39,790.0,1336.0,10.0,5.0,,"log10 d +0.80; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width"
+FA-22,1,lower,trace,40,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,lower,trace,41,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width"
+FA-22,1,lower,trace,42,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken
+FA-22,1,lower,feature,1,2105.0,3175.0,5.0,5.0,,first point (start of the line's ink at the fine end)
+FA-22,1,lower,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others"

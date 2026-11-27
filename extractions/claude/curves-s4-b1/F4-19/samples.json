@@ -1,0 +1,2583 @@
+{
+"1_run4": [
+{
+"arc": 119.85910345017699,
+"kind": "f",
+"target": 50.0,
+"u": 751.1,
+"v": 1867.7,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 50 lb (steep part); rising branch, steep, 3 px right of the frame-and-runs-10-12 bundle (dots of run 10 bridge the gap in places); center from row scans of the ink (half width 5 to 6 px)"
+},
+{
+"arc": 242.8997524081527,
+"kind": "f",
+"target": 100.0,
+"u": 755.5,
+"v": 1745.3,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 100 lb (steep part); rising branch, steep, 3 px right of the frame-and-runs-10-12 bundle (dots of run 10 bridge the gap in places); center from row scans of the ink (half width 5 to 6 px)"
+},
+{
+"arc": 322.3058385010367,
+"kind": "t",
+"target": 3.0,
+"u": 767.5,
+"v": 1688.8,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 3 ms; line width 12.0 px"
+},
+{
+"arc": 342.7407582850937,
+"kind": "t",
+"target": 4.0,
+"u": 779.4,
+"v": 1701.9,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 4 ms; line width 12.5 px"
+},
+{
+"arc": 361.20493334387163,
+"kind": "t",
+"target": 5.0,
+"u": 791.4,
+"v": 1717.1,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 5 ms; line width 11.5 px"
+},
+{
+"arc": 385.3513309798575,
+"kind": "t",
+"target": 6.0,
+"u": 803.3,
+"v": 1731.7,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 6 ms; line width 11.5 px"
+},
+{
+"arc": 410.9844379338054,
+"kind": "t",
+"target": 7.0,
+"u": 815.3,
+"v": 1746.3,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 7 ms; line width 10.0 px"
+},
+{
+"arc": 427.2665527889035,
+"kind": "t",
+"target": 8.0,
+"u": 827.2,
+"v": 1761.1,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 8 ms; a hole in the ink at 834 to 840 px (v 1772 to 1776) splits the stroke; center from column scans of the full stroke"
+},
+{
+"arc": 446.6848428928132,
+"kind": "t",
+"target": 9.0,
+"u": 839.1,
+"v": 1776.4,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 9 ms; a hole in the ink at 834 to 840 px (v 1772 to 1776) splits the stroke; center from column scans of the full stroke"
+},
+{
+"arc": 464.2232134040797,
+"kind": "t",
+"target": 10.0,
+"u": 851.0,
+"v": 1787.8,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 10 ms; line width 12.5 px"
+},
+{
+"arc": 499.4710914786716,
+"kind": "t",
+"target": 12.0,
+"u": 875.8,
+"v": 1809.1,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 12 ms; line width 12.0 px"
+},
+{
+"arc": 525.3909501129401,
+"kind": "t",
+"target": 14.0,
+"u": 900.4,
+"v": 1811.0,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 14 ms; line width 12.0 px"
+},
+{
+"arc": 552.8525365083635,
+"kind": "t",
+"target": 16.0,
+"u": 924.9,
+"v": 1801.5,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 16 ms; line width 12.0 px"
+},
+{
+"arc": 582.6018450225336,
+"kind": "t",
+"target": 18.0,
+"u": 949.3,
+"v": 1785.7,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 18 ms; crosses the long-dash trace of run 12; ink merged, bound widened"
+},
+{
+"arc": 613.5853132870832,
+"kind": "t",
+"target": 20.0,
+"u": 973.8,
+"v": 1774.3,
+"ub": 6.8,
+"vb": 6.8,
+"note": "sampled at t = 20 ms; line width 13.5 px"
+},
+{
+"arc": 642.5449914770119,
+"kind": "t",
+"target": 22.0,
+"u": 998.3,
+"v": 1761.4,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 22 ms; crosses the dotted trace of run 10; ink merged, bound widened"
+},
+{
+"arc": 670.6335339781275,
+"kind": "t",
+"target": 24.0,
+"u": 1022.7,
+"v": 1748.4,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 24 ms; crosses the dotted trace of run 10; ink merged, bound widened"
+},
+{
+"arc": 708.5644057398505,
+"kind": "t",
+"target": 26.0,
+"u": 1047.3,
+"v": 1742.3,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 26 ms; line width 12.0 px"
+},
+{
+"arc": 733.445263949619,
+"kind": "t",
+"target": 28.0,
+"u": 1071.8,
+"v": 1736.1,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 28 ms; line width 12.0 px"
+},
+{
+"arc": 758.9654804084482,
+"kind": "t",
+"target": 30.0,
+"u": 1096.4,
+"v": 1730.9,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 30 ms; line width 12.0 px"
+},
+{
+"arc": 828.7697755508266,
+"kind": "t",
+"target": 35.0,
+"u": 1155.8,
+"v": 1718.2,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 35 ms; line width 12.5 px"
+},
+{
+"arc": 893.1427981225236,
+"kind": "t",
+"target": 40.0,
+"u": 1215.3,
+"v": 1700.8,
+"ub": 6.5,
+"vb": 6.5,
+"note": "sampled at t = 40 ms; line width 13.0 px"
+},
+{
+"arc": 961.009500248727,
+"kind": "t",
+"target": 45.0,
+"u": 1277.0,
+"v": 1685.1,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 45 ms; line width 12.0 px"
+},
+{
+"arc": 1029.6506188996702,
+"kind": "t",
+"target": 50.0,
+"u": 1338.7,
+"v": 1676.7,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 50 ms; line width 9.0 px"
+},
+{
+"arc": 1095.2024743511936,
+"kind": "t",
+"target": 55.0,
+"u": 1399.0,
+"v": 1668.2,
+"ub": 7.0,
+"vb": 7.0,
+"note": "sampled at t = 55 ms; line width 14.0 px"
+},
+{
+"arc": 1156.84710652139,
+"kind": "t",
+"target": 60.0,
+"u": 1459.2,
+"v": 1661.5,
+"ub": 6.8,
+"vb": 6.8,
+"note": "sampled at t = 60 ms; line width 13.5 px"
+},
+{
+"arc": 1219.9915408041768,
+"kind": "t",
+"target": 65.0,
+"u": 1520.1,
+"v": 1653.2,
+"ub": 6.8,
+"vb": 6.8,
+"note": "sampled at t = 65 ms; line width 13.5 px"
+},
+{
+"arc": 1285.4360562488832,
+"kind": "t",
+"target": 70.0,
+"u": 1581.0,
+"v": 1641.6,
+"ub": 6.1,
+"vb": 6.1,
+"note": "sampled at t = 70 ms; line width 12.2 px"
+},
+{
+"arc": 1347.4342812202237,
+"kind": "t",
+"target": 75.0,
+"u": 1641.6,
+"v": 1637.0,
+"ub": 6.5,
+"vb": 6.5,
+"note": "sampled at t = 75 ms; line width 13.0 px"
+},
+{
+"arc": 1411.3787745459986,
+"kind": "t",
+"target": 80.0,
+"u": 1702.3,
+"v": 1644.4,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 80 ms; line width 12.5 px"
+},
+{
+"arc": 1485.581365774689,
+"kind": "t",
+"target": 85.0,
+"u": 1764.4,
+"v": 1676.8,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 85 ms; line width 12.5 px"
+},
+{
+"arc": 1567.1620414956742,
+"kind": "f",
+"target": 100.0,
+"u": 1809.8,
+"v": 1740.6,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at 100 lb (steep part); line width 12.0 px"
+},
+{
+"arc": 1612.6646293463373,
+"kind": "t",
+"target": 90.0,
+"u": 1827.0,
+"v": 1777.0,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 90 ms; line width 12.0 px"
+},
+{
+"arc": 1749.8016815482792,
+"kind": "t",
+"target": 95.0,
+"u": 1889.3,
+"v": 1890.6,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 95 ms; line width 11.5 px"
+},
+{
+"arc": 1824.2686571751346,
+"kind": "t",
+"target": 100.0,
+"u": 1951.0,
+"v": 1927.6,
+"ub": 5.0,
+"vb": 8.0,
+"note": "sampled at t = 100 ms; end of the steep fall, running into the band shared with runs 10 and 12 (all touching); center 6 px above the band's lower edge, bound widened"
+},
+{
+"arc": 1885.9393793888567,
+"kind": "t",
+"target": 105.0,
+"u": 2012.5,
+"v": 1929.4,
+"ub": 4.0,
+"vb": 6.0,
+"note": "sampled at t = 105 ms; lowest of three touching traces (the dots of run 10 lie on it); center from its lower edge and the line width, bound widened"
+},
+{
+"arc": 1949.3907892542065,
+"kind": "t",
+"target": 110.0,
+"u": 2073.7,
+"v": 1913.5,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 110 ms; rises across the touching traces of runs 10 and 12; ink merged, bound widened"
+},
+{
+"arc": 2014.4768790431235,
+"kind": "t",
+"target": 115.0,
+"u": 2135.0,
+"v": 1892.0,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 115 ms; rises across the touching traces of runs 10 and 12; ink merged, bound widened"
+},
+{
+"arc": 2079.721659526571,
+"kind": "t",
+"target": 120.0,
+"u": 2196.2,
+"v": 1875.1,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 120 ms; line width 12.5 px"
+},
+{
+"arc": 2142.8129115171087,
+"kind": "t",
+"target": 125.0,
+"u": 2257.6,
+"v": 1870.4,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 125 ms; line width 12.0 px"
+}
+],
+"1_run4_extremes": [
+{
+"kind": "max",
+"u": 759.1624634888857,
+"v": 1688.2941333667009,
+"y": 123.50157007663987,
+"half_len": 0.0,
+"arc": 300,
+"manual": true
+},
+{
+"kind": "min",
+"u": 887.6412864393328,
+"v": 1813.3785709834733,
+"y": 71.93229356592715,
+"half_len": 4.727068978330351,
+"arc": 512,
+"manual": false
+},
+{
+"kind": "max",
+"u": 1624.4606925412127,
+"v": 1637.1819999513164,
+"y": 142.6026677906366,
+"half_len": 0.9940262621805687,
+"arc": 1330,
+"manual": false
+},
+{
+"kind": "min",
+"u": 1986.5678823184787,
+"v": 1930.5,
+"y": 21.93049165089204,
+"half_len": 22.966721570802406,
+"arc": 1860,
+"manual": true
+}
+],
+"1_run4_ends": {
+"first": [
+0,
+741.5,
+1987.0,
+true
+],
+"last": [
+2196,
+2310.14225914987,
+1868.6315728661125,
+false
+]
+},
+"1_run10": [
+{
+"arc": 119.26263040992494,
+"kind": "f",
+"target": 50.0,
+"u": 743.0,
+"v": 1874.0,
+"ub": 7.0,
+"vb": 5.0,
+"note": "sampled at 50 lb (steep part); taken at t = 0.77 ms, y = 47.5; rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; dots of this run bridge the gap between the frame-and-run-12 ink and run 4; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 241.7062153983113,
+"kind": "f",
+"target": 100.0,
+"u": 744.7,
+"v": 1738.0,
+"ub": 7.0,
+"vb": 5.0,
+"note": "sampled at 100 lb (steep part); taken at t = 1.03 ms, y = 103; rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; dots of this run bridge the gap between the frame-and-run-12 ink and run 4; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 362.9722177117708,
+"kind": "f",
+"target": 150.0,
+"u": 748.6,
+"v": 1619.1,
+"ub": 7.0,
+"vb": 5.0,
+"note": "sampled at 150 lb (steep part); taken at t = 1.46 ms, y = 152; rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; dots of this run bridge the gap between the frame-and-run-12 ink and run 4; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 485.36595709884557,
+"kind": "f",
+"target": 200.0,
+"u": 750.8,
+"v": 1498.1,
+"ub": 7.0,
+"vb": 5.0,
+"note": "sampled at 200 lb (steep part); taken at t = 1.75 ms, y = 201; rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; dots of this run bridge the gap between the frame-and-run-12 ink and run 4; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 638.4775830807972,
+"kind": "t",
+"target": 3.0,
+"u": 762.0,
+"v": 1363.9,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 3 ms; taken at t = 2.79 ms, y = 257; line width 9.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (3 px)"
+},
+{
+"arc": 708.2069412177143,
+"kind": "t",
+"target": 4.0,
+"u": 772.5,
+"v": 1296.4,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 4 ms; taken at t = 3.73 ms, y = 284; line width 10.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 724.6741515872081,
+"kind": "t",
+"target": 5.0,
+"u": 789.3,
+"v": 1311.4,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 5 ms; taken at t = 5.14 ms, y = 278; line width 11.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 757.995837351723,
+"kind": "t",
+"target": 6.0,
+"u": 802.4,
+"v": 1341.9,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 6 ms; taken at t = 6.22 ms, y = 266; line width 9.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (3 px)"
+},
+{
+"arc": 792.6814840375225,
+"kind": "t",
+"target": 7.0,
+"u": 814.6,
+"v": 1372.8,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 7 ms; taken at t = 7.22 ms, y = 253; line width 9.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (4 px)"
+},
+{
+"arc": 833.9975803403414,
+"kind": "t",
+"target": 8.0,
+"u": 826.0,
+"v": 1404.9,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 8 ms; taken at t = 8.16 ms, y = 240; line width 9.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (4 px)"
+},
+{
+"arc": 871.682671544724,
+"kind": "t",
+"target": 9.0,
+"u": 836.0,
+"v": 1437.5,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 9 ms; taken at t = 8.98 ms, y = 226; line width 9.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (3 px)"
+},
+{
+"arc": 923.3079379901501,
+"kind": "t",
+"target": 10.0,
+"u": 853.5,
+"v": 1487.6,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 10 ms; taken at t = 10.41 ms, y = 206; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (11 px)"
+},
+{
+"arc": 1000.3448821640519,
+"kind": "t",
+"target": 12.0,
+"u": 870.9,
+"v": 1534.9,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 12 ms; taken at t = 11.80 ms, y = 186; line width 9.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (5 px)"
+},
+{
+"arc": 1059.3773098895383,
+"kind": "t",
+"target": 14.0,
+"u": 900.6,
+"v": 1596.4,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at t = 14 ms; taken at t = 14.17 ms, y = 161; crosses the long-dash trace of run 12; dots merged with the dash, bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 1112.336767085698,
+"kind": "t",
+"target": 16.0,
+"u": 925.6,
+"v": 1641.8,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at t = 16 ms; taken at t = 16.18 ms, y = 142; crosses the long-dash trace of run 12; dots merged with the dash, bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 1159.3409654898135,
+"kind": "t",
+"target": 18.0,
+"u": 945.0,
+"v": 1669.3,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 18 ms; taken at t = 17.74 ms, y = 131; line width 10.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (4 px)"
+},
+{
+"arc": 1200.051061788464,
+"kind": "t",
+"target": 20.0,
+"u": 977.3,
+"v": 1710.3,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 20 ms; taken at t = 20.34 ms, y = 114; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 1242.374768061372,
+"kind": "t",
+"target": 22.0,
+"u": 999.7,
+"v": 1733.6,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at t = 22 ms; taken at t = 22.14 ms, y = 104; crosses the solid trace of run 4; dot merged with it, bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 1283.8033324861692,
+"kind": "t",
+"target": 24.0,
+"u": 1033.4,
+"v": 1773.4,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 24 ms; taken at t = 24.85 ms, y = 88; line width 10.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1321.5065497770756,
+"kind": "t",
+"target": 26.0,
+"u": 1045.4,
+"v": 1785.3,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 26 ms; taken at t = 25.82 ms, y = 83.1; line width 10.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1357.0278578864081,
+"kind": "t",
+"target": 28.0,
+"u": 1070.2,
+"v": 1808.4,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 28 ms; taken at t = 27.81 ms, y = 73.6; line width 10.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1385.9920328877924,
+"kind": "t",
+"target": 30.0,
+"u": 1100.6,
+"v": 1827.1,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 30 ms; taken at t = 30.28 ms, y = 65.9; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 1456.8628054470269,
+"kind": "t",
+"target": 35.0,
+"u": 1150.5,
+"v": 1831.8,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 35 ms; taken at t = 34.48 ms, y = 63.9; line width 11.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (8 px)"
+},
+{
+"arc": 1520.4637729648855,
+"kind": "t",
+"target": 40.0,
+"u": 1218.8,
+"v": 1822.9,
+"ub": 6.9,
+"vb": 4.5,
+"note": "sampled at t = 40 ms; taken at t = 40.22 ms, y = 67.4; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (14 px)"
+},
+{
+"arc": 1595.8641187467038,
+"kind": "t",
+"target": 45.0,
+"u": 1283.3,
+"v": 1806.2,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 45 ms; taken at t = 45.44 ms, y = 74.1; line width 10.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 1667.1077048411703,
+"kind": "t",
+"target": 50.0,
+"u": 1331.4,
+"v": 1794.0,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 50 ms; taken at t = 49.34 ms, y = 79; line width 11.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (8 px)"
+},
+{
+"arc": 1735.9387036389144,
+"kind": "t",
+"target": 55.0,
+"u": 1398.8,
+"v": 1781.2,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 55 ms; line width 11.5 px; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1800.5232105255673,
+"kind": "t",
+"target": 60.0,
+"u": 1465.6,
+"v": 1785.1,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 60 ms; taken at t = 60.46 ms, y = 82.4; line width 9.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1872.3066405264165,
+"kind": "t",
+"target": 65.0,
+"u": 1515.3,
+"v": 1798.8,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 65 ms; taken at t = 64.52 ms, y = 76.7; line width 9.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 1945.8199734053474,
+"kind": "t",
+"target": 70.0,
+"u": 1576.5,
+"v": 1823.1,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 70 ms; taken at t = 69.51 ms, y = 66.7; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (8 px)"
+},
+{
+"arc": 2015.6142545559246,
+"kind": "t",
+"target": 75.0,
+"u": 1642.5,
+"v": 1842.4,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 75 ms; line width 10.5 px; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 2083.2760879946395,
+"kind": "t",
+"target": 80.0,
+"u": 1710.5,
+"v": 1857.0,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 80 ms; taken at t = 80.54 ms, y = 52.5; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (8 px)"
+},
+{
+"arc": 2153.6553515531627,
+"kind": "t",
+"target": 85.0,
+"u": 1758.8,
+"v": 1872.3,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 85 ms; taken at t = 84.43 ms, y = 46.2; line width 9.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 2226.5434468388567,
+"kind": "t",
+"target": 90.0,
+"u": 1821.7,
+"v": 1890.2,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 90 ms; taken at t = 89.50 ms, y = 38.7; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 2301.704826722432,
+"kind": "t",
+"target": 95.0,
+"u": 1884.8,
+"v": 1911.3,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 95 ms; taken at t = 94.62 ms, y = 30; dots between the dash of run 12 above and run 4 below, all three touching; bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 2363.547055802254,
+"kind": "t",
+"target": 100.0,
+"u": 1955.4,
+"v": 1917.4,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 100 ms; taken at t = 100.36 ms, y = 27.4; dots between the dash of run 12 above and run 4 below, all three touching; bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 2425.0006267458207,
+"kind": "t",
+"target": 105.0,
+"u": 2006.4,
+"v": 1916.7,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 105 ms; taken at t = 104.51 ms, y = 27.5; dots between the dash of run 12 above and run 4 below, all three touching; bound widened; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 2486.9322428907126,
+"kind": "t",
+"target": 110.0,
+"u": 2077.8,
+"v": 1908.2,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 110 ms; taken at t = 110.33 ms, y = 30.9; dots between the dash of run 12 above and run 4 below, all three touching; bound widened; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 2548.3495188559396,
+"kind": "t",
+"target": 115.0,
+"u": 2141.8,
+"v": 1907.5,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 115 ms; taken at t = 115.54 ms, y = 31; tangle with run 12 and the rising run 4 (2068 to 2156 px); identity of the ink not certain, bound widened; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 2609.8059138207245,
+"kind": "t",
+"target": 120.0,
+"u": 2191.7,
+"v": 1908.5,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 120 ms; taken at t = 119.61 ms, y = 30.5; dots sitting on the dash of run 12 (touching); dot center from its top edge and the dot size; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 2671.2227420604336,
+"kind": "t",
+"target": 125.0,
+"u": 2260.7,
+"v": 1908.5,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 125 ms; taken at t = 125.23 ms, y = 30.4; dots sitting on the dash of run 12 (touching); dot center from its top edge and the dot size; on a dot: taken at the dot's center along the guide"
+}
+],
+"1_run10_extremes": [
+{
+"kind": "max",
+"u": 772.1507375159445,
+"v": 1299.3368875267768,
+"y": 283.05609269641445,
+"half_len": 0.0,
+"arc": 700,
+"manual": false
+},
+{
+"kind": "min",
+"u": 1133.0082456132884,
+"v": 1831.5479517788795,
+"y": 64.05015797160942,
+"half_len": 1.7154840160832237,
+"arc": 1428,
+"manual": false
+},
+{
+"kind": "max",
+"u": 1419.6967194097867,
+"v": 1779.1144933017792,
+"y": 84.95248639967082,
+"half_len": 7.8824025130278415,
+"arc": 1758,
+"manual": false
+},
+{
+"kind": "min",
+"u": 1969.3858284715006,
+"v": 1917.5,
+"y": 27.29045217256684,
+"half_len": 37.97552864426791,
+"arc": 2382,
+"manual": true
+}
+],
+"1_run10_ends": {
+"first": [
+0,
+743.0,
+1987.0,
+true
+],
+"last": [
+2724,
+2310.0,
+1908.5,
+true
+]
+},
+"1_run12": [
+{
+"arc": 119.23601895292616,
+"kind": "f",
+"target": 50.0,
+"u": 737.2,
+"v": 1867.8,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 50 lb (steep part); rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px)"
+},
+{
+"arc": 241.65874693276817,
+"kind": "f",
+"target": 100.0,
+"u": 737.5,
+"v": 1745.3,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 100 lb (steep part); rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px)"
+},
+{
+"arc": 362.79925912667534,
+"kind": "f",
+"target": 150.0,
+"u": 737.9,
+"v": 1624.2,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 150 lb (steep part); rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px)"
+},
+{
+"arc": 485.16711365788535,
+"kind": "f",
+"target": 200.0,
+"u": 738.0,
+"v": 1501.0,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 200 lb (steep part); taken at t = 0.66 ms, y = 200; rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px); no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 606.3855371252736,
+"kind": "f",
+"target": 250.0,
+"u": 738.6,
+"v": 1380.6,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 250 lb (steep part); rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px)"
+},
+{
+"arc": 729.0378576257942,
+"kind": "f",
+"target": 300.0,
+"u": 739.4,
+"v": 1258.0,
+"ub": 6.0,
+"vb": 5.0,
+"note": "sampled at 300 lb (steep part); rising branch inside the bundle formed by the left frame and the rising branches of all three runs (Fig. 4-19 panel 1, first 3 ms); this run's ink cannot be separated there; position read from the bundle's extent, bound covers its share of the bundle; this run touches the frame's right edge (ink 726 to 743 px at 1280 to 1475 px)"
+},
+{
+"arc": 854.3079042461802,
+"kind": "f",
+"target": 350.0,
+"u": 740.8,
+"v": 1135.4,
+"ub": 4.5,
+"vb": 8.2,
+"note": "sampled at 350 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 979.6868783469,
+"kind": "f",
+"target": 400.0,
+"u": 742.1,
+"v": 1014.1,
+"ub": 4.5,
+"vb": 8.2,
+"note": "sampled at 400 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1103.5197829890712,
+"kind": "f",
+"target": 450.0,
+"u": 743.5,
+"v": 891.4,
+"ub": 4.5,
+"vb": 8.2,
+"note": "sampled at 450 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1215.0887046668097,
+"kind": "t",
+"target": 2.0,
+"u": 746.9,
+"v": 780.6,
+"ub": 4.2,
+"vb": 8.1,
+"note": "sampled at t = 2 ms; line width 8.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1227.3892827132624,
+"kind": "f",
+"target": 500.0,
+"u": 747.8,
+"v": 770.0,
+"ub": 4.5,
+"vb": 8.2,
+"note": "sampled at 500 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1345.4580900304568,
+"kind": "t",
+"target": 3.0,
+"u": 756.0,
+"v": 653.9,
+"ub": 5.7,
+"vb": 8.5,
+"note": "sampled at t = 3 ms; line width 8.5 px; long-dash trace: bound includes half the local gap along the line (20 px)"
+},
+{
+"arc": 1432.8788152758777,
+"kind": "t",
+"target": 4.0,
+"u": 769.2,
+"v": 572.3,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 4 ms; taken at t = 4.03 ms, y = 581; apex of the force peak: a short dash (768 to 781, 549 to 576 px) between the rising and falling dashes; center within the bound; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 1470.9223328175563,
+"kind": "t",
+"target": 5.0,
+"u": 780.5,
+"v": 572.7,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 5 ms; taken at t = 4.97 ms, y = 581; apex of the force peak: a short dash (768 to 781, 549 to 576 px) between the rising and falling dashes; center within the bound; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 1558.7815954333585,
+"kind": "t",
+"target": 6.0,
+"u": 793.6,
+"v": 653.8,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 6 ms; line width 9.5 px; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 1775.9523461500805,
+"kind": "t",
+"target": 8.0,
+"u": 819.4,
+"v": 871.3,
+"ub": 4.8,
+"vb": 7.9,
+"note": "sampled at t = 8 ms; line width 9.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1799.0562356519363,
+"kind": "f",
+"target": 450.0,
+"u": 821.3,
+"v": 890.9,
+"ub": 4.5,
+"vb": 8.2,
+"note": "sampled at 450 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 1925.2196093561854,
+"kind": "f",
+"target": 400.0,
+"u": 832.9,
+"v": 1013.7,
+"ub": 3.8,
+"vb": 9.9,
+"note": "sampled at 400 lb (steep part); line width 7.5 px; long-dash trace: bound includes half the local gap along the line (20 px)"
+},
+{
+"arc": 2052.885496806671,
+"kind": "t",
+"target": 10.0,
+"u": 844.7,
+"v": 1128.2,
+"ub": 6.0,
+"vb": 12.9,
+"note": "sampled at t = 10 ms; taken at t = 9.94 ms, y = 353; line width 12.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (27 px)"
+},
+{
+"arc": 2174.782092917841,
+"kind": "f",
+"target": 300.0,
+"u": 853.6,
+"v": 1257.2,
+"ub": 6.0,
+"vb": 9.3,
+"note": "sampled at 300 lb (steep part); line width 12.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 2301.5939019829275,
+"kind": "f",
+"target": 250.0,
+"u": 870.0,
+"v": 1379.9,
+"ub": 4.5,
+"vb": 7.7,
+"note": "sampled at 250 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 2321.197052786523,
+"kind": "t",
+"target": 12.0,
+"u": 872.2,
+"v": 1395.6,
+"ub": 4.5,
+"vb": 7.5,
+"note": "sampled at t = 12 ms; line width 9.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 2427.784772074864,
+"kind": "f",
+"target": 200.0,
+"u": 887.8,
+"v": 1501.1,
+"ub": 4.5,
+"vb": 7.0,
+"note": "sampled at 200 lb (steep part); line width 9.0 px; long-dash trace: bound includes half the local gap along the line (14 px)"
+},
+{
+"arc": 2491.100135197711,
+"kind": "t",
+"target": 14.0,
+"u": 898.1,
+"v": 1560.2,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at t = 14 ms; crosses the dotted trace of run 10; ink merged, bound widened"
+},
+{
+"arc": 2555.564094084204,
+"kind": "f",
+"target": 150.0,
+"u": 911.5,
+"v": 1623.2,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at 150 lb (steep part); crosses the dotted trace of run 10; ink merged, bound widened"
+},
+{
+"arc": 2628.951554420946,
+"kind": "t",
+"target": 16.0,
+"u": 923.9,
+"v": 1695.8,
+"ub": 4.2,
+"vb": 6.2,
+"note": "sampled at t = 16 ms; line width 8.5 px; long-dash trace: bound includes half the local gap along the line (13 px)"
+},
+{
+"arc": 2739.662777043583,
+"kind": "t",
+"target": 18.0,
+"u": 949.5,
+"v": 1801.0,
+"ub": 7.0,
+"vb": 8.0,
+"note": "sampled at t = 18 ms; crosses the solid trace of run 4; ink merged, bound widened"
+},
+{
+"arc": 2817.3869540514547,
+"kind": "t",
+"target": 20.0,
+"u": 974.8,
+"v": 1871.2,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 20 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (2 px)"
+},
+{
+"arc": 2862.236825930663,
+"kind": "t",
+"target": 22.0,
+"u": 999.6,
+"v": 1902.5,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 22 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 2901.5499869400605,
+"kind": "t",
+"target": 24.0,
+"u": 1024.5,
+"v": 1931.8,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 24 ms; line width 9.5 px; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 2931.823547069255,
+"kind": "t",
+"target": 26.0,
+"u": 1049.2,
+"v": 1946.3,
+"ub": 5.1,
+"vb": 5.1,
+"note": "sampled at t = 26 ms; line width 10.2 px; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 2958.8844816270494,
+"kind": "t",
+"target": 28.0,
+"u": 1073.9,
+"v": 1955.6,
+"ub": 7.4,
+"vb": 5.1,
+"note": "sampled at t = 28 ms; line width 10.2 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 2988.2227496455566,
+"kind": "t",
+"target": 30.0,
+"u": 1098.5,
+"v": 1963.5,
+"ub": 8.2,
+"vb": 5.2,
+"note": "sampled at t = 30 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 3050.7046898163853,
+"kind": "t",
+"target": 35.0,
+"u": 1157.8,
+"v": 1977.1,
+"ub": 8.7,
+"vb": 4.5,
+"note": "sampled at t = 35 ms; line width 9.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3112.945010021979,
+"kind": "t",
+"target": 40.0,
+"u": 1216.9,
+"v": 1969.9,
+"ub": 8.7,
+"vb": 5.0,
+"note": "sampled at t = 40 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3184.5455363263764,
+"kind": "t",
+"target": 45.0,
+"u": 1278.8,
+"v": 1944.4,
+"ub": 6.9,
+"vb": 5.3,
+"note": "sampled at t = 45 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3263.389848298661,
+"kind": "t",
+"target": 50.0,
+"u": 1340.4,
+"v": 1903.0,
+"ub": 8.7,
+"vb": 5.0,
+"note": "sampled at t = 50 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3343.4246089235694,
+"kind": "t",
+"target": 55.0,
+"u": 1400.3,
+"v": 1863.7,
+"ub": 7.2,
+"vb": 6.0,
+"note": "sampled at t = 55 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3409.9532975598163,
+"kind": "t",
+"target": 60.0,
+"u": 1460.4,
+"v": 1837.7,
+"ub": 9.0,
+"vb": 4.5,
+"note": "sampled at t = 60 ms; line width 9.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3473.0406064769686,
+"kind": "t",
+"target": 65.0,
+"u": 1521.5,
+"v": 1835.3,
+"ub": 8.9,
+"vb": 5.0,
+"note": "sampled at t = 65 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3539.079728259152,
+"kind": "t",
+"target": 70.0,
+"u": 1582.7,
+"v": 1850.3,
+"ub": 9.0,
+"vb": 6.0,
+"note": "sampled at t = 70 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 3605.3847469210878,
+"kind": "t",
+"target": 75.0,
+"u": 1643.4,
+"v": 1870.6,
+"ub": 9.2,
+"vb": 6.0,
+"note": "sampled at t = 75 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 3672.262285876334,
+"kind": "t",
+"target": 80.0,
+"u": 1704.1,
+"v": 1892.2,
+"ub": 9.5,
+"vb": 5.5,
+"note": "sampled at t = 80 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 3740.295886020141,
+"kind": "t",
+"target": 85.0,
+"u": 1766.1,
+"v": 1912.0,
+"ub": 9.2,
+"vb": 5.5,
+"note": "sampled at t = 85 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 3804.8244149444604,
+"kind": "t",
+"target": 90.0,
+"u": 1834.8,
+"v": 1920.5,
+"ub": 10.0,
+"vb": 6.0,
+"note": "sampled at t = 90 ms; taken at t = 90.54 ms, y = 26.4; line width 12.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (20 px)"
+},
+{
+"arc": 3868.462402257891,
+"kind": "t",
+"target": 95.0,
+"u": 1870.3,
+"v": 1918.4,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 95 ms; taken at t = 93.44 ms, y = 27.1; dash lying on the dots of run 10 (touching), with run 4 below (a dash gap from 1873 to about 1911 px); bound widened; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 3930.577926968433,
+"kind": "t",
+"target": 100.0,
+"u": 1950.9,
+"v": 1907.9,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 100 ms; dash lying on the dots of run 10 (touching), with run 4 below (a dash gap from 1873 to about 1911 px); bound widened"
+},
+{
+"arc": 3992.1004875875733,
+"kind": "t",
+"target": 105.0,
+"u": 2012.2,
+"v": 1904.0,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 105 ms; dash lying on the dots of run 10 (touching), with run 4 below (a dash gap from 1873 to about 1911 px); bound widened"
+},
+{
+"arc": 4053.5501242525456,
+"kind": "t",
+"target": 110.0,
+"u": 2073.7,
+"v": 1903.5,
+"ub": 5.0,
+"vb": 6.0,
+"note": "sampled at t = 110 ms; dash lying on the dots of run 10 (touching), with run 4 below (a dash gap from 1873 to about 1911 px); bound widened"
+},
+{
+"arc": 4116.484221795868,
+"kind": "t",
+"target": 115.0,
+"u": 2135.2,
+"v": 1915.5,
+"ub": 6.0,
+"vb": 8.0,
+"note": "sampled at t = 115 ms; tangle with run 10 and the rising run 4 (2068 to 2156 px); identity of the ink not certain, bound widened"
+},
+{
+"arc": 4178.032838684516,
+"kind": "t",
+"target": 120.0,
+"u": 2196.6,
+"v": 1918.2,
+"ub": 4.0,
+"vb": 6.0,
+"note": "sampled at t = 120 ms; dash with the dots of run 10 on top (touching); center of the bar measured between dots"
+},
+{
+"arc": 4239.491166284407,
+"kind": "t",
+"target": 125.0,
+"u": 2258.0,
+"v": 1919.3,
+"ub": 4.0,
+"vb": 6.0,
+"note": "sampled at t = 125 ms; dash with the dots of run 10 on top (touching); center of the bar measured between dots"
+},
+{
+"arc": 4300.925726830475,
+"kind": "t",
+"target": 130.0,
+"u": 2319.5,
+"v": 1919.0,
+"ub": 4.0,
+"vb": 6.0,
+"note": "sampled at t = 130 ms; dash with the dots of run 10 on top (touching); center of the bar measured between dots"
+}
+],
+"1_run12_extremes": [
+{
+"kind": "max",
+"u": 773.8761799087864,
+"v": 559.146696255398,
+"y": 586.8211249221465,
+"half_len": 0.0,
+"arc": 1448,
+"manual": true
+},
+{
+"kind": "min",
+"u": 1155.1077119071947,
+"v": 1977.1882639071885,
+"y": 4.6791855254851935,
+"half_len": 5.748979405616865,
+"arc": 3048,
+"manual": false
+},
+{
+"kind": "max",
+"u": 1501.2698473654436,
+"v": 1832.9150032377947,
+"y": 62.80083968391685,
+"half_len": 12.910848082280836,
+"arc": 3452,
+"manual": false
+},
+{
+"kind": "min",
+"u": 1834.773661448466,
+"v": 1920.4514577076036,
+"y": 26.362122741362167,
+"half_len": 15.536164947246448,
+"arc": 3812,
+"manual": false
+},
+{
+"kind": "max",
+"u": 2044.14046190443,
+"v": 1903.6072093915436,
+"y": 32.82770802336058,
+"half_len": 34.96371734328011,
+"arc": 4024,
+"manual": true
+}
+],
+"1_run12_ends": {
+"first": [
+0,
+737.0,
+1987.0,
+true
+],
+"last": [
+4302,
+2320.5341604671703,
+1919.0,
+true
+]
+},
+"2_run4": [
+{
+"arc": 17.88891343251929,
+"kind": "t",
+"target": 1.0,
+"u": 759.6,
+"v": 3256.5,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 1 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 41.103137235551216,
+"kind": "t",
+"target": 2.0,
+"u": 771.7,
+"v": 3236.7,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 2 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 65.08909869353029,
+"kind": "t",
+"target": 3.0,
+"u": 783.8,
+"v": 3216.0,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 3 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 90.03246441626801,
+"kind": "t",
+"target": 4.0,
+"u": 795.9,
+"v": 3194.2,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 4 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 115.26330377889147,
+"kind": "t",
+"target": 5.0,
+"u": 808.0,
+"v": 3172.1,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 5 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 139.99465416102984,
+"kind": "t",
+"target": 6.0,
+"u": 818.0,
+"v": 3153.9,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 6 ms; taken at t = 5.83 ms, y = 0.486; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 162.7185642396402,
+"kind": "t",
+"target": 7.0,
+"u": 832.2,
+"v": 3131.3,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 7 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 184.56522523701267,
+"kind": "t",
+"target": 8.0,
+"u": 844.3,
+"v": 3113.1,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 8 ms; origin to about 8 ms: runs together with runs 10 and 12 in one bundle (dots of run 10 on either side); center of the bundle along a smooth line, bound covers the bundle"
+},
+{
+"arc": 208.93338427387846,
+"kind": "t",
+"target": 9.0,
+"u": 856.4,
+"v": 3094.8,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 9 ms; line width 12.5 px"
+},
+{
+"arc": 232.71903759412294,
+"kind": "t",
+"target": 10.0,
+"u": 871.4,
+"v": 3072.3,
+"ub": 7.0,
+"vb": 7.0,
+"note": "sampled at t = 10 ms; taken at t = 10.24 ms, y = 0.817; line width 14.0 px; target fell in a gap of the line: moved along the guide to the nearest ink"
+},
+{
+"arc": 277.5205769966443,
+"kind": "t",
+"target": 12.0,
+"u": 892.4,
+"v": 3042.1,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 12 ms; line width 11.5 px"
+},
+{
+"arc": 322.03722608498504,
+"kind": "t",
+"target": 14.0,
+"u": 916.3,
+"v": 3008.3,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 14 ms; line width 11.5 px"
+},
+{
+"arc": 366.6854992821376,
+"kind": "t",
+"target": 16.0,
+"u": 940.2,
+"v": 2973.2,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 16 ms; line width 11.5 px"
+},
+{
+"arc": 412.0289107183848,
+"kind": "t",
+"target": 18.0,
+"u": 964.1,
+"v": 2937.2,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 18 ms; line width 11.0 px"
+},
+{
+"arc": 458.794542072942,
+"kind": "t",
+"target": 20.0,
+"u": 987.9,
+"v": 2898.1,
+"ub": 7.2,
+"vb": 7.2,
+"note": "sampled at t = 20 ms; line width 14.5 px"
+},
+{
+"arc": 506.0178200251587,
+"kind": "t",
+"target": 22.0,
+"u": 1012.0,
+"v": 2865.9,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 22 ms; line width 11.0 px"
+},
+{
+"arc": 548.7480118034089,
+"kind": "t",
+"target": 24.0,
+"u": 1036.1,
+"v": 2830.6,
+"ub": 4.8,
+"vb": 4.8,
+"note": "sampled at t = 24 ms; line width 9.5 px"
+},
+{
+"arc": 597.8072885174543,
+"kind": "t",
+"target": 26.0,
+"u": 1060.2,
+"v": 2795.4,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 26 ms; line width 11.5 px"
+},
+{
+"arc": 644.3583199517648,
+"kind": "t",
+"target": 28.0,
+"u": 1084.3,
+"v": 2759.5,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 28 ms; line width 11.0 px"
+},
+{
+"arc": 691.5611555160237,
+"kind": "t",
+"target": 30.0,
+"u": 1108.5,
+"v": 2727.7,
+"ub": 9.0,
+"vb": 9.0,
+"note": "sampled at t = 30 ms; line width 18.0 px"
+},
+{
+"arc": 799.7241469401251,
+"kind": "t",
+"target": 35.0,
+"u": 1168.7,
+"v": 2643.0,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 35 ms; line width 12.0 px"
+},
+{
+"arc": 897.3669378536481,
+"kind": "t",
+"target": 40.0,
+"u": 1228.8,
+"v": 2573.0,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 40 ms; line width 12.5 px"
+},
+{
+"arc": 990.7859801281104,
+"kind": "t",
+"target": 45.0,
+"u": 1288.7,
+"v": 2512.2,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 45 ms; line width 12.0 px"
+},
+{
+"arc": 1078.0169944797021,
+"kind": "t",
+"target": 50.0,
+"u": 1348.7,
+"v": 2458.2,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 50 ms; line width 12.5 px"
+},
+{
+"arc": 1157.2126655317409,
+"kind": "t",
+"target": 55.0,
+"u": 1409.0,
+"v": 2411.6,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 55 ms; line width 12.0 px"
+},
+{
+"arc": 1236.1738957073537,
+"kind": "t",
+"target": 60.0,
+"u": 1469.3,
+"v": 2373.3,
+"ub": 6.8,
+"vb": 6.8,
+"note": "sampled at t = 60 ms; line width 13.5 px"
+},
+{
+"arc": 1310.9561388720604,
+"kind": "t",
+"target": 65.0,
+"u": 1530.4,
+"v": 2337.4,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 65 ms; line width 12.0 px"
+},
+{
+"arc": 1383.0607259672504,
+"kind": "t",
+"target": 70.0,
+"u": 1591.7,
+"v": 2307.1,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 70 ms; line width 12.0 px"
+},
+{
+"arc": 1453.7048275238806,
+"kind": "t",
+"target": 75.0,
+"u": 1652.3,
+"v": 2283.4,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 75 ms; line width 12.5 px"
+},
+{
+"arc": 1517.9554382822366,
+"kind": "t",
+"target": 80.0,
+"u": 1713.0,
+"v": 2266.7,
+"ub": 6.5,
+"vb": 6.5,
+"note": "sampled at t = 80 ms; line width 13.0 px"
+},
+{
+"arc": 1582.475164756657,
+"kind": "t",
+"target": 85.0,
+"u": 1774.4,
+"v": 2258.4,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 85 ms; line width 12.5 px"
+},
+{
+"arc": 1644.8796401755349,
+"kind": "t",
+"target": 90.0,
+"u": 1835.8,
+"v": 2256.3,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 90 ms; line width 12.0 px"
+},
+{
+"arc": 1707.2941364505907,
+"kind": "t",
+"target": 95.0,
+"u": 1897.3,
+"v": 2259.2,
+"ub": 6.5,
+"vb": 6.5,
+"note": "sampled at t = 95 ms; line width 13.0 px"
+},
+{
+"arc": 1769.7238976247966,
+"kind": "t",
+"target": 100.0,
+"u": 1958.7,
+"v": 2262.9,
+"ub": 6.6,
+"vb": 6.6,
+"note": "sampled at t = 100 ms; line width 13.2 px"
+},
+{
+"arc": 1832.441167808165,
+"kind": "t",
+"target": 105.0,
+"u": 2020.2,
+"v": 2264.7,
+"ub": 6.5,
+"vb": 6.5,
+"note": "sampled at t = 105 ms; line width 13.0 px"
+},
+{
+"arc": 1895.5263445017486,
+"kind": "t",
+"target": 110.0,
+"u": 2081.6,
+"v": 2262.7,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 110 ms; line width 12.0 px"
+},
+{
+"arc": 1957.4356042631753,
+"kind": "t",
+"target": 115.0,
+"u": 2143.0,
+"v": 2261.8,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 115 ms; line width 12.0 px"
+},
+{
+"arc": 2019.9627553939804,
+"kind": "t",
+"target": 120.0,
+"u": 2204.4,
+"v": 2259.9,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 120 ms; line width 12.0 px"
+},
+{
+"arc": 2081.9767642513457,
+"kind": "t",
+"target": 125.0,
+"u": 2265.8,
+"v": 2259.3,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 125 ms; line width 12.0 px"
+}
+],
+"2_run4_extremes": [
+{
+"kind": "max",
+"u": 1821.1340820341954,
+"v": 2256.4249981774306,
+"y": 4.1508703324537715,
+"half_len": 35.562234892556035,
+"arc": 1630,
+"manual": false
+},
+{
+"kind": "min",
+"u": 2027.6294820601115,
+"v": 2264.3055420682695,
+"y": 4.112358106160507,
+"half_len": 38.436157107620375,
+"arc": 1840,
+"manual": false
+}
+],
+"2_run4_ends": {
+"first": [
+0,
+748.0,
+3270.0,
+true
+],
+"last": [
+2138,
+2317.405435293679,
+2255.234687467577,
+false
+]
+},
+"2_run10": [
+{
+"arc": 17.88891343251929,
+"kind": "t",
+"target": 1.0,
+"u": 759.6,
+"v": 3256.5,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 1 ms; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle"
+},
+{
+"arc": 41.103137235551216,
+"kind": "t",
+"target": 2.0,
+"u": 771.7,
+"v": 3236.7,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 2 ms; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle"
+},
+{
+"arc": 65.08909869353029,
+"kind": "t",
+"target": 3.0,
+"u": 783.8,
+"v": 3216.0,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 3 ms; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle"
+},
+{
+"arc": 90.03246441626801,
+"kind": "t",
+"target": 4.0,
+"u": 795.9,
+"v": 3194.2,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 4 ms; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle"
+},
+{
+"arc": 115.26330377889147,
+"kind": "t",
+"target": 5.0,
+"u": 806.5,
+"v": 3175.0,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 5 ms; taken at t = 4.88 ms, y = 0.401; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 139.99465416102984,
+"kind": "t",
+"target": 6.0,
+"u": 815.5,
+"v": 3158.3,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 6 ms; taken at t = 5.63 ms, y = 0.468; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 162.7185642396402,
+"kind": "t",
+"target": 7.0,
+"u": 835.9,
+"v": 3126.2,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 7 ms; taken at t = 7.31 ms, y = 0.598; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 182.485552139931,
+"kind": "t",
+"target": 8.0,
+"u": 844.3,
+"v": 3115.7,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 8 ms; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle"
+},
+{
+"arc": 199.57661387361415,
+"kind": "t",
+"target": 9.0,
+"u": 857.8,
+"v": 3103.1,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 9 ms; taken at t = 9.10 ms, y = 0.692; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle; on a dot: taken at the dot's center along the guide"
+},
+{
+"arc": 213.28026125951664,
+"kind": "t",
+"target": 10.0,
+"u": 873.4,
+"v": 3094.4,
+"ub": 11.0,
+"vb": 7.0,
+"note": "sampled at t = 10 ms; taken at t = 10.38 ms, y = 0.727; origin to about 8 ms: dots run along the solid trace of run 4 (touching it on either side) in one bundle with run 12; position within the bundle not resolvable, bound covers the bundle; no ink of this trace at the target on the guide (gap): moved along the guide to the nearest ink"
+},
+{
+"arc": 252.11381766163177,
+"kind": "t",
+"target": 12.0,
+"u": 894.1,
+"v": 3067.5,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 12 ms; taken at t = 12.12 ms, y = 0.836; line width 10.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (5 px)"
+},
+{
+"arc": 292.57138088700356,
+"kind": "t",
+"target": 14.0,
+"u": 916.6,
+"v": 3042.5,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 14 ms; line width 10.5 px; dotted trace: bound includes half the local gap along the line (4 px)"
+},
+{
+"arc": 329.70681806669506,
+"kind": "t",
+"target": 16.0,
+"u": 941.1,
+"v": 3018.1,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 16 ms; line width 11.0 px; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 368.01140466788667,
+"kind": "t",
+"target": 18.0,
+"u": 964.8,
+"v": 2994.6,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 18 ms; line width 11.5 px; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 399.393981727629,
+"kind": "t",
+"target": 20.0,
+"u": 994.4,
+"v": 2973.8,
+"ub": 4.9,
+"vb": 4.5,
+"note": "sampled at t = 20 ms; taken at t = 20.46 ms, y = 1.22; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (10 px)"
+},
+{
+"arc": 435.0849093534109,
+"kind": "t",
+"target": 22.0,
+"u": 1019.5,
+"v": 2954.5,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 22 ms; taken at t = 22.53 ms, y = 1.3; line width 11.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (5 px)"
+},
+{
+"arc": 466.1078101279881,
+"kind": "t",
+"target": 24.0,
+"u": 1033.9,
+"v": 2944.3,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 24 ms; taken at t = 23.72 ms, y = 1.34; line width 11.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 495.82278315614985,
+"kind": "t",
+"target": 26.0,
+"u": 1062.3,
+"v": 2925.4,
+"ub": 6.8,
+"vb": 6.8,
+"note": "sampled at t = 26 ms; taken at t = 26.07 ms, y = 1.42; line width 13.5 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 527.3525152388806,
+"kind": "t",
+"target": 28.0,
+"u": 1076.8,
+"v": 2916.5,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 28 ms; taken at t = 27.26 ms, y = 1.45; line width 10.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 566.1860492628218,
+"kind": "t",
+"target": 30.0,
+"u": 1104.8,
+"v": 2895.8,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 30 ms; taken at t = 29.56 ms, y = 1.54; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 641.5286091445606,
+"kind": "t",
+"target": 35.0,
+"u": 1178.6,
+"v": 2852.1,
+"ub": 5.5,
+"vb": 5.5,
+"note": "sampled at t = 35 ms; taken at t = 35.63 ms, y = 1.72; line width 11.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 716.811594423511,
+"kind": "t",
+"target": 40.0,
+"u": 1239.1,
+"v": 2823.1,
+"ub": 5.2,
+"vb": 5.2,
+"note": "sampled at t = 40 ms; taken at t = 40.61 ms, y = 1.84; line width 10.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 790.6644062616226,
+"kind": "t",
+"target": 45.0,
+"u": 1286.2,
+"v": 2805.3,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 45 ms; taken at t = 44.52 ms, y = 1.91; line width 12.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (6 px)"
+},
+{
+"arc": 860.4890469912605,
+"kind": "t",
+"target": 50.0,
+"u": 1335.9,
+"v": 2793.6,
+"ub": 6.2,
+"vb": 6.2,
+"note": "sampled at t = 50 ms; taken at t = 48.64 ms, y = 1.96; line width 12.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (4 px)"
+},
+{
+"arc": 925.1859219537431,
+"kind": "t",
+"target": 55.0,
+"u": 1421.3,
+"v": 2782.1,
+"ub": 5.8,
+"vb": 5.8,
+"note": "sampled at t = 55 ms; taken at t = 55.69 ms, y = 2; line width 11.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (7 px)"
+},
+{
+"arc": 990.7072514336155,
+"kind": "t",
+"target": 60.0,
+"u": 1466.8,
+"v": 2780.1,
+"ub": 7.0,
+"vb": 4.5,
+"note": "sampled at t = 60 ms; taken at t = 59.44 ms, y = 2.01; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (14 px)"
+},
+{
+"arc": 1054.1168864332983,
+"kind": "t",
+"target": 65.0,
+"u": 1538.9,
+"v": 2778.2,
+"ub": 4.5,
+"vb": 4.5,
+"note": "sampled at t = 65 ms; taken at t = 65.33 ms, y = 2.01; line width 9.0 px; on a dot: taken at the dot's center; dotted trace: bound includes half the local gap along the line (8 px)"
+},
+{
+"arc": 1116.292010122357,
+"kind": "t",
+"target": 70.0,
+"u": 1588.0,
+"v": 2777.8,
+"ub": 5.0,
+"vb": 4.5,
+"note": "sampled at t = 70 ms; taken at t = 69.33 ms, y = 2.01; line width 9.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; dotted trace: bound includes half the local gap along the line (10 px)"
+},
+{
+"arc": 1177.6901989146024,
+"kind": "t",
+"target": 75.0,
+"u": 1658.6,
+"v": 2780.6,
+"ub": 5.0,
+"vb": 5.0,
+"note": "sampled at t = 75 ms; line width 10.0 px; dotted trace: bound includes half the local gap along the line (9 px)"
+}
+],
+"2_run10_extremes": [
+{
+"kind": "max",
+"u": 1488.383504743111,
+"v": 2777.8609744370065,
+"y": 2.015035838798164,
+"half_len": 1.6561170181595344,
+"arc": 1006,
+"manual": false
+}
+],
+"2_run10_ends": {
+"first": [
+0,
+748.0,
+3270.0,
+true
+],
+"last": [
+1214,
+1693.4806913713685,
+2781.640361211668,
+false
+]
+},
+"2_run12": [
+{
+"arc": 0.304829142248228,
+"kind": "t",
+"target": 9.0,
+"u": 856.8,
+"v": 3133.8,
+"ub": 5.6,
+"vb": 5.7,
+"note": "sampled at t = 9 ms; line width 9.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 17.70622128814477,
+"kind": "t",
+"target": 10.0,
+"u": 869.1,
+"v": 3124.1,
+"ub": 8.0,
+"vb": 6.0,
+"note": "sampled at t = 10 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 46.78081780858321,
+"kind": "t",
+"target": 12.0,
+"u": 893.2,
+"v": 3112.0,
+"ub": 7.4,
+"vb": 5.2,
+"note": "sampled at t = 12 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 73.83782985770817,
+"kind": "t",
+"target": 14.0,
+"u": 917.4,
+"v": 3102.5,
+"ub": 7.8,
+"vb": 5.2,
+"note": "sampled at t = 14 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 100.1710950704044,
+"kind": "t",
+"target": 16.0,
+"u": 941.6,
+"v": 3095.7,
+"ub": 7.6,
+"vb": 5.0,
+"note": "sampled at t = 16 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 125.69895673826008,
+"kind": "t",
+"target": 18.0,
+"u": 965.8,
+"v": 3089.0,
+"ub": 7.9,
+"vb": 5.5,
+"note": "sampled at t = 18 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 151.95748735410365,
+"kind": "t",
+"target": 20.0,
+"u": 990.1,
+"v": 3083.5,
+"ub": 8.0,
+"vb": 5.5,
+"note": "sampled at t = 20 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 177.5954920229376,
+"kind": "t",
+"target": 22.0,
+"u": 1014.4,
+"v": 3077.7,
+"ub": 8.0,
+"vb": 5.0,
+"note": "sampled at t = 22 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 203.56989009429554,
+"kind": "t",
+"target": 24.0,
+"u": 1030.3,
+"v": 3075.5,
+"ub": 8.0,
+"vb": 5.8,
+"note": "sampled at t = 24 ms; taken at t = 23.31 ms, y = 0.8; line width 11.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (16 px)"
+},
+{
+"arc": 231.63023791540638,
+"kind": "t",
+"target": 26.0,
+"u": 1063.0,
+"v": 3067.9,
+"ub": 9.4,
+"vb": 5.5,
+"note": "sampled at t = 26 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 256.93625468363,
+"kind": "t",
+"target": 28.0,
+"u": 1087.3,
+"v": 3064.0,
+"ub": 9.5,
+"vb": 5.5,
+"note": "sampled at t = 28 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 281.80561331086335,
+"kind": "t",
+"target": 30.0,
+"u": 1111.7,
+"v": 3058.7,
+"ub": 10.9,
+"vb": 5.6,
+"note": "sampled at t = 30 ms; line width 11.2 px; long-dash trace: bound includes half the local gap along the line (22 px)"
+},
+{
+"arc": 348.47502206689,
+"kind": "t",
+"target": 35.0,
+"u": 1173.0,
+"v": 3049.3,
+"ub": 5.5,
+"vb": 5.2,
+"note": "sampled at t = 35 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (12 px)"
+},
+{
+"arc": 414.1962521337435,
+"kind": "t",
+"target": 40.0,
+"u": 1234.2,
+"v": 3035.6,
+"ub": 6.0,
+"vb": 6.0,
+"note": "sampled at t = 40 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 482.2414627040202,
+"kind": "t",
+"target": 45.0,
+"u": 1291.1,
+"v": 3021.9,
+"ub": 4.3,
+"vb": 2.2,
+"note": "sampled at t = 45 ms; taken at t = 44.72 ms, y = 1.01; line width 4.5 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (9 px)"
+},
+{
+"arc": 546.186081186725,
+"kind": "t",
+"target": 50.0,
+"u": 1349.1,
+"v": 3008.8,
+"ub": 9.9,
+"vb": 6.0,
+"note": "sampled at t = 50 ms; taken at t = 49.53 ms, y = 1.07; line width 12.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (20 px)"
+},
+{
+"arc": 609.0222479322772,
+"kind": "t",
+"target": 55.0,
+"u": 1415.2,
+"v": 2995.3,
+"ub": 9.2,
+"vb": 5.2,
+"note": "sampled at t = 55 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 672.063815563017,
+"kind": "t",
+"target": 60.0,
+"u": 1475.7,
+"v": 2984.0,
+"ub": 9.5,
+"vb": 5.5,
+"note": "sampled at t = 60 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 735.1332438976021,
+"kind": "t",
+"target": 65.0,
+"u": 1536.9,
+"v": 2975.1,
+"ub": 9.4,
+"vb": 5.2,
+"note": "sampled at t = 65 ms; line width 10.5 px; long-dash trace: bound includes half the local gap along the line (19 px)"
+},
+{
+"arc": 797.7968394468246,
+"kind": "t",
+"target": 70.0,
+"u": 1598.0,
+"v": 2969.1,
+"ub": 9.0,
+"vb": 5.0,
+"note": "sampled at t = 70 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 860.7375003195936,
+"kind": "t",
+"target": 75.0,
+"u": 1659.0,
+"v": 2965.1,
+"ub": 8.7,
+"vb": 5.5,
+"note": "sampled at t = 75 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 922.4742506047617,
+"kind": "t",
+"target": 80.0,
+"u": 1720.1,
+"v": 2964.7,
+"ub": 8.7,
+"vb": 6.0,
+"note": "sampled at t = 80 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 985.1684822749997,
+"kind": "t",
+"target": 85.0,
+"u": 1781.4,
+"v": 2964.7,
+"ub": 8.7,
+"vb": 6.0,
+"note": "sampled at t = 85 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1047.1895382075427,
+"kind": "t",
+"target": 90.0,
+"u": 1855.5,
+"v": 2964.8,
+"ub": 8.5,
+"vb": 5.5,
+"note": "sampled at t = 90 ms; taken at t = 91.02 ms, y = 1.23; line width 11.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (17 px)"
+},
+{
+"arc": 1109.9641447602403,
+"kind": "t",
+"target": 95.0,
+"u": 1916.1,
+"v": 2965.6,
+"ub": 8.5,
+"vb": 5.5,
+"note": "sampled at t = 95 ms; taken at t = 95.87 ms, y = 1.23; line width 11.0 px; target fell in a gap of the line: moved along the guide to the nearest ink; long-dash trace: bound includes half the local gap along the line (17 px)"
+},
+{
+"arc": 1172.9784597151286,
+"kind": "t",
+"target": 100.0,
+"u": 1967.7,
+"v": 2964.7,
+"ub": 8.7,
+"vb": 5.5,
+"note": "sampled at t = 100 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1236.3534410624231,
+"kind": "t",
+"target": 105.0,
+"u": 2030.2,
+"v": 2964.4,
+"ub": 8.7,
+"vb": 6.0,
+"note": "sampled at t = 105 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1299.5221681524754,
+"kind": "t",
+"target": 110.0,
+"u": 2092.7,
+"v": 2964.4,
+"ub": 8.7,
+"vb": 6.0,
+"note": "sampled at t = 110 ms; line width 12.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1362.4156325121187,
+"kind": "t",
+"target": 115.0,
+"u": 2155.2,
+"v": 2963.9,
+"ub": 9.0,
+"vb": 5.0,
+"note": "sampled at t = 115 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1426.7329237921485,
+"kind": "t",
+"target": 120.0,
+"u": 2217.7,
+"v": 2963.3,
+"ub": 9.0,
+"vb": 5.0,
+"note": "sampled at t = 120 ms; line width 10.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+},
+{
+"arc": 1490.3973567437238,
+"kind": "t",
+"target": 125.0,
+"u": 2280.1,
+"v": 2962.2,
+"ub": 9.0,
+"vb": 5.5,
+"note": "sampled at t = 125 ms; line width 11.0 px; long-dash trace: bound includes half the local gap along the line (18 px)"
+}
+],
+"2_run12_extremes": [],
+"2_run12_ends": {
+"first": [
+0,
+856.8606646806152,
+3134.109171766074,
+false
+],
+"last": [
+1548,
+2337.1682629395436,
+2961.814144847892,
+false
+]
+}
+}

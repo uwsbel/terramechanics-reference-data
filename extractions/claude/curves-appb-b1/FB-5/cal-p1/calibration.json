@@ -1,0 +1,598 @@
+{
+ "image": "packet/p0111.png",
+ "box": [
+  600,
+  800,
+  2900,
+  4050
+ ],
+ "method": "ticks and frame lines measured on the ink (out/FB-5/calibrate_ticks.py); no grid lines on this plot",
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine; the lines of constant x have the mean tilt of the left and right frame lines, those of constant y the mean tilt of the bottom and top frame lines; scale and offset by least squares on the anchors of each axis)",
+ "frame_tilt_x_du_dv": 0.01696117843856904,
+ "frame_tilt_y_dv_du": -0.014209893357620643,
+ "ax": [
+  0.00563386476430938,
+  -9.55569855662181e-05,
+  -3.5807489886299244
+ ],
+ "ay": [
+  -0.00015954751011100444,
+  -0.01122791748647716,
+  50.002931984863004
+ ],
+ "x_per_px": 0.005634675085576567,
+ "y_per_px": 0.011229051005811765,
+ "rms_residual_x": 0.00812697498560887,
+ "rms_residual_y": 0.018466853805247516,
+ "max_residual_x": 0.023806600699998626,
+ "max_residual_y": 0.048291160876175354,
+ "affine_unconstrained": {
+  "ax": [
+   0.005633874112511427,
+   -9.675158247859765e-05,
+   -3.5774019067296696
+  ],
+  "ay": [
+   -0.00017250415590335113,
+   -0.011227700382982653,
+   50.02083368690228
+  ],
+  "rms_residual_x": 0.008016692296518588,
+  "rms_residual_y": 0.015548626601401895,
+  "max_residual_x": 0.02243207870965236,
+  "max_residual_y": 0.03863526099631187,
+  "x_line_tilt_du_dv": 0.017173188563751638,
+  "y_line_tilt_dv_du": -0.015364157398144354,
+  "note": "diagnostic only: its y lines lean more than either horizontal frame line"
+ },
+ "n_anchors": 25,
+ "residuals_x": [
+  [
+   0,
+   0.0041
+  ],
+  [
+   12,
+   -0.001
+  ],
+  [
+   0,
+   -0.0054
+  ],
+  [
+   12,
+   0.0085
+  ],
+  [
+   2,
+   0.0085
+  ],
+  [
+   4,
+   0.0144
+  ],
+  [
+   6,
+   -0.0057
+  ],
+  [
+   8,
+   -0.014
+  ],
+  [
+   10,
+   -0.0238
+  ],
+  [
+   0,
+   -0.0041
+  ],
+  [
+   0,
+   -0.0027
+  ],
+  [
+   0,
+   -0.0013
+  ],
+  [
+   0,
+   0.0
+  ],
+  [
+   0,
+   0.0014
+  ],
+  [
+   0,
+   0.0027
+  ],
+  [
+   12,
+   0.0069
+  ],
+  [
+   12,
+   0.0053
+  ],
+  [
+   12,
+   0.0037
+  ],
+  [
+   12,
+   0.0021
+  ],
+  [
+   12,
+   0.0005
+  ]
+ ],
+ "residuals_y": [
+  [
+   5,
+   -0.0055
+  ],
+  [
+   5,
+   -0.0119
+  ],
+  [
+   40,
+   -0.0149
+  ],
+  [
+   40,
+   -0.0086
+  ],
+  [
+   5,
+   -0.0066
+  ],
+  [
+   5,
+   -0.0077
+  ],
+  [
+   5,
+   -0.0087
+  ],
+  [
+   5,
+   -0.0098
+  ],
+  [
+   5,
+   -0.0109
+  ],
+  [
+   35,
+   0.009
+  ],
+  [
+   30,
+   0.0483
+  ],
+  [
+   25,
+   0.0409
+  ],
+  [
+   20,
+   0.0274
+  ],
+  [
+   15,
+   0.0201
+  ],
+  [
+   10,
+   -0.0019
+  ],
+  [
+   40,
+   -0.014
+  ],
+  [
+   40,
+   -0.0129
+  ],
+  [
+   40,
+   -0.0118
+  ],
+  [
+   40,
+   -0.0108
+  ],
+  [
+   40,
+   -0.0097
+  ]
+ ],
+ "frame_lines": {
+  "bottom": {
+   "slope": -0.014475654551250609,
+   "intercept": 4007.821149301839,
+   "rms": 0.5432957380759603,
+   "n_kept": 404,
+   "n": 406,
+   "width": 9.0
+  },
+  "top": {
+   "slope": -0.013944132163990675,
+   "intercept": 889.3918748205515,
+   "rms": 0.5712081601773331,
+   "n_kept": 409,
+   "n": 411,
+   "width": 9.0
+  },
+  "left": {
+   "slope": 0.016419639317612148,
+   "intercept": 637.0159023874729,
+   "rms": 0.8294062614660902,
+   "n_kept": 599,
+   "n": 601,
+   "width": 6.0
+  },
+  "right": {
+   "slope": 0.01750271755952593,
+   "intercept": 2763.5870724043752,
+   "rms": 0.7542485680776926,
+   "n_kept": 606,
+   "n": 606,
+   "width": 6.0
+  }
+ },
+ "frame_line_convention": "bottom/top: v = intercept + slope*u; left/right: u = intercept + slope*v",
+ "ticks_x": {
+  "2": {
+   "u": 1056.7759325317834,
+   "v": 3992.523625964433,
+   "tilt": 0.05173913043479092,
+   "rms": 0.27987013896804114,
+   "n": 24,
+   "width": 6.0,
+   "extent": [
+    3962.0,
+    3985.0
+   ],
+   "length_from_centre": 33
+  },
+  "4": {
+   "u": 1410.6480374189164,
+   "v": 3987.401095618763,
+   "tilt": 0.010378510378498523,
+   "rms": 0.1581627356281553,
+   "n": 27,
+   "width": 6.0,
+   "extent": [
+    3953.0,
+    3979.0
+   ],
+   "length_from_centre": 36
+  },
+  "6": {
+   "u": 1769.1234684126557,
+   "v": 3982.211929114587,
+   "tilt": 0.0402298850574736,
+   "rms": 0.28617573573616906,
+   "n": 28,
+   "width": 4.0,
+   "extent": [
+    3947.0,
+    3974.0
+   ],
+   "length_from_centre": 37
+  },
+  "8": {
+   "u": 2125.5,
+   "v": 3977.053145553156,
+   "tilt": -1.2945727030197519e-14,
+   "rms": 2.71763521899264e-13,
+   "n": 28,
+   "width": 6.0,
+   "extent": [
+    3942.0,
+    3969.0
+   ],
+   "length_from_centre": 37
+  },
+  "10": {
+   "u": 2482.151375575444,
+   "v": 3971.890383445097,
+   "tilt": 0.023136818687410625,
+   "rms": 0.2746847948055453,
+   "n": 30,
+   "width": 4.0,
+   "extent": [
+    3935.0,
+    3964.0
+   ],
+   "length_from_centre": 39
+  }
+ },
+ "ticks_y": {
+  "35": {
+   "u": 658.8156685667631,
+   "v": 1327.6641318123877,
+   "tilt": 0.03162055335968017,
+   "rms": 0.1356025043352181,
+   "n": 23,
+   "width": 6.0,
+   "extent": [
+    666.0,
+    688.0
+   ],
+   "length_from_centre": 31
+  },
+  "30": {
+   "u": 666.183332960633,
+   "v": 1776.374621205861,
+   "tilt": 0.01679841897232614,
+   "rms": 0.3622859010059751,
+   "n": 23,
+   "width": 6.0,
+   "extent": [
+    673.0,
+    695.0
+   ],
+   "length_from_centre": 31
+  },
+  "25": {
+   "u": 673.4827842067845,
+   "v": 2220.9307472543674,
+   "tilt": 0.004999999999997453,
+   "rms": 0.17209897023382922,
+   "n": 24,
+   "width": 5.0,
+   "extent": [
+    680.0,
+    703.0
+   ],
+   "length_from_centre": 32
+  },
+  "20": {
+   "u": 680.7732051097717,
+   "v": 2664.93690122435,
+   "tilt": -0.03112648221342121,
+   "rms": 0.5161821157578952,
+   "n": 23,
+   "width": 5.0,
+   "extent": [
+    688.0,
+    710.0
+   ],
+   "length_from_centre": 31
+  },
+  "15": {
+   "u": 688.0727708455879,
+   "v": 3109.500000000001,
+   "tilt": -5.20234095311922e-15,
+   "rms": 9.094947017729282e-13,
+   "n": 24,
+   "width": 6.0,
+   "extent": [
+    695.0,
+    718.0
+   ],
+   "length_from_centre": 32
+  },
+  "10": {
+   "u": 695.3508849372303,
+   "v": 3552.7566362061116,
+   "tilt": 0.006521739130444041,
+   "rms": 0.4820134401878726,
+   "n": 24,
+   "width": 6.0,
+   "extent": [
+    702.0,
+    725.0
+   ],
+   "length_from_centre": 32
+  }
+ },
+ "tick_convention": "x ticks: u = c + tilt*v (tilt du/dv); y ticks: v = c + tilt*u (tilt dv/du); u, v: anchor on the frame centre line",
+ "anchors": [
+  {
+   "x_value": 0,
+   "y_value": 5,
+   "u": 702.66,
+   "v": 3997.65,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": 5,
+   "u": 2833.02,
+   "v": 3966.81,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 0,
+   "y_value": 40,
+   "u": 651.47,
+   "v": 880.31,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": 40,
+   "u": 2778.48,
+   "v": 850.65,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 2,
+   "y_value": 5,
+   "u": 1056.78,
+   "v": 3992.52,
+   "x_source": "tick measured on its ink (24 rows/cols, tilt +0.0517, rms 0.28 px)",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 4,
+   "y_value": 5,
+   "u": 1410.65,
+   "v": 3987.4,
+   "x_source": "tick measured on its ink (27 rows/cols, tilt +0.0104, rms 0.16 px)",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 6,
+   "y_value": 5,
+   "u": 1769.12,
+   "v": 3982.21,
+   "x_source": "tick measured on its ink (28 rows/cols, tilt +0.0402, rms 0.29 px)",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 8,
+   "y_value": 5,
+   "u": 2125.5,
+   "v": 3977.05,
+   "x_source": "tick measured on its ink (28 rows/cols, tilt -0.0000, rms 0.00 px)",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 10,
+   "y_value": 5,
+   "u": 2482.15,
+   "v": 3971.89,
+   "x_source": "tick measured on its ink (30 rows/cols, tilt +0.0231, rms 0.27 px)",
+   "y_source": "frame line (bottom), fitted to its ink every 5 px, rms 0.54 px"
+  },
+  {
+   "x_value": 0,
+   "y_value": 35,
+   "u": 658.82,
+   "v": 1327.66,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (23 rows/cols, tilt +0.0316, rms 0.14 px)"
+  },
+  {
+   "x_value": 0,
+   "y_value": 30,
+   "u": 666.18,
+   "v": 1776.37,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (23 rows/cols, tilt +0.0168, rms 0.36 px)"
+  },
+  {
+   "x_value": 0,
+   "y_value": 25,
+   "u": 673.48,
+   "v": 2220.93,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (24 rows/cols, tilt +0.0050, rms 0.17 px)"
+  },
+  {
+   "x_value": 0,
+   "y_value": 20,
+   "u": 680.77,
+   "v": 2664.94,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (23 rows/cols, tilt -0.0311, rms 0.52 px)"
+  },
+  {
+   "x_value": 0,
+   "y_value": 15,
+   "u": 688.07,
+   "v": 3109.5,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (24 rows/cols, tilt -0.0000, rms 0.00 px)"
+  },
+  {
+   "x_value": 0,
+   "y_value": 10,
+   "u": 695.35,
+   "v": 3552.76,
+   "x_source": "frame line (left), fitted to its ink every 5 px, rms 0.83 px",
+   "y_source": "tick measured on its ink (24 rows/cols, tilt +0.0065, rms 0.48 px)"
+  },
+  {
+   "x_value": 12,
+   "y_value": "",
+   "u": 2787.57,
+   "v": 1370.01,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 40,
+   "u": 1005.97,
+   "v": 875.36,
+   "x_source": "",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": "",
+   "u": 2796.66,
+   "v": 1889.37,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 40,
+   "u": 1360.47,
+   "v": 870.42,
+   "x_source": "",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": "",
+   "u": 2805.75,
+   "v": 2408.73,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 40,
+   "u": 1714.97,
+   "v": 865.48,
+   "x_source": "",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": "",
+   "u": 2814.84,
+   "v": 2928.09,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 40,
+   "u": 2069.47,
+   "v": 860.53,
+   "x_source": "",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  },
+  {
+   "x_value": 12,
+   "y_value": "",
+   "u": 2823.93,
+   "v": 3447.45,
+   "x_source": "frame line (right), fitted to its ink every 5 px, rms 0.75 px",
+   "y_source": ""
+  },
+  {
+   "x_value": "",
+   "y_value": 40,
+   "u": 2423.97,
+   "v": 855.59,
+   "x_source": "",
+   "y_source": "frame line (top), fitted to its ink every 5 px, rms 0.57 px"
+  }
+ ]
+}

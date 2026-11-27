@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-15,1,lsm-dense,marker,1,739.0,3595.33,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 31 px. Fit touches right base.,173.846,421.407,23.055,28.354,piecewise
+FC-15,1,lsm-dense,marker,2,907.0,3480.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. ,745.707,803.112,8.961,19.437,piecewise
+FC-15,1,lsm-dense,marker,3,1204.0,3303.0,2.0,5.333,triangle-up,Reconstructed triangle centroid; outer height about 32 px. ,1764.997,1395.322,9.945,19.97,piecewise
+FC-15,1,lsm-dense,marker,4,1372.0,2934.33,2.0,5.667,triangle-up,Reconstructed triangle centroid; outer height about 34 px. ,2352.04,2643.511,9.983,21.556,piecewise
+FC-15,1,lsm-dense,marker,5,1539.0,2815.67,6.0,8.0,triangle-up,Reconstructed triangle centroid; outer height about 30 px. Base overlaps horizontal grid line.,2931.05,3045.664,23.261,29.952,piecewise
+FC-15,1,lsm-dense,marker,6,1799.0,2800.67,2.0,5.5,triangle-up,Reconstructed triangle centroid; outer height about 33 px. ,3821.844,3094.818,10.63,21.269,piecewise
+FC-15,1,lsm-dense,marker,7,1967.0,2410.67,2.0,5.0,triangle-up,Reconstructed triangle centroid; outer height about 30 px. ,4408.417,4440.792,10.194,19.314,piecewise
+FC-15,1,lsm-dense,marker,8,2053.0,2517.67,2.0,5.5,triangle-up,Reconstructed triangle centroid; outer height about 33 px. ,4699.033,4067.8,9.703,20.921,piecewise
+FC-15,1,lsm-dense,trace,1,688.105,3671.5,5.5,5.5,,first point; fit meets x=0 axis,0.001,168.679,21.53,20.032,piecewise extrapolated x
+FC-15,1,lsm-dense,trace,2,834.92,3542.866,5.623,5.623,,Normal stress sampling target 500 psf; local diagonal ink center.,499.999,594.769,21.464,20.444,piecewise
+FC-15,1,lsm-dense,trace,3,981.539,3413.134,5.248,5.248,,Normal stress sampling target 1000 psf; local diagonal ink center.,1000.001,1025.22,19.987,19.53,piecewise
+FC-15,1,lsm-dense,trace,4,1126.559,3285.468,5.248,5.248,,Normal stress sampling target 1500 psf; local diagonal ink center.,1499.999,1455.519,20.711,19.749,piecewise
+FC-15,1,lsm-dense,trace,5,1271.506,3157.504,4.873,4.873,,Normal stress sampling target 2000 psf; local diagonal ink center.,1999.999,1886.883,20.186,18.694,piecewise
+FC-15,1,lsm-dense,trace,6,1415.655,3029.335,5.248,5.248,,Normal stress sampling target 2500 psf; local diagonal ink center.,2499.999,2320.285,21.021,20.132,piecewise
+FC-15,1,lsm-dense,trace,7,1559.697,2901.681,4.873,4.873,,Normal stress sampling target 3000 psf; local diagonal ink center.,3000.0,2752.569,19.206,18.904,piecewise
+FC-15,1,lsm-dense,trace,8,1704.732,2773.825,5.248,5.248,,Normal stress sampling target 3500 psf; local diagonal ink center.,3499.999,3188.181,21.218,20.372,piecewise
+FC-15,1,lsm-dense,trace,9,1849.658,2645.046,5.248,5.248,,Normal stress sampling target 4000 psf; local diagonal ink center.,4000.002,3630.329,21.992,20.093,piecewise
+FC-15,1,lsm-dense,trace,10,1994.768,2516.662,5.623,5.623,,Normal stress sampling target 4500 psf; local diagonal ink center.,4500.0,4071.855,22.459,21.384,piecewise
+FC-15,1,lsm-dense,trace,11,2064.0,2457.0,5.5,5.5,,last point; maximum of trace,4738.59,4278.733,21.622,21.029,piecewise
+FC-15,1,lsm-dense,feature,1,688.105,3671.5,5.5,5.5,,first point,0.001,168.679,21.53,20.032,piecewise extrapolated x
+FC-15,1,lsm-dense,feature,2,2064.0,2457.0,5.5,5.5,,last point; maximum of trace,4738.59,4278.733,21.622,21.029,piecewise
+FC-15,1,lsm-dense,feature,3,688.105,3671.5,5.5,5.5,,intercept,0.001,168.679,21.53,20.032,piecewise extrapolated x

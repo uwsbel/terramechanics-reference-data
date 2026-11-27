@@ -1,0 +1,15 @@
+figure_id,panel,axis,printed_label,value,label_center_u,label_center_v,fitted_line_at_label_px,offset_px,anchored,check,crop,note
+FA-24,1,y,(none),55,,,v about 1226 (top frame),,no,not anchored,crops/y55.png,"top frame line carries no printed label; it lies 382 px above the 50 line, one interval as on the rest of the grid, so presumably 55, but it is left out of the box and of the map; the curve rises above 50 and is read by extrapolation from the 45 to 50 interval"
+FA-24,1,y,50,50,711,1602,v 1606.2,-4.2,yes,pass,crops/y50.png,"highest labelled line, an interior line (the frame extends one interval above it)"
+FA-24,1,y,45,45,712,1995,v 1992.0,3.0,yes,pass,crops/y45.png,label centred on the interior line
+FA-24,1,y,40,40,712,2388,v 2379.8,8.2,yes,pass,crops/y40.png,label sits a little low but within its own height of the line (label spans v 2369 to 2407)
+FA-24,1,y,35,35,705,2764,v 2763.4,0.1,yes,pass,crops/y35.png,label centred on the interior line
+FA-24,1,y,30,30,712,3145,v 3144.6,-0.1,yes,pass,crops/y30.png,label centred on the interior line
+FA-24,1,y,(none),25,,,v about 3531 (bottom frame),,no,not anchored,crops/y25.png,bottom frame line carries no printed label; left out of the box and of the map
+FA-24,1,y,(dotted leader),,,2187,,,no,not a label,crops/y42.png,"a dotted leader from the axis title towards the frame at v 2187 carries no number; print artefact, not a grid value"
+FA-24,1,x,0,0,795,3600,u 785.7 (left frame),9.3,yes,pass,crops/x0.png,"label printed 9 px right of the left frame line it labels; no other line within 300 px"
+FA-24,1,x,0.2,0.2,1092,3600,u 1092.7,-0.2,yes,pass,crops/x02.png,"decimal point under the line; a dashed rule printed from the 2 towards 0.4 is an artefact"
+FA-24,1,x,0.4,0.4,1400,3600,u 1400.6,-1.1,yes,pass,crops/x04.png,decimal point under the line
+FA-24,1,x,0.6,0.6,1710,3600,u 1707.1,2.9,yes,pass,crops/x06.png,decimal point under the line
+FA-24,1,x,0.8,0.8,2031,3600,u 2024.0,6.8,yes,pass,crops/x08.png,decimal point a few px right of the line
+FA-24,1,x,1.0,1.0,2341,3600,u 2331.9,9.1,yes,pass,crops/x10.png,label printed 9 px right of the right frame line it labels

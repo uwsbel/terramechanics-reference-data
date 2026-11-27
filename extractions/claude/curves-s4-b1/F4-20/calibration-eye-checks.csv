@@ -1,0 +1,18 @@
+figure_id,panel,axis,label_printed,label_center_u,label_center_v,line_value,line_position_px,line_position_where,label_minus_line_px,check,note
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",600,440,3885,600,433.4,u at the frame (v 3810),6.6,ok,label centred under this line; next lines 154 px away; the left frame line carries 600
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",500,738.5,3885,500,741.2,u at the frame (v 3810),-2.7,ok,label centred under this line; next lines 154 px away
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",400,1046,3885,400,1047.7,u at the frame (v 3810),-1.7,ok,label centred under this line; next lines 154 px away
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",300,1356,3885,300,1358.7,u at the frame (v 3810),-2.7,ok,label centred under this line; next lines 154 px away
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",200,1663,3885,200,1666.8,u at the frame (v 3810),-3.8,ok,label centred under this line; next lines 154 px away
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",100,1970,3885,100,1975.7,u at the frame (v 3810),-5.7,ok,label centred under this line; next lines 154 px away
+F4-20,1,"y (vertical force, lb; vertical lines on the page)",0,2278,3885,0,2285.4,u at the frame (v 3810),-7.4,ok,label centred under this line; next lines 154 px away; the right frame line carries 0
+F4-20,1,"x (displacement, in; horizontal lines on the page)",4.5,2330,1012,4.5,1006.9,v at the frame (u 2285),5.1,ok,label beside this line; next lines 310 px away; the top frame line carries 4.5
+F4-20,1,"x (displacement, in; horizontal lines on the page)",4.0,2330,1325,4.0,1320.0,v at the frame (u 2285),5.0,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",3.5,2330,1637,3.5,1630.4,v at the frame (u 2285),6.6,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",3.0,2330,1948,3.0,1941.4,v at the frame (u 2285),6.6,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",2.5,2330,2258,2.5,2250.6,v at the frame (u 2285),7.4,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",2.0,2330,2557,2.0,2561.4,v at the frame (u 2285),-4.4,ok,"label beside this line; next lines 310 px away; printed with the decimal point low (reads like 2,0)"
+F4-20,1,"x (displacement, in; horizontal lines on the page)",1.5,2330,2865,1.5,2870.2,v at the frame (u 2285),-5.2,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",1.0,2330,3180,1.0,3179.4,v at the frame (u 2285),0.6,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",0.5,2330,3487,0.5,3490.2,v at the frame (u 2285),-3.2,ok,label beside this line; next lines 310 px away
+F4-20,1,"x (displacement, in; horizontal lines on the page)",0,2328,3803,0.0,3800.2,v at the frame (u 2285),2.8,ok,"label beside this line; next lines 310 px away; the bottom frame line carries 0 (the force label 0 sits below the corner, the displacement label 0 beside it)"

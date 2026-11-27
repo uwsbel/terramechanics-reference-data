@@ -1,0 +1,78 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,target_x_in,x_native,y_native,x_read_bound,y_read_bound,cal_model
+F2-46,1,lpt98,trace,1,603.0,3391.0,8.0,8.0,,first; visible trace ink start; starts against penetration-zero frame above load zero,0,0.004489,14.8471,0.027539,2.7167,piecewise extrapolated x
+F2-46,1,lpt98,feature,2,603.0,3391.0,8.0,8.0,,first; visible trace ink start; starts against penetration-zero frame above load zero,,0.004489,14.8471,0.027539,2.7167,piecewise extrapolated x
+F2-46,1,lpt98,feature,3,624.96,3352.26,3.88,3.88,,knee; initial steepening; measured normal half-width 3.88 px,0.11,0.075371,27.1103,0.014152,1.4231,piecewise
+F2-46,1,lpt98,trace,4,667.54,3220.23,3.38,3.38,,target penetration 0.25 in; measured normal half-width 3.38 px,0.25,0.212742,68.8551,0.012537,1.3149,piecewise
+F2-46,1,lpt98,feature,5,706.47,3146.49,3.5,3.5,,knee; end of initial steep rise; measured normal half-width 3.50 px,0.37,0.338401,92.1905,0.012925,1.3812,piecewise
+F2-46,1,lpt98,trace,6,748.8,3101.72,4.38,4.38,,target penetration 0.50 in; measured normal half-width 4.38 px,0.5,0.47508,106.486,0.015768,1.692,piecewise
+F2-46,1,lpt98,feature,7,807.09,3051.03,5.0,5.0,,knee; rounding into lower slope; measured normal half-width 5.00 px,0.67,0.663308,122.8247,0.017772,1.8826,piecewise
+F2-46,1,lpt98,trace,8,832.82,3038.52,3.88,3.88,,target penetration 0.75 in; measured normal half-width 3.88 px,0.75,0.746407,126.8722,0.014152,1.5193,piecewise
+F2-46,1,lpt98,trace,9,917.96,2989.51,3.5,3.5,,"target penetration 1.00 in; measured normal half-width 3.50 px; close to grid crossing, shifted to distinguish trace ink",1.0,1.021974,142.7033,0.013299,1.3879,piecewise
+F2-46,1,lpt98,trace,10,987.12,2947.93,4.25,4.25,,target penetration 1.25 in; measured normal half-width 4.25 px,1.25,1.251599,156.1259,0.015868,1.6218,piecewise
+F2-46,1,lpt98,feature,11,1023.36,2927.05,3.12,3.12,,knee; small recorder shoulder; measured normal half-width 3.12 px,1.36,1.37192,162.8668,0.012152,1.2541,piecewise
+F2-46,1,lpt98,trace,12,1065.26,2896.75,3.25,3.25,,target penetration 1.50 in; measured normal half-width 3.25 px,1.5,1.511019,172.6332,0.01263,1.2905,piecewise
+F2-46,1,lpt98,feature,13,1088.09,2875.46,3.5,3.5,,knee; end of shoulder; measured normal half-width 3.50 px,1.58,1.586801,179.486,0.013486,1.3671,piecewise
+F2-46,1,lpt98,trace,14,1136.05,2842.53,3.5,3.5,,target penetration 1.75 in; measured normal half-width 3.50 px,1.75,1.746011,190.1001,0.013539,1.3611,piecewise
+F2-46,1,lpt98,trace,15,1218.35,2789.55,3.88,3.88,,"target penetration 2.00 in; measured normal half-width 3.88 px; close to grid crossing, shifted to distinguish trace ink",2.0,2.018548,207.1737,0.014369,1.4736,piecewise
+F2-46,1,lpt98,trace,16,1291.97,2725.56,3.75,3.75,,target penetration 2.25 in; measured normal half-width 3.75 px,2.25,2.254488,227.7522,0.013876,1.4234,piecewise
+F2-46,1,lpt98,trace,17,1368.59,2651.11,3.12,3.12,,target penetration 2.50 in; measured normal half-width 3.12 px,2.5,2.499978,251.6814,0.011776,1.211,piecewise
+F2-46,1,lpt98,trace,18,1446.98,2577.93,2.12,2.12,,target penetration 2.75 in; measured normal half-width 2.12 px,2.75,2.751093,275.2037,0.008487,0.88,piecewise
+F2-46,1,lpt98,trace,19,1526.1,2502.52,6.75,6.75,,"target penetration 3.00 in; measured normal half-width 6.75 px; close to grid crossing, shifted to distinguish trace ink",3.0,3.004543,299.4384,0.023537,2.3602,piecewise
+F2-46,1,lpt98,trace,20,1601.67,2439.01,3.38,3.38,,target penetration 3.25 in; measured normal half-width 3.38 px,3.25,3.249446,319.899,0.012596,1.2718,piecewise
+F2-46,1,lpt98,feature,21,1623.11,2420.2,3.62,3.62,,knee; steepening; measured normal half-width 3.62 px,3.32,3.318919,325.9587,0.013375,1.3474,piecewise
+F2-46,1,lpt98,trace,22,1675.58,2361.48,3.0,3.0,,target penetration 3.50 in; measured normal half-width 3.00 px,3.5,3.488882,344.8597,0.011362,1.1425,piecewise
+F2-46,1,lpt98,feature,23,1726.52,2298.9,2.62,2.62,,knee; end of steeper segment; measured normal half-width 2.62 px,3.67,3.653849,364.9992,0.010128,1.0144,piecewise
+F2-46,1,lpt98,trace,24,1751.84,2264.76,4.38,4.38,,target penetration 3.75 in; measured normal half-width 4.38 px,3.75,3.735827,375.9839,0.015842,1.5784,piecewise
+F2-46,1,lpt98,trace,25,1835.95,2172.71,5.88,5.88,,"target penetration 4.00 in; measured normal half-width 5.88 px; close to grid crossing, shifted to distinguish trace ink",4.0,4.008323,405.6449,0.021044,2.0623,piecewise
+F2-46,1,lpt98,feature,26,1909.0,2103.77,3.38,3.38,,knee; start of steep recorder rise; measured normal half-width 3.38 px,4.24,4.24858,427.9342,0.012853,1.2551,piecewise
+F2-46,1,lpt98,trace,27,1912.79,2101.03,2.38,2.38,,target penetration 4.25 in; measured normal half-width 2.38 px,4.25,4.261047,428.8211,0.009557,0.932,piecewise
+F2-46,1,lpt98,feature,28,1951.46,2048.85,4.0,4.0,,knee; end of steep rise; measured normal half-width 4.00 px,4.38,4.388116,445.6677,0.014929,1.4563,piecewise
+F2-46,1,lpt98,trace,29,1985.98,2007.48,3.0,3.0,,target penetration 4.50 in; measured normal half-width 3.00 px,4.5,4.501549,459.0271,0.011656,1.1338,piecewise
+F2-46,1,lpt98,feature,30,2027.67,1979.05,3.75,3.75,,knee; renewed steep rise; measured normal half-width 3.75 px,4.63,4.638636,468.2277,0.014162,1.3765,piecewise
+F2-46,1,lpt98,trace,31,2069.51,1931.18,2.62,2.62,,target penetration 4.75 in; measured normal half-width 2.62 px,4.75,4.776081,483.6844,0.010465,1.0122,piecewise
+F2-46,1,lpt98,trace,32,2132.16,1834.94,3.25,3.25,,"target penetration 5.00 in; measured normal half-width 3.25 px; close to grid crossing, shifted to distinguish trace ink",5.0,4.981665,514.5733,0.012589,1.2277,piecewise
+F2-46,1,lpt98,feature,33,2175.0,1810.0,4.0,4.0,,knee; lower end of abrupt recorder step; measured normal half-width 5.75 px,5.08,5.120538,522.5605,0.014802,1.4798,piecewise
+F2-46,1,lpt98,feature,34,2186.0,1770.0,4.0,4.0,,knee; upper end of step; measured normal half-width 3.38 px,5.16,5.155921,535.3088,0.014797,1.4993,piecewise
+F2-46,1,lpt98,trace,35,2213.58,1750.08,3.25,3.25,,target penetration 5.25 in; measured normal half-width 3.25 px,5.25,5.245138,541.6802,0.012344,1.2691,piecewise
+F2-46,1,lpt98,trace,36,2282.52,1684.85,2.5,2.5,,target penetration 5.50 in; measured normal half-width 2.50 px,5.5,5.468114,562.5195,0.009866,1.0609,piecewise
+F2-46,1,lpt98,feature,37,2295.55,1665.62,2.38,2.38,,knee; start of small load drop; measured normal half-width 2.38 px,5.54,5.510233,568.655,0.009468,1.0319,piecewise
+F2-46,1,lpt98,feature,38,2317.5,1647.53,10.5,10.5,,knee; end of small drop; measured normal half-width 10.50 px,5.59,5.581264,574.4362,0.03581,3.6379,piecewise
+F2-46,1,lpt98,feature,39,2358.57,1577.05,2.38,2.38,,knee; end of steep rise near 600 lb; measured normal half-width 2.38 px,5.72,5.714025,596.9144,0.009428,1.0751,piecewise
+F2-46,1,lpt98,trace,40,2360.06,1568.68,8.12,8.12,,"target penetration 5.75 in; measured normal half-width 8.12 px; close to grid crossing, shifted to distinguish trace ink",5.75,5.718817,599.5804,0.02806,2.9231,piecewise extrapolated y
+F2-46,1,lpt98,trace,41,2443.31,1497.17,9.62,9.62,,"target penetration 6.00 in; measured normal half-width 9.62 px; close to grid crossing, shifted to distinguish trace ink",6.0,5.988363,622.4236,0.032939,3.5147,piecewise extrapolated x y
+F2-46,1,lpt98,trace,42,2439.0,1494.0,6.0,6.0,,"last; last visible trace ink; meets plot frame, endpoint bound widened",,5.97438,623.4286,0.021127,2.3583,piecewise extrapolated y
+F2-46,1,lpt98,feature,43,2439.0,1494.0,6.0,6.0,,"last; last visible trace ink; meets plot frame, endpoint bound widened",,5.97438,623.4286,0.021127,2.3583,piecewise extrapolated y
+F2-46,1,lpt98,feature,44,2439.0,1494.0,6.0,6.0,,peak; maximum visible load; coincides with last ink endpoint,,5.97438,623.4286,0.021127,2.3583,piecewise extrapolated y
+F2-46,1,lpt89,trace,1,614.0,3419.0,11.0,11.0,,first; visible trace ink start; first visible dot just inside zero frame; origin hidden by frame; half dot/dash repeat spacing included,0,0.040053,6.0234,0.037158,3.6588,piecewise
+F2-46,1,lpt89,feature,2,614.0,3419.0,11.0,11.0,,first; visible trace ink start; first visible dot just inside zero frame; origin hidden by frame; half dot/dash repeat spacing included,,0.040053,6.0234,0.037158,3.6588,piecewise
+F2-46,1,lpt89,trace,3,676.21,3348.09,10.15,10.09,,target penetration 0.25 in; measured normal half-width 5.62 px; on dot ink; half repeat spacing 8.69 px,0.25,0.240901,28.5022,0.034411,3.3969,piecewise
+F2-46,1,lpt89,trace,4,748.89,3278.96,9.64,9.09,,target penetration 0.50 in; measured normal half-width 4.75 px; on dot ink; half repeat spacing 8.56 px,0.5,0.475574,50.4324,0.032763,3.1064,piecewise
+F2-46,1,lpt89,feature,5,793.38,3251.39,9.42,7.88,,knee; initial rounding; measured normal half-width 3.62 px; on dot/dash ink; half repeat spacing 8.88 px,0.6,0.619247,59.2003,0.032051,2.7341,piecewise
+F2-46,1,lpt89,trace,6,840.23,3228.59,9.2,7.01,,target penetration 0.75 in; measured normal half-width 3.38 px; on dot ink; half repeat spacing 8.62 px,0.75,0.770549,66.4653,0.031339,2.4675,piecewise
+F2-46,1,lpt89,trace,7,917.12,3193.04,9.92,8.11,,"target penetration 1.00 in; measured normal half-width 5.00 px; on dot ink; half repeat spacing 8.62 px; close to grid crossing, shifted to distinguish trace ink",1.0,1.019403,77.7976,0.034635,2.8297,piecewise
+F2-46,1,lpt89,trace,8,981.97,3163.1,9.78,7.91,,target penetration 1.25 in; measured normal half-width 4.50 px; on dot ink; half repeat spacing 8.69 px,1.25,1.234758,87.3408,0.034242,2.7777,piecewise
+F2-46,1,lpt89,trace,9,1060.14,3123.78,9.96,8.48,,"target penetration 1.50 in; measured normal half-width 4.88 px; on dot ink; half repeat spacing 8.69 px; close to grid crossing, shifted to distinguish trace ink",1.5,1.494331,99.8626,0.034927,3.012,piecewise
+F2-46,1,lpt89,feature,10,1074.19,3119.48,10.79,10.33,,knee; gradual steepening; measured normal half-width 7.00 px; on dot/dash ink; half repeat spacing 8.38 px,1.53,1.540988,101.2589,0.037703,3.607,piecewise
+F2-46,1,lpt89,trace,11,1134.12,3080.23,9.94,8.64,,target penetration 1.75 in; measured normal half-width 4.75 px; on dot ink; half repeat spacing 8.75 px,1.75,1.739968,113.9233,0.034942,3.0604,piecewise
+F2-46,1,lpt89,trace,12,1218.04,3021.98,10.29,9.6,,"target penetration 2.00 in; measured normal half-width 5.62 px; on dot ink; half repeat spacing 8.62 px; close to grid crossing, shifted to distinguish trace ink",2.0,2.017943,132.7057,0.03554,3.3575,piecewise
+F2-46,1,lpt89,feature,13,1234.02,3011.81,8.83,8.05,,knee; end of gradual steepening; measured normal half-width 3.25 px; on dot/dash ink; half repeat spacing 8.75 px,2.08,2.069184,135.9861,0.030247,2.8566,piecewise
+F2-46,1,lpt89,trace,14,1289.06,2969.61,9.47,8.83,,target penetration 2.25 in; measured normal half-width 4.25 px; on dot ink; half repeat spacing 8.75 px,2.25,2.245646,149.5805,0.032246,3.0995,piecewise
+F2-46,1,lpt89,trace,15,1370.91,2904.01,9.62,9.01,,target penetration 2.50 in; measured normal half-width 4.62 px; on dot ink; half repeat spacing 8.62 px,2.5,2.508016,170.7021,0.032644,3.145,piecewise
+F2-46,1,lpt89,trace,16,1451.19,2837.87,9.32,8.6,,target penetration 2.75 in; measured normal half-width 4.12 px; on dot ink; half repeat spacing 8.62 px,2.75,2.765302,191.9874,0.031599,3.0007,piecewise
+F2-46,1,lpt89,trace,17,1531.16,2771.38,9.82,9.23,,"target penetration 3.00 in; measured normal half-width 5.00 px; on dot ink; half repeat spacing 8.56 px; close to grid crossing, shifted to distinguish trace ink",3.0,3.021798,213.3744,0.033512,3.1914,piecewise
+F2-46,1,lpt89,trace,18,1599.22,2717.75,9.79,9.16,,target penetration 3.25 in; measured normal half-width 4.88 px; on dot ink; half repeat spacing 8.62 px,3.25,3.242437,230.6255,0.033415,3.1618,piecewise
+F2-46,1,lpt89,trace,19,1681.21,2653.58,9.8,9.17,,target penetration 3.50 in; measured normal half-width 4.75 px; on dot ink; half repeat spacing 8.75 px,3.5,3.508204,251.2656,0.033448,3.1564,piecewise
+F2-46,1,lpt89,trace,20,1764.54,2589.65,7.4,6.31,,target penetration 3.75 in; measured normal half-width 1.25 px; on dot ink; half repeat spacing 8.50 px,3.75,3.778283,271.8284,0.025651,2.2291,piecewise
+F2-46,1,lpt89,trace,21,1845.18,2527.18,9.43,8.85,,target penetration 4.00 in; measured normal half-width 4.62 px; on dot ink; half repeat spacing 8.38 px,4.0,4.04025,291.9185,0.032788,3.0365,piecewise
+F2-46,1,lpt89,trace,22,1914.3,2473.03,9.73,9.15,,target penetration 4.25 in; measured normal half-width 4.88 px; on dot ink; half repeat spacing 8.56 px,4.25,4.267827,309.355,0.033831,3.1347,piecewise
+F2-46,1,lpt89,trace,23,1993.43,2408.06,9.63,8.99,,target penetration 4.50 in; measured normal half-width 4.62 px; on dot ink; half repeat spacing 8.62 px,4.5,4.528272,330.2985,0.03356,3.0777,piecewise
+F2-46,1,lpt89,trace,24,2061.08,2352.55,9.62,8.91,,target penetration 4.75 in; measured normal half-width 4.38 px; on dot ink; half repeat spacing 8.81 px,4.75,4.750869,348.1953,0.033578,3.0473,piecewise
+F2-46,1,lpt89,trace,25,2139.45,2282.89,12.17,12.14,,"target penetration 5.00 in; measured normal half-width 8.50 px; on dot ink; half repeat spacing 8.75 px; close to grid crossing, shifted to distinguish trace ink",5.0,5.00847,370.6497,0.041882,4.0816,piecewise
+F2-46,1,lpt89,feature,26,2166.31,2261.99,9.29,8.88,,knee; slight increase of slope; measured normal half-width 4.12 px; on dot/dash ink; half repeat spacing 8.75 px,5.08,5.095212,377.3915,0.031933,3.0296,piecewise
+F2-46,1,lpt89,trace,27,2217.57,2216.46,9.79,9.44,,target penetration 5.25 in; measured normal half-width 4.88 px; on dot ink; half repeat spacing 8.75 px,5.25,5.260749,392.0705,0.033521,3.2062,piecewise
+F2-46,1,lpt89,trace,28,2295.36,2146.09,9.45,9.08,,target penetration 5.50 in; measured normal half-width 4.50 px; on dot ink; half repeat spacing 8.62 px,5.5,5.512036,414.7927,0.032369,3.0952,piecewise
+F2-46,1,lpt89,trace,29,2371.88,2075.45,9.62,9.25,,target penetration 5.75 in; measured normal half-width 4.62 px; on dot ink; half repeat spacing 8.75 px,5.75,5.759315,437.6135,0.032871,3.1506,piecewise
+F2-46,1,lpt89,trace,30,2436.5,2017.0,9,9,,target penetration 6.00 in; last distinct dot before frame; half dot spacing bound,6.0,5.968221,456.4931,0.030821,3.0699,piecewise
+F2-46,1,lpt89,trace,31,2440.0,2012.0,9.0,9.0,,last; last visible trace ink; half dot/dash repeat spacing included,,5.979531,458.1056,0.030843,3.07,piecewise extrapolated x
+F2-46,1,lpt89,feature,32,2440.0,2012.0,9.0,9.0,,last; last visible trace ink; half dot/dash repeat spacing included,,5.979531,458.1056,0.030843,3.07,piecewise extrapolated x
+F2-46,1,lpt89,feature,33,2440.0,2012.0,9.0,9.0,,peak; maximum visible load; coincides with last ink endpoint,,5.979531,458.1056,0.030843,3.07,piecewise extrapolated x

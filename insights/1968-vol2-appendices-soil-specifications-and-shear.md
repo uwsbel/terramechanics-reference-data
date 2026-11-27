@@ -1,0 +1,135 @@
+# Insights from Volume II of the 1968 Bendix report (Appendices A, B and C)
+
+Judgment, caveats and recommendations the authors recorded in the appendices, as distinct from
+the numbers. Each paragraph ends with its citation (AM-68-1 Vol. II, NASA CR-92215, printed page,
+PDF page). Written 2026-10-07 from the two inventory passes over the page images (Claude and
+Codex). All three appendices were transcribed and reconciled by both agents on 2026-10-08
+(`corpus/1968-vol2/pages`, reviews in `qa/pages-vol2-ab-b1` to `b5` and `qa/pages-appc-b1`, `b2`);
+no human audit yet.
+
+## What a simulator user should know about the twelve soils
+
+Three of the sonic moduli in Table 2-3 of Volume I are estimates, not measurements. The modulus of
+soil 5 (RSM-a loose) was not measured and the specification estimates it at 7800 psi "based on data
+for the other soils";
+soil 10 (LSM intermediate) was not measured and is estimated at 4000 psi from the LSM value at
+Dr 0.77 (5000 to 6000 psi); soil 12 (RSM-b dense) was not determined and is estimated at about
+20,000 psi. Table 2-3 prints all three as if measured. (A-41, PDF 42; A-79, PDF 80; A-93, PDF 94.)
+
+Loose and dense LSM gave essentially the same friction angle, 40 to 45 degrees, because the loose
+specimen densified under the normal load before it was sheared; the authors could not draw a phi
+versus Dr curve for LSM and give a band instead, "the estimated range for Dr .40 to 1.00". The
+dilation panels of the LSM data sheets show contraction of 270 thousandths of an inch that is
+nearly constant with shear displacement, which is the compression under the normal load, not a
+shear response. A model that sets strength from the as-placed density will misread LSM. (A-79,
+PDF 80; A-88, PDF 89; Figure C-6B, printed C-18, PDF 132; Figure C-21, printed C-43, PDF 157.)
+
+The wide range and confidence limits of RC2 (soil 6) come from segregation of particle sizes within
+and between beds, not from degradation: RC2 was shoveled, not vacuumed, so it did not break down,
+but a broadly graded crushed cinder separates as it is handled. The average grain-size curve
+combines used and unused soil. (A-49, PDF 50.)
+
+The materials susceptible to breakdown under handling were the cinder soils (RS, PS, RSM-a and
+RSM-b); the silica sand was not altered by degradation or vacuum handling; RC2 and LSM were shoveled.
+Each specification states the placement procedure (hopper, number of roller passes per layer),
+which is the only record of how the beds were built: soil 3 two roller passes, soil 4 sixteen,
+soil 8 eight, soil 9 twenty-four, soil 12 ten per two inch layer; soils 10 and 11 were "rolled two
+times (one pass back and forth)" and "six times (three passes back and forth)". The sheets that
+count passes never say whether a pass is one direction or a round trip, so the number of times
+the roller crossed a layer is uncertain by a factor of 2 for soils 3, 4, 8, 9 and 12. (A-24,
+PDF 25; A-32, PDF 33; A-63, PDF 64; A-70, PDF 71; A-79, PDF 80; A-88, PDF 89; A-93, PDF 94.)
+
+Every specification value, with its page, is in `data/materials/specifications.csv`, and the
+generated `qa/specifications/table23-vs-appendix-a.md` sets each Table 2-3 value beside it: 26
+cells differ. The Table 2-3 unit weights reproduce the stated relative densities on the
+specification density charts within 0.04, except loose SS, whose 94.7 pcf lies below the chart's
+minimum density and gives Dr -0.05 (Claude's arithmetic with Vol. I equation 2-2).
+
+The mixtures are specified by weight: LSM is RC2 cinders and a kaolin-type clay 1:1, RSM-a is
+cinders and crushed marble 5:7, and RSM-b is cinders and crushed marble 1:3. RSM-a and RSM-b are
+therefore different materials, not two densities of one material. (A-34, PDF 35; A-73, PDF 74;
+A-82, PDF 83; A-90, PDF 91.)
+
+The specification text and Table 2-3 disagree on two friction angles: the text gives about 38.3
+degrees for soil 11 and about 37 for soil 12, the table 42 and 48; the Appendix A and C curves
+support the table for soil 12 (about 50 at Dr 1.0) and the discrepancy for soil 11 is unexplained.
+Soil 12's placement is also printed differently in the two volumes (10 roller passes per two inch
+layer in A-93; twenty-four rolls in Volume I printed 2-113). (A-84, PDF 85; A-93, PDF 94.)
+
+The transcription of soils 1 to 6 found more disagreements with Table 2-3. The text gives about
+43.9 degrees for soil 3 and 47.9 for soil 4, the table 44.5 and 47.3. Table 2-3 prints one
+gradation (mean size 1.8 mm, uniformity 1.7, coarseness 2.7 mm) for all four RS and PS rows, while
+the Appendix A grain size charts give RS a mean size of 2.2 mm and coarseness of 2.8 mm, and PS a
+uniformity of 1.6. For RC2 the chart prints an average uniformity of "2 5" (range 15-25) and
+coarseness of 5.0 mm, the table 17.0 and 4.7 mm. Which source is right is not settled by the pages;
+the measured curves themselves (step 3b) can check it. A user setting up a bed from Table 2-3
+should know the table and the specifications differ. (A-6, PDF 7; A-13, PDF 14; A-20, PDF 21;
+A-28, PDF 29; A-46, PDF 47; Vol. I Table 2-3, printed 2-16, PDF 41;
+`qa/pages-vol2-ab-b2/review.md`.)
+
+The silica sand follows the same pattern. The text gives about 29.8 degrees for soil 7, the table
+29. The three SS grain size charts give a uniformity of 1.5 and a coarseness of 0.6 mm (range
+0.58-0.62), the table 1.3 and 0.52 mm. The table's unit weight for loose SS, 94.7 pcf, is below
+every minimum density on the SS density chart (95.0 to 95.8 pcf). (A-52, PDF 53; A-53, PDF 54;
+A-54, PDF 55; `qa/pages-vol2-ab-b3/review.md`.)
+
+## What the shear data are
+
+Appendix C holds 85 single direct shear tests on 15 soil-and-density series, as data sheets of
+shear stress and dilation versus shear displacement with the normal stress and unit weight of
+each test in the legend, plus hand-drawn and computer-fitted failure envelopes. Only one of the
+15 series (RS at Dr .50 to .57, Figure C-1B) appears in Volume I (Figure 2-21). The computer fits
+print "Avg. Density", "Angle of Friction", "Tan Theta" and "Cohesion", and several of the
+cohesion intercepts are large (700 psf for dense RS) or negative (LSM loose), which says the
+linear fit is being forced through data that are not linear in normal stress; the hand-drawn
+envelopes on C-2 to C-21 are the authors' own reading. (C-1, PDF 115; Figures C-8 to C-15,
+printed C-24 to C-37, PDF 138 to 151.)
+
+Three of the SS series (Dr .30, .48 and .77) were not run in this study; they are credited to the
+Bendix interim report MM-65-2 on lunar landing dynamics (as printed on Figure C-5A), which is therefore a source in its own
+right for silica sand strength. The RSM-b tests (Figure C-7) were run on a different apparatus with
+loads in psi and no dilation record. (C-1, PDF 115; Figure C-5A, printed C-15, PDF 129; Figures
+C-7A to C-7C, printed C-21 to C-23, PDF 135 to 137.)
+
+## What the sonic modulus data are
+
+The IITRI measurements (Appendix B) give E = rho c^2 from a stress-wave velocity in a triaxial
+specimen confined by partial vacuum, at confining pressures from 0 to about 10 psi, loose and
+dense, for RS, PS, SS, RC and LSM; there is no RSM measurement. The loose states are Dr 0.30, 0.22,
+0.26 and 0.02, not zero. The report calls the LSM results questionable because of a confining
+pressure gradient in the specimen, and notes that E = rho c^2 neglects the Poisson factor f(nu),
+an error under 10 percent for nu below 0.20. (IITRI report M6175, Figures 3 to 8, PDF 109 to 114.)
+
+The "elastic modulus" of Table 2-3 is therefore a small-strain wave modulus, and IITRI says so
+plainly: moduli from static triaxial tests "will generally differ by an order of magnitude" from
+wave-velocity values, and dynamic stress-strain curves give values that "may differ by as much as
+a factor of 4". The stress wave peaked below 2 psi; loose specimens were poured through a slotted
+funnel and dense ones vibrated. A simulation that takes E from Table 2-3 is using a wave modulus,
+not a static one. Under IITRI's own equation (2), E = rho c^2 f(nu) with f(nu) at most 1, so rho c^2
+is an upper bound on E for the confined case (Claude's reading of the printed equations).
+(Printed 1 to 3, PDF 104 to 106.)
+
+Table 2-3's moduli at Dr 0, 0.45 and 0.80 were not measured at those densities; IITRI tested RS
+only at Dr 0.30 and 0.99. Read by eye at 4 psi, the two RS curves give about 7.7 and 12.5 kips/in.²,
+and a straight line in Dr through them gives 5.6, 8.7 and 11.2 at Dr 0, 0.45 and 0.80, close to the
+table's 5,500, 8,600 and 10,900 psi. The table looks interpolated and extrapolated in Dr from the
+IITRI curves; this is an eye reading by Claude, to be confirmed when the curves are read (roadmap
+step 3b). (Figure 3, printed 6, PDF 109; Vol. I Table 2-3, printed 2-16, PDF 41.)
+
+## A caution on the appendix pages themselves
+
+Two print slips matter to anyone reading the IITRI curves. On Figure 3 (RS) the y tick label
+between 9 and 7 is printed "3" where 8 belongs, so an axis calibration must not use it. On Figure
+5 (SS) the dense label reads "o.84" with a lowercase o for the zero, and the loose label's "0." is
+broken (the value is 0.26). Figure 7 (LSM) includes a specimen at Dr = 1.04, denser than the
+maximum-density test. (Printed 6, 8 and 10, PDF 109, 111 and 113.)
+
+The Appendix A figures are printed four times per material under new figure numbers (soils 1, 3,
+4 share RS; 7, 8, 9 share SS; 10, 11 share LSM), and the "RSM" photomicrograph under soil 12 is the
+soil 5 photograph reused. The Volcalite chemical analysis is reproduced with two different
+typesetting slips (A-72, A-81): one gives calcium oxide the magnesium values and drops magnesium,
+the other gives magnesium oxide the sodium values and drops sodium, and both keep the total 99.25
+that their columns no longer reach. The two printings of the clay analysis differ in iron oxide
+(1.1% on A-72, which matches the 100.0% total; 1.2% on A-81). An agent quoting a value from a specification should quote the
+first printing of that table (A-2, A-10, A-50, A-72 for the clay) and treat the repeats as copies.
+(A-72, PDF 73; A-81, PDF 82; A-91, PDF 92.)

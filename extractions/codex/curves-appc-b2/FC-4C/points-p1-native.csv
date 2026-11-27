@@ -1,0 +1,503 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FC-4C,1,n4695,marker,1,807,1775,2,2,plus,,7.204,4905.254,0.809,27.016
+FC-4C,1,n4695,marker,2,862,1691,2,2,plus,,16.779,5479.991,0.809,27.016
+FC-4C,1,n4695,marker,3,928,1540,2,2,plus,,28.342,6514.013,0.809,27.016
+FC-4C,1,n4695,marker,4,985,1468,10,10,plus,Plus close to circle peak and line crossing.,38.244,7006.385,2.195,82.101
+FC-4C,1,n4695,marker,5,1094,1453,2,2,plus,,57.0,7106.409,0.809,27.016
+FC-4C,1,n4695,marker,6,1188,1547,2,2,plus,,73.019,6459.162,0.809,27.016
+FC-4C,1,n4695,marker,7,1330,1633,7,7,plus,Plus near vertical grid.,97.3,5865.528,1.675,61.444
+FC-4C,1,n4695,marker,8,1448,1688,6,6,plus,Plus is embedded in drawn curve.,117.501,5485.163,1.502,54.558
+FC-4C,1,n4695,marker,9,1628,1741,7,7,plus,Plus close to vertical grid.,148.361,5116.887,1.675,61.444
+FC-4C,1,n4695,marker,10,1743,1747,2,2,plus,,168.117,5072.708,0.809,27.016
+FC-4C,1,n4695,marker,11,1861,1768,2,2,plus,,188.368,4925.56,0.809,27.016
+FC-4C,1,n4695,marker,12,2012,1727,2,2,plus,,214.38,5202.822,0.809,27.016
+FC-4C,1,n4695,marker,13,2226,1744,10,10,plus,Plus overlaps right frame.,251.136,5080.588,2.195,82.101
+FC-4C,1,n4695,trace,1,829,1747.0,1,12,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,11.026,5096.736,0.651,95.583
+FC-4C,1,n4695,trace,2,832,1740.0,1,14.5,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,11.552,5144.673,0.655,112.731
+FC-4C,1,n4695,trace,3,856,1662.0,1,12,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,15.79,5679.069,0.651,95.583
+FC-4C,1,n4695,trace,4,862,1645.0,1,12,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,16.846,5795.519,0.651,95.583
+FC-4C,1,n4695,trace,5,874,1650.5,1,13.0,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,18.9,5757.478,0.653,102.442
+FC-4C,1,n4695,trace,6,886,1623.0,1,12.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,21.003,5945.793,0.652,99.012
+FC-4C,1,n4695,trace,7,904,1581.5,1,12.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,24.157,6229.982,0.651,95.583
+FC-4C,1,n4695,trace,8,910,1569.0,1,11.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,25.206,6315.566,0.65,92.153
+FC-4C,1,n4695,trace,9,931,1520.5,1,3.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,28.886,6647.69,0.638,33.849
+FC-4C,1,n4695,trace,10,946,1501.0,1,10.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,31.493,6781.053,0.649,85.294
+FC-4C,1,n4695,trace,11,955,1486.0,1,10.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,33.061,6883.706,0.649,85.294
+FC-4C,1,n4695,trace,12,1000,1432.5,1,10,,Drawn ink sample; column selected near regular 12 px sampling grid. Adjacent high-stress crest/rising limb ink; widened reading bound.,40.873,7249.496,0.648,81.864
+FC-4C,1,n4695,trace,13,1009,1430.5,1,10,,Drawn ink sample; column selected near regular 12 px sampling grid. Adjacent high-stress crest/rising limb ink; widened reading bound.,42.423,7262.978,0.648,81.864
+FC-4C,1,n4695,trace,14,1018,1427.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,43.974,7283.32,0.642,54.427
+FC-4C,1,n4695,trace,15,1030,1425.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,46.04,7296.723,0.641,47.568
+FC-4C,1,n4695,trace,16,1042,1426.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,48.101,7292.978,0.642,50.997
+FC-4C,1,n4695,trace,17,1063,1436.5,1,3.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,51.695,7220.403,0.638,33.849
+FC-4C,1,n4695,trace,18,1075,1439.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,53.754,7199.509,0.642,54.427
+FC-4C,1,n4695,trace,19,1108,1477.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,59.371,6941.417,0.64,44.138
+FC-4C,1,n4695,trace,20,1114,1477.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,60.401,6937.83,0.645,68.146
+FC-4C,1,n4695,trace,21,1129,1491.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,62.96,6844.835,0.646,71.575
+FC-4C,1,n4695,trace,22,1138,1500.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,64.494,6782.864,0.646,71.575
+FC-4C,1,n4695,trace,23,1150,1510.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,66.541,6710.526,0.645,68.146
+FC-4C,1,n4695,trace,24,1162,1521.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,68.588,6638.188,0.646,71.575
+FC-4C,1,n4695,trace,25,1171,1528.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,70.125,6589.936,0.645,64.716
+FC-4C,1,n4695,trace,26,1210,1560.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,76.781,6369.413,0.643,57.857
+FC-4C,1,n4695,trace,27,1222,1567.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,78.833,6317.652,0.645,68.146
+FC-4C,1,n4695,trace,28,1234,1577.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,80.881,6252.173,0.645,64.716
+FC-4C,1,n4695,trace,29,1246,1585.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,82.932,6196.983,0.645,64.716
+FC-4C,1,n4695,trace,30,1258,1593.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,84.983,6141.793,0.643,57.857
+FC-4C,1,n4695,trace,31,1270,1600.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,87.035,6090.033,0.644,61.286
+FC-4C,1,n4695,trace,32,1297,1618.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,91.65,5969.285,0.645,64.716
+FC-4C,1,n4695,trace,33,1303,1618.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,92.681,5969.127,0.645,64.716
+FC-4C,1,n4695,trace,34,1357,1651.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,101.914,5741.35,0.645,64.716
+FC-4C,1,n4695,trace,35,1366,1654.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,103.456,5717.106,0.644,61.286
+FC-4C,1,n4695,trace,36,1378,1661.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,105.509,5672.205,0.645,64.716
+FC-4C,1,n4695,trace,37,1390,1668.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,107.561,5623.874,0.643,57.857
+FC-4C,1,n4695,trace,38,1402,1672.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,109.618,5596.121,0.645,64.716
+FC-4C,1,n4695,trace,39,1414,1677.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,111.673,5561.509,0.643,57.857
+FC-4C,1,n4695,trace,40,1426,1681.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,113.729,5530.327,0.644,61.286
+FC-4C,1,n4695,trace,41,1465,1696.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,120.411,5429.841,0.645,64.716
+FC-4C,1,n4695,trace,42,1474,1699.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,121.953,5409.027,0.645,64.716
+FC-4C,1,n4695,trace,43,1486,1702.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,124.011,5384.704,0.644,61.286
+FC-4C,1,n4695,trace,44,1498,1705.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,126.069,5363.81,0.644,61.286
+FC-4C,1,n4695,trace,45,1510,1709.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,128.126,5336.058,0.642,54.427
+FC-4C,1,n4695,trace,46,1522,1712.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,130.184,5315.164,0.642,54.427
+FC-4C,1,n4695,trace,47,1534,1716.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,132.241,5290.841,0.643,57.857
+FC-4C,1,n4695,trace,48,1546,1719.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,134.299,5269.948,0.643,57.857
+FC-4C,1,n4695,trace,49,1558,1722.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,136.356,5245.625,0.642,54.427
+FC-4C,1,n4695,trace,50,1570,1726.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,138.414,5221.302,0.645,64.716
+FC-4C,1,n4695,trace,51,1582,1727.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,140.474,5210.697,0.642,54.427
+FC-4C,1,n4695,trace,52,1594,1730.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,142.532,5189.804,0.642,54.427
+FC-4C,1,n4695,trace,53,1606,1732.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,144.592,5175.77,0.641,47.568
+FC-4C,1,n4695,trace,54,1654,1741.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,152.829,5116.203,0.645,64.716
+FC-4C,1,n4695,trace,55,1666,1741.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,154.891,5112.458,0.644,61.286
+FC-4C,1,n4695,trace,56,1678,1743.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,156.951,5101.854,0.643,57.857
+FC-4C,1,n4695,trace,57,1690,1743.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,159.013,5098.109,0.642,54.427
+FC-4C,1,n4695,trace,58,1702,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,161.073,5084.075,0.642,54.427
+FC-4C,1,n4695,trace,59,1714,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,163.135,5083.759,0.642,54.427
+FC-4C,1,n4695,trace,60,1723,1747.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,164.68,5073.234,0.64,44.138
+FC-4C,1,n4695,trace,61,1768,1747.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,172.414,5072.051,0.64,44.138
+FC-4C,1,n4695,trace,62,1771,1747.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,172.929,5068.542,0.644,61.286
+FC-4C,1,n4695,trace,63,1786,1748.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,175.506,5061.288,0.642,54.427
+FC-4C,1,n4695,trace,64,1798,1748.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,177.568,5060.973,0.642,54.427
+FC-4C,1,n4695,trace,65,1810,1748.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,179.631,5060.657,0.642,54.427
+FC-4C,1,n4695,trace,66,1822,1749.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,181.692,5056.912,0.643,57.857
+FC-4C,1,n4695,trace,67,1834,1749.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,183.754,5053.167,0.642,54.427
+FC-4C,1,n4695,trace,68,1843,1750.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,185.299,5046.071,0.644,61.286
+FC-4C,1,n4695,trace,69,1882,1750.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,192.002,5045.046,0.641,47.568
+FC-4C,1,n4695,trace,70,1894,1751.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,194.063,5037.871,0.642,54.427
+FC-4C,1,n4695,trace,71,1906,1751.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,196.126,5037.556,0.642,54.427
+FC-4C,1,n4695,trace,72,1918,1751.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,198.188,5037.24,0.642,54.427
+FC-4C,1,n4695,trace,73,1924,1750.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,199.221,5043.942,0.644,61.286
+FC-4C,1,n4695,trace,74,1942,1749.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,202.316,5050.328,0.642,54.427
+FC-4C,1,n4695,trace,75,1954,1750.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,204.377,5043.153,0.644,61.286
+FC-4C,1,n4695,trace,76,1966,1750.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,206.44,5042.838,0.644,61.286
+FC-4C,1,n4695,trace,77,1975,1750.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,207.987,5042.601,0.644,61.286
+FC-4C,1,n4695,trace,78,1990,1749.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,210.567,5052.496,0.643,57.857
+FC-4C,1,n4695,trace,79,2029,1747.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,217.272,5061.759,0.644,61.286
+FC-4C,1,n4695,trace,80,2038,1747.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,218.819,5061.523,0.644,61.286
+FC-4C,1,n4695,trace,81,2050,1746.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,220.884,5071.496,0.642,50.997
+FC-4C,1,n4695,trace,82,2062,1746.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,222.945,5067.751,0.642,54.427
+FC-4C,1,n4695,trace,83,2074,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,225.009,5074.295,0.642,54.427
+FC-4C,1,n4695,trace,84,2086,1746.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,227.071,5070.55,0.642,50.997
+FC-4C,1,n4695,trace,85,2098,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,229.134,5073.664,0.642,54.427
+FC-4C,1,n4695,trace,86,2110,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,231.197,5073.348,0.642,54.427
+FC-4C,1,n4695,trace,87,2122,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,233.259,5073.033,0.642,54.427
+FC-4C,1,n4695,trace,88,2134,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,235.322,5072.718,0.642,54.427
+FC-4C,1,n4695,trace,89,2146,1745.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,237.384,5072.402,0.642,54.427
+FC-4C,1,n4695,trace,90,2158,1744.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,239.448,5078.946,0.641,47.568
+FC-4C,1,n4695,trace,91,2170,1744.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,241.51,5078.63,0.641,47.568
+FC-4C,1,n4695,trace,92,2182,1744.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,243.573,5078.315,0.641,47.568
+FC-4C,1,n4695,trace,93,2194,1744.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,245.635,5077.999,0.644,61.286
+FC-4C,1,n4695,trace,94,2206,1743.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,247.699,5084.543,0.642,54.427
+FC-4C,1,n4695,feature,1,807,1775,3,3,,first: first plus,7.204,4905.254,0.982,33.902
+FC-4C,1,n4695,feature,2,1030,1426,25,5,,peak: drawn crest near 45 thousandths; horizontal bound includes crest-location uncertainty.,46.039,7293.293,4.766,48.199
+FC-4C,1,n4695,feature,3,1840,1752,5,5,,knee: descending curve becomes near-horizontal,184.782,5035.861,1.329,47.673
+FC-4C,1,n4695,feature,4,2210,1746,5,5,,last: final drawn ink before frame plus,248.383,5067.29,1.329,47.673
+FC-4C,1,n3815,marker,1,814.5,1842.5,2,2,circle,,8.395,4442.053,0.809,27.016
+FC-4C,1,n3815,marker,2,861,1618,7,7,circle,Circle touches 6000 psf grid.,16.713,5980.747,1.675,61.444
+FC-4C,1,n3815,marker,3,924.5,1497.0,2,2,circle,,27.803,6809.055,0.809,27.016
+FC-4C,1,n3815,marker,4,977,1441,8,8,circle,Circle close to high-stress curve and peak.,36.908,7191.797,1.848,68.33
+FC-4C,1,n3815,marker,5,1036.5,1499.5,2,2,circle,,47.049,6788.962,0.809,27.016
+FC-4C,1,n3815,marker,6,1095.5,1674.0,2,2,circle,,56.936,5590.46,0.809,27.016
+FC-4C,1,n3815,marker,7,1157.0,1737.0,2,2,circle,,67.415,5156.707,0.809,27.016
+FC-4C,1,n3815,marker,8,1214.0,1801.5,2,2,circle,,77.117,4712.782,0.809,27.016
+FC-4C,1,n3815,marker,9,1280,1869,9,9,circle,Circle outline is broken; center inferred from visible arc with wide bound.,88.363,4248.043,2.022,75.215
+FC-4C,1,n3815,marker,10,1448.5,1922.5,2,2,circle,,117.246,3876.64,0.809,27.016
+FC-4C,1,n3815,marker,11,1596.0,1954.5,2,2,circle,,142.55,3653.264,0.809,27.016
+FC-4C,1,n3815,marker,12,1683.5,1982.5,2,2,circle,,157.548,3458.903,0.809,27.016
+FC-4C,1,n3815,marker,13,1802.5,1985.5,2,2,circle,,177.997,3435.196,0.809,27.016
+FC-4C,1,n3815,marker,14,1915,2008,10,10,circle,Circle approaches shared curve ink near 200 thousandths.,197.3,3277.904,2.195,82.101
+FC-4C,1,n3815,marker,15,2036.5,2011.5,2,2,circle,,218.177,3250.702,0.809,27.016
+FC-4C,1,n3815,marker,16,2210,2012,10,10,circle,Circle on right frame.,247.996,3242.711,2.195,82.101
+FC-4C,1,n3815,trace,1,826,1794.0,1,12,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,10.442,4774.427,0.651,95.583
+FC-4C,1,n3815,trace,2,835,1742.5,1,12.0,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,12.064,5127.446,0.651,95.583
+FC-4C,1,n3815,trace,3,856,1654.5,1,16.0,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,15.801,5730.513,0.657,123.02
+FC-4C,1,n3815,trace,4,874,1591.5,1,12,,Drawn ink sample; column selected near regular 12 px sampling grid. Early plus/circle rising limbs cross/share ink; widened reading bound.,18.986,6162.177,0.651,95.583
+FC-4C,1,n3815,trace,5,886,1571.5,1,12.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,21.078,6299.048,0.651,95.583
+FC-4C,1,n3815,trace,6,901,1538.0,1,10.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,23.705,6528.441,0.649,85.294
+FC-4C,1,n3815,trace,7,907,1528.0,1,10.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,24.75,6596.876,0.649,85.294
+FC-4C,1,n3815,trace,8,946,1474.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,31.532,6966.254,0.645,64.716
+FC-4C,1,n3815,trace,9,952,1467.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,32.573,7014.112,0.643,57.857
+FC-4C,1,n3815,trace,10,1006,1459.0,1,10,,Drawn ink sample; column selected near regular 12 px sampling grid. Adjacent high-stress crest/rising limb ink; widened reading bound.,41.866,7067.567,0.648,81.864
+FC-4C,1,n3815,trace,11,1018,1470.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,43.912,6991.799,0.646,71.575
+FC-4C,1,n3815,trace,12,1060,1561.0,1,13.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,50.999,6366.497,0.653,105.872
+FC-4C,1,n3815,trace,13,1066,1578.0,1,11.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,52.005,6249.73,0.65,92.153
+FC-4C,1,n3815,trace,14,1075,1606.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,53.511,6057.433,0.646,71.575
+FC-4C,1,n3815,trace,15,1126,1693.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,62.15,5455.902,0.644,61.286
+FC-4C,1,n3815,trace,16,1135,1704.0,1,9.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,63.681,5383.642,0.648,78.435
+FC-4C,1,n3815,trace,17,1177,1760.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,70.818,4994.987,0.647,75.005
+FC-4C,1,n3815,trace,18,1186,1770.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,72.351,4929.587,0.646,71.575
+FC-4C,1,n3815,trace,19,1192,1777.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,73.371,4877.984,0.645,68.146
+FC-4C,1,n3815,trace,20,1234,1819.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,80.529,4592.218,0.645,64.716
+FC-4C,1,n3815,trace,21,1246,1829.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,82.577,4523.31,0.645,64.716
+FC-4C,1,n3815,trace,22,1255,1837.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,84.113,4468.198,0.645,64.716
+FC-4C,1,n3815,trace,23,1306,1871.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,92.828,4230.211,0.642,54.427
+FC-4C,1,n3815,trace,24,1318,1876.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,94.883,4195.599,0.644,61.286
+FC-4C,1,n3815,trace,25,1330,1882.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,96.937,4154.128,0.644,61.286
+FC-4C,1,n3815,trace,26,1342,1889.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,98.989,4105.797,0.642,54.427
+FC-4C,1,n3815,trace,27,1360,1897.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,102.071,4050.449,0.641,47.568
+FC-4C,1,n3815,trace,28,1366,1902.0,1,9.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,103.096,4019.425,0.648,78.435
+FC-4C,1,n3815,trace,29,1414,1914.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,111.328,3935.851,0.646,71.575
+FC-4C,1,n3815,trace,30,1426,1918.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,113.384,3904.669,0.644,61.286
+FC-4C,1,n3815,trace,31,1468,1927.5,1,4.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,120.59,3841.83,0.64,40.708
+FC-4C,1,n3815,trace,32,1474,1927.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,121.621,3841.673,0.644,61.286
+FC-4C,1,n3815,trace,33,1486,1930.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,123.679,3820.779,0.644,61.286
+FC-4C,1,n3815,trace,34,1498,1932.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,125.74,3810.175,0.643,57.857
+FC-4C,1,n3815,trace,35,1510,1934.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,127.798,3792.711,0.642,54.427
+FC-4C,1,n3815,trace,36,1519,1937.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,129.341,3771.897,0.642,54.427
+FC-4C,1,n3815,trace,37,1534,1940.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,131.915,3750.924,0.642,54.427
+FC-4C,1,n3815,trace,38,1546,1943.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,133.973,3730.031,0.642,54.427
+FC-4C,1,n3815,trace,39,1558,1945.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,136.032,3715.997,0.644,61.286
+FC-4C,1,n3815,trace,40,1570,1948.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,138.091,3698.533,0.645,64.716
+FC-4C,1,n3815,trace,41,1576,1948.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,139.122,3694.946,0.644,61.286
+FC-4C,1,n3815,trace,42,1618,1957.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,146.328,3635.537,0.64,44.138
+FC-4C,1,n3815,trace,43,1630,1959.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,148.387,3621.503,0.643,57.857
+FC-4C,1,n3815,trace,44,1648,1962.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,151.477,3600.452,0.643,57.857
+FC-4C,1,n3815,trace,45,1654,1963.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,152.506,3590.005,0.644,61.286
+FC-4C,1,n3815,trace,46,1663,1965.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,154.05,3579.48,0.643,57.857
+FC-4C,1,n3815,trace,47,1705,1971.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,161.26,3533.79,0.642,54.427
+FC-4C,1,n3815,trace,48,1714,1973.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,162.804,3519.835,0.642,54.427
+FC-4C,1,n3815,trace,49,1720,1974.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,163.833,3512.818,0.642,54.427
+FC-4C,1,n3815,trace,50,1750,1979.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,168.982,3477.732,0.642,54.427
+FC-4C,1,n3815,trace,51,1762,1980.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,171.044,3473.987,0.643,57.857
+FC-4C,1,n3815,trace,52,1774,1982.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,173.103,3456.523,0.642,54.427
+FC-4C,1,n3815,trace,53,1825,1989.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,181.859,3410.597,0.643,57.857
+FC-4C,1,n3815,trace,54,1831,1984.0,1,13.5,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",182.897,3444.736,0.653,105.872
+FC-4C,1,n3815,trace,55,1846,1986.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",185.473,3430.623,0.651,95.583
+FC-4C,1,n3815,trace,56,1858,1987.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",187.533,3420.018,0.651,95.583
+FC-4C,1,n3815,trace,57,1870,1990.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",189.592,3402.555,0.651,95.583
+FC-4C,1,n3815,trace,58,1882,1992.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",191.651,3388.521,0.651,95.583
+FC-4C,1,n3815,trace,59,1891,1994.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",193.195,3371.136,0.651,95.583
+FC-4C,1,n3815,trace,60,1942,1999.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",201.953,3338.928,0.651,95.583
+FC-4C,1,n3815,trace,61,1954,2001.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",204.012,3321.464,0.651,95.583
+FC-4C,1,n3815,trace,62,1966,2004.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",206.071,3304.0,0.651,95.583
+FC-4C,1,n3815,trace,63,1978,2005.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",208.131,3293.396,0.651,95.583
+FC-4C,1,n3815,trace,64,1990,2008.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",210.19,3275.932,0.651,95.583
+FC-4C,1,n3815,trace,65,1999,2008.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",211.736,3272.266,0.651,95.583
+FC-4C,1,n3815,trace,66,2014,2017.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",214.302,3213.567,0.651,95.583
+FC-4C,1,n3815,trace,67,2062,2008.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,222.564,3270.61,0.644,61.286
+FC-4C,1,n3815,trace,68,2074,2009.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,224.625,3263.435,0.642,54.427
+FC-4C,1,n3815,trace,69,2086,2010.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,226.687,3259.69,0.643,57.857
+FC-4C,1,n3815,trace,70,2098,2010.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,228.75,3259.374,0.642,50.997
+FC-4C,1,n3815,trace,71,2110,2011.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,230.81,3248.77,0.644,61.286
+FC-4C,1,n3815,trace,72,2122,2012.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,232.871,3241.595,0.642,54.427
+FC-4C,1,n3815,trace,73,2128,2012.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,233.902,3241.437,0.642,54.427
+FC-4C,1,n3815,trace,74,2170,2015.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,241.116,3219.755,0.642,54.427
+FC-4C,1,n3815,trace,75,2182,2015.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,243.179,3219.44,0.642,54.427
+FC-4C,1,n3815,feature,1,815,1843,3,3,,first: first circle,8.48,4438.61,0.982,33.902
+FC-4C,1,n3815,feature,2,985,1450,20,7,,peak: circle curve crest adjacent to plus rising limb; horizontal bound includes crest-location uncertainty.,38.27,7129.853,3.91,61.786
+FC-4C,1,n3815,feature,3,1062,1582,5,5,,knee: steep descending limb into lower gradual decay,51.312,6222.398,1.329,47.673
+FC-4C,1,n3815,feature,4,2210,2013,7,7,,last: curve reaches frame circle,247.995,3235.852,1.675,61.444
+FC-4C,1,n2934,marker,1,817.0,2010.0,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,8.581,3293.051,1.329,47.673
+FC-4C,1,n2934,marker,2,871.0,1849.0,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,18.096,4395.982,1.329,47.673
+FC-4C,1,n2934,marker,3,928.5,1765.5,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,28.1,4967.223,1.329,47.673
+FC-4C,1,n2934,marker,4,981.5,1728.0,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,37.264,5223.054,1.329,47.673
+FC-4C,1,n2934,marker,5,1047,1648,8,8,triangle-up,Triangle close to vertical grid and circle descending line.,48.638,5770.078,1.848,68.33
+FC-4C,1,n2934,marker,6,1157.5,1688.5,2,2,triangle-up,,67.571,5489.37,0.809,27.016
+FC-4C,1,n2934,marker,7,1277.0,1739.0,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,88.036,5139.833,1.329,47.673
+FC-4C,1,n2934,marker,8,1391.5,1832.5,2,2,triangle-up,,107.58,4495.477,0.809,27.016
+FC-4C,1,n2934,marker,9,1508.5,1871.5,2,2,triangle-up,,127.632,4224.888,0.809,27.016
+FC-4C,1,n2934,marker,10,1628,1912,9,9,triangle-up,Triangle touches 4000 psf and vertical grid.,148.112,3943.944,2.022,75.215
+FC-4C,1,n2934,marker,11,1740.5,1953.0,2,2,triangle-up,,167.388,3659.754,0.809,27.016
+FC-4C,1,n2934,marker,12,1917,1988,12,12,triangle-up,Triangle adjacent to circle and shared line near 200 thousandths.,197.673,3415.038,2.542,95.872
+FC-4C,1,n2934,marker,13,2149.0,2037.5,5,5,triangle-up, Triangle outer outline joins other ink; interior-based center has 5 px bound.,237.475,3069.402,1.329,47.673
+FC-4C,1,n2934,marker,14,2208,2064,10,10,triangle-up,Triangle close to right frame.,247.577,2886.079,2.195,82.101
+FC-4C,1,n2934,trace,1,828,1969.5,1,16.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,10.53,3570.564,0.657,123.02
+FC-4C,1,n2934,trace,2,837,1945.5,1,13.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,12.112,3734.951,0.653,102.442
+FC-4C,1,n2934,trace,3,855,1896.0,1,15.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,15.278,4074.014,0.656,119.59
+FC-4C,1,n2934,trace,4,858,1888.0,1,13.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,15.805,4128.81,0.653,105.872
+FC-4C,1,n2934,trace,5,897,1818.0,1,9.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,22.61,4607.937,0.648,78.435
+FC-4C,1,n2934,trace,6,909,1798.5,1,10.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,24.701,4741.378,0.648,81.864
+FC-4C,1,n2934,trace,7,918,1787.0,1,1.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,26.264,4820.024,0.636,23.56
+FC-4C,1,n2934,trace,8,951,1738.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,32.007,5151.833,0.645,68.146
+FC-4C,1,n2934,trace,9,954,1737.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,32.524,5162.043,0.643,57.857
+FC-4C,1,n2934,trace,10,993,1696.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,39.287,5442.25,0.645,64.716
+FC-4C,1,n2934,trace,11,1005,1688.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,41.361,5496.809,0.645,64.716
+FC-4C,1,n2934,trace,12,1020,1678.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,43.954,5565.008,0.645,64.716
+FC-4C,1,n2934,trace,13,1023,1676.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,44.472,5575.218,0.647,75.005
+FC-4C,1,n2934,trace,14,1071,1656.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,52.751,5711.143,0.642,54.427
+FC-4C,1,n2934,trace,15,1074,1656.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,53.267,5714.493,0.642,50.997
+FC-4C,1,n2934,trace,16,1116,1658.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,60.482,5696.241,0.642,54.427
+FC-4C,1,n2934,trace,17,1125,1662.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,62.024,5671.997,0.643,57.857
+FC-4C,1,n2934,trace,18,1137,1667.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,64.078,5633.955,0.642,54.427
+FC-4C,1,n2934,trace,19,1179,1698.0,1,3.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,71.252,5423.642,0.639,37.279
+FC-4C,1,n2934,trace,20,1185,1699.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,72.282,5416.625,0.645,64.716
+FC-4C,1,n2934,trace,21,1197,1708.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,74.332,5354.575,0.645,64.716
+FC-4C,1,n2934,trace,22,1209,1717.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,76.381,5292.526,0.645,64.716
+FC-4C,1,n2934,trace,23,1221,1726.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,78.43,5230.477,0.645,64.716
+FC-4C,1,n2934,trace,24,1233,1735.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,80.48,5168.427,0.645,64.716
+FC-4C,1,n2934,trace,25,1245,1744.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,82.529,5106.378,0.645,64.716
+FC-4C,1,n2934,trace,26,1254,1749.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,84.069,5071.845,0.646,71.575
+FC-4C,1,n2934,trace,27,1281,1767.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,88.683,4947.667,0.643,57.857
+FC-4C,1,n2934,trace,28,1293,1774.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,90.735,4899.336,0.645,64.716
+FC-4C,1,n2934,trace,29,1305,1781.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,92.788,4851.006,0.645,64.716
+FC-4C,1,n2934,trace,30,1317,1789.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,94.839,4795.816,0.645,64.716
+FC-4C,1,n2934,trace,31,1329,1795.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,96.892,4754.344,0.645,64.716
+FC-4C,1,n2934,trace,32,1341,1802.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,98.945,4706.014,0.645,64.716
+FC-4C,1,n2934,trace,33,1359,1812.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,102.024,4636.947,0.643,57.857
+FC-4C,1,n2934,trace,34,1365,1815.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,103.051,4616.212,0.646,71.575
+FC-4C,1,n2934,trace,35,1371,1816.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,104.08,4609.195,0.645,64.716
+FC-4C,1,n2934,trace,36,1413,1837.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,111.268,4460.615,0.641,47.568
+FC-4C,1,n2934,trace,37,1425,1841.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,113.324,4432.862,0.642,54.427
+FC-4C,1,n2934,trace,38,1437,1847.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,115.379,4394.821,0.645,64.716
+FC-4C,1,n2934,trace,39,1449,1852.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,117.433,4356.779,0.644,61.286
+FC-4C,1,n2934,trace,40,1461,1858.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,119.488,4318.737,0.645,64.716
+FC-4C,1,n2934,trace,41,1473,1862.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,121.544,4290.984,0.645,64.716
+FC-4C,1,n2934,trace,42,1482,1867.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,123.084,4256.451,0.645,64.716
+FC-4C,1,n2934,trace,43,1536,1886.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,132.337,4121.275,0.642,54.427
+FC-4C,1,n2934,trace,44,1545,1890.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,133.879,4097.031,0.643,57.857
+FC-4C,1,n2934,trace,45,1557,1894.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,135.935,4065.848,0.644,61.286
+FC-4C,1,n2934,trace,46,1563,1896.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,136.964,4055.401,0.643,57.857
+FC-4C,1,n2934,trace,47,1575,1902.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,139.017,4013.93,0.646,71.575
+FC-4C,1,n2934,trace,48,1653,1926.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,152.388,3847.256,0.643,57.857
+FC-4C,1,n2934,trace,49,1665,1929.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,154.447,3826.362,0.643,57.857
+FC-4C,1,n2934,trace,50,1674,1932.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,155.989,3805.548,0.643,57.857
+FC-4C,1,n2934,trace,51,1689,1937.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,158.559,3767.427,0.642,54.427
+FC-4C,1,n2934,trace,52,1701,1939.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,160.619,3753.393,0.644,61.286
+FC-4C,1,n2934,trace,53,1713,1943.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,162.675,3725.64,0.642,54.427
+FC-4C,1,n2934,trace,54,1761,1957.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,170.905,3628.348,0.641,47.568
+FC-4C,1,n2934,trace,55,1773,1960.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,172.963,3607.455,0.644,61.286
+FC-4C,1,n2934,trace,56,1782,1962.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,174.507,3593.499,0.642,54.427
+FC-4C,1,n2934,trace,57,1824,1973.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,181.71,3516.943,0.642,54.427
+FC-4C,1,n2934,trace,58,1830,1975.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",182.738,3503.066,0.651,95.583
+FC-4C,1,n2934,trace,59,1845,1985.5,1,12.0,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",185.301,3434.079,0.651,95.583
+FC-4C,1,n2934,trace,60,1857,1987.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",187.361,3420.045,0.651,95.583
+FC-4C,1,n2934,trace,61,1869,1990.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",189.42,3402.581,0.651,95.583
+FC-4C,1,n2934,trace,62,1881,1992.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",191.479,3388.547,0.651,95.583
+FC-4C,1,n2934,trace,63,1890,1994.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",193.023,3371.162,0.651,95.583
+FC-4C,1,n2934,trace,64,1941,1999.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",201.781,3335.525,0.651,95.583
+FC-4C,1,n2934,trace,65,1953,2001.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",203.84,3321.491,0.651,95.583
+FC-4C,1,n2934,trace,66,1965,2004.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",205.899,3304.027,0.651,95.583
+FC-4C,1,n2934,trace,67,1977,2005.5,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",207.96,3293.422,0.651,95.583
+FC-4C,1,n2934,trace,68,1989,2008.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",210.018,3275.959,0.651,95.583
+FC-4C,1,n2934,trace,69,2001,2010.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",212.078,3261.924,0.651,95.583
+FC-4C,1,n2934,trace,70,2013,2017.0,1,12,,"Drawn ink sample; column selected near regular 12 px sampling grid. Circle and triangle-up curves converge/share ink; identity follows branches and visible symbols, widened bound.",214.13,3213.594,0.651,95.583
+FC-4C,1,n2934,trace,71,2061,2025.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,222.368,3154.028,0.642,54.427
+FC-4C,1,n2934,trace,72,2073,2028.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,224.426,3133.134,0.642,54.427
+FC-4C,1,n2934,trace,73,2085,2030.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,226.485,3119.1,0.642,54.427
+FC-4C,1,n2934,trace,74,2097,2032.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,228.545,3105.066,0.644,61.286
+FC-4C,1,n2934,trace,75,2109,2035.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,230.604,3087.602,0.643,57.857
+FC-4C,1,n2934,trace,76,2121,2037.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,232.663,3070.138,0.644,61.286
+FC-4C,1,n2934,trace,77,2127,2038.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,233.693,3066.551,0.643,57.857
+FC-4C,1,n2934,trace,78,2172,2046.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,241.416,3010.493,0.643,57.857
+FC-4C,1,n2934,trace,79,2181,2046.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,242.962,3006.827,0.642,54.427
+FC-4C,1,n2934,feature,1,815,2017,3,3,,first: first triangle,8.227,3245.089,0.982,33.902
+FC-4C,1,n2934,feature,2,1090,1658,45,5,,peak: drawn crest slightly right of highest marker; horizontal bound includes crest-location uncertainty.,56.014,5700.354,8.203,48.724
+FC-4C,1,n2934,feature,3,2200,2048,7,7,,last: drawn segment before final triangle,246.225,2996.039,1.675,61.444
+FC-4C,1,n1761,marker,1,819.0,2170.0,2,2,square,,8.692,2195.508,0.809,27.016
+FC-4C,1,n1761,marker,2,868.0,2033.0,2,2,square,,17.313,3133.946,0.809,27.016
+FC-4C,1,n1761,marker,3,931.0,1948.5,2,2,square,,28.264,3711.902,0.809,27.016
+FC-4C,1,n1761,marker,4,989.0,1897.5,2,2,square,,38.307,4060.203,0.809,27.016
+FC-4C,1,n1761,marker,5,1046,1866,8,8,square,Square close to vertical grid.,48.149,4274.773,1.848,68.33
+FC-4C,1,n1761,marker,6,1104,1850,6,6,square, Center rechecked on enlarged symbol crop. Broken/attached outline; widened manual bound.,58.141,4382.997,1.502,54.558
+FC-4C,1,n1761,marker,7,1162.0,1866.5,2,2,square,,68.086,4268.293,0.809,27.016
+FC-4C,1,n1761,marker,8,1219,1927,7,7,square,Square touches 4000 psf grid.,77.794,3851.806,1.675,61.444
+FC-4C,1,n1761,marker,9,1341,2013,8,8,square,Square on vertical grid.,98.638,3258.698,1.848,68.33
+FC-4C,1,n1761,marker,10,1458,2070,6,6,square, Center rechecked on enlarged symbol crop. Broken/attached outline; widened manual bound.,118.664,2864.641,1.502,54.558
+FC-4C,1,n1761,marker,11,1629,2123,8,8,square,Square on vertical grid.,147.977,2496.601,1.848,68.33
+FC-4C,1,n1761,marker,12,1749.0,2144.5,2,2,square,,168.571,2345.971,0.809,27.016
+FC-4C,1,n1761,marker,13,1915.0,2160.0,2,2,square,,197.079,2235.288,0.809,27.016
+FC-4C,1,n1761,marker,14,2221,2163,10,10,square,Square on right frame.,249.667,2206.665,2.195,82.101
+FC-4C,1,n1761,trace,1,831,2129.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,10.813,2472.995,0.645,68.146
+FC-4C,1,n1761,trace,2,843,2093.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,12.928,2719.615,0.645,68.146
+FC-4C,1,n1761,trace,3,858,2059.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,15.556,2955.867,0.643,57.857
+FC-4C,1,n1761,trace,4,885,2005.5,1,10.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,20.275,3322.13,0.648,81.864
+FC-4C,1,n1761,trace,5,891,1996.5,1,10.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,21.319,3383.707,0.648,81.864
+FC-4C,1,n1761,trace,6,906,1976.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,23.926,3520.499,0.647,75.005
+FC-4C,1,n1761,trace,7,912,1970.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,24.966,3561.497,0.647,75.005
+FC-4C,1,n1761,trace,8,951,1932.0,1,8.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,31.725,3824.555,0.646,71.575
+FC-4C,1,n1761,trace,9,969,1915.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,34.844,3940.69,0.645,64.716
+FC-4C,1,n1761,trace,10,1011,1885.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,42.106,4145.366,0.645,64.716
+FC-4C,1,n1761,trace,11,1023,1878.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,44.179,4193.066,0.643,57.857
+FC-4C,1,n1761,trace,12,1071,1856.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,52.46,4339.279,0.642,54.427
+FC-4C,1,n1761,trace,13,1083,1852.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,54.528,4366.401,0.641,47.568
+FC-4C,1,n1761,trace,14,1122,1850.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,61.234,4379.094,0.642,54.427
+FC-4C,1,n1761,trace,15,1131,1850.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,62.781,4378.858,0.642,54.427
+FC-4C,1,n1761,trace,16,1143,1854.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,64.838,4354.534,0.643,57.857
+FC-4C,1,n1761,trace,17,1182,1885.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,71.496,4140.87,0.645,64.716
+FC-4C,1,n1761,trace,18,1191,1892.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,73.033,4092.618,0.645,64.716
+FC-4C,1,n1761,trace,19,1197,1900.5,1,11.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,74.052,4034.157,0.65,88.723
+FC-4C,1,n1761,trace,20,1239,1936.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,81.218,3786.117,0.645,68.146
+FC-4C,1,n1761,trace,21,1251,1946.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,83.267,3720.638,0.645,64.716
+FC-4C,1,n1761,trace,22,1263,1957.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,85.313,3644.87,0.645,64.716
+FC-4C,1,n1761,trace,23,1275,1966.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,87.363,3582.821,0.645,64.716
+FC-4C,1,n1761,trace,24,1287,1975.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,89.412,3520.771,0.645,64.716
+FC-4C,1,n1761,trace,25,1299,1984.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,91.461,3458.722,0.645,64.716
+FC-4C,1,n1761,trace,26,1311,1993.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,93.511,3396.673,0.645,64.716
+FC-4C,1,n1761,trace,27,1320,1997.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,95.052,3368.999,0.645,64.716
+FC-4C,1,n1761,trace,28,1362,2023.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,102.232,3186.123,0.644,61.286
+FC-4C,1,n1761,trace,29,1371,2028.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,103.772,3155.019,0.643,57.857
+FC-4C,1,n1761,trace,30,1383,2034.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,105.825,3110.118,0.644,61.286
+FC-4C,1,n1761,trace,31,1395,2041.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,107.878,3065.217,0.643,57.857
+FC-4C,1,n1761,trace,32,1407,2047.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,109.932,3023.746,0.643,57.857
+FC-4C,1,n1761,trace,33,1419,2052.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,111.987,2989.134,0.645,64.716
+FC-4C,1,n1761,trace,34,1431,2058.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,114.041,2947.662,0.645,64.716
+FC-4C,1,n1761,trace,35,1440,2061.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,115.583,2926.848,0.64,44.138
+FC-4C,1,n1761,trace,36,1479,2077.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,122.262,2812.644,0.642,54.427
+FC-4C,1,n1761,trace,37,1491,2083.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,124.317,2774.602,0.643,57.857
+FC-4C,1,n1761,trace,38,1503,2086.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,126.374,2750.279,0.642,54.427
+FC-4C,1,n1761,trace,39,1515,2091.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,128.429,2715.667,0.642,54.427
+FC-4C,1,n1761,trace,40,1527,2095.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,130.487,2691.344,0.643,57.857
+FC-4C,1,n1761,trace,41,1539,2098.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,132.544,2667.021,0.642,54.427
+FC-4C,1,n1761,trace,42,1551,2102.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,134.601,2639.268,0.644,61.286
+FC-4C,1,n1761,trace,43,1563,2107.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,136.657,2608.085,0.643,57.857
+FC-4C,1,n1761,trace,44,1575,2110.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,138.715,2587.192,0.643,57.857
+FC-4C,1,n1761,trace,45,1587,2113.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,140.773,2566.299,0.643,57.857
+FC-4C,1,n1761,trace,46,1599,2116.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,142.83,2541.975,0.642,54.427
+FC-4C,1,n1761,trace,47,1608,2119.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,144.374,2524.591,0.643,57.857
+FC-4C,1,n1761,trace,48,1653,2128.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,152.095,2461.674,0.642,50.997
+FC-4C,1,n1761,trace,49,1659,2128.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,153.125,2458.086,0.642,54.427
+FC-4C,1,n1761,trace,50,1671,2131.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,155.183,2437.193,0.642,54.427
+FC-4C,1,n1761,trace,51,1683,2134.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,157.241,2416.299,0.642,54.427
+FC-4C,1,n1761,trace,52,1695,2137.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,159.3,2398.836,0.643,57.857
+FC-4C,1,n1761,trace,53,1707,2138.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,161.361,2388.231,0.644,61.286
+FC-4C,1,n1761,trace,54,1719,2140.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,163.42,2374.197,0.642,54.427
+FC-4C,1,n1761,trace,55,1728,2142.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,164.964,2360.242,0.642,54.427
+FC-4C,1,n1761,trace,56,1770,2147.5,1,4.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,172.175,2324.841,0.64,40.708
+FC-4C,1,n1761,trace,57,1779,2148.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,173.722,2321.175,0.645,64.716
+FC-4C,1,n1761,trace,58,1791,2149.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,175.782,2310.57,0.642,54.427
+FC-4C,1,n1761,trace,59,1803,2151.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,177.841,2296.536,0.642,54.427
+FC-4C,1,n1761,trace,60,1815,2152.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,179.902,2289.361,0.642,54.427
+FC-4C,1,n1761,trace,61,1827,2152.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,181.965,2289.046,0.642,54.427
+FC-4C,1,n1761,trace,62,1839,2155.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,184.023,2268.153,0.642,54.427
+FC-4C,1,n1761,trace,63,1851,2155.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,186.086,2267.837,0.642,54.427
+FC-4C,1,n1761,trace,64,1863,2156.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,188.147,2260.662,0.644,61.286
+FC-4C,1,n1761,trace,65,1875,2158.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,190.207,2250.058,0.643,57.857
+FC-4C,1,n1761,trace,66,1887,2158.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,192.269,2246.313,0.642,54.427
+FC-4C,1,n1761,trace,67,1896,2158.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,193.815,2246.076,0.642,54.427
+FC-4C,1,n1761,trace,68,1947,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,202.577,2224.157,0.642,54.427
+FC-4C,1,n1761,trace,69,1959,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,204.639,2223.842,0.642,54.427
+FC-4C,1,n1761,trace,70,1971,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,206.701,2223.526,0.642,54.427
+FC-4C,1,n1761,trace,71,1983,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,208.764,2223.211,0.642,54.427
+FC-4C,1,n1761,trace,72,1995,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,210.826,2222.896,0.642,54.427
+FC-4C,1,n1761,trace,73,2007,2162.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,212.887,2215.721,0.644,61.286
+FC-4C,1,n1761,trace,74,2019,2161.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,214.951,2222.265,0.642,54.427
+FC-4C,1,n1761,trace,75,2037,2164.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,218.041,2204.643,0.643,57.857
+FC-4C,1,n1761,trace,76,2043,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,219.073,2207.915,0.642,54.427
+FC-4C,1,n1761,trace,77,2055,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,221.136,2207.599,0.642,54.427
+FC-4C,1,n1761,trace,78,2067,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,223.198,2207.284,0.642,54.427
+FC-4C,1,n1761,trace,79,2079,2164.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,225.26,2203.539,0.643,57.857
+FC-4C,1,n1761,trace,80,2091,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,227.323,2206.653,0.642,54.427
+FC-4C,1,n1761,trace,81,2103,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,229.386,2206.338,0.642,54.427
+FC-4C,1,n1761,trace,82,2115,2164.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,231.447,2202.592,0.643,57.857
+FC-4C,1,n1761,trace,83,2127,2164.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,233.51,2202.277,0.643,57.857
+FC-4C,1,n1761,trace,84,2139,2162.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,235.575,2212.25,0.644,61.286
+FC-4C,1,n1761,trace,85,2151,2162.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,237.637,2211.935,0.644,61.286
+FC-4C,1,n1761,trace,86,2163,2163.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,239.698,2204.76,0.642,54.427
+FC-4C,1,n1761,trace,87,2175,2162.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,241.762,2211.304,0.644,61.286
+FC-4C,1,n1761,trace,88,2187,2162.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,243.824,2210.989,0.644,61.286
+FC-4C,1,n1761,trace,89,2196,2164.5,1,3.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,245.368,2197.033,0.638,33.849
+FC-4C,1,n1761,feature,1,819,2173,3,3,,first: first square,8.688,2174.93,0.982,33.902
+FC-4C,1,n1761,feature,2,1100,1848,20,5,,peak: drawn crest near 60 thousandths; horizontal bound includes crest-location uncertainty.,57.456,4396.821,3.907,48.067
+FC-4C,1,n1761,feature,3,2000,2167,5,5,,knee: descending curve becomes horizontal,211.678,2185.038,1.329,47.673
+FC-4C,1,n1761,feature,4,2200,2167,5,5,,last: terminal drawn plateau before frame square,246.052,2179.78,1.329,47.673
+FC-4C,1,n741,marker,1,816.5,2314.0,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,8.053,1207.832,1.329,47.673
+FC-4C,1,n741,marker,2,872,2206,7,7,triangle-down,Triangle on 2000 psf grid.,17.749,1947.179,1.675,61.444
+FC-4C,1,n741,marker,3,931.5,2165.5,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,28.034,2223.417,1.329,47.673
+FC-4C,1,n741,marker,4,989.0,2115.0,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,37.99,2568.301,1.329,47.673
+FC-4C,1,n741,marker,5,1047,2105,8,8,triangle-down,Triangle close to vertical grid.,47.973,2635.369,1.848,68.33
+FC-4C,1,n741,marker,6,1103.0,2149.5,2,2,triangle-down,,57.534,2328.658,0.809,27.016
+FC-4C,1,n741,marker,7,1169,2214,7,7,triangle-down,Triangle close to 2000 psf grid.,68.783,1884.496,1.675,61.444
+FC-4C,1,n741,marker,8,1227.5,2263.5,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,78.766,1543.422,1.329,47.673
+FC-4C,1,n741,marker,9,1286.0,2292.0,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,88.779,1346.394,1.329,47.673
+FC-4C,1,n741,marker,10,1345,2311,8,8,triangle-down,Triangle close to vertical grid.,98.892,1214.516,1.848,68.33
+FC-4C,1,n741,marker,11,1399.0,2323.0,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,108.156,1130.784,1.329,47.673
+FC-4C,1,n741,marker,12,1461.5,2335.5,2,2,triangle-down,,118.879,1043.4,0.809,27.016
+FC-4C,1,n741,marker,13,1515.0,2351.5,5,5,triangle-down, Triangle outer outline joins other ink; interior-based center has 5 px bound.,128.051,932.244,1.329,47.673
+FC-4C,1,n741,marker,14,1631,2360,8,8,triangle-down,Triangle close to vertical grid.,147.976,870.89,1.848,68.33
+FC-4C,1,n741,marker,15,1751.5,2365.5,2,2,triangle-down,,168.679,829.996,0.809,27.016
+FC-4C,1,n741,marker,16,1863.5,2374.5,2,2,triangle-down,,187.915,765.318,0.809,27.016
+FC-4C,1,n741,marker,17,2037.5,2379.5,2,2,triangle-down,,217.814,726.447,0.809,27.016
+FC-4C,1,n741,marker,18,2211,2377,10,10,triangle-down,Triangle close to right frame.,247.638,739.034,2.195,82.101
+FC-4C,1,n741,trace,1,839,2282.0,1,10.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,11.967,1426.738,0.649,85.294
+FC-4C,1,n741,trace,2,854,2252.0,1,9.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,14.588,1632.124,0.648,78.435
+FC-4C,1,n741,trace,3,866,2234.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,16.677,1755.276,0.645,64.716
+FC-4C,1,n741,trace,4,902,2182.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,22.939,2107.584,0.647,75.005
+FC-4C,1,n741,trace,5,911,2174.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,24.498,2165.652,0.645,64.716
+FC-4C,1,n741,trace,6,950,2136.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,31.257,2425.281,0.645,64.716
+FC-4C,1,n741,trace,7,962,2128.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,33.331,2479.84,0.643,57.857
+FC-4C,1,n741,trace,8,968,2125.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,34.366,2500.26,0.643,57.857
+FC-4C,1,n741,trace,9,1010,2110.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,41.606,2598.616,0.642,54.427
+FC-4C,1,n741,trace,10,1022,2109.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,43.67,2605.16,0.642,54.427
+FC-4C,1,n741,trace,11,1073,2118.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,52.423,2545.515,0.645,64.716
+FC-4C,1,n741,trace,12,1082,2122.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,53.964,2517.841,0.643,57.857
+FC-4C,1,n741,trace,13,1091,2125.5,1,3.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,55.506,2493.597,0.638,33.849
+FC-4C,1,n741,trace,14,1124,2167.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,61.117,2204.638,0.647,75.005
+FC-4C,1,n741,trace,15,1130,2173.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,62.139,2163.324,0.647,75.005
+FC-4C,1,n741,trace,16,1142,2188.5,1,9.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,64.18,2060.119,0.647,75.005
+FC-4C,1,n741,trace,17,1190,2235.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,72.362,1739.899,0.645,64.716
+FC-4C,1,n741,trace,18,1202,2244.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,74.412,1677.849,0.645,64.716
+FC-4C,1,n741,trace,19,1250,2275.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,82.616,1460.519,0.642,54.427
+FC-4C,1,n741,trace,20,1262,2281.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,84.669,1419.048,0.642,54.427
+FC-4C,1,n741,trace,21,1310,2302.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,92.889,1277.17,0.643,57.857
+FC-4C,1,n741,trace,22,1319,2305.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,94.432,1256.355,0.643,57.857
+FC-4C,1,n741,trace,23,1370,2316.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,103.181,1176.132,0.642,54.427
+FC-4C,1,n741,trace,24,1376,2317.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,104.211,1172.545,0.643,57.857
+FC-4C,1,n741,trace,25,1421,2326.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,111.932,1109.628,0.643,57.857
+FC-4C,1,n741,trace,26,1430,2328.0,1,7.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,113.476,1095.673,0.645,64.716
+FC-4C,1,n741,trace,27,1439,2329.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,115.021,1085.147,0.642,54.427
+FC-4C,1,n741,trace,28,1484,2337.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,122.744,1029.09,0.642,54.427
+FC-4C,1,n741,trace,29,1490,2338.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,123.774,1025.502,0.642,50.997
+FC-4C,1,n741,trace,30,1544,2346.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,133.044,969.208,0.64,44.138
+FC-4C,1,n741,trace,31,1550,2347.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,134.073,958.761,0.642,54.427
+FC-4C,1,n741,trace,32,1562,2347.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,136.135,958.446,0.642,54.427
+FC-4C,1,n741,trace,33,1574,2350.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,138.193,937.552,0.642,54.427
+FC-4C,1,n741,trace,34,1586,2351.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,140.254,930.378,0.641,47.568
+FC-4C,1,n741,trace,35,1598,2353.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,142.314,916.343,0.642,54.427
+FC-4C,1,n741,trace,36,1607,2354.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,143.859,909.247,0.644,61.286
+FC-4C,1,n741,trace,37,1658,2359.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,152.618,873.61,0.642,54.427
+FC-4C,1,n741,trace,38,1670,2360.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,154.679,866.435,0.641,47.568
+FC-4C,1,n741,trace,39,1682,2362.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,156.738,852.401,0.642,54.427
+FC-4C,1,n741,trace,40,1694,2362.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,158.801,852.086,0.642,54.427
+FC-4C,1,n741,trace,41,1706,2365.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,160.859,834.622,0.643,57.857
+FC-4C,1,n741,trace,42,1718,2365.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,162.921,830.877,0.642,54.427
+FC-4C,1,n741,trace,43,1730,2366.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,164.982,823.702,0.644,61.286
+FC-4C,1,n741,trace,44,1772,2369.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,172.196,802.02,0.644,61.286
+FC-4C,1,n741,trace,45,1778,2369.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,173.228,801.862,0.644,61.286
+FC-4C,1,n741,trace,46,1790,2369.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,175.29,801.547,0.641,47.568
+FC-4C,1,n741,trace,47,1802,2371.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,177.35,790.942,0.642,50.997
+FC-4C,1,n741,trace,48,1814,2371.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,179.412,787.197,0.642,54.427
+FC-4C,1,n741,trace,49,1826,2371.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,181.475,786.882,0.642,54.427
+FC-4C,1,n741,trace,50,1838,2372.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,183.536,779.707,0.644,61.286
+FC-4C,1,n741,trace,51,1886,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,191.783,764.726,0.642,54.427
+FC-4C,1,n741,trace,52,1898,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,193.845,764.411,0.642,54.427
+FC-4C,1,n741,trace,53,1910,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,195.908,764.095,0.642,54.427
+FC-4C,1,n741,trace,54,1922,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,197.969,756.921,0.641,47.568
+FC-4C,1,n741,trace,55,1928,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,199.0,756.763,0.641,47.568
+FC-4C,1,n741,trace,56,1946,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,202.094,756.29,0.641,47.568
+FC-4C,1,n741,trace,57,1958,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,204.155,749.115,0.642,54.427
+FC-4C,1,n741,trace,58,1970,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,206.217,748.799,0.642,54.427
+FC-4C,1,n741,trace,59,1982,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,208.281,755.343,0.641,47.568
+FC-4C,1,n741,trace,60,1994,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,210.342,748.168,0.642,54.427
+FC-4C,1,n741,trace,61,2006,2377.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,212.403,740.994,0.642,54.427
+FC-4C,1,n741,trace,62,2072,2377.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,223.747,742.688,0.642,50.997
+FC-4C,1,n741,trace,63,2078,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,224.779,745.96,0.642,54.427
+FC-4C,1,n741,trace,64,2090,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,226.843,752.504,0.641,47.568
+FC-4C,1,n741,trace,65,2102,2375.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,228.906,752.188,0.641,47.568
+FC-4C,1,n741,trace,66,2114,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,230.967,745.014,0.642,54.427
+FC-4C,1,n741,trace,67,2123,2376.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,232.513,744.777,0.642,54.427
+FC-4C,1,n741,trace,68,2138,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,235.094,758.101,0.642,54.427
+FC-4C,1,n741,trace,69,2150,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,237.157,757.786,0.642,54.427
+FC-4C,1,n741,trace,70,2162,2374.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,239.219,757.47,0.642,54.427
+FC-4C,1,n741,trace,71,2174,2374.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,241.283,760.585,0.643,57.857
+FC-4C,1,n741,trace,72,2180,2373.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,242.315,767.286,0.64,44.138
+FC-4C,1,n741,feature,1,815,2310,3,3,,first: first triangle,7.801,1235.308,0.982,33.902
+FC-4C,1,n741,feature,2,1020,2107,35,5,,peak: broad drawn crest; horizontal bound includes crest-location uncertainty.,43.33,2622.361,6.485,48.461
+FC-4C,1,n741,feature,3,2190,2377,5,5,,last: drawn plateau before final triangle,244.028,739.586,1.329,47.673

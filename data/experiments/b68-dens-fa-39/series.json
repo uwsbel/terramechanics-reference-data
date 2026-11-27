@@ -1,0 +1,373 @@
+{
+  "experiment_id": "b68-dens-fa-39",
+  "source": "bendix-1968-vol2",
+  "figure_id": "FA-39",
+  "batch": "curves-appa-b3",
+  "reading_rules": "docs/CURVE-READING.md (2026-10-08)",
+  "method": "two independent readings (Claude, Codex gpt-6.1-sol high) with their own axis calibrations, compared by tools/diff_curves.py; values from each reading's pixels on a piecewise map between its verified lines (D-025); canonical reading chosen by the lines checked against the ink of the page (more verified lines, then closer to the ink, then the first submission), never averaged; status agreed where the two readings matched within the sum of their bounds, resolved where a page re-read settled a disagreement (qa/<batch>/decisions*.csv), one-sided-verified where only one reading holds the point and the other agent verified it on the page, one-sided where nobody has; `source` names the reading each point comes from and whose numbering `sequence` is",
+  "panels": {
+    "1": {
+      "x_quantity": "relative density",
+      "x_unit_native": "none",
+      "x_unit_si": "none",
+      "x_factor": 1.0,
+      "y_quantity": "unit weight (minimum at Dr 0 to maximum at Dr 1.0)",
+      "y_unit_native": "pcf",
+      "y_unit_si": "N_m3",
+      "y_factor": 157.08746384624618
+    }
+  },
+  "calibrations": {
+    "claude": {
+      "cal-p1": {
+        "x_per_px": 0.0007242861771550052,
+        "y_per_px": 3.6414841177009825e-06,
+        "rms_residual_x": 0.0007358636772626741,
+        "rms_residual_y": 6.689839744277956e-06,
+        "max_residual_x": 0.0015850384838591303,
+        "max_residual_y": 1.6740834334215762e-05,
+        "n_anchors": 341,
+        "box": [
+          850,
+          1826,
+          2280,
+          3188
+        ],
+        "y_transform": "reciprocal",
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-appa-b3/FA-39/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 0.1,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.2,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 0.3,
+              "location_error_px": 1.05
+            },
+            {
+              "value": 0.4,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.5,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.6,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 0.7,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 0.8,
+              "location_error_px": 0.61
+            },
+            {
+              "value": 0.9,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 1.0,
+              "location_error_px": 0.5
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 65.0,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 66.0,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 67.0,
+              "location_error_px": 0.96
+            },
+            {
+              "value": 68.0,
+              "location_error_px": 1.0
+            },
+            {
+              "value": 69.0,
+              "location_error_px": 0.74
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 71.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 72.0,
+              "location_error_px": 0.78
+            },
+            {
+              "value": 73.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 74.0,
+              "location_error_px": 0.57
+            },
+            {
+              "value": 75.0,
+              "location_error_px": 0.55
+            },
+            {
+              "value": 76.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 77.0,
+              "location_error_px": 0.76
+            },
+            {
+              "value": 78.0,
+              "location_error_px": 0.62
+            },
+            {
+              "value": 79.0,
+              "location_error_px": 0.77
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.93
+            },
+            {
+              "value": 81.0,
+              "location_error_px": 1.13
+            },
+            {
+              "value": 82.0,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 83.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 84.0,
+              "location_error_px": 0.64
+            },
+            {
+              "value": 85.0,
+              "location_error_px": 0.51
+            },
+            {
+              "value": 86.0,
+              "location_error_px": 1.07
+            },
+            {
+              "value": 87.0,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 88.0,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 89.0,
+              "location_error_px": 0.63
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 91.0,
+              "location_error_px": 0.74
+            },
+            {
+              "value": 92.0,
+              "location_error_px": 0.6
+            },
+            {
+              "value": 93.0,
+              "location_error_px": 0.6
+            },
+            {
+              "value": 94.0,
+              "location_error_px": 0.89
+            },
+            {
+              "value": 95.0,
+              "location_error_px": 0.51
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    },
+    "codex": {
+      "cal-p1": {
+        "x_per_px": 0.0007243690770550389,
+        "y_per_px": 3.645146352865777e-06,
+        "rms_residual_x": 0.0008344193429997276,
+        "rms_residual_y": 6.782176303173893e-06,
+        "max_residual_x": 0.003018132442185628,
+        "max_residual_y": 1.999537954601449e-05,
+        "n_anchors": 143,
+        "box": [
+          855,
+          1060,
+          2285,
+          3700
+        ],
+        "y_transform": "reciprocal",
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-appa-b3/FA-39/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.92
+            },
+            {
+              "value": 0.1,
+              "location_error_px": 0.72
+            },
+            {
+              "value": 0.2,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.3,
+              "location_error_px": 0.53
+            },
+            {
+              "value": 0.4,
+              "location_error_px": 0.69
+            },
+            {
+              "value": 0.5,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 0.6,
+              "location_error_px": 0.82
+            },
+            {
+              "value": 0.7,
+              "location_error_px": 0.56
+            },
+            {
+              "value": 0.8,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.9,
+              "location_error_px": 0.53
+            },
+            {
+              "value": 1.0,
+              "location_error_px": 0.68
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 55.0,
+              "location_error_px": 0.55
+            },
+            {
+              "value": 60.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 65.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 70.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 75.0,
+              "location_error_px": 0.54
+            },
+            {
+              "value": 80.0,
+              "location_error_px": 0.7
+            },
+            {
+              "value": 85.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 90.0,
+              "location_error_px": 0.57
+            },
+            {
+              "value": 95.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 100.0,
+              "location_error_px": 0.52
+            },
+            {
+              "value": 105.0,
+              "location_error_px": 0.53
+            },
+            {
+              "value": 110.0,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 115.0,
+              "location_error_px": 0.52
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    }
+  },
+  "points": {
+    "total": 40,
+    "by_status": {
+      "agreed": 33,
+      "one-sided": 1,
+      "one-sided-verified": 6
+    },
+    "by_kind": {
+      "feature": 6,
+      "trace": 34
+    },
+    "by_panel": {
+      "1": 40
+    }
+  },
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "points_sampled": 0,
+    "by_pair_outcome": {},
+    "rule": "a point both reviewers answered ok has status audited (it was agreed) or confirmed (it rested on a rule, a re-read or one reading); the earlier status is in the note; any other outcome is noted and leaves the status as the readings left it; a verdict on a reading a decision has since replaced is kept as history (superseded) and not applied"
+  },
+  "bounds": "x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.",
+  "pixel_frame": "pixel_u, pixel_v refer to the unrotated 300 dpi rendering of PDF page of FA-39 (tools/render_pages.py), origin top-left, u right, v down.",
+  "printed_labels": [
+    "66.6 (left end",
+    "67.8 (left end",
+    "69.0 (left end",
+    "88.1 (right end",
+    "90.2 (right end",
+    "92.3 (right end"
+  ]
+}

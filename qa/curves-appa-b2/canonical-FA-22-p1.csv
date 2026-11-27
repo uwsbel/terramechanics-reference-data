@@ -1,0 +1,175 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FA-22,1,average,feature,1,2070.0,3190.0,6.0,6.0,,first point (start of the line's ink at the fine end),0.0775287,10.48835,0.0013426,0.47432,piecewise,agreed,claude,0.0764748,10.32496,,2072.487,3195.744
+FA-22,1,average,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others",8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.79561,99.96259,,757.249,1194.983
+FA-22,1,average,feature,3,887.13,1473.0,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; Sample moved +3.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid",4.56906,91.17042,0.14123,0.85823,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 134 (Claude's adjudicator: yes; Codex's: yes),,
+FA-22,1,average,feature,4,1218.085,1730.388,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; ",2.498983,68.51189,0.078527,0.88273,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 135 (Claude's adjudicator: yes; Codex's: cannot tell),,
+FA-22,1,average,marker,1,2073.0,3205.0,6,6,circle,#200 sieve; merged with vertical grid lines; binarized scan: open or filled not reliably told apart,0.0748177,10.28727,0.0012983,0.47276,piecewise,agreed,claude,0.0720216,9.81822,,2080,3221
+FA-22,1,average,marker,2,1956.0,2922.0,4,4,circle,#100 sieve; open interior visible,0.1465926,18.21892,0.0017397,0.32054,piecewise,agreed,claude,0.1473073,18.29647,,1955,2920
+FA-22,1,average,marker,3,1847.0,2702.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line; binarized scan: open or filled not reliably told apart,0.2478033,25.64989,0.0040955,0.45199,piecewise,agreed,claude,0.2490565,26.00165,,1842,2700
+FA-22,1,average,marker,4,1722.0,2485.0,4,4,circle,#40 sieve; open interior visible,0.4166001,34.16853,0.0049013,0.31415,piecewise,agreed,claude,0.418702,34.03753,,1724,2483
+FA-22,1,average,marker,5,1551.0,2193.0,5,5,circle,#20 sieve; filled,0.833097,45.77633,0.011743,0.40715,piecewise,agreed,claude,0.839322,45.98343,,1548,2190
+FA-22,1,average,marker,6,1361.0,1904.0,5,5,circle,#12 sieve; binarized scan: open or filled not reliably told apart,1.656726,58.64028,0.022379,0.4325,piecewise,agreed,claude,1.664418,58.32347,,1366,1902
+FA-22,1,average,marker,7,1240.0,1756.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart,2.351764,66.99899,0.031846,0.40444,piecewise,agreed,claude,2.357401,66.85936,,1242,1755
+FA-22,1,average,marker,8,1066.0,1606.0,5,5,circle,#6 sieve; filled,3.351592,78.93226,0.045533,0.38924,piecewise,agreed,claude,3.359335,79.33361,,1060,1605
+FA-22,1,average,marker,9,865.0,1465.0,5,5,circle,#4 sieve; open interior visible; the lower curve's stroke touches it on the right,4.657,92.70663,0.06506,0.43849,piecewise,agreed,claude,4.6979,92.74906,,864,1461
+FA-22,1,average,marker,10,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series,9.51501,99.83071,0.1344,0.39725,piecewise extrapolated x y,agreed,claude,9.17725,100.11022,,755,1177
+FA-22,1,average,trace,1,2070.0,3190.0,6.0,6.0,,first point; fine end: the line meets the #200 symbol (merged with vertical grid lines there),0.0775287,10.48835,0.0013426,0.47432,piecewise,agreed,claude,0.0775287,10.7637,,2066.0,3183.3
+FA-22,1,average,trace,2,2069.8,3179.8,5.0,5.0,,log10 d -1.10,0.0794277,10.49917,0.0011821,0.40544,piecewise,agreed,claude,0.0794277,10.8418,,2064.9,3179.8
+FA-22,1,average,trace,3,2047.9,3131.3,5.0,5.0,,log10 d -1.05,0.089121,11.98442,0.0013164,0.40236,piecewise,agreed,claude,0.089121,11.9347,,2048.7,3131.3
+FA-22,1,average,trace,4,2029.3,3082.8,5.0,5.0,,log10 d -1.00,0.0999996,13.2441,0.0014671,0.39975,piecewise,agreed,claude,0.0999996,13.3909,,2027.3,3082.9
+FA-22,1,average,trace,5,2009.6,3034.4,5.0,5.0,,log10 d -0.95,0.1121955,14.57937,0.0016328,0.39699,piecewise,agreed,claude,0.112196,14.5705,,2009.9,3034.5
+FA-22,1,average,trace,6,1988.0,2986.0,5.0,5.0,,log10 d -0.90,0.1258839,16.04501,0.0018172,0.39394,piecewise,agreed,claude,0.125884,16.0078,,1988.7,2986.0
+FA-22,1,average,trace,7,1970.5,2945.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm touches the lower edge of the #100 symbol; moved to the line ink just below it,0.138781,17.23219,0.0019895,0.39148,piecewise,agreed,claude,0.138781,17.4257,,1967.8,2945.1
+FA-22,1,average,trace,8,1943.5,2889.2,5.0,5.0,,log10 d -0.80,0.1584918,19.06622,0.0022506,0.38767,piecewise,agreed,claude,0.158492,18.9901,,1944.8,2889.2
+FA-22,1,average,trace,9,1920.3,2840.9,5.0,5.0,,log10 d -0.75,0.1778063,20.64522,0.0025039,0.38645,piecewise,agreed,claude,0.177806,20.6495,,1920.4,2841.0
+FA-22,1,average,trace,10,1895.5,2792.6,5.0,5.0,,log10 d -0.70,0.1994844,22.33834,0.0028,0.38525,piecewise,agreed,claude,0.199484,22.3359,,1895.7,2792.7
+FA-22,1,average,trace,11,1869.5,2744.5,5.0,5.0,,log10 d -0.65,0.2238304,24.11383,0.0031497,0.38399,piecewise,agreed,claude,0.22383,24.1115,,1869.7,2744.6
+FA-22,1,average,trace,12,1839.0,2684.0,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the line ink just above it,0.2587111,26.19522,0.0036479,0.38252,piecewise,agreed,claude,0.258711,26.2864,,1837.8,2684.1
+FA-22,1,average,trace,13,1816.1,2648.3,5.0,5.0,,log10 d -0.55,0.2818029,27.76039,0.0039782,0.38141,piecewise,agreed,claude,0.281803,27.7614,,1816.2,2648.4
+FA-22,1,average,trace,14,1790.5,2600.2,5.0,5.0,,log10 d -0.50,0.3161905,29.50767,0.0044709,0.38018,piecewise,agreed,claude,0.31619,29.5009,,1790.7,2600.3
+FA-22,1,average,trace,15,1763.1,2552.1,5.0,5.0,,log10 d -0.45,0.354777,31.37303,0.0050245,0.37998,piecewise,agreed,claude,0.354777,31.286,,1764.5,2552.2
+FA-22,1,average,trace,16,1735.5,2504.0,5.0,5.0,,log10 d -0.40,0.3980696,33.24958,0.0056466,0.38199,piecewise,agreed,claude,0.39807,33.0987,,1737.8,2504.1
+FA-22,1,average,trace,17,1708.5,2455.9,5.0,5.0,,log10 d -0.35,0.446639,35.08443,0.006346,0.38396,piecewise,agreed,claude,0.446639,35.0892,,1708.5,2456.0
+FA-22,1,average,trace,18,1681.7,2407.8,5.0,5.0,,log10 d -0.30,0.501118,36.90499,0.007058,0.38591,piecewise,agreed,claude,0.501118,37.0079,,1680.3,2407.9
+FA-22,1,average,trace,19,1651.4,2359.1,5.0,5.0,,log10 d -0.25,0.562399,38.96432,0.007923,0.38812,piecewise,agreed,claude,0.562399,38.9992,,1651.0,2359.2
+FA-22,1,average,trace,20,1622.3,2310.5,5.0,5.0,,log10 d -0.20,0.630975,40.93974,0.00889,0.39237,piecewise,agreed,claude,0.630975,40.9358,,1622.4,2310.6
+FA-22,1,average,trace,21,1594.0,2261.9,5.0,5.0,,log10 d -0.15,0.707861,42.85894,0.009975,0.39823,piecewise,agreed,claude,0.707861,43.1918,,1589.2,2262.0
+FA-22,1,average,trace,22,1565.0,2213.2,5.0,5.0,,log10 d -0.10,0.794252,44.82582,0.011195,0.40425,piecewise,agreed,claude,0.794252,44.6301,,1567.9,2213.3
+FA-22,1,average,trace,23,1536.0,2164.4,5.0,5.0,,log10 d -0.05,0.891337,46.79253,0.012566,0.41026,piecewise,agreed,claude,0.891337,46.7965,,1536.0,2164.6
+FA-22,1,average,trace,24,1506.1,2115.7,5.0,5.0,,log10 d +0.00,0.999984,48.82064,0.014233,0.41646,piecewise,agreed,claude,0.999984,48.8116,,1506.3,2115.9
+FA-22,1,average,trace,25,1476.0,2067.5,5.0,5.0,,log10 d +0.05,1.12195,50.85823,0.015777,0.41886,piecewise,agreed,claude,1.12195,50.8964,,1475.5,2067.6
+FA-22,1,average,trace,26,1445.2,2019.3,5.0,5.0,,log10 d +0.10,1.258876,52.93893,0.017487,0.42252,piecewise,agreed,claude,1.25888,52.9449,,1445.3,2019.3
+FA-22,1,average,trace,27,1412.0,1971.1,5.0,5.0,,log10 d +0.15,1.412622,55.18481,0.019381,0.42646,piecewise,agreed,claude,1.41262,55.1541,,1412.7,1971.1
+FA-22,1,average,trace,28,1380.0,1922.7,5.0,5.0,,log10 d +0.20,1.585004,57.35091,0.021404,0.43027,piecewise,agreed,claude,1.585,57.3738,,1380.0,1922.7
+FA-22,1,average,trace,29,1345.0,1874.1,5.0,5.0,,log10 d +0.25,1.778086,59.72325,0.02403,0.43674,piecewise,agreed,claude,1.77809,59.6913,,1345.9,1874.1
+FA-22,1,average,trace,30,1305.4,1825.4,5.0,5.0,,log10 d +0.30,1.995165,62.4634,0.027017,0.4317,piecewise,agreed,claude,1.99517,62.506,,1305.0,1825.4
+FA-22,1,average,trace,31,1263.1,1776.8,5.0,5.0,,log10 d +0.35,2.238634,65.39638,0.030317,0.41406,piecewise,agreed,claude,2.23863,65.3632,,1263.7,1776.8
+FA-22,1,average,trace,32,1214.1,1728.2,5.0,5.0,,log10 d +0.40,2.511893,68.79425,0.03401,0.39365,piecewise,agreed,claude,2.51189,68.7637,,1214.4,1728.2
+FA-22,1,average,trace,33,1160.0,1679.6,5.0,5.0,,log10 d +0.45,2.818567,72.5078,0.038154,0.38175,piecewise,agreed,claude,2.81857,72.6116,,1158.3,1679.6
+FA-22,1,average,trace,34,1098.4,1630.8,5.0,5.0,,log10 d +0.50,3.162323,76.71763,0.042652,0.38666,piecewise,agreed,claude,3.16232,76.6885,,1098.7,1630.8
+FA-22,1,average,trace,35,1030.6,1581.7,5.0,5.0,,log10 d +0.55,3.54812,81.35644,0.048544,0.40206,piecewise,agreed,claude,3.54812,81.3677,,1030.3,1581.6
+FA-22,1,average,trace,36,962.0,1532.6,5.0,5.0,,log10 d +0.60,3.981152,86.06202,0.05482,0.43179,piecewise,agreed,claude,3.98115,85.9566,,963.3,1532.5
+FA-22,1,average,trace,37,897.0,1483.0,5.0,5.0,,log10 d +0.65,4.46651,90.52111,0.0621,0.4509,piecewise,agreed,claude,4.46651,90.4343,,897.9,1482.8
+FA-22,1,average,trace,38,841.0,1433.0,7.0,5.0,,"log10 d +0.70; on the 5.0 mm grid line, where the lower curve separates from this one; centre between the band above and the stroke below",5.01546,94.34082,0.07197,0.56661,piecewise,agreed,claude,5.01546,94.0476,,844.9,1432.8
+FA-22,1,average,trace,38,841.512,1429.614,11.75,11.75,,"Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 5.0237729 mm",5.05266,94.27794,0.15787,0.84106,piecewise,one-sided,codex,,,,,
+FA-22,1,average,trace,39,803.562,1383.217,6.5,6.5,,Nominal grain-size sample 5.6367659 mm,5.63839,96.85855,0.10358,0.48049,piecewise,one-sided,codex,,,,,
+FA-22,1,average,trace,40,790.0,1336.0,10.0,5.0,,"log10 d +0.80; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width",6.30783,97.80084,0.08885,0.75241,piecewise,agreed,claude,6.30783,98.0058,,786.6,1335.7
+FA-22,1,average,trace,41,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.08226,98.91322,0.09891,0.95151,piecewise,agreed,claude,7.08226,99.1283,,769.9,1286.7
+FA-22,1,average,trace,42,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.95166,99.6832,0.10999,1.01895,piecewise extrapolated y,agreed,claude,7.95166,99.6411,,762.2,1237.7
+FA-22,1,average,trace,43,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken,8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.88524,99.9626,,757.2,1195.0
+FA-22,1,lower,feature,1,2105.0,3175.0,5.0,5.0,,first point (start of the line's ink at the fine end),0.0803283,8.1001,0.0011942,0.39937,piecewise,agreed,claude,0.0766308,7.63296,,2111.986,3194.836
+FA-22,1,lower,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others",8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.79561,99.96259,,757.249,1194.983
+FA-22,1,lower,feature,3,918.761,1468.707,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; ",4.61396,89.00114,0.14286,0.86506,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 142 (Claude's adjudicator: yes; Codex's: yes),,
+FA-22,1,lower,feature,4,1337.178,1726.438,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; Sample moved -0.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid",2.521286,60.25122,0.07927,0.91098,piecewise,one-sided,codex,,,,,
+FA-22,1,lower,marker,1,2119.0,3206.0,5,5,circle,#200 sieve; binarized scan: open or filled not reliably told apart,0.0746313,7.15633,0.0011149,0.39691,piecewise,agreed,claude,0.0720111,6.14086,,2134,3221
+FA-22,1,lower,marker,2,2012.0,2924.0,6,6,circle,#100 sieve; open interior visible,0.1458375,14.38503,0.0024351,0.46638,piecewise,agreed,claude,0.1465438,14.39398,,2012,2922
+FA-22,1,lower,marker,3,1924.0,2698.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line and two vertical lines; binarized scan: open or filled not reliably told apart,0.2500068,20.35331,0.0041328,0.4554,piecewise,agreed,claude,0.2494435,20.36181,,1924,2699
+FA-22,1,lower,marker,4,1832.0,2485.0,4,4,circle,#40 sieve; open interior visible,0.4162139,26.62287,0.0048974,0.31305,piecewise,agreed,claude,0.4143168,26.5623,,1833,2487
+FA-22,1,lower,marker,5,1695.0,2189.0,5,5,circle,#20 sieve; binarized scan: open or filled not reliably told apart,0.840674,35.93034,0.011868,0.38455,piecewise,agreed,claude,0.838975,36.0727,,1693,2190
+FA-22,1,lower,marker,6,1502.0,1899.0,4,4,circle,#12 sieve; open interior visible,1.675345,49.03295,0.018624,0.34819,piecewise,agreed,claude,1.671358,49.23661,,1499,1900
+FA-22,1,lower,marker,7,1367.0,1754.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart,2.361674,58.19595,0.03198,0.43235,piecewise,agreed,claude,2.384461,59.30845,,1351,1750
+FA-22,1,lower,marker,8,1146.0,1602.0,5,5,circle,#6 sieve; filled,3.381899,73.44666,0.045986,0.38287,piecewise,agreed,claude,3.350235,73.02889,,1152,1606
+FA-22,1,lower,marker,9,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series,9.51501,99.83071,0.1344,0.39725,piecewise extrapolated x y,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 144 (Claude's adjudicator: yes; Codex's: yes),,
+FA-22,1,lower,marker,1,888,1456,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 4, read from symbol ink (sieve scale not calibrated)",4.75198,91.10636,0.17071,0.99547,piecewise,one-sided-verified,codex,,,second round: verified on the page by claude's adjudicator; blind adjudication item 040 (Claude's adjudicator: yes; Codex's: yes),,
+FA-22,1,lower,marker,6,1774,2339,14,14,circle,"Circular symbol; curve and/or grid crosses the symbol; bound covers its visible extent; near printed sieve label 30, read from symbol ink (sieve scale not calibrated)",0.589458,30.57532,0.02102,0.99818,piecewise,one-sided,codex,,,,,
+FA-22,1,lower,trace,1,2111.986,3194.836,7.5,20,,first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound,0.0766308,7.63296,0.0039156,0.58123,piecewise,one-sided,codex,,,,,
+FA-22,1,lower,trace,2,2112.156,3188.198,3.0,3.0,,"Sample moved +5.5 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid; Nominal grain-size sample 0.079621434 mm",0.0778481,7.6196,0.0007398,0.26945,piecewise,one-sided,codex,,,,,
+FA-22,1,lower,trace,1,2105.0,3175.0,5.0,5.0,,first point; fine end: lower end of the last dash above the #200 symbol (gap of about 10 px to the symbol); the 0.0794 mm sample would move here and is not repeated,0.0803283,8.1001,0.0011942,0.39937,piecewise,agreed,claude,0.0803283,7.98956,,2106.7,3175.0
+FA-22,1,lower,trace,2,2091.1,3131.2,5.0,5.0,,log10 d -1.05,0.0891268,9.03351,0.001316,0.40181,piecewise,agreed,claude,0.0891268,9.21189,,2088.6,3131.2
+FA-22,1,lower,trace,3,2072.0,3082.7,5.0,5.0,,log10 d -1.00,0.1000025,10.32134,0.0014668,0.405,piecewise,agreed,claude,0.100002,10.373,,2071.4,3082.8
+FA-22,1,lower,trace,4,2055.9,3034.3,5.0,5.0,,log10 d -0.95,0.1121929,11.40987,0.0016323,0.40366,piecewise,agreed,claude,0.112193,11.418,,2055.9,3034.4
+FA-22,1,lower,trace,5,2038.3,2985.8,5.0,5.0,,log10 d -0.90,0.1259034,12.60129,0.0018169,0.40119,piecewise,agreed,claude,0.125903,12.5717,,2038.9,2985.8
+FA-22,1,lower,trace,6,2021.0,2944.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm falls inside the #100 symbol; moved to the line ink just below it,0.1390618,13.77425,0.0019926,0.39876,piecewise,agreed,claude,0.139062,13.6951,,2022.3,2944.0
+FA-22,1,lower,trace,7,1998.0,2886.0,5.0,5.0,,log10 d -0.80; gap between the dash and the #100 symbol; moved to the dash end,0.1596328,15.33336,0.0022648,0.39553,piecewise,agreed,claude,0.159633,15.0388,,2002.4,2886.0
+FA-22,1,lower,trace,8,1984.0,2841.0,5.0,5.0,,"log10 d -0.75; top of a dash, crossed by the dashed 0.177 mm sieve line",0.1776664,16.27998,0.0025011,0.39357,piecewise,agreed,claude,0.177666,16.4061,,1982.3,2841.0
+FA-22,1,lower,trace,9,1963.2,2792.3,5.0,5.0,,log10 d -0.70,0.1995,17.69154,0.0028003,0.39064,piecewise,agreed,claude,0.1995,17.6015,,1964.7,2792.3
+FA-22,1,lower,trace,10,1944.0,2744.2,5.0,5.0,,log10 d -0.65,0.2238359,18.99395,0.0031501,0.38794,piecewise,agreed,claude,0.223836,18.9937,,1944.1,2744.2
+FA-22,1,lower,trace,11,1917.0,2678.5,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the line ink just above it,0.2619475,20.82961,0.0036946,0.38624,piecewise,agreed,claude,0.261947,20.8385,,1917.0,2678.6
+FA-22,1,lower,trace,12,1903.4,2647.9,5.0,5.0,,log10 d -0.55,0.2818514,21.75683,0.0039794,0.38558,piecewise,agreed,claude,0.281851,21.762,,1903.4,2648.0
+FA-22,1,lower,trace,13,1882.0,2599.5,5.0,5.0,,log10 d -0.50; at the lower end of a dash,0.3164644,23.21561,0.0044753,0.38454,piecewise,agreed,claude,0.316464,23.1665,,1882.8,2599.6
+FA-22,1,lower,trace,14,1864.0,2553.0,5.0,5.0,,log10 d -0.45; gap between dashes; moved to the nearest dash end (top of the dash below),0.3537059,24.44093,0.0050098,0.38367,piecewise,agreed,claude,0.353706,24.5867,,1862.0,2553.1
+FA-22,1,lower,trace,15,1841.0,2503.6,5.0,5.0,,log10 d -0.40,0.3980933,26.0091,0.0056477,0.38255,piecewise,agreed,claude,0.398093,25.8825,,1843.0,2503.7
+FA-22,1,lower,trace,16,1821.0,2455.5,5.0,5.0,,log10 d -0.35,0.446647,27.37115,0.006347,0.38159,piecewise,agreed,claude,0.446647,27.3037,,1822.1,2455.6
+FA-22,1,lower,trace,17,1800.5,2407.4,5.0,5.0,,log10 d -0.30,0.501111,28.7674,0.007067,0.38059,piecewise,agreed,claude,0.501111,28.8586,,1799.3,2407.5
+FA-22,1,lower,trace,18,1778.5,2358.8,5.0,5.0,,log10 d -0.25,0.562306,30.26529,0.007932,0.37851,piecewise,agreed,claude,0.562306,30.2765,,1778.4,2358.9
+FA-22,1,lower,trace,19,1754.0,2310.2,5.0,5.0,,log10 d -0.20,0.630949,31.92851,0.008902,0.38028,piecewise,agreed,claude,0.630949,31.8289,,1755.6,2310.3
+FA-22,1,lower,trace,20,1728.0,2259.5,5.0,5.0,,log10 d -0.15; gap between dashes at a grid line; moved to the nearest dash end (above),0.711461,33.69321,0.01004,0.38217,piecewise,agreed,claude,0.711461,33.6107,,1729.3,2259.6
+FA-22,1,lower,trace,21,1709.0,2213.0,5.0,5.0,,log10 d -0.10,0.794248,34.97967,0.011212,0.38353,piecewise,agreed,claude,0.794248,35.0365,,1708.3,2213.1
+FA-22,1,lower,trace,22,1683.0,2164.3,5.0,5.0,,log10 d -0.05,0.891268,36.74386,0.012584,0.38541,piecewise,agreed,claude,0.891268,36.4433,,1687.5,2164.4
+FA-22,1,lower,trace,23,1657.3,2115.6,5.0,5.0,,log10 d +0.00,1.000079,38.48694,0.014214,0.38727,piecewise,agreed,claude,1.00008,38.4119,,1658.5,2115.8
+FA-22,1,lower,trace,24,1629.0,2067.3,5.0,5.0,,log10 d +0.05,1.122135,40.40712,0.015757,0.39067,piecewise,agreed,claude,1.12214,40.3216,,1630.3,2067.4
+FA-22,1,lower,trace,25,1597.9,2019.1,5.0,5.0,,log10 d +0.10,1.258877,42.51746,0.017462,0.39712,piecewise,agreed,claude,1.25888,42.49,,1598.3,2019.1
+FA-22,1,lower,trace,26,1562.8,1970.9,5.0,5.0,,log10 d +0.15,1.4124,44.90098,0.019351,0.40441,piecewise,agreed,claude,1.4124,44.9978,,1561.4,1970.9
+FA-22,1,lower,trace,27,1523.5,1922.5,5.0,5.0,,log10 d +0.20,1.584703,47.57126,0.021406,0.41257,piecewise,agreed,claude,1.5847,47.587,,1523.3,1922.5
+FA-22,1,lower,trace,28,1481.0,1873.8,5.0,5.0,,log10 d +0.25,1.778287,50.45853,0.024039,0.41893,piecewise,agreed,claude,1.77829,50.2817,,1483.6,1873.8
+FA-22,1,lower,trace,29,1437.5,1825.1,5.0,5.0,,log10 d +0.30,1.995487,53.40812,0.027023,0.42406,piecewise,agreed,claude,1.99549,53.6001,,1434.8,1825.2
+FA-22,1,lower,trace,30,1387.9,1776.6,5.0,5.0,,log10 d +0.35,2.238535,56.77631,0.030315,0.42989,piecewise,agreed,claude,2.23854,56.8096,,1387.6,1776.6
+FA-22,1,lower,trace,31,1337.0,1730.5,5.0,5.0,,"log10 d +0.40; gap between dashes at the 2.5 mm grid line; moved to the nearest dash end (top of the stroke below, which runs into the #8 symbol)",2.496991,60.24151,0.033809,0.43952,piecewise,agreed,claude,2.49699,59.2226,,1352.2,1730.5
+FA-22,1,lower,trace,32,1265.0,1679.4,5.0,5.0,,log10 d +0.45,2.818674,65.23954,0.038156,0.4148,piecewise,agreed,claude,2.81867,65.1308,,1266.7,1679.4
+FA-22,1,lower,trace,33,1193.9,1630.6,5.0,5.0,,log10 d +0.50,3.162525,70.17056,0.042645,0.38272,piecewise,agreed,claude,3.16253,70.0161,,1196.0,1630.6
+FA-22,1,lower,trace,34,1115.0,1581.5,5.0,5.0,,log10 d +0.55,3.548427,75.56645,0.048538,0.38534,piecewise,agreed,claude,3.54843,75.8776,,1110.3,1581.5
+FA-22,1,lower,trace,35,1033.0,1532.5,5.0,5.0,,log10 d +0.60,3.980726,81.17899,0.054817,0.40113,piecewise,agreed,claude,3.98073,81.2628,,1031.6,1532.4
+FA-22,1,lower,trace,36,941.0,1482.9,5.0,5.0,,log10 d +0.65,4.46663,87.49659,0.0621,0.44101,piecewise,agreed,claude,4.46663,87.5646,,939.7,1482.7
+FA-22,1,lower,trace,37,871.0,1439.0,6.0,5.0,,"log10 d +0.70; the lower curve's first separate dash, just below the 5.0 mm grid line; above it this curve runs together with the average",4.94537,92.29099,0.06987,0.50943,piecewise,agreed,claude,4.94537,93.7717,,849.0,1438.9
+FA-22,1,lower,trace,39,805.669,1376.916,11.25,11.25,,Nominal grain-size sample 5.6367659 mm,5.72281,96.71261,0.17075,0.80662,piecewise,one-sided,codex,,,,,
+FA-22,1,lower,trace,39,790.0,1336.0,10.0,5.0,,"log10 d +0.80; average and lower run together in one band here (13 to 35 px wide); centre of the band, bound half its width",6.30783,97.80084,0.08885,0.75241,piecewise,agreed,claude,6.30783,97.9331,,787.6,1335.7
+FA-22,1,lower,trace,40,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.08226,98.91322,0.09891,0.95151,piecewise,agreed,claude,7.08226,99.1106,,770.2,1286.7
+FA-22,1,lower,trace,41,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.95166,99.6832,0.10999,1.01895,piecewise extrapolated y,agreed,claude,7.95166,99.6409,,762.2,1237.7
+FA-22,1,lower,trace,42,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken,8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.88524,99.9626,,757.2,1195.0
+FA-22,1,upper,feature,1,2009.5,3194.0,5.0,5.0,,first point (start of the line's ink at the fine end),0.0768097,14.62958,0.0011462,0.39674,piecewise,agreed,claude,0.0766244,14.60361,,2010.0,3195.0
+FA-22,1,upper,feature,2,759.0,1191.0,14.0,4.0,,"last point; also the maximum of the trace (100 percent); no knee or kink: the curve bends smoothly into the 100 percent line, merged with the others",8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.79561,99.96259,,757.249,1194.983
+FA-22,1,upper,feature,4,1011.695,1730.886,12.0,12.0,,"Broad knee / change of curvature, not a sharp kink; location spans transition; Sample moved +2.0 px along grain direction to nearest readable line ink / dash end, avoiding marker and grid",2.498029,82.68479,0.078508,0.87468,piecewise,one-sided-verified,codex,,,verified on the page by claude's adjudicator; blind adjudication item 153 (Claude's adjudicator: yes; Codex's: cannot tell),,
+FA-22,1,upper,marker,1,2019.5,3212.0,4,4,circle,#200 sieve; open circle,0.0735955,13.95018,0.0009242,0.32931,piecewise,agreed,claude,0.0720345,14.33663,,2014,3221
+FA-22,1,upper,marker,2,1847.0,2925.0,6,6,circle,#100 sieve; blob merged with grid lines; shape not resolvable (filled circle or asterisk),0.1456676,25.70985,0.0024351,0.45209,piecewise,agreed,claude,0.1470795,25.58055,,1849,2921
+FA-22,1,upper,marker,3,1706.0,2702.0,6,6,circle,#60 sieve; merged with the 0.25 mm grid line; binarized scan: open or filled not reliably told apart,0.2481231,35.32734,0.0041001,0.45344,piecewise,agreed,claude,0.2464467,35.4716,,1704,2705
+FA-22,1,upper,marker,4,1556.0,2485.0,4,4,x,#40 sieve; two crossing strokes on the #40 line,0.4171835,45.52536,0.0049072,0.33759,piecewise,agreed,claude,0.421353,45.80332,,1552,2481
+FA-22,1,upper,marker,5,1342.0,2191.0,5,5,circle,#20 sieve; filled,0.837526,59.99786,0.01178,0.4419,piecewise,agreed,claude,0.839821,60.24558,,1339,2190
+FA-22,1,upper,marker,6,1141.0,1903.0,5,5,circle,#12 sieve; binarized scan: open or filled not reliably told apart,1.662295,73.87029,0.022445,0.38327,piecewise,agreed,claude,1.650329,73.65203,,1144,1906
+FA-22,1,upper,marker,7,1029.0,1757.0,5,5,circle,#8 sieve; binarized scan: open or filled not reliably told apart,2.34826,81.51033,0.031799,0.40237,piecewise,agreed,claude,2.348194,81.64026,,1027,1757
+FA-22,1,upper,marker,8,896.0,1603.0,5,5,circle,#6 sieve; binarized scan: open or filled not reliably told apart,3.377708,90.61106,0.045951,0.45113,piecewise,agreed,claude,3.353566,89.70791,,909,1606
+FA-22,1,upper,marker,9,800.0,1463.0,5,5,circle,#4 sieve; open interior visible,4.67999,97.15192,0.06542,0.41345,piecewise,agreed,claude,4.64504,96.44363,,810,1466
+FA-22,1,upper,marker,10,759.5,1162.0,5,5,circle,3/8 in. sieve; one circle at 100 percent on the 3/8 in. (9.5 mm) sieve line where all three curves end; recorded under each series,9.51501,99.83071,0.1344,0.39725,piecewise extrapolated x y,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 154 (Claude's adjudicator: yes; Codex's: yes),,
+FA-22,1,upper,trace,1,2010.0,3195.0,5.0,20,,first point; ; endpoint line extent overlaps marker/frame ink; widened extent bound,0.0766244,14.60361,0.0039165,0.40501,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 158 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FA-22,1,upper,trace,1,2009.5,3194.0,5.0,5.0,,first point; fine end: the line's ink starts at the #200 circle,0.0768097,14.62958,0.0011462,0.39674,piecewise,agreed,claude,0.0768097,14.6398,,2009.5,3194.0
+FA-22,1,upper,trace,2,2002.4,3179.9,5.0,5.0,,log10 d -1.10,0.0794255,15.11163,0.0011826,0.39574,piecewise,agreed,claude,0.0794255,15.1412,,2002.1,3179.9
+FA-22,1,upper,trace,3,1972.4,3131.4,5.0,5.0,,log10 d -1.05,0.0891268,17.15173,0.0013172,0.39149,piecewise,agreed,claude,0.0891268,17.1363,,1972.8,3131.4
+FA-22,1,upper,trace,4,1945.2,3083.0,5.0,5.0,,log10 d -1.00,0.0999932,19.00064,0.0014678,0.38764,piecewise,agreed,claude,0.0999932,19.0785,,1944.2,3083.1
+FA-22,1,upper,trace,5,1915.7,3034.6,5.0,5.0,,log10 d -0.95,0.1122015,21.01251,0.0016339,0.38629,piecewise,agreed,claude,0.112201,21.0048,,1916.0,3034.6
+FA-22,1,upper,trace,6,1887.0,2986.2,5.0,5.0,,log10 d -0.90,0.1259053,22.97434,0.0018187,0.38491,piecewise,agreed,claude,0.125905,23.0243,,1886.4,2986.3
+FA-22,1,upper,trace,7,1860.0,2946.0,5.0,5.0,,log10 d -0.85; sampling line 0.141 mm falls inside the #100 symbol; moved to the line ink just below it,0.1385589,24.82116,0.001988,0.38361,piecewise,agreed,claude,0.138559,24.5358,,1864.3,2946.0
+FA-22,1,upper,trace,8,1824.8,2889.6,5.0,5.0,,log10 d -0.80,0.1584895,27.22748,0.0022523,0.38191,piecewise,agreed,claude,0.15849,27.0864,,1827.0,2889.7
+FA-22,1,upper,trace,9,1789.5,2841.3,5.0,5.0,,log10 d -0.75,0.177838,29.64254,0.0025065,0.38021,piecewise,agreed,claude,0.177838,29.2402,,1795.5,2841.4
+FA-22,1,upper,trace,10,1757.0,2787.0,5.0,5.0,,log10 d -0.70; gap between dashes at the 0.2 mm grid line; moved to the nearest dash end (above),0.202433,31.85654,0.0028441,0.38082,piecewise,agreed,claude,0.202433,31.7215,,1759.1,2787.2
+FA-22,1,upper,trace,11,1737.5,2747.5,5.0,5.0,,log10 d -0.65; gap between dashes; moved to the nearest dash end (below),0.2225048,33.18185,0.0031302,0.38224,piecewise,agreed,claude,0.222505,33.3755,,1734.8,2747.7
+FA-22,1,upper,trace,12,1688.0,2685.0,5.0,5.0,,log10 d -0.60; sampling line 0.251 mm falls inside the #60 symbol; moved to the end of the dash above it,0.2584483,36.55569,0.0036434,0.38589,piecewise,agreed,claude,0.258448,36.388,,1690.5,2685.1
+FA-22,1,upper,trace,13,1669.4,2648.8,5.0,5.0,,log10 d -0.55,0.2818371,37.81925,0.0039779,0.38724,piecewise,agreed,claude,0.281837,37.8842,,1668.5,2649.0
+FA-22,1,upper,trace,14,1636.4,2600.7,5.0,5.0,,log10 d -0.50,0.3162422,40.06511,0.0044706,0.38977,piecewise,agreed,claude,0.316242,40.071,,1636.4,2600.9
+FA-22,1,upper,trace,15,1603.8,2552.6,5.0,5.0,,log10 d -0.45,0.3548422,42.27883,0.0050243,0.39654,piecewise,agreed,claude,0.354842,42.3006,,1603.6,2552.8
+FA-22,1,upper,trace,16,1569.3,2504.5,5.0,5.0,,log10 d -0.40,0.3981561,44.62229,0.0056465,0.40371,piecewise,agreed,claude,0.398156,44.4213,,1572.3,2504.6
+FA-22,1,upper,trace,17,1536.5,2456.5,5.0,5.0,,log10 d -0.35,0.446639,46.84941,0.006344,0.41052,piecewise,agreed,claude,0.446639,46.8836,,1536.1,2456.6
+FA-22,1,upper,trace,18,1501.9,2408.4,5.0,5.0,,log10 d -0.30,0.501134,49.19938,0.007045,0.41771,piecewise,agreed,claude,0.501134,49.3443,,1499.9,2408.5
+FA-22,1,upper,trace,19,1465.3,2359.7,5.0,5.0,,log10 d -0.25,0.562321,51.67267,0.007906,0.4191,piecewise,agreed,claude,0.562321,51.6778,,1465.4,2359.8
+FA-22,1,upper,trace,20,1428.4,2311.0,5.0,5.0,,log10 d -0.20,0.630926,54.16196,0.008872,0.42344,piecewise,agreed,claude,0.630926,54.1297,,1429.2,2311.1
+FA-22,1,upper,trace,21,1387.5,2262.2,5.0,5.0,,log10 d -0.15,0.708017,56.92495,0.009956,0.42823,piecewise,agreed,claude,0.708017,56.5928,,1392.8,2262.3
+FA-22,1,upper,trace,22,1355.6,2213.5,5.0,5.0,,log10 d -0.10,0.794241,59.07923,0.01117,0.43202,piecewise,agreed,claude,0.794241,59.001,,1357.3,2213.7
+FA-22,1,upper,trace,23,1316.4,2164.6,5.0,5.0,,log10 d -0.05,0.891332,61.7773,0.012537,0.43653,piecewise,agreed,claude,0.891332,61.7688,,1316.9,2164.8
+FA-22,1,upper,trace,24,1283.0,2111.0,5.0,5.0,,log10 d +0.00; gap at the 1.0 mm grid line; moved to the end of the dash above (it may continue under the grid line),1.011502,64.09355,0.01441,0.42255,piecewise,agreed,claude,1.0115,64.1452,,1282.4,2111.2
+FA-22,1,upper,trace,25,1259.5,2073.0,5.0,5.0,,log10 d +0.05; gap between dashes; moved to the nearest dash end (below; the dash above ends 0.4 px farther),1.107776,65.72244,0.015632,0.41272,piecewise,agreed,claude,1.10778,66.112,,1253.9,2073.1
+FA-22,1,upper,trace,26,1222.5,2019.6,5.0,5.0,,log10 d +0.10,1.25885,68.28755,0.017524,0.39726,piecewise,agreed,claude,1.25885,68.5923,,1217.9,2019.6
+FA-22,1,upper,trace,27,1189.0,1971.5,5.0,5.0,,log10 d +0.15,1.4126,70.59893,0.019422,0.37944,piecewise,agreed,claude,1.4126,70.7337,,1186.8,1971.5
+FA-22,1,upper,trace,28,1153.9,1923.2,5.0,5.0,,log10 d +0.20,1.584785,72.99156,0.021391,0.38224,piecewise,agreed,claude,1.58479,73.0021,,1153.5,1923.1
+FA-22,1,upper,trace,29,1119.1,1874.5,5.0,5.0,,log10 d +0.25,1.778164,75.3637,0.02402,0.38501,piecewise,agreed,claude,1.77816,75.3634,,1118.9,1874.5
+FA-22,1,upper,trace,30,1084.6,1825.8,5.0,5.0,,log10 d +0.30,1.995105,77.71547,0.027014,0.38776,piecewise,agreed,claude,1.9951,77.6928,,1084.8,1825.8
+FA-22,1,upper,trace,31,1048.2,1777.2,5.0,5.0,,log10 d +0.35,2.238509,80.19789,0.030315,0.39407,piecewise,agreed,claude,2.23851,80.1523,,1048.7,1777.2
+FA-22,1,upper,trace,32,1009.2,1728.6,5.0,5.0,,log10 d +0.40,2.511649,82.86251,0.034007,0.41095,piecewise,agreed,claude,2.51165,82.8206,,1009.7,1728.6
+FA-22,1,upper,trace,33,968.4,1680.0,5.0,5.0,,log10 d +0.45,2.818138,85.65315,0.038149,0.42864,piecewise,agreed,claude,2.81814,85.6738,,968.0,1680.0
+FA-22,1,upper,trace,34,928.0,1631.1,5.0,5.0,,log10 d +0.50,3.162383,88.41876,0.042671,0.44619,piecewise,agreed,claude,3.16238,88.3724,,928.5,1631.1
+FA-22,1,upper,trace,35,887.7,1582.0,5.0,5.0,,log10 d +0.55,3.547919,91.17588,0.048558,0.44781,piecewise,agreed,claude,3.54792,91.1623,,887.7,1581.9
+FA-22,1,upper,trace,36,849.0,1532.8,5.0,5.0,,log10 d +0.60,3.98145,93.81606,0.054823,0.43264,piecewise,agreed,claude,3.98145,93.3496,,855.5,1532.6
+FA-22,1,upper,trace,37,817.4,1483.1,5.0,5.0,,log10 d +0.65,4.46714,95.96689,0.0621,0.42023,piecewise,agreed,claude,4.46714,94.8527,,833.3,1482.9
+FA-22,1,upper,trace,38,793.5,1433.0,5.0,5.0,,log10 d +0.70; on the 5.0 mm grid line; centre from the dash above and below it,5.01658,97.5883,0.07196,0.41082,piecewise,agreed,claude,5.01658,97.5236,,794.1,1432.8
+FA-22,1,upper,trace,39,774.5,1385.0,5.0,5.0,,log10 d +0.75; strand just right of the 100 percent line; the dash ends at v 1387,5.61915,98.87336,0.07981,0.40333,piecewise,agreed,claude,5.61915,98.8284,,774.8,1384.7
+FA-22,1,upper,trace,40,766.5,1336.0,6.0,5.0,,log10 d +0.80; touches the 100 percent line on its left; centre from its right edge and the stroke width,6.30871,99.40539,0.08872,0.46874,piecewise,agreed,claude,6.30871,99.5159,,764.5,1335.7
+FA-22,1,upper,trace,41,773.5,1287.0,13.0,5.0,,"log10 d +0.85; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.08226,98.91322,0.09891,0.95151,piecewise,agreed,claude,7.08226,99.1418,,769.7,1286.7
+FA-22,1,upper,trace,42,762.0,1238.0,14.0,5.0,,"log10 d +0.90; the three curves and the 100 percent line run together here; centre of the merged curve ink, bound half its width",7.95166,99.6832,0.10999,1.01895,piecewise extrapolated y,agreed,claude,7.95166,99.6409,,762.2,1237.7
+FA-22,1,upper,trace,43,759.0,1191.0,14.0,4.0,,last point; coarse end: the merged curves meet the 3/8 in. circle; the three curves and the 100 percent line run together here; the 8.91 mm sample would fall on the circle and is not taken,8.88524,99.87354,0.1005,1.02107,piecewise extrapolated y,agreed,claude,8.88524,99.9626,,757.2,1195.0

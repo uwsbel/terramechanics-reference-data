@@ -1,0 +1,3 @@
+Your previous turn on this task was interrupted by a machine restart before you finished. Continue the same task from where you stopped, under exactly the same instructions as the original prompt: the evidence packet in `packet/`, the protocol `packet/CURVE-READING.md`, and the outputs under `out/<figure_id>/` for FC-5A, FC-6A and FC-7A.
+
+What is already on disk is your own earlier work: `out/read_helpers.py` and, per figure, `cal-p1/` and some check images. Reuse what is sound, verify it before relying on it, and redo anything you are unsure of. Then produce everything the original prompt asks for (points-p1.csv and points-p1-native.csv, calibration-eye-checks.csv, overlay-p1.png, notes.md per figure) and finish with the short answer it describes.

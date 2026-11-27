@@ -1,0 +1,49 @@
+```csv
+soil_no,bendix_designation,description_verbatim,family,state,relative_density,unit_weight_native,unit_weight_unit,friction_angle_deg,elastic_modulus_native,elastic_modulus_unit,mean_grain_size_native,mean_grain_size_unit,uniformity_coeff,percent_passing_200_native,d95_native,d95_unit,read_flags,source_locator
+1,RS Loose,Red Crushed Volcanic Scoria (narrowly graded),RS,loose,0,41.4,pcf,40°,"5,500",psi,1.8,mm,1.7,<3%,2.7,mm,damaged_percent_digit,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 1"
+2,PS Loose,White Crushed Pumice (narrowly graded),PS,loose,0,23.8,pcf,43°,"4,500",psi,1.8,mm,1.7,<3%,2.7,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 2"
+3,RS Inter.,Red Crushed Volcanic Scoria (narrowly graded),RS,intermediate,.45,45.9,pcf,44.5°,"8,600",psi,1.8,mm,1.7,<3%,2.7,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 3"
+4,RS Dense,Red Crushed Volcanic Scoria (narrowly graded),RS,dense,.80,50.6,pcf,47.3°,"10,900",psi,1.8,mm,1.7,<3%,2.7,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 4"
+5,RSM-a Loose,Mixture of RS and Crushed Marble (MS) (narrowly graded),RSM,loose,0,58.2,pcf,37°,"7,800",psi,2.4,mm,1.6,<3%,2.7,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 5"
+6,RC2 Loose,Red Crushed Volcanic Scoria (Broadly graded),RC2,loose,0,61.4,pcf,43°,"8,000",psi,1.1,mm,17.0,11%,4.7,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 6"
+7,SS Loose,White Silica Sand (Wedron 4040-narrowly graded),SS,loose,0,94.7,pcf,29°,"10,000",psi,0.4,mm,1.3,0%,0.52,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 7"
+8,SS Inter.,White Silica Sand (Wedron 4040-narrowly graded),SS,intermediate,.53,104,pcf,36.8°,"18,000",psi,0.4,mm,1.3,0%,0.52,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 8"
+9,SS Dense,White Silica Sand (Wedron 4040-narrowly graded),SS,dense,.69,107,pcf,39°,"24,000",psi,0.4,mm,1.3,0%,0.52,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 9"
+10,LSM Inter.,Mixture of RC and Air- Floated Clay,LSM,intermediate,.50,77.5,pcf,42°,"4,000",psi,.07,mm,large,51%,4,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 10"
+11,LSM Dense,Mixture of RC and Air- Floated Clay,LSM,dense,.70,82,pcf,42°,"6,000",psi,.07,mm,large,51%,4,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 11"
+12,RSM-b Dense,Mixture of RS and Crushed Marbel (MS) (narrowly graded),RSM,dense,.75,85,pcf,48°,"20,000",psi,2.15,mm,1.87,<1%,2.9,mm,,"1968 AM-68-1 Table 2-3, printed 2-16, PDF 41, row 12"
+```
+
+## Header and footnotes
+
+TABLE 2-3. TEST SOILS AND PROPERTIES
+
+Column headers in printed order, with line breaks represented by `<br>`:
+
+| Column | Printed header |
+|---|---|
+| 1 | No. |
+| 2 | Bendix<br>Designation |
+| 3 | Description |
+| 4 | Relative<br>Density<br>D<sub>r</sub> |
+| 5 | Unit<br>Weight<br>γ pcf |
+| 6 | Friction<br>Angle<br>ϕ |
+| 7 | Elastic<br>Modulus<br>E,psi<sup>*</sup> |
+| 8 | Mean<br>Size<br>μ<sub>w</sub>mm |
+| 9 | Uniform<br>Coeff.<br>C<sub>μ</sub> |
+| 10 | %<sup>**</sup><br>-200 |
+| 11 | D<sub>95</sub><sup>***</sup><br>mm |
+
+Columns 8 through 11 share the heading **Grain Size Parameters**.
+
+```text
+*Measured by sonic means at 4 psi confining pressure.
+**Percent of material (by weight) passing thru a No. 200 sieve (ACS).
+***Diameter at 95% "smaller than" point in standard sieve analysis.
+```
+
+## Reading notes
+
+- Row 1, `percent_passing_200_native`: provisionally read as `<3%`. Much of the digit is missing; `<5%` cannot be excluded from the surviving marks alone.
+- Row 12 clearly prints “Marbel”; that spelling is preserved.
+- Description line wrapping is collapsed in the CSV. The printed hyphen after `4040` is retained.

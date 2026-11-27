@@ -1,0 +1,132 @@
+{
+ "image": "packet/p0120.png",
+ "method": "tick marks (out/FC-2A/helpers/tick_calibrate.py, see its docstring); tools/calibrate_axes.py detect does not apply (no grid lines, top frame not at a printed value)",
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine, least squares on tick anchors)",
+ "ax": [
+  3.443658128270808,
+  0.03741305942115414,
+  -3392.457035454955
+ ],
+ "ay": [
+  0.03791432380825935,
+  -3.412813640668649,
+  11448.353163864778
+ ],
+ "x_per_px": 3.4438613563006357,
+ "y_per_px": 3.413024236931791,
+ "rms_residual_x": 14.471555179821852,
+ "rms_residual_y": 15.457807577427305,
+ "max_residual_x": 36.85104893994139,
+ "max_residual_y": 33.01421729826416,
+ "n_anchors": 11,
+ "left_axis": {
+  "u_at_v0": 988.776866682566,
+  "slope_du_dv": -0.012606063484311305,
+  "n": 337,
+  "rms_px": 0.4836421689122283
+ },
+ "bottom_axis": {
+  "v_at_u0": 3344.7758325222703,
+  "slope_dv_du": 0.016470381279293414,
+  "n": 289,
+  "rms_px": 0.42837973469634233
+ },
+ "right_frame": {
+  "u_at_v0": 2444.3030277842004,
+  "slope_du_dv": -0.011762664562294243,
+  "n": 463,
+  "used_as_x5000": false
+ },
+ "x_ticks": [
+  {
+   "value": 1000,
+   "u_center_below": 1249.5,
+   "v_probe_mid": 3378.0,
+   "n_rows": 13,
+   "thick_px": 6.0,
+   "u_spread": 0.0,
+   "u_at_axis": 1249.6593964377516,
+   "v_at_axis": 3365.3581992508516
+  },
+  {
+   "value": 2000,
+   "u_center_below": 1526.5,
+   "v_probe_mid": 3383.0,
+   "n_rows": 13,
+   "thick_px": 4.0,
+   "u_spread": 0.0,
+   "u_at_axis": 1526.6649141670243,
+   "v_at_axis": 3369.9205857443208
+  },
+  {
+   "value": 3000,
+   "u_center_below": 1812.5,
+   "v_probe_mid": 3388.0,
+   "n_rows": 13,
+   "thick_px": 6.0,
+   "u_spread": 0.5,
+   "u_at_axis": 1812.668563256249,
+   "v_at_axis": 3374.63117489209
+  },
+  {
+   "value": 4000,
+   "u_center_below": 2113.5,
+   "v_probe_mid": 3393.0,
+   "n_rows": 13,
+   "thick_px": 6.0,
+   "u_spread": 0.0,
+   "u_at_axis": 2113.6690979453933,
+   "v_at_axis": 3379.588768463691
+  }
+ ],
+ "y_ticks": [
+  {
+   "value": 6000,
+   "v_center": 1608.5,
+   "n_cols": 11,
+   "thick_px": 6.0,
+   "v_spread": 1.0,
+   "u_at_axis": 968.5000135680513
+  },
+  {
+   "value": 5000,
+   "v_center": 1890.5,
+   "n_cols": 11,
+   "thick_px": 6.0,
+   "v_spread": 0.0,
+   "u_at_axis": 964.9451036654755
+  },
+  {
+   "value": 4000,
+   "v_center": 2198.5,
+   "n_cols": 11,
+   "thick_px": 4.0,
+   "v_spread": 0.0,
+   "u_at_axis": 961.0624361123076
+  },
+  {
+   "value": 3000,
+   "v_center": 2491.0,
+   "n_cols": 11,
+   "thick_px": 5.0,
+   "v_spread": 0.0,
+   "u_at_axis": 957.3751625431465
+  },
+  {
+   "value": 2000,
+   "v_center": 2778.5,
+   "n_cols": 11,
+   "thick_px": 4.0,
+   "v_spread": 1.0,
+   "u_at_axis": 953.7509192914071
+  },
+  {
+   "value": 1000,
+   "v_center": 3078.5,
+   "n_cols": 11,
+   "thick_px": 4.0,
+   "v_spread": 0.0,
+   "u_at_axis": 949.9691002461137
+  }
+ ]
+}

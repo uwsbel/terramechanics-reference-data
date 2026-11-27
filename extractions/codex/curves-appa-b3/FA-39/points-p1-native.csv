@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,sample_dr_target,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FA-39,1,mean,trace,1,874.0,2010.49,3.5,3.5,,first point; stroke meets plot frame,0.0,0.0018318,67.6957,0.0032262,0.06716,piecewise extrapolated x
+FA-39,1,mean,trace,2,1010.98,2110.98,3.75,3.75,,,0.1,0.100011,69.42952,0.0033001,0.07513,piecewise
+FA-39,1,mean,trace,3,1148.09,2213.02,4.0,4.0,,,0.2,0.2000007,71.27255,0.0033348,0.08328,piecewise
+FA-39,1,mean,trace,4,1287.87,2315.91,4.5,4.5,,,0.3,0.2999931,73.2246,0.0037296,0.09787,piecewise
+FA-39,1,mean,trace,5,1424.94,2416.04,4.0,4.0,,,0.4,0.3999931,75.23046,0.0034679,0.09493,piecewise
+FA-39,1,mean,trace,6,1564.29,2517.68,3.0,3.0,,,0.5,0.4999937,77.4145,0.0026984,0.08004,piecewise
+FA-39,1,mean,trace,7,1704.2,2618.48,3.25,3.25,,,0.6,0.5999979,79.71339,0.0029503,0.09248,piecewise
+FA-39,1,mean,trace,8,1844.66,2720.6,4.0,4.0,,,0.7,0.7000011,82.15714,0.0033345,0.11326,piecewise
+FA-39,1,mean,trace,9,1983.5,2820.82,4.5,4.5,,,0.8,0.8000059,84.70362,0.0036828,0.13103,piecewise
+FA-39,1,mean,trace,10,2121.62,2921.9,4.0,4.0,,,0.9,0.9000035,87.47012,0.0033369,0.1282,piecewise
+FA-39,1,mean,trace,11,2259.0,3021.97,5.0,5.0,,last point; stroke meets plot frame,1.0,0.9993392,90.3916,0.004193,0.16577,piecewise extrapolated x
+FA-39,1,mean,feature,1,874.0,2010.49,3.5,3.5,,first point,,0.0018318,67.6957,0.0032262,0.06716,piecewise extrapolated x
+FA-39,1,mean,feature,2,2259.0,3021.97,5.0,5.0,,last point,,0.9993392,90.3916,0.004193,0.16577,piecewise extrapolated x
+FA-39,1,mean,feature,3,676.5,1966.0,2,2,,label: 67.8,,-0.1403589,66.94511,0.0038218,0.04099,piecewise extrapolated x
+FA-39,1,mean,feature,4,2437.0,3025.5,2,2,,label: 90.2,,1.1289871,90.52682,0.0031248,0.07639,piecewise extrapolated x
+FA-39,1,upper,trace,1,873.0,1936.7,3.75,3.75,,first point; stroke meets plot frame,0.0,0.00158,66.48529,0.0034133,0.06882,piecewise extrapolated x
+FA-39,1,upper,trace,2,1010.34,2037.42,4.75,4.75,,,0.1,0.100016,68.16023,0.0040398,0.08946,piecewise
+FA-39,1,upper,trace,3,1147.43,2140.44,4.5,4.5,,,0.2,0.1999908,69.96448,0.003706,0.0896,piecewise
+FA-39,1,upper,trace,4,1284.0,2239.0,4.5,4.5,,target Dr=0.3; gap: moved -3.16 px to nearest dash end,0.3,0.2977414,71.76508,0.0036818,0.09381,piecewise
+FA-39,1,upper,trace,5,1424.21,2342.62,4.5,4.5,,,0.4,0.3999848,73.75704,0.0038386,0.0993,piecewise
+FA-39,1,upper,trace,6,1563.62,2442.04,4.0,4.0,,,0.5,0.5000026,75.78622,0.0034262,0.09681,piecewise
+FA-39,1,upper,trace,7,1703.46,2542.31,5.0,5.0,,,0.6,0.6000079,77.97486,0.0042227,0.12668,piecewise
+FA-39,1,upper,trace,8,1855,2653.5,3.0,3.0,,target Dr=0.7; gap: nearest dash end checked by eye,0.7,0.7079867,80.55039,0.002602,0.08673,piecewise
+FA-39,1,upper,trace,9,1982.69,2744.55,4.5,4.5,,,0.8,0.8000168,82.76629,0.003681,0.12692,piecewise
+FA-39,1,upper,trace,10,2120.87,2846.05,4.0,4.0,,,0.9,0.9000069,85.39124,0.0033353,0.1214,piecewise
+FA-39,1,upper,trace,11,2259.0,2946.99,5.0,5.0,,last point; stroke meets plot frame,1.0,0.9997124,88.20322,0.0041891,0.15943,piecewise extrapolated x
+FA-39,1,upper,feature,1,873.0,1936.7,3.75,3.75,,first point,,0.00158,66.48529,0.0034133,0.06882,piecewise extrapolated x
+FA-39,1,upper,feature,2,2259.0,2946.99,5.0,5.0,,last point,,0.9997124,88.20322,0.0041891,0.15943,piecewise extrapolated x
+FA-39,1,upper,feature,3,672.5,1913.0,2,2,,label: 66.6,,-0.1429055,66.09081,0.0038522,0.03994,piecewise extrapolated x
+FA-39,1,upper,feature,4,2436.5,2947.5,2,2,,label: 88.1,,1.128782,88.24753,0.0031174,0.07312,piecewise extrapolated x
+FA-39,1,lower,trace,1,874.0,2086.24,4.5,4.5,,first point; stroke meets plot frame,0.0,0.0013497,68.98489,0.0039685,0.08724,piecewise extrapolated x
+FA-39,1,lower,trace,2,1011.64,2185.8,4.0,4.0,,,0.1,0.1000126,70.76352,0.0034848,0.08209,piecewise
+FA-39,1,lower,trace,3,1148.74,2286.79,3.5,3.5,,,0.2,0.1999956,72.65279,0.0029638,0.07713,piecewise
+FA-39,1,lower,trace,4,1288.57,2389.47,3.0,3.0,,,0.3,0.2999845,74.6769,0.002615,0.0716,piecewise
+FA-39,1,lower,trace,5,1425.64,2488.18,3.25,3.25,,,0.4,0.3999887,76.75772,0.0029119,0.08361,piecewise
+FA-39,1,lower,trace,6,1564.93,2588.03,4.5,4.5,,,0.5,0.4999976,78.99298,0.0037937,0.1191,piecewise
+FA-39,1,lower,trace,7,1704.89,2687.81,3.75,3.75,,,0.6,0.6000006,81.3449,0.0033119,0.10573,piecewise
+FA-39,1,lower,trace,8,1845.33,2789.82,4.5,4.5,,,0.7,0.6999975,83.8848,0.0036989,0.12923,piecewise
+FA-39,1,lower,trace,9,1984.24,2889.01,4.0,4.0,,,0.8,0.8000077,86.53404,0.0033156,0.12513,piecewise
+FA-39,1,lower,trace,10,2122.29,2988.85,3.5,3.5,,,0.9,0.9000063,89.39102,0.0029697,0.11984,piecewise
+FA-39,1,lower,trace,11,2259.0,3086.9,5.0,5.0,,last point; stroke meets plot frame,1.0,0.9990149,92.35568,0.0041964,0.1722,piecewise extrapolated x
+FA-39,1,lower,feature,1,874.0,2086.24,4.5,4.5,,first point,,0.0013497,68.98489,0.0039685,0.08724,piecewise extrapolated x
+FA-39,1,lower,feature,2,2259.0,3086.9,5.0,5.0,,last point,,0.9990149,92.35568,0.0041964,0.1722,piecewise extrapolated x
+FA-39,1,lower,feature,3,674.5,2020.5,2,2,,label: 69.0,,-0.1421501,67.84644,0.0038433,0.0421,piecewise extrapolated x
+FA-39,1,lower,feature,4,2434.5,3079.5,2,2,,label: 92.3,,1.1270536,92.15849,0.0031115,0.07847,piecewise extrapolated x

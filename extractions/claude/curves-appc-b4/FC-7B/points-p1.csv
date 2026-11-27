@@ -1,0 +1,108 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-7B,1,n27p1psi,marker,1,1800.0,3276.0,2,4,quarter-circle,near origin; lower part hidden in the x=0 frame line; center v = top 3260 + half height
+FC-7B,1,n27p1psi,marker,2,1671.5,3275.0,2,4,quarter-circle,near origin; lower part hidden in the x=0 frame line; center v = top 3259 + half height
+FC-7B,1,n27p1psi,marker,3,1542.0,3272.0,2,4,quarter-circle,near origin; directly under a star (13.8 psi); lower part hidden in the frame line
+FC-7B,1,n27p1psi,marker,4,1348.5,3265.0,3,2,quarter-circle,top-left corner on the 20 psi grid line; bottom touches the frame line
+FC-7B,1,n27p1psi,marker,5,1196.5,3256.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,6,1111.0,3247.0,3,2,quarter-circle,left corner touches the 25 psi grid line; stray dot at u 1134 not part of symbol
+FC-7B,1,n27p1psi,marker,7,970.5,3224.5,2,2,quarter-circle,stray dot at u 993 v 3234 not part of symbol
+FC-7B,1,n27p1psi,marker,8,856.0,3166.0,2,2,quarter-circle,left part on the 30 psi grid line
+FC-7B,1,n27p1psi,marker,9,789.5,3105.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,10,746.0,3046.5,2,2,quarter-circle,on the 0.04 in grid line
+FC-7B,1,n27p1psi,marker,11,712.0,2921.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,12,682.5,2795.0,2,2,quarter-circle,on the 0.08 in grid line; stray horizontal stroke at v 2799 to its left
+FC-7B,1,n27p1psi,marker,13,693.5,2675.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,14,744.5,2555.0,2,2,quarter-circle,on the 0.12 in grid line
+FC-7B,1,n27p1psi,marker,15,759.5,2434.5,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,16,815.5,2307.5,2,2,quarter-circle,on the 0.16 in grid line
+FC-7B,1,n27p1psi,marker,17,866.0,2186.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,18,924.5,2061.5,2,2,quarter-circle,on the 0.20 in grid line; stray dot above at v 2043
+FC-7B,1,n27p1psi,marker,19,947.5,1896.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,20,982.5,1753.0,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,21,1040.0,1602.5,2,2,quarter-circle,
+FC-7B,1,n27p1psi,marker,22,1102.5,1449.0,2,2,quarter-circle,stray dot above at v 1431
+FC-7B,1,n13p8psi,marker,1,1856.0,3269.0,3,4,star,near origin; overlaps the triangle (10.2 psi) above it; lower part hidden in the frame line
+FC-7B,1,n13p8psi,marker,2,1712.0,3259.0,2,3,star,near origin; bottom point hidden in the frame line
+FC-7B,1,n13p8psi,marker,3,1557.5,3240.0,2,3,star,bottom point merges with the top edge of the quarter-circle below it
+FC-7B,1,n13p8psi,marker,4,1462.0,3220.5,2,2,star,
+FC-7B,1,n13p8psi,marker,5,1419.0,3163.0,2,2,star,
+FC-7B,1,n13p8psi,marker,6,1370.5,3101.0,2,2,star,stray mark at u 1392-1396 v 3112-3117 not part of symbol
+FC-7B,1,n13p8psi,marker,7,1345.0,3040.0,3,2,star,on the 20 psi and 0.04 in grid lines; left point inside the line band
+FC-7B,1,n13p8psi,marker,8,1308.0,2919.5,2,2,star,
+FC-7B,1,n13p8psi,marker,9,1367.5,2793.5,3,2,star,on the 0.08 in grid line; left point inside the line band
+FC-7B,1,n13p8psi,marker,10,1382.0,2673.5,2,2,star,
+FC-7B,1,n13p8psi,marker,11,1431.5,2548.5,2,2,star,on the 0.12 in grid line
+FC-7B,1,n13p8psi,marker,12,1488.0,2427.0,2,2,star,
+FC-7B,1,n13p8psi,marker,13,1527.0,2302.5,3,2,star,on the 0.16 in grid line; left point inside the line band
+FC-7B,1,n13p8psi,marker,14,1564.5,2181.5,2,2,star,right points touch the 15 psi grid line
+FC-7B,1,n13p8psi,marker,15,1585.5,2058.0,2,2,star,on the 15 psi and 0.20 in grid lines
+FC-7B,1,n13p8psi,marker,16,1621.5,1904.0,2,2,star,
+FC-7B,1,n13p8psi,marker,17,1669.5,1749.0,2,2,star,
+FC-7B,1,n13p8psi,marker,18,1708.0,1591.5,2,2,star,
+FC-7B,1,n13p8psi,marker,19,1710.0,1444.0,2,2,star,
+FC-7B,1,n10p2psi,marker,1,2134.0,3264.0,3,3,triangle-up,near origin; tip merges with the circle (3.4 psi) to its left; lower vertex hidden in the frame line
+FC-7B,1,n10p2psi,marker,2,1942.0,3263.0,2,3,triangle-up,near origin; top vertex merges with the diamond above; lower vertex hidden in the frame line
+FC-7B,1,n10p2psi,marker,3,1835.0,3248.5,2,3,triangle-up,near origin; on the 10 psi grid line; lower vertex hidden under the star (13.8 psi)
+FC-7B,1,n10p2psi,marker,4,1693.5,3191.0,2,2,triangle-up,
+FC-7B,1,n10p2psi,marker,5,1602.0,3101.5,3,2,triangle-up,tip touches the 15 psi grid line
+FC-7B,1,n10p2psi,marker,6,1572.0,3037.5,3,2,triangle-up,"right side on the 15 psi grid line, tip under the 0.04 in grid line"
+FC-7B,1,n10p2psi,marker,7,1566.0,2918.0,3,2,triangle-up,right side on the 15 psi grid line
+FC-7B,1,n10p2psi,marker,8,1567.0,2792.0,3,2,triangle-up,"right side on the 15 psi grid line, tip under the 0.08 in grid line; stray horizontal stroke to the right"
+FC-7B,1,n10p2psi,marker,9,1599.0,2672.0,2,2,triangle-up,tip touches the 15 psi grid line; stray horizontal stroke below
+FC-7B,1,n10p2psi,marker,10,1641.0,2549.0,2,2,triangle-up,tip under the 0.12 in grid line; stray mark at u 1665 not part of symbol
+FC-7B,1,n10p2psi,marker,11,1695.0,2426.0,2,2,triangle-up,
+FC-7B,1,n10p2psi,marker,12,1730.0,2302.5,2,2,triangle-up,tip under the 0.16 in grid line; stray mark at u 1757 not part of symbol
+FC-7B,1,n10p2psi,marker,13,1765.5,2184.0,2,2,triangle-up,
+FC-7B,1,n10p2psi,marker,14,1797.0,2057.0,2,2,triangle-up,tip under the 0.20 in grid line
+FC-7B,1,n10p2psi,marker,15,1843.0,1905.0,2,2,triangle-up,
+FC-7B,1,n10p2psi,marker,16,1903.0,1749.0,2,2,triangle-up,
+FC-7B,1,n6p6psi,marker,1,2022.0,3254.0,3,3,diamond,near origin; overlaps a circle (3.4 psi) on its right and touches the square above; read from the top vertex at u 2022 v 3235 and the left vertex at u 2003
+FC-7B,1,n6p6psi,marker,2,1951.0,3236.5,2,2,diamond,bottom vertex merges with the triangle below
+FC-7B,1,n6p6psi,marker,3,1888.5,3194.0,2,2,diamond,stray horizontal stroke at v 3209 to its right
+FC-7B,1,n6p6psi,marker,4,1867.5,3161.5,2,2,diamond,
+FC-7B,1,n6p6psi,marker,5,1836.5,3100.0,2,2,diamond,left half on the 10 psi grid line; stray marks below left and at right not part of symbol
+FC-7B,1,n6p6psi,marker,6,1827.5,3036.5,2,2,diamond,centered on the 10 psi and 0.04 in grid lines
+FC-7B,1,n6p6psi,marker,7,1827.5,2913.0,2,2,diamond,centered on the 10 psi grid line
+FC-7B,1,n6p6psi,marker,8,1828.5,2790.0,2,2,diamond,centered on the 10 psi and 0.08 in grid lines
+FC-7B,1,n6p6psi,marker,9,1830.0,2669.0,2,2,diamond,centered on the 10 psi grid line; stray horizontal stroke at v 2686 to its left
+FC-7B,1,n6p6psi,marker,10,1861.0,2547.0,2,2,diamond,on the 0.12 in grid line
+FC-7B,1,n6p6psi,marker,11,1872.5,2427.0,2,2,diamond,
+FC-7B,1,n6p6psi,marker,12,1894.0,2303.0,2,2,diamond,on the 0.16 in grid line
+FC-7B,1,n6p6psi,marker,13,1921.0,2181.5,2,2,diamond,
+FC-7B,1,n6p6psi,marker,14,1930.0,2058.5,2,2,diamond,on the 0.20 in grid line
+FC-7B,1,n6p6psi,marker,15,1967.5,1902.0,2,2,diamond,
+FC-7B,1,n6p6psi,marker,16,1992.5,1750.0,2,2,diamond,
+FC-7B,1,n5p1psi,marker,1,2256.5,3274.0,2,5,square,near origin; only the top 20 px visible above the frame line; dot inside
+FC-7B,1,n5p1psi,marker,2,2194.5,3270.0,2,4,square,near origin; overlaps the circle (3.4 psi) on its right; lower edge in the frame line
+FC-7B,1,n5p1psi,marker,3,2098.0,3260.5,2,3,square,"near origin; overlaps a circle (3.4 psi) on its right, with a stray stroke inside"
+FC-7B,1,n5p1psi,marker,4,2000.0,3232.5,2,2,square,touches the circle (3.4 psi) to its left and the diamond below
+FC-7B,1,n5p1psi,marker,5,1917.5,3158.5,2,2,square,
+FC-7B,1,n5p1psi,marker,6,1898.5,3101.0,2,2,square,
+FC-7B,1,n5p1psi,marker,7,1893.5,3039.5,2,2,square,on the 0.04 in grid line; stray tick above at v 3020
+FC-7B,1,n5p1psi,marker,8,1886.5,2912.5,2,2,square,
+FC-7B,1,n5p1psi,marker,9,1879.5,2790.0,2,2,square,on the 0.08 in grid line
+FC-7B,1,n5p1psi,marker,10,1892.5,2668.0,2,2,square,
+FC-7B,1,n5p1psi,marker,11,1911.5,2545.0,2,2,square,on the 0.12 in grid line
+FC-7B,1,n5p1psi,marker,12,1930.5,2422.5,2,2,square,
+FC-7B,1,n5p1psi,marker,13,1953.5,2301.0,2,2,square,on the 0.16 in grid line
+FC-7B,1,n5p1psi,marker,14,1981.5,2179.5,2,2,square,
+FC-7B,1,n5p1psi,marker,15,1995.5,2061.0,2,2,square,on the 0.20 in grid line
+FC-7B,1,n5p1psi,marker,16,2023.0,1902.0,2,2,square,
+FC-7B,1,n5p1psi,marker,17,2042.5,1749.5,3,3,square,right side touches the circle (3.4 psi); irregular ink at the bottom edge
+FC-7B,1,n3p4psi,marker,1,2211.5,3265.0,2,3,circle,near origin; overlaps the square (5.1 psi) on its left; bottom in the frame line
+FC-7B,1,n3p4psi,marker,2,2108.0,3259.0,3,3,circle,"near origin; overlaps the square (5.1 psi) on its left and the triangle tip on its right; could also be read as a diamond, the top and right arc favor a circle"
+FC-7B,1,n3p4psi,marker,3,2037.5,3255.5,3,3,circle,near origin; overlaps the diamond (6.6 psi) on its left
+FC-7B,1,n3p4psi,marker,4,1976.0,3219.5,2,3,circle,bottom merges with the square (5.1 psi) and the diamond
+FC-7B,1,n3p4psi,marker,5,1952.5,3159.5,2,2,circle,
+FC-7B,1,n3p4psi,marker,6,1949.5,3099.5,2,2,circle,
+FC-7B,1,n3p4psi,marker,7,1948.5,3039.5,2,2,circle,on the 0.04 in grid line; stray stroke at u 1922-1931 not part of symbol
+FC-7B,1,n3p4psi,marker,8,1973.0,2915.0,2,2,circle,stray stroke at right not part of symbol
+FC-7B,1,n3p4psi,marker,9,1977.5,2792.0,2,2,circle,on the 0.08 in grid line; stray dot at u 1953 not part of symbol
+FC-7B,1,n3p4psi,marker,10,2005.0,2669.5,2,2,circle,
+FC-7B,1,n3p4psi,marker,11,2015.5,2545.5,2,2,circle,on the 0.12 in grid line; stray stroke at right
+FC-7B,1,n3p4psi,marker,12,2024.0,2424.5,2,2,circle,
+FC-7B,1,n3p4psi,marker,13,2048.0,2301.5,2,2,circle,on the 0.16 in grid line
+FC-7B,1,n3p4psi,marker,14,2055.0,2181.0,3,2,circle,right side inside the 5 psi grid line band
+FC-7B,1,n3p4psi,marker,15,2050.5,2057.0,2,2,circle,"on the 0.20 in grid line, right side touching the 5 psi grid line"
+FC-7B,1,n3p4psi,marker,16,2057.0,1903.5,2,2,circle,right side on the 5 psi grid line
+FC-7B,1,n3p4psi,marker,17,2074.5,1749.5,3,2,circle,left side on the 5 psi grid line and touching the square (5.1 psi)

@@ -1,0 +1,25 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_unit,y_unit,sampling_x_psf,trace_segment,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-11C,1,rsm-loose,marker,1,676.77,3513.013,2.0,4.743,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,144.562,890.032,11.885,18.211,piecewise
+FC-11C,1,rsm-loose,marker,2,848.353,3524.85,2.0,4.825,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,718.874,845.3,10.255,18.454,piecewise
+FC-11C,1,rsm-loose,marker,3,1144.893,3227.793,2.0,4.853,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,1750.841,1841.41,10.903,18.37,piecewise
+FC-11C,1,rsm-loose,marker,4,1353.38,2983.94,16.12,15.84,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; two overlapping triangles distinguishable; shared apex/base ink; half-symbol bounds,psf,psf,,,2484.663,2665.79,59.971,56.429,piecewise
+FC-11C,1,rsm-loose,marker,5,1353.95,2965.567,15.935,14.15,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; two overlapping triangles distinguishable; shared apex/base ink; half-symbol bounds,psf,psf,,,2487.664,2728.444,59.233,50.672,piecewise
+FC-11C,1,rsm-loose,marker,6,1482.977,2961.423,2.0,4.538,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,2933.931,2738.4,9.66,17.426,piecewise
+FC-11C,1,rsm-loose,marker,7,1739.25,2876.97,4.0,6.0,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; grid line crosses symbol; sides reconstructed excluding grid ink,psf,psf,,,3812.793,3018.278,16.833,22.76,piecewise
+FC-11C,1,rsm-loose,marker,8,1990.357,2636.977,2.0,4.762,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,4685.917,3836.064,9.779,18.702,piecewise
+FC-11C,1,rsm-loose,marker,9,2019.493,2485.447,2.0,4.527,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; close vertical pair with separately visible outlines,psf,psf,,,4794.355,4359.699,9.709,18.534,piecewise
+FC-11C,1,rsm-loose,marker,10,2018.01,2449.313,2.0,4.593,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; close vertical pair with separately visible outlines,psf,psf,,,4791.331,4485.19,9.714,18.909,piecewise
+FC-11C,1,rsm-loose,trace,1,634.923,3604.139,5.5,5.5,,left end: fitted-line branch reaches x=0 axis,psf,psf,0,1,-0.001,587.834,24.198,20.614,piecewise extrapolated x
+FC-11C,1,rsm-loose,trace,2,782.486,3489.438,5.5,5.5,,on drawn fit ink at 500 psf normal stress,psf,psf,500,1,499.999,965.295,22.677,20.901,piecewise
+FC-11C,1,rsm-loose,trace,3,929.814,3374.568,5.5,5.5,,on drawn fit ink at 1000 psf normal stress,psf,psf,1000,1,1000.0,1349.963,21.876,21.059,piecewise
+FC-11C,1,rsm-loose,trace,4,1072.81,3263.097,5.5,5.5,,on drawn fit ink at 1500 psf normal stress,psf,psf,1500,1,1500.001,1723.853,22.652,20.77,piecewise
+FC-11C,1,rsm-loose,trace,5,1215.861,3152.661,5.5,5.5,,on drawn fit ink at 2000 psf normal stress,psf,psf,2000,1,2000.001,2094.661,23.372,20.671,piecewise
+FC-11C,1,rsm-loose,trace,6,1358.752,3041.568,5.5,5.5,,on drawn fit ink at 2500 psf normal stress,psf,psf,2500,1,2500.001,2469.043,22.588,20.759,piecewise
+FC-11C,1,rsm-loose,trace,7,1501.595,2931.52,5.5,5.5,,"on drawn fit ink at 3000 psf normal stress; fit ink reaches/crosses vertical grid line here, checked on enlarged crop",psf,psf,3000,1,2999.999,2839.789,21.721,20.845,piecewise
+FC-11C,1,rsm-loose,trace,8,1646.438,2816.748,5.5,5.5,,on drawn fit ink at 3500 psf normal stress,psf,psf,3500,1,3500.001,3228.683,21.714,21.161,piecewise
+FC-11C,1,rsm-loose,trace,9,1791.289,2705.039,5.5,5.5,,on drawn fit ink at 4000 psf normal stress,psf,psf,4000,1,4000.0,3608.462,22.139,21.288,piecewise
+FC-11C,1,rsm-loose,trace,10,1935.36,2593.453,5.5,5.5,,on drawn fit ink at 4500 psf normal stress,psf,psf,4500,1,4499.998,3987.732,21.908,21.5,piecewise
+FC-11C,1,rsm-loose,trace,11,2018.0,2529.0,5.5,5.5,,right end: last distinct fitted-line ink; maximum of trace,psf,psf,right-end,1,4786.763,4208.555,21.764,21.861,piecewise
+FC-11C,1,rsm-loose,feature,1,634.923,3604.139,5.5,5.5,,first point; left end: fitted-line branch reaches x=0 axis,psf,psf,0,1,-0.001,587.834,24.198,20.614,piecewise extrapolated x
+FC-11C,1,rsm-loose,feature,2,2018.0,2529.0,5.5,5.5,,last point; maximum of trace; right end: last distinct fitted-line ink; maximum of trace,psf,psf,right-end,1,4786.763,4208.555,21.764,21.861,piecewise
+FC-11C,1,rsm-loose,feature,3,634.923,3604.139,5.5,5.5,,intercept,psf,psf,0,1,-0.001,587.834,24.198,20.614,piecewise extrapolated x

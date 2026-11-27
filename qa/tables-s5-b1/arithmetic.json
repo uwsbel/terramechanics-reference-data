@@ -1,0 +1,118 @@
+{
+ "table": "qa/tables-s5-b1/agreed.csv",
+ "drops": 8,
+ "g_in_s2": 386.4,
+ "g": "g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",
+ "vertical_fit": 3,
+ "vertical": 4,
+ "with_vh_fit": 0,
+ "with_vh": 4,
+ "drops_detail": [
+  {
+   "run": "1",
+   "g_tau_in_s": 115.15,
+   "VV_in_s": "-114.9",
+   "fits": false
+  },
+  {
+   "run": "4",
+   "g_tau_in_s": 117.47,
+   "VV_in_s": "-117.3",
+   "fits": true
+  },
+  {
+   "run": "6",
+   "g_tau_in_s": 117.08,
+   "VV_in_s": "-117.1",
+   "fits": true
+  },
+  {
+   "run": "8",
+   "g_tau_in_s": 118.24,
+   "VV_in_s": "-118.0",
+   "fits": true
+  },
+  {
+   "run": "2",
+   "g_tau_in_s": 68.39,
+   "VV_in_s": "-60.5",
+   "fits": false
+  },
+  {
+   "run": "3",
+   "g_tau_in_s": 60.28,
+   "VV_in_s": "-60.0",
+   "fits": false
+  },
+  {
+   "run": "5",
+   "g_tau_in_s": 56.41,
+   "VV_in_s": "-60.8",
+   "fits": false
+  },
+  {
+   "run": "7",
+   "g_tau_in_s": 59.51,
+   "VV_in_s": "-60.0",
+   "fits": false
+  }
+ ],
+ "standard": {
+  "g_in_s2": 386.0886,
+  "g": "g = standard gravity, 9.80665 m/s^2",
+  "vertical_fit": 4,
+  "vertical": 4,
+  "with_vh_fit": 1,
+  "with_vh": 4,
+  "drops_detail": [
+   {
+    "run": "1",
+    "g_tau_in_s": 115.05,
+    "VV_in_s": "-114.9",
+    "fits": true
+   },
+   {
+    "run": "4",
+    "g_tau_in_s": 117.37,
+    "VV_in_s": "-117.3",
+    "fits": true
+   },
+   {
+    "run": "6",
+    "g_tau_in_s": 116.98,
+    "VV_in_s": "-117.1",
+    "fits": true
+   },
+   {
+    "run": "8",
+    "g_tau_in_s": 118.14,
+    "VV_in_s": "-118.0",
+    "fits": true
+   },
+   {
+    "run": "2",
+    "g_tau_in_s": 68.34,
+    "VV_in_s": "-60.5",
+    "fits": false
+   },
+   {
+    "run": "3",
+    "g_tau_in_s": 60.23,
+    "VV_in_s": "-60.0",
+    "fits": true
+   },
+   {
+    "run": "5",
+    "g_tau_in_s": 56.37,
+    "VV_in_s": "-60.8",
+    "fits": false
+   },
+   {
+    "run": "7",
+    "g_tau_in_s": 59.46,
+    "VV_in_s": "-60.0",
+    "fits": false
+   }
+  ]
+ }
+}

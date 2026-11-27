@@ -1,0 +1,248 @@
+soil_no,quantity,qualifier,value_native,unit_native,value_si,unit_si,printed_text,source_locator,status
+1,bendix_designation,,"RS, Loose",,,,"1. Bendix Designation: RS, Loose","AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-2, PDF 3",resolved
+1,relative_density,,0,,0,,average relative density of Soil No. 1 is zero,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-5, PDF 6",resolved
+1,friction_angle,about,41,deg,41,deg,angle of internal friction for Soil No. 1 is about 41°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-5, PDF 6",resolved
+1,elastic_modulus,about,5500,psi,3.79212e+07,Pa,for Soil No. 1 by this test is about 5500 psi at a confining pressure of .4 [?] psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-5, PDF 6",resolved
+1,modulus_confining_pressure,,.4 [?],psi,2757.9,Pa,for Soil No. 1 by this test is about 5500 psi at a confining pressure of .4 [?] psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-5, PDF 6",resolved
+1,placement,,,,,,Soil No. 1 was placed using the hopper method.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-5, PDF 6",resolved
+1,d50_average,,2.2mm,mm,2.2,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,d50_range,,2.1-2.3mm,mm,2.1-2.3,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,d10_average,,1.3mm,mm,1.3,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,d10_range,,1.2-1.4mm,mm,1.2-1.4,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,cu_average,,1.7,,1.7,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,d95_average,,2.8mm,mm,2.8,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,d95_range,,2.8-3.0mm,mm,2.8-3.0,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-2 inset, printed A-6, PDF 7",agreed
+1,gamma_min_label_1,"printed end label, top to bottom",40.1,pcf,642.34,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+1,gamma_min_label_2,"printed end label, top to bottom",41.3,pcf,661.563,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+1,gamma_min_label_3,"printed end label, top to bottom",42.5,pcf,680.785,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+1,gamma_max_label_1,"printed end label, top to bottom",51.8,pcf,829.756,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+1,gamma_max_label_2,"printed end label, top to bottom",52.9,pcf,847.377,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+1,gamma_max_label_3,"printed end label, top to bottom",54.0,pcf,864.997,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-3, printed A-7, PDF 8",agreed
+2,bendix_designation,,PS Loose,,,,1. Bendix Designation: PS Loose,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-10, PDF 11",resolved
+2,relative_density,,0,,0,,average relative density of Soil No. 2 is zero,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-11, PDF 12",resolved
+2,d50_average,,1.8mm,mm,1.8,mm,Mean Size | $D_{50}$ | 1.8mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,d50_range,,---,mm,---,mm,Mean Size | $D_{50}$ | 1.8mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,d10_average,,1.2mm,mm,1.2,mm,Effective Diameter | $D_{10}$ | 1.2mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,d10_range,,---,mm,---,mm,Effective Diameter | $D_{10}$ | 1.2mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,cu_average,,1.6,,1.6,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.6 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.6 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,d95_average,,2.7mm,mm,2.7,mm,Coarseness | $D_{95}$ | 2.7mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,d95_range,,---,mm,---,mm,Coarseness | $D_{95}$ | 2.7mm | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-6 inset, printed A-13, PDF 14",agreed
+2,gamma_min_label_1,"printed end label, top to bottom",23.3,pcf,373.23,kg/m^3,"gamma_min labels 23.3, 23.8, 24.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,gamma_min_label_2,"printed end label, top to bottom",23.8,pcf,381.239,kg/m^3,"gamma_min labels 23.3, 23.8, 24.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,gamma_min_label_3,"printed end label, top to bottom",24.3,pcf,389.249,kg/m^3,"gamma_min labels 23.3, 23.8, 24.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,gamma_max_label_1,"printed end label, top to bottom",29.3,pcf,469.341,kg/m^3,"gamma_max labels 29.3, 30.2, 31.1","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,gamma_max_label_2,"printed end label, top to bottom",30.2,pcf,483.758,kg/m^3,"gamma_max labels 29.3, 30.2, 31.1","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,gamma_max_label_3,"printed end label, top to bottom",31.1,pcf,498.174,kg/m^3,"gamma_max labels 29.3, 30.2, 31.1","AM-68-1 Vol. II (NASA CR-92215), Figure A-7, printed A-14, PDF 15",agreed
+2,friction_angle,about,43,deg,43,deg,angle of internal friction for Soil No. 2 is about 43°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-16, PDF 17",resolved
+2,elastic_modulus,about,4500,psi,3.10264e+07,Pa,for Soil No. 2 by this test is about 4500 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-16, PDF 17",resolved
+2,modulus_confining_pressure,,4,psi,27579,Pa,for Soil No. 2 by this test is about 4500 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-16, PDF 17",resolved
+2,placement,,,,,,Soil No. 2 was placed using the hopper method.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-16, PDF 17",resolved
+3,bendix_designation,,"RS, Intermediate",,,,"1. Bendix Designation: RS, Intermediate","AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-17, PDF 18",resolved
+3,relative_density,about,0.45,,0.45,,average relative density of Soil No. 3 is about 0.45,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-20, PDF 21",resolved
+3,friction_angle,about,43.9,deg,43.9,deg,angle of internal friction for Soil No. 3 is about 43.9°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-20, PDF 21",resolved
+3,elastic_modulus,about,8600,psi,5.92949e+07,Pa,for Soil No. 3 by this test is about 8600 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-20, PDF 21",resolved
+3,modulus_confining_pressure,,4,psi,27579,Pa,for Soil No. 3 by this test is about 8600 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-20, PDF 21",resolved
+3,d50_average,,2.2mm,mm,2.2,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,d50_range,,2.1-2.3mm,mm,2.1-2.3,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,d10_average,,1.3mm,mm,1.3,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,d10_range,,1.2-1.4mm,mm,1.2-1.4,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,cu_average,,1.7,,1.7,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,d95_average,,2.8mm,mm,2.8,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,d95_range,,2.8-3.0mm,mm,2.8-3.0,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-10 inset, printed A-21, PDF 22",agreed
+3,gamma_min_label_1,"printed end label, top to bottom",40.1,pcf,642.34,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,gamma_min_label_2,"printed end label, top to bottom",41.3,pcf,661.563,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,gamma_min_label_3,"printed end label, top to bottom",42.5,pcf,680.785,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,gamma_max_label_1,"printed end label, top to bottom",51.8,pcf,829.756,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,gamma_max_label_2,"printed end label, top to bottom",52.9,pcf,847.377,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,gamma_max_label_3,"printed end label, top to bottom",54.0,pcf,864.997,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-11, printed A-22, PDF 23",resolved
+3,placement,,,,,,Soil No. 3 was placed using a hopper and compacted with 2 passes of a roller.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-24, PDF 25",resolved
+3,roller_count,passes,2,,2,,2 passes,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-24, PDF 25",resolved
+4,bendix_designation,,"RS, Dense",,,,"1. Bendix Designation: RS, Dense","AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-25, PDF 26",resolved
+4,relative_density,about,0.8,,0.8,,average relative density of Soil No. 4 is about 0.8,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-28, PDF 29",resolved
+4,friction_angle,about,47.9,deg,47.9,deg,angle of internal friction for Soil No. 4 is about 47.9°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-28, PDF 29",resolved
+4,elastic_modulus,about,10900,psi,7.51529e+07,Pa,"for Soil No. 4 by this test is about 10,900 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-28, PDF 29",resolved
+4,modulus_confining_pressure,,4,psi,27579,Pa,"for Soil No. 4 by this test is about 10,900 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-28, PDF 29",resolved
+4,d50_average,,2.2mm,mm,2.2,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,d50_range,,2.1-2.3mm,mm,2.1-2.3,mm,Mean Size | $D_{50}$ | 2.2mm | 2.1-2.3mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,d10_average,,1.3mm,mm,1.3,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,d10_range,,1.2-1.4mm,mm,1.2-1.4,mm,Effective Diameter | $D_{10}$ | 1.3mm | 1.2-1.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,cu_average,,1.7,,1.7,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.7 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,d95_average,,2.8mm,mm,2.8,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,d95_range,,2.8-3.0mm,mm,2.8-3.0,mm,Coarseness | $D_{95}$ | 2.8mm | 2.8-3.0mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-14 inset, printed A-29, PDF 30",agreed
+4,gamma_min_label_1,"printed end label, top to bottom",40.1,pcf,642.34,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,gamma_min_label_2,"printed end label, top to bottom",41.3,pcf,661.563,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,gamma_min_label_3,"printed end label, top to bottom",42.5,pcf,680.785,kg/m^3,"gamma_min labels 40.1, 41.3, 42.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,gamma_max_label_1,"printed end label, top to bottom",51.8,pcf,829.756,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,gamma_max_label_2,"printed end label, top to bottom",52.9,pcf,847.377,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,gamma_max_label_3,"printed end label, top to bottom",54.0,pcf,864.997,kg/m^3,"gamma_max labels 51.8, 52.9, 54.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-15, printed A-30, PDF 31",resolved
+4,placement,,,,,,Soil No. 4 was placed using a hopper and compacted with 16 passes of a roller.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-32, PDF 33",resolved
+4,roller_count,passes,16,,16,,16 passes,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-32, PDF 33",resolved
+5,bendix_designation,,RSM - a Loose,,,,1. Bendix Designation: RSM - a Loose.,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-33, PDF 34",resolved
+5,mix_ratio_by_weight,cinders : second component,5:7,,5:7,,mixed in the ratio of 5:7,"AM-68-1 Vol. II (NASA CR-92215), item 6, printed A-34, PDF 35",resolved
+5,relative_density,about,0,,0,,average relative density of Soil No. 5 is about zero,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-37, PDF 38",resolved
+5,friction_angle,about,37,deg,37,deg,angle of internal friction for Soil No. 5 is about 37°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-37, PDF 38",resolved
+5,d50_average,,2.4mm,mm,2.4,mm,Mean Size | $D_{50}$ | 2.4mm | 2.3-2.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,d50_range,,2.3-2.4mm,mm,2.3-2.4,mm,Mean Size | $D_{50}$ | 2.4mm | 2.3-2.4mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,d10_average,,1.5mm,mm,1.5,mm,Effective Diameter | $D_{10}$ | 1.5mm | 1.4-1.6mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,d10_range,,1.4-1.6mm,mm,1.4-1.6,mm,Effective Diameter | $D_{10}$ | 1.5mm | 1.4-1.6mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,cu_average,,1.6,,1.6,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.6 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.6 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,d95_average,,2.7mm,mm,2.7,mm,Coarseness | $D_{95}$ | 2.7mm | 2.7-2.8mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,d95_range,,2.7-2.8mm,mm,2.7-2.8,mm,Coarseness | $D_{95}$ | 2.7mm | 2.7-2.8mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-18 inset, printed A-38, PDF 39",agreed
+5,gamma_min_label_1,"printed end label, top to bottom",57.3,pcf,917.858,kg/m^3,"gamma_min labels 57.3, 57.9, 58.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,gamma_min_label_2,"printed end label, top to bottom",57.9,pcf,927.469,kg/m^3,"gamma_min labels 57.3, 57.9, 58.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,gamma_min_label_3,"printed end label, top to bottom",58.5,pcf,937.08,kg/m^3,"gamma_min labels 57.3, 57.9, 58.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,gamma_max_label_1,"printed end label, top to bottom",65.1,pcf,1042.8,kg/m^3,"gamma_max labels 65.1, 70.3, 75.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,gamma_max_label_2,"printed end label, top to bottom",70.3,pcf,1126.1,kg/m^3,"gamma_max labels 65.1, 70.3, 75.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,gamma_max_label_3,"printed end label, top to bottom",75.5,pcf,1209.39,kg/m^3,"gamma_max labels 65.1, 70.3, 75.5","AM-68-1 Vol. II (NASA CR-92215), Figure A-19, printed A-39, PDF 40",agreed
+5,elastic_modulus,"estimated, not measured",7800,psi,5.37791e+07,Pa,estimated to be 7800 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-41, PDF 42",resolved
+5,placement,,,,,,Soil No. 5 was placed using the hopper method.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-41, PDF 42",resolved
+6,bendix_designation,,RC2 Loose,,,,1. Bendix Designation: RC2 Loose,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-42, PDF 43",resolved
+6,relative_density,about,0,,0,,average relative density of Soil No. 6 is about zero,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-45, PDF 46",resolved
+6,friction_angle,about,43,deg,43,deg,angle of internal friction for Soil No. 6 is about 43°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-45, PDF 46",resolved
+6,elastic_modulus,about,8000,psi,5.51581e+07,Pa,for Soil No. 6 by this test is about 8000 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-45, PDF 46",resolved
+6,modulus_confining_pressure,,4,psi,27579,Pa,for Soil No. 6 by this test is about 8000 psi at a confining pressure of 4 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-45, PDF 46",resolved
+6,placement,,,,,,"Soil No. 6 was placed using the hopper method. However, the soil handling was done by shovel rather than the vacuum system.","AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-45, PDF 46",resolved
+6,d50_average,,1.1mm,mm,1.1,mm,Mean Size | $D_{50}$ | 1.1mm | 0.9-2.5mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,d50_range,,0.9-2.5mm,mm,0.9-2.5,mm,Mean Size | $D_{50}$ | 1.1mm | 0.9-2.5mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,d10_average,,0.07mm,mm,0.07,mm,Effective Diameter | $D_{10}$ | 0.07mm | 0.06-0.1mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,d10_range,,0.06-0.1mm,mm,0.06-0.1,mm,Effective Diameter | $D_{10}$ | 0.07mm | 0.06-0.1mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,cu_average,,2 5 [?],,,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 2 5 [?] | 15-25,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,cu_range,,15-25,,15-25,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 2 5 [?] | 15-25,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,d95_average,,5.0mm,mm,5,mm,Coarseness | $D_{95}$ | 5.0mm | 4.1-5.5mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,d95_range,,4.1-5.5mm,mm,4.1-5.5,mm,Coarseness | $D_{95}$ | 5.0mm | 4.1-5.5mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-22 inset, printed A-46, PDF 47",agreed
+6,gamma_min_label_1,"printed end label, top to bottom",53.6,pcf,858.59,kg/m^3,"gamma_min labels 53.6, 61.4, 69.2","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+6,gamma_min_label_2,"printed end label, top to bottom",61.4,pcf,983.534,kg/m^3,"gamma_min labels 53.6, 61.4, 69.2","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+6,gamma_min_label_3,"printed end label, top to bottom",69.2,pcf,1108.48,kg/m^3,"gamma_min labels 53.6, 61.4, 69.2","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+6,gamma_max_label_1,"printed end label, top to bottom",71.2,pcf,1140.51,kg/m^3,"gamma_max labels 71.2, 83.1, 94.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+6,gamma_max_label_2,"printed end label, top to bottom",83.1,pcf,1331.13,kg/m^3,"gamma_max labels 71.2, 83.1, 94.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+6,gamma_max_label_3,"printed end label, top to bottom",94.0,pcf,1505.74,kg/m^3,"gamma_max labels 71.2, 83.1, 94.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-23, printed A-47, PDF 48",agreed
+7,bendix_designation,,SS Loose,,,,1. Bendix Designation: SS Loose,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-50, PDF 51",resolved
+7,relative_density,about,0,,0,,average relative density of Soil No. 7 is about zero,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-52, PDF 53",resolved
+7,friction_angle,about,29.8,deg,29.8,deg,angle of internal friction for Soil No. 7 is about 29.8°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-52, PDF 53",resolved
+7,elastic_modulus,about,10000,psi,6.89476e+07,Pa,"for Soil No. 7 by this test is about 10,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-52, PDF 53",resolved
+7,modulus_confining_pressure,,4,psi,27579,Pa,"for Soil No. 7 by this test is about 10,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-52, PDF 53",resolved
+7,d50_average,,0.42mm,mm,0.42,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,d50_range,,0.40-0.43mm,mm,0.40-0.43,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,d10_average,,0.28mm,mm,0.28,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,d10_range,,0.27-0.29mm,mm,0.27-0.29,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,cu_average,,1.5,,1.5,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,cu_range,,----,,----,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,d95_average,,0.6mm,mm,0.6,mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,d95_range,,0.58-0.62mm,mm,0.58-0.62,mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-26 inset, printed A-53, PDF 54",agreed
+7,gamma_min_label_1,"printed end label, top to bottom",95.4,pcf,1528.16,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-27, printed A-54, PDF 55",resolved
+7,gamma_min_label_2,"printed end label, top to bottom",95.8,pcf,1534.57,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-27, printed A-54, PDF 55",resolved
+7,gamma_max_label_1,"printed end label, top to bottom",110.5,pcf,1770.04,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-27, printed A-54, PDF 55",resolved
+7,gamma_max_label_2,"printed end label, top to bottom",112.7,pcf,1805.28,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-27, printed A-54, PDF 55",resolved
+7,gamma_max_label_3,"printed end label, top to bottom",114.9,pcf,1840.52,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-27, printed A-54, PDF 55",resolved
+7,placement,,,,,,Soil No. 7 was placed using the hopper method.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-56, PDF 57",resolved
+8,bendix_designation,,SS Intermediate,,,,1. Bendix Designation: SS Intermediate,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-57, PDF 58",resolved
+8,relative_density,about,0.53,,0.53,,average relative density of Soil No. 8 is about 0.53,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-59, PDF 60",resolved
+8,friction_angle,about,36.8,deg,36.8,deg,angle of internal friction for Soil No. 8 is about 36.8°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-59, PDF 60",resolved
+8,elastic_modulus,about,18000,psi,1.24106e+08,Pa,"for Soil No. 8 by this test is about 18,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-59, PDF 60",resolved
+8,modulus_confining_pressure,,4,psi,27579,Pa,"for Soil No. 8 by this test is about 18,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-59, PDF 60",resolved
+8,d50_average,,0.42mm,mm,0.42,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,d50_range,,0.40-0.43mm,mm,0.40-0.43,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,d10_average,,0.28mm,mm,0.28,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,d10_range,,0.27-0.29mm,mm,0.27-0.29,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,cu_average,,1.5,,1.5,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,d95_average,,0.6mm,mm,0.6,mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,d95_range,,0.58-0.62mm,mm,0.58-0.62,mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-30 inset, printed A-60, PDF 61",agreed
+8,gamma_min_label_1,"printed end label, top to bottom",95.4,pcf,1528.16,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-31, printed A-61, PDF 62",resolved
+8,gamma_min_label_2,"printed end label, top to bottom",95.8,pcf,1534.57,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-31, printed A-61, PDF 62",resolved
+8,gamma_max_label_1,"printed end label, top to bottom",110.5,pcf,1770.04,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-31, printed A-61, PDF 62",resolved
+8,gamma_max_label_2,"printed end label, top to bottom",112.7,pcf,1805.28,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-31, printed A-61, PDF 62",resolved
+8,gamma_max_label_3,"printed end label, top to bottom",114.9,pcf,1840.52,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-31, printed A-61, PDF 62",resolved
+8,placement,,,,,,Soil No. 8 was placed with a hopper and compacted with 8 passes of a roller.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-63, PDF 64",resolved
+8,roller_count,passes,8,,8,,8 passes,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-63, PDF 64",resolved
+9,bendix_designation,,SS Dense,,,,1. Bendix Designation: SS Dense,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-64, PDF 65",resolved
+9,relative_density,about,0.69,,0.69,,average relative density of Soil No. 9 is about 0.69,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-66, PDF 67",resolved
+9,friction_angle,about,39,deg,39,deg,angle of internal friction for Soil No. 9 is about 39°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-66, PDF 67",resolved
+9,elastic_modulus,about,24000,psi,1.65474e+08,Pa,"for Soil No. 9 by this test is about 24,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-66, PDF 67",resolved
+9,modulus_confining_pressure,,4,psi,27579,Pa,"for Soil No. 9 by this test is about 24,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-66, PDF 67",resolved
+9,d50_average,,0.42mm,mm,0.42,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,d50_range,,0.40-0.43mm,mm,0.40-0.43,mm,Mean Size | $D_{50}$ | 0.42mm | 0.40-0.43mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,d10_average,,0.28mm,mm,0.28,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,d10_range,,0.27-0.29mm,mm,0.27-0.29,mm,Effective Diameter | $D_{10}$ | 0.28mm | 0.27-0.29mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,cu_average,,1.5,,1.5,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,cu_range,,----,,----,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.5 | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,d95_average,,0.6mm,mm,0.6,mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm [?],"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,d95_range,,0.58-0.62mm [?],mm,0.58-0.62 [?],mm,Coarseness | $D_{95}$ | 0.6mm | 0.58-0.62mm [?],"AM-68-1 Vol. II (NASA CR-92215), Figure A-34 inset, printed A-67, PDF 68",agreed
+9,gamma_min_label_1,"printed end label, top to bottom",95.4,pcf,1528.16,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-35, printed A-68, PDF 69",resolved
+9,gamma_min_label_2,"printed end label, top to bottom",95.8,pcf,1534.57,kg/m^3,"gamma_min labels 95.4, 95.8","AM-68-1 Vol. II (NASA CR-92215), Figure A-35, printed A-68, PDF 69",resolved
+9,gamma_max_label_1,"printed end label, top to bottom",110.5,pcf,1770.04,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-35, printed A-68, PDF 69",resolved
+9,gamma_max_label_2,"printed end label, top to bottom",112.7,pcf,1805.28,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-35, printed A-68, PDF 69",resolved
+9,gamma_max_label_3,"printed end label, top to bottom",114.9,pcf,1840.52,kg/m^3,"gamma_max labels 110.5, 112.7, 114.9","AM-68-1 Vol. II (NASA CR-92215), Figure A-35, printed A-68, PDF 69",resolved
+9,placement,,,,,,Soil No. 9 was placed by a hopper and compacted with 24 passes of a roller.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-70, PDF 71",resolved
+9,roller_count,passes,24,,24,,24 passes,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-70, PDF 71",resolved
+10,bendix_designation,,LSM intermediate,,,,1. Bendix Designation: LSM intermediate,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-71, PDF 72",resolved
+10,mix_ratio_by_weight,cinders : second component,1:1,,1:1,,mixed 1:1,"AM-68-1 Vol. II (NASA CR-92215), item 6, printed A-73, PDF 74",resolved
+10,relative_density,about,0.5,,0.5,,average relative density of Soil No. 10 is about 0.5,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-75, PDF 76",resolved
+10,friction_angle,about,42,deg,42,deg,angle of internal friction for Soil No. 10 is about 42°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-75, PDF 76",resolved
+10,d50_average,,0.07mm,mm,0.07,mm,Mean Size | $D_{50}$ | 0.07mm | 0.06-0.08mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,d50_range,,0.06-0.08mm,mm,0.06-0.08,mm,Mean Size | $D_{50}$ | 0.07mm | 0.06-0.08mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,d10_average,,Small,mm,,mm,Effective Diameter | $D_{10}$ | Small | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,d10_range,,----,mm,----,mm,Effective Diameter | $D_{10}$ | Small | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,cu_average,,Large,,,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | Large | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,cu_range,,----,,----,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | Large | ----,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,d95_average,,4.1mm,mm,4.1,mm,Coarseness | $D_{95}$ | 4.1mm | 4.0-4.2mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,d95_range,,4.0-4.2mm,mm,4.0-4.2,mm,Coarseness | $D_{95}$ | 4.1mm | 4.0-4.2mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-38 inset, printed A-76, PDF 77",agreed
+10,gamma_min_label_1,"printed end label, top to bottom",66.6,pcf,1066.83,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,gamma_min_label_2,"printed end label, top to bottom",67.8,pcf,1086.05,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,gamma_min_label_3,"printed end label, top to bottom",69.0,pcf,1105.27,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,gamma_max_label_1,"printed end label, top to bottom",88.1,pcf,1411.23,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,gamma_max_label_2,"printed end label, top to bottom",90.2,pcf,1444.87,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,gamma_max_label_3,"printed end label, top to bottom",92.3,pcf,1478.5,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-39, printed A-77, PDF 78",agreed
+10,friction_angle_band_low,about,40,deg,40,deg,essentially the same - about 40° to 45°,"AM-68-1 Vol. II (NASA CR-92215), item 14, printed A-79, PDF 80",resolved
+10,friction_angle_band_high,about,45,deg,45,deg,essentially the same - about 40° to 45°,"AM-68-1 Vol. II (NASA CR-92215), item 14, printed A-79, PDF 80",resolved
+10,elastic_modulus,"estimated, not measured",4000,psi,2.7579e+07,Pa,estimated initial tangent modulus for this soil is 4000 psi,"AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-79, PDF 80",resolved
+10,placement,,,,,,Soil No. 10 was placed with a hopper but was handled by shovel rather than the vacuum system. Each layer (covered with a strip of cardboard) was rolled two times (one pass back and forth in the bin).,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-79, PDF 80",resolved
+10,roller_count,rollings,2,,2,,rolled two times,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-79, PDF 80",resolved
+11,bendix_designation,,LSM Dense,,,,1. Bendix Designation: LSM Dense,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-80, PDF 81",resolved
+11,mix_ratio_by_weight,cinders : second component,1:1,,1:1,,mixed 1:1,"AM-68-1 Vol. II (NASA CR-92215), item 6, printed A-82, PDF 83",resolved
+11,relative_density,about,0.70,,0.70,,average relative density of Soil No. 11 is about 0.70,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-84, PDF 85",resolved
+11,friction_angle,about,38.3,deg,38.3,deg,angle of internal friction for Soil No. 11 is about 38.3°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-84, PDF 85",resolved
+11,d50_average,,0.07mm,mm,0.07,mm,Mean Size | $D_{50}$ | 0.07mm | 0.06-0.08mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,d50_range,,0.06-0.08mm,mm,0.06-0.08,mm,Mean Size | $D_{50}$ | 0.07mm | 0.06-0.08mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,d10_average,,Small,mm,,mm,Effective Diameter | $D_{10}$ | Small | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,d10_range,,---,mm,---,mm,Effective Diameter | $D_{10}$ | Small | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,cu_average,,Large,,,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | Large | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | Large | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,d95_average,,4.1mm,mm,4.1,mm,Coarseness | $D_{95}$ | 4.1mm | 4.0-4.2mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,d95_range,,4.0-4.2mm,mm,4.0-4.2,mm,Coarseness | $D_{95}$ | 4.1mm | 4.0-4.2mm,"AM-68-1 Vol. II (NASA CR-92215), Figure A-42 inset, printed A-85, PDF 86",agreed
+11,gamma_min_label_1,"printed end label, top to bottom",66.6,pcf,1066.83,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,gamma_min_label_2,"printed end label, top to bottom",67.8,pcf,1086.05,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,gamma_min_label_3,"printed end label, top to bottom",69.0,pcf,1105.27,kg/m^3,"gamma_min labels 66.6, 67.8, 69.0","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,gamma_max_label_1,"printed end label, top to bottom",88.1,pcf,1411.23,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,gamma_max_label_2,"printed end label, top to bottom",90.2,pcf,1444.87,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,gamma_max_label_3,"printed end label, top to bottom",92.3,pcf,1478.5,kg/m^3,"gamma_max labels 88.1, 90.2, 92.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-43, printed A-86, PDF 87",agreed
+11,friction_angle_band_low,about,40,deg,40,deg,essentially the same - about 40° to 45°,"AM-68-1 Vol. II (NASA CR-92215), item 14, printed A-88, PDF 89",resolved
+11,friction_angle_band_high,about,45,deg,45,deg,essentially the same - about 40° to 45°,"AM-68-1 Vol. II (NASA CR-92215), item 14, printed A-88, PDF 89",resolved
+11,elastic_modulus,as printed,6000,psi,4.13685e+07,Pa,"for Soil No. 11 by this test 6,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-88, PDF 89",resolved
+11,modulus_confining_pressure,,4,psi,27579,Pa,"for Soil No. 11 by this test 6,000 psi at a confining pressure of 4 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-88, PDF 89",resolved
+11,placement,,,,,,Soil No. 11 was placed with a hopper but was handled by shovel rather than the vacuum system. Each layer (covered with a strip of cardboard) was rolled six times (three passes back and forth in the bin).,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-88, PDF 89",resolved
+11,roller_count,rollings,6,,6,,rolled six times,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-88, PDF 89",resolved
+12,bendix_designation,,RSM-b Dense,,,,1. Bendix Designation: RSM-b Dense.,"AM-68-1 Vol. II (NASA CR-92215), item 1, printed A-89, PDF 90",resolved
+12,mix_ratio_by_weight,cinders : second component,1:3,,1:3,,mixed in the ratio of 1:3,"AM-68-1 Vol. II (NASA CR-92215), item 6, printed A-90, PDF 91",resolved
+12,relative_density,about,0.75,,0.75,,average relative density of Soil No. 12 is about 0.75,"AM-68-1 Vol. II (NASA CR-92215), item 10, printed A-93, PDF 94",resolved
+12,friction_angle,about,37,deg,37,deg,angle of internal friction for Soil No. 12 is about 37°,"AM-68-1 Vol. II (NASA CR-92215), item 11, printed A-93, PDF 94",resolved
+12,elastic_modulus,"estimated, not measured",20000,psi,1.37895e+08,Pa,"estimated to be in the vicinity of 20,000 psi","AM-68-1 Vol. II (NASA CR-92215), item 12, printed A-93, PDF 94",resolved
+12,placement,,,,,,Soil No. 12 was placed by shovel and rolled with 10 passes per two inch layer using the lawn roller equipment.,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-93, PDF 94",resolved
+12,roller_count,passes,10,,10,,10 passes,"AM-68-1 Vol. II (NASA CR-92215), item 13, printed A-93, PDF 94",resolved
+12,d50_average,,2.15,mm,2.15,mm,Mean Size | $D_{50}$ | 2.15 | 2.1-2.2,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,d50_range,,2.1-2.2,mm,2.1-2.2,mm,Mean Size | $D_{50}$ | 2.15 | 2.1-2.2,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,d10_average,,1.23,mm,1.23,mm,Effective Diameter | $D_{10}$ | 1.23 | 1.2-1.3,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,d10_range,,1.2-1.3,mm,1.2-1.3,mm,Effective Diameter | $D_{10}$ | 1.23 | 1.2-1.3,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,cu_average,,1.87,,1.87,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.87 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,cu_range,,---,,---,,Coefficient of Uniformity ($D_{60}/D_{10}$) | $C_u$ | 1.87 | ---,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,d95_average,,2.9,mm,2.9,mm,Coarseness | $D_{95}$ | 2.9 | 2.9,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,d95_range,,2.9,mm,2.9,mm,Coarseness | $D_{95}$ | 2.9 | 2.9,"AM-68-1 Vol. II (NASA CR-92215), Figure A-46 inset, printed A-94, PDF 95",agreed
+12,gamma_min_label_1,"printed end label, top to bottom",73.5,pcf,1177.36,kg/m^3,"gamma_min labels 73.5, 74.4, 75.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-47, printed A-95, PDF 96",agreed
+12,gamma_min_label_2,"printed end label, top to bottom",74.4,pcf,1191.77,kg/m^3,"gamma_min labels 73.5, 74.4, 75.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-47, printed A-95, PDF 96",agreed
+12,gamma_min_label_3,"printed end label, top to bottom",75.3,pcf,1206.19,kg/m^3,"gamma_min labels 73.5, 74.4, 75.3","AM-68-1 Vol. II (NASA CR-92215), Figure A-47, printed A-95, PDF 96",agreed
+12,gamma_max_label_1,"printed end label, top to bottom",89.4,pcf,1432.05,kg/m^3,gamma_max labels 89.4,"AM-68-1 Vol. II (NASA CR-92215), Figure A-47, printed A-95, PDF 96",agreed

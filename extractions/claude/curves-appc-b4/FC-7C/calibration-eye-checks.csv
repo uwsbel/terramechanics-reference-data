@@ -1,0 +1,13 @@
+figure_id,panel,axis,value,label_as_printed,label_center_u,label_center_v,check_at,line_px_by_eye,line_px_fitted,diff_px,line_source,result,note
+FC-7C,1,y (horizontal load psi),30,30,880,3375,v=3290,883.0,881.2,1.8,predicted,ok,label sits under the line; grid line not detected by the tool but present on the image; also checked at v=1500: eye 852.5 fitted 851.8
+FC-7C,1,y (horizontal load psi),25,25,1122,3375,v=3290,1127.5,1128.6,-1.1,detected,ok,
+FC-7C,1,y (horizontal load psi),15,15,1617,3370,v=3290,1617.0,1616.6,0.4,detected,ok,
+FC-7C,1,y (horizontal load psi),0,0,2348,3340,v=3290,2353.3,2353.6,-0.3,detected,ok,right frame line; load increases to the left (0 at right, 30 at left): --y-direction left confirmed
+FC-7C,1,y (horizontal load psi),35,(not printed),,,v=3143,633.5,633.5,0.0,detected,ok,left frame line carries 35 psi by spacing (245 px per 5 psi as for every other interval); no 35 label is printed
+FC-7C,1,y (horizontal load psi),20,20,1370,3375,v=1400,1340.0,1344.2,-4.2,detected,note,upper part of the 20 psi line bends left of the straight fit (about 4 px at v=1400 and 3 px at v=1600); no marker lies near it; at v=3290 the line and label agree (eye 1372 fitted 1372.2)
+FC-7C,1,x (horizontal motion in),0.32,.32,2397,1330,u=2310,1338.5,1336.5,2.0,detected,ok,top line of the plot frame (bottom of the legend box)
+FC-7C,1,x (horizontal motion in),0.28,.28,2397,1595,u=2310,1584.0,1582.1,1.9,predicted,ok,grid line not detected by the tool but present on the image; also checked at u=700: eye 1609 fitted 1609.3 and at u=1000: eye 1603.5 fitted 1604.2
+FC-7C,1,x (horizontal motion in),0.16,.16,2400,2325,u=2330,2321.0,2322.1,-1.1,detected,ok,
+FC-7C,1,x (horizontal motion in),0.12,.12,2400,2575,u=2330,2568.0,2566.6,1.4,detected,ok,
+FC-7C,1,x (horizontal motion in),0.04,.04,2410,3055,u=2320,3058.5,3057.6,0.9,detected,ok,
+FC-7C,1,x (horizontal motion in),0,0,2414,3291,u=2310,3301.7,3301.1,0.6,detected,ok,bottom frame line; motion increases upward (0 at bottom, .32 at top): --x-direction up confirmed

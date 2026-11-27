@@ -1,0 +1,215 @@
+{
+ "image": "packet/p0147.png",
+ "cal_dir": "out/FC-13/cal-p1",
+ "tools_dir": "tools",
+ "figure_id": "FC-13",
+ "series_id": "ss-loose",
+ "out": "out/FC-13",
+ "line_p1": [
+  720,
+  3695
+ ],
+ "line_p2": [
+  2055,
+  2944
+ ],
+ "triangles": [
+  [
+   738,
+   3657,
+   778,
+   3696
+  ],
+  [
+   1195,
+   3388,
+   1231,
+   3428
+  ],
+  [
+   1376,
+   3292,
+   1419,
+   3333
+  ],
+  [
+   1542,
+   3222,
+   1586,
+   3255
+  ],
+  [
+   1803,
+   3054,
+   1842,
+   3094
+  ],
+  [
+   1970,
+   2924,
+   2015,
+   2962
+  ],
+  [
+   2057,
+   2909,
+   2098,
+   2950
+  ]
+ ],
+ "line_mask": [
+  "none",
+  "none",
+  "none",
+  "none",
+  [
+   1835,
+   1850
+  ],
+  "none",
+  "none"
+ ],
+ "tri_opts": [
+  {
+   "rows": [
+    3663,
+    3685
+   ],
+   "rows_l": [
+    [
+     3668,
+     3684
+    ]
+   ],
+   "rows_r": [
+    [
+     3678,
+     3684
+    ]
+   ]
+  },
+  {
+   "base_v": 3421.0,
+   "stroke": 8
+  },
+  {
+   "rows": [
+    3300,
+    3320
+   ],
+   "rows_l": [
+    [
+     3304,
+     3319
+    ]
+   ],
+   "rows_r": [
+    [
+     3313,
+     3319
+    ]
+   ],
+   "mirror": "right",
+   "axis_u": 1399.3,
+   "method": "edge"
+  },
+  {
+   "rows": [
+    3226,
+    3239
+   ],
+   "rows_l": [
+    [
+     3228,
+     3238
+    ]
+   ],
+   "rows_r": [
+    [
+     3228,
+     3238
+    ]
+   ]
+  },
+  {},
+  {},
+  {
+   "rows": [
+    2918,
+    2938
+   ],
+   "rows_l": [
+    [
+     2920,
+     2931
+    ]
+   ],
+   "rows_r": [
+    [
+     2920,
+     2937
+    ]
+   ]
+  }
+ ],
+ "tri_bounds": [
+  [
+   2.5,
+   5.5
+  ],
+  [
+   2,
+   6
+  ],
+  [
+   3,
+   6.5
+  ],
+  [
+   3,
+   6
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ],
+  [
+   2,
+   5.5
+  ]
+ ],
+ "tri_notes": [
+  "the line's dash ends touch its lower left corner and its upper right side; each side read on the rows clear of the line",
+  "base coincides with the y = 1000 grid line; base centre fixed at v 3421.0 from the merged band (hole bottom 3416.5 plus half the 8 px stroke gives 3420.5; band bottom 3425.5 minus half a stroke gives 3421.5)",
+  "the line's dash ends touch its lower left corner and upper right side; right side taken as the mirror of the left side about the axis through the apex and the hole (u 1399.3); edge method (the stroke-centre fit put the apex above the ink)",
+  "apex merged with the start of the next dash; right base corner touches the x = 3000 grid line; small hole",
+  "the start of the next dash touches its upper right side",
+  "clear of the line (above it)",
+  "the drawn line ends in its lower left corner"
+ ],
+ "left_end": {
+  "u": 712.1,
+  "side": "right",
+  "bu": 4.5,
+  "bv": 8.5,
+  "note": "the line runs into the left frame (x = 0 line) 15 px above the bottom frame; its ink is hidden under the frame, placed at the frame's centre line, bound covering the frame's width"
+ },
+ "right_end": {
+  "u": 2061.0,
+  "side": "left",
+  "bu": 4.5,
+  "bv": 8.5,
+  "note": "the line runs into the lower left corner of the last triangle and ends there (the triangle's hole stays white down to its base, so the line stops before u 2066); placed at the corner"
+ },
+ "intercept": {
+  "u": 712.1,
+  "side": "right",
+  "bu": 1,
+  "bv": 5.7,
+  "note": "the line reaches the x = 0 line (left frame); centre line of the drawn line at the frame's centre line"
+ }
+}

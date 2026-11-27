@@ -1,0 +1,16 @@
+figure_id,panel,record_panel,x_quantity,x_unit,x_si_unit,y_quantity,y_unit,y_si_unit,relation,note
+F5-24,1,1,time,s,s,footpad penetration depth,inch,m,,"No. 1 footpad of the 1/6-scale model, NASA Test No. 1.
+The depth is a computed output, not a direct measurement: the report's data reduction program took the 13 tape-recorded signals every 1/1000 s and calculated the footpad's penetration by numerical integration (AM-68-1 Vol. I, Section 5.5.2, printed 5-41, PDF 321)."
+F5-31,1,1,time,s,s,footpad penetration depth,inch,m,,"No. 1 footpad of the 1/6-scale model, NASA Test No. 2.
+The depth is a computed output, not a direct measurement: the report's data reduction program took the 13 tape-recorded signals every 1/1000 s and calculated the footpad's penetration by numerical integration (AM-68-1 Vol. I, Section 5.5.2, printed 5-41, PDF 321)."
+F5-25,1,2,time,s,s,"axial load, strut No. 3",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense."
+F5-25,2,3,time,s,s,"axial load, strut No. 2",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+On the Strut No. 2 panel the top load label is printed -60; the panel's own sequence (0, +20, +40) and the (Tension) title make it +60, and both readings anchor that line at +60 lbf."
+F5-25,3,4,time,s,s,"axial load, strut No. 1",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense."
+F5-32,1,2,time,s,s,"axial load, strut No. 3",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+On Fig. 5-32, past 0.09 s the time is extrapolated: the 0.10 s line is too faint on the scan to anchor, and the three strut traces end at about 0.103 s in both readings."
+F5-32,2,3,time,s,s,"axial load, strut No. 2",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+On the Strut No. 2 panel the top load label is printed -60; the panel's own sequence (0, +20, +40) and the (Tension) title make it +60, and both readings anchor that line at +60 lbf.
+On Fig. 5-32, past 0.09 s the time is extrapolated: the 0.10 s line is too faint on the scan to anchor, and the three strut traces end at about 0.103 s in both readings."
+F5-32,3,4,time,s,s,"axial load, strut No. 1",lbf,N,,"Axial load of the strut, tension positive and compression negative, as the panel's printed labels give it (the axis title names the sense of the trace's main excursion); a trace beyond the panel's 0 line changes sense.
+On Fig. 5-32, past 0.09 s the time is extrapolated: the 0.10 s line is too faint on the scan to anchor, and the three strut traces end at about 0.103 s in both readings."

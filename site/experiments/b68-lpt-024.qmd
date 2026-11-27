@@ -1,0 +1,98 @@
+---
+title: "Load-penetration test (LPT) 24: 4-inch (102 mm) cylinder pushed into dense red scoria (RS)"
+subtitle: "LPT No. 24 in the report; record b68-lpt-024"
+record: "b68-lpt-024"
+kind: "single"
+test-type: "Load penetration"
+family: "RS"
+state: "dense"
+printed-label: "LPT No. 24"
+evidence: "F2-42;F2-44;text 2-56 (PDF 81);text 2-74 (PDF 99)"
+setup: "complete"
+record-status: "resolved"
+priority: "1"
+mcc: "no"
+---
+A cylinder 101.6 mm (4 in) in diameter was pushed into a bed of dense red scoria ([RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"}), and the load on it was recorded against its penetration. This is a load-penetration test ([LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"}), run at 0.423 mm/s in a bed of bulk density 825 kg/m³.
+
+::: {.callout-note appearance="simple"}
+**Data available:** 26 points read from the printed figure. One of them is still under review. Student reviewers have checked 7 of them on the scan, and two reviewers confirmed 6.
+:::
+
+## Virtual experiment card
+
+What one would need to set up the same test in a simulator. Each value carries one of three marks: [reported]{.vk .vk-test} given by the report for this test or its apparatus, or for the procedure of these tests in general where the text says so; [soil reference]{.vk .vk-ref} a property of the soil from another table of the report, for the soil's nominal state; [left to the user]{.vk .vk-choice} an input the report does not give, with what it says around it. Each citation opens the page of the report, AM-68-1 Volume I unless noted: the printed page number, then the page of the PDF file in parentheses.
+
+::: {.vx-card}
+|  | what the record gives | where printed |
+| -------------- | ------------------------------------------------------------ | -------------------------- |
+| **Soil** | [reported]{.vk .vk-test} red crushed volcanic scoria, narrowly graded ([RS]{.term title="red crushed volcanic scoria, narrowly graded" tabindex="0"}), dense; printed as *RS Dense* | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw}; [Fig. 2-44, p. 2-79 (PDF 104)](../img/1968/p0104.png){.nw} |
+|  | [reported]{.vk .vk-test} bulk density 825 kg/m³ (unit weight 51.5 pcf as printed) | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw} |
+|  | [reported]{.vk .vk-test} dynamic penetrometer reading ([Gp]{.term title="peak deceleration of the dynamic penetrometer, in g: the report's index of the density and uniformity of a bed" tabindex="0"}) 83 g | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw}; [Fig. 2-44, p. 2-79 (PDF 104)](../img/1968/p0104.png){.nw} |
+|  | [soil reference]{.vk .vk-ref} [soil No. 4](../materials/index.qmd) of the report's soil table, *RS Dense* (matched to the test by the soil and its state, not printed with it), at its nominal state: relative density 0.80, bulk density 810.5 kg/m³, mean grain size ([D50]{.term title="grain size that half of the soil, by weight, is finer than" tabindex="0"}) 1.8 mm, uniformity coefficient ([Cu]{.term title="uniformity coefficient: D60 divided by D10; near 1 for a narrowly graded soil" tabindex="0"}) 1.7, 95 percent size ([D95]{.term title="grain size that 95 percent of the soil, by weight, is finer than" tabindex="0"}) 2.7 mm, fines (finer than 0.075 mm) under 3 percent | [Table 2-3, p. 2-16 (PDF 41)](../img/1968/p0041.png){.nw} |
+|  | [soil reference]{.vk .vk-ref} at that nominal state: friction angle 47.3 degrees (direct shear); modulus 75.2 MPa, measured with sound waves at 27.6 kPa (4 psi) confinement. The report warns that static and wave-based moduli can differ by an order of magnitude | [Table 2-3, p. 2-16 (PDF 41)](../img/1968/p0041.png){.nw}; [Vol. II, App. B, p. 1 (PDF 104)](../img/1968-vol2/p0104.png){.nw} |
+|  | [soil reference]{.vk .vk-ref} air dried, as were all the test soils: 0.2 to 0.3 percent water by weight, occasionally 0.6 | [p. 2-103 (PDF 128)](../img/1968/p0128.png){.nw} |
+| **Bed** | [reported]{.vk .vk-test} bin 0.457 m by 0.914 m in plan (18 by 36 in as printed) | [Fig. 2-44, p. 2-79 (PDF 104)](../img/1968/p0104.png){.nw} |
+|  | [reported]{.vk .vk-test} the load-penetration bin: a box of 25 mm (1 in) plywood, 0.457 m wide, 0.914 m long and 0.914 m deep, with a front of plate glass 25 mm (1 in) thick and 0.457 m (18 in) deep, standing on load cells that weigh the soil | [Sec. 2.6.1, p. 2-56 (PDF 81)](../img/1968/p0081.png){.nw} |
+| **Tool** | [reported]{.vk .vk-test} cylinder, 101.6 mm (4 in) in diameter, pushed down into the bed by a hydraulic cylinder | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw}; [Fig. 2-44, p. 2-79 (PDF 104)](../img/1968/p0104.png){.nw}; [Sec. 2.6.1, p. 2-56 (PDF 81)](../img/1968/p0081.png){.nw} |
+|  | [reported]{.vk .vk-test} in the standard setup the nearest wall of the bin is 229 mm (9 in, 4.5 radii) from the axis of a 101.6 mm cylinder, so the cylinder sits midway across the bin's width | [p. 2-59 (PDF 84)](../img/1968/p0084.png){.nw} |
+| **Motion** | [reported]{.vk .vk-test} starts at the soil surface (start depth 0 in the test's record) |  |
+|  | [reported]{.vk .vk-test} pushed at a constant 0.423 mm/s (1 in/min as printed); the operator keeps the rate by making the plotting pen follow a line of penetration against time | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw}; [p. 2-57 (PDF 82)](../img/1968/p0082.png){.nw}; [p. 2-59 (PDF 84)](../img/1968/p0084.png){.nw} |
+|  | [reported]{.vk .vk-test} the procedure pushes the cylinder 203 mm (8 in), or until the hydraulic supply reaches its capacity; how far this test went is not printed | [p. 2-59 (PDF 84)](../img/1968/p0084.png){.nw} |
+| **Environment** | [reported]{.vk .vk-test} laboratory test on Earth |  |
+|  | [reported]{.vk .vk-test} gravity: 9.81456 m/s², the report's value for Earth, 32.2 ft/s², converted exactly | [glossary, p. 2-2 (PDF 27)](../img/1968/p0027.png){.nw} |
+| **Measured** | [reported]{.vk .vk-test} the load on the cylinder, from the test load cell, against its penetration, from a stroke wire, both drawn by an x-y plotter | [Sec. 2.6.1, p. 2-56 (PDF 81)](../img/1968/p0081.png){.nw} |
+|  | [reported]{.vk .vk-test} the printed curve, read into the data, runs from 1.3 to 74.0 mm of penetration (where it meets the frame of the plot) | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw} |
+| **Missing: choices left to the user** | [left to the user]{.vk .vk-choice} fill depth: not printed. The procedure fills the box in stages and weighs the bed at six volume marks up to the full box (13.78 cubic feet, 0.390 m³) to check that its density is uniform | [Sec. 2.6.2, p. 2-57 (PDF 82)](../img/1968/p0082.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} how the bed was placed and compacted: not printed for this test. The dense beds of these tests were generally made with a vibratory plate compactor, three passes per layer about 76 mm (3 in) thick, giving relative densities of 0.85 to 0.95 | [p. 2-113 (PDF 138)](../img/1968/p0138.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} the zero of penetration: the printed load leaves zero at 1.3 mm; whether the cylinder touched the surface there or at zero is not stated | [Fig. 2-42, p. 2-77 (PDF 102)](../img/1968/p0102.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} relative density of this bed: not printed. The tests of Fig. 2-44, this one among them, average about 0.96. Read at this bed's density on the report's density chart for the soil, it is about 0.90 (0.82 to above 1 within the chart's 95 percent limits). The soil table's 0.80 belongs to the soil's nominal state, not to this bed | [Fig. 2-44, p. 2-79 (PDF 104)](../img/1968/p0104.png){.nw}; [p. 2-74 (PDF 99)](../img/1968/p0099.png){.nw}; [Vol. II, Fig. A-3, p. A-7 (PDF 8)](../img/1968-vol2/p0008.png){.nw}; [Table 2-3, p. 2-16 (PDF 41)](../img/1968/p0041.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} soil strength at this bed's density: the report plots friction angle against relative density | [Fig. 2-23, p. 2-46 (PDF 71)](../img/1968/p0071.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} cohesion: a bearing-capacity interpretation in the report, not a measured input. It found that the apparent cohesion of its shear tests predicts higher bearing loads than observed, and that about 0.7 kPa (0.1 psi), some 50 times less, explains some of the size effects in these tests | [p. 2-47 (PDF 72)](../img/1968/p0072.png){.nw} |
+|  | [left to the user]{.vk .vk-choice} the cylinder's end shape, length, material and surface, and where it stood along the bin: not printed |  |
+|  | [left to the user]{.vk .vk-choice} friction between the soil and the cylinder, and between the soil and the walls (plywood, glass): not reported |  |
+|  | [left to the user]{.vk .vk-choice} any model parameter the report does not measure, such as a static stiffness or the properties of grains |  |
+:::
+
+Codes on this card: RS, red crushed volcanic scoria, narrowly graded; Gp, peak deceleration of the dynamic penetrometer, in g; D50, grain size that half of the soil, by weight, is finer than; D95, grain size that 95 percent of the soil, by weight, is finer than; Cu, uniformity coefficient.
+
+A simulation of this test is compared with the measurement through the axial force the soil exerts on the cylinder, the force the load cell measured, against the cylinder's penetration below the original soil surface. A comparison states where it puts the zero of force and of penetration, and whether the cylinder's own weight is included. The [Simulate a test](../simulate/index.qmd) page walks through the steps.
+
+## Measured data
+
+![Load against penetration: this test in red, the other tests printed in Fig. 2-42 in gray. The error bars on the red curve are its reading bounds. The round markers are the curve's marked features (start, peaks, troughs, end); filled ones were agreed by both readings, hollow ones were not. The two hollow markers near 39 mm are competing readings of the same trough, still being settled; they are one feature, not two. Click to enlarge.](../img/plots/b68-lpt-024.png){.lightbox}
+
+[Download the points (CSV)](../files/data/experiments/b68-lpt-024/observations.csv){.btn .btn-primary .me-2 .mb-2} [Download the reading record (JSON)](../files/data/experiments/b68-lpt-024/series.json){.btn .btn-outline-primary .me-2 .mb-2}
+
+The CSV file gives penetration in m (`x_si`) and load in N (`y_si`), each with its reading bound (`x_bound_si`, `y_bound_si`), and the status of each point. The JSON file gives the units, the conversion factors and how the points were read. A reading bound says how precisely a point could be read from the printed figure, typically 0.55 mm in penetration and 21 N in load here. It is not the scatter of the experiment, which the report does not give. [Both readings drawn over the scanned figure](../figures/index.qmd#check-f2-42).
+
+## Source pages
+
+Fig. 2-42, *Load-Penetration Curves for Four-Inch Cylinder in RS Dense at Different Rates of Penetration*, AM-68-1 Vol. I, Fig. 2-42, printed 2-77, PDF 102; Fig. 2-44, *Load-Penetration Curves for Four-Inch Cylinder in RS Dense Soil in Bins of Various Sizes*, AM-68-1 Vol. I, Fig. 2-44, printed 2-79, PDF 104. The points were read from Fig. 2-42. Click a page to enlarge it.
+
+::: {layout-ncol=2}
+![PDF page 102](../img/1968/p0102.png){.lightbox}
+
+![PDF page 104](../img/1968/p0104.png){.lightbox}
+
+:::
+
+## Related tests
+
+Kept together whenever some tests tune a model and others check it:
+
+1. This test is printed twice, in Fig. 2-42 and Fig. 2-44: one test, one record.
+
+Printed in the same figures, and useful for comparison. They are other tests, on other beds, and may differ in rate, density or bin; they are not repeats of this test:
+
+1. In Fig. 2-42 (Load-Penetration Curves for Four-Inch Cylinder in RS Dense at Different Rates of Penetration): [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 22](b68-lpt-022.qmd), [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 23](b68-lpt-023.qmd), [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 25](b68-lpt-025.qmd).
+2. In Fig. 2-44 (Load-Penetration Curves for Four-Inch Cylinder in RS Dense Soil in Bins of Various Sizes): [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 64A](b68-lpt-064a.qmd), [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 69](b68-lpt-069.qmd), [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 73](b68-lpt-073.qmd), [[LPT]{.term title="load-penetration test: a tool is pushed into a soil bed and the load is recorded against depth" tabindex="0"} 74](b68-lpt-074.qmd).
+
+## How to cite
+
+Cite the release of this collection used, the record id `b68-lpt-024`, and the source: the points come from AM-68-1 Vol. I, Fig. 2-42, printed 2-77, PDF 102; the same test is also printed in AM-68-1 Vol. I, Fig. 2-44, printed 2-79, PDF 104.
+
+<small>The full review record of these points (both readings, the decisions, the checks) is on the [provenance page](../review/b68-lpt-024.qmd).</small>
+
+<!-- Generated view. Inputs: `data/experiments/index.csv`, `data/materials/materials.csv`, `corpus/1968/figures.csv`, `corpus/1968/pages/`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs. -->
+

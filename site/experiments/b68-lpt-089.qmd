@@ -1,0 +1,85 @@
+---
+title: "Load penetration: RS soil, intermediate, LPT No. 89"
+record: "b68-lpt-089"
+kind: "single"
+test-type: "Load penetration"
+family: "RS"
+state: "intermediate"
+printed-label: "LPT No. 89"
+evidence: "F2-46"
+setup: "incomplete"
+record-status: "agreed"
+priority: "1"
+mcc: "no"
+---
+Load penetration test on RS soil (Red Crushed Volcanic Scoria (narrowly graded)) at relative density approx 0.29; apparatus: LPT fixture; loading: static penetration. Recorded: load vs penetration. One of 2 tests drawn from the same figures.
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 28 of the 32 points, and the rest were settled against the scan. Student reviewers have looked at 16 of the 32 points on the scan; two reviewers confirmed all of them (see the provenance page). The test setup is incomplete: bin or mold, fill depth, rate are not reported.
+:::
+
+## Data
+
+![load against penetration, SI units, this test in red and the other tests printed in Fig. 2-46 in gray. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-lpt-089.png){.lightbox}
+
+Peak load 2038 N at 151.88 mm penetration, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-lpt-089/observations.csv) (32 points: 0 plotted symbols, 28 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: load in N against penetration in m; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-lpt-089/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 924 micrometers in penetration, 15.19 N in load (0.7 percent of the peak). Both independent readings agree within these bounds at 28 of the 32 points; the other 4 were settled against the scan (read by one reader and verified by the other, or decided between two readings). [Check the digitized points against the scan](../figures/index.qmd#check-f2-46).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil | RS Inter., Red Crushed Volcanic Scoria (narrowly graded) (soil No. 3 of Table 2-3) | RS | Vol. I Table 2-3, printed 2-16, PDF 41 |
+| material | mean grain size D50 | 1.8 mm | 1.8 mm | Table 2-3 |
+| material | uniformity coefficient Cu | 1.7 | 1.7 | Table 2-3 |
+| material | D95 | 2.7 mm | 2.7 mm | Table 2-3 |
+| material | fines (passing No. 200 sieve) | under 3 percent | <3% | Table 2-3 |
+| material | grain size curve | *not yet extracted* |  | Vol. II Appendix A (one curve per soil); Vol. I Fig. 2-14 (family averages) |
+| state | relative density Dr | approx 0.29 | approx 0.29 | F2-46 |
+| state | unit weight of the nominal soil state | 7210.3 N/m^3 (735.2 kg/m^3 at Dr 0.45) |  | Table 2-3; the bed's own Dr may differ |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | DPT index Gp | 22.4 g | 22.4 g | F2-46; density read through the Fig. 2-55 correlation |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| geometry | tool | 101.6 mm footpad | 4 inch footpad | F2-46 |
+| geometry | bin or mold | *not reported* |  | F2-46; the report's standard LPT container is 18 by 36 in (0.457 by 0.914 m) and 36 in (0.914 m) deep (text 2-56, PDF 81); this test's bin is not stated |
+| geometry | fill depth | *not reported* |  |  |
+| loading | control | static penetration |  | F2-46 |
+| loading | start depth below surface | 0 m (started at the surface) | 0 in | F2-46 |
+| loading | rate | *not reported* |  | F2-46 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | load vs penetration |  | F2-46 |
+| soil strength | friction angle at this density (report's direct shear average) | 44.5 degrees | 44.5 deg | Table 2-3; Fig. 2-23 gives phi against Dr |
+| soil strength | sonic modulus E at 4 psi confinement | 59.3 MPa |  | Table 2-3 (measurements in Vol. II Appendix B) |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## The other tests of this family
+
+| test | record |
+| --- | --- |
+| LPT No. 89 | **b68-lpt-089** (this page) |
+| LPT No. 98 | [b68-lpt-098](b68-lpt-098.qmd) |
+
+## Source pages
+
+F2-46, *Load-Penetration Curves in Soil No. 3 (RS Intermediate) (Dr approx 0.29)*, AM-68-1 Vol. I, printed 2-82, PDF 107.
+
+::: {layout-ncol=2}
+![PDF page 107](../img/1968/p0107.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-lpt-089` in `data/experiments/index.csv` of this repository, and the source: F2-46, *Load-Penetration Curves in Soil No. 3 (RS Intermediate) (Dr approx 0.29)*, AM-68-1 Vol. I, printed 2-82, PDF 107.
+
+<small>Maintainers: the [provenance and review record](../review/b68-lpt-089.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

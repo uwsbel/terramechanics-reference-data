@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-3C,2,n1761,marker,1,859.0,3300.0,2,2,square,"touches the triangle-down below it; first point at x=5, not at x=0",5.444,-8.1558,0.4349,0.9047,piecewise,agreed,claude,5.4573,-8.1958,,859,3300
+FC-3C,2,n1761,marker,2,942.0,3280.0,2,3,square,on the 0 gridline; touches the circle below,19.7743,-1.4446,0.4383,1.2497,piecewise,agreed,claude,20.3027,-1.8308,,945,3281
+FC-3C,2,n1761,marker,3,1059.8,3259.4,2,2,square,touches the circle below,40.1004,5.3201,0.4383,0.8914,piecewise,agreed,claude,40.4856,4.0624,,1062,3263
+FC-3C,2,n1761,marker,4,1175.0,3238.5,2,2,square,touches the circle below,59.8233,12.1755,0.4346,0.8898,piecewise,agreed,claude,60.0074,12.496,,1176.0,3237.5
+FC-3C,2,n1761,marker,5,1291.5,3209.5,2,2,square,,79.6258,21.7909,0.4393,0.8876,piecewise,agreed,claude,79.7197,21.9481,,1292.0,3209.0
+FC-3C,2,n1761,marker,6,1405.8,3178.4,3,2,square,on the x=100 gridline,99.0593,32.1295,0.6134,0.8875,piecewise,agreed,claude,99.7744,32.2484,,1410,3178
+FC-3C,2,n1761,marker,7,1525.5,3160.5,2,2,square,,119.6505,37.9564,0.4489,0.8839,piecewise,agreed,claude,119.9006,38.2889,,1527.0,3159.5
+FC-3C,2,n1761,marker,8,1636.5,3137.5,2,2,square,,138.7703,45.544,0.4476,0.8822,piecewise,agreed,claude,138.9169,45.3674,,1637.5,3138.0
+FC-3C,2,n1761,marker,9,1755.0,3115.5,2,2,square,,159.2658,52.7747,0.4503,0.8805,piecewise,agreed,claude,159.3245,52.9404,,1755.5,3115.0
+FC-3C,2,n1761,marker,10,1865.2,3089.6,2,2,square,,178.4356,61.3564,0.4484,0.8786,piecewise,agreed,claude,178.4703,61.2139,,1865.5,3090.0
+FC-3C,2,n1761,marker,11,1989.8,3069.8,3,2,square,on the x=200 gridline,200.087,67.8259,0.6195,0.8794,piecewise,agreed,claude,201.1553,67.3947,,1996,3071
+FC-3C,2,n1761,marker,12,2106.6,3058.0,2,2,square,,220.2972,71.5851,0.4738,0.8763,piecewise,agreed,claude,220.5228,71.7425,,2108.0,3057.5
+FC-3C,2,n1761,marker,13,2276.2,3049.4,3,2,square,on the x=250 gridline; last point,249.6306,74.1329,0.6893,0.8781,piecewise extrapolated x,agreed,claude,250.2429,73.9074,,2280,3050
+FC-3C,2,n2934,marker,1,854.4,3328.0,2,2,triangle-down,"touches the square above it; first point at x=5, not at x=0",4.5969,-17.8165,0.4347,0.9051,piecewise,agreed,claude,5.5687,-18.2174,,860,3329
+FC-3C,2,n2934,marker,2,1004.6,3310.2,2,2,triangle-down,,30.49,-12.0221,0.4372,0.9047,piecewise,agreed,claude,30.4829,-11.8129,,1004.5,3309.5
+FC-3C,2,n2934,marker,3,1119.2,3287.8,3,3,triangle-down,on the crossing of the x=50 and 0 gridlines,50.2631,-4.5579,0.6092,1.2519,piecewise,agreed,claude,50.0751,-3.6129,,1118,3285
+FC-3C,2,n2934,marker,4,1233.0,3263.5,2,2,triangle-down,,69.5989,3.5173,0.4369,0.892,piecewise,agreed,claude,69.6892,3.4993,,1233.5,3263.5
+FC-3C,2,n2934,marker,5,1349.2,3241.7,2,2,triangle-down,,89.3356,10.6781,0.4416,0.8903,piecewise,agreed,claude,89.0457,10.2282,,1347.5,3243.0
+FC-3C,2,n2934,marker,6,1470.5,3224.0,2,2,triangle-down,,110.0663,16.4305,0.4496,0.8891,piecewise,agreed,claude,109.9766,16.7673,,1470,3223
+FC-3C,2,n2934,marker,7,1584.4,3212.7,2,2,triangle-down,,129.6606,20.0188,0.4482,0.8883,piecewise,agreed,claude,129.5788,20.2572,,1584.0,3212.0
+FC-3C,2,n2934,marker,8,1699.2,3197.4,3,2,triangle-down,on the x=150 gridline,149.4177,24.97,0.6189,0.8895,piecewise,agreed,claude,149.5345,25.7885,,1700,3195
+FC-3C,2,n2934,marker,9,1814.5,3179.5,2,2,triangle-down,template instance,169.4592,30.8079,0.4495,0.8859,piecewise,agreed,claude,169.4421,30.812,,1814.5,3179.5
+FC-3C,2,n2934,marker,10,1929.5,3166.0,2,2,triangle-down,,189.4428,35.1467,0.4475,0.8849,piecewise,agreed,claude,189.4347,34.8114,,1929.5,3167.0
+FC-3C,2,n2934,marker,11,2107.2,3151.8,2,3,triangle-down,overlaps the plus below it; touches the circle to its right,220.2077,39.5804,0.4753,1.2253,piecewise,agreed,claude,221.0131,37.8041,,2112,3157
+FC-3C,2,n2934,marker,12,2277.3,3135.8,3,2,triangle-down,on the x=250 gridline; last point,249.6187,44.6473,0.6887,0.8852,piecewise extrapolated x,agreed,claude,250.043,43.2171,,2280,3140
+FC-3C,2,n3815,marker,1,825.6,3325.8,3,2,circle,on the left frame line (x=0); touches the triangle-up above and the plus below,-0.3567,-16.9889,0.6098,0.9075,piecewise extrapolated x,agreed,claude,0.2309,-18.4919,,829,3330
+FC-3C,2,n3815,marker,2,888.3,3312.3,2,2,circle,clean; the circle series has a point at x=10 that the others do not,10.4639,-12.4734,0.4353,0.9049,piecewise,agreed,claude,10.5962,-12.4108,,889.0,3312.0
+FC-3C,2,n3815,marker,3,940.5,3305.5,2,3,circle,overlaps the plus below it,19.4643,-10.2479,0.4382,1.2501,piecewise,agreed,claude,19.73,-10.8055,,942,3307
+FC-3C,2,n3815,marker,4,1058.5,3287.5,2,3,circle,overlaps the plus below it; touches the square above,39.8172,-4.3106,0.4403,1.2496,piecewise,agreed,claude,39.8277,-4.3387,,1058.5,3287.5
+FC-3C,2,n3815,marker,5,1175.0,3266.5,2,3,circle,"between square above and plus below, touching both; on the 0 gridline",59.764,2.6303,0.4367,1.2331,piecewise,agreed,claude,60.1104,2.4352,,1177,3267
+FC-3C,2,n3815,marker,6,1289.0,3251.5,2,2,circle,,79.1138,7.4774,0.4392,0.8911,piecewise,agreed,claude,79.1174,7.4638,,1289.0,3251.5
+FC-3C,2,n3815,marker,7,1407.0,3238.0,3,3,circle,on the x=100 gridline; overlaps the plus below,99.1379,11.8048,0.6155,1.2335,piecewise,agreed,claude,99.6458,12.131,,1410,3237
+FC-3C,2,n3815,marker,8,1521.0,3223.5,2,3,circle,overlaps the plus below it,118.7443,16.4834,0.4511,1.2302,piecewise,agreed,claude,118.5598,15.9709,,1520,3225
+FC-3C,2,n3815,marker,9,1639.5,3205.5,2,3,circle,overlaps the plus below it,139.1431,22.3461,0.4497,1.2289,piecewise,agreed,claude,139.2085,22.175,,1640,3206
+FC-3C,2,n3815,marker,10,1754.7,3187.7,2,3,circle,overlaps the plus below it,159.0643,28.1496,0.4526,1.2276,piecewise,agreed,claude,159.0956,28.3906,,1755.0,3187.0
+FC-3C,2,n3815,marker,11,1871.2,3173.4,2,3,circle,overlaps the plus below it,179.3111,32.7573,0.4505,1.2266,piecewise,agreed,claude,179.3512,32.7275,,1871.5,3173.5
+FC-3C,2,n3815,marker,12,1989.5,3158.0,3,3,circle,on the x=200 gridline; overlaps the plus below,199.8699,37.7371,0.6219,1.2279,piecewise,agreed,claude,201.1631,37.385,,1997,3159
+FC-3C,2,n3815,marker,13,2133.6,3146.8,2,2,circle,touches the triangle-down to its left; extra point at x=225,224.7772,41.2254,0.4797,0.8836,piecewise,agreed,claude,225.3459,40.8159,,2137,3148
+FC-3C,2,n3815,marker,14,2254.0,3148.2,2,2,circle,touches the triangle-down to its right; extra point at x=245; last point,245.5661,40.4698,0.5088,0.8839,piecewise,agreed,claude,246.567,39.5117,,2260,3151
+FC-3C,2,n4695,marker,1,828.0,3354.5,3,2,plus,on the left frame line (x=0); lowest of the x=0 stack,0.0006,-26.9083,0.6085,0.9078,piecewise extrapolated x,agreed,claude,0.1792,-27.1296,,829,3355
+FC-3C,2,n4695,marker,2,941.0,3323.0,2,3,plus,overlaps the circle above it (shared stroke),19.5148,-16.293,0.4382,1.2503,piecewise,agreed,claude,19.6933,-16.6781,,942,3324
+FC-3C,2,n4695,marker,3,1058.9,3312.1,2,3,plus,overlaps the circle above it,39.834,-12.8062,0.4402,1.25,piecewise,agreed,claude,39.8585,-12.8018,,1059,3312
+FC-3C,2,n4695,marker,4,1177.2,3286.5,2,3,plus,overlaps the circle above it; just below the 0 gridline,60.0945,-4.2463,0.4368,1.2494,piecewise,agreed,claude,60.0677,-4.0947,,1177,3286
+FC-3C,2,n4695,marker,5,1289.6,3274.1,2,3,plus,horizontal arm lies on the 0 gridline; center from the vertical arm,79.1679,-0.232,0.4413,1.249,piecewise,agreed,claude,80.0795,-0.915,,1295,3276
+FC-3C,2,n4695,marker,6,1409.2,3253.9,3,3,plus,on the x=100 gridline; overlaps the circle above it,99.4774,6.3782,0.6167,1.2348,piecewise,agreed,claude,99.6065,5.9934,,1410,3255
+FC-3C,2,n4695,marker,7,1523.0,3240.7,2,3,plus,overlaps the circle above it,119.0517,10.6134,0.4511,1.2316,piecewise,agreed,claude,118.5195,9.4924,,1520,3244
+FC-3C,2,n4695,marker,8,1640.5,3225.5,2,3,plus,overlaps the circle above it,139.2729,15.5229,0.4497,1.2305,piecewise,agreed,claude,139.17,15.6963,,1640,3225
+FC-3C,2,n4695,marker,9,1754.7,3209.6,2,3,plus,overlaps the circle above it,159.019,20.6799,0.4526,1.2294,piecewise,agreed,claude,159.4015,21.2254,,1757,3208
+FC-3C,2,n4695,marker,10,1872.4,3196.4,2,3,plus,overlaps the circle above it,179.474,24.9089,0.4505,1.2285,piecewise,agreed,claude,179.9137,24.7063,,1875,3197
+FC-3C,2,n4695,marker,11,1989.6,3185.6,3,3,plus,on the x=200 gridline; overlaps the circle above it,199.8355,28.3211,0.622,1.2302,piecewise,agreed,claude,201.1106,27.8372,,1997,3187
+FC-3C,2,n4695,marker,12,2105.5,3179.5,2,3,plus,overlaps the triangle-down above it,219.8573,30.1335,0.4747,1.2275,piecewise,agreed,claude,220.2746,29.6293,,2108,3181
+FC-3C,2,n4695,marker,13,2275.7,3160.7,3,2,plus,on the x=250 gridline; last point,249.2843,36.1542,0.6869,0.8873,piecewise,agreed,claude,249.992,35.374,,2280,3163
+FC-3C,2,n734,marker,1,827.0,3298.5,3,2,triangle-up,on the left frame line (x=0); touches the circle below it,-0.0624,-7.5621,0.6089,0.9071,piecewise extrapolated x,agreed,claude,0.2785,-10.5452,,829,3307
+FC-3C,2,n734,marker,2,1006.5,3274.0,2,3,triangle-up,sits on the 0 gridline,30.8923,0.4683,0.4394,1.2434,piecewise,agreed,claude,30.8042,-1.9721,,1006,3281
+FC-3C,2,n734,marker,3,1118.5,3237.5,3,2,triangle-up,on the x=50 gridline,50.2512,12.6482,0.6073,0.892,piecewise,agreed,claude,50.3397,10.7511,,1119,3243
+FC-3C,2,n734,marker,4,1237.0,3210.0,2,2,triangle-up,,70.3896,21.7471,0.4371,0.8876,piecewise,agreed,claude,70.4873,21.9023,,1237.5,3209.5
+FC-3C,2,n734,marker,5,1353.3,3193.7,2,2,triangle-up,,90.1311,27.0344,0.4418,0.8864,piecewise,agreed,claude,90.339,26.9197,,1354.5,3194.0
+FC-3C,2,n734,marker,6,1468.0,3160.0,2,2,triangle-up,,109.7721,38.2597,0.4496,0.8838,piecewise,agreed,claude,109.6868,38.7659,,1467.5,3158.5
+FC-3C,2,n734,marker,7,1584.0,3136.5,2,2,triangle-up,,129.7522,46.0059,0.4482,0.882,piecewise,agreed,claude,129.734,45.8307,,1584.0,3137.0
+FC-3C,2,n734,marker,8,1701.5,3120.5,3,2,triangle-up,on the x=150 gridline,149.9738,51.1923,0.6243,0.8832,piecewise,agreed,claude,149.6826,51.3623,,1700,3120
+FC-3C,2,n734,marker,9,1815.5,3098.0,2,2,triangle-up,template instance,169.7972,58.605,0.4493,0.8792,piecewise,agreed,claude,169.7745,58.6001,,1815.5,3098.0
+FC-3C,2,n734,marker,10,1928.5,3091.0,2,2,triangle-up,,189.4137,60.7339,0.4474,0.8788,piecewise,agreed,claude,189.4065,60.8995,,1928.5,3090.5
+FC-3C,2,n734,marker,11,2107.5,3084.5,2,2,triangle-up,,220.3981,62.5416,0.4738,0.8785,piecewise,agreed,claude,220.3842,62.8777,,2107.5,3083.5
+FC-3C,2,n734,marker,12,2277.7,3082.3,3,2,triangle-up,on the x=250 gridline; last point,249.8129,62.9027,0.6901,0.8808,piecewise extrapolated x,agreed,claude,250.1673,62.3133,,2280,3084

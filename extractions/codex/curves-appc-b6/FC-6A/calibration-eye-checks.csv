@@ -1,0 +1,7 @@
+figure_id,panel,axis,printed_label,pixel_u_eye,pixel_v_eye,fitted_value,value_difference,position_difference_px,eye_bound_px,result,note
+FC-6A,1,x,1000,1228,3006,1000.76135,0.76135,0.223,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates
+FC-6A,1,x,3000,1812,3000,2991.94327,-8.05673,-2.363,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates
+FC-6A,1,x,5000,2401,2995,5000.13155,0.13155,0.039,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates
+FC-6A,1,y,1000,931,2712,1001.69594,1.69594,0.499,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates
+FC-6A,1,y,4000,921,1829,4003.69978,3.69978,1.088,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates
+FC-6A,1,y,6000,915,1245,5989.15239,-10.84761,-3.191,4,pass,printed label and its grid/frame crossing read by eye; compare position difference to eye bound plus calibration RMS; original page coordinates

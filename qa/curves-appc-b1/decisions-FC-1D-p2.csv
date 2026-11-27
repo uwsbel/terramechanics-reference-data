@@ -1,0 +1,14 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+2,n1468,marker,2,codex,excluded,,"second round: the symbol is n587, not n1468; credit claude (blind adjudication item 052 (Claude's adjudicator: n587; Codex's: n587))"
+2,n2935,marker,8,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 053 (Claude's adjudicator: p; Codex's: p))
+2,n2935,marker,9,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 054 (Claude's adjudicator: yes; Codex's: yes)
+2,n2935,marker,1,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 055 (Claude's adjudicator: no; Codex's: no): The P mark is on the x=0 axis line only (u 598-603). The nearest symbol is a small mark centered about (598,3403), 13 px above, which the other reader read as a"
+2,n2935,marker,5,codex,excluded,,"the symbol is n3520, not n2935; credit claude (blind adjudication item 056 (Claude's adjudicator: n3520; Codex's: n3520))"
+2,n2935,marker,11,codex,excluded,,"not on the ink of this test (both adjudicators); blind adjudication item 057 (Claude's adjudicator: no; Codex's: no): Blank paper: no ink within u 1570-1605, v 3175-3205. The nearest symbol is the n3520 x at (1592,3233); the n2935 asterisk is at x=180 (1648,3191)."
+2,n0,marker,2,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 051 (Claude's adjudicator: p; Codex's: both))
+2,n0,marker,3,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 052 (Claude's adjudicator: q; Codex's: both))
+2,n0,marker,4,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 053 (Claude's adjudicator: q; Codex's: both))
+2,n0,marker,5,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 054 (Claude's adjudicator: p; Codex's: both))
+2,n0,marker,6,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 055 (Claude's adjudicator: p; Codex's: both))
+2,n0,marker,7,claude,resolved,,the claude reading is on the symbol center; credit claude (blind adjudication item 056 (Claude's adjudicator: q; Codex's: both))
+2,n2935,marker,10,claude,pending-review,span,"neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 056, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 cannot tell R3 ok)"

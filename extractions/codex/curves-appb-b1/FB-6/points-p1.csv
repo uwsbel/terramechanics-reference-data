@@ -1,0 +1,43 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,trace_segment
+FB-6,1,dr82,marker,1,1035.0,3307.0,6.0,6.0,circle,Bottom rim broken; center reconstructed from surviving sides.,
+FB-6,1,dr82,marker,2,1023.0,3400.5,2.0,2.0,circle,,
+FB-6,1,dr82,marker,3,1312.5,2345.0,2.0,2.0,circle,,
+FB-6,1,dr82,marker,4,1336.0,2495.5,2.0,2.0,circle,,
+FB-6,1,dr82,marker,5,1939.5,1039.5,2.0,2.0,circle,,
+FB-6,1,dr82,marker,6,1987.0,1185.5,2.0,2.0,circle,,
+FB-6,1,dr82,marker,7,1950.5,1281.5,2.0,2.0,circle,,
+FB-6,1,dr02,marker,1,997.5,3942.0,3.0,3.0,circle,Line touches rim.,
+FB-6,1,dr02,marker,2,998.0,4003.0,7.0,7.0,circle,Lower circle overlaps bottom frame; center from surviving circle.,
+FB-6,1,dr02,marker,3,1345.5,3351.0,2.0,2.0,circle,,
+FB-6,1,dr02,marker,4,1333.5,3496.5,2.0,2.0,circle,,
+FB-6,1,dr02,marker,5,1960.0,2665.0,10.0,10.0,circle,Overlapping pair; upper circle.,
+FB-6,1,dr02,marker,6,1960.0,2682.0,10.0,10.0,circle,Overlapping pair; lower circle.,
+FB-6,1,dr82,feature,1,997.25,3450.215,4.0,4.0,,first point; visible line end,
+FB-6,1,dr82,feature,2,1321.374,2426.007,4.0,4.0,,vertex,
+FB-6,1,dr82,feature,3,1980.191,1114.561,4.0,4.0,,last point; peak; visible line end,
+FB-6,1,dr82,feature,4,2200.0,1108.0,2.0,2.0,,label: Dense; Dr = 0.82,
+FB-6,1,dr82,trace,1,997.25,3450.215,3.5,3.5,,first point,1
+FB-6,1,dr82,trace,2,1102.053,3120.704,4.0,4.0,,x=3 psi,2
+FB-6,1,dr82,trace,3,1190.452,2842.197,4.5,4.5,,x=4 psi,2
+FB-6,1,dr82,trace,4,1282.025,2552.004,4.0,4.0,,x=5 psi,2
+FB-6,1,dr82,trace,5,1322.328,2426.308,4.5,4.5,,vertex,2
+FB-6,1,dr82,trace,6,1370.67,2328.434,5.0,5.0,,x=6 psi,2
+FB-6,1,dr82,trace,7,1531.448,2009.224,5.0,5.0,,x=7 psi,2
+FB-6,1,dr82,trace,8,1708.991,1656.919,4.5,4.5,,x=8 psi,2
+FB-6,1,dr82,trace,9,1881.713,1314.212,4.0,4.0,,x=9 psi,2
+FB-6,1,dr82,trace,10,1980.303,1114.617,3.5,3.5,,last point,2
+FB-6,1,dr02,feature,1,989.837,3983.042,22.0,22.0,,"first point; left trace end: first separable stroke is 1.0 px inward of estimated symbol junction; hidden endpoint not guessed; right trace end: first separable stroke is 1.5 px inward of estimated symbol junction; hidden endpoint not guessed; hidden endpoint extent, distinct trace starts farther along visible ink",
+FB-6,1,dr02,feature,2,1336.884,3431.291,4.0,4.0,,vertex,
+FB-6,1,dr02,feature,3,1947.742,2698.785,22.0,22.0,,"last point; peak; left trace end: first separable stroke is 1.0 px inward of estimated symbol junction; hidden endpoint not guessed; right trace end: first separable stroke is 1.5 px inward of estimated symbol junction; hidden endpoint not guessed; hidden endpoint extent, distinct trace ends before symbol",
+FB-6,1,dr02,feature,4,2171.0,2688.0,2.0,2.0,,label: Loose; Dr = 0.02,
+FB-6,1,dr02,trace,1,990.581,3982.329,5.0,5.0,,first point,1
+FB-6,1,dr02,trace,2,996.0,3973.243,4.5,4.5,,x=2 psi,1
+FB-6,1,dr02,trace,3,1122.066,3772.583,4.5,4.5,,x=3 psi,2
+FB-6,1,dr02,trace,4,1237.564,3590.368,4.0,4.0,,x=4 psi,2
+FB-6,1,dr02,trace,5,1337.625,3431.757,4.5,4.5,,vertex,2
+FB-6,1,dr02,trace,6,1350.49,3415.756,4.0,4.0,,x=5 psi,2
+FB-6,1,dr02,trace,7,1461.66,3281.862,4.5,4.5,,x=6 psi,2
+FB-6,1,dr02,trace,8,1605.022,3110.536,5.0,5.0,,x=7 psi,2
+FB-6,1,dr02,trace,9,1756.154,2927.16,4.5,4.5,,x=8 psi,2
+FB-6,1,dr02,trace,10,1907.68,2746.629,5.5,5.5,,x=9 psi,2
+FB-6,1,dr02,trace,11,1946.397,2699.617,5.0,5.0,,last point,2

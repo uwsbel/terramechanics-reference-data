@@ -1,0 +1,23 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_unit,y_unit,sampling_x_psf,trace_segment,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-10C,1,ps-loose,marker,1,522.397,3750.057,2.0,4.472,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,124.72,232.816,10.243,17.177,piecewise
+FC-10C,1,ps-loose,marker,2,698.04,3510.46,4.0,6.0,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; adjacent fit/grid ink touches outline; centroid excludes that ink,psf,psf,,,716.729,1040.998,16.496,23.02,piecewise
+FC-10C,1,ps-loose,marker,3,909.583,3265.253,2.0,4.873,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,1441.464,1882.145,10.089,18.443,piecewise
+FC-10C,1,ps-loose,marker,4,1124.453,3036.03,2.0,4.485,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,2182.322,2670.305,10.269,17.451,piecewise
+FC-10C,1,ps-loose,marker,5,1168.137,3109.507,2.0,4.247,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,2333.372,2421.479,10.059,16.495,piecewise
+FC-10C,1,ps-loose,marker,6,1336.903,2859.243,2.0,4.878,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,2909.639,3284.047,9.291,19.376,piecewise
+FC-10C,1,ps-loose,marker,7,1545.133,2678.657,4.0,6.0,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; adjacent fit/grid ink touches outline; centroid excludes that ink,psf,psf,,,3619.572,3915.305,16.307,23.575,piecewise
+FC-10C,1,ps-loose,marker,8,1763.383,2575.703,2.0,4.648,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,,4366.194,4280.007,9.538,18.712,piecewise
+FC-10C,1,ps-loose,marker,9,1764.73,2493.853,4.0,6.0,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; adjacent fit/grid ink touches outline; centroid excludes that ink,psf,psf,,,4369.842,4564.661,16.426,23.193,piecewise
+FC-10C,1,ps-loose,trace,1,485.744,3714.669,5.5,5.5,,left end: fitted-line branch reaches x=0 axis,psf,psf,0,1,-0.002,349.891,22.364,20.785,piecewise extrapolated x
+FC-10C,1,ps-loose,trace,2,633.864,3573.287,5.5,5.5,,on drawn fit ink at 500 psf normal stress,psf,psf,500,1,500.001,827.941,21.782,20.976,piecewise
+FC-10C,1,ps-loose,trace,3,781.875,3432.394,5.5,5.5,,on drawn fit ink at 1000 psf normal stress,psf,psf,1000,1,1000.002,1309.416,21.841,21.156,piecewise
+FC-10C,1,ps-loose,trace,4,926.318,3294.952,5.5,5.5,,on drawn fit ink at 1500 psf normal stress,psf,psf,1500,1,1499.999,1781.764,22.326,20.778,piecewise
+FC-10C,1,ps-loose,trace,5,1070.848,3157.0,5.5,5.5,,on drawn fit ink at 2000 psf normal stress,psf,psf,2000,1,1999.999,2256.308,22.765,20.793,piecewise
+FC-10C,1,ps-loose,trace,6,1217.031,3017.379,5.5,5.5,,on drawn fit ink at 2500 psf normal stress,psf,psf,2500,1,2500.001,2737.033,21.889,21.069,piecewise
+FC-10C,1,ps-loose,trace,7,1363.137,2877.797,5.5,5.5,,on drawn fit ink at 3000 psf normal stress,psf,psf,3000,1,2999.999,3220.799,21.216,21.621,piecewise
+FC-10C,1,ps-loose,trace,8,1509.941,2737.895,5.5,5.5,,on drawn fit ink at 3500 psf normal stress,psf,psf,3500,1,3500.001,3709.394,21.365,21.813,piecewise
+FC-10C,1,ps-loose,trace,9,1656.702,2598.464,5.5,5.5,,on drawn fit ink at 4000 psf normal stress,psf,psf,4000,1,4000.002,4197.374,21.724,21.88,piecewise
+FC-10C,1,ps-loose,trace,10,1751.0,2508.5,5.5,5.5,,right end: last distinct fitted-line ink; maximum of trace; line merges with terminal triangle; last distinct line ink before outline,psf,psf,right-end,1,4322.855,4513.29,21.596,21.553,piecewise
+FC-10C,1,ps-loose,feature,1,485.744,3714.669,5.5,5.5,,first point; left end: fitted-line branch reaches x=0 axis,psf,psf,0,1,-0.002,349.891,22.364,20.785,piecewise extrapolated x
+FC-10C,1,ps-loose,feature,2,1751.0,2508.5,5.5,5.5,,last point; maximum of trace; right end: last distinct fitted-line ink; maximum of trace; line merges with terminal triangle; last distinct line ink before outline,psf,psf,right-end,1,4322.855,4513.29,21.596,21.553,piecewise
+FC-10C,1,ps-loose,feature,3,485.744,3714.669,5.5,5.5,,intercept,psf,psf,0,1,-0.002,349.891,22.364,20.785,piecewise extrapolated x

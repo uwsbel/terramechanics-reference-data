@@ -1,0 +1,54 @@
+panel,axis,label_printed,value_assigned,uniform_grid_value,anchored,line_px,label_center_px,offset_px,checked_by_eye,outcome
+1,"x (time, ms)",0,0,0,yes,735.1,742.5,7.4,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",10,10,10,yes,852.7,856.5,3.8,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",20,20,20,yes,975.9,971.5,-4.4,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",30,30,30,yes,1098.8,1106.0,7.2,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",40,40,40,yes,1217.1,1212.5,-4.6,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",50,50,50,yes,1341.1,1338.0,-3.1,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",60,60,60,yes,1461.4,1463.5,2.1,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",70,70,70,yes,1583.8,1580.0,-3.8,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",80,80,80,yes,1704.8,1706.0,1.2,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",90,90,90,yes,1828.7,1820.0,-8.7,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",100,100,100,yes,1951.5,1943.5,-8.0,yes,label stands under this line; value confirmed; anchored
+1,"x (time, ms)",120,,110,no,2074.7,2068.5,-6.2,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 110"
+1,"x (time, ms)",130,,120,no,2196.6,2205.5,8.9,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 120"
+1,"x (time, ms)",140,,130,no,2318.1,2311.5,-6.6,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 130"
+1,"x (time, ms)",(none),,140,no,2442.1,,,yes,no label under this line (right frame); not anchored
+1,"y (force, lb)",0,0,0,yes,1991.1,1986.0,-5.1,yes,label stands beside this line; value confirmed; anchored
+1,"y (force, lb)","(unlabeled, midway)",50,50,yes,1867.8,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+1,"y (force, lb)",100,100,100,yes,1745.4,1743.0,-2.4,yes,label stands beside this line; value confirmed; anchored
+1,"y (force, lb)","(unlabeled, midway)",150,150,yes,1624.2,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+1,"y (force, lb)",200,200,200,yes,1501.9,1501.5,-0.4,yes,label stands beside this line; value confirmed; anchored
+1,"y (force, lb)","(unlabeled, midway)",250,250,yes,1380.7,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+1,"y (force, lb)",300,300,300,yes,1258.0,1247.5,-10.5,yes,"label stands beside this line; value confirmed; anchored (label printed 11 px above the line, still unambiguous: neighbors 120 px away)"
+1,"y (force, lb)","(unlabeled, midway)",350,350,yes,1135.5,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+1,"y (force, lb)",400,400,400,yes,1014.2,1016.5,2.3,yes,label stands beside this line; value confirmed; anchored
+1,"y (force, lb)","(unlabeled, midway)",450,450,yes,891.5,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+1,"y (force, lb)",500,500,500,yes,771.3,768.0,-3.3,yes,"label stands beside this line; value confirmed; anchored; rejected by the tool ink check (legend box interrupts the line, legend text on its path); not a knot"
+1,"y (force, lb)","(unlabeled, midway)",550,550,yes,650.2,,,line seen on page,"unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored; rejected by the tool ink check (legend box interrupts the line, legend text on its path); not a knot"
+1,"y (force, lb)",600,600,600,yes,527.4,526.0,-1.4,yes,label stands beside this line; value confirmed; anchored
+2,"x (time, ms)",0,0,0,yes,747.5,738.5,-9.0,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",10,10,10,yes,870.8,871.5,0.7,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",20,20,20,yes,992.3,986.5,-5.8,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",30,30,30,yes,1113.7,1112.0,-1.7,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",40,40,40,yes,1236.9,1237.0,0.1,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",50,50,50,yes,1357.7,1345.0,-12.7,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",60,60,60,yes,1478.8,1479.0,0.2,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",70,70,70,yes,1601.0,1604.5,3.5,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",80,80,80,yes,1723.2,1721.5,-1.7,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",90,90,90,yes,1845.7,1846.0,0.3,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",100,100,100,yes,1971.6,1969.0,-2.6,yes,label stands under this line; value confirmed; anchored
+2,"x (time, ms)",120,,110,no,2091.2,2096.0,4.8,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 110"
+2,"x (time, ms)",130,,120,no,2210.4,2212.0,1.6,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 120"
+2,"x (time, ms)",140,,130,no,2329.0,2326.5,-2.5,yes,"label stands under this line, but the printed sequence skips 110 (100 is followed by 120 one even interval later); value uncertain, not anchored; uniform-grid value 130"
+2,"x (time, ms)",(none),,140,no,2452.0,,,yes,no label under this line (right frame); not anchored
+2,"y (displacement, in)","(none, top frame)",,4.5,no,2172.2,,,yes,"top frame, unlabeled and not parallel to the grid (level, the grid lines fall to the right); not anchored"
+2,"y (displacement, in)",4.0,4.0,4.0,yes,2300.2,2294.0,-6.2,yes,label stands beside this line; value confirmed; anchored
+2,"y (displacement, in)","(unlabeled, midway)",3.5,3.5,yes,2420.8,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+2,"y (displacement, in)",3.0,3.0,3.0,yes,2544.0,2538.0,-6.0,yes,label stands beside this line; value confirmed; anchored
+2,"y (displacement, in)","(unlabeled, midway)",2.5,2.5,yes,2667.2,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+2,"y (displacement, in)",2.0,2.0,2.0,yes,2787.6,2784.5,-3.1,yes,label stands beside this line; value confirmed; anchored
+2,"y (displacement, in)","(unlabeled, midway)",1.5,1.5,yes,2907.7,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+2,"y (displacement, in)",1.0,1.0,1.0,yes,3028.0,3023.0,-5.0,yes,label stands beside this line; value confirmed; anchored
+2,"y (displacement, in)","(unlabeled, midway)",0.5,0.5,yes,3150.9,,,line seen on page,unlabeled line midway between two labeled lines of an even grid; value from the even spacing; anchored
+2,"y (displacement, in)",0,0.0,0.0,yes,3274.2,3269.0,-5.2,yes,label stands beside this line; value confirmed; anchored

@@ -1,0 +1,78 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-22,1,data,marker,1,1690,2017,18,18,circle,single; circle overlaps solid curve and horizontal grid line,0.5377487,45.00753,0.0119772,0.25005,piecewise
+FC-22,1,data,marker,2,2340,1584,18,18,circle,single; circle overlaps solid curve,0.9586542,50.56102,0.0121018,0.24706,piecewise extrapolated y
+FC-22,1,mean,trace,1,854.0,2546.0,3.0,3.0,,first ink point,-0.0035101,38.19283,0.0024825,0.04715,piecewise extrapolated x
+FC-22,1,mean,trace,2,859.3,2537.16,5.0,5.0,,target Dr=0.00,2.6e-06,38.3081,0.0037808,0.0735,piecewise extrapolated x
+FC-22,1,mean,trace,3,935.61,2496.74,4.5,4.5,,target Dr=0.05,0.0500027,38.82998,0.0033827,0.06669,piecewise
+FC-22,1,mean,trace,4,1011.81,2452.2,4.0,4.0,,target Dr=0.10,0.099998,39.40576,0.0030121,0.05986,piecewise
+FC-22,1,mean,trace,5,1089.71,2405.46,4.0,4.0,,target Dr=0.15,0.1499982,40.01005,0.0029732,0.05958,piecewise
+FC-22,1,mean,trace,6,1167.55,2358.1,3.5,3.5,,target Dr=0.20,0.1999987,40.62011,0.002677,0.05378,piecewise
+FC-22,1,mean,trace,7,1246.64,2309.54,3.5,3.5,,target Dr=0.25,0.250003,41.24532,0.0025887,0.05467,piecewise
+FC-22,1,mean,trace,8,1325.7,2258.56,4.5,4.5,,target Dr=0.30,0.3000017,41.9017,0.0033408,0.06877,piecewise
+FC-22,1,mean,trace,9,1400.79,2210.12,4.0,4.0,,target Dr=0.35,0.3500026,42.525,0.003041,0.06308,piecewise
+FC-22,1,mean,trace,10,1475.8,2161.83,4.0,4.0,,target Dr=0.40,0.3999999,43.14599,0.0030716,0.06397,piecewise
+FC-22,1,mean,trace,11,1553.46,2111.22,4.0,4.0,,target Dr=0.45,0.4500005,43.79654,0.0029363,0.06489,piecewise
+FC-22,1,mean,trace,12,1631.22,2060.15,3.5,3.5,,target Dr=0.50,0.499998,44.45266,0.0025786,0.05925,piecewise
+FC-22,1,mean,trace,13,1709.14,2007.96,4.5,4.5,,target Dr=0.55,0.5500004,45.12264,0.003286,0.07283,piecewise
+FC-22,1,mean,trace,14,1787.06,1953.43,4.0,4.0,,target Dr=0.60,0.6000005,45.82157,0.0030442,0.06539,piecewise
+FC-22,1,mean,trace,15,1864.38,1898.29,4.5,4.5,,target Dr=0.65,0.6500008,46.52876,0.0033396,0.07106,piecewise
+FC-22,1,mean,trace,16,1941.67,1844.43,4.5,4.5,,target Dr=0.70,0.6999987,47.21958,0.0033412,0.07019,piecewise
+FC-22,1,mean,trace,17,2018.18,1792.75,5.0,5.0,,target Dr=0.75,0.7500028,47.88243,0.0036445,0.07591,piecewise
+FC-22,1,mean,trace,18,2094.89,1741.1,4.0,4.0,,target Dr=0.80,0.7999973,48.54512,0.0029632,0.06196,piecewise
+FC-22,1,mean,trace,19,2172.18,1690.16,4.5,4.5,,target Dr=0.85,0.8500014,49.19875,0.0033174,0.0677,piecewise
+FC-22,1,mean,trace,20,2249.42,1640.71,4.5,4.5,,target Dr=0.90,0.900002,49.83327,0.0033579,0.0669,piecewise
+FC-22,1,mean,trace,21,2326.66,1594.24,5.5,5.5,,target Dr=0.95,0.9500011,50.42927,0.0039754,0.08192,piecewise extrapolated y
+FC-22,1,mean,trace,22,2403.92,1555.2,4.5,4.5,,target Dr=1.00,0.999997,50.92887,0.0033111,0.07093,piecewise extrapolated x y
+FC-22,1,mean,trace,23,2411.0,1548.0,3.0,3.0,,last ink point,1.0046047,51.02177,0.0023643,0.05158,piecewise extrapolated x y
+FC-22,1,mean,feature,1,854.0,2546.0,3.0,3.0,,first point,-0.0035101,38.19283,0.0024825,0.04715,piecewise extrapolated x
+FC-22,1,mean,feature,2,2411.0,1548.0,3.0,3.0,,last point; peak,1.0046047,51.02177,0.0023643,0.05158,piecewise extrapolated x y
+FC-22,1,upper,trace,1,858.0,2455.0,3.0,3.0,,first ink point,-0.0002786,39.38437,0.0024576,0.04668,piecewise extrapolated x
+FC-22,1,upper,trace,2,866.0,2448.17,4.0,4.0,,target Dr=0.00; moved to nearest visible dash end or ink beside grid/symbol interruption,0.0049833,39.47304,0.0030922,0.05984,piecewise
+FC-22,1,upper,trace,3,921.0,2415.68,4.5,4.5,,target Dr=0.05; moved to nearest visible dash end or ink beside grid/symbol interruption,0.041071,39.8931,0.0033926,0.06628,piecewise
+FC-22,1,upper,trace,4,1018.0,2358.22,4.0,4.0,,target Dr=0.10; moved to nearest visible dash end or ink beside grid/symbol interruption,0.1046587,40.63381,0.002948,0.06042,piecewise
+FC-22,1,upper,trace,5,1072.0,2325.84,2.0,2.0,,target Dr=0.15; moved to nearest visible dash end or ink beside grid/symbol interruption,0.1393398,41.05085,0.0016769,0.03467,piecewise
+FC-22,1,upper,trace,6,1159.0,2270.56,3.5,3.5,,target Dr=0.20; moved to nearest visible dash end or ink beside grid/symbol interruption,0.1952745,41.76299,0.002679,0.05544,piecewise
+FC-22,1,upper,trace,7,1243.0,2219.36,2.5,2.5,,target Dr=0.25,0.2484534,42.42176,0.001954,0.04322,piecewise
+FC-22,1,upper,trace,8,1317.0,2169.86,4.0,4.0,,target Dr=0.30; moved to nearest visible dash end or ink beside grid/symbol interruption,0.295261,43.05905,0.0028617,0.06388,piecewise
+FC-22,1,upper,trace,9,1399.0,2115.77,4.0,4.0,,target Dr=0.35,0.3496715,43.75488,0.0030438,0.06487,piecewise
+FC-22,1,upper,trace,10,1482.0,2061.26,4.5,4.5,,target Dr=0.40; moved to nearest visible dash end or ink beside grid/symbol interruption,0.4048792,44.45562,0.0032873,0.07245,piecewise
+FC-22,1,upper,trace,11,1562.0,2007.61,4.0,4.0,,target Dr=0.45; moved to nearest visible dash end or ink beside grid/symbol interruption,0.4563213,45.14456,0.0029278,0.06621,piecewise
+FC-22,1,upper,trace,12,1613.0,1973.58,2.5,2.5,,target Dr=0.50; moved to nearest visible dash end or ink beside grid/symbol interruption,0.4890742,45.58028,0.0019375,0.04599,piecewise
+FC-22,1,upper,trace,13,1708.0,1906.78,4.0,4.0,,target Dr=0.55,0.5500444,46.43647,0.0029625,0.06459,piecewise
+FC-22,1,upper,trace,14,1765.0,1868.19,3.0,3.0,,target Dr=0.60; moved to nearest visible dash end or ink beside grid/symbol interruption,0.5865985,46.93103,0.0023647,0.05085,piecewise
+FC-22,1,upper,trace,15,1863.0,1797.85,4.0,4.0,,target Dr=0.65,0.6498911,47.8335,0.0030164,0.06283,piecewise
+FC-22,1,upper,trace,16,1933.0,1750.19,3.5,3.5,,target Dr=0.70; moved to nearest visible dash end or ink beside grid/symbol interruption,0.6951859,48.44483,0.0026609,0.0555,piecewise
+FC-22,1,upper,trace,17,2017.0,1695.5,5.0,5.0,,target Dr=0.75,0.7498885,49.14619,0.0036349,0.0743,piecewise
+FC-22,1,upper,trace,18,2087.0,1648.34,5.0,5.0,,target Dr=0.80; moved to nearest visible dash end or ink beside grid/symbol interruption,0.7953948,49.75148,0.0036091,0.07354,piecewise
+FC-22,1,upper,trace,19,2178.0,1590.11,4.0,4.0,,target Dr=0.85; moved to nearest visible dash end or ink beside grid/symbol interruption,0.8543156,50.49864,0.0029986,0.06245,piecewise extrapolated y
+FC-22,1,upper,trace,20,2256.0,1543.49,4.0,4.0,,target Dr=0.90; moved to nearest visible dash end or ink beside grid/symbol interruption,0.904826,51.09654,0.0030357,0.06505,piecewise extrapolated y
+FC-22,1,upper,trace,21,2337.0,1499.0,4.0,4.0,,target Dr=0.95; moved to nearest visible dash end or ink beside grid/symbol interruption,0.9572725,51.66666,0.0029961,0.06752,piecewise extrapolated y
+FC-22,1,upper,trace,22,2396.0,1468.23,4.0,4.0,,target Dr=1.00; moved to nearest visible dash end or ink beside grid/symbol interruption,0.9954849,52.06079,0.0029671,0.06924,piecewise extrapolated y
+FC-22,1,upper,trace,23,2404.0,1466.0,3.0,3.0,,last ink point,1.0006544,52.08898,0.0023341,0.0562,piecewise extrapolated x y
+FC-22,1,upper,feature,1,858.0,2455.0,3.0,3.0,,first point,-0.0002786,39.38437,0.0024576,0.04668,piecewise extrapolated x
+FC-22,1,upper,feature,2,2404.0,1466.0,3.0,3.0,,last point; peak,1.0006544,52.08898,0.0023341,0.0562,piecewise extrapolated x y
+FC-22,1,lower,trace,1,855.0,2647.0,3.0,3.0,,first ink point,-0.003551,36.86981,0.0024806,0.04767,piecewise extrapolated x
+FC-22,1,lower,trace,2,868.0,2635.36,3.5,3.5,,target Dr=0.00; moved to nearest visible dash end or ink beside grid/symbol interruption,0.0049889,37.02101,0.002758,0.05421,piecewise
+FC-22,1,lower,trace,3,937.0,2596.19,4.0,4.0,,target Dr=0.05,0.0501793,37.52732,0.0030502,0.06061,piecewise
+FC-22,1,lower,trace,4,1000.0,2562.15,3.0,3.0,,target Dr=0.10; moved to nearest visible dash end or ink beside grid/symbol interruption,0.0914537,37.96698,0.002357,0.04723,piecewise
+FC-22,1,lower,trace,5,1091.0,2508.2,4.0,4.0,,target Dr=0.15,0.150002,38.66455,0.002971,0.06015,piecewise
+FC-22,1,lower,trace,6,1176.0,2457.16,4.5,4.5,,target Dr=0.20; moved to nearest visible dash end or ink beside grid/symbol interruption,0.2044875,39.32449,0.0032701,0.06648,piecewise
+FC-22,1,lower,trace,7,1244.0,2416.19,5.0,5.0,,target Dr=0.25,0.2474796,39.85417,0.0035457,0.07287,piecewise
+FC-22,1,lower,trace,8,1320.0,2369.1,3.5,3.5,,target Dr=0.30; moved to nearest visible dash end or ink beside grid/symbol interruption,0.2955347,40.46116,0.0025442,0.05351,piecewise
+FC-22,1,lower,trace,9,1399.0,2320.59,2.5,2.5,,target Dr=0.35,0.3478262,41.08541,0.0020323,0.04125,piecewise
+FC-22,1,lower,trace,10,1470.0,2275.7,4.0,4.0,,target Dr=0.40; moved to nearest visible dash end or ink beside grid/symbol interruption,0.3950849,41.66295,0.0030687,0.06181,piecewise
+FC-22,1,lower,trace,11,1555.0,2221.08,3.5,3.5,,target Dr=0.45,0.4500465,42.3654,0.0026169,0.05623,piecewise
+FC-22,1,lower,trace,12,1612.0,2184.87,2.0,2.0,,target Dr=0.50; moved to nearest visible dash end or ink beside grid/symbol interruption,0.4867502,42.83075,0.0016213,0.03717,piecewise
+FC-22,1,lower,trace,13,1710.0,2117.04,4.0,4.0,,target Dr=0.55,0.549718,43.70291,0.0029645,0.06472,piecewise
+FC-22,1,lower,trace,14,1798.0,2056.32,2.5,2.5,,target Dr=0.60; moved to nearest visible dash end or ink beside grid/symbol interruption,0.6062432,44.48305,0.0020694,0.04611,piecewise
+FC-22,1,lower,trace,15,1868.0,2007.44,3.0,3.0,,target Dr=0.65,0.651479,45.11061,0.002363,0.05318,piecewise
+FC-22,1,lower,trace,16,1928.0,1967.29,2.5,2.5,,target Dr=0.70; moved to nearest visible dash end or ink beside grid/symbol interruption,0.6902559,45.62509,0.002012,0.04597,piecewise
+FC-22,1,lower,trace,17,2019.0,1901.65,4.5,4.5,,target Dr=0.75,0.7498056,46.46733,0.0033269,0.07116,piecewise
+FC-22,1,lower,trace,18,2103.0,1842.24,4.0,4.0,,target Dr=0.80; moved to nearest visible dash end or ink beside grid/symbol interruption,0.8046767,47.22978,0.0029482,0.06364,piecewise
+FC-22,1,lower,trace,19,2181.0,1788.53,3.0,3.0,,target Dr=0.85; moved to nearest visible dash end or ink beside grid/symbol interruption,0.8551168,47.91911,0.0023456,0.04964,piecewise
+FC-22,1,lower,trace,20,2243.0,1748.27,4.0,4.0,,target Dr=0.90; moved to nearest visible dash end or ink beside grid/symbol interruption,0.8952242,48.4356,0.003032,0.06212,piecewise
+FC-22,1,lower,trace,21,2307.0,1708.23,2.5,2.5,,target Dr=0.95; moved to nearest visible dash end or ink beside grid/symbol interruption,0.936627,48.94916,0.0020324,0.04178,piecewise
+FC-22,1,lower,trace,22,2398.0,1649.6,4.5,4.5,,target Dr=1.00; moved to nearest visible dash end or ink beside grid/symbol interruption,0.9955476,49.70175,0.0032883,0.06709,piecewise
+FC-22,1,lower,trace,23,2408.0,1647.0,3.0,3.0,,last ink point,1.0019994,49.73449,0.0023417,0.04736,piecewise extrapolated x
+FC-22,1,lower,feature,1,855.0,2647.0,3.0,3.0,,first point,-0.003551,36.86981,0.0024806,0.04767,piecewise extrapolated x
+FC-22,1,lower,feature,2,2408.0,1647.0,3.0,3.0,,last point; peak,1.0019994,49.73449,0.0023417,0.04736,piecewise extrapolated x

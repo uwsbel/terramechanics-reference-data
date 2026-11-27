@@ -1,0 +1,7 @@
+figure_id,panel,axis,printed_label,value_psf,line_px,label_centre_px,offset_px,checked_where,result,note
+FC-13,1,y,800.00,8000,v 1376.9,v 1375.0,-1.9,left of frame at u 600,on its line,top labelled line; the frame continues above it to v 884 around the text box and was kept out of the detection box
+FC-13,1,y,400.00,4000,v 2542.6,v 2534.5,-8.1,left of frame at u 600,on its line,label 8 px above its line; the neighbouring lines are 287 and 290 px away
+FC-13,1,y,00,0,v 3717.7,v 3711.0,-6.7,left of frame at u 650,on its line,bottom frame
+FC-13,1,x,00,0,u 712.5,u 704.5,-8.0,below frame at v 3774,on its line,left frame
+FC-13,1,x,300.00,3000,u 1585.6,u 1586.0,+0.4,below frame at v 3774,on its line,
+FC-13,1,x,700.00,7000,u 2751.1,u 2732.5,-18.6,below frame at v 3774,on its line,right frame; label centred 18.6 px left of it, the next line (6000) is 286 px further left; no line beyond the frame

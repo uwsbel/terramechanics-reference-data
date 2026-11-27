@@ -1,0 +1,90 @@
+{
+  "FC-12": {
+    "source": "1968-vol2",
+    "title": "Figure C-12: RC2 Loose (printed C-34, PDF 148)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "rc2-loose": {
+        "label": "RC2 loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of RC2 soil (broadly graded crushed scoria), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-13": {
+    "source": "1968-vol2",
+    "title": "Figure C-13: SS Loose (printed C-35, PDF 147)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "ss-loose": {
+        "label": "SS loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of SS soil (white silica sand), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell. The line ends at a triangle near its right end; a crosshair at the end of the line counts as on the line if the line enters the box."
+  },
+  "FC-14": {
+    "source": "1968-vol2",
+    "title": "Figure C-14: LSM Loose (printed C-36, PDF 150)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "lsm-loose": {
+        "label": "LSM loose",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of LSM soil (crushed scoria mixed with air-floated clay), loose: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  },
+  "FC-15": {
+    "source": "1968-vol2",
+    "title": "Figure C-15: LSM Dense (printed C-37, PDF 151)",
+    "rotation": 0,
+    "legend_hint": "the only group on this figure",
+    "series_noun": "group",
+    "series": {
+      "lsm-dense": {
+        "label": "LSM dense",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (shear strength)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Computer-plotted failure envelope of LSM soil (crushed scoria mixed with air-floated clay), dense: shear strength against normal stress, one group of tests. The triangles (pointing up) are the tests; the straight line is the authors' least-squares fit and does not pass through every triangle. Both axis titles print (x 10^1): a tick printed 100.00 is 1000 psf. The box above the plot prints the group's values; they are not checked here. Where two triangles overlap, answer for the one nearest the crosshair, or cannot tell."
+  }
+}

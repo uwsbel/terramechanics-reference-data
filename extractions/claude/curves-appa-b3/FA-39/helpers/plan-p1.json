@@ -1,0 +1,59 @@
+{
+ "figure_id": "FA-39",
+ "cal_dir": "out/FA-39/cal-p1",
+ "bound_px": 4,
+ "lines": {
+  "upper": {"uref": 870, "a": 1937.95, "b": 0.72685, "centres": "out/FA-39/helpers/centres-A.csv", "symbol": "dashed line"},
+  "mean":  {"uref": 870, "a": 2010.5, "b": 0.72856, "centres": "out/FA-39/helpers/centres-B.csv", "symbol": "solid line"},
+  "lower": {"uref": 870, "a": 2085.61, "b": 0.72181, "centres": "out/FA-39/helpers/centres-C.csv", "symbol": "dashed line"}
+ },
+ "samples": {
+  "upper": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); its first visible ink is at the frame's inner edge (u 877), sample on the frame centre"],
+   ["x=0.1", "Dr 0.1 crossing, on the dash (u 979 to 1070)"],
+   ["x=0.2", "Dr 0.2 crossing, on the dash (u 1087 to 1177)"],
+   ["x=0.3", "Dr 0.3 crossing, on the dash (it ends at u 1288, just past the grid line)"],
+   ["x=0.4", "Dr 0.4 crossing, on the dash (u 1406 to 1504)"],
+   ["x=0.5", "Dr 0.5 crossing, on the dash (u 1526 to 1608)"],
+   ["x=0.6", "Dr 0.6 crossing, on the dash (u 1628 to 1717)"],
+   [1837, "Dr 0.7: the crossing (u 1843.6) is in a dash gap (u 1838 to 1854, the grid line inside it); moved to the nearest dash end, the end of the previous dash (u 1837, 7 px; the next starts at u 1855, 11 px)"],
+   ["x=0.8", "Dr 0.8 crossing, on the dash (u 1946 to 1998)"],
+   ["x=0.9", "Dr 0.9 crossing, on the dash (it ends at u 2125, just past the grid line)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the 88.1 leader starts outside the frame at its level"]
+  ],
+  "mean": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 877)"],
+   ["x=0.1", "Dr 0.1 crossing"],
+   ["x=0.2", "Dr 0.2 crossing"],
+   ["x=0.3", "Dr 0.3 crossing"],
+   ["x=0.4", "Dr 0.4 crossing"],
+   ["x=0.5", "Dr 0.5 crossing"],
+   ["x=0.6", "Dr 0.6 crossing"],
+   ["x=0.7", "Dr 0.7 crossing"],
+   ["x=0.8", "Dr 0.8 crossing"],
+   ["x=0.9", "Dr 0.9 crossing"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the 90.2 leader starts outside the frame at its level"]
+  ],
+  "lower": [
+   ["x=0", "left end: the line meets the left frame (Dr = 0); first visible ink at the frame's inner edge (u 877)"],
+   ["x=0.1", "Dr 0.1 crossing, on the dash (u 969 to 1061)"],
+   ["x=0.2", "Dr 0.2 crossing, on the dash (u 1085 to 1197)"],
+   ["x=0.3", "Dr 0.3 crossing, on the dash (u 1216 to 1343)"],
+   ["x=0.4", "Dr 0.4 crossing, on the dash (u 1360 to 1498)"],
+   ["x=0.5", "Dr 0.5 crossing, on the dash (u 1515 to 1639)"],
+   ["x=0.6", "Dr 0.6 crossing, on the dash (u 1664 to 1810)"],
+   ["x=0.7", "Dr 0.7 crossing, on the dash (u 1829 to 1942)"],
+   ["x=0.8", "Dr 0.8 crossing, on the dash (u 1964 to 2058)"],
+   ["x=0.9", "Dr 0.9 crossing, on the dash (u 2083 to 2176)"],
+   ["x=1.0", "right end: the line meets the right frame (Dr = 1.0); the 92.3 leader starts outside the frame at its level"]
+  ]
+ },
+ "features": {
+  "upper": [[672.5, 1914.5, "label: 66.6 (left end; leader ends at u 855, v 1937, where the upper line meets the frame)", 5],
+            [2436.5, 2949, "label: 88.1 (right end; horizontal leader at v 2946, from u 2276)", 5]],
+  "mean": [[676.5, 1966, "label: 67.8 (left end; leader ends at u 855, v 2009)", 5],
+           [2437, 3027, "label: 90.2 (right end; leader drawn through the right-axis label 90)", 5]],
+  "lower": [[674.5, 2019, "label: 69.0 (left end; leader ends at u 864, v 2084)", 5],
+            [2433.5, 3081, "label: 92.3 (right end; horizontal leader at v 3088, from u 2274)", 5]]
+ }
+}

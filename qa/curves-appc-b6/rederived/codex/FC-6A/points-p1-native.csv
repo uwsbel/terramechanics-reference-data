@@ -1,0 +1,80 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-6A,1,dr5-40,marker,1,973,2979,5,7,triangle-up,fit crosses triangle,132.929,97.201,20.388,25.812,piecewise
+FC-6A,1,dr5-40,marker,2,1444,2551,8,7,triangle-up,overlaps circle and fit; triangle centroid reconstructed,1754.249,1532.554,30.49,27.026,piecewise
+FC-6A,1,dr5-40,marker,3,1763,2208,5,7,triangle-up,on middle fit; series by triangle shape,2861.593,2690.41,21.527,26.527,piecewise
+FC-6A,1,dr5-40,marker,4,2027,1919,7,7,triangle-up,overlaps circle and construction line; on middle fit; series by triangle shape,3767.613,3663.975,26.69,26.134,piecewise
+FC-6A,1,dr5-40,marker,5,2260,1654,3,7,triangle-up,,4570.607,4553.205,13.407,26.448,piecewise
+FC-6A,1,,marker,1,1787,2148,10,8,triangle-down,unassigned: clearly downward triangular outline; no corresponding shape in legend; overlaps square and upper fit; cannot establish density from packet,2946.32,2894.449,38.856,30.222,piecewise
+FC-6A,1,dr19-28,marker,1,1146,2882,2,2,circle,,724.703,420.173,9.788,9.61,piecewise
+FC-6A,1,dr19-28,marker,2,1442,2527,6,6,circle,overlaps triangle and line,1748.379,1613.872,23.618,23.396,piecewise
+FC-6A,1,dr19-28,marker,3,2043,1889,5,5,circle,line crosses circle,3822.891,3765.106,19.728,19.23,piecewise
+FC-6A,1,dr19-28,marker,4,2289,1740,2,2,circle,,4666.065,4261.893,9.899,9.133,piecewise
+FC-6A,1,dr103-107,marker,1,1147,2774,2,2,square,on or beside upper fit; series by square shape,732.267,785.447,9.786,10.543,piecewise
+FC-6A,1,dr103-107,marker,2,1441,2592,2,2,square,,1742.355,1393.808,9.789,10.21,piecewise
+FC-6A,1,dr103-107,marker,3,1786,2128,9,9,square,overlaps downward triangle and grid; on upper fit rather than own lower fit; series by square shape,2943.686,2962.715,35.456,33.656,piecewise
+FC-6A,1,dr103-107,marker,4,2036,2097,3,3,square,overlaps dashed construction,3791.074,3060.975,12.935,12.887,piecewise
+FC-6A,1,dr103-107,marker,5,2288,1802,2,2,square,,4660.186,4052.553,9.892,8.863,piecewise
+FC-6A,1,dr5-40,trace,1,935,3004.5,5,5,,left end,2.793,12.145,20.456,18.816,piecewise extrapolated x y
+FC-6A,1,dr5-40,trace,2,1006.99,2938.0,4.61,4.61,,,250.032,234.798,18.93,18.054,piecewise
+FC-6A,1,dr5-40,trace,3,1079.5,2866.5,4.96,4.96,,,499.25,474.47,20.047,19.864,piecewise
+FC-6A,1,dr5-40,trace,4,1149.98,2796.0,4.61,4.61,,"target 750; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",741.549,710.952,18.759,19.275,piecewise
+FC-6A,1,dr5-40,trace,5,1219.48,2727.5,4.25,4.25,,"target 1000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",980.458,940.825,17.438,18.634,piecewise
+FC-6A,1,dr5-40,trace,6,1297.0,2650.5,4.96,4.96,,,1248.148,1199.523,19.981,20.776,piecewise
+FC-6A,1,dr5-40,trace,7,1369.5,2578.5,4.96,4.96,,,1498.646,1441.43,20.002,20.229,piecewise
+FC-6A,1,dr5-40,trace,8,1441.93,2501.0,3.19,3.19,,,1749.183,1701.91,13.905,13.585,piecewise
+FC-6A,1,dr5-40,trace,9,1509.47,2436.5,4.25,4.25,,"target 2000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",1982.547,1918.456,17.588,16.721,piecewise
+FC-6A,1,dr5-40,trace,10,1586.97,2360.5,4.25,4.25,,,2251.494,2174.992,18.024,16.762,piecewise
+FC-6A,1,dr5-40,trace,11,1659.47,2288.0,5.31,5.31,,,2503.182,2420.349,22.045,20.58,piecewise
+FC-6A,1,dr5-40,trace,12,1731.97,2216.5,4.25,4.25,,,2754.794,2662.279,18.698,17.097,piecewise
+FC-6A,1,dr5-40,trace,13,1811.46,2138.0,4.61,4.61,,"target 3000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3030.192,2927.879,19.939,18.519,piecewise
+FC-6A,1,dr5-40,trace,14,1876.95,2070.5,4.96,4.96,,,3254.289,3155.174,20.701,19.519,piecewise
+FC-6A,1,dr5-40,trace,15,1949.45,1998.5,4.96,4.96,,,3502.266,3396.959,20.217,19.35,piecewise
+FC-6A,1,dr5-40,trace,16,2003.95,1949.5,2.83,2.83,,"target 3750; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3688.475,3561.348,12.553,11.957,piecewise
+FC-6A,1,dr5-40,trace,17,2089.45,1860.5,4.96,4.96,,"target 4000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3981.077,3860.288,19.281,19.026,piecewise
+FC-6A,1,dr5-40,trace,18,2166.96,1783.5,4.25,4.25,,,4248.233,4118.543,17.209,16.631,piecewise
+FC-6A,1,dr5-40,trace,19,2239.45,1710.5,4.96,4.96,,,4498.291,4363.005,19.936,19.365,piecewise
+FC-6A,1,dr5-40,trace,20,2311.95,1638.5,4.96,4.96,,,4748.361,4603.931,20.212,19.672,piecewise
+FC-6A,1,dr5-40,trace,21,2345,1611.0,5,5,,right end; peak of drawn fit,4862.152,4695.74,20.476,19.925,piecewise
+FC-6A,1,dr5-40,feature,1,934.49,3009.65,7,7,,intercept,0.863,-5.245,27.384,25.741,piecewise extrapolated x y
+FC-6A,1,dr19-28,trace,1,934,3055.0,5,5,,dashed; left end,-2.532,-158.493,20.488,19.798,piecewise extrapolated x y
+FC-6A,1,dr19-28,trace,2,1007.49,2980.5,4.93,4.93,,dashed,250.105,91.11,20.03,18.783,piecewise
+FC-6A,1,dr19-28,trace,3,1079.96,2906.0,5.28,5.28,,dashed,499.296,340.887,21.147,20.619,piecewise
+FC-6A,1,dr19-28,trace,4,1154.43,2827.5,4.93,4.93,,"dashed; target 750; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",755.461,604.281,19.854,20.098,piecewise
+FC-6A,1,dr19-28,trace,5,1219.92,2763.5,6.33,6.33,,"target 1000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",980.56,819.011,24.6,25.435,piecewise
+FC-6A,1,dr19-28,trace,6,1297.44,2688.5,4.93,4.93,,,1248.157,1070.816,19.876,20.964,piecewise
+FC-6A,1,dr19-28,trace,7,1369.91,2614.0,5.28,5.28,,,1498.637,1321.203,21.107,21.595,piecewise
+FC-6A,1,dr19-28,trace,8,1419.38,2564.0,5.28,5.28,,"target 1750; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",1669.621,1489.196,21.121,21.214,piecewise
+FC-6A,1,dr19-28,trace,9,1509.86,2470.5,4.93,4.93,,"target 2000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",1982.503,1803.332,19.942,19.307,piecewise
+FC-6A,1,dr19-28,trace,10,1587.35,2393.0,5.28,5.28,,,2251.483,2064.086,21.606,20.231,piecewise
+FC-6A,1,dr19-28,trace,11,1659.83,2319.0,4.57,4.57,,,2503.17,2314.565,19.474,17.959,piecewise
+FC-6A,1,dr19-28,trace,12,1732.31,2245.5,5.63,5.63,,,2754.802,2563.323,23.495,21.779,piecewise
+FC-6A,1,dr19-28,trace,13,1797.8,2181.5,2.81,2.81,,"target 3000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",2982.04,2779.848,13.998,12.221,piecewise
+FC-6A,1,dr19-28,trace,14,1877.29,2100.0,5.28,5.28,,,3254.283,3055.261,21.798,20.682,piecewise
+FC-6A,1,dr19-28,trace,15,1949.79,2028.0,5.28,5.28,,,3502.26,3297.051,21.314,20.513,piecewise
+FC-6A,1,dr19-28,trace,16,2022.27,1954.0,5.28,5.28,,,3750.248,3545.591,20.829,20.339,piecewise
+FC-6A,1,dr19-28,trace,17,2089.75,1884.5,4.93,4.93,,"target 4000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3981.151,3779.013,19.178,18.98,piecewise
+FC-6A,1,dr19-28,trace,18,2167.24,1808.0,5.98,5.98,,,4248.218,4035.755,23.182,22.426,piecewise
+FC-6A,1,dr19-28,trace,19,2239.72,1734.0,5.28,5.28,,,4498.278,4283.623,21.041,20.354,piecewise
+FC-6A,1,dr19-28,trace,20,2254,1724.0,5,5,,right end; peak of drawn fit,4547.365,4316.971,20.128,19.441,piecewise
+FC-6A,1,dr19-28,feature,1,934.98,3051.67,7,7,,intercept,0.925,-147.269,27.382,26.593,piecewise extrapolated x y
+FC-6A,1,dr103-107,trace,1,994,2964.0,5,5,,"dashed; left end of separately identifiable dashed ink; earlier join obscured by triangle and frame, not resolved as a trace endpoint",204.883,147.285,20.287,19.164,piecewise
+FC-6A,1,dr103-107,trace,2,1007.19,2954.5,3.67,3.67,,dashed,250.08,179.013,15.698,14.699,piecewise
+FC-6A,1,dr103-107,trace,3,1079.72,2885.5,5.14,5.14,,dashed,499.268,410.215,20.666,20.317,piecewise
+FC-6A,1,dr103-107,trace,4,1152.28,2819.0,5.51,5.51,,dashed,748.48,633.092,21.851,22.153,piecewise
+FC-6A,1,dr103-107,trace,5,1219.86,2759.0,6.98,6.98,,"target 1000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",980.531,834.238,26.845,27.696,piecewise
+FC-6A,1,dr103-107,trace,6,1297.44,2689.0,5.51,5.51,,,1248.137,1069.122,21.88,22.952,piecewise
+FC-6A,1,dr103-107,trace,7,1369.95,2618.0,5.51,5.51,,,1498.614,1307.656,21.901,22.412,piecewise
+FC-6A,1,dr103-107,trace,8,1419.54,2568.0,2.57,2.57,,"target 1750; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",1670.007,1475.647,11.754,11.975,piecewise
+FC-6A,1,dr103-107,trace,9,1510.09,2488.5,5.14,5.14,,"target 2000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",1982.559,1742.384,20.682,20.162,piecewise
+FC-6A,1,dr103-107,trace,10,1587.63,2417.0,5.51,5.51,,,2251.473,1982.326,22.406,20.885,piecewise
+FC-6A,1,dr103-107,trace,11,1660.21,2352.0,4.78,4.78,,,2503.147,2201.956,20.204,18.604,piecewise
+FC-6A,1,dr103-107,trace,12,1732.76,2285.0,5.51,5.51,,,2754.766,2428.538,23.078,21.273,piecewise
+FC-6A,1,dr103-107,trace,13,1809.32,2214.0,4.78,4.78,,"target 3000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3019.979,2668.64,20.547,18.925,piecewise
+FC-6A,1,dr103-107,trace,14,1877.89,2151.5,5.14,5.14,,,3254.295,2879.951,21.318,20.31,piecewise
+FC-6A,1,dr103-107,trace,15,1950.45,2085.0,5.51,5.51,,,3502.259,3104.008,22.102,21.433,piecewise
+FC-6A,1,dr103-107,trace,16,2023.0,2017.5,4.41,4.41,,,3750.229,3330.544,17.847,17.516,piecewise
+FC-6A,1,dr103-107,trace,17,2090.56,1954.5,4.41,4.41,,"target 4000; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",3981.149,3541.964,17.396,17.368,piecewise
+FC-6A,1,dr103-107,trace,18,2168.13,1884.5,5.14,5.14,,,4248.222,3776.783,20.281,19.698,piecewise
+FC-6A,1,dr103-107,trace,19,2245.67,1812.5,5.88,5.88,,"target 4500; shifted to adjacent author-line ink to avoid gap, marker, or grid merge",4515.445,4018.306,23.131,22.054,piecewise
+FC-6A,1,dr103-107,trace,20,2262,1801.0,5,5,,right end; peak of drawn fit,4571.579,4056.678,20.154,19.102,piecewise
+FC-6A,1,dr103-107,feature,1,934.63,3021.83,7,7,,intercept,0.874,-46.412,27.383,25.988,piecewise extrapolated x y

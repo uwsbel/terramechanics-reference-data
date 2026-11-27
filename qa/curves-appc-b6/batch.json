@@ -1,0 +1,26 @@
+{
+  "batch": "curves-appc-b6",
+  "source": "1968-vol2",
+  "context_pages": [115],
+  "figures": {
+    "FC-5A": {"series": [
+      {"series_id": "dr2-13", "density_group_printed": "Dr .02 to .13", "unit_weight_pcf": "95.2 to 97.6", "soil": "SS"},
+      {"series_id": "dr30", "density_group_printed": "Dr .30", "unit_weight_pcf": "100", "soil": "SS"},
+      {"series_id": "dr48", "density_group_printed": "Dr .48", "unit_weight_pcf": "103", "soil": "SS"},
+      {"series_id": "dr77", "density_group_printed": "Dr .77", "unit_weight_pcf": "107", "soil": "SS"}]},
+    "FC-6A": {"series": [
+      {"series_id": "dr5-40", "density_group_printed": "Dr .05 to .40", "unit_weight_pcf": "66.8 to 75.2", "soil": "LSM"},
+      {"series_id": "dr19-28", "density_group_printed": "Dr .19 to .28", "unit_weight_pcf": "71.1 to 73", "soil": "LSM"},
+      {"series_id": "dr103-107", "density_group_printed": "Dr 1.03 to 1.07", "unit_weight_pcf": "91 to 93.3", "soil": "LSM"}]},
+    "FC-7A": {"series": [
+      {"series_id": "dr53", "density_group_printed": "Dr 0.53", "unit_weight_pcf": "82", "soil": "RSM-b"},
+      {"series_id": "dr100", "density_group_printed": "Dr 1.0", "unit_weight_pcf": "89", "soil": "RSM-b"}]}
+  },
+  "specific": "## These figures\n\nFigures C-5A, C-6A and C-7A are **failure envelopes**: maximum shear stress against normal stress (psf on C-5A and C-6A; shear load against normal load in psi on C-7A), one panel each, upright. Each density group of the legend is one series: its plotted symbols are the peak shear stresses of the direct shear tests of that group, and a straight line drawn through them (solid, often extended to the shear-stress axis by a dashed part) is the authors' fit, labelled with a friction angle. Series ids are in `series.csv`, named by the printed Dr range of the group in hundredths (`dr2-13` for Dr .02 to .13). On C-5A only the first group has data sheets in this appendix; the others come from an earlier test series.\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye; these figures may have ticks but no grid lines).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`:\n   - every plotted symbol as `marker`, with `symbol` (`circle`, `filled circle`, `square`, `triangle-up`, `triangle-down`, `x`, `plus`, `asterisk`, `dotted circle`, `dotted triangle`, or a described shape) and its series. Where a symbol's shape and the line it sits on disagree, give the series by shape and say so in the note (rule 9).\n   - each drawn line as `trace` samples in drawing order from its left end: its left end (on the shear-stress axis if the dashed part reaches it), then every 250 psf of normal stress (every 2 psi on C-7A), then its right end. Mark samples on the dashed part with \"dashed\" in the note. Bound: half the line thickness (rule 7).\n   - per series one `feature` with note \"intercept\" (where the line meets the normal-stress-zero axis) and one `feature` with note \"label: <the printed angle>\" placed at the printed angle label's center.\n3. `overlay-p1.png`, `notes.md` (which line carries which printed angle, symbols that do not match the legend, anything ambiguous).",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between a dash and a symbol; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Where small symbols overlap, a symbol you cannot identify gets a note and a wide bound, never a guess; check that each mark is on the named symbol and not on a neighbour.",
+    "Triangle centers are centroids (rule 8).",
+    "On an envelope a symbol sitting on another group's line belongs to the group of its shape; dashed extensions are extrapolations and pass through other groups' symbols near the axis."
+  ]
+}

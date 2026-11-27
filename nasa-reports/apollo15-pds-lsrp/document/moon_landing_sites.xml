@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1700.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<Product_Document xmlns="http://pds.nasa.gov/pds4/pds/v1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 https://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1700.xsd">
+
+  <Identification_Area>
+    <logical_identifier>urn:nasa:pds:apollodoc:commondoc:moon_landing_sites</logical_identifier>
+    <version_id>1.0</version_id>
+    <title>Map of Moon Landing Sites for Surveyor, Apollo, and Luna Missions</title>
+    <information_model_version>1.7.0.0</information_model_version>
+    <product_class>Product_Document</product_class>
+    <Citation_Information>
+      <author_list>Williams, D.R.</author_list>
+      <publication_year>2017</publication_year>
+      <description>This map locates the landing sites of the Surveyor, Apollo, and Luna missions to
+      the Moon. Created by D. R. Williams of the NASA Space Science Data Coordinated Archive, this
+      graphic has a full resolution of 75 x 75 pixels per inch (1100 x 1070 pixels).</description>
+    </Citation_Information>
+    <Modification_History>
+      <Modification_Detail>
+        <modification_date>2016-10-19</modification_date>
+        <version_id>1.0</version_id>
+        <description>Creation.</description>
+      </Modification_Detail>
+    </Modification_History>
+  </Identification_Area>
+  <Reference_List>
+    <External_Reference>
+      <doi>10.1029/1999JE001165</doi>
+      <reference_text>Davies, M.E., and T.R. Colvin, Lunar coordinates in the regions of the Apollo
+      landers, Journal of Geophysical Research, Volume 105, Issue E8, pages 20,227-20,280,
+      2000.</reference_text>
+    </External_Reference>
+  </Reference_List>
+  <Document>
+    <author_list>Williams, D.R.</author_list>
+    <acknowledgement_text>Document provided by the NASA Space Science Data Coordinated Archive
+    (NSSDCA, formerly NSSDC).</acknowledgement_text>
+    <publication_date>2016</publication_date>
+    <description>This map of Moon landing sites has full resolution of 75 x 75 pixels per inch
+    (1100 x 1070 pixels). It is in public domain and was downloaded from the NSSDCA at
+    http://nssdc.gsfc.nasa.gov.</description>
+    <Document_Edition>
+      <edition_name>Map - JPEG</edition_name>
+      <language>English</language>
+      <files>1</files>
+      <Document_File>
+        <file_name>moon_landing_sites.jpg</file_name>
+        <document_standard_id>JPEG</document_standard_id>
+      </Document_File>
+    </Document_Edition>
+  </Document>
+</Product_Document>

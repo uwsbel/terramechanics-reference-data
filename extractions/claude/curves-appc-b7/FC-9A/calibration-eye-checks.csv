@@ -1,0 +1,13 @@
+figure_id,panel,axis,value_psf,printed_label,label_centre_u,label_centre_v,fitted_line_px_near_label,label_minus_line_px,agrees,note
+FC-9A,1,y,8000,800.00,540,1404,1408.7,-5,yes,the plot frame continues about 490 px above this line around the text box; the frame top is not a grid line (box chosen to exclude it)
+FC-9A,1,y,7000,700.00,540,1698,1704.7,-7,yes,
+FC-9A,1,y,3000,300.00,540,2855,2865.2,-10,yes,labels on this page sit with their baseline near the line
+FC-9A,1,y,1000,100.00,540,3440,3452.2,-12,yes,
+FC-9A,1,y,0,00,580,3735,3751.5,-16,yes,printed as 00 with its baseline on the line
+FC-9A,1,x,0,00.,652,3825,650.3,2,yes,printed as 00.
+FC-9A,1,x,1000,100.00,948,3825,944.6,3,yes,
+FC-9A,1,x,2000,200.00,1234,3825,1234.1,0,yes,
+FC-9A,1,x,3000,300.00,1515,3825,1523.9,-9,yes,decimal point at u 1531
+FC-9A,1,x,4000,400.00,1811,3825,1815.3,-4,yes,
+FC-9A,1,x,6000,600.00,2401,3830,2398.2,3,yes,
+FC-9A,1,x,7000,700.00,2684,3830,2688.6,-5,yes,right frame is the 7000 line

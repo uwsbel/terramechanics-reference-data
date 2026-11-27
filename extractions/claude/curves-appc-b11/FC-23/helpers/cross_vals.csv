@@ -1,0 +1,11 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-23,1,x,feature,1,1094,2213,0,0,,rc2-ps,0.0958735,43.24613,0.0004522,0.02143,piecewise
+FC-23,1,x,feature,2,1850,2024,0,0,,rs-rsmb,0.5814364,45.61085,0.000983,0.02519,piecewise
+FC-23,1,x,feature,3,1984,1931,0,0,,ps-rsmb,0.6699291,46.83139,0.0006968,0.02173,piecewise
+FC-23,1,x,feature,4,2430,1801,0,0,,rs-ps,0.9605581,48.50152,0.0005274,0.01698,piecewise
+FC-23,1,x,feature,5,1000,2240,0,0,,rc2ps overlap start,0.0340561,42.90956,0.0005247,0.02057,piecewise
+FC-23,1,x,feature,6,1160,2190,0,0,,rc2ps overlap end,0.1400779,43.53426,0.0004846,0.02218,piecewise
+FC-23,1,x,feature,7,1814,2050,0,0,,rs-rsmb join start,0.5586859,45.26918,0.0009946,0.02616,piecewise
+FC-23,1,x,feature,8,1906,2003,0,0,,rs-rsmb join end,0.6176968,45.88359,0.0009489,0.02441,piecewise
+FC-23,1,x,feature,9,2405,1806,0,0,,rs-ps join start,0.9445845,48.43842,0.000528,0.01716,piecewise
+FC-23,1,x,feature,10,2468,1791,0,0,,rs-ps join end,0.984851,48.62922,0.0005265,0.01661,piecewise

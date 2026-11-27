@@ -1,0 +1,88 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-1C,2,n1172,marker,1,628,3325,4,4,triangle-down,on the 0 (x) gridline; cluster with the triangle-up above it,-0.3267,-17.2129,0.7945,1.7051,piecewise extrapolated x,agreed,claude,-0.4351,-16.1578,,628,3322
+FC-1C,2,n1172,marker,2,744,3319,3,3,triangle-down,touches the asterisk above and the plus below,19.4302,-15.1251,0.6154,1.3573,piecewise,agreed,claude,18.6892,-13.3752,,740,3314
+FC-1C,2,n1172,marker,3,867,3314,3,3,triangle-down,touches the square above,40.3808,-13.3861,0.611,1.3579,piecewise,agreed,claude,40.1988,-13.0314,,866,3313
+FC-1C,2,n1172,marker,4,984,3288,3,3,triangle-down,base edge on the 0 gridline,60.218,-4.3277,0.6115,1.3615,piecewise,agreed,claude,59.55,-4.6741,,980,3289
+FC-1C,2,n1172,marker,5,1100,3258,2,2,triangle-down,,79.7838,6.1833,0.4589,1.0198,piecewise,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 020 (Claude's adjudicator: yes; Codex's: yes),,
+FC-1C,2,n1172,marker,6,1221,3245,3,3,triangle-down,on the 100 gridline,100.1783,10.75,0.6588,1.368,piecewise,agreed,claude,99.8343,13.2133,,1219,3238
+FC-1C,2,n1172,marker,7,1339,3224,2,2,triangle-down,,120.4815,18.1268,0.4884,1.0099,piecewise,agreed,claude,120.489,19.5345,,1339,3220
+FC-1C,2,n1172,marker,8,1456,3204,2,2,triangle-down,,140.6081,25.1472,0.4909,1.0042,piecewise,agreed,claude,140.1156,26.9064,,1453,3199
+FC-1C,2,n1172,marker,9,1572,3182,2,2,triangle-down,,160.4287,32.8658,0.4787,0.9979,piecewise,agreed,claude,161.1301,34.2721,,1576,3178
+FC-1C,2,n1172,marker,10,1691,3172,2,2,triangle-down,,180.6327,36.3637,0.4642,0.9949,piecewise,resolved,claude,181.9961,37.4173,the claude reading is on the symbol center; credit claude (blind adjudication item 027 (Claude's adjudicator: q; Codex's: q)),1699,3169
+FC-1C,2,n1172,marker,11,1805,3153,3,3,triangle-down,on the 200 gridline,199.9953,43.0204,0.6358,1.3411,piecewise,resolved,claude,202.6016,45.1254,the claude reading is on the symbol center; credit claude (blind adjudication item 021 (Claude's adjudicator: p; Codex's: p)),1820,3147
+FC-1C,2,n1172,marker,12,1923,3138,2,2,triangle-down,,220.5417,48.2679,0.4516,0.9851,piecewise,agreed,claude,220.0363,49.6725,,1920,3134
+FC-1C,2,n1172,marker,13,2091,3113,3,3,triangle-down,on the 250 gridline,249.8009,57.0114,0.6135,1.3293,piecewise extrapolated x,agreed,claude,250.3805,58.0624,,2094,3110
+FC-1C,2,n1760,marker,1,630,3366,3,3,plus,on the 0 (x) gridline,-0.0033,-31.5032,0.6215,1.3508,piecewise extrapolated x,agreed,claude,-0.4659,-31.8331,,628,3367
+FC-1C,2,n1760,marker,2,747,3344,3,3,plus,touches the triangle-down above it,19.925,-23.8387,0.6151,1.3538,piecewise,agreed,claude,18.8348,-24.1743,,741,3345
+FC-1C,2,n1760,marker,3,923,3341,3,3,plus,on the 50 gridline,49.8912,-22.7984,0.6088,1.3542,piecewise,agreed,claude,49.557,-23.4849,,921,3343
+FC-1C,2,n1760,marker,4,987,3333,2,2,plus,,60.6801,-20.012,0.4424,1.0066,piecewise,agreed,claude,60.1818,-19.3068,,984,3331
+FC-1C,2,n1760,marker,5,1102,3318,3,3,plus,touches the asterisk above,80.0644,-14.7874,0.6287,1.3574,piecewise,agreed,claude,80.7343,-14.7822,,1106,3318
+FC-1C,2,n1760,marker,6,1221,3307,4,4,plus,on the 100 gridline; symbol uncertain (plus or asterisk),100.1205,-10.9571,0.8319,1.7076,piecewise,agreed,claude,99.9395,-10.2569,,1220,3305
+FC-1C,2,n1760,marker,7,1337,3280,3,3,plus,touches the 0 gridline,120.0909,-1.5502,0.6613,1.3626,piecewise,agreed,claude,120.0899,-1.8982,,1337,3281
+FC-1C,2,n1760,marker,8,1454,3275,3,3,plus,on the 0 gridline,140.2119,0.1905,0.6637,1.3731,piecewise,agreed,claude,139.8812,0.8937,,1452,3273
+FC-1C,2,n1760,marker,9,1571,3264,3,3,plus,touches the 0 gridline,160.202,4.0521,0.6493,1.3718,piecewise,agreed,claude,160.7255,5.1064,,1574,3261
+FC-1C,2,n1760,marker,10,1689,3236,3,3,plus,touches the square above,180.2473,13.8827,0.635,1.3638,piecewise,resolved,claude,183.4737,14.9355,the claude reading is on the symbol center; credit claude (blind adjudication item 022 (Claude's adjudicator: q; Codex's: q)),1708,3233
+FC-1C,2,n1760,marker,11,1806,3231,3,3,plus,on the 200 gridline,200.1098,15.6303,0.6357,1.362,piecewise,resolved,claude,202.5386,16.6828,the claude reading is on the symbol center; credit claude (blind adjudication item 023 (Claude's adjudicator: p; Codex's: p)),1820,3228
+FC-1C,2,n1760,marker,12,1925,3215,3,3,plus,touches the square above,220.8263,21.2379,0.6262,1.3573,piecewise,agreed,claude,220.138,20.8872,,1921,3216
+FC-1C,2,n1760,marker,13,2122,3180,3,3,plus,beyond the 250 gridline (x > 250),255.1338,33.4992,0.6347,1.3471,piecewise extrapolated x,agreed,claude,254.837,34.2005,,2120,3178
+FC-1C,2,n2345,marker,1,694,3315,2,2,square,,10.9175,-13.7295,0.4463,1.0091,piecewise,agreed,claude,10.3247,-13.3734,,691,3314
+FC-1C,2,n2345,marker,2,806,3315,2,2,square,,29.9915,-13.7328,0.4421,1.0091,piecewise,resolved,claude,28.4167,-14.4224,the claude reading is on the symbol center; credit claude (blind adjudication item 028 (Claude's adjudicator: q; Codex's: q)),797,3317
+FC-1C,2,n2345,marker,3,872,3289,3,3,square,touches the asterisk to its left,41.2544,-4.6728,0.611,1.3614,piecewise,agreed,claude,40.9017,-5.7157,,870,3292
+FC-1C,2,n2345,marker,4,924,3301,3,3,square,cluster on the 50 gridline,50.0997,-8.8568,0.6079,1.3597,piecewise,one-sided-verified,claude,,,verified on the page by codex's adjudicator; blind adjudication item 025 (Claude's adjudicator: yes; Codex's: yes),,
+FC-1C,2,n2345,marker,5,1047,3295,3,3,square,round-cornered outline; could be a circle; x marker touches it below,70.8223,-6.7694,0.6207,1.3605,piecewise,agreed,claude,69.8116,-7.4634,,1041,3297
+FC-1C,2,n2345,marker,6,1165,3277,3,3,square,on the 0 gridline; x marker touches it below,90.7136,-0.4993,0.6379,1.3701,piecewise,resolved,claude,88.3468,-1.544,the claude reading is on the symbol center; credit claude (blind adjudication item 026 (Claude's adjudicator: p; Codex's: p)),1151,3280
+FC-1C,2,n2345,marker,7,1282,3267,3,3,square,on the 0 gridline; x marker touches it below,110.6456,3.0094,0.6601,1.3737,piecewise,agreed,claude,109.6067,2.3064,,1276,3269
+FC-1C,2,n2345,marker,8,1457,3246,3,3,square,touches the asterisk and the plus,140.7491,10.384,0.6637,1.3674,piecewise,resolved,claude,139.5608,10.7365,the claude reading is on the symbol center; credit claude (blind adjudication item 029 (Claude's adjudicator: q; Codex's: q)),1450,3245
+FC-1C,2,n2345,marker,9,1573,3238,3,3,square,touches the asterisk above,160.5595,13.1881,0.6491,1.3648,piecewise,agreed,claude,160.7445,13.5399,,1574,3237
+FC-1C,2,n2345,marker,10,1688,3214,3,3,square,touches the asterisk and the plus,180.0934,21.6108,0.6352,1.3579,piecewise,resolved,claude,183.4874,21.2581,the claude reading is on the symbol center; credit claude (blind adjudication item 027 (Claude's adjudicator: q; Codex's: q)),1708,3215
+FC-1C,2,n2345,marker,11,1805,3203,3,3,square,on the 200 gridline,199.9582,25.4627,0.6348,1.3545,piecewise,resolved,claude,202.3854,26.1638,the claude reading is on the symbol center; credit claude (blind adjudication item 028 (Claude's adjudicator: q; Codex's: q)),1819,3201
+FC-1C,2,n2345,marker,12,1924,3189,3,3,square,touches the plus below,220.6737,30.3649,0.6264,1.3503,piecewise,agreed,claude,220.1619,30.3652,,1921,3189
+FC-1C,2,n2345,marker,13,2093,3175,3,3,square,on the 250 gridline,250.0923,35.2572,0.6146,1.3459,piecewise extrapolated x,agreed,claude,249.2659,35.2573,,2088,3175
+FC-1C,2,n2935,marker,1,654,3292,3,3,asterisk,,4.116,-5.7118,0.6188,1.361,piecewise,agreed,claude,4.0244,-5.7085,,654,3292
+FC-1C,2,n2935,marker,2,743,3295,3,3,asterisk,between a circle above and a triangle-down below; touching both,19.2751,-6.7601,0.6156,1.3605,piecewise,agreed,claude,18.8762,-6.4081,,741,3294
+FC-1C,2,n2935,marker,3,850,3291,3,3,asterisk,touches the square to its right,37.505,-5.3692,0.6118,1.3611,piecewise,agreed,claude,36.807,-4.6698,,846,3289
+FC-1C,2,n2935,marker,5,1004,3297,3,3,asterisk,touches the triangle-down to its left,63.578,-7.4651,0.6144,1.3603,piecewise,agreed,claude,62.5714,-7.8103,,998,3298
+FC-1C,2,n2935,marker,6,1101,3290,3,3,asterisk,between triangle-down above and plus below,79.9222,-5.0283,0.6286,1.3612,piecewise,agreed,claude,79.7542,-3.9812,,1100,3287
+FC-1C,2,n2935,marker,7,1219,3267,4,4,asterisk,on the 100 gridline just above the 0 line; symbol uncertain (asterisk or plus),99.8178,3.0119,0.8279,1.726,piecewise,agreed,claude,99.8088,3.7156,,1219,3265
+FC-1C,2,n2935,marker,8,1334,3254,2,2,asterisk,,119.5969,7.5784,0.4884,1.018,piecewise,agreed,claude,119.2568,8.634,,1332,3251
+FC-1C,2,n2935,marker,9,1467,3227,3,3,asterisk,touches the square to its lower left,142.482,17.0618,0.6638,1.3622,piecewise,resolved,claude,140.9504,16.3603,the claude reading is on the symbol center; credit claude (blind adjudication item 030 (Claude's adjudicator: p; Codex's: p)),1458,3229
+FC-1C,2,n2935,marker,10,1574,3216,3,3,asterisk,touches the square below it,160.7445,20.9185,0.649,1.3589,piecewise,agreed,claude,160.9338,22.3248,,1575,3212
+FC-1C,2,n2935,marker,11,1711,3215,3,3,asterisk,touches the square to its left,183.9961,21.2574,0.6324,1.3581,piecewise,resolved,claude,181.961,21.259,the claude reading is on the symbol center; credit claude (blind adjudication item 030 (Claude's adjudicator: p; Codex's: p)),1699,3215
+FC-1C,2,n2935,marker,12,1827,3197,3,3,asterisk,touches the square to its left on the 200 gridline,203.7896,27.5672,0.6346,1.3528,piecewise,agreed,claude,203.4352,28.2699,,1825,3195
+FC-1C,2,n2935,marker,13,1904,3174,3,3,asterisk,touches the square to its lower right,217.2059,35.633,0.6281,1.3463,piecewise,agreed,claude,216.5178,35.9847,,1900,3173
+FC-1C,2,n2935,marker,14,2070,3163,3,3,asterisk,touches the square to its right on the 250 gridline,246.101,39.4709,0.614,1.3428,piecewise,agreed,claude,246.1438,39.8212,,2070,3162
+FC-1C,2,n294,marker,1,744,3272,3,3,circle,on the 0 gridline,19.4602,1.2695,0.6157,1.3756,piecewise,agreed,claude,18.7217,0.5653,,740,3274
+FC-1C,2,n294,marker,2,864,3250,2,2,circle,,39.9255,9.0115,0.4402,1.0183,piecewise,agreed,claude,39.2379,10.4213,,860,3246
+FC-1C,2,n294,marker,3,980,3226,2,2,circle,,59.6039,17.4525,0.4414,1.0115,piecewise,agreed,claude,59.1024,15.6943,,977,3231
+FC-1C,2,n294,marker,4,1099,3196,2,2,circle,,79.6735,27.9987,0.4588,1.003,piecewise,agreed,claude,79.1688,28.0014,,1096,3196
+FC-1C,2,n294,marker,5,1219,3166,3,3,circle,on the 100 gridline,99.9101,38.5376,0.6567,1.3467,piecewise,agreed,claude,99.9022,38.5405,,1219,3166
+FC-1C,2,n294,marker,6,1336,3129,2,2,circle,,120.0453,51.5312,0.4881,0.9843,piecewise,agreed,claude,120.5719,51.8855,,1339,3128
+FC-1C,2,n294,marker,7,1461,3094,3,3,circle,touches the triangle-up below it,141.5481,63.8115,0.6633,1.3265,piecewise,agreed,claude,141.2366,64.1665,,1459,3093
+FC-1C,2,n294,marker,8,1570,3068,2,2,circle,,160.1685,72.9245,0.4789,0.9672,piecewise,agreed,claude,160.0314,73.6302,,1569,3066
+FC-1C,2,n294,marker,9,1689,3047,2,2,circle,,180.3832,80.2728,0.4645,0.9612,piecewise,agreed,claude,180.3951,80.9773,,1689,3045
+FC-1C,2,n3520,marker,1,716,3326,2,2,x,,14.6578,-17.5641,0.4455,1.0076,piecewise,agreed,claude,14.2423,-17.2061,,714,3325
+FC-1C,2,n3520,marker,2,832,3320,3,3,x,,34.4153,-15.4763,0.6122,1.3571,piecewise,agreed,claude,33.7057,-15.4686,,828,3320
+FC-1C,2,n3520,marker,3,1047,3315,3,3,x,touches the symbol above it (square or circle at 1047 3293),70.8033,-13.7401,0.6207,1.3578,piecewise,agreed,claude,69.6345,-10.5989,,1040,3306
+FC-1C,2,n3520,marker,4,1165,3298,3,3,x,touches the square above it,90.6942,-7.8185,0.6379,1.3601,piecewise,agreed,claude,89.5033,-9.5578,,1158,3303
+FC-1C,2,n3520,marker,5,1283,3290,3,3,x,touches the square above it,110.7973,-5.0338,0.6602,1.3612,piecewise,resolved,claude,109.587,-5.0322,the claude reading is on the symbol center; credit claude (blind adjudication item 031 (Claude's adjudicator: q; Codex's: q)),1276,3290
+FC-1C,2,n3520,marker,6,1394,3276,3,3,x,on the 0 gridline,129.8948,-0.1578,0.6625,1.3722,piecewise,agreed,claude,129.7276,-0.5062,,1393,3277
+FC-1C,2,n3520,marker,7,1514,3266,3,3,x,on the 150 gridline; touches the 0 gridline,150.5275,3.3517,0.6575,1.3725,piecewise,agreed,claude,149.3498,3.7036,,1507,3265
+FC-1C,2,n3520,marker,8,1633,3266,3,3,x,touches the 0 gridline,170.7223,3.3469,1.119,2.427,piecewise,pending-review,claude,170.0529,4.7525,"neither reading could be shown right on the page; value kept, bounds widened to both (audit re-check 2026-10-27: item 043, round 2, Claude's adjudicator cannot tell, Codex's cannot tell; students R1 cannot tell R3 cannot tell); bounds widened to cover the other reading (use span)",1629,3262
+FC-1C,2,n3520,marker,9,1749,3247,2,2,x,,190.4219,10.0152,0.4572,1.015,piecewise,agreed,claude,190.5862,10.0153,,1750,3247
+FC-1C,2,n3520,marker,10,1873,3237,2,2,x,,211.7615,13.5187,0.4558,1.0119,piecewise,agreed,claude,211.7609,13.5188,,1873,3237
+FC-1C,2,n3520,marker,11,1985,3230,2,2,x,,231.2526,15.9678,0.4462,1.0097,piecewise,agreed,claude,230.9235,16.3188,,1983,3229
+FC-1C,2,n3520,marker,12,2099,3221,3,3,x,on the 250 gridline,251.0942,19.1168,0.6185,1.3582,piecewise extrapolated x,agreed,claude,250.6135,20.1693,,2096,3218
+FC-1C,2,n3520,marker,4,934,3322,6,6,x,closely spaced symbol cluster; center checked in 10-pixel-grid crop; symbol intersects vertical grid,51.7728,-16.1694,1.1024,2.3952,piecewise,one-sided-verified,codex,,,the symbol is n3520; the other reading filed it under another test; credit codex (blind adjudication item 032 (Claude's adjudicator: n3520; Codex's: n3520)),,
+FC-1C,2,n587,marker,1,627,3294,4,4,triangle-up,on the 0 (x) gridline; apex touches the 0 line; cluster,-0.4842,-6.4081,0.7954,1.7094,piecewise extrapolated x,agreed,claude,-0.416,-6.4043,,628,3294
+FC-1C,2,n587,marker,2,692,3290,3,3,triangle-up,apex touches the 0 gridline,10.5904,-5.0159,0.6175,1.3612,piecewise,agreed,claude,10.3429,-5.0131,,691,3290
+FC-1C,2,n587,marker,3,806,3262,3,3,triangle-up,base on the 0 gridline,30.0317,4.7889,0.6136,1.3742,piecewise,agreed,claude,29.4841,2.6764,,803,3268
+FC-1C,2,n587,marker,4,922,3250,3,3,triangle-up,on the 50 gridline,49.8103,9.0082,0.6095,1.3705,piecewise,agreed,claude,49.6544,10.0655,,921,3247
+FC-1C,2,n587,marker,5,1041,3218,2,2,triangle-up,,69.8849,20.2629,0.4503,1.0091,piecewise,agreed,claude,69.7157,18.5051,,1040,3223
+FC-1C,2,n587,marker,6,1160,3196,2,2,triangle-up,,89.9465,27.9919,0.4677,1.0029,piecewise,agreed,claude,89.7729,27.6425,,1159,3197
+FC-1C,2,n587,marker,7,1277,3163,2,2,triangle-up,,109.878,39.5845,0.4869,0.9936,piecewise,agreed,claude,109.8749,38.5321,,1277,3166
+FC-1C,2,n587,marker,8,1454,3114,3,3,triangle-up,touches the circle above it,140.3308,56.7829,0.6632,1.3319,piecewise,agreed,claude,140.1847,55.7313,,1453,3117
+FC-1C,2,n587,marker,9,1512,3100,3,3,triangle-up,on the 150 gridline,150.3015,61.692,0.6605,1.3279,piecewise,agreed,claude,150.5079,61.3429,,1513,3101
+FC-1C,2,n587,marker,10,1628,3068,2,2,triangle-up,,170.0137,72.9106,0.4719,0.9671,piecewise,resolved,claude,170.0295,70.8048,both readings are on the symbol center; the difference is within its size (blind adjudication item 033 (Claude's adjudicator: both; Codex's: both)),1628,3074
+FC-1C,2,n587,marker,11,1742,3044,2,2,triangle-up,,189.382,81.3127,0.458,0.9603,piecewise,agreed,claude,189.0404,79.9099,,1740,3048
+FC-1C,2,n587,marker,12,1862,3026,2,2,triangle-up,,210.0147,87.601,0.4569,0.9552,piecewise,agreed,claude,209.6694,87.251,,1860,3027
+FC-1C,2,n587,marker,13,1981,3003,3,3,triangle-up,apex touches the +100 gridline,230.7506,95.6402,0.6218,1.3002,piecewise,agreed,claude,230.2608,93.5347,,1978,3009

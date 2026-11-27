@@ -1,0 +1,33 @@
+﻿{
+    "started_at":  "2026-11-19T17:34:42.7141339-06:00",
+    "elapsed_sec":  240.5,
+    "codex_version":  "codex-cli 0.167.0-alpha.3.2",
+    "codex_exe":  "<local path>",
+    "model":  "gpt-6.2-sol",
+    "reasoning_effort":  "high",
+    "mode":  "workspace-write",
+    "sandbox":  "workspace-write",
+    "workdir":  "<local path>",
+    "resumed_thread":  "",
+    "thread_id":  "01a1f629-95cf-7691-b7df-9eda18b902b8",
+    "usage":  {
+                  "input_tokens":  1249547,
+                  "cached_input_tokens":  1180672,
+                  "cache_write_input_tokens":  0,
+                  "output_tokens":  13771,
+                  "reasoning_output_tokens":  4313
+              },
+    "codex_exit_code":  0,
+    "timed_out":  false,
+    "script_exit_code":  0,
+    "answer_path":  "<local path>",
+    "events_path":  "<local path>",
+    "answer_present":  true,
+    "changed_files":  [
+                          "<local path>",
+                          "<local path>"
+                      ],
+    "error_events":  [
+
+                     ]
+}

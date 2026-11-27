@@ -1,0 +1,65 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-3C,2,n4695,marker,1,828.0,3354.5,3,2,plus,on the left frame line (x=0); lowest of the x=0 stack
+FC-3C,2,n4695,marker,2,941.0,3323.0,2,3,plus,overlaps the circle above it (shared stroke)
+FC-3C,2,n4695,marker,3,1058.9,3312.1,2,3,plus,overlaps the circle above it
+FC-3C,2,n4695,marker,4,1177.2,3286.5,2,3,plus,overlaps the circle above it; just below the 0 gridline
+FC-3C,2,n4695,marker,5,1289.6,3274.1,2,3,plus,horizontal arm lies on the 0 gridline; center from the vertical arm
+FC-3C,2,n4695,marker,6,1409.2,3253.9,3,3,plus,on the x=100 gridline; overlaps the circle above it
+FC-3C,2,n4695,marker,7,1523.0,3240.7,2,3,plus,overlaps the circle above it
+FC-3C,2,n4695,marker,8,1640.5,3225.5,2,3,plus,overlaps the circle above it
+FC-3C,2,n4695,marker,9,1754.7,3209.6,2,3,plus,overlaps the circle above it
+FC-3C,2,n4695,marker,10,1872.4,3196.4,2,3,plus,overlaps the circle above it
+FC-3C,2,n4695,marker,11,1989.6,3185.6,3,3,plus,on the x=200 gridline; overlaps the circle above it
+FC-3C,2,n4695,marker,12,2105.5,3179.5,2,3,plus,overlaps the triangle-down above it
+FC-3C,2,n4695,marker,13,2275.7,3160.7,3,2,plus,on the x=250 gridline; last point
+FC-3C,2,n3815,marker,1,825.6,3325.8,3,2,circle,on the left frame line (x=0); touches the triangle-up above and the plus below
+FC-3C,2,n3815,marker,2,888.3,3312.3,2,2,circle,clean; the circle series has a point at x=10 that the others do not
+FC-3C,2,n3815,marker,3,940.5,3305.5,2,3,circle,overlaps the plus below it
+FC-3C,2,n3815,marker,4,1058.5,3287.5,2,3,circle,overlaps the plus below it; touches the square above
+FC-3C,2,n3815,marker,5,1175.0,3266.5,2,3,circle,"between square above and plus below, touching both; on the 0 gridline"
+FC-3C,2,n3815,marker,6,1289.0,3251.5,2,2,circle,
+FC-3C,2,n3815,marker,7,1407.0,3238.0,3,3,circle,on the x=100 gridline; overlaps the plus below
+FC-3C,2,n3815,marker,8,1521.0,3223.5,2,3,circle,overlaps the plus below it
+FC-3C,2,n3815,marker,9,1639.5,3205.5,2,3,circle,overlaps the plus below it
+FC-3C,2,n3815,marker,10,1754.7,3187.7,2,3,circle,overlaps the plus below it
+FC-3C,2,n3815,marker,11,1871.2,3173.4,2,3,circle,overlaps the plus below it
+FC-3C,2,n3815,marker,12,1989.5,3158.0,3,3,circle,on the x=200 gridline; overlaps the plus below
+FC-3C,2,n3815,marker,13,2133.6,3146.8,2,2,circle,touches the triangle-down to its left; extra point at x=225
+FC-3C,2,n3815,marker,14,2254.0,3148.2,2,2,circle,touches the triangle-down to its right; extra point at x=245; last point
+FC-3C,2,n2934,marker,1,854.4,3328.0,2,2,triangle-down,"touches the square above it; first point at x=5, not at x=0"
+FC-3C,2,n2934,marker,2,1004.6,3310.2,2,2,triangle-down,
+FC-3C,2,n2934,marker,3,1119.2,3287.8,3,3,triangle-down,on the crossing of the x=50 and 0 gridlines
+FC-3C,2,n2934,marker,4,1233.0,3263.5,2,2,triangle-down,
+FC-3C,2,n2934,marker,5,1349.2,3241.7,2,2,triangle-down,
+FC-3C,2,n2934,marker,6,1470.5,3224.0,2,2,triangle-down,
+FC-3C,2,n2934,marker,7,1584.4,3212.7,2,2,triangle-down,
+FC-3C,2,n2934,marker,8,1699.2,3197.4,3,2,triangle-down,on the x=150 gridline
+FC-3C,2,n2934,marker,9,1814.5,3179.5,2,2,triangle-down,template instance
+FC-3C,2,n2934,marker,10,1929.5,3166.0,2,2,triangle-down,
+FC-3C,2,n2934,marker,11,2107.2,3151.8,2,3,triangle-down,overlaps the plus below it; touches the circle to its right
+FC-3C,2,n2934,marker,12,2277.3,3135.8,3,2,triangle-down,on the x=250 gridline; last point
+FC-3C,2,n1761,marker,1,859.0,3300.0,2,2,square,"touches the triangle-down below it; first point at x=5, not at x=0"
+FC-3C,2,n1761,marker,2,942.0,3280.0,2,3,square,on the 0 gridline; touches the circle below
+FC-3C,2,n1761,marker,3,1059.8,3259.4,2,2,square,touches the circle below
+FC-3C,2,n1761,marker,4,1175.0,3238.5,2,2,square,touches the circle below
+FC-3C,2,n1761,marker,5,1291.5,3209.5,2,2,square,
+FC-3C,2,n1761,marker,6,1405.8,3178.4,3,2,square,on the x=100 gridline
+FC-3C,2,n1761,marker,7,1525.5,3160.5,2,2,square,
+FC-3C,2,n1761,marker,8,1636.5,3137.5,2,2,square,
+FC-3C,2,n1761,marker,9,1755.0,3115.5,2,2,square,
+FC-3C,2,n1761,marker,10,1865.2,3089.6,2,2,square,
+FC-3C,2,n1761,marker,11,1989.8,3069.8,3,2,square,on the x=200 gridline
+FC-3C,2,n1761,marker,12,2106.6,3058.0,2,2,square,
+FC-3C,2,n1761,marker,13,2276.2,3049.4,3,2,square,on the x=250 gridline; last point
+FC-3C,2,n734,marker,1,827.0,3298.5,3,2,triangle-up,on the left frame line (x=0); touches the circle below it
+FC-3C,2,n734,marker,2,1006.5,3274.0,2,3,triangle-up,sits on the 0 gridline
+FC-3C,2,n734,marker,3,1118.5,3237.5,3,2,triangle-up,on the x=50 gridline
+FC-3C,2,n734,marker,4,1237.0,3210.0,2,2,triangle-up,
+FC-3C,2,n734,marker,5,1353.3,3193.7,2,2,triangle-up,
+FC-3C,2,n734,marker,6,1468.0,3160.0,2,2,triangle-up,
+FC-3C,2,n734,marker,7,1584.0,3136.5,2,2,triangle-up,
+FC-3C,2,n734,marker,8,1701.5,3120.5,3,2,triangle-up,on the x=150 gridline
+FC-3C,2,n734,marker,9,1815.5,3098.0,2,2,triangle-up,template instance
+FC-3C,2,n734,marker,10,1928.5,3091.0,2,2,triangle-up,
+FC-3C,2,n734,marker,11,2107.5,3084.5,2,2,triangle-up,
+FC-3C,2,n734,marker,12,2277.7,3082.3,3,2,triangle-up,on the x=250 gridline; last point

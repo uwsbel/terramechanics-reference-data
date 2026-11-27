@@ -1,0 +1,304 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FC-4B,1,n1761,feature,1,853.0,2509.5,4,4,,first point: the drawn line starts under the first marker,8.9341,498.867,0.82,15.167,piecewise,agreed,claude,9.1149,497.323,,854,2510
+FC-4B,1,n1761,feature,2,1978,2091.5,4,6,,peak of the drawn line (minimum v by dense column scan),202.0229,1927.708,0.8169,22.952,piecewise,agreed,claude,198.9344,1942.667,,1960,2087
+FC-4B,1,n1761,feature,4,2230,2137,4,4,,last: near-horizontal terminal segment,245.8394,1775.951,0.8835,15.66,piecewise,resolved,codex,248.2994,1733.7,the codex reading is on the feature; credit codex (blind adjudication item 192 (Claude's adjudicator: p; Codex's: p)),2244,2149.5
+FC-4B,1,n1761,feature,2,1783,2164,5,5,,knee: steeper rise into local hump,169.0299,1678.405,0.9577,19.02,piecewise,one-sided,codex,,,,,
+FC-4B,1,n1761,marker,1,853.0,2509.5,2,2,square,,8.9341,498.867,0.4752,8.424,piecewise,agreed,claude,8.7726,497.302,,852.0,2510.0
+FC-4B,1,n1761,marker,2,976.0,2426.5,2,2,square,,30.0247,779.178,0.5795,8.426,piecewise,agreed,claude,29.9944,777.798,,976.0,2427.0
+FC-4B,1,n1761,marker,3,1089.0,2363.5,4,4,square,on 50 gridline and 1000 psf gridline; low template score 0.47,49.3887,992.215,1.0187,15.257,piecewise,agreed,claude,49.3263,990.89,,1089,2364
+FC-4B,1,n1761,marker,4,1209.0,2336.5,2,2,square,"marker off the drawn curve (+23 px in v, line passes above it)",70.0767,1085.223,0.5826,8.595,piecewise,agreed,claude,70.0413,1083.754,,1209.0,2337.0
+FC-4B,1,n1761,marker,5,1317.0,2272.5,2,2,square,,88.7012,1303.967,0.4898,8.777,piecewise,agreed,claude,88.6898,1302.324,,1317.0,2273.0
+FC-4B,1,n1761,marker,6,1433.0,2238.5,2,2,square,,108.7713,1420.916,0.4415,8.875,piecewise,agreed,claude,108.6837,1419.175,,1432.5,2239.0
+FC-4B,1,n1761,marker,7,1552.0,2208.5,2,2,square,,129.4401,1524.352,0.4577,8.963,piecewise,agreed,claude,129.261,1525.943,,1551.0,2208.0
+FC-4B,1,n1761,marker,8,1664.0,2184.5,3,3,square,on 150 gridline,148.8931,1607.343,0.6469,12.449,piecewise,agreed,claude,148.3637,1608.876,,1661.0,2184.0
+FC-4B,1,n1761,marker,9,1785.0,2161.5,2,2,square,,169.3691,1687.081,0.4569,9.101,piecewise,agreed,claude,169.4524,1686.94,,1785.5,2161.5
+FC-4B,1,n1761,marker,10,1902.0,2108.5,2,2,square,,189.1293,1868.878,0.4528,9.253,piecewise,agreed,claude,189.137,1867.039,,1902.0,2109.0
+FC-4B,1,n1761,marker,11,1962.0,2091.5,4,4,square,on 200 gridline; low template score 0.48,199.2611,1927.5,0.7902,16.14,piecewise,agreed,claude,199.6107,1935.913,,1964,2089
+FC-4B,1,n1761,marker,12,2075.0,2118.5,2,2,square,,218.9039,1837.074,0.491,9.23,piecewise,agreed,claude,218.7256,1833.535,,2074.0,2119.5
+FC-4B,1,n1761,marker,13,2254.0,2136.5,4,4,square,on right frame,250.041,1778.088,0.8882,16.025,piecewise extrapolated x,agreed,claude,250.7061,1783.121,,2258,2135
+FC-4B,1,n1761,trace,1,870,2504.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,11.8537,515.993,0.3031,18.512,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 201 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,1,876,2500.5,1,6,,,12.879,529.36,0.3224,21.859,piecewise,agreed,claude,12.879,531.167,,876.0,2500.0
+FC-4B,1,n1761,trace,2,905,2476.0,1,6,,,17.8524,612.02,0.347,21.86,piecewise,agreed,claude,17.852,613.190,,905.0,2475.7
+FC-4B,1,n1761,trace,3,934,2454.0,1,8,,,22.8248,686.282,0.3717,28.583,piecewise,agreed,claude,22.825,686.795,,934.1,2453.9
+FC-4B,1,n1761,trace,4,957,2439.5,1,6,,,26.7679,735.271,0.3913,21.861,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 194 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,5,997,2414.5,1,7,,,33.6241,819.746,0.4255,25.224,piecewise,agreed,claude,33.624,822.108,,997.2,2413.9
+FC-4B,1,n1761,trace,6,1021,2400.5,1,6,,,37.7373,867.073,0.4458,21.863,piecewise,agreed,claude,37.737,869.208,,1021.3,2400.0
+FC-4B,1,n1761,trace,7,1050,2384.5,1,7,,,42.7067,921.182,0.4707,25.226,piecewise,agreed,claude,42.707,921.999,,1050.3,2384.4
+FC-4B,1,n1761,trace,8,1070,2374.5,1,6,,,46.1336,955.022,0.4876,21.864,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 195 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,9,1110,2357.0,1,8,,"on horizontal gridline, run merged with it",53.0055,1014.451,0.4952,28.924,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 195 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,10,1137,2343.5,1,6,,,57.66,1060.621,0.4717,22.163,piecewise,agreed,claude,57.660,1061.726,,1137.3,2343.3
+FC-4B,1,n1761,trace,11,1166,2329.5,1,6,,,62.6599,1108.517,0.4467,22.204,piecewise,agreed,claude,62.660,1104.112,,1166.3,2330.9
+FC-4B,1,n1761,trace,12,1190,2320.5,1,6,,,66.7983,1139.372,0.426,22.23,piecewise,agreed,claude,66.798,1138.418,,1190.2,2320.8
+FC-4B,1,n1761,trace,13,1230,2305.5,1,6,,,73.6961,1190.803,0.3915,22.274,piecewise,agreed,claude,73.696,1191.208,,1230.2,2305.4
+FC-4B,1,n1761,trace,14,1253,2296.5,1,6,,,77.6626,1221.654,0.3717,22.3,piecewise,agreed,claude,77.663,1222.391,,1253.1,2296.3
+FC-4B,1,n1761,trace,15,1282,2285.5,1,7,,,82.6643,1259.374,0.3467,25.734,piecewise,agreed,claude,82.664,1257.862,,1282.1,2286.0
+FC-4B,1,n1761,trace,16,1298,2280.0,1,8,,,85.424,1278.253,0.333,29.151,piecewise,agreed,claude,85.424,1276.956,,1298.1,2280.4
+FC-4B,1,n1761,trace,17,1340,2266.0,1,6,,,92.6686,1326.33,0.2967,22.39,piecewise,agreed,claude,92.669,1327.809,,1340.0,2265.6
+FC-4B,1,n1761,trace,18,1369,2257.0,1,6,,,97.6712,1357.265,0.2717,22.417,piecewise,agreed,claude,97.671,1358.699,,1369.0,2256.6
+FC-4B,1,n1761,trace,19,1398,2247.0,1,8,,,102.6923,1391.602,0.2629,29.25,piecewise,agreed,claude,102.692,1391.582,,1398.0,2247.0
+FC-4B,1,n1761,trace,20,1456,2233.5,1,6,,,112.7661,1438.19,0.2708,22.487,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 196 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,21,1485,2227.0,1,6,,,117.803,1460.638,0.2748,22.507,piecewise,agreed,claude,117.803,1461.439,,1485.0,2226.7
+FC-4B,1,n1761,trace,22,1514,2219.5,1,7,,,122.8399,1486.488,0.2788,25.932,piecewise,agreed,claude,122.840,1486.430,,1514.0,2219.5
+FC-4B,1,n1761,trace,23,1533,2215.0,1,6,,,126.14,1502.02,0.2814,22.543,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 197 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,24,1573,2205.0,1,8,,,133.0875,1536.51,0.2869,29.379,piecewise,agreed,claude,133.088,1537.169,,1573.0,2204.8
+FC-4B,1,n1761,trace,25,1601,2200.0,1,6,,,137.9507,1553.856,0.2907,22.589,piecewise,agreed,claude,137.951,1554.491,,1601.0,2199.8
+FC-4B,1,n1761,trace,26,1630,2194.5,1,6,,,142.9877,1572.916,0.2946,22.606,piecewise,agreed,claude,142.988,1576.233,,1630.0,2193.5
+FC-4B,1,n1761,trace,27,1645,2191.0,1,6,,,145.593,1585.003,0.2967,22.616,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 198 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,28,1688,2182.5,1,6,,,152.9788,1614.443,0.2912,22.642,piecewise,agreed,claude,152.979,1615.466,,1688.0,2182.2
+FC-4B,1,n1761,trace,29,1717,2176.5,1,6,,,157.8794,1635.21,0.2903,22.661,piecewise,agreed,claude,157.879,1631.551,,1717.0,2177.5
+FC-4B,1,n1761,trace,30,1746,2172.5,1,6,,,162.7797,1649.177,0.2894,22.673,piecewise,agreed,claude,162.780,1649.046,,1746.0,2172.5
+FC-4B,1,n1761,trace,31,1766,2169.0,1,4,,,166.1591,1661.331,0.2886,15.876,piecewise,agreed,claude,166.159,1660.627,,1766.0,2169.2
+FC-4B,1,n1761,trace,32,1806,2158.0,1,6,,,172.9172,1699.251,0.2875,22.717,piecewise,agreed,claude,172.917,1699.102,,1806.0,2158.0
+FC-4B,1,n1761,trace,33,1833,2146.5,1,6,,,177.4779,1738.713,0.2867,22.751,piecewise,agreed,claude,177.478,1738.974,,1833.0,2146.4
+FC-4B,1,n1761,trace,34,1862,2132.5,1,7,,,182.3757,1786.71,0.286,26.197,piecewise,agreed,claude,182.376,1788.223,,1862.0,2132.0
+FC-4B,1,n1761,trace,35,1883,2119.5,1,6,,,185.9215,1831.208,0.2852,22.829,piecewise,agreed,claude,185.922,1828.715,,1883.0,2120.2
+FC-4B,1,n1761,trace,36,1923,2102.5,1,7,,,192.6756,1889.564,0.2841,26.285,piecewise,agreed,claude,192.676,1889.370,,1922.9,2102.5
+FC-4B,1,n1761,trace,37,1943,2096.5,1,7,,,196.0528,1910.239,0.2835,26.303,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 199 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,38,1983,2092.0,1,6,,,202.8931,1926.072,0.2954,22.912,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 199 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,39,2007,2095.5,1,6,,,207.0699,1914.473,0.3011,22.903,piecewise,agreed,claude,207.070,1916.079,,2007.0,2095.0
+FC-4B,1,n1761,trace,40,2036,2106.5,1,6,,,212.1174,1877.413,0.3079,22.874,piecewise,agreed,claude,212.117,1877.311,,2036.0,2106.5
+FC-4B,1,n1761,trace,41,2056,2111.5,1,3,,,215.5977,1860.654,0.3123,12.642,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 200 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,42,2096,2125.5,1,6,,,222.5575,1813.518,0.3221,22.824,piecewise,agreed,claude,222.558,1813.645,,2096.0,2125.4
+FC-4B,1,n1761,trace,43,2123,2131.5,1,6,,,227.2545,1793.44,0.3285,22.809,piecewise,agreed,claude,227.255,1792.858,,2123.1,2131.6
+FC-4B,1,n1761,trace,44,2152,2135.5,1,5,,,232.2989,1780.194,0.3357,19.392,piecewise,agreed,claude,232.299,1777.742,,2152.1,2136.2
+FC-4B,1,n1761,trace,45,2181,2138.5,1,7,,,237.343,1770.35,0.3432,26.199,piecewise,agreed,claude,237.343,1770.219,,2181.1,2138.5
+FC-4B,1,n1761,trace,46,2210,2138.5,1,7,,,242.3873,1770.719,0.3506,26.201,piecewise,agreed,claude,242.387,1772.899,,2210.1,2137.8
+FC-4B,1,n1761,trace,92,2214,2137.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,243.0586,1774.044,0.3577,22.435,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 202 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n1761,trace,93,2226,2137.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,245.1442,1775.9,0.3607,24.14,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 202 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,feature,1,858.5,2422.5,4,4,,first point: the drawn line starts under the first marker,9.8801,791.348,0.8243,15.169,piecewise,agreed,claude,11.3413,810.295,,867,2417
+FC-4B,1,n2934,feature,2,2101,1857.0,12,6,,"peak of the drawn line (minimum v by dense column scan); plateau, the maximum is not sharp (several samples within 6 px of it)",223.4158,2722.973,2.2444,23.741,piecewise,agreed,claude,228.4591,2719.211,,2130,1858
+FC-4B,1,n2934,feature,2,1778,1933,5,5,,knee: renewed rise after shoulder,168.1744,2461.581,0.9564,19.302,piecewise,one-sided,codex,,,,,
+FC-4B,1,n2934,marker,1,858.5,2422.5,2,2,triangle-down,,9.8801,791.348,0.4797,8.425,piecewise,agreed,claude,9.8866,788.341,,858.5,2423.5
+FC-4B,1,n2934,marker,2,971.5,2285.5,2,2,triangle-down,"marker off the drawn curve (-16 px in v, line passes below it)",29.2453,1255.738,0.5753,8.731,piecewise,agreed,claude,29.219,1252.58,,971.5,2286.5
+FC-4B,1,n2934,marker,3,1094.5,2217.5,3,3,triangle-down,"on 50 gridline; marker off the drawn curve (+37 px in v, line passes above it)",50.3116,1488.188,0.8465,12.337,piecewise,agreed,claude,49.8253,1500.057,,1092,2214
+FC-4B,1,n2934,marker,4,1198.5,2099.5,2,2,triangle-down,"template fit moved +3.5,+2.5 px from eye reading",68.2438,1890.401,0.5921,9.259,piecewise,agreed,claude,68.0378,1890.139,,1197.5,2099.5
+FC-4B,1,n2934,marker,5,1319.5,2025.5,2,2,triangle-down,,89.126,2143.048,0.488,9.479,piecewise,agreed,claude,88.9374,2142.722,,1318.5,2025.5
+FC-4B,1,n2934,marker,6,1429.5,1979.5,2,2,triangle-down,,108.1659,2300.296,0.441,9.645,piecewise,agreed,claude,108.1574,2298.255,,1429.5,1980.0
+FC-4B,1,n2934,marker,7,1552.5,1951.5,2,2,triangle-down,,129.5301,2396.653,0.4578,9.746,piecewise,agreed,claude,129.4369,2396.263,,1552.0,1951.5
+FC-4B,1,n2934,marker,8,1663.5,1936.5,3,3,triangle-down,near 150 gridline,148.8101,2448.794,0.6468,13.201,piecewise,agreed,claude,148.3724,2444.962,,1661.0,1937.5
+FC-4B,1,n2934,marker,9,1779.5,1931.5,2,2,triangle-down,,168.4223,2467.115,0.4565,9.816,piecewise,agreed,claude,168.4276,2464.982,,1779.5,1932.0
+FC-4B,1,n2934,marker,10,1923.5,1885.5,2,2,triangle-down,,192.7176,2624.507,0.4516,9.981,piecewise,agreed,claude,192.7359,2620.552,,1923.5,1886.5
+FC-4B,1,n2934,marker,11,1984.5,1865.5,3,3,triangle-down,near 200 gridline,203.1059,2692.886,0.6448,13.451,piecewise,agreed,claude,203.125,2695.626,,1984.5,1864.5
+FC-4B,1,n2934,marker,12,2071.5,1859.5,2,2,triangle-down,,218.2727,2714.18,0.4912,10.074,piecewise,agreed,claude,218.0988,2711.794,,2070.5,1860.0
+FC-4B,1,n2934,marker,13,2257.5,1868.5,4,4,triangle-down,on right frame,250.6993,2685.868,0.8942,16.832,piecewise extrapolated x,agreed,claude,250.3985,2710.469,,2256,1861
+FC-4B,1,n2934,trace,1,880,2402.5,1,8.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,13.566,859.206,0.3091,28.603,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 214 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,1,880,2403.0,1,8,,,13.5664,857.127,0.3257,28.582,piecewise,agreed,claude,13.566,859.215,,880.0,2402.5
+FC-4B,1,n2934,trace,2,909,2368.0,1,10,,"on horizontal gridline, run merged with it; thick run 19 px (overlap or merge)",18.5375,975.092,0.3502,35.421,piecewise,agreed,claude,18.538,972.114,,909.1,2369.0
+FC-4B,1,n2934,trace,3,938,2337.0,1,8,,,23.5071,1080.442,0.375,28.969,piecewise,agreed,claude,23.507,1079.497,,938.1,2337.4
+FC-4B,1,n2934,trace,4,951,2323.5,1,6,,,25.7345,1126.439,0.3859,22.209,piecewise,agreed,claude,25.735,1130.117,,951.1,2322.5
+FC-4B,1,n2934,trace,5,996,2275.0,1,6,,,33.4422,1291.689,0.4242,22.347,piecewise,agreed,claude,33.442,1295.606,,996.2,2273.9
+FC-4B,1,n2934,trace,6,1025,2246.0,1,8,,,38.4079,1390.536,0.4491,29.229,piecewise,agreed,claude,38.408,1393.130,,1025.2,2245.3
+FC-4B,1,n2934,trace,7,1054,2218.0,1,6,,,43.3724,1485.997,0.4735,22.509,piecewise,agreed,claude,43.372,1491.148,,1054.3,2216.5
+FC-4B,1,n2934,trace,8,1074,2198.5,1,7,,,46.7954,1552.483,0.4906,25.965,piecewise,agreed,claude,46.795,1556.140,,1074.3,2197.4
+FC-4B,1,n2934,trace,9,1114,2162.5,1,7,,,53.6683,1675.278,0.4921,26.068,piecewise,agreed,claude,53.668,1677.675,,1114.3,2161.8
+FC-4B,1,n2934,trace,10,1141,2140.0,1,6,,,58.3246,1752.06,0.4686,22.732,piecewise,agreed,claude,58.325,1751.303,,1141.3,2140.2
+FC-4B,1,n2934,trace,11,1170,2117.5,1,7,,,63.3268,1828.875,0.4438,26.197,piecewise,agreed,claude,63.327,1826.679,,1170.2,2118.1
+FC-4B,1,n2934,trace,12,1218,2083.0,1,6,,,71.6081,1946.72,0.4022,22.895,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 205 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,13,1228,2073.0,1,8,,"on horizontal gridline, run merged with it",73.3334,1980.831,0.3938,29.702,piecewise,agreed,claude,73.333,1977.431,,1228.2,2073.9
+FC-4B,1,n2934,trace,14,1257,2055.0,1,8,,,78.338,2042.267,0.3687,29.717,piecewise,agreed,claude,78.338,2034.447,,1257.1,2057.2
+FC-4B,1,n2934,trace,15,1286,2040.0,1,6,,,83.3433,2093.48,0.3436,22.985,piecewise,agreed,claude,83.343,2094.708,,1286.1,2039.5
+FC-4B,1,n2934,trace,16,1299,2035.0,1,4,,,85.5873,2110.592,0.3323,16.217,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 206 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,17,1344,2009.5,1,6,,,93.3553,2197.578,0.2935,23.094,piecewise,agreed,claude,93.355,2197.320,,1344.1,2009.5
+FC-4B,1,n2934,trace,18,1373,1997.5,1,6,,,98.3621,2238.605,0.2685,23.136,piecewise,agreed,claude,98.362,2239.464,,1373.1,1997.1
+FC-4B,1,n2934,trace,19,1402,1986.5,1,6,,,103.3893,2276.238,0.2635,23.175,piecewise,agreed,claude,103.389,2276.808,,1402.1,1986.2
+FC-4B,1,n2934,trace,20,1449,1970.5,1,3,,,111.5529,2331.027,0.2699,13.057,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 207 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,21,1460,1967.5,1,6,,,113.4636,2341.326,0.2714,23.242,piecewise,agreed,claude,113.464,2337.620,,1460.0,1968.5
+FC-4B,1,n2934,trace,22,1489,1961.5,1,6,,,118.5006,2362.007,0.2754,23.262,piecewise,agreed,claude,118.501,2362.523,,1489.0,1961.2
+FC-4B,1,n2934,trace,23,1518,1955.5,1,6,,,123.5377,2382.685,0.2793,23.283,piecewise,agreed,claude,123.538,2382.884,,1518.0,1955.3
+FC-4B,1,n2934,trace,46,1528,1954.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,125.2678,2385.815,0.2718,19.226,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 166 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,47,1579,1944.0,1,5.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,134.1274,2421.979,0.2758,20.938,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 166 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,48,1588,1943.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,135.6908,2423.779,0.2765,22.632,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 166 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,49,1600,1942.5,1,7.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,137.7755,2427.308,0.2774,26.02,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 166 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,24,1605,1942.5,1,7,,,138.649,2427.771,0.2912,26.717,piecewise,agreed,claude,138.649,2429.496,,1605.0,1941.9
+FC-4B,1,n2934,trace,25,1634,1939.5,1,7,,,143.6861,2438.28,0.2952,26.726,piecewise,agreed,claude,143.686,2440.698,,1634.0,1938.7
+FC-4B,1,n2934,trace,26,1643,1940.5,1,6,,,145.2493,2435.002,0.2964,23.332,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 208 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,27,1692,1939.5,1,3,,,153.654,2438.979,0.2907,13.165,piecewise,agreed,claude,153.654,2451.540,,1692.0,1935.7
+FC-4B,1,n2934,trace,28,1721,1935.0,1,6,,,158.5487,2454.564,0.2898,23.349,piecewise,agreed,claude,158.549,2454.137,,1721.0,1935.0
+FC-4B,1,n2934,trace,29,1750,1934.5,1,6,,,163.4434,2456.606,0.2889,23.35,piecewise,one-sided-verified,claude,163.443,2456.169,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 209 (Claude's adjudicator: all yes; Codex's: all yes)",1750.0,1934.5
+FC-4B,1,n2934,trace,30,1808,1921.0,1,4,,,173.2315,2502.999,0.287,16.619,piecewise,agreed,claude,173.232,2503.428,,1808.0,1920.7
+FC-4B,1,n2934,trace,31,1837,1910.5,1,6,,,178.1245,2538.884,0.2863,23.433,piecewise,agreed,claude,178.125,2537.886,,1836.9,1910.6
+FC-4B,1,n2934,trace,32,1866,1900.5,1,7,,,183.0172,2573.071,0.2855,26.856,piecewise,agreed,claude,183.017,2569.370,,1865.9,1901.4
+FC-4B,1,n2934,trace,33,1895,1892.5,1,6,,,187.9097,2600.486,0.2845,23.496,piecewise,agreed,claude,187.910,2599.012,,1894.9,1892.8
+FC-4B,1,n2934,trace,34,1943,1879.5,1,4,,,196.0068,2645.037,0.2826,16.766,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 210 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,35,1953,1878.5,1,6,,,197.6939,2648.536,0.2827,23.544,piecewise,agreed,claude,197.694,2647.303,,1952.9,1878.7
+FC-4B,1,n2934,trace,36,1964,1876.5,1,7,,,199.5496,2655.431,0.2826,26.938,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 211 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,37,2011,1868.5,1,6,,,207.7263,2683.04,0.3025,23.578,piecewise,agreed,claude,207.726,2683.013,,2010.9,1868.3
+FC-4B,1,n2934,trace,38,2040,1864.5,1,7,,,212.7815,2696.905,0.3096,26.978,piecewise,agreed,claude,212.781,2697.365,,2040.0,1864.2
+FC-4B,1,n2934,trace,39,2051,1864.5,1,5,,,214.6992,2697.031,0.312,20.204,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 212 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n2934,trace,40,2098,1858.5,1,4,,,222.8928,2717.865,0.3232,16.838,piecewise,agreed,claude,222.893,2717.168,,2098.0,1858.5
+FC-4B,1,n2934,trace,41,2127,1858.5,1,7,,,227.9489,2718.196,0.3302,26.995,piecewise,agreed,claude,227.949,2717.489,,2127.1,1858.5
+FC-4B,1,n2934,trace,42,2156,1858.5,1,7,,,233.0049,2718.526,0.3376,26.994,piecewise,agreed,claude,233.005,2717.810,,2156.1,1858.5
+FC-4B,1,n2934,trace,43,2185,1859.5,1,6,,,238.0609,2715.475,0.3449,23.603,piecewise,agreed,claude,238.061,2715.557,,2185.1,1859.3
+FC-4B,1,n2934,trace,44,2214,1861.5,1,7,,,243.1167,2709.042,0.3525,26.98,piecewise,agreed,claude,243.117,2707.702,,2214.2,1861.7
+FC-4B,1,n2934,trace,45,2237,1862.5,1,6,,,247.1264,2705.923,0.3582,23.59,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 213 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,feature,1,851.5,2334.0,4,4,,first point: the drawn line starts under the first marker,8.6833,1089.645,0.8181,15.412,piecewise,agreed,claude,8.6048,1079.908,,851,2337
+FC-4B,1,n3815,feature,2,2202,1570.5,4,5,,peak of the drawn line (minimum v by dense column scan),241.055,3704.966,0.8751,19.568,piecewise,agreed,claude,237.1817,3695.412,,2180,1573
+FC-4B,1,n3815,feature,3,2235,1572.5,2,6,,"last point: drawn line just before it meets the right frame (x = 250), where the last marker sits on the frame",246.8221,3698.44,0.5337,23.006,piecewise,agreed,claude,245.9046,3692.476,,2230,1574
+FC-4B,1,n3815,marker,1,851.5,2334.0,2,2,circle,,8.6833,1089.645,0.4736,8.592,piecewise,agreed,claude,8.6904,1095.18,,851.5,2332.5
+FC-4B,1,n3815,marker,2,967.5,2214.0,2,2,circle,"marker off the drawn curve (+53 px in v, line passes above it)",28.5562,1498.533,0.5717,8.931,piecewise,agreed,claude,28.5322,1495.177,,967.5,2215.0
+FC-4B,1,n3815,marker,3,1085.5,2020.0,3,3,circle,"on 50 gridline; marker off the drawn curve (-23 px in v, line passes below it)",48.7394,2158.71,0.8433,12.908,piecewise,agreed,claude,48.5248,2161.739,,1084.5,2019.0
+FC-4B,1,n3815,marker,4,1205.5,1950.0,2,2,circle,,69.4387,2397.515,0.5865,9.755,piecewise,agreed,claude,69.4091,2400.541,,1205.5,1949.0
+FC-4B,1,n3815,marker,5,1316.5,1886.0,2,2,circle,,88.6042,2615.75,0.4908,9.986,piecewise,agreed,claude,88.5854,2613.638,,1316.5,1886.5
+FC-4B,1,n3815,marker,6,1435.5,1816.0,2,2,circle,,109.2096,2854.288,0.4418,10.238,piecewise,agreed,claude,109.1096,2853.76,,1435.0,1816.0
+FC-4B,1,n3815,marker,7,1549.5,1750.0,2,2,circle,,129.0116,3080.349,0.4574,10.411,piecewise,agreed,claude,128.9174,3079.737,,1549.0,1750.0
+FC-4B,1,n3815,marker,8,1661.5,1701.0,3,3,circle,on 150 gridline,148.4662,3250.161,0.6466,13.542,piecewise,agreed,claude,148.2939,3251.276,,1660.5,1700.5
+FC-4B,1,n3815,marker,9,1781.5,1651.0,2,2,circle,,168.7381,3423.49,0.4558,9.749,piecewise,agreed,claude,168.752,3422.9,,1781.5,1651.0
+FC-4B,1,n3815,marker,10,1922.5,1579.0,2,2,circle,"marker off the drawn curve (-27 px in v, line passes below it)",192.4892,3672.723,0.451,9.269,piecewise,agreed,claude,192.3513,3670.424,,1921.5,1579.5
+FC-4B,1,n3815,marker,11,2096.5,1582.0,2,2,circle,,222.6175,3664.271,0.4984,9.285,piecewise,agreed,claude,222.6147,3663.592,,2096.5,1582.0
+FC-4B,1,n3815,marker,12,2258.5,1582.0,4,4,circle,on right frame,250.9273,3666.011,0.8978,16.196,piecewise extrapolated x,agreed,claude,251.1367,3654.923,,2260,1585
+FC-4B,1,n3815,trace,1,867,2300.5,1,11.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,11.3426,1203.91,0.3012,39.113,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 221 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,1,874,2287.5,1,9,,,12.5401,1247.805,0.3205,32.501,piecewise,agreed,claude,12.540,1244.885,,874.0,2288.4
+FC-4B,1,n3815,trace,2,903,2242.0,1,8,,,17.5087,1402.661,0.3449,29.232,piecewise,agreed,claude,17.509,1404.297,,903.0,2241.6
+FC-4B,1,n3815,trace,3,990,2133.0,1,8,,,32.4043,1773.925,0.4189,29.542,piecewise,agreed,claude,32.404,1772.639,,990.2,2133.3
+FC-4B,1,n3815,trace,4,1019,2103.0,1,8,,,37.3668,1876.195,0.4436,29.628,piecewise,agreed,claude,37.367,1874.895,,1019.2,2103.3
+FC-4B,1,n3815,trace,5,1048,2074.0,1,10,,"on horizontal gridline, run merged with it; thick run 19 px (overlap or merge)",42.3282,1975.079,0.4685,36.493,piecewise,agreed,claude,42.328,1968.928,,1048.2,2075.7
+FC-4B,1,n3815,trace,6,1066,2061.5,1,9,,"on horizontal gridline, run merged with it",45.4077,2017.744,0.4837,33.099,piecewise,agreed,claude,45.408,2017.719,,1066.2,2061.4
+FC-4B,1,n3815,trace,7,1106,2023.5,1,7,,,52.2679,2147.104,0.4993,26.446,piecewise,agreed,claude,52.268,2145.611,,1106.3,2023.8
+FC-4B,1,n3815,trace,8,1135,1999.0,1,8,,,57.2712,2230.535,0.4744,29.928,piecewise,agreed,claude,57.271,2227.548,,1135.2,1999.8
+FC-4B,1,n3815,trace,9,1164,1975.0,1,8,,,62.2754,2312.26,0.4493,30.014,piecewise,agreed,claude,62.275,2310.755,,1164.2,1975.3
+FC-4B,1,n3815,trace,10,1226,1936.5,1,7,,,72.9776,2443.523,0.3957,26.757,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 215 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,11,1251,1921.0,1,8,,,77.2937,2496.359,0.3741,30.205,piecewise,agreed,claude,77.294,2497.607,,1251.1,1920.5
+FC-4B,1,n3815,trace,12,1280,1904.5,1,6,,,82.301,2552.626,0.3489,23.478,piecewise,agreed,claude,82.301,2556.434,,1280.1,1903.3
+FC-4B,1,n3815,trace,13,1297,1895.0,1,4,,,85.2366,2585.022,0.3342,16.727,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 216 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,14,1338,1870.5,1,7,,,92.3172,2668.524,0.2988,26.992,piecewise,agreed,claude,92.317,2668.260,,1338.1,1870.4
+FC-4B,1,n3815,trace,15,1367,1854.0,1,6,,,97.3262,2724.768,0.2737,23.658,piecewise,agreed,claude,97.326,2722.512,,1367.1,1854.5
+FC-4B,1,n3815,trace,16,1396,1838.5,1,6,,,102.3485,2777.615,0.2626,23.713,piecewise,agreed,claude,102.349,2778.967,,1396.1,1838.0
+FC-4B,1,n3815,trace,17,1416,1828.5,1,4,,,105.8225,2811.721,0.2654,16.966,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 217 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,18,1456,1805.5,1,6,,,112.7704,2890.087,0.2709,23.831,piecewise,agreed,claude,112.770,2889.864,,1456.1,1805.4
+FC-4B,1,n3815,trace,19,1483,1790.5,1,6,,,117.4604,2941.197,0.2745,23.884,piecewise,agreed,claude,117.460,2940.731,,1483.1,1790.5
+FC-4B,1,n3815,trace,20,1512,1774.5,1,7,,"on horizontal gridline, run merged with it",122.4977,2995.709,0.2785,27.626,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 218 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,21,1530,1767.5,1,9,,"on horizontal gridline, run merged with it",125.6243,3019.923,0.281,34.515,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 218 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,22,1570,1743.0,1,6,,,132.5724,3104.658,0.2864,24.143,piecewise,agreed,claude,132.572,3105.473,,1570.0,1742.6
+FC-4B,1,n3815,trace,23,1599,1729.5,1,7,,,137.6098,3151.423,0.2904,27.5,piecewise,agreed,claude,137.610,3149.990,,1599.0,1729.7
+FC-4B,1,n3815,trace,24,1628,1714.5,1,7,,,142.6472,3203.349,0.2944,27.399,piecewise,agreed,claude,142.647,3201.045,,1628.0,1715.0
+FC-4B,1,n3815,trace,25,1642,1707.0,1,6,,,145.0791,3229.306,0.2963,23.902,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 219 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,26,1686,1688.0,1,8,,,152.6418,3295.155,0.2905,30.669,piecewise,agreed,claude,152.642,3289.370,,1686.0,1689.5
+FC-4B,1,n3815,trace,27,1715,1677.0,1,6,,,157.5303,3333.316,0.2896,23.701,piecewise,agreed,claude,157.530,3331.382,,1715.0,1677.4
+FC-4B,1,n3815,trace,28,1744,1665.0,1,6,,,162.4182,3374.917,0.2887,23.621,piecewise,agreed,claude,162.418,3375.382,,1743.9,1664.7
+FC-4B,1,n3815,trace,29,1831,1632.0,1,6,,,177.0789,3489.395,0.2861,23.4,piecewise,agreed,claude,177.079,3483.920,,1830.9,1633.4
+FC-4B,1,n3815,trace,30,1860,1623.0,1,6,,,181.965,3520.672,0.2852,23.34,piecewise,agreed,claude,181.965,3516.440,,1859.9,1624.1
+FC-4B,1,n3815,trace,31,1889,1616.5,1,6,,,186.8512,3543.347,0.2843,23.296,piecewise,agreed,claude,186.851,3543.837,,1888.8,1616.2
+FC-4B,1,n3815,trace,32,1903,1609.5,1,5,,,189.2092,3567.581,0.2837,19.802,piecewise,agreed,claude,189.209,3561.054,,1902.8,1611.2
+FC-4B,1,n3815,trace,33,1947,1600.5,1,7,,,196.6218,3599.018,0.2827,26.635,piecewise,agreed,claude,196.622,3596.546,,1946.8,1601.0
+FC-4B,1,n3815,trace,34,1976,1593.0,1,6,,,201.5624,3625.133,0.2948,23.138,piecewise,agreed,claude,201.562,3625.711,,1975.8,1592.7
+FC-4B,1,n3815,trace,35,2005,1588.5,1,7,,,206.6289,3640.926,0.3019,26.554,piecewise,agreed,claude,206.629,3641.277,,2004.9,1588.2
+FC-4B,1,n3815,trace,36,2034,1581.0,1,6,,,211.6954,3667.04,0.3087,23.057,piecewise,agreed,claude,211.695,3663.725,,2033.9,1581.8
+FC-4B,1,n3815,trace,37,2063,1578.0,1,6,,,216.7629,3677.672,0.3156,23.036,piecewise,agreed,claude,216.763,3676.271,,2063.0,1578.2
+FC-4B,1,n3815,trace,38,2077,1578.0,1,6,,,219.2095,3677.823,0.319,23.036,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 220 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n3815,trace,39,2121,1573.5,1,7,,,226.8988,3693.776,0.3295,26.452,piecewise,agreed,claude,226.899,3695.692,,2121.1,1572.7
+FC-4B,1,n3815,trace,40,2150,1572.0,1,6,,,231.967,3699.248,0.3368,22.994,piecewise,agreed,claude,231.967,3698.853,,2150.1,1571.9
+FC-4B,1,n3815,trace,41,2179,1571.5,1,6,,,237.0352,3701.279,0.3443,22.99,piecewise,agreed,claude,237.035,3700.565,,2179.2,1571.5
+FC-4B,1,n3815,trace,42,2208,1571.5,1,6,,,242.1035,3701.59,0.3517,22.989,piecewise,agreed,claude,242.103,3700.829,,2208.2,1571.5
+FC-4B,1,n3815,trace,95,2220,1572.0,1,6.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,244.1602,3699.258,0.3607,24.412,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 222 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n4695,feature,1,848.5,2219.0,4,4,,first point: the drawn line starts under the first marker,8.1736,1480.107,0.8152,15.735,piecewise,agreed,claude,8.0941,1486.967,,848,2217
+FC-4B,1,n4695,feature,2,2074,1348.0,4,4,,"peak of the drawn line (minimum v by dense column scan); peak lies at the marker near u 2100, read between markers",218.6661,4494.647,0.8447,17.059,piecewise,agreed,claude,221.4695,4483.96,,2090,1351
+FC-4B,1,n4695,feature,3,2235.5,1453.0,4,4,,"last point: the drawn line ends under the last marker, which touches the right frame",246.9279,4115.562,0.8844,16.555,piecewise,agreed,claude,246.7928,4147.766,,2235,1444
+FC-4B,1,n4695,feature,3,2160,1374,5,5,,knee: onset of steep terminal downturn,233.6993,4401.264,1.0463,21.083,piecewise,one-sided,codex,,,,,
+FC-4B,1,n4695,marker,1,848.5,2219.0,2,2,plus,,8.1736,1480.107,0.4708,8.914,piecewise,agreed,claude,8.0941,1486.967,,848,2217
+FC-4B,1,n4695,marker,2,938.5,1957.0,2,2,plus,marker off the drawn curve (curve passes above it),23.5812,2370.522,0.5464,9.732,piecewise,agreed,claude,23.3103,2366.763,,937,1958
+FC-4B,1,n4695,marker,3,1197.5,1793.0,3,3,plus,on 3000 psf gridline,68.0427,2929.61,0.7675,13.729,piecewise,agreed,claude,67.9288,2935.957,,1197,1791
+FC-4B,1,n4695,marker,4,1319.5,1712.0,2,2,plus,,89.1177,3208.597,0.4886,10.165,piecewise,agreed,claude,89.3548,3218.527,,1321,1709
+FC-4B,1,n4695,marker,5,1428.5,1646.0,2,2,plus,,107.9954,3436.878,0.4409,9.725,piecewise,agreed,claude,108.2372,3443.408,,1430,1644
+FC-4B,1,n4695,marker,6,1548.5,1570.0,2,2,plus,,128.8401,3699.672,0.4573,9.218,piecewise,agreed,claude,128.9189,3706.238,,1549,1568
+FC-4B,1,n4695,marker,7,1661.5,1498.0,4,4,plus,near 150 gridline and 4000 gridline; low template score 0.41,148.4693,3948.61,0.8205,15.654,piecewise,agreed,claude,148.214,3941.429,,1660,1500
+FC-4B,1,n4695,marker,8,1772.5,1436.0,2,2,plus,,167.2062,4171.881,0.4557,9.329,piecewise,agreed,claude,167.8152,4171.683,,1776,1436
+FC-4B,1,n4695,marker,9,1947.5,1377.0,3,3,plus,near 200 gridline,196.658,4387.905,0.6183,13.267,piecewise,agreed,claude,197.2896,4384.212,,1951,1378
+FC-4B,1,n4695,marker,10,2100.5,1351.0,2,2,plus,,223.3063,4484.089,0.5004,9.755,piecewise,agreed,claude,223.042,4484.072,,2099,1351
+FC-4B,1,n4695,marker,11,2235.5,1453.0,4,4,plus,"at curve end, touching right frame; low template score 0.42",246.9279,4115.562,0.8844,16.555,piecewise,agreed,claude,247.665,4126.015,,2240,1450
+FC-4B,1,n4695,trace,1,870,2161.5,1,15,,"thick run 30 px (overlap or merge); steep segment, vertical run longer than the line is thick",11.8575,1675.624,0.3171,53.244,piecewise,one-sided-verified,claude,11.857,1706.091,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 224 (Claude's adjudicator: all yes; Codex's: all yes)",873.0,2152.5
+FC-4B,1,n4695,trace,2,899,2077.0,1,14,,"thick run 29 px (overlap or merge); steep segment, vertical run longer than the line is thick",16.8234,1962.943,0.3412,50.073,piecewise,agreed,claude,16.823,1970.737,,899.0,2074.6
+FC-4B,1,n4695,trace,3,918,2042.0,1,8,,,20.0753,2081.954,0.3574,29.784,piecewise,agreed,claude,20.075,2086.243,,918.1,2040.6
+FC-4B,1,n4695,trace,4,958,1983.0,1,8,,,26.9185,2282.578,0.3913,29.996,piecewise,agreed,claude,26.919,2293.704,,958.1,1979.6
+FC-4B,1,n4695,trace,5,986,1948.0,1,8,,,31.707,2401.626,0.4151,30.122,piecewise,agreed,claude,31.707,2406.818,,986.1,1946.4
+FC-4B,1,n4695,trace,6,1015,1919.0,1,8,,,36.6656,2500.324,0.4397,30.226,piecewise,agreed,claude,36.666,2501.812,,1015.2,1918.5
+FC-4B,1,n4695,trace,7,1044,1892.5,1,6,,,41.6232,2590.53,0.4641,23.532,piecewise,agreed,claude,41.623,2594.011,,1044.2,1891.4
+FC-4B,1,n4695,trace,8,1073,1867.5,1,7,,,46.5798,2675.639,0.4888,27.016,piecewise,agreed,claude,46.580,2673.731,,1073.2,1868.0
+FC-4B,1,n4695,trace,9,1102,1847.5,1,6,,,51.5517,2743.783,0.503,23.693,piecewise,agreed,claude,51.552,2744.426,,1102.2,1847.2
+FC-4B,1,n4695,trace,10,1131,1828.0,1,8,,,56.5584,2810.223,0.4782,30.551,piecewise,agreed,claude,56.558,2810.265,,1131.2,1827.9
+FC-4B,1,n4695,trace,11,1160,1809.0,1,8,,,61.5659,2874.959,0.4531,30.618,piecewise,agreed,claude,61.566,2872.690,,1160.2,1809.6
+FC-4B,1,n4695,trace,12,1218,1773.0,1,6,,"on horizontal gridline, run merged with it",71.5827,2997.626,0.4028,24.222,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 225 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n4695,trace,13,1247,1756.0,1,8,,,76.592,3056.404,0.3778,31.133,piecewise,agreed,claude,76.592,3056.819,,1247.1,1755.8
+FC-4B,1,n4695,trace,14,1276,1737.0,1,6,,,81.6018,3122.1,0.3526,24.111,piecewise,agreed,claude,81.602,3114.114,,1276.1,1739.2
+FC-4B,1,n4695,trace,15,1299,1726.5,1,4,,,85.5757,3158.481,0.3326,17.145,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 226 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n4695,trace,16,1363,1683.0,1,6,,,96.6348,3308.857,0.2773,23.751,piecewise,agreed,claude,96.635,3304.702,,1363.1,1684.1
+FC-4B,1,n4695,trace,17,1392,1665.0,1,6,,,101.6552,3371.107,0.2621,23.631,piecewise,agreed,claude,101.655,3367.119,,1392.1,1666.0
+FC-4B,1,n4695,trace,18,1408,1655.5,1,6,,,104.4345,3403.969,0.2643,23.567,piecewise,agreed,claude,104.434,3398.633,,1408.1,1656.9
+FC-4B,1,n4695,trace,19,1450,1629.0,1,6,,,111.73,3495.605,0.27,23.39,piecewise,agreed,claude,111.730,3496.826,,1450.1,1628.5
+FC-4B,1,n4695,trace,20,1479,1612.0,1,8,,,116.7675,3554.412,0.274,30.172,piecewise,agreed,claude,116.767,3554.261,,1479.1,1611.9
+FC-4B,1,n4695,trace,21,1508,1594.0,1,8,,,121.805,3616.658,0.278,30.052,piecewise,agreed,claude,121.805,3614.589,,1508.1,1594.5
+FC-4B,1,n4695,trace,22,1528,1581.0,1,6,,,125.2791,3661.603,0.2807,23.07,piecewise,agreed,claude,125.279,3657.563,,1528.1,1582.1
+FC-4B,1,n4695,trace,23,1568,1558.0,1,8,,,132.2274,3741.17,0.2862,29.812,piecewise,agreed,claude,132.227,3745.056,,1568.0,1556.8
+FC-4B,1,n4695,trace,24,1595,1540.5,1,7,,,136.9176,3801.671,0.2899,26.248,piecewise,agreed,claude,136.918,3800.832,,1595.0,1540.7
+FC-4B,1,n4695,trace,25,1624,1522.5,1,7,,,141.9551,3863.914,0.2939,26.127,piecewise,agreed,claude,141.955,3860.742,,1624.0,1523.3
+FC-4B,1,n4695,trace,26,1641,1512.0,1,6,,,144.9082,3900.223,0.2962,22.61,piecewise,one-sided-verified,claude,144.908,3896.459,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 227 (Claude's adjudicator: all yes; Codex's: all yes)",1641.0,1513.0
+FC-4B,1,n4695,trace,27,1711,1469.5,1,6,,,156.8521,4049.726,0.2894,23.673,piecewise,agreed,claude,156.852,4048.219,,1710.9,1469.8
+FC-4B,1,n4695,trace,28,1740,1452.0,1,6,,,161.7349,4113.498,0.2885,23.759,piecewise,agreed,claude,161.735,4109.855,,1739.9,1452.9
+FC-4B,1,n4695,trace,29,1827,1414.5,1,6,,,176.3798,4250.473,0.2859,23.948,piecewise,agreed,claude,176.380,4249.151,,1826.8,1414.8
+FC-4B,1,n4695,trace,30,1856,1403.5,1,6,,,181.2604,4290.704,0.285,24.003,piecewise,agreed,claude,181.260,4288.564,,1855.8,1404.0
+FC-4B,1,n4695,trace,31,1885,1394.5,1,6,,,186.1409,4323.686,0.2841,24.049,piecewise,agreed,claude,186.141,4323.830,,1884.8,1394.4
+FC-4B,1,n4695,trace,32,1914,1385.0,1,6,,,191.0208,4358.487,0.2832,24.097,piecewise,agreed,claude,191.021,4360.874,,1913.8,1384.3
+FC-4B,1,n4695,trace,33,1927,1380.5,1,7,,,193.2082,4374.964,0.283,27.751,piecewise,agreed,claude,193.208,4372.817,,1926.8,1381.1
+FC-4B,1,n4695,trace,34,1975,1366.0,1,4,,,201.3358,4428.137,0.2946,16.929,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 228 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n4695,trace,35,2001,1360.0,1,4,,,205.8864,4450.218,0.3009,16.96,piecewise,agreed,claude,205.886,4442.789,,2000.8,1362.0
+FC-4B,1,n4695,trace,36,2030,1355.5,1,6,,,210.963,4466.897,0.3083,24.248,piecewise,agreed,claude,210.963,4468.343,,2029.9,1355.1
+FC-4B,1,n4695,trace,37,2059,1350.5,1,5,,,216.04,4485.392,0.3152,20.642,piecewise,agreed,claude,216.040,4487.138,,2058.9,1350.0
+FC-4B,1,n4695,trace,38,2120,1353.5,1,4,,,226.7206,4475.258,0.3299,16.998,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 229 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n4695,trace,39,2146,1361.0,1,6,,,231.2727,4448.363,0.3364,24.23,piecewise,agreed,claude,231.273,4449.946,,2146.1,1360.6
+FC-4B,1,n4695,trace,40,2175,1378.0,1,8,,,236.3488,4387.028,0.344,31.416,piecewise,agreed,claude,236.349,4384.741,,2175.2,1378.6
+FC-4B,1,n4695,trace,41,2204,1401.5,1,8,,,241.4228,4302.096,0.3514,31.305,piecewise,agreed,claude,241.423,4299.112,,2204.2,1402.3
+FC-4B,1,n4695,trace,42,2215,1415.5,1,9,,,243.3462,4251.419,0.3544,34.871,piecewise,agreed,claude,243.346,4245.857,,2215.2,1416.9
+FC-4B,1,n4695,trace,90,2223,1427.5,1,12.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,244.6992,4207.597,0.3624,46.063,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 230 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,feature,2,1752,2437.5,12,6,,"peak of the drawn line (minimum v by dense column scan); plateau, the maximum is not sharp (several samples within 6 px of it)",163.8077,750.591,2.1511,22.001,piecewise,agreed,claude,148.1811,741.24,,1660,2440
+FC-4B,1,n734,feature,3,2210,2455,4,4,,last: drawn segment before final triangle,242.3343,696.564,0.8768,15.174,piecewise,resolved,codex,248.2506,727.303,the codex reading is on the feature; credit codex (blind adjudication item 231 (Claude's adjudicator: p; Codex's: p)),2244,2446.0
+FC-4B,1,n734,marker,1,856.5,2590.0,2,2,triangle-up,,9.5318,228.329,0.4783,8.423,piecewise,agreed,claude,9.7127,226.572,,857.5,2590.5
+FC-4B,1,n734,marker,2,972.5,2542.0,2,2,triangle-up,,29.4312,390.871,0.5769,8.425,piecewise,agreed,claude,29.3998,395.979,,972.5,2540.5
+FC-4B,1,n734,marker,3,1090.5,2513.0,3,3,triangle-up,on 50 gridline,49.6679,489.599,0.8472,11.799,piecewise,agreed,claude,49.8539,483.015,,1092,2515
+FC-4B,1,n734,marker,4,1205.5,2485.0,2,2,triangle-up,,69.4862,584.959,0.5852,8.428,piecewise,agreed,claude,69.62,588.492,,1206.5,2484.0
+FC-4B,1,n734,marker,5,1318.5,2459.0,2,2,triangle-up,,88.9649,673.598,0.4882,8.429,piecewise,agreed,claude,89.3028,675.458,,1320.5,2458.5
+FC-4B,1,n734,marker,6,1438.5,2453.0,2,2,triangle-up,,109.7245,695.066,0.4422,8.43,piecewise,agreed,claude,109.9032,698.569,,1439.5,2452.0
+FC-4B,1,n734,marker,7,1551.5,2444.0,2,2,triangle-up,,129.3503,726.556,0.4576,8.431,piecewise,agreed,claude,129.4326,728.337,,1552.0,2443.5
+FC-4B,1,n734,marker,8,1670.5,2437.0,3,3,triangle-up,on 150 gridline,150.0177,751.391,0.6463,11.808,piecewise,agreed,claude,150.2578,751.455,,1672,2437
+FC-4B,1,n734,marker,9,1784.5,2434.0,2,2,triangle-up,,169.3065,762.72,0.4575,8.434,piecewise,agreed,claude,169.4662,761.052,,1785.5,2434.5
+FC-4B,1,n734,marker,10,1895.5,2440.0,2,2,triangle-up,,188.0887,743.731,0.4538,8.435,piecewise,agreed,claude,188.2521,745.4,,1896.5,2439.5
+FC-4B,1,n734,marker,11,2073.5,2438.0,2,2,triangle-up,,218.6693,752.389,0.4894,8.436,piecewise,agreed,claude,218.7468,750.623,,2074.0,2438.5
+FC-4B,1,n734,marker,12,2247.5,2453.0,4,4,triangle-up,on right frame,248.8567,703.775,0.8798,15.193,piecewise,agreed,claude,247.0169,696.847,,2237,2455
+FC-4B,1,n734,trace,1,879,2590.5,1,6,,,13.3921,226.878,0.3251,21.859,piecewise,one-sided-verified,claude,13.392,231.857,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 232 (Claude's adjudicator: all yes; Codex's: all yes)",880.0,2589.0
+FC-4B,1,n734,trace,2,908,2575.5,1,6,,,18.3676,277.594,0.3497,21.859,piecewise,agreed,claude,18.368,275.972,,908.1,2576.0
+FC-4B,1,n734,trace,3,937,2563.5,1,6,,,23.3424,318.23,0.3745,21.86,piecewise,agreed,claude,23.342,316.277,,937.1,2564.1
+FC-4B,1,n734,trace,4,953,2557.5,1,6,,,26.087,338.564,0.3881,21.86,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 233 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,5,995,2541.0,1,4,,,33.2907,394.467,0.4238,15.138,piecewise,agreed,claude,33.291,394.882,,995.2,2540.9
+FC-4B,1,n734,trace,6,1024,2533.5,1,6,,,38.2644,419.982,0.4487,21.862,piecewise,agreed,claude,38.264,420.394,,1024.3,2533.4
+FC-4B,1,n734,trace,7,1053,2524.5,1,6,,,43.2376,450.542,0.4735,21.863,piecewise,agreed,claude,43.238,449.916,,1053.3,2524.7
+FC-4B,1,n734,trace,8,1140,2503.0,1,6,,,58.1972,523.742,0.4687,21.865,piecewise,agreed,claude,58.197,522.488,,1140.3,2503.4
+FC-4B,1,n734,trace,9,1169,2497.0,1,6,,,63.1955,544.223,0.4438,21.866,piecewise,agreed,claude,63.196,545.276,,1169.3,2496.7
+FC-4B,1,n734,trace,10,1256,2480.5,1,5,,,78.1913,600.628,0.3688,18.506,piecewise,agreed,claude,78.191,599.744,,1256.1,2480.8
+FC-4B,1,n734,trace,11,1285,2476.5,1,6,,,83.1903,614.388,0.3439,21.869,piecewise,agreed,claude,83.190,614.544,,1285.1,2476.5
+FC-4B,1,n734,trace,12,1299,2474.5,1,5,,,85.6037,621.263,0.3318,18.507,piecewise,agreed,claude,85.604,620.898,,1299.1,2474.7
+FC-4B,1,n734,trace,13,1343,2468.5,1,3,,,93.1888,641.911,0.2938,11.781,piecewise,agreed,claude,93.189,642.623,,1343.0,2468.3
+FC-4B,1,n734,trace,14,1401,2461.5,1,6,,,103.2114,666.074,0.2633,21.872,piecewise,agreed,claude,103.211,663.943,,1400.9,2462.2
+FC-4B,1,n734,trace,15,1419,2458.5,1,6,,,106.3377,676.358,0.2658,21.873,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 234 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,16,1459,2455.0,1,3,,,113.2849,688.559,0.2712,11.783,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 234 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,17,1488,2452.5,1,6,,,118.3216,697.28,0.2752,21.874,piecewise,agreed,claude,118.322,697.396,,1488.0,2452.5
+FC-4B,1,n734,trace,18,1517,2449.5,1,6,,,123.3583,707.683,0.2792,21.875,piecewise,agreed,claude,123.358,707.791,,1517.0,2449.5
+FC-4B,1,n734,trace,19,1532,2449.0,1,6,,,125.9635,709.527,0.2812,21.876,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 235 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,20,1575,2446.5,1,6,,,133.4317,718.4,0.2871,21.877,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 235 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,21,1604,2443.5,1,6,,,138.4685,728.805,0.2911,21.877,piecewise,agreed,claude,138.469,728.883,,1604.1,2443.5
+FC-4B,1,n734,trace,22,1633,2442.5,1,6,,,143.5052,732.482,0.295,21.878,piecewise,agreed,claude,143.505,732.139,,1633.1,2442.6
+FC-4B,1,n734,trace,23,1651,2440.5,1,6,,,146.6314,739.405,0.2975,21.879,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 236 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,24,1720,2440.5,1,6,,,158.3933,740.151,0.2905,21.88,piecewise,agreed,claude,158.393,741.880,,1720.1,2440.0
+FC-4B,1,n734,trace,25,1749,2439.5,1,6,,,163.3002,743.829,0.2897,21.881,piecewise,agreed,claude,163.300,745.799,,1749.1,2438.9
+FC-4B,1,n734,trace,26,1836,2439.5,1,6,,,178.021,744.77,0.287,21.883,piecewise,agreed,claude,178.021,744.766,,1836.0,2439.5
+FC-4B,1,n734,trace,27,1865,2439.5,1,6,,,182.9279,745.084,0.2861,21.884,piecewise,agreed,claude,182.928,744.778,,1865.0,2439.6
+FC-4B,1,n734,trace,28,1876,2440.0,1,4,,,184.7892,743.52,0.2855,15.154,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 237 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,29,1923,2440.0,1,6,,,192.7418,744.029,0.2844,21.886,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 237 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,30,1952,2440.5,1,6,,,197.6488,742.66,0.2835,21.886,piecewise,agreed,claude,197.649,742.619,,1952.0,2440.5
+FC-4B,1,n734,trace,31,1981,2440.5,1,6,,,202.6207,742.974,0.2942,21.887,piecewise,agreed,claude,202.621,742.923,,1981.0,2440.5
+FC-4B,1,n734,trace,32,2010,2442.5,1,6,,,207.6526,736.556,0.301,21.888,piecewise,agreed,claude,207.653,739.294,,2010.0,2441.7
+FC-4B,1,n734,trace,33,2039,2443.5,1,6,,,212.6841,733.504,0.3078,21.888,piecewise,agreed,claude,212.684,732.127,,2039.0,2443.9
+FC-4B,1,n734,trace,77,2041,2444.0,1,4.5,,Drawn ink sample; column selected near regular 12 px sampling grid.,213.0236,731.782,0.3167,16.824,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 169 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,78,2104,2447.5,1,5.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,223.9505,720.672,0.331,18.505,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 169 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,79,2116,2448.5,1,6.0,,Drawn ink sample; column selected near regular 12 px sampling grid.,226.0318,717.436,0.3337,21.868,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 169 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FC-4B,1,n734,trace,34,2126,2448.5,1,6,,,227.7784,717.613,0.3283,21.891,piecewise,agreed,claude,227.778,716.130,,2126.1,2448.9
+FC-4B,1,n734,trace,35,2155,2449.5,1,6,,,232.8096,714.56,0.3356,21.891,piecewise,agreed,claude,232.810,713.620,,2155.1,2449.8
+FC-4B,1,n734,trace,36,2184,2451.5,1,6,,,237.8406,708.14,0.3429,21.892,piecewise,agreed,claude,237.841,706.928,,2184.1,2451.8
+FC-4B,1,n734,trace,37,2213,2454.5,1,6,,,242.8713,698.353,0.3502,21.893,piecewise,one-sided-verified,claude,,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 238 (Claude's adjudicator: all yes; Codex's: all yes)",,

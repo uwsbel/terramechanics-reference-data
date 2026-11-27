@@ -1,0 +1,156 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound
+FA-6,1,average,trace,1,2241.5,2945.0,4.0,3.0,,first point: where the ink starts at the fine end (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,average,trace,2,2242.3,2924.4,13.0,6.0,,x=10^-0.85; the three curves run together here; bound widened to the band,0.1415359,0.86948,0.0028298,0.95307
+FA-6,1,average,trace,3,2239.4,2875.9,13.0,6.0,,x=10^-0.80; the three curves run together here; bound widened to the band,0.1588188,1.05288,0.0031753,0.95307
+FA-6,1,average,trace,4,2239.0,2827.5,8.5,6.0,,x=10^-0.75; band centre (2232.8) in white between strands; moved onto the strand at 2239.0; the three curves run together here; bound widened to the band,0.178167,1.06485,0.0035571,0.64444
+FA-6,1,average,trace,5,2234.4,2779.1,10.5,6.0,,x=10^-0.70; the three curves run together here; bound widened to the band,0.1998775,1.36487,0.0039931,0.78161
+FA-6,1,average,trace,6,2233.4,2731.0,10.9,6.0,,x=10^-0.65; the three curves run together here; bound widened to the band,0.2240688,1.41809,0.0044769,0.80904
+FA-6,1,average,trace,7,2231.9,2683.0,11.8,6.0,,x=10^-0.60; the three curves run together here; bound widened to the band,0.2511292,1.50563,0.0050191,0.87077
+FA-6,1,average,trace,8,2228.0,2634.9,11.4,6.0,,x=10^-0.55; the three curves run together here; bound widened to the band,0.2815286,1.75775,0.0056259,0.84333
+FA-6,1,average,trace,9,2227.7,2586.8,6.2,6.0,,"x=10^-0.50; solid line not seen on its own here: placed between the dashed curves, bound widened",0.3156008,1.76295,0.0062964,0.4867
+FA-6,1,average,trace,10,2229.0,2538.7,9.6,6.0,,"x=10^-0.45; solid line not seen on its own here: placed between the dashed curves, bound widened",0.3537932,1.65843,0.007066,0.71988
+FA-6,1,average,trace,11,2223.8,2490.7,12.6,6.0,,"x=10^-0.40; solid line not seen on its own here: placed between the dashed curves, bound widened",0.3965292,1.99973,0.007927,0.92563
+FA-6,1,average,trace,12,2223.2,2442.6,11.1,6.0,,"x=10^-0.35; solid line not seen on its own here: placed between the dashed curves, bound widened",0.44452,2.02552,0.008882,0.82276
+FA-6,1,average,trace,13,2222.8,2394.5,9.8,6.0,,"x=10^-0.30; solid line not seen on its own here: placed between the dashed curves, bound widened",0.498319,2.03758,0.009953,0.7336
+FA-6,1,average,trace,14,2221.3,2346.2,11.1,6.0,,"x=10^-0.25; solid line not seen on its own here: placed between the dashed curves, bound widened",0.558898,2.12503,0.011168,0.82276
+FA-6,1,average,trace,15,2220.2,2297.8,6.0,6.0,,x=10^-0.20; on the curve's own ink,0.626989,2.18501,0.012508,0.47298
+FA-6,1,average,trace,16,2217.5,2249.5,6.0,6.0,,x=10^-0.15; on the curve's own ink,0.703215,2.35476,0.014029,0.47298
+FA-6,1,average,trace,17,2211.6,2201.1,6.0,6.0,,x=10^-0.10; on the curve's own ink,0.788912,2.74394,0.015738,0.47298
+FA-6,1,average,trace,18,2202.7,2152.8,6.0,6.0,,x=10^-0.05; on the curve's own ink,0.884858,3.3389,0.017652,0.47298
+FA-6,1,average,trace,19,2179.7,2104.4,6.0,6.0,,x=10^+0.00; on the curve's own ink,0.992796,4.90087,0.019806,0.47298
+FA-6,1,average,trace,20,2135.8,2055.8,8.0,8.0,,"x=10^+0.05; on the curve's own ink; solid line not seen on its own here: placed between the dashed curves, bound widened",1.114573,7.89616,0.027662,0.61079
+FA-6,1,average,trace,21,2055.9,2007.2,9.0,9.0,,x=10^+0.10; the three curves run together here; bound widened to the band,1.251567,13.36047,0.03412,0.67969
+FA-6,1,average,trace,22,2032.3,1994.8,9.0,9.0,,y=15; on the curve's own ink; the three curves run together here; bound widened to the band,1.289164,14.97508,0.035145,0.67969
+FA-6,1,average,trace,23,1959.3,1973.3,6.0,6.0,,y=20; on the curve's own ink,1.357319,19.97481,0.027078,0.47298
+FA-6,1,average,trace,24,1904.1,1958.9,6.0,6.0,,x=10^+0.15; on the curve's own ink,1.405025,23.75603,0.028029,0.47298
+FA-6,1,average,trace,25,1886.3,1954.7,6.0,6.0,,y=25; on the curve's own ink,1.419267,24.97548,0.028313,0.47298
+FA-6,1,average,trace,26,1813.3,1939.4,6.0,10.4,,"y=30; solid line not seen on its own here: placed between the dashed curves, bound widened",1.472456,29.97719,0.045152,0.47439
+FA-6,1,average,trace,27,1739.9,1924.8,6.0,6.0,,y=35; on the curve's own ink,1.525105,35.00656,0.030425,0.47298
+FA-6,1,average,trace,28,1677.3,1910.9,6.0,6.0,,x=10^+0.20; on the curve's own ink,1.576907,39.29546,0.031458,0.47298
+FA-6,1,average,trace,29,1666.5,1908.5,6.0,6.0,,y=40; on the curve's own ink,1.586027,40.03539,0.03164,0.47298
+FA-6,1,average,trace,30,1593.2,1892.2,6.0,6.0,,y=45; on the curve's own ink,1.649382,45.05736,0.032904,0.47298
+FA-6,1,average,trace,31,1519.9,1877.1,6.0,6.0,,y=50; on the curve's own ink,1.710386,50.07972,0.034121,0.47298
+FA-6,1,average,trace,32,1456.9,1863.2,6.0,6.0,,x=10^+0.25; on the curve's own ink,1.768485,54.39605,0.03528,0.47298
+FA-6,1,average,trace,33,1446.5,1860.8,6.0,6.0,,y=55; on the curve's own ink,1.778709,55.10855,0.035484,0.47298
+FA-6,1,average,trace,34,1373.1,1844.8,6.0,6.0,,y=60; on the curve's own ink,1.848445,60.13747,0.036875,0.47298
+FA-6,1,average,trace,35,1301.5,1830.2,6.0,13.6,,"y=65; solid line not seen on its own here: placed between the dashed curves, bound widened",1.914516,65.0434,0.073761,0.47541
+FA-6,1,average,trace,36,1229.9,1815.9,6.0,6.0,,y=70; on the curve's own ink,1.981536,69.94941,0.03953,0.47298
+FA-6,1,average,trace,37,1228.0,1815.5,6.0,6.0,,x=10^+0.30; on the curve's own ink,1.983443,70.0796,0.039568,0.47298
+FA-6,1,average,trace,38,1156.7,1800.0,6.0,6.0,,y=75; on the curve's own ink,2.058732,74.96466,0.04107,0.47298
+FA-6,1,average,trace,39,1083.5,1783.8,6.0,6.0,,y=80; on the curve's own ink,2.140459,79.9798,0.042701,0.47298
+FA-6,1,average,trace,40,1016.0,1767.7,6.0,6.0,,x=10^+0.35; on the curve's own ink,2.224824,84.60405,0.044384,0.47298
+FA-6,1,average,trace,41,883.6,1719.5,6.0,6.0,,x=10^+0.40; on the curve's own ink,2.496721,93.66912,0.049808,0.47298
+FA-6,1,average,trace,42,816.7,1671.1,9.0,6.0,,"x=10^+0.45; solid line not seen on its own here: placed between the dashed curves, bound widened",2.80204,98.2419,0.055952,0.67873
+FA-6,1,average,trace,43,793.5,1622.3,7.0,6.0,,x=10^+0.50; the three curves run together here; bound widened to the band,3.146833,99.81746,0.062797,0.54157
+FA-6,1,average,trace,44,790.5,1573.1,7.0,6.0,,x=10^+0.55; the three curves run together here; bound widened to the band,3.536969,100.00749,0.070582,0.54157
+FA-6,1,average,trace,45,783.5,1523.8,9.0,6.0,,x=10^+0.60; the three curves run together here; bound widened to the band,3.976516,100.47183,0.079404,0.67873
+FA-6,1,average,trace,46,780.5,1514.5,9.0,6.0,,"last point: where the ink ends at the coarse end, on the 100 percent line (the three curves run together there)",4.065404,100.67461,0.081179,0.67873
+FA-6,1,average,feature,1,2241.5,2945.0,4.0,3.0,,first point (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,average,feature,2,2157.5,2076.0,12.0,12.0,,"knee (fine side, 45 degrees on the page); knee position is a construction, bound covers the bend",1.062219,6.41435,0.036781,0.8864
+FA-6,1,average,feature,3,818.5,1674.0,12.0,12.0,,"knee (coarse side, 45 degrees on the page); knee position is a construction, bound covers the bend",2.782776,98.11938,0.096358,0.8864
+FA-6,1,average,feature,4,780.5,1514.5,9.0,9.0,,last point (the three curves run together there),4.065404,100.67461,0.11083,0.67969
+FA-6,1,upper,trace,1,2241.5,2945.0,4.0,3.0,,first point: where the ink starts at the fine end (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,upper,trace,2,2242.3,2924.4,13.0,6.0,,x=10^-0.85; the three curves run together here; bound widened to the band,0.1415359,0.86948,0.0028298,0.95307
+FA-6,1,upper,trace,3,2239.4,2875.9,13.0,6.0,,x=10^-0.80; the three curves run together here; bound widened to the band,0.1588188,1.05288,0.0031753,0.95307
+FA-6,1,upper,trace,4,2225.0,2827.5,8.5,6.0,,x=10^-0.75; band centre (2232.8) in white between strands; moved onto the strand at 2225.0; the three curves run together here; bound widened to the band,0.1781824,2.02502,0.0035574,0.64444
+FA-6,1,upper,trace,5,2234.4,2779.1,10.5,6.0,,x=10^-0.70; the three curves run together here; bound widened to the band,0.1998775,1.36487,0.0039931,0.78161
+FA-6,1,upper,trace,6,2233.4,2731.0,10.9,6.0,,x=10^-0.65; the three curves run together here; bound widened to the band,0.2240688,1.41809,0.0044769,0.80904
+FA-6,1,upper,trace,7,2231.9,2683.0,11.8,6.0,,x=10^-0.60; the three curves run together here; bound widened to the band,0.2511292,1.50563,0.0050191,0.87077
+FA-6,1,upper,trace,8,2228.0,2634.9,11.4,6.0,,x=10^-0.55; the three curves run together here; bound widened to the band,0.2815286,1.75775,0.0056259,0.84333
+FA-6,1,upper,trace,9,2221.6,2586.8,6.0,6.0,,x=10^-0.50; on the curve's own ink,0.3156128,2.18131,0.0062962,0.47298
+FA-6,1,upper,trace,10,2219.4,2538.8,6.0,6.0,,x=10^-0.45; on the curve's own ink,0.3537302,2.31687,0.0070567,0.47298
+FA-6,1,upper,trace,11,2210.8,2488.0,6.0,6.0,,"x=10^-0.40; in a dash gap at (2211.2, 2490.7); moved to the nearest dash end (rule 7); on the curve's own ink",0.3991124,2.89046,0.007962,0.47298
+FA-6,1,upper,trace,12,2213.0,2434.0,6.0,6.0,,"x=10^-0.35; in a dash gap at (2212.2, 2442.6); moved to the nearest dash end (rule 7); on the curve's own ink",0.453722,2.72232,0.009051,0.47298
+FA-6,1,upper,trace,13,2213.0,2394.5,6.0,6.0,,x=10^-0.30; on the curve's own ink,0.498349,2.7097,0.009942,0.47298
+FA-6,1,upper,trace,14,2210.2,2346.2,6.0,6.0,,x=10^-0.25; on the curve's own ink,0.558937,2.88631,0.01115,0.47298
+FA-6,1,upper,trace,15,2206.4,2297.9,6.0,6.0,,x=10^-0.20; on the curve's own ink,0.626894,3.1315,0.012506,0.47298
+FA-6,1,upper,trace,16,2201.0,2246.0,6.0,6.0,,"x=10^-0.15; in a dash gap at (2201.6, 2249.5); moved to the nearest dash end (rule 7); on the curve's own ink",0.709158,3.48527,0.014147,0.47298
+FA-6,1,upper,trace,17,2193.5,2196.0,6.0,6.0,,"x=10^-0.10; in a dash gap at (2193.0, 2201.2); moved to the nearest dash end (rule 7); on the curve's own ink",0.798616,3.98367,0.015932,0.47298
+FA-6,1,upper,trace,18,2188.1,2152.8,6.0,6.0,,x=10^-0.05; on the curve's own ink,0.884938,4.34023,0.017654,0.47298
+FA-6,1,upper,trace,19,2162.2,2104.5,6.0,6.0,,x=10^+0.00; on the curve's own ink,0.992668,6.10111,0.019803,0.47298
+FA-6,1,upper,trace,20,2110.0,2055.8,7.0,7.0,,x=10^+0.05; on the curve's own ink,1.114751,9.66562,0.024949,0.54189
+FA-6,1,upper,trace,21,2028.7,2007.2,6.0,6.0,,x=10^+0.10; on the curve's own ink,1.251778,15.22594,0.024972,0.47298
+FA-6,1,upper,trace,22,1959.4,1985.1,6.0,6.0,,y=20; on the curve's own ink,1.319806,19.97172,0.026329,0.47298
+FA-6,1,upper,trace,23,1886.4,1966.5,6.0,6.0,,y=25; on the curve's own ink,1.380042,24.97239,0.027531,0.47298
+FA-6,1,upper,trace,24,1850.5,1959.0,6.0,6.0,,x=10^+0.15; on the curve's own ink,1.405158,27.43214,0.028032,0.47298
+FA-6,1,upper,trace,25,1813.4,1951.3,6.0,6.0,,y=30; on the curve's own ink,1.431421,29.97413,0.028556,0.47298
+FA-6,1,upper,trace,26,1746.0,1938.9,6.0,6.0,,"y=35; in a dash gap at (1740.0, 1938.2); moved to the nearest dash end (rule 7); on the curve's own ink",1.474821,34.59271,0.029422,0.47298
+FA-6,1,upper,trace,27,1666.6,1925.7,6.0,6.0,,y=40; on the curve's own ink,1.52254,40.03403,0.030374,0.47298
+FA-6,1,upper,trace,28,1622.0,1912.3,6.0,6.0,,"x=10^+0.20; in a dash gap at (1617.3, 1911.1); moved to the nearest dash end (rule 7); on the curve's own ink",1.572211,43.08858,0.031364,0.47298
+FA-6,1,upper,trace,29,1593.3,1905.8,6.0,6.0,,y=45; on the curve's own ink,1.596955,45.05485,0.031858,0.47298
+FA-6,1,upper,trace,30,1520.0,1887.5,6.0,6.0,,y=50; on the curve's own ink,1.668654,50.07618,0.033288,0.47298
+FA-6,1,upper,trace,31,1446.6,1873.5,6.0,6.0,,y=55; on the curve's own ink,1.725857,55.10575,0.03443,0.47298
+FA-6,1,upper,trace,32,1408.0,1863.3,6.0,6.0,,x=10^+0.25; on the curve's own ink,1.768601,57.74982,0.035282,0.47298
+FA-6,1,upper,trace,33,1378.0,1856.2,6.0,6.0,,"y=60; in a dash gap at (1373.2, 1855.3); moved to the nearest dash end (rule 7); on the curve's own ink",1.799013,59.80506,0.035889,0.47298
+FA-6,1,upper,trace,34,1300.0,1841.2,6.0,6.0,,"y=65; in a dash gap at (1301.6, 1841.5); moved to the nearest dash end (rule 7); on the curve's own ink",1.865162,65.14979,0.037209,0.47298
+FA-6,1,upper,trace,35,1230.0,1831.5,6.0,6.0,,"y=70; in a dash gap at (1230.0, 1831.5); moved to the nearest dash end (rule 7); on the curve's own ink",1.90946,69.94754,0.038092,0.47298
+FA-6,1,upper,trace,36,1166.0,1815.8,6.0,6.0,,x=10^+0.30; on the curve's own ink,1.982792,74.33188,0.039555,0.47298
+FA-6,1,upper,trace,37,1156.8,1813.4,6.0,6.0,,y=75; on the curve's own ink,1.99424,74.96208,0.039784,0.47298
+FA-6,1,upper,trace,38,1083.6,1798.4,6.0,6.0,,y=80; on the curve's own ink,2.067507,79.97761,0.041245,0.47298
+FA-6,1,upper,trace,39,1010.5,1781.9,6.0,6.0,,y=85; on the curve's own ink,2.151113,84.9858,0.042913,0.47298
+FA-6,1,upper,trace,40,948.0,1767.8,6.0,6.0,,"x=10^+0.35; in a dash gap at (948.6, 1767.9); moved to the nearest dash end (rule 7); on the curve's own ink",2.225233,89.26777,0.044392,0.47298
+FA-6,1,upper,trace,41,859.1,1719.6,6.0,6.0,,x=10^+0.40; on the curve's own ink,2.496507,95.34945,0.049804,0.47298
+FA-6,1,upper,trace,42,809.1,1671.1,6.0,6.0,,x=10^+0.45; on the curve's own ink,2.802172,98.76314,0.055901,0.47298
+FA-6,1,upper,trace,43,793.5,1622.3,7.0,7.0,,x=10^+0.50; the three curves run together here; bound widened to the band,3.146833,99.81746,0.070429,0.54189
+FA-6,1,upper,trace,44,784.5,1573.1,7.0,7.0,,x=10^+0.55; the three curves run together here; bound widened to the band,3.537101,100.41899,0.079164,0.54189
+FA-6,1,upper,trace,45,781.5,1523.9,7.0,7.0,,x=10^+0.60; the three curves run together here; bound widened to the band,3.975621,100.60902,0.088978,0.54189
+FA-6,1,upper,trace,46,780.5,1514.5,5.0,5.0,,"last point: where the ink ends at the coarse end, on the 100 percent line",4.065404,100.67461,0.07124,0.40408
+FA-6,1,upper,feature,1,2241.5,2945.0,4.0,3.0,,first point (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,upper,feature,2,2154.5,2092.0,12.0,12.0,,"knee (fine side, 45 degrees on the page); knee position is a construction, bound covers the bend",1.022629,6.62521,0.03541,0.8864
+FA-6,1,upper,feature,3,846.0,1710.4,12.0,12.0,,"knee (coarse side, 45 degrees on the page); knee position is a construction, bound covers the bend",2.551866,96.24496,0.088363,0.8864
+FA-6,1,upper,feature,4,780.5,1514.5,5.0,5.0,,last point,4.065404,100.67461,0.07124,0.40408
+FA-6,1,lower,trace,1,2241.5,2945.0,4.0,3.0,,first point: where the ink starts at the fine end (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,lower,trace,2,2242.3,2924.4,13.0,6.0,,x=10^-0.85; the three curves run together here; bound widened to the band,0.1415359,0.86948,0.0028298,0.95307
+FA-6,1,lower,trace,3,2239.4,2875.9,13.0,6.0,,x=10^-0.80; the three curves run together here; bound widened to the band,0.1588188,1.05288,0.0031753,0.95307
+FA-6,1,lower,trace,4,2239.0,2827.5,8.5,6.0,,x=10^-0.75; band centre (2232.8) in white between strands; moved onto the strand at 2239.0; the three curves run together here; bound widened to the band,0.178167,1.06485,0.0035571,0.64444
+FA-6,1,lower,trace,5,2234.4,2779.1,10.5,6.0,,x=10^-0.70; the three curves run together here; bound widened to the band,0.1998775,1.36487,0.0039931,0.78161
+FA-6,1,lower,trace,6,2233.4,2731.0,10.9,6.0,,x=10^-0.65; the three curves run together here; bound widened to the band,0.2240688,1.41809,0.0044769,0.80904
+FA-6,1,lower,trace,7,2231.9,2683.0,11.8,6.0,,x=10^-0.60; the three curves run together here; bound widened to the band,0.2511292,1.50563,0.0050191,0.87077
+FA-6,1,lower,trace,8,2228.0,2634.9,11.4,6.0,,x=10^-0.55; the three curves run together here; bound widened to the band,0.2815286,1.75775,0.0056259,0.84333
+FA-6,1,lower,trace,9,2233.9,2586.8,6.0,6.0,,x=10^-0.50; on the curve's own ink,0.3155887,1.33774,0.0062958,0.47298
+FA-6,1,lower,trace,10,2238.5,2538.7,6.0,6.0,,x=10^-0.45; on the curve's own ink,0.3537724,1.00689,0.0070575,0.47298
+FA-6,1,lower,trace,11,2236.3,2490.6,6.0,6.0,,x=10^-0.40; on the curve's own ink,0.3965927,1.1424,0.0079117,0.47298
+FA-6,1,lower,trace,12,2234.2,2442.6,6.0,6.0,,x=10^-0.35; on the curve's own ink,0.44449,1.2711,0.008867,0.47298
+FA-6,1,lower,trace,13,2232.6,2390.0,6.0,6.0,,"x=10^-0.30; in a dash gap at (2232.6, 2394.5); moved to the nearest dash end (rule 7); on the curve's own ink",0.503643,1.36403,0.010047,0.47298
+FA-6,1,lower,trace,14,2232.4,2346.1,6.0,6.0,,x=10^-0.25; on the curve's own ink,0.558993,1.36372,0.011151,0.47298
+FA-6,1,lower,trace,15,2230.8,2297.8,6.0,6.0,,x=10^-0.20; on the curve's own ink,0.626948,1.45803,0.012507,0.47298
+FA-6,1,lower,trace,16,2228.0,2249.5,6.0,6.0,,x=10^-0.15; on the curve's own ink,0.70317,1.63463,0.014028,0.47298
+FA-6,1,lower,trace,17,2227.5,2218.0,6.0,6.0,,"x=10^-0.10; in a dash gap at (2225.1, 2201.1); moved to the nearest dash end (rule 7); on the curve's own ink",0.757798,1.65886,0.015118,0.47298
+FA-6,1,lower,trace,18,2222.9,2152.8,6.0,6.0,,x=10^-0.05; on the curve's own ink,0.884747,1.95352,0.01765,0.47298
+FA-6,1,lower,trace,19,2196.6,2104.4,6.0,6.0,,x=10^+0.00; on the curve's own ink,0.992692,3.7418,0.019803,0.47298
+FA-6,1,lower,trace,20,2165.8,2055.7,6.0,6.0,,x=10^+0.05; on the curve's own ink,1.114631,5.83862,0.022236,0.47298
+FA-6,1,lower,trace,21,2077.7,2007.1,6.0,6.0,,x=10^+0.10; on the curve's own ink,1.251696,11.86531,0.02497,0.47298
+FA-6,1,lower,trace,22,1941.8,1958.8,6.0,6.0,,x=10^+0.15; on the curve's own ink,1.40503,21.17039,0.028029,0.47298
+FA-6,1,lower,trace,23,1886.3,1944.8,6.0,6.0,,y=25; on the curve's own ink,1.453034,24.97231,0.028987,0.47298
+FA-6,1,lower,trace,24,1813.3,1926.4,6.0,6.0,,y=30; on the curve's own ink,1.51863,29.97304,0.030296,0.47298
+FA-6,1,lower,trace,25,1751.2,1910.7,6.0,6.0,,x=10^+0.20; on the curve's own ink,1.576934,34.22706,0.031459,0.47298
+FA-6,1,lower,trace,26,1742.0,1908.5,6.0,6.0,,"y=35; in a dash gap at (1739.8, 1908.0); moved to the nearest dash end (rule 7); on the curve's own ink",1.585285,34.85733,0.031625,0.47298
+FA-6,1,lower,trace,27,1664.0,1890.6,6.0,6.0,,"y=40; in a dash gap at (1666.4, 1891.2); moved to the nearest dash end (rule 7); on the curve's own ink",1.654936,40.20113,0.033015,0.47298
+FA-6,1,lower,trace,28,1593.1,1875.2,6.0,6.0,,y=45; on the curve's own ink,1.717343,45.05879,0.03426,0.47298
+FA-6,1,lower,trace,29,1540.6,1862.9,6.0,6.0,,x=10^+0.25; on the curve's own ink,1.768828,48.6555,0.035287,0.47298
+FA-6,1,lower,trace,30,1519.8,1858.2,6.0,6.0,,y=50; on the curve's own ink,1.788915,50.08054,0.035688,0.47298
+FA-6,1,lower,trace,31,1446.4,1841.9,6.0,6.0,,y=55; on the curve's own ink,1.860375,55.10937,0.037113,0.47298
+FA-6,1,lower,trace,32,1373.0,1825.9,6.0,6.0,,y=60; on the curve's own ink,1.933312,60.1383,0.038568,0.47298
+FA-6,1,lower,trace,33,1339.7,1815.1,6.0,6.0,,x=10^+0.30; on the curve's own ink,1.983955,62.41868,0.039578,0.47298
+FA-6,1,lower,trace,34,1308.0,1810.6,6.0,6.0,,"y=65; in a dash gap at (1301.4, 1810.4); moved to the nearest dash end (rule 7); on the curve's own ink",2.005667,64.59134,0.040012,0.47298
+FA-6,1,lower,trace,35,1229.9,1801.1,6.0,6.0,,y=70; on the curve's own ink,2.052429,69.94469,0.040944,0.47298
+FA-6,1,lower,trace,36,1156.7,1788.7,6.0,6.0,,y=75; on the curve's own ink,2.114734,74.96105,0.042187,0.47298
+FA-6,1,lower,trace,37,1083.5,1773.6,6.0,6.0,,y=80; on the curve's own ink,2.192947,79.97654,0.043748,0.47298
+FA-6,1,lower,trace,38,1066.0,1768.6,6.0,6.0,,"x=10^+0.35; in a dash gap at (1062.7, 1767.5); moved to the nearest dash end (rule 7); on the curve's own ink",2.219386,81.17516,0.044275,0.47298
+FA-6,1,lower,trace,39,1006.0,1746.9,6.0,6.0,,"y=85; in a dash gap at (1010.3, 1748.1); moved to the nearest dash end (rule 7); on the curve's own ink",2.33764,85.28324,0.046634,0.47298
+FA-6,1,lower,trace,40,944.0,1735.9,6.0,6.0,,"y=90; in a dash gap at (937.2, 1733.8); moved to the nearest dash end (rule 7); on the curve's own ink",2.400441,89.53191,0.047887,0.47298
+FA-6,1,lower,trace,41,904.6,1719.4,6.0,6.0,,x=10^+0.40; on the curve's own ink,2.496989,92.22884,0.049813,0.47298
+FA-6,1,lower,trace,42,824.3,1671.1,6.0,6.0,,x=10^+0.45; on the curve's own ink,2.801908,97.72067,0.055896,0.47298
+FA-6,1,lower,trace,43,811.0,1622.2,6.0,6.0,,x=10^+0.50; on the curve's own ink,3.147239,98.61721,0.062785,0.47298
+FA-6,1,lower,trace,44,796.5,1573.0,6.0,6.0,,x=10^+0.55; on the curve's own ink,3.537678,99.59596,0.070574,0.47298
+FA-6,1,lower,trace,45,785.5,1523.8,9.0,9.0,,x=10^+0.60; the three curves run together here; bound widened to the band,3.976467,100.33466,0.108406,0.67969
+FA-6,1,lower,trace,46,780.5,1514.5,9.0,9.0,,"last point: where the ink ends at the coarse end, on the 100 percent line (the three curves run together there)",4.065404,100.67461,0.11083,0.67969
+FA-6,1,lower,feature,1,2241.5,2945.0,4.0,3.0,,first point (the three curves run together there),0.1347783,0.93093,0.001711,0.33486
+FA-6,1,lower,feature,2,2163.0,2052.0,12.0,12.0,,"knee (fine side, 45 degrees on the page); knee position is a construction, bound covers the bend",1.124489,6.02947,0.038937,0.8864
+FA-6,1,lower,feature,3,823.5,1670.0,12.0,12.0,,"knee (coarse side, 45 degrees on the page); knee position is a construction, bound covers the bend",2.809252,97.77518,0.097275,0.8864
+FA-6,1,lower,feature,4,780.5,1514.5,9.0,9.0,,last point (the three curves run together there),4.065404,100.67461,0.11083,0.67969
+FA-6,1,lower,marker,1,2162.0,2033.0,4.0,4.0,circle,circle on the lower dashed curve at the knee; the curve passes through it,1.176403,6.09199,0.017767,0.33518
+FA-6,1,lower,marker,2,1714.0,1891.0,4.0,4.0,circle,"circle touching the outer (upper on the page) edge of the lower dashed curve, centre about 11 px outside its centreline",1.652852,36.77208,0.024963,0.33518
+FA-6,1,upper,marker,1,1560.0,1906.0,4.0,4.0,circle,"circle touching the outer (lower on the page) edge of the upper dashed curve, centre about 8 px outside its centreline",1.596526,47.33875,0.024113,0.33518
+FA-6,1,lower,marker,3,2229.0,2179.0,6.0,6.0,circle,"circle on the right-hand (lower) dashed curve where the curves turn down; partly merged with the ink, centre uncertain",0.831338,1.54353,0.016585,0.47298
+FA-6,1,upper,marker,2,2229.0,2904.0,6.0,6.0,circle,"circle on the left edge of the band near the fine end, where the three curves run together; series by its side of the band, partly merged",0.1485747,1.77512,0.002964,0.47298

@@ -1,0 +1,466 @@
+{
+  "FC-1A": {
+    "page": "p0116",
+    "series": {
+      "dr50-57": {
+        "angle": "45.5°",
+        "label": [
+          1812,
+          2213.5
+        ],
+        "line": [
+          [
+            932,
+            3175
+          ],
+          [
+            1950,
+            2145
+          ]
+        ],
+        "markers": [
+          [
+            928.3,
+            3169.5,
+            "triangle-down",
+            "On the lower fit at the axis; differs from circle legend; axis overlaps triangle.",
+            14
+          ],
+          [
+            1006.5,
+            3144.1,
+            "circle"
+          ],
+          [
+            1013,
+            3089,
+            "filled circle",
+            "On the lower dashed fit; fill differs from hollow-circle legend."
+          ],
+          [
+            1102.4,
+            3000.2,
+            "circle"
+          ],
+          [
+            1268.1,
+            2807.8,
+            "circle"
+          ],
+          [
+            1446,
+            2615,
+            "circle"
+          ],
+          [
+            1611.3,
+            2490.9,
+            "circle"
+          ],
+          [
+            1777.6,
+            2318.6,
+            "circle"
+          ],
+          [
+            1949.1,
+            2139.5,
+            "circle"
+          ]
+        ]
+      },
+      "dr73-88": {
+        "angle": "47°",
+        "label": [
+          1684.5,
+          2233
+        ],
+        "line": [
+          [
+            929,
+            3111
+          ],
+          [
+            1963,
+            2010
+          ]
+        ],
+        "markers": [
+          [
+            1092.4,
+            2916.5,
+            "circle",
+            "Hollow circle by the middle fit; differs from filled-circle legend."
+          ],
+          [
+            1608.6,
+            2412.9,
+            "circle",
+            "Hollow circle by the middle fit; differs from filled-circle legend."
+          ],
+          [
+            1783,
+            2135,
+            "filled circle"
+          ],
+          [
+            1952.5,
+            2058,
+            "filled circle"
+          ]
+        ]
+      },
+      "dr100-116": {
+        "angle": "51°",
+        "label": [
+          1687.5,
+          2055
+        ],
+        "line": [
+          [
+            929,
+            3077
+          ],
+          [
+            1976,
+            1775
+          ]
+        ],
+        "markers": [
+          [
+            1014.3,
+            2995.9,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ],
+          [
+            1091.7,
+            2885.4,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ],
+          [
+            1377.4,
+            2541.6,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ],
+          [
+            1440.5,
+            2482,
+            "filled circle",
+            "Filled circle adjacent to upper fit; assigned by upper-line neighborhood rather than filled-circle legend; off the fit.",
+            7
+          ],
+          [
+            1611.6,
+            2190.8,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ],
+          [
+            1781.5,
+            1996.9,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ],
+          [
+            1955.6,
+            1839.9,
+            "triangle-down",
+            "Triangle points downward; legend triangle points upward."
+          ]
+        ]
+      }
+    }
+  },
+  "FC-2A": {
+    "page": "p0120",
+    "series": {
+      "dr33-53": {
+        "angle": "49.5°",
+        "label": [
+          1697.5,
+          2328.5
+        ],
+        "line": [
+          [
+            952,
+            3244
+          ],
+          [
+            2350,
+            1650
+          ]
+        ],
+        "markers": [
+          [
+            1179,
+            2983.4,
+            "square"
+          ],
+          [
+            1400,
+            2769.8,
+            "square"
+          ],
+          [
+            1605.3,
+            2492.3,
+            "square"
+          ],
+          [
+            1830.3,
+            2192.8,
+            "square"
+          ],
+          [
+            2039.5,
+            2066.2,
+            "square"
+          ],
+          [
+            2260,
+            1855,
+            "square"
+          ]
+        ]
+      },
+      "dr115-130": {
+        "angle": "46.7°",
+        "label": [
+          1880.5,
+          2285
+        ],
+        "line": [
+          [
+            950,
+            3304
+          ],
+          [
+            2393,
+            1815
+          ]
+        ],
+        "markers": [
+          [
+            1185.3,
+            3061.1,
+            "circle"
+          ],
+          [
+            1402.4,
+            2816.8,
+            "circle"
+          ],
+          [
+            1611.3,
+            2593.3,
+            "circle"
+          ],
+          [
+            1819,
+            2404.1,
+            "circle"
+          ],
+          [
+            2040.7,
+            2217.9,
+            "circle"
+          ],
+          [
+            2256,
+            2053.3,
+            "circle"
+          ]
+        ]
+      }
+    }
+  },
+  "FC-3A": {
+    "page": "p0123",
+    "series": {
+      "dr0-15": {
+        "angle": "38°",
+        "label": [
+          1645.5,
+          2500
+        ],
+        "line": [
+          [
+            925,
+            3125
+          ],
+          [
+            2368,
+            1985
+          ]
+        ],
+        "markers": [
+          [
+            1135.5,
+            2958.7,
+            "circle"
+          ],
+          [
+            1425,
+            2657.5,
+            "circle"
+          ],
+          [
+            1778.2,
+            2407.7,
+            "circle"
+          ],
+          [
+            2024,
+            2330.8,
+            "circle"
+          ],
+          [
+            2278.7,
+            2090.7,
+            "circle"
+          ]
+        ]
+      },
+      "dr100-130": {
+        "angle": "47°",
+        "label": [
+          1618.5,
+          2220.5
+        ],
+        "line": [
+          [
+            924,
+            3047
+          ],
+          [
+            2353,
+            1473
+          ]
+        ],
+        "markers": [
+          [
+            1132.5,
+            2815.6,
+            "square"
+          ],
+          [
+            1423.9,
+            2479.4,
+            "square"
+          ],
+          [
+            1777.5,
+            2184.2,
+            "square"
+          ],
+          [
+            2022.9,
+            1816.5,
+            "square"
+          ],
+          [
+            2275.9,
+            1580.9,
+            "square"
+          ]
+        ]
+      }
+    }
+  },
+  "FC-4A": {
+    "page": "p0126",
+    "series": {
+      "dr95": {
+        "angle": "53°",
+        "label": [
+          1587.5,
+          2037.5
+        ],
+        "line": [
+          [
+            925,
+            3009
+          ],
+          [
+            2378,
+            1050
+          ]
+        ],
+        "markers": [
+          [
+            1136,
+            2766.6,
+            "square"
+          ],
+          [
+            1421.5,
+            2201.5,
+            "square"
+          ],
+          [
+            1771,
+            1867,
+            "square"
+          ],
+          [
+            2034,
+            1378,
+            "square"
+          ],
+          [
+            2283,
+            1348,
+            "square"
+          ]
+        ]
+      },
+      "dr0": {
+        "angle": "43°",
+        "label": [
+          1802.5,
+          2571
+        ],
+        "line": [
+          [
+            925,
+            3440
+          ],
+          [
+            2378,
+            2080
+          ]
+        ],
+        "markers": [
+          [
+            1148.1,
+            3258.9,
+            "circle"
+          ],
+          [
+            1438.3,
+            2914.1,
+            "circle"
+          ],
+          [
+            1779.9,
+            2684.4,
+            "circle"
+          ],
+          [
+            2034.5,
+            2401.3,
+            "circle"
+          ],
+          [
+            2294,
+            2163,
+            "circle"
+          ]
+        ]
+      }
+    }
+  }
+}

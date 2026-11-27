@@ -1,0 +1,23 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,lpt27,feature,2,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 001 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,3,claude,one-sided-verified,,verified on the page by codex's adjudicator; blind adjudication item 002 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,4,claude,resolved,,both readings are on the feature; the difference is within its size (blind adjudication item 003 (Claude's adjudicator: both; Codex's: both))
+1,lpt27,feature,5,claude,resolved,,the claude reading is on the feature; credit claude (blind adjudication item 004 (Claude's adjudicator: p; Codex's: both))
+1,lpt27,feature,4,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 005 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,7,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 006 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,12,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 007 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,15,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 008 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,20,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 009 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,22,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 010 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,24,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 011 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,26,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 012 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,29,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 013 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,31,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 014 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,33,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 015 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,35,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 016 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,38,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 017 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,43,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 018 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,feature,45,codex,one-sided-verified,,verified on the page by claude's adjudicator; blind adjudication item 019 (Claude's adjudicator: yes; Codex's: yes)
+1,lpt27,trace,2,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 020 (Claude's adjudicator: all no; Codex's: all no)
+1,lpt27,trace,52,codex,one-sided-verified,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 021 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,lpt27,trace,1,claude,one-sided-verified,,"on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 001 (Claude's adjudicator: all yes; Codex's: all yes)"

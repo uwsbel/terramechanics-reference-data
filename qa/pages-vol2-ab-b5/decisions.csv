@@ -1,0 +1,32 @@
+page,diff_id,use,note
+p0098,p0098-h0,a,"numbered items of a specification sheet stay list paragraphs, not section headings"
+p0098,p0098-d1,a,numbered item kept as a list paragraph (see the header decision)
+p0098,p0098-d2,a,"measured: the dot after Special is 6 x 5 px, against about 10 x 12 px for a typed period in this type; a speck (rule 10); credit Claude"
+p0098,p0098-d3,a,the [sic] Codex placed belonged to the period it read after Special (see d2)
+p0099,p0099-h0,a,"no page number is printed; printed_page is empty rather than unknown, because the absence is known (docs/PAGE-TRANSCRIPTION.md, header fields)"
+p0099,p0099-d1,a,"the mark between modulus and of lies at the baseline, an underline remnant (rule 10, batch 3 decision 2), not a typed underscore"
+p0099,p0099-d2,text,"the second letter of scils is an open c shape on a page where many letters are broken (dctermination, complcte); both agents typed scils; Codex's doubt marker fits a damaged o better than Claude's misprint marker; credit Codex; text=[?]"
+p0100,p0100-h0,a,no page number is printed (see p0099-h0)
+p0100,p0100-d1,a,"the report title on the cover is part of the cover block, not a heading; the title is a heading once, where the report body starts (PDF 104)"
+p0101,p0101-h0,a,no page number is printed; the page map's i came from OCR of the page top (see p0099-h0)
+p0101,p0101-d1,a,"the report title on the title page is part of the title block, not a heading (see p0100-d1)"
+p0101,p0101-d2,b,"South, Bend is printed with a comma after South; a visible misprint takes [sic] (rule 10); Claude missed it; credit Codex"
+p0102,p0102-d1,b,"FOREWORD is the printed title of a part of the report, underlined and centered; a heading, as Codex wrote; credit Codex"
+p0102,p0102-d2,b,a handwritten signature is not printed text; Claude's [signature] notes were invented text; rule 10 ignores handwriting; credit Codex
+p0102,p0102-d3,b,a handwritten signature is not printed text (see d2); credit Codex
+p0102,p0102-d4,b,"IIT RESEARCH INSTITUTE at the foot of each IITRI page is the report's running footer, which rule 1 omits; Claude kept it; credit Codex"
+p0103,p0103-d1,b,"TABLE OF CONTENTS is the printed title of a part of the report; a heading, as Codex wrote; credit Codex"
+p0103,p0103-d2,b,"IIT RESEARCH INSTITUTE at the foot of each IITRI page is the report's running footer, which rule 1 omits; Claude kept it; credit Codex"
+p0104,p0104-d1,b,the report title at the start of the body is the heading over sections A to D; credit Codex
+p0104,p0104-d2,b,"IIT RESEARCH INSTITUTE at the foot of each IITRI page is the report's running footer, which rule 1 omits; Claude kept it; credit Codex"
+p0104,p0104-d3,a,"the superscript marker is printed against the author's name with no space, and rule 7 starts a footnote with its marker"
+p0104,p0104-d4,a,the superscript marker is printed against the author's name with no space (see d3)
+p0105,p0105-d1,a,"display equations may use LaTeX macros (rule 5) and every Volume I display equation writes Greek as macros (\sigma, \gamma, \phi); Claude's form kept for consistency"
+p0105,p0105-d2,b,"IIT RESEARCH INSTITUTE at the foot of each IITRI page is the report's running footer, which rule 1 omits; Claude kept it; credit Codex"
+p0106,p0106-d1,a,"display equations may use LaTeX macros (rule 5) and every Volume I display equation writes Greek as macros (\sigma, \gamma, \phi); Claude's form kept for consistency"
+p0106,p0106-d2,a,"display equations may use LaTeX macros (rule 5) and every Volume I display equation writes Greek as macros (\sigma, \gamma, \phi); Claude's form kept for consistency"
+p0106,p0106-d3,a,"display equations may use LaTeX macros (rule 5) and every Volume I display equation writes Greek as macros (\sigma, \gamma, \phi); Claude's form kept for consistency"
+p0106,p0106-d4,b,"IIT RESEARCH INSTITUTE at the foot of each IITRI page is the report's running footer, which rule 1 omits; Claude kept it; credit Codex"
+p0114,p0114-d1,a,"rule 4 puts only subscripted symbols in math; a superscript is written with the Unicode sign, as kips/in.² and Ft.³ are throughout the corpus"
+p0114,p0114-d2,a,"the 2 is the superscript of c, written ² (see d1)"
+p0113,p0113-canonical,a,"page re-read (enlarged crop u 1760-1860 v 1270-1360): the legend marker is a square with one falling diagonal, ⧅ as Codex wrote, not Claude's ⊠; credit Codex; replace: ⊠ $D_r$ = 1.04 => ⧅ $D_r$ = 1.04"

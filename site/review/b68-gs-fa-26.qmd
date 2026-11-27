@@ -1,0 +1,89 @@
+---
+title: "b68-gs-fa-26: provenance"
+---
+Provenance and review record of [b68-gs-fa-26](../experiments/b68-gs-fa-26.qmd). Written for the maintainers and the student auditors; the record page itself carries only what a user of the data needs.
+
+## Status
+
+| aspect | state |
+| --- | --- |
+| setup completeness | pending: a series whose underlying tests are not identified |
+| observations | 130 points recovered, agreed 65, one-sided 21, one-sided-verified 43, resolved 1 |
+| index row reconciliation | [resolved]{.status .status-resolved}: agreed 16, convention 1, merged 1 |
+| human audit | No human audit recorded |
+| benchmark eligibility | not yet assigned (no benchmark protocol declared) |
+
+## Recovered observations
+
+130 points (from FA-26) read by two readings made separately and reconciled (batch `curves-appa-b2`, rules `docs/CURVE-READING.md (2026-10-08)`). Values are SI; the printed-unit values and the pixel coordinates on the page image are kept beside them so every point can be checked against the scan. x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.
+
+Both readings drawn on the page image (filled circles: Claude's reading; hollow squares: Codex's; bars: pixel bounds; the canonical reading of each panel is named in the batch review). Click to enlarge.
+
+![Overlay FA-26-p1](../img/overlays/FA-26-p1.png){.lightbox}
+
+| panel | quantity (x) | quantity (y) | points |
+| --- | --- | --- | --- |
+| 1 | grain size (m, from mm) | percent finer than by weight (none, from percent) | 130 |
+
+Points by status: [agreed]{.status .status-agreed} 65, [one-sided]{.status .status-one-sided} 21, [one-sided-verified]{.status .status-one-sided-verified} 43, [resolved]{.status .status-resolved} 1; by kind: `feature` 12, `marker` 9, `trace` 109.
+
+| reader | panel | anchors | x residual rms / max (printed units) | y residual rms / max |
+| --- | --- | --- | --- | --- |
+| claude | cal-p1 | 164 | 0.00243 / 0.00559 | 0.0526 / 0.186 |
+| codex | cal-p1 | 1083 | 0.00238 / 0.00567 | 0.069 / 0.32 |
+
+: Axis calibration of each reading: affine fit on the grid intersections; residuals in the printed units.
+
+Files: [observations.csv](../files/data/experiments/b68-gs-fa-26/observations.csv), [series.json](../files/data/experiments/b68-gs-fa-26/series.json) (repository paths `data/experiments/b68-gs-fa-26/`).
+
+## Printed values (not converted)
+
+| field | as printed |
+| --- | --- |
+| state | *not reported* |
+| Dr | *not reported* |
+| unit weight, pcf | *not reported* |
+| Gp, g | *not reported* |
+| tool | *not reported* |
+| bin, inches | *not reported* |
+| rate | *not reported* |
+| start depth, inches | *not reported* |
+
+## Reconciliation record of the index row
+
+| column | status | resolution note |
+| --- | --- | --- |
+| bin_printed_in | [agreed]{.status .status-agreed} |  |
+| dr_printed | [agreed]{.status .status-agreed} |  |
+| evidence | [merged]{.status .status-merged} |  |
+| gp_printed_g | [agreed]{.status .status-agreed} |  |
+| kind | [agreed]{.status .status-agreed} |  |
+| mcc_relevant | [agreed]{.status .status-agreed} |  |
+| penetrator_printed | [agreed]{.status .status-agreed} |  |
+| priority | [agreed]{.status .status-agreed} |  |
+| rate_printed | [agreed]{.status .status-agreed} |  |
+| relation | [agreed]{.status .status-agreed} |  |
+| relation_target | [agreed]{.status .status-agreed} |  |
+| setup_status | [agreed]{.status .status-agreed} |  |
+| soil_family | [agreed]{.status .status-agreed} |  |
+| soil_no | [convention]{.status .status-convention} | A figure printed under several specifications characterizes the material, not one numbered density state; like the Volume I averages (b68-gs-f2-14-rs) it carries no soil number, and the specifications it is printed under are in the evidence and notes. Claude wrote the list, Codex the first number; decided with Codex. |
+| soil_no_status | [agreed]{.status .status-agreed} |  |
+| start_depth_printed_in | [agreed]{.status .status-agreed} |  |
+| test_type | [agreed]{.status .status-agreed} |  |
+| unit_weight_printed_pcf | [agreed]{.status .status-agreed} |  |
+
+Descriptive fields where the two readings differ in wording (the first is used on the record page):
+
+| column | Claude | Codex |
+| --- | --- | --- |
+| apparatus | sieve analysis (U.S. Std. Sieve No. axis of the chart) |  |
+
+## Notes from the two readings
+
+- Claude: Inset D50 0.42 mm (0.40-0.43); D10 0.28 mm (0.27-0.29); Cu 1.5; D95 0.6 mm (0.58-0.62). Reprinted under soils 8 and 9 (FA-30; FA-34). Table 2-3 prints mean 0.4; Cu 1.3; D95 0.52. No unused statement in the SS text.
+- Codex: Five samples; individual sample identities missing. Also specifications 8 and 9. AM-68-1 Vol. II, Fig. A-26, printed A-53, PDF 54
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `qa/audits.csv`, `data/experiments/<id>/observations.csv`, `data/experiments/<id>/series.json`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

@@ -1,0 +1,58 @@
+{
+  "F5-24": {
+    "source": "1968",
+    "title": "Figure 5-24: Footpad Penetration Depth versus Time (NASA Test No. 1) (printed 5-49, PDF 329)",
+    "rotation": 90,
+    "legend_hint": "the figure's title",
+    "series_noun": "trace",
+    "series": {"pen": {"label": "penetration depth", "symbol": "", "noun": "trace (the only line)"}},
+    "panels": {"1": {"name": "panel 1 (penetration depth)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "The penetration depth of one footpad of a 1/6-scale Lunar Module model dropped onto loose soil, against time. Printed sideways; the packet shows it turned upright. One solid line rising from the origin and leveling off. A crosshair on a grid line rather than the curve is a no."
+  },
+  "F5-25": {
+    "source": "1968",
+    "title": "Figure 5-25: Strut Axial Load versus Time (NASA Test No. 1) (printed 5-50, PDF 330)",
+    "rotation": 90,
+    "legend_hint": "each panel's axis title",
+    "series_noun": "strut",
+    "series": {
+      "strut3": {"label": "Strut No. 3", "symbol": "", "noun": "trace (the top panel)"},
+      "strut2": {"label": "Strut No. 2", "symbol": "", "noun": "trace (the middle panel)"},
+      "strut1": {"label": "Strut No. 1", "symbol": "", "noun": "trace (the bottom panel)"}
+    },
+    "panels": {
+      "1": {"name": "panel 1 (Strut No. 3, top)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "2": {"name": "panel 2 (Strut No. 2, middle)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "3": {"name": "panel 3 (Strut No. 1, bottom)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}
+    },
+    "notes_for_reviewers": "The axial loads of three struts of the model during the same drop, one solid line per panel. Printed sideways; the packet shows it turned upright. Many grid lines are dashed or dotted; a crosshair on a grid line rather than the solid curve is a no. The diagram and text at the right are not part of any curve."
+  },
+  "F5-31": {
+    "source": "1968",
+    "title": "Figure 5-31: Footpad Penetration Depth versus Time (NASA Test No. 2) (printed 5-56, PDF 336)",
+    "rotation": 90,
+    "legend_hint": "the figure's title",
+    "series_noun": "trace",
+    "series": {"pen": {"label": "penetration depth", "symbol": "", "noun": "trace (the only line)"}},
+    "panels": {"1": {"name": "panel 1 (penetration depth)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}},
+    "notes_for_reviewers": "The penetration depth of one footpad of a 1/6-scale Lunar Module model dropped onto loose soil with a horizontal velocity, against time. Printed sideways; the packet shows it turned upright. One solid line. A crosshair on a grid line rather than the curve is a no."
+  },
+  "F5-32": {
+    "source": "1968",
+    "title": "Figure 5-32: Strut Axial Load versus Time (NASA Test No. 2) (printed 5-57, PDF 337)",
+    "rotation": 90,
+    "legend_hint": "each panel's axis title",
+    "series_noun": "strut",
+    "series": {
+      "strut3": {"label": "Strut No. 3", "symbol": "", "noun": "trace (the top panel)"},
+      "strut2": {"label": "Strut No. 2", "symbol": "", "noun": "trace (the middle panel)"},
+      "strut1": {"label": "Strut No. 1", "symbol": "", "noun": "trace (the bottom panel)"}
+    },
+    "panels": {
+      "1": {"name": "panel 1 (Strut No. 3, top)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "2": {"name": "panel 2 (Strut No. 2, middle)", "x_axis": "linear", "y_axis": "linear", "has_curves": true},
+      "3": {"name": "panel 3 (Strut No. 1, bottom)", "x_axis": "linear", "y_axis": "linear", "has_curves": true}
+    },
+    "notes_for_reviewers": "The axial loads of three struts of the model during the same drop, one solid line per panel. Printed sideways; the packet shows it turned upright. Many grid lines are dashed or dotted; a crosshair on a grid line rather than the solid curve is a no. The scan is faint in places. The diagram and text at the right are not part of any curve."
+  }
+}

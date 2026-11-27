@@ -1,0 +1,229 @@
+{
+  "experiment_id": "b68-ds-f2-23-rsm-a",
+  "source": "bendix-1968-vol2",
+  "figure_id": "FC-23",
+  "batch": "curves-appc-b11",
+  "reading_rules": "docs/CURVE-READING.md (2026-10-08)",
+  "method": "two independent readings (Claude, Codex gpt-6.1-sol high) with their own axis calibrations, compared by tools/diff_curves.py; values from each reading's pixels on a piecewise map between its verified lines (D-025); canonical reading chosen by the lines checked against the ink of the page (more verified lines, then closer to the ink, then the first submission), never averaged; status agreed where the two readings matched within the sum of their bounds, resolved where a page re-read settled a disagreement (qa/<batch>/decisions*.csv), one-sided-verified where only one reading holds the point and the other agent verified it on the page, one-sided where nobody has; `source` names the reading each point comes from and whose numbering `sequence` is",
+  "panels": {
+    "1": {
+      "x_quantity": "relative density",
+      "x_unit_native": "none",
+      "x_unit_si": "none",
+      "x_factor": 1.0,
+      "y_quantity": "angle of internal friction (direct shear)",
+      "y_unit_native": "deg",
+      "y_unit_si": "deg",
+      "y_factor": 1.0
+    }
+  },
+  "calibrations": {
+    "claude": {
+      "cal-p1": {
+        "x_per_px": 0.0006441164179840843,
+        "y_per_px": 0.013067315140569814,
+        "rms_residual_x": 0.002291075861085666,
+        "rms_residual_y": 0.03877204491460607,
+        "max_residual_x": 0.005067212750640648,
+        "max_residual_y": 0.06486033302495287,
+        "n_anchors": 55,
+        "box": [
+          815,
+          1345,
+          2620,
+          3570
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/claude/curves-appc-b11/FC-23/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.86
+            },
+            {
+              "value": 0.1,
+              "location_error_px": 0.68
+            },
+            {
+              "value": 0.2,
+              "location_error_px": 0.79
+            },
+            {
+              "value": 0.3,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.4,
+              "location_error_px": 0.71
+            },
+            {
+              "value": 0.5,
+              "location_error_px": 1.63
+            },
+            {
+              "value": 0.6,
+              "location_error_px": 1.55
+            },
+            {
+              "value": 0.7,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 0.8,
+              "location_error_px": 0.65
+            },
+            {
+              "value": 0.9,
+              "location_error_px": 0.83
+            },
+            {
+              "value": 1.0,
+              "location_error_px": 0.82
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 30.0,
+              "location_error_px": 0.97
+            },
+            {
+              "value": 35.0,
+              "location_error_px": 0.66
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 1.01
+            },
+            {
+              "value": 45.0,
+              "location_error_px": 2.02
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 0.96
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    },
+    "codex": {
+      "cal-p1": {
+        "x_per_px": 0.0006441866969852025,
+        "y_per_px": 0.013068879610073159,
+        "rms_residual_x": 0.0022658133974619156,
+        "rms_residual_y": 0.038606123348271154,
+        "max_residual_x": 0.005029785689143529,
+        "max_residual_y": 0.06507716302805022,
+        "n_anchors": 55,
+        "box": [
+          900,
+          1650,
+          2530,
+          3260
+        ],
+        "map": {
+          "model": "piecewise between verified lines (D-025)",
+          "submitted_calibration": "extractions/codex/curves-appc-b11/FC-23/cal-p1",
+          "x_lines": [
+            {
+              "value": 0.0,
+              "location_error_px": 0.84
+            },
+            {
+              "value": 0.1,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.2,
+              "location_error_px": 0.57
+            },
+            {
+              "value": 0.3,
+              "location_error_px": 0.52
+            },
+            {
+              "value": 0.4,
+              "location_error_px": 1.19
+            },
+            {
+              "value": 0.5,
+              "location_error_px": 1.12
+            },
+            {
+              "value": 0.6,
+              "location_error_px": 0.95
+            },
+            {
+              "value": 0.7,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.8,
+              "location_error_px": 0.5
+            },
+            {
+              "value": 0.9,
+              "location_error_px": 0.63
+            },
+            {
+              "value": 1.0,
+              "location_error_px": 0.64
+            }
+          ],
+          "y_lines": [
+            {
+              "value": 30.0,
+              "location_error_px": 0.59
+            },
+            {
+              "value": 35.0,
+              "location_error_px": 0.68
+            },
+            {
+              "value": 40.0,
+              "location_error_px": 0.8
+            },
+            {
+              "value": 45.0,
+              "location_error_px": 1.38
+            },
+            {
+              "value": 50.0,
+              "location_error_px": 1.22
+            }
+          ],
+          "lines_not_on_the_ink": [],
+          "recovered_lines": 0
+        }
+      }
+    }
+  },
+  "points": {
+    "total": 26,
+    "by_status": {
+      "agreed": 24,
+      "one-sided-verified": 2
+    },
+    "by_kind": {
+      "feature": 2,
+      "trace": 24
+    },
+    "by_panel": {
+      "1": 26
+    }
+  },
+  "audit": {
+    "source": "qa/audits.csv (tools/ingest_review.py)",
+    "points_sampled": 0,
+    "by_pair_outcome": {},
+    "rule": "a point both reviewers answered ok has status audited (it was agreed) or confirmed (it rested on a rule, a re-read or one reading); the earlier status is in the note; any other outcome is noted and leaves the status as the readings left it; a verdict on a reading a decision has since replaced is kept as history (superseded) and not applied"
+  },
+  "bounds": "x_read_bound and y_read_bound are reading bounds in printed units: the largest change of value over the point's pixel interval on the piecewise map, plus the location error of the two lines around it (D-025; the global calibration residual is not added, see qa/<batch>/calibration-sensitivity.md for the affine difference); x_bound_si and y_bound_si are the same in SI. They are not standard deviations.",
+  "pixel_frame": "pixel_u, pixel_v refer to the unrotated 300 dpi rendering of PDF page of FC-23 (tools/render_pages.py), origin top-left, u right, v down.",
+  "printed_labels": [
+    "RSM-a"
+  ]
+}

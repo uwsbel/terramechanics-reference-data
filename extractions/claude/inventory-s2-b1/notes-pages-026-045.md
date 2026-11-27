@@ -1,0 +1,21 @@
+# Claude blind inventory notes, Vol I Section II, PDF 26 to 45 (printed 2-1 to 2-20)
+
+- 26 (2-1): text. Section II intro. 2.1.1 abbreviations begin: BC black crusher-run scoria; C.E.C. accelerometer maker.
+- 27 (2-2): text, abbreviations: Dense = 0.7 <= Dr <= 1.0; DD density determination (weighed bin); DPT dynamic penetrometer test; DST density scoop test (Selig scoop); FSIT full-scale oblique impact test; g earth 32.2 fps2, moon 5.3 fps2; GSA; INTER 0.3 <= Dr <= 0.7; LOOSE 0 <= Dr <= 0.3; LM SMS; LPT load-penetration test (bearing strength); LSM = mixture RC2 and air-floated clay (Surveyor I); MMDT min-max density test.
+- 28 (2-3): text, abbreviations: PFT passive failure test (model retaining wall, phi); PS; RC (replaced by RC2); RC2 broadly graded crusher-run andesitic scoria, same source as RS; RS; RSM-a = 5 parts RS to 7 parts crushed marble by weight; RSM-b = 1 part RS to 3 parts crushed marble by weight; SSDT subscale drag test; SSIT subscale oblique impact test; VPT visual penetration test (half cylinder against glass).
+- 29 (2-4), 30 (2-5): text 2.2 soil properties affecting dynamic strength.
+- 31 (2-6): F2-1 "Factors Considered in Two Forms (Analysis)" schematic; F2-2 "General Force-Equilibrium Relationships for Dynamic Loading" equations (schematic). Two figures on one page. Priority 3, no.
+- 32 (2-7): text.
+- 33 (2-8): F2-3 "Schematic of Dry Particulate Soil" schematic; F2-4 "Idealized Stress-Strain Curve" schematic sigma_ij vs E_ij (no units). Two figures one page. Priority 3, no.
+- 34 (2-9): F2-5 "Factors Influencing Stress-Strain Behavior of Soil" flow chart schematic; F2-6 "Magnified View of Volcanic Scoria Grains" photo with 1/8 inch scale bar. Two figures one page. Priority 3, no (F2-6 maybe 3 for grain shape context).
+- 35 (2-10): text; relation F(delta) = f(gamma, mu, S, Dr, E, C, phi); report says no strain-rate properties included (insight).
+- 36 (2-11): text, symbol definitions F, delta, gamma, mu, S, Dr, E, C, phi (symbols for glossary). 2.3 lunar soil estimates.
+- 37 (2-12): T2-1 "Estimated Lunar Soil Properties and Comparison with Range of Applicability of Force Laws from LM Soil Mechanics Study (Target)" table, rotated 90. Columns: property; estimated lunar soil characteristics from various sources (refs 17 to 29); range of applicability of force laws (target); present estimates. Rows: density (40 to 100 pcf if on earth; target 20 to 110; present 60 to 130), relative density (30 to 85 percent; 0 to <100; 50 to 100), angle of internal friction (25 to 50 deg; 25 to 50+; 35 to 45), cohesive shear strength (0 to <200 psf; 0 to <100 psf; .02 to .10 psi), mean grain size (10 to 100 mu; <70 mu to 2000 mu; 10 to 100 mu), gradational uniformity (wide; uniform to very wide; wide), elastic modulus (comparable to earth soils; blank; low), grain shape (angular; smooth to highly angular; angular), uniformity with depth. Priority 2 context, in scope yes (defines the target ranges), mcc no.
+- 38 (2-13): text.
+- 39 (2-14): T2-2 "Potential Test Soils and Preliminary Evaluation" table, upright, very small type, about 35 candidate materials with approx density pcf, approx strength range psi, failure type, comments, final selection marks (Used: Wedron 4040 silica sand, air-floated clay, pumice grey crushed fine, marble chips, volcanic cinders red crushed). Legibility poor at 150 dpi; needs 300 dpi. Priority 3, maybe.
+- 40 (2-15): text; selection rationale; refers to Appendix A for soil details; 2.5.1 types of tests.
+- 41 (2-16): T2-3 "Test Soils and Properties" rotated 90, 12 rows. Done (materials-b1).
+- 42 (2-17): F2-7 "Flow Chart Illustrating Separation of Soil Property Effects" rotated 90, schematic; names which soil pairs isolate which property (PS loose vs RS loose: bulk density; RS loose, inter, dense: Dr; SS loose, inter, dense). Priority 3, insight-worthy.
+- 43 (2-18): text 2.5.2 basic soil tests: min-max density, grain size, direct shear, sonic velocity; grain size procedure (Lambe, ASTM), shaker Soiltest CL 370C, 8 inch sieves, 20 by 20 inch trays.
+- 44 (2-19): F2-8 "Sieve Shaker" photo. no, 3.
+- 45 (2-20): F2-9 "Constant Temperature Oven" photo. no, 3.

@@ -1,0 +1,50 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+F5-32,2,strut2,trace,1,1778.0,3499.0,2.75,2.75,,origin partially merged with left frame and zero ruling
+F5-32,2,strut2,feature,2,1778.0,3499.0,2.75,2.75,,"first, origin partially merged with left frame and zero ruling"
+F5-32,2,strut2,trace,3,1767.5,3465.0,3.375,3.375,,
+F5-32,2,strut2,trace,4,1759.0,3451.0,3.375,3.375,,
+F5-32,2,strut2,feature,5,1746.05,3439.6,2.625,2.625,,"knee, initial rise steepens"
+F5-32,2,strut2,trace,6,1736.5,3433.0,3.625,3.625,,
+F5-32,2,strut2,trace,7,1732.2,3430.68,4.5,4.5,,
+F5-32,2,strut2,trace,8,1715.38,3421.22,4.125,4.125,,
+F5-32,2,strut2,trace,9,1693.25,3411.0,3.625,3.625,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,2,strut2,trace,10,1671.29,3401.45,3.375,3.375,,
+F5-32,2,strut2,trace,11,1664.66,3397.66,4.25,4.25,,
+F5-32,2,strut2,trace,12,1650.47,3388.54,2.875,2.875,,
+F5-32,2,strut2,trace,13,1640.5,3363.0,2.125,2.125,,
+F5-32,2,strut2,feature,14,1639.5,3358.0,3.125,3.125,,"peak, first peak"
+F5-32,2,strut2,trace,15,1651.0,3333.38,3.25,3.25,,
+F5-32,2,strut2,trace,16,1653.6,3328.7,3.625,3.625,,
+F5-32,2,strut2,trace,17,1671.76,3306.65,2.875,2.875,,
+F5-32,2,strut2,trace,18,1680.99,3294.92,2.875,2.875,,
+F5-32,2,strut2,feature,19,1685.5,3265.0,2.125,2.125,,"knee, minimum, first trough"
+F5-32,2,strut2,trace,20,1684.5,3259.0,3.125,3.125,,
+F5-32,2,strut2,trace,21,1680.01,3224.12,2.625,2.625,,
+F5-32,2,strut2,trace,22,1669.5,3190.0,3.125,3.125,,
+F5-32,2,strut2,trace,23,1660.5,3155.0,3.125,3.125,,
+F5-32,2,strut2,feature,24,1660.0,3152.0,2.625,2.625,,"knee, first recovery eases"
+F5-32,2,strut2,trace,25,1652.5,3072.0,2.125,2.125,,
+F5-32,2,strut2,trace,26,1633.58,2989.77,3.25,3.25,,
+F5-32,2,strut2,trace,27,1625.5,2967.0,2.125,2.125,,
+F5-32,2,strut2,feature,28,1624.02,2963.14,2.625,2.625,,"knee, second recovery eases"
+F5-32,2,strut2,trace,29,1611.5,2905.0,3.125,3.125,,
+F5-32,2,strut2,trace,30,1599.02,2819.0,2.375,2.375,,ruling or frame meets trace; measured nearby stroke thickness
+F5-32,2,strut2,trace,31,1589.5,2734.0,2.125,2.125,,
+F5-32,2,strut2,trace,32,1582.5,2649.0,3.125,3.125,,
+F5-32,2,strut2,trace,33,1576.0,2563.0,2.625,2.625,,
+F5-32,2,strut2,trace,34,1572.5,2477.0,3.125,3.125,,
+F5-32,2,strut2,feature,35,1572.38,2474.0,3.0,3.0,,"peak, small crest on upper shoulder"
+F5-32,2,strut2,trace,36,1573.0,2392.0,2.375,2.375,,
+F5-32,2,strut2,feature,37,1573.0,2372.0,2.625,2.625,,"knee, minimum, slight sag on the shoulder"
+F5-32,2,strut2,trace,38,1572.38,2307.0,3.0,3.0,,
+F5-32,2,strut2,feature,39,1570.0,2225.0,2.625,2.625,,"peak, second slight crest on the shoulder"
+F5-32,2,strut2,trace,40,1569.62,2222.0,3.0,3.0,,
+F5-32,2,strut2,trace,41,1570.0,2138.0,2.625,2.625,,
+F5-32,2,strut2,trace,42,1571.5,2052.0,2.125,2.125,,
+F5-32,2,strut2,feature,43,1573.0,1976.0,2.375,2.375,,"knee, minimum, shallow dip before the terminal rise"
+F5-32,2,strut2,trace,44,1573.0,1967.0,2.375,2.375,,
+F5-32,2,strut2,trace,45,1568.5,1882.0,2.125,2.125,,
+F5-32,2,strut2,trace,46,1557.5,1797.0,3.125,3.125,,
+F5-32,2,strut2,trace,47,1547.5,1744.0,1.125,1.125,,free tip beyond .10 s
+F5-32,2,strut2,feature,48,1547.5,1744.0,1.125,1.125,,"peak, terminal maximum, free tip beyond .10 s"
+F5-32,2,strut2,feature,49,1547.5,1744.0,1.125,1.125,,"last, free tip beyond .10 s"

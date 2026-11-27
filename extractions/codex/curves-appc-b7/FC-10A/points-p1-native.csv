@@ -1,0 +1,20 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_target_psf,x_unit,y_unit,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-10A,1,ps-loose,marker,1,838.333,3425.0,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,708.013,1076.575,9.462,18.843,piecewise
+FC-10A,1,ps-loose,marker,2,1041.333,3185.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,1416.502,1883.817,10.389,19.185,piecewise
+FC-10A,1,ps-loose,marker,3,1248.333,2944.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,2143.099,2697.766,11.121,18.955,piecewise
+FC-10A,1,ps-loose,marker,4,1460.333,2762.667,2,5,triangle-up,Triangle centroid from reconstructed vertices.,,psf,psf,2884.832,3314.525,9.825,19.074,piecewise
+FC-10A,1,ps-loose,marker,5,1670.333,2574.333,5,8,triangle-up,Triangle centroid from reconstructed vertices. 400.00 horizontal grid line crosses apex; centroid reconstructed.,,psf,psf,3613.661,3956.847,19.927,29.581,piecewise
+FC-10A,1,ps-loose,marker,6,1882.333,2390.333,16.5,13.0,triangle-up,Triangle centroid from reconstructed vertices. Left side merges with rounded fit-line endpoint; widened to half symbol extent.,,psf,psf,4348.443,4588.221,59.469,47.922,piecewise
+FC-10A,1,ps-loose,trace,1,632.714,3596.744,8.109,8.0,,first point; line begins on zero axis; centre of short diagonal stroke meeting axis ink,,psf,psf,0.0,508.241,30.275,29.04,piecewise extrapolated x
+FC-10A,1,ps-loose,trace,2,777.58,3453.5,9.123,9.0,,,500,psf,psf,499.999,981.951,33.823,32.319,piecewise
+FC-10A,1,ps-loose,trace,3,922.439,3312.438,8.109,8.0,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,1000,psf,psf,1000.0,1456.65,30.942,29.414,piecewise
+FC-10A,1,ps-loose,trace,4,1065.332,3170.5,7.095,7.0,,,1500,psf,psf,1499.999,1934.589,28.214,26.181,piecewise
+FC-10A,1,ps-loose,trace,5,1208.232,3029.771,8.109,8.0,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,2000,psf,psf,1999.999,2409.158,32.536,29.521,piecewise
+FC-10A,1,ps-loose,trace,6,1350.871,2889.0,7.602,7.5,,,2500,psf,psf,2499.999,2883.92,30.0,27.582,piecewise
+FC-10A,1,ps-loose,trace,7,1493.445,2746.708,8.109,8.0,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,3000,psf,psf,2999.999,3368.425,30.912,29.645,piecewise
+FC-10A,1,ps-loose,trace,8,1637.531,2604.0,7.602,7.5,,,3500,psf,psf,3499.999,3855.673,28.782,27.941,piecewise
+FC-10A,1,ps-loose,trace,9,1781.712,2466.064,8.109,8.0,,Diagonal stroke centre reconstructed from adjacent ink at grid crossing; grid thickness excluded from bound.,4000,psf,psf,4000.001,4328.723,30.591,30.099,piecewise
+FC-10A,1,ps-loose,trace,10,1868.0,2377.0,8.109,8.0,,last point; peak of monotonically increasing straight trace; rounded cap is left of final triangle apex; triangle outline excluded,,psf,psf,4300.16,4635.066,30.493,30.261,piecewise
+FC-10A,1,ps-loose,feature,1,632.714,3596.744,8.109,8.0,,first point,,psf,psf,0.0,508.241,30.275,29.04,piecewise extrapolated x
+FC-10A,1,ps-loose,feature,2,1868.0,2377.0,8.109,8.0,,last point; peak of monotonically increasing straight trace; rounded cap is left of final triangle apex; triangle outline excluded,,psf,psf,4300.16,4635.066,30.493,30.261,piecewise
+FC-10A,1,ps-loose,feature,3,632.714,3596.744,8.109,8.0,,intercept,,psf,psf,0.0,508.241,30.275,29.04,piecewise extrapolated x

@@ -1,0 +1,117 @@
+{
+ "thickness_v_px": 6.0,
+ "n_thick": 248,
+ "dashes": [
+  {
+   "u_start": 893,
+   "v_start": 2385.5,
+   "start_hidden": true,
+   "u_end": 2280,
+   "v_end": 2967.3,
+   "end_hidden": true,
+   "occ_before_start": 8,
+   "occ_after_end": 10
+  }
+ ],
+ "gridline_crossings": [
+  {
+   "x": 0.0,
+   "u": 889.1,
+   "v": 2384.0,
+   "local_slope": 0.3734,
+   "fit_halfwidth": 40,
+   "states_left": "oooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.1,
+   "u": 1029.1,
+   "v": 2441.9,
+   "local_slope": 0.4252,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.2,
+   "u": 1168.0,
+   "v": 2500.2,
+   "local_slope": 0.4244,
+   "fit_halfwidth": 40,
+   "states_left": "ooooooiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.3,
+   "u": 1309.3,
+   "v": 2559.7,
+   "local_slope": 0.4106,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.4,
+   "u": 1446.3,
+   "v": 2617.5,
+   "local_slope": 0.4299,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiioo",
+   "states_right": "oooooiiiiiiwwoo"
+  },
+  {
+   "x": 0.5,
+   "u": 1585.4,
+   "v": 2675.7,
+   "local_slope": 0.4294,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.6,
+   "u": 1725.6,
+   "v": 2734.5,
+   "local_slope": 0.4211,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiwwooi"
+  },
+  {
+   "x": 0.7,
+   "u": 1866.9,
+   "v": 2793.8,
+   "local_slope": 0.4086,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiiii"
+  },
+  {
+   "x": 0.8,
+   "u": 2006.3,
+   "v": 2852.0,
+   "local_slope": 0.4282,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiooooo",
+   "states_right": "oooowwiiiiiiiii"
+  },
+  {
+   "x": 0.9,
+   "u": 2145.8,
+   "v": 2910.1,
+   "local_slope": 0.4158,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiooo",
+   "states_right": "ooooiiiiiiiiioo"
+  },
+  {
+   "x": 1.0,
+   "u": 2283.3,
+   "v": 2968.7,
+   "local_slope": 0.4072,
+   "fit_halfwidth": 40,
+   "states_left": "iiiiiiiiiiiioo",
+   "states_right": "ooooooow"
+  }
+ ]
+}

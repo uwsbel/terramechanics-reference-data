@@ -1,0 +1,146 @@
+{
+  "F2-29": {
+    "counts": {
+      "lpt27": {
+        "trace": 33,
+        "feature": 21,
+        "marker": 0
+      }
+    },
+    "affine_rms_x_in": 0.006155073254056388,
+    "affine_rms_y_lb": 0.7965225252677859,
+    "eye_checks": {
+      "x": [
+        "0",
+        "4",
+        "8"
+      ],
+      "y": [
+        "0",
+        "600",
+        "1200"
+      ]
+    },
+    "verified_x_lines": 9,
+    "verified_y_lines": 7,
+    "total_points": 54
+  },
+  "F2-32": {
+    "counts": {
+      "lpt93": {
+        "trace": 28,
+        "feature": 5,
+        "marker": 0
+      },
+      "lpt53": {
+        "trace": 21,
+        "feature": 5,
+        "marker": 0
+      },
+      "lpt52": {
+        "trace": 25,
+        "feature": 4,
+        "marker": 0
+      },
+      "fit": {
+        "trace": 10,
+        "feature": 2,
+        "marker": 0
+      }
+    },
+    "affine_rms_x_in": 0.009686346147821163,
+    "affine_rms_y_lb": 0.07435099965420602,
+    "eye_checks": {
+      "x": [
+        "0",
+        "4",
+        "9"
+      ],
+      "y": [
+        "0",
+        "30",
+        "70"
+      ]
+    },
+    "verified_x_lines": 10,
+    "verified_y_lines": 8,
+    "total_points": 100
+  },
+  "F2-33": {
+    "counts": {
+      "lpt74": {
+        "trace": 18,
+        "feature": 9,
+        "marker": 0
+      },
+      "lpt75": {
+        "trace": 10,
+        "feature": 8,
+        "marker": 0
+      },
+      "fit": {
+        "trace": 6,
+        "feature": 2,
+        "marker": 0
+      },
+      "bce": {
+        "trace": 7,
+        "feature": 2,
+        "marker": 0
+      }
+    },
+    "affine_rms_x_in": 0.009956724782944695,
+    "affine_rms_y_lb": 3.5322475927668737,
+    "eye_checks": {
+      "x": [
+        "0",
+        "3",
+        "5"
+      ],
+      "y": [
+        "0",
+        "1000",
+        "2500"
+      ]
+    },
+    "verified_x_lines": 6,
+    "verified_y_lines": 6,
+    "total_points": 62
+  },
+  "F2-34": {
+    "counts": {
+      "lpt87": {
+        "trace": 26,
+        "feature": 6,
+        "marker": 0
+      },
+      "lpt88": {
+        "trace": 25,
+        "feature": 7,
+        "marker": 0
+      },
+      "fit": {
+        "trace": 8,
+        "feature": 2,
+        "marker": 0
+      }
+    },
+    "affine_rms_x_in": 0.009165096830099593,
+    "affine_rms_y_lb": 1.4809501601598474,
+    "eye_checks": {
+      "x": [
+        "0",
+        "3",
+        "6"
+      ],
+      "y": [
+        "0",
+        "600",
+        "1200"
+      ]
+    },
+    "verified_x_lines": 7,
+    "verified_y_lines": 7,
+    "total_points": 74
+  }
+}

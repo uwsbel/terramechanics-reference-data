@@ -1,0 +1,85 @@
+experiment_id,series_id,panel,point_kind,sequence,x_si,y_si,x_bound_si,y_bound_si,x_native,y_native,x_read_bound,y_read_bound,x_unit_native,y_unit_native,pixel_u,pixel_v,status,source,note
+b68-ds-fc-6b-n734,n734,1,feature,1,0.00034115,19046.623382,6.922e-06,1016.450018,13.4311,397.797,0.2725,21.229,mil,psf,726,1982.0,agreed,claude,first point of the drawn line (where its ink starts)
+b68-ds-fc-6b-n734,n734,1,feature,2,0.002611577,20106.261393,0.00133347,1105.076377,102.818,419.928,52.4988,23.08,mil,psf,1262.5,1975.3,agreed,claude,"peak of the drawn line (minimum v); flat top: the line stays within 1 px of its highest level from u 967 to 1558, so u is not an observation"
+b68-ds-fc-6b-n734,n734,1,feature,3,0.006112982,16689.14307,9.017e-06,1102.682364,240.6686,348.56,0.355,23.03,mil,psf,2059.0,1996.5,agreed,claude,"last point of the drawn line (where its ink ends, against the last marker)"
+b68-ds-fc-6b-n734,n734,1,marker,1,0.000285938,19397.58568,1.0808e-05,458.357719,11.2574,405.127,0.4255,9.573,mil,psf,712.2,1979.8,agreed,claude,first marker
+b68-ds-fc-6b-n734,n734,1,marker,2,0.000726788,19889.890503,1.1283e-05,459.028043,28.6137,415.409,0.4442,9.587,mil,psf,822.3,1976.7,audited,claude,"audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,1,marker,3,0.001194415,19967.695924,1.1788e-05,459.363205,47.0242,417.034,0.4641,9.594,mil,psf,939.1,1976.2,agreed,claude,right arm close to the 50 gridline | audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,1,marker,4,0.001693738,19917.900454,1.2377e-05,459.602606,66.6826,415.994,0.4873,9.599,mil,psf,1054.3,1976.5,agreed,claude,audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,1,marker,5,0.00219518,18589.65419,1.158e-05,458.932282,86.4244,388.253,0.4559,9.585,mil,psf,1168.3,1984.8,agreed,claude,left arm touches the end of a line dash; sits below the drawn line
+b68-ds-fc-6b-n734,n734,1,marker,6,0.002947655,18249.704351,1.1946e-05,459.123803,116.0494,381.153,0.4703,9.589,mil,psf,1336.9,1986.9,agreed,claude,sits below the drawn line
+b68-ds-fc-6b-n734,n734,1,marker,7,0.003503968,19014.783009,1.2786e-05,459.985648,137.9515,397.132,0.5034,9.607,mil,psf,1460.0,1982.1,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,marker,8,0.004018448,18003.216778,1.2388e-05,459.554726,158.2066,376.005,0.4877,9.598,mil,psf,1575.9,1988.4,audited,claude,"sits below the drawn line | audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,1,marker,9,0.0045371,18368.591034,1.1638e-05,460.129289,178.626,383.636,0.4582,9.61,mil,psf,1695.7,1986.1,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,marker,10,0.005069931,16585.242908,1.5202e-05,459.219564,199.6036,346.39,0.5985,9.591,mil,psf,1818.8,1997.2,agreed,claude,vertical bar hidden in the 200 gridline; u from the horizontal bar
+b68-ds-fc-6b-n734,n734,1,marker,11,0.005531518,16677.747569,1.1943e-05,459.506845,217.7763,348.322,0.4702,9.597,mil,psf,1925.1,1996.6,confirmed,claude,"decision: the claude reading is on the symbol center; credit claude (blind adjudication item 201 (Claude's adjudicator: q; Codex's: q)) | audit: confirmed by R2 (W2-04), R4 (W6-09); was resolved"
+b68-ds-fc-6b-n734,n734,1,marker,12,0.006296134,15932.730739,1.3716e-05,459.411085,247.8793,332.762,0.54,9.595,mil,psf,2101.2,2001.2,agreed,claude,last marker; right arm touches the 250 gridline | audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,1,trace,1,0.00034115,19046.623382,6.922e-06,1016.450018,13.4311,397.797,0.2725,21.229,mil,psf,726,1982.0,one-sided-verified,claude,"first ink of the line: the first dash starts against the right arm of the first plus | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 041 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6b-n734,n734,1,trace,2,0.000401211,19078.176472,7e-06,1176.130682,15.7957,398.456,0.2756,24.564,mil,psf,741,1981.8,one-sided-verified,claude,"filler sample read from the column scan, to keep the spacing under 5 thousandths after the hand-read first point | decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 041 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6b-n734,n734,1,trace,3,0.000457297,19396.771716,7.069e-06,1256.234355,18.0038,405.11,0.2783,26.237,mil,psf,755.0,1979.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,4,0.000549389,19476.061424,7.148e-06,1096.840973,21.6295,406.766,0.2814,22.908,mil,psf,778.0,1979.3,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,5,0.000637477,19555.351133,7.249e-06,1176.848885,25.0975,408.422,0.2854,24.579,mil,psf,800.0,1978.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,6,0.000837667,19650.154046,7.45e-06,1097.415536,32.979,410.402,0.2933,22.92,mil,psf,850.0,1978.2,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,7,0.000929759,19761.379888,7.534e-06,937.974273,36.6047,412.725,0.2966,19.59,mil,psf,873.0,1977.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,8,0.001017839,19760.996846,7.628e-06,938.117914,40.0724,412.717,0.3003,19.593,mil,psf,895.0,1977.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,9,0.001109927,19808.494062,7.724e-06,938.261555,43.6979,413.709,0.3041,19.596,mil,psf,918.0,1977.2,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,10,0.001322888,20031.041506,8.611e-06,1178.285293,52.0822,418.357,0.339,24.609,mil,psf,970.0,1975.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,11,0.001415273,20030.706344,8.463e-06,1178.428934,55.7194,418.35,0.3332,24.612,mil,psf,991.0,1975.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,12,0.001503258,20046.363189,8.324e-06,1178.572575,59.1834,418.677,0.3277,24.615,mil,psf,1011.0,1975.7,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,13,0.001595641,20030.036021,8.169e-06,1098.804063,62.8205,418.336,0.3216,22.949,mil,psf,1032.0,1975.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,14,0.001837606,20077.102315,7.783e-06,1099.187105,72.3467,419.319,0.3064,22.957,mil,psf,1087.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,15,0.001912396,20124.743173,7.663e-06,1099.330746,75.2912,420.314,0.3017,22.96,mil,psf,1104.0,1975.2,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,16,0.001973981,20044.6395,7.564e-06,1099.330746,77.7158,418.641,0.2978,22.96,mil,psf,1118.0,1975.7,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,17,0.002039971,20076.336231,7.46e-06,1099.474387,80.3138,419.303,0.2937,22.963,mil,psf,1133.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,18,0.00210596,20076.09683,7.353e-06,1099.570147,82.9118,419.298,0.2895,22.965,mil,psf,1148.0,1975.5,audited,claude,"audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,1,trace,19,0.002317125,20075.378626,7.018e-06,1099.857429,91.2254,419.283,0.2763,22.971,mil,psf,1196.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,20,0.002405108,20027.067445,6.876e-06,1099.95319,94.6893,418.274,0.2707,22.973,mil,psf,1216.0,1975.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,21,0.0024887,20074.756183,6.744e-06,1100.09683,97.9803,419.27,0.2655,22.976,mil,psf,1235.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,22,0.002591239,20074.373141,6.922e-06,1100.240471,102.0173,419.262,0.2725,22.979,mil,psf,1258.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,23,0.002677099,20074.085859,7.054e-06,1100.336232,105.3976,419.256,0.2777,22.981,mil,psf,1277.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,24,0.00276748,20073.750697,7.191e-06,1100.479872,108.9559,419.249,0.2831,22.984,mil,psf,1297.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,25,0.002853334,19993.503383,7.328e-06,1180.535665,112.336,417.573,0.2885,24.656,mil,psf,1316.0,1976.0,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,26,0.00307025,20072.697332,7.656e-06,1100.862914,120.876,419.227,0.3014,22.992,mil,psf,1364.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,27,0.003156113,20072.41005,7.788e-06,1101.006555,124.2564,419.221,0.3066,22.995,mil,psf,1383.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,28,0.003241972,20072.074888,7.92e-06,1101.102316,127.6367,419.214,0.3118,22.997,mil,psf,1402.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,29,0.003323313,20071.787607,8.044e-06,1101.198076,130.8391,419.208,0.3167,22.999,mil,psf,1420.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,30,0.003409173,20071.500325,8.176e-06,1101.341717,134.2194,419.202,0.3219,23.002,mil,psf,1439.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,31,0.003598969,20070.830001,8.468e-06,1101.581118,141.6917,419.188,0.3334,23.007,mil,psf,1481.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,32,0.00368031,20070.54272,8.593e-06,1101.676879,144.8941,419.182,0.3383,23.009,mil,psf,1499.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,33,0.003757132,20070.255438,8.712e-06,1101.82052,147.9186,419.176,0.343,23.012,mil,psf,1516.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,34,0.003858918,20069.920277,8.349e-06,1101.91628,151.9259,419.169,0.3287,23.014,mil,psf,1539.0,1975.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,35,0.003928168,19989.577202,8.255e-06,1182.115714,154.6523,417.491,0.325,24.689,mil,psf,1555.0,1976.0,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,36,0.004157571,19796.476117,7.922e-06,1262.458789,163.6839,413.458,0.3119,26.367,mil,psf,1608.0,1977.2,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,37,0.004252798,19748.021295,7.78e-06,1262.602429,167.433,412.446,0.3063,26.37,mil,psf,1630.0,1977.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,38,0.004352346,19587.383027,7.62e-06,1102.299322,171.3522,409.091,0.3,23.022,mil,psf,1653.0,1978.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,39,0.004447578,19586.999984,7.478e-06,1102.442963,175.1015,409.083,0.2944,23.025,mil,psf,1675.0,1978.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,40,0.004633707,19425.930793,7.203e-06,1102.586604,182.4294,405.719,0.2836,23.028,mil,psf,1718.0,1979.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,41,0.004715955,19425.547751,7.082e-06,1102.682364,185.6675,405.711,0.2788,23.03,mil,psf,1737.0,1979.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,42,0.004798182,19104.510615,6.96e-06,1102.586604,188.9048,399.006,0.274,23.028,mil,psf,1756.0,1981.5,audited,claude,"audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,1,trace,43,0.00488476,19104.079692,6.833e-06,1102.682364,192.3134,398.997,0.269,23.03,mil,psf,1776.0,1981.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,44,0.004967003,18975.425436,6.713e-06,1182.929678,195.5513,396.31,0.2643,24.706,mil,psf,1795.0,1982.3,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,45,0.005162062,18621.542442,6.764e-06,1102.730245,203.2308,388.919,0.2663,23.031,mil,psf,1840.0,1984.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,46,0.00524892,18540.864206,6.975e-06,1183.073319,206.6504,387.234,0.2746,24.709,mil,psf,1860.0,1985.0,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,47,0.005340121,18460.138089,7.188e-06,1102.873885,210.241,385.548,0.283,23.034,mil,psf,1881.0,1985.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,48,0.005426964,18138.717911,7.394e-06,1102.778125,213.66,378.835,0.2911,23.032,mil,psf,1901.0,1987.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,49,0.005622381,17928.858736,7.856e-06,1102.873885,221.3536,374.452,0.3093,23.034,mil,psf,1946.0,1988.8,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,50,0.005722244,17655.366696,8.092e-06,1102.826005,225.2852,368.74,0.3186,23.033,mil,psf,1969.0,1990.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,51,0.005817771,17494.201745,8.319e-06,1102.826005,229.0461,365.374,0.3275,23.033,mil,psf,1991.0,1991.5,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,52,0.005917621,17172.398524,8.555e-06,1102.730245,232.9772,358.653,0.3368,23.031,mil,psf,2014.0,1993.5,audited,claude,"audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,1,trace,53,0.00601315,17091.385126,8.791e-06,1183.16908,236.7382,356.961,0.3461,24.711,mil,psf,2036.0,1994.0,agreed,claude,
+b68-ds-fc-6b-n734,n734,1,trace,54,0.006112982,16689.14307,9.017e-06,1102.682364,240.6686,348.56,0.355,23.03,mil,psf,2059.0,1996.5,one-sided-verified,claude,"| decision: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 042 (Claude's adjudicator: all yes; Codex's: all yes)"
+b68-ds-fc-6b-n734,n734,1,trace,78,0.006121291,16849.446177,8.473e-06,920.64162,240.9957,351.908,0.3336,19.228,mil,psf,2061,1995.5,confirmed,codex,"Column dark-run center; guide used only to select ink. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 202 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R1 (W2-03), R3 (W2-03); was one-sided-verified"
+b68-ds-fc-6b-n734,n734,1,trace,79,0.00612997,16849.350417,8.486e-06,920.64162,241.3374,351.906,0.3341,19.228,mil,psf,2063,1995.5,confirmed,codex,"Drawn-line ink endpoint; independently checked on endpoint crop and pixel ink audit. | decision: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 202 (Claude's adjudicator: all yes; Codex's: all yes) | audit: confirmed by R1 (W2-03), R3 (W2-03); was one-sided-verified"
+b68-ds-fc-6b-n734,n734,2,marker,1,2.74e-07,-0.001807,1.5197e-05,2.2e-05,0.0108,-71.1539,0.5983,0.8693,mil,mil,643.8,2600.7,agreed,claude,on the left frame; vertical bar hidden in the frame line
+b68-ds-fc-6b-n734,n734,2,marker,2,0.000324297,-0.001819,1.0861e-05,2.2e-05,12.7676,-71.5982,0.4276,0.869,mil,mil,724.6,2602.1,agreed,claude,
+b68-ds-fc-6b-n734,n734,2,marker,3,0.000782251,-0.00184,1.0475e-05,2.2e-05,30.7973,-72.4364,0.4124,0.8689,mil,mil,838.8,2604.7,agreed,claude,
+b68-ds-fc-6b-n734,n734,2,marker,4,0.001264712,-0.001836,1.4928e-05,2.2e-05,49.7918,-72.2914,0.5877,0.8694,mil,mil,959.1,2604.4,audited,claude,"on the 50 gridline | audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,2,marker,5,0.001736326,-0.00188,1.1041e-05,2.2e-05,68.3593,-74.012,0.4347,0.8689,mil,mil,1066.3,2609.6,audited,claude,"audit: confirmed by R1 (W2-03), R3 (W2-03); was agreed"
+b68-ds-fc-6b-n734,n734,2,marker,6,0.002251685,-0.001893,1.1041e-05,2.2e-05,88.649,-74.545,0.4347,0.8689,mil,mil,1183.3,2611.3,agreed,claude,
+b68-ds-fc-6b-n734,n734,2,marker,7,0.002799433,-0.001855,1.1527e-05,2.2e-05,110.2139,-73.0455,0.4538,0.8692,mil,mil,1306.3,2607.0,agreed,claude,audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,2,marker,8,0.003281665,-0.001863,1.1938e-05,2.2e-05,129.1994,-73.3453,0.47,0.8692,mil,mil,1413.3,2608.0,agreed,claude,
+b68-ds-fc-6b-n734,n734,2,marker,9,0.003810272,-0.001883,1.6858e-05,2.2e-05,150.0107,-74.1151,0.6637,0.8695,mil,mil,1530.6,2610.4,agreed,claude,on the 150 gridline | audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,2,marker,10,0.004328782,-0.001872,1.1486e-05,2.2e-05,170.4245,-73.6997,0.4522,0.8693,mil,mil,1650.2,2609.3,agreed,claude,
+b68-ds-fc-6b-n734,n734,2,marker,11,0.004819086,-0.001876,1.1082e-05,2.2e-05,189.7278,-73.8619,0.4363,0.8693,mil,mil,1763.3,2609.9,agreed,claude,a short stray dash to its right (u 1773 to 1810) is not a drawn line | audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,2,marker,12,0.005562422,-0.001862,1.1374e-05,2.2e-05,218.993,-73.292,0.4478,0.8695,mil,mil,1935.3,2608.4,agreed,claude,audit: single (ok) by R3 (W2-02)
+b68-ds-fc-6b-n734,n734,2,marker,13,0.006337676,-0.001862,1.6604e-05,2.2e-05,249.5148,-73.2947,0.6537,0.87,mil,mil,2115.0,2608.6,agreed,claude,on the 250 gridline

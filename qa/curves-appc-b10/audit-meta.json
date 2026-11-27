@@ -1,0 +1,154 @@
+{
+  "FC-16": {
+    "source": "1968-vol2",
+    "title": "Figure C-16: Angle of Internal Friction vs. Relative Density (printed C-38, PDF 152)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for RS soil (red crushed volcanic scoria). The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The solid curve runs through the middle; the two dashed curves run above and below it. The short horizontal joining lines are not curves. Circles at the right edge can be cut by the frame. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  },
+  "FC-17": {
+    "source": "1968-vol2",
+    "title": "Figure C-17: Angle of Internal Friction vs. Relative Density (printed C-39, PDF 153)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for PS soil (white crushed pumice). The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The solid curve runs through the middle; the two dashed curves run above and below it. The short horizontal joining lines are not curves. Circles at the right edge can be cut by the frame. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  },
+  "FC-18": {
+    "source": "1968-vol2",
+    "title": "Figure C-18: Angle of Internal Friction vs. Relative Density (printed C-40, PDF 154)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for RSM-a soil (crushed scoria mixed with crushed marble). The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The solid curve runs through the middle; the two dashed curves run above and below it. The short horizontal joining lines are not curves. Circles at the right edge can be cut by the frame. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  },
+  "FC-19": {
+    "source": "1968-vol2",
+    "title": "Figure C-19: Angle of Internal Friction vs. Relative Density (printed C-41, PDF 155)",
+    "rotation": 0,
+    "legend_hint": "the open circles are the only symbols on this figure",
+    "series_noun": "curve",
+    "series": {
+      "data": {
+        "label": "measured friction angles",
+        "symbol": "circle",
+        "noun": ""
+      },
+      "mean": {
+        "label": "solid middle curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "upper": {
+        "label": "upper dashed curve",
+        "symbol": "",
+        "noun": ""
+      },
+      "lower": {
+        "label": "lower dashed curve",
+        "symbol": "",
+        "noun": ""
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "panel 1 (angle of internal friction)",
+        "x_axis": "normalized",
+        "y_axis": "linear",
+        "has_curves": true
+      }
+    },
+    "notes_for_reviewers": "Angle of internal friction from direct shear tests (degrees) against relative density Dr for RC2 soil (broadly graded crushed scoria). The open circles are measured friction angles; two circles joined by a short horizontal line are one angle measured over a range of Dr, and each of the two circles counts as a symbol. The solid curve runs through the middle; the two dashed curves run above and below it. The short horizontal joining lines are not curves. Circles at the right edge can be cut by the frame. On a dashed curve, a crosshair in a white gap between dashes is a no."
+  }
+}

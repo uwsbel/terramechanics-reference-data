@@ -1,0 +1,19 @@
+## Observations
+
+All 69 indexed items were visually inspected, including every sideways figure after rotation. Source: [AM-68-1, Volume I, May 1, 1968](<repository>/nasa-reports/1968-nasa-LunarModule-SoilMechanicsStudy.pdf). The CSV’s identifiers and printed/PDF page columns locate each observation. Prose-only pages were not comprehensively reviewed; PDF 126 was specifically inspected to resolve Figure 2-60’s soil identity.
+
+- **Best calibration material:** the paired shear-stress and normal-displacement measurements constrain strength and contraction/dilation together. The friction-versus-density curves extend coverage across families. These are my first choices for assessing the baseline rheology. [AM-68-1 Vol. I, Fig. 2-21, printed 2-43, PDF 68; Fig. 2-23, printed 2-46, PDF 71.]
+
+- **Best prediction material:** the cylinder/footpad comparisons test geometry transfer, while the three DPT signatures test transient response beyond peak force or acceleration. Keep these separate from whichever measurements are used for fitting. [AM-68-1 Vol. I, Figs. 2-45 through 2-48, printed 2-81 through 2-84, PDF 106 through 109; Fig. 2-54, printed 2-92, PDF 117.]
+
+- **Most relevant to MCC and history:** the compaction-duration experiment, reused-soil grain-size distributions, and density evolution across successive tests. My interpretation is that grain crushing and handling-induced gradation changes must be separated from constitutive compaction; these figures do not establish that MCC alone will explain the changes. [AM-68-1 Vol. I, Fig. 2-18, printed 2-39, PDF 64; Figs. 2-56 through 2-58, printed 2-95 through 2-97, PDF 120 through 122; Fig. 2-60, printed 2-102, PDF 127.]
+
+- **Misleading titles:** “Direct Shear Test Measurement” is a photograph; “Grain Size (Sieve) Analysis” is a worksheet; the footpad-results figure includes a cylinder; and “SS Drag Tests” in Figure 2-60 concerns subscale tests on **RS**, not SS soil. [AM-68-1 Vol. I, Fig. 2-19, printed 2-41, PDF 66; Fig. 2-12, printed 2-23, PDF 48; Fig. 2-50, printed 2-86, PDF 111; Fig. 2-60, printed 2-102, PDF 127, with explanation printed 2-101, PDF 126.]
+
+- **Index discrepancies:** Figure 2-13’s index references Figure 2-5, while its caption references Figure 2-12. Figure 2-56’s index says “LS SMS,” while the caption says “LM SMS.” Figure 2-47’s printed number resembles “2-41,” possibly from damage to the final digit. Captions also contain wording omitted by the index for Figures 2-1, 2-23, 2-24, 2-35 and Table 2-1. I found no indexed page-location mismatch. [AM-68-1 Vol. I, lists, PDF 8, 9 and 14; corresponding locations in CSV.]
+
+- **Reading limitations:** no complete item remained unreadable. Local uncertainties remain in Table 2-2’s small type, Figure 2-12’s handwriting, Figure 2-47’s number, Figure 2-49’s unlabeled line, and the overlapping unused-range boundaries in Figures 2-57 and 2-58. Several photographs are poor enough that dimensions should not be inferred from them. The apparent Figure 2-34 multiplier and Figure 2-51 ordinate-label anomaly require reconciliation before numerical extraction. [AM-68-1 Vol. I, corresponding identifiers and page locators in CSV.]
+
+Counts treat markers and their following fitted line as one response series; separate analytical lines are counted separately, while construction guides are excluded. `author-fit` also identifies visibly smoothed/redrawn empirical curves whose precise fitting procedure is not established by the image. The reciprocal-density ordinates in Figures 2-15 and 2-17 require an axis-type exception, recorded as `n/a` rather than incorrectly calling them linear or logarithmic.
+
+Correction to the CSV text: in F2-56, apparatus should read `sieve;soil vacuum handling system`; the extra initial `n` in `nsoil` is a transcription typo.

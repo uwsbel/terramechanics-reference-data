@@ -1,0 +1,11 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FC-23,1,x,feature,1,1094,2213,0,0,,rc2-ps
+FC-23,1,x,feature,2,1850,2024,0,0,,rs-rsmb
+FC-23,1,x,feature,3,1984,1931,0,0,,ps-rsmb
+FC-23,1,x,feature,4,2430,1801,0,0,,rs-ps
+FC-23,1,x,feature,5,1000,2240,0,0,,rc2ps overlap start
+FC-23,1,x,feature,6,1160,2190,0,0,,rc2ps overlap end
+FC-23,1,x,feature,7,1814,2050,0,0,,rs-rsmb join start
+FC-23,1,x,feature,8,1906,2003,0,0,,rs-rsmb join end
+FC-23,1,x,feature,9,2405,1806,0,0,,rs-ps join start
+FC-23,1,x,feature,10,2468,1791,0,0,,rs-ps join end

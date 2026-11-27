@@ -1,0 +1,216 @@
+{
+ "image": "../../packet/p0109.png",
+ "box": [
+  500,
+  780,
+  2580,
+  3980
+ ],
+ "method": "ticks on a frame without grid lines (reader's helper tick_cal.py); frames are knots only where a printed label sits on them",
+ "model": "x = ax[0]*u + ax[1]*v + ax[2]; y = ay[0]*u + ay[1]*v + ay[2] (affine, least squares on the tick and frame anchors, per axis)",
+ "ax": [
+  0.007133556814291318,
+  2.037294600865428e-05,
+  -3.9911337890429444
+ ],
+ "ay": [
+  1.69815732516025e-05,
+  -0.003565467942008646,
+  20.956719908006963
+ ],
+ "x_per_px": 0.007133585906095977,
+ "y_per_px": 0.003565508381608641,
+ "rms_residual_x": 0.0060158416794758125,
+ "rms_residual_y": 0.005130771352897391,
+ "max_residual_x": 0.03413196234661342,
+ "max_residual_y": 0.025658321721753197,
+ "n_anchors": 482,
+ "vertical_lines": [
+  {
+   "x_value": 0,
+   "slope_du_dv": -0.003287180121413307,
+   "u_at_v0": 560.5908980075733,
+   "source": "frame left, measured at 132 rows, rms 0.47 px"
+  },
+  {
+   "x_value": 2,
+   "slope_du_dv": -0.016092603049116267,
+   "u_at_v0": 888.3212874082104,
+   "source": "tick, measured in 22 rows (own tilt; anchor where it meets the bottom frame), rms 0.14 px",
+   "anchor": [
+    825.27,
+    3918.3
+   ]
+  },
+  {
+   "x_value": 4,
+   "slope_du_dv": -0.014822134387347042,
+   "u_at_v0": 1162.7411067193486,
+   "source": "tick, measured in 23 rows (own tilt; anchor where it meets the bottom frame), rms 0.14 px",
+   "anchor": [
+    1104.64,
+    3919.57
+   ]
+  },
+  {
+   "x_value": 6,
+   "slope_du_dv": 0.015217391304349601,
+   "u_at_v0": 1324.9362318840506,
+   "source": "tick, measured in 24 rows (own tilt; anchor where it meets the bottom frame), rms 0.27 px",
+   "anchor": [
+    1384.6,
+    3920.84
+   ]
+  },
+  {
+   "x_value": 8,
+   "slope_du_dv": -0.01717391304347736,
+   "u_at_v0": 1735.3753623188366,
+   "source": "tick, measured in 24 rows (own tilt; anchor where it meets the bottom frame), rms 0.32 px",
+   "anchor": [
+    1668.02,
+    3922.12
+   ]
+  },
+  {
+   "x_value": 10,
+   "slope_du_dv": -0.01770451770451906,
+   "u_at_v0": 2017.2311762311813,
+   "source": "tick, measured in 27 rows (own tilt; anchor where it meets the bottom frame), rms 0.33 px",
+   "anchor": [
+    1947.77,
+    3923.39
+   ]
+  },
+  {
+   "x_value": 12,
+   "slope_du_dv": -0.02307692307694016,
+   "u_at_v0": 2321.5123076923755,
+   "source": "tick, measured in 25 rows (own tilt; anchor where it meets the bottom frame), rms 0.21 px",
+   "anchor": [
+    2230.94,
+    3924.67
+   ]
+  },
+  {
+   "x_value": 14,
+   "slope_du_dv": -0.0022598862318884538,
+   "u_at_v0": 2520.6628811393257,
+   "source": "frame right, measured at 152 rows, rms 0.59 px"
+  }
+ ],
+ "horizontal_lines": [
+  {
+   "y_value": 18,
+   "slope_dv_du": 0.006234652966372811,
+   "v_at_u0": 826.7716205654114,
+   "source": "frame top, measured at 96 columns, rms 1.03 px"
+  },
+  {
+   "y_value": 17,
+   "slope_dv_du": 0.02529914529914684,
+   "v_at_u0": 1102.5941880341866,
+   "source": "tick, measured in 26 columns (own tilt; anchor where it meets the left frame), rms 0.31 px",
+   "anchor": [
+    556.96,
+    1116.68
+   ]
+  },
+  {
+   "y_value": 16,
+   "slope_dv_du": 0.015384615384609317,
+   "v_at_u0": 1389.8738461538499,
+   "source": "tick, measured in 25 columns (own tilt; anchor where it meets the left frame), rms 0.26 px",
+   "anchor": [
+    556.03,
+    1398.43
+   ]
+  },
+  {
+   "y_value": 15,
+   "slope_dv_du": 0.0005128205127987436,
+   "v_at_u0": 1680.2246153846281,
+   "source": "tick, measured in 26 columns (own tilt; anchor where it meets the left frame), rms 0.22 px",
+   "anchor": [
+    555.09,
+    1680.51
+   ]
+  },
+  {
+   "y_value": 14,
+   "slope_dv_du": 0.03571428571428792,
+   "v_at_u0": 1937.6785714285697,
+   "source": "tick, measured in 28 columns (own tilt; anchor where it meets the left frame), rms 0.46 px",
+   "anchor": [
+    554.18,
+    1957.47
+   ]
+  },
+  {
+   "y_value": 13,
+   "slope_dv_du": -0.019539614561019873,
+   "v_at_u0": 2250.744379014984,
+   "source": "tick, measured in 24 columns (own tilt; anchor where it meets the left frame), rms 0.29 px",
+   "anchor": [
+    553.24,
+    2239.93
+   ]
+  },
+  {
+   "y_value": 12,
+   "slope_dv_du": 0.025123152709352843,
+   "v_at_u0": 2504.311330049266,
+   "source": "tick, measured in 29 columns (own tilt; anchor where it meets the left frame), rms 0.35 px",
+   "anchor": [
+    552.32,
+    2518.19
+   ]
+  },
+  {
+   "y_value": 11,
+   "slope_dv_du": 0.03652173913043557,
+   "v_at_u0": 2778.450869565216,
+   "source": "tick, measured in 24 columns (own tilt; anchor where it meets the left frame), rms 0.45 px",
+   "anchor": [
+    551.39,
+    2798.59
+   ]
+  },
+  {
+   "y_value": 10,
+   "slope_dv_du": -0.015000000000024485,
+   "v_at_u0": 3088.2750000000137,
+   "source": "tick, measured in 25 columns (own tilt; anchor where it meets the left frame), rms 0.23 px",
+   "anchor": [
+    550.46,
+    3080.02
+   ]
+  },
+  {
+   "y_value": 9,
+   "slope_dv_du": 0.049097979907078634,
+   "v_at_u0": 3329.9438803068047,
+   "source": "tick, measured in 23 columns (own tilt; anchor where it meets the left frame), rms 0.26 px",
+   "anchor": [
+    549.54,
+    3356.93
+   ]
+  },
+  {
+   "y_value": 8,
+   "slope_dv_du": 0.033858948050547996,
+   "v_at_u0": 3618.2372826439123,
+   "source": "tick, measured in 25 columns (own tilt; anchor where it meets the left frame), rms 0.38 px",
+   "anchor": [
+    548.62,
+    3636.81
+   ]
+  },
+  {
+   "y_value": 7,
+   "slope_dv_du": 0.0045552518391617025,
+   "v_at_u0": 3914.549441736311,
+   "source": "frame bottom, measured at 86 columns, rms 0.59 px"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+figure_id,panel,axis,printed_label,label_value,unit_as_printed,pixel_u,pixel_v,fitted_line_px,by_eye_px,difference_px,check,note
+F2-32,1,x (penetration),0,0,In.,1990,3720,3688.7 + 0.0002 u (v),3689,0.3,ok,label 0 printed sideways just right of the bottom frame line; frame line is the pen 0 line (page as scanned)
+F2-32,1,x (penetration),1,1,In.,2010,3480,3472.4 + 0.0027 u (v),3476.5,0.1,ok,label 1 beside the line at v 3476.5 on the right side; checked on crop bottomright
+F2-32,1,x (penetration),9,9,In.,2010,1830,1819.3 + 0.0042 u (v),1827.5,0.2,ok,label 9 beside the line at v 1827.5; two unlabelled lines above it (pen 10 at v 1618.5 and the top frame at v 1416 = pen 11); the three top lines are interrupted by the equation text block between u 800 and 1600
+F2-32,1,y (load),0,0,Lb.,1990,3740,1981.3 + 0.0030 v (u),1988.5,0.5,ok,label 0 printed sideways under the right frame line; the right frame line is the load 0 line
+F2-32,1,y (load),10,10,Lb.,1785,3740,1779.3 + 0.0014 v (u),1782,0.3,ok,label 10 under the line at u 1782
+F2-32,1,y (load),20,20,Lb.,1578,3740,1571.1 + 0.0018 v (u),1575,0.4,ok,label 20 under the line at u 1575; labels 30 to 70 confirmed on the quarter-size page view

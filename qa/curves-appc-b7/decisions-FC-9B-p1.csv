@@ -1,0 +1,7 @@
+panel,series_id,point_kind,sequence,source,status,use,note
+1,rs-dense,trace,1,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 005 (Claude's adjudicator: all no; Codex's: all no)
+1,rs-dense,trace,8,codex,excluded,,off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 006 (Claude's adjudicator: all no; Codex's: all no)
+1,rs-dense,trace,1,claude,excluded,,second round: off the drawn line (both adjudicators; on a symbol or in white space); blind adjudication item 004 (Claude's adjudicator: all no; Codex's: all no)
+1,rs-dense,trace,7,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rs-dense,trace,8,claude,one-sided-verified,,"second round: on the ink of the drawn line, verified on the page by codex's adjudicator; blind adjudication item 005 (Claude's adjudicator: all yes; Codex's: all yes)"
+1,rs-dense,trace,2,codex,one-sided-verified,,"third round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 003 (Claude's adjudicator: all yes; Codex's: all yes)"

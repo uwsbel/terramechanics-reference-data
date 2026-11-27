@@ -1,0 +1,25 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note
+FA-4,1,curve,trace,1,838.5,2145.5,6.5,7.5,,"left end of the curve's ink. the curve runs into the left frame (x = 0 line; frame ink u 828 to 838, centre 832.5): sample at the frame's inner edge, u bound reaching the frame centre; the curve's bottom edge is merged with the y = 40 grid line here, centre from its top edge and the local thickness"
+FA-4,1,curve,trace,2,909.2,2112.3,6.5,6.5,,Dr 0.05 sample
+FA-4,1,curve,trace,3,986.0,2073.0,6.5,6.5,,Dr 0.10 sample
+FA-4,1,curve,trace,4,1062.8,2034.5,6.5,6.5,,Dr 0.15 sample
+FA-4,1,curve,trace,5,1139.6,1996.2,6.5,6.5,,"Dr 0.20 sample; centre interpolated between clean columns u = 1135 and 1144, either side of a vertical grid line the curve's ink runs through"
+FA-4,1,curve,trace,6,1217.4,1958.4,6.5,6.5,,Dr 0.25 sample
+FA-4,1,curve,trace,7,1295.2,1919.7,6.5,6.5,,Dr 0.30 sample
+FA-4,1,curve,trace,8,1372.9,1881.2,6.5,6.5,,Dr 0.35 sample
+FA-4,1,curve,trace,9,1450.6,1843.2,6.5,6.5,,"Dr 0.40 sample; centre interpolated between clean columns u = 1446 and 1455, either side of a vertical grid line the curve's ink runs through"
+FA-4,1,curve,trace,10,1527.1,1808.9,6.5,6.5,,Dr 0.45 sample
+FA-4,1,curve,trace,11,1603.6,1773.5,6.5,7.5,,Dr 0.50 sample; one edge of the curve merged with a horizontal grid line: centre from the free edge and the local thickness
+FA-4,1,curve,trace,12,1680.1,1742.4,6.5,6.5,,Dr 0.55 sample
+FA-4,1,curve,trace,13,1756.6,1713.7,6.5,6.5,,"Dr 0.60 sample; centre interpolated between clean columns u = 1752 and 1761, either side of a vertical grid line the curve's ink runs through"
+FA-4,1,curve,trace,14,1836.6,1688.2,6.5,6.5,,Dr 0.65 sample
+FA-4,1,curve,trace,15,1916.7,1662.5,6.5,6.5,,Dr 0.70 sample
+FA-4,1,curve,trace,16,1996.8,1636.5,6.5,6.5,,Dr 0.75 sample
+FA-4,1,curve,trace,17,2076.8,1611.1,6.5,6.5,,"Dr 0.80 sample; centre interpolated between clean columns u = 2073 and 2081, either side of a vertical grid line the curve's ink runs through"
+FA-4,1,curve,trace,18,2154.7,1585.2,6.5,6.5,,Dr 0.85 sample
+FA-4,1,curve,trace,19,2232.5,1557.5,6.5,6.5,,Dr 0.90 sample
+FA-4,1,curve,trace,20,2310.3,1528.5,6.5,6.5,,Dr 0.95 sample
+FA-4,1,curve,trace,21,2382.5,1501.0,6.5,6.5,,"right end of the curve's ink. the curve runs into the right frame (x = 1.0 line; frame ink u 2384 to 2393, centre 2388.5): sample at the frame's inner edge; no ink beyond the frame"
+FA-4,1,curve,feature,1,838.5,2145.5,6.5,7.5,,"first point: the curve runs into the left frame (x = 0 line; frame ink u 828 to 838, centre 832.5): sample at the frame's inner edge, u bound reaching the frame centre; the curve's bottom edge is merged with the y = 40 grid line here, centre from its top edge and the local thickness"
+FA-4,1,curve,feature,2,1645,1756.0,80,40,,"knee: gradual bend, not a kink: straight stretches on either side have slopes dv/du -0.496 (u 850 to 1440) and -0.318 (u 1800 to 2050), a 36 % change; knee at the curvature-weighted centroid of the bend between them (u 1645, Dr 0.53; curvature peak at u 1650; a single-breakpoint two-segment fit puts it at u 1610); u bound 80 px (about 0.05 in Dr), v bound = |slope| x 80 px + half the line thickness"
+FA-4,1,curve,feature,3,2382.5,1501.0,6.5,6.5,,"last point: the curve runs into the right frame (x = 1.0 line; frame ink u 2384 to 2393, centre 2388.5): sample at the frame's inner edge; no ink beyond the frame"

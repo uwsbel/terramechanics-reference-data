@@ -1,0 +1,146 @@
+{
+  "batch": "curves-appa-b3",
+  "source": "1968-vol2",
+  "context_pages": [],
+  "figures": {
+    "FA-3": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "RS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "RS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "RS"
+        }
+      ]
+    },
+    "FA-7": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "PS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "PS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "PS"
+        }
+      ]
+    },
+    "FA-19": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "RSM-a"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "RSM-a"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "RSM-a"
+        }
+      ]
+    },
+    "FA-23": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "RC2"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "RC2"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "RC2"
+        }
+      ]
+    },
+    "FA-27": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "SS"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "SS"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "SS"
+        }
+      ]
+    },
+    "FA-39": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "LSM"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "LSM"
+        }
+      ]
+    },
+    "FA-47": {
+      "series": [
+        {
+          "series_id": "mean",
+          "role": "solid line",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "upper",
+          "role": "dashed line above the solid one on the page",
+          "soil": "RSM-b"
+        },
+        {
+          "series_id": "lower",
+          "role": "dashed line below the solid one on the page",
+          "soil": "RSM-b"
+        }
+      ]
+    }
+  },
+  "specific": "## These figures\n\nFigures A-3, A-7, A-19, A-23, A-27, A-39 and A-47 are **density charts**: unit weight (pcf) against\nrelative density Dr, one soil per figure, upright. The unit-weight axis runs **downward** (25 pcf at the\ntop, 65 at the bottom; the left scale is labelled minimum density, the right one maximum density, on\nthe same lines) and its lines are evenly spaced in 1/gamma: it is a **reciprocal axis**\n(`--y-transform reciprocal --y-direction down`); give the printed unit weights, never their\nreciprocals. Dr runs from 0 to 1.0 to the right (linear). The figure draws straight lines from a\nminimum density printed at Dr = 0 to a maximum density printed at Dr = 1.0, each end labelled with its\nvalue (for example 40.1 and 51.8).\n\nCalibration: anchor the lines that carry a printed unit-weight label (25, 30, ... 65) and the labelled\nDr lines; the many unlabelled lines between the unit-weight labels are evenly spaced in 1/gamma, and you\nmay anchor them only if you can name each one's value without doubt. Say in\n`calibration-eye-checks.csv` which label each checked line carries.\n\nSeries (`series.csv`): `mean` the solid line; `upper` and `lower` the dashed lines above and below it on\nthe page.\n\nWhat to produce, under `out/<figure_id>/`:\n\n1. `cal-p1/` and `calibration-eye-checks.csv` (three printed labels per axis checked by eye).\n2. `points-p1.csv` and `points-p1-native.csv`, `panel = 1`, unit weight in pcf:\n   - each line as `trace` samples in drawing order from Dr = 0: its left end, every 0.1 of Dr, its\n     right end. On a dashed line a sample in a gap moves to the nearest dash end (rule 7). Bound: half\n     the line thickness.\n   - `feature` points per rule 3 (first and last point); and per line one `feature` at each end label\n     with note \"label: <the printed value>\" placed at the label's center, so the printed value can be\n     matched to its line (the leader lines show which label belongs to which line).\n3. `overlay-p1.png` and `notes.md` (which label belongs to which line, anything ambiguous).\n",
+  "lessons": [
+    "A trace sample belongs on the drawn line's ink, never on a plotted symbol's outline or in the white gap between dashes; a curve's first and last trace samples are where the line's ink starts and ends.",
+    "Check every printed axis label by eye against the line you anchor it to: a label printed off its line, or a frame that extends past the first or last labelled line, has misled readers before.",
+    "Give the printed values to the tool and declare the axis transform (docs/CURVE-READING.md rule 5); never type a logarithm or a reciprocal."
+  ]
+}

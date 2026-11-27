@@ -1,0 +1,20 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_unit,y_unit,sampling_x_psf,trace_segment
+FC-11A,1,rsm-loose,marker,1,920.97,3563.163,2.0,4.918,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,
+FC-11A,1,rsm-loose,marker,2,1218.377,3266.137,2.0,4.682,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,
+FC-11A,1,rsm-loose,marker,3,1558.597,3001.883,2.0,4.808,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,
+FC-11A,1,rsm-loose,marker,4,1817.287,2929.57,4.0,6.0,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6; grid line crosses symbol; sides reconstructed excluding grid ink,psf,psf,,
+FC-11A,1,rsm-loose,marker,5,2079.483,2692.19,2.0,4.655,triangle-up,centroid of reconstructed triangle; apex-direction bound >= height/6,psf,psf,,
+FC-11A,1,rsm-loose,trace,1,707.016,3681.241,4.75,4.75,,left end: fitted-line branch reaches x=0 axis,psf,psf,0,1
+FC-11A,1,rsm-loose,trace,2,854.716,3574.773,4.75,4.75,,on drawn fit ink at 500 psf normal stress,psf,psf,500,1
+FC-11A,1,rsm-loose,trace,3,1002.394,3468.428,4.75,4.75,,on drawn fit ink at 1000 psf normal stress,psf,psf,1000,1
+FC-11A,1,rsm-loose,trace,4,1147.532,3364.179,4.75,4.75,,on drawn fit ink at 1500 psf normal stress,psf,psf,1500,1
+FC-11A,1,rsm-loose,trace,5,1292.687,3259.028,4.75,4.75,,on drawn fit ink at 2000 psf normal stress,psf,psf,2000,1
+FC-11A,1,rsm-loose,trace,6,1438.484,3153.411,4.75,4.75,,on drawn fit ink at 2500 psf normal stress,psf,psf,2500,1
+FC-11A,1,rsm-loose,trace,7,1584.265,3048.316,4.75,4.75,,on drawn fit ink at 3000 psf normal stress,psf,psf,3000,1
+FC-11A,1,rsm-loose,trace,8,1730.993,2942.39,4.75,4.75,,on drawn fit ink at 3500 psf normal stress,psf,psf,3500,1
+FC-11A,1,rsm-loose,trace,9,1877.69,2836.369,4.75,4.75,,on drawn fit ink at 4000 psf normal stress,psf,psf,4000,1
+FC-11A,1,rsm-loose,trace,10,2024.125,2731.171,4.75,4.75,,on drawn fit ink at 4500 psf normal stress,psf,psf,4500,1
+FC-11A,1,rsm-loose,trace,11,2054.0,2710.0,4.75,4.75,,right end: last distinct fitted-line ink; maximum of trace,psf,psf,right-end,1
+FC-11A,1,rsm-loose,feature,1,707.016,3681.241,4.75,4.75,,first point; left end: fitted-line branch reaches x=0 axis,psf,psf,0,1
+FC-11A,1,rsm-loose,feature,2,2054.0,2710.0,4.75,4.75,,last point; maximum of trace; right end: last distinct fitted-line ink; maximum of trace,psf,psf,right-end,1
+FC-11A,1,rsm-loose,feature,3,707.016,3681.241,4.75,4.75,,intercept,psf,psf,0,1

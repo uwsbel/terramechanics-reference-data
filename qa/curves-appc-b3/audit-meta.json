@@ -1,0 +1,178 @@
+{
+  "FC-5B": {
+    "source": "1968-vol2",
+    "title": "Figure C-5B: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-16, PDF 130)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "square"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "circle"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n734": {
+        "label": "734 psf (35.1 kPa)",
+        "symbol": "triangle-up"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on SS soil at Dr .02 to .13, normal stresses 734 to 4695 psf. Upper curves are dashed and stop around every symbol. The 1761 psf line runs on the 1000 psf grid line from about 126 to 223 thousandths; the 734 and 1761 psf lines cross near 11 to 16. Lower panel: five symbols stacked in each of 13 columns; a plus sits directly above a circle, so check the mark is on the plus and not on the circle below."
+  },
+  "FC-6B": {
+    "source": "1968-vol2",
+    "title": "Figure C-6B: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-18, PDF 132)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "circle"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "square"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n734": {
+        "label": "734 psf (35.1 kPa)",
+        "symbol": "plus"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on LSM soil at Dr .19 to .28. The lower panel has no squares: the 3815 psf test has no dilation points on this sheet. Up- and down-triangles stack into hourglass shapes: check the mark is on the named triangle, not on the shared band between them. The 4695 and 3815 psf lines share one band near their start."
+  },
+  "FC-6C": {
+    "source": "1968-vol2",
+    "title": "Figure C-6C: LSM Soil Dense - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-19, PDF 133)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n1961": {
+        "label": "1961 psf (93.9 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "square"
+      },
+      "n3815": {
+        "label": "3815 psf (182.7 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      },
+      "n714": {
+        "label": "714 psf (34.2 kPa)",
+        "symbol": "circle"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on LSM soil at Dr 1.03 to 1.07, normal stresses printed 4695, 3815, 2934, 1961 and 714 psf. The 4695 and 3815 psf lines run on the 4000 and 3000 psf grid lines for long stretches. The legend has no symbol column; each test's symbol is the one at its curve's right end."
+  },
+  "FC-6D": {
+    "source": "1968-vol2",
+    "title": "Figure C-6D: Direct Shear Test Data - Shear Stress vs. Shear Displacement; Dilation Displacement vs. Shear Displacement (printed C-20, PDF 134)",
+    "rotation": 0,
+    "legend_hint": "legend at the right of the figure",
+    "series_noun": "curve",
+    "series": {
+      "n147": {
+        "label": "147 psf (7.0 kPa)",
+        "symbol": "triangle-up"
+      },
+      "n1761": {
+        "label": "1761 psf (84.3 kPa)",
+        "symbol": "circle"
+      },
+      "n2934": {
+        "label": "2934 psf (140.5 kPa)",
+        "symbol": "square"
+      },
+      "n3814": {
+        "label": "3814 psf (182.6 kPa)",
+        "symbol": "triangle-down"
+      },
+      "n4695": {
+        "label": "4695 psf (224.8 kPa)",
+        "symbol": "plus"
+      }
+    },
+    "panels": {
+      "1": {
+        "name": "upper panel (shear stress)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": true
+      },
+      "2": {
+        "name": "lower panel (dilation)",
+        "x_axis": "linear",
+        "y_axis": "linear",
+        "has_curves": false
+      }
+    },
+    "notes_for_reviewers": "Five tests on LSM soil at Dr .05 to .40, normal stresses printed 4695, 3814, 2934, 1761 and 147 psf. The 147 psf line runs 18 to 56 psf above its own symbols from about 57 thousandths on. In the lower panel the triangle-down of 3814 psf sits directly above the plus of 4695 psf at every column. Three symbols right of the 250 line (by the words 'Rebound' and 'Same Notation As Above') may be legend samples."
+  }
+}

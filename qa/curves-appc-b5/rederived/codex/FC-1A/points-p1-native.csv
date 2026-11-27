@@ -1,0 +1,74 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model
+FC-1A,1,dr50-57,marker,1,928.3,3169.5,14,14,triangle-down,On the lower fit at the axis; differs from circle legend; axis overlaps triangle.,3.578,481.256,52.39,51.453,piecewise extrapolated x
+FC-1A,1,dr50-57,marker,2,1006.5,3144.1,2,2,circle,,276.26,571.51,10.027,8.872,piecewise
+FC-1A,1,dr50-57,marker,3,1013,3089,2,2,filled circle,On the lower dashed fit; fill differs from hollow-circle legend.,299.402,766.962,10.012,8.873,piecewise
+FC-1A,1,dr50-57,marker,4,1102.4,3000.2,2,2,circle,,611.172,1080.118,9.868,8.71,piecewise
+FC-1A,1,dr50-57,marker,5,1268.1,2807.8,2,2,circle,,1188.982,1746.363,9.672,9.181,piecewise
+FC-1A,1,dr50-57,marker,6,1446,2615,2,2,circle,,1812.322,2418.42,9.428,9.413,piecewise
+FC-1A,1,dr50-57,marker,7,1611.3,2490.9,2,2,circle,,2379.003,2851.949,8.831,9.383,piecewise
+FC-1A,1,dr50-57,marker,8,1777.6,2318.6,5,5,circle, Circle close to vertical grid and lower fit; widened for ink interference.,2942.907,3451.053,18.682,19.74,piecewise
+FC-1A,1,dr50-57,marker,9,1949.1,2139.5,2,2,circle,,3498.038,4073.16,8.078,9.298,piecewise
+FC-1A,1,dr50-57,trace,1,946,3157,4.0,4.0,,left end; dashed; axis intercept obscured by triangle; first visible dashed ink beyond symbol,65.386,525.625,17.113,15.968,piecewise
+FC-1A,1,dr50-57,trace,2,991,3115.0,7.5,7.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=240.5 psf,222.558,674.688,29.263,28.393,piecewise
+FC-1A,1,dr50-57,trace,3,1063,3044.5,6.0,6.0,,dashed; target x=500 psf falls in a gap/marker/grid interference; nearest visible ink at x=485.6 psf,473.797,924.945,23.888,23.075,piecewise
+FC-1A,1,dr50-57,trace,4,1141,2962.0,7.5,7.5,,,745.621,1212.334,28.966,27.858,piecewise
+FC-1A,1,dr50-57,trace,5,1206,2895.5,7.0,7.0,,target x=1000 psf falls in a gap/marker/grid interference; nearest visible ink at x=972.3 psf,971.81,1442.608,27.098,26.3,piecewise
+FC-1A,1,dr50-57,trace,6,1295,2806.0,7.5,7.5,,target x=1250 psf falls in a gap/marker/grid interference; nearest visible ink at x=1275.3 psf,1283.045,1752.77,28.894,28.269,piecewise
+FC-1A,1,dr50-57,trace,7,1362,2744.0,1.5,1.5,,,1517.637,1967.832,7.789,7.603,piecewise
+FC-1A,1,dr50-57,trace,8,1434,2663.5,7.0,7.0,,,1770.002,2249.088,26.978,26.905,piecewise
+FC-1A,1,dr50-57,trace,9,1508,2589.0,7.5,7.5,,,2028.571,2509.453,27.707,28.62,piecewise
+FC-1A,1,dr50-57,trace,10,1581,2515.0,8.5,8.5,,,2276.263,2767.833,30.953,32.077,piecewise
+FC-1A,1,dr50-57,trace,11,1656,2437.5,6.0,6.0,,target x=2500 psf falls in a gap/marker/grid interference; nearest visible ink at x=2504.0 psf,2530.664,3038.035,22.316,23.23,piecewise
+FC-1A,1,dr50-57,trace,12,1728,2363.0,7.5,7.5,,,2774.806,3296.81,27.26,28.431,piecewise
+FC-1A,1,dr50-57,trace,13,1803,2288.0,7.5,7.5,,target x=3000 psf falls in a gap/marker/grid interference; nearest visible ink at x=3004.4 psf,3027.572,3557.341,25.761,28.421,piecewise
+FC-1A,1,dr50-57,trace,14,1875,2213.5,8.0,8.0,,,3259.427,3816.143,27.385,30.148,piecewise
+FC-1A,1,dr50-57,trace,15,1934,2152,4.5,4.5,,right end,3449.427,4029.765,16.126,17.97,piecewise
+FC-1A,1,dr50-57,feature,1,927.28,3179.77,15,15,,intercept; hidden by triangle and axis; location bounded from incoming dashed ink,-0.098,444.833,55.936,55.001,piecewise extrapolated x
+FC-1A,1,dr50-57,feature,2,1812,2213.5,3,3,,label: 45.5°,3056.882,3816.013,11.272,12.777,piecewise
+FC-1A,1,dr73-88,marker,1,1092.4,2916.5,2,2,circle,Hollow circle by the middle fit; differs from filled-circle legend.,576.929,1369.431,9.875,8.911,piecewise
+FC-1A,1,dr73-88,marker,2,1608.6,2412.9,2,2,circle,Hollow circle by the middle fit; differs from filled-circle legend.,2370.387,3123.352,8.834,9.332,piecewise
+FC-1A,1,dr73-88,marker,3,1783,2135,2,2,filled circle,,2962.167,4088.355,8.493,9.294,piecewise
+FC-1A,1,dr73-88,marker,4,1952.5,2058,2,2,filled circle,,3509.387,4355.885,8.079,9.339,piecewise
+FC-1A,1,dr73-88,trace,1,928,3111,5.0,5.0,,left end; dashed,3.231,688.721,20.725,19.518,piecewise extrapolated x
+FC-1A,1,dr73-88,trace,2,994,3047.5,6.0,6.0,,dashed,233.661,914.106,24.002,23.072,piecewise
+FC-1A,1,dr73-88,trace,3,1067,2968.0,7.5,7.5,,dashed,488.274,1191.3,29.093,27.832,piecewise
+FC-1A,1,dr73-88,trace,4,1141,2889.5,7.0,7.0,,,745.972,1463.022,27.205,26.306,piecewise
+FC-1A,1,dr73-88,trace,5,1206,2817.5,7.0,7.0,,target x=1000 psf falls in a gap/marker/grid interference; nearest visible ink at x=972.8 psf,972.019,1712.401,27.078,26.494,piecewise
+FC-1A,1,dr73-88,trace,6,1295,2723.5,7.0,7.0,,target x=1250 psf falls in a gap/marker/grid interference; nearest visible ink at x=1275.8 psf,1283.371,2038.614,27.155,26.944,piecewise
+FC-1A,1,dr73-88,trace,7,1361,2653.0,6.5,6.5,,,1514.613,2285.282,25.324,25.165,piecewise
+FC-1A,1,dr73-88,trace,8,1434,2573.0,7.5,7.5,,,1770.597,2564.938,28.745,28.629,piecewise
+FC-1A,1,dr73-88,trace,9,1508,2494.0,6.5,6.5,,,2029.283,2840.857,24.306,25.102,piecewise
+FC-1A,1,dr73-88,trace,10,1581,2415.5,6.0,6.0,,,2276.952,3114.276,22.462,23.226,piecewise
+FC-1A,1,dr73-88,trace,11,1655,2335.5,6.0,6.0,,,2527.928,3392.145,22.313,23.215,piecewise
+FC-1A,1,dr73-88,trace,12,1728,2256.0,7.5,7.5,,,2775.426,3668.29,27.253,28.415,piecewise
+FC-1A,1,dr73-88,trace,13,1803,2176.0,7.5,7.5,,target x=3000 psf falls in a gap/marker/grid interference; nearest visible ink at x=3005.1 psf,3028.135,3946.19,25.761,28.404,piecewise
+FC-1A,1,dr73-88,trace,14,1875,2098.5,8.0,8.0,,,3260.011,4215.159,27.386,30.144,piecewise
+FC-1A,1,dr73-88,trace,15,1948,2018.0,7.5,7.5,,,3495.124,4494.623,25.791,28.465,piecewise
+FC-1A,1,dr73-88,trace,16,1958,2011.5,5.5,5.5,,right end,3527.309,4517.213,19.352,21.522,piecewise
+FC-1A,1,dr73-88,feature,1,927.06,3112.0,5.0,5.0,,intercept,-0.054,685.172,20.745,19.518,piecewise extrapolated x
+FC-1A,1,dr73-88,feature,2,1684.5,2233,3,3,,label: 47°,2628.387,3748.052,12.076,12.779,piecewise
+FC-1A,1,dr100-116,marker,1,1014.3,2995.9,2,2,triangle-down,Triangle points downward; legend triangle points upward.,304.77,1094.684,10.0,8.717,piecewise
+FC-1A,1,dr100-116,marker,2,1091.7,2885.4,2,2,triangle-down,Triangle points downward; legend triangle points upward.,574.697,1476.938,9.873,8.986,piecewise
+FC-1A,1,dr100-116,marker,3,1377.4,2541.6,2,2,triangle-down,Triangle points downward; legend triangle points upward.,1572.617,2674.311,9.529,9.405,piecewise
+FC-1A,1,dr100-116,marker,4,1440.5,2482,7,7,filled circle,Filled circle adjacent to upper fit; assigned by upper-line neighborhood rather than filled-circle legend; off the fit.,1793.963,2882.549,26.995,26.856,piecewise
+FC-1A,1,dr100-116,marker,5,1611.6,2190.8,2,2,triangle-down,Triangle points downward; legend triangle points upward.,2382.027,3894.407,8.823,9.298,piecewise
+FC-1A,1,dr100-116,marker,6,1781.5,1996.9,2,2,triangle-down,Triangle points downward; legend triangle points upward.,2957.837,4567.062,8.493,9.363,piecewise
+FC-1A,1,dr100-116,marker,7,1955.6,1839.9,2,2,triangle-down,Triangle points downward; legend triangle points upward.,3520.473,5110.474,8.08,9.315,piecewise
+FC-1A,1,dr100-116,trace,1,928,3077,5.5,5.5,,left end; dashed,3.637,809.298,22.473,21.293,piecewise extrapolated x
+FC-1A,1,dr100-116,trace,2,1020,2969.0,8.5,8.5,,dashed; target x=250 psf falls in a gap/marker/grid interference; nearest visible ink at x=340.0 psf,324.834,1187.662,32.661,31.285,piecewise
+FC-1A,1,dr100-116,trace,3,1066,2912.5,9.0,9.0,,dashed,485.203,1383.131,34.306,33.167,piecewise
+FC-1A,1,dr100-116,trace,4,1140,2818.0,7.5,7.5,,,742.845,1710.246,28.928,28.217,piecewise
+FC-1A,1,dr100-116,trace,5,1222,2717.0,7.5,7.5,,target x=1000 psf falls in a gap/marker/grid interference; nearest visible ink at x=1027.8 psf,1028.026,2060.765,28.993,28.706,piecewise
+FC-1A,1,dr100-116,trace,6,1287,2633.0,7.5,7.5,,,1255.731,2354.688,28.931,28.671,piecewise
+FC-1A,1,dr100-116,trace,7,1351,2554.0,8.5,8.5,,target x=1500 psf falls in a gap/marker/grid interference; nearest visible ink at x=1467.1 psf,1480.115,2630.912,32.366,32.134,piecewise
+FC-1A,1,dr100-116,trace,8,1444,2435.5,8.0,8.0,,target x=1750 psf falls in a gap/marker/grid interference; nearest visible ink at x=1783.9 psf,1806.538,3044.599,30.509,30.175,piecewise
+FC-1A,1,dr100-116,trace,9,1508,2353.0,6.5,6.5,,,2030.339,3331.113,24.297,24.953,piecewise
+FC-1A,1,dr100-116,trace,10,1581,2262.5,9.0,9.0,,,2278.012,3645.43,32.631,33.625,piecewise
+FC-1A,1,dr100-116,trace,11,1652,2174.5,9.0,9.0,,target x=2500 psf falls in a gap/marker/grid interference; nearest visible ink at x=2492.2 psf,2518.803,3951.079,32.484,33.614,piecewise
+FC-1A,1,dr100-116,trace,12,1728,2076.5,9.0,9.0,,,2776.467,4290.957,32.326,33.608,piecewise
+FC-1A,1,dr100-116,trace,13,1808,1975.5,8.0,8.0,,target x=3000 psf falls in a gap/marker/grid interference; nearest visible ink at x=3023.4 psf,3045.22,4641.371,27.373,30.209,piecewise
+FC-1A,1,dr100-116,trace,14,1875,1892.0,7.5,7.5,,,3261.06,4931.254,25.777,28.53,piecewise
+FC-1A,1,dr100-116,trace,15,1948,1797.5,9.0,9.0,,,3496.254,5254.889,30.623,33.286,piecewise
+FC-1A,1,dr100-116,trace,16,1971,1774.5,6.0,6.0,,right end,3570.324,5333.415,20.965,23.075,piecewise
+FC-1A,1,dr100-116,feature,1,926.94,3078.31,5.5,5.5,,intercept,-0.069,804.65,22.496,21.293,piecewise extrapolated x
+FC-1A,1,dr100-116,feature,2,1687.5,2055,3,3,,label: 51°,2639.623,4365.319,12.064,12.799,piecewise

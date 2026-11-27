@@ -1,0 +1,46 @@
+figure_id,panel,series_id,point_kind,sequence,pixel_u,pixel_v,u_bound_px,v_bound_px,symbol,note,x_native,y_native,x_read_bound,y_read_bound,cal_model,status,source,other_x_native,other_y_native,decision_note,other_pixel_u,other_pixel_v
+FB-6,1,dr02,feature,1,989.6,3983.6,4.2,5.2,,"first point: the line's ink runs into the ring of the circle at (1000, 4001); taken on the line's centre where it meets the ring's outer edge",1.956173,5.30815,0.036494,0.044392,piecewise,agreed,claude,1.958015,5.312985,,989.837,3983.042
+FB-6,1,dr02,feature,2,1338.8,3429.1,4.2,4.2,,vertex,4.699009,9.394993,0.03621,0.036451,piecewise,agreed,claude,4.682174,9.382039,,1336.884,3431.291
+FB-6,1,dr02,feature,3,1947.6,2699.0,4.2,5.2,,"last point: the line's ink runs into the ring of the circle at (1960, 2682); taken on the line's centre where it meets the ring's outer edge; also the trace's maximum",9.40999,14.752696,0.036192,0.043368,piecewise,agreed,claude,9.405884,14.760462,,1947.742,2698.785
+FB-6,1,dr02,feature,4,2172.5,2693.5,8.0,8.0,,label: Loose Dr = 0.02,11.08511,14.749113,0.065039,0.065015,piecewise,agreed,claude,11.069877,14.797835,,2171.0,2688.0
+FB-6,1,dr02,marker,1,997.6,3942.3,2.5,2.5,circle,the loose line crosses the right side of this circle's ring,2.025443,5.616479,0.023044,0.023632,piecewise,agreed,claude,2.024528,5.619532,,997.5,3942.0
+FB-6,1,dr02,marker,2,1000.0,4001.4,3.0,3.0,circle,sits on the bottom frame line; the x = 2 tick shows inside its hole; the loose line ends on its ring,2.029982,5.172392,0.026903,0.027684,piecewise,agreed,claude,2.014653,5.161455,,998.0,4003.0
+FB-6,1,dr02,marker,3,1334.3,3496.8,2.0,2.0,circle,,4.649841,8.884649,0.019208,0.019079,piecewise,agreed,claude,4.64222,8.890193,,1333.5,3496.5
+FB-6,1,dr02,marker,4,1346.0,3351.3,2.0,2.0,circle,,4.770727,9.982895,0.019208,0.019342,piecewise,agreed,claude,4.764738,9.988639,,1345.5,3351.0
+FB-6,1,dr02,marker,5,1959.7,2682.3,2.5,3.0,circle,lower of two overlapping circles; the loose line ends on its ring,9.50391,14.874909,0.02303,0.026614,piecewise,agreed,claude,9.500962,14.883305,,1960.0,2682.0
+FB-6,1,dr02,marker,6,1960.3,2666.5,2.5,3.0,circle,"upper of two overlapping circles (centres about 16 px apart, told apart by three white areas: the upper hole, the shared part of both holes, the lower hole)",9.511953,14.992689,0.02303,0.026722,piecewise,agreed,claude,9.504738,15.010179,,1960.0,2665.0
+FB-6,1,dr02,trace,1,990.581,3982.329,5.0,5.0,,first point,1.96374,5.318184,0.042318,0.042668,piecewise,one-sided,codex,,,,,
+FB-6,1,dr02,trace,2,994.5,3975,4.2,4.2,,at sigma3 = 2 psi,1.99479,5.371683,0.036196,0.036856,piecewise,agreed,claude,1.995,5.367,,994.5,3975.7
+FB-6,1,dr02,trace,3,1122.0,3773,4.2,4.2,,at sigma3 = 3 psi,2.995847,6.862329,0.036165,0.036216,piecewise,agreed,claude,2.996,6.867,,1122.1,3772.6
+FB-6,1,dr02,trace,4,1250.0,3571,4.2,4.2,,at sigma3 = 4 psi,4.000656,8.346966,0.03621,0.035955,piecewise,agreed,claude,4.001,8.355,,1250.1,3570.4
+FB-6,1,dr02,trace,5,1338.8,3429.1,4.2,4.2,,vertex (intersection of the two fitted straight segments; ink centre in that row 1340.0),4.699009,9.394993,0.03621,0.036451,piecewise,agreed,claude,4.699,9.392,,1339.1,3429.9
+FB-6,1,dr02,trace,6,1378.0,3383,4.2,4.2,,at sigma3 = 5 psi,5.003524,9.736315,0.03621,0.036451,piecewise,agreed,claude,5.004,9.745,,1378.3,3382.3
+FB-6,1,dr02,trace,7,1505.5,3228,4.2,4.2,,at sigma3 = 6 psi,5.995128,10.884793,0.03621,0.036451,piecewise,agreed,claude,5.995,10.881,,1506.1,3228.7
+FB-6,1,dr02,trace,8,1636.0,3073,4.2,4.2,,at sigma3 = 7 psi,7.003227,12.020557,0.035995,0.036023,piecewise,agreed,claude,7.003,12.030,,1636.5,3072.3
+FB-6,1,dr02,trace,9,1765.5,2918,4.2,4.2,,at sigma3 = 8 psi,8.003839,13.154663,0.035992,0.035906,piecewise,agreed,claude,8.004,13.180,,1766.1,2915.4
+FB-6,1,dr02,trace,10,1895.5,2762,4.2,4.2,,at sigma3 = 9 psi,9.007603,14.292931,0.035966,0.035906,piecewise,agreed,claude,9.008,14.311,,1896.1,2760.4
+FB-6,1,dr02,trace,10,1907.68,2746.629,5.5,5.5,,x=9 psi,9.096704,14.4113,0.045937,0.045819,piecewise,one-sided-verified,codex,,,"second round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 039 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FB-6,1,dr02,trace,11,1946.397,2699.617,5.0,5.0,,last point,9.395676,14.754516,0.0421,0.041993,piecewise,one-sided-verified,codex,,,"second round: on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 039 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FB-6,1,dr82,feature,1,999.0,3448.5,3.8,3.8,,first point: the line's free lower end (where its ink stops),2.14823,9.316478,0.033078,0.03334,piecewise,agreed,claude,2.132468,9.305227,,997.25,3450.215
+FB-6,1,dr82,feature,2,1321.8,2425.2,3.8,3.8,,vertex,4.80009,16.930718,0.033119,0.033026,piecewise,agreed,claude,4.790534,16.927972,,1321.374,2426.007
+FB-6,1,dr82,feature,3,1978.0,1116.5,4.0,4.0,,last point: the line's free upper end (where its ink stops); also the trace's maximum,9.994371,26.589607,0.034431,0.034401,piecewise,agreed,claude,9.999538,26.611443,,1980.191,1114.561
+FB-6,1,dr82,feature,4,2191.5,1110.5,8.0,8.0,,label: Dense Dr = 0.82,11.583941,26.592019,0.065039,0.06506,piecewise,agreed,claude,11.635731,26.617978,,2200.0,1108.0
+FB-6,1,dr82,marker,1,1023.0,3401.0,2.0,2.0,circle,the dense line is drawn up to this circle's ring from above and below; no line ink inside its hole,2.338821,9.671467,0.019184,0.019342,piecewise,agreed,claude,2.336512,9.676824,,1023.0,3400.5
+FB-6,1,dr82,marker,2,1034.2,3308.7,2.5,2.5,circle,the dense line runs along the right side of this circle's ring and merges with it,2.443713,10.368404,0.023044,0.023231,piecewise,agreed,claude,2.447305,10.382833,,1035.0,3307.0
+FB-6,1,dr82,marker,3,1312.7,2345.1,2.0,2.0,circle,,4.750074,17.535955,0.019208,0.019245,piecewise,agreed,claude,4.742086,17.540242,,1312.5,2345.0
+FB-6,1,dr82,marker,4,1335.7,2495.6,2.0,2.0,circle,,4.888316,16.399676,0.019208,0.01916,piecewise,agreed,claude,4.884695,16.40354,,1336.0,2495.5
+FB-6,1,dr82,marker,5,1939.0,1040.8,2.0,2.0,circle,,9.720947,27.167342,0.019079,0.019742,piecewise,agreed,claude,9.712966,27.184351,,1939.5,1039.5
+FB-6,1,dr82,marker,6,1950.4,1282.0,2.0,2.0,circle,,9.751325,25.359467,0.019079,0.019096,piecewise,agreed,claude,9.741196,25.370735,,1950.5,1281.5
+FB-6,1,dr82,marker,7,1987.1,1185.8,2.0,2.0,circle,,10.046423,26.070408,0.019051,0.019082,piecewise,agreed,claude,10.034456,26.080465,,1987.0,1185.5
+FB-6,1,dr82,trace,1,997.25,3450.215,3.5,3.5,,first point,2.132468,9.305227,0.030755,0.030991,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 022 (Claude's adjudicator: all yes; Codex's: all yes)",,
+FB-6,1,dr82,trace,1,999.0,3448.5,3.8,3.8,,first point (left end),2.14823,9.316478,0.033078,0.03334,piecewise,agreed,claude,2.148,9.350,,999.2,3444.2
+FB-6,1,dr82,trace,2,1102.0,3120,3.8,3.8,,at sigma3 = 3 psi,2.994528,11.774996,0.033078,0.032949,piecewise,agreed,claude,2.995,11.781,,1102.4,3119.5
+FB-6,1,dr82,trace,3,1223.5,2735,3.8,3.8,,at sigma3 = 4 psi,3.992261,14.627736,0.033109,0.032842,piecewise,agreed,claude,3.992,14.629,,1224.1,2735.5
+FB-6,1,dr82,trace,4,1321.8,2425.2,3.8,3.8,,vertex (intersection of the two fitted straight segments; ink centre in that row 1322.5),4.80009,16.930718,0.033119,0.033026,piecewise,agreed,claude,4.800,16.930,,1322.6,2425.7
+FB-6,1,dr82,trace,5,1346.0,2376,4.0,4.0,,at sigma3 = 5 psi,4.992804,17.296386,0.034665,0.03472,piecewise,agreed,claude,4.993,17.295,,1346.9,2376.6
+FB-6,1,dr82,trace,6,1472.5,2126,4.0,4.0,,at sigma3 = 6 psi,5.998539,19.15322,0.034665,0.034254,piecewise,agreed,claude,5.999,19.167,,1473.7,2123.9
+FB-6,1,dr82,trace,7,1598.5,1876,4.0,4.0,,at sigma3 = 7 psi,6.994569,20.987301,0.034458,0.034475,piecewise,agreed,claude,6.995,21.014,,1599.6,1873.9
+FB-6,1,dr82,trace,8,1726.0,1625,4.0,4.0,,at sigma3 = 8 psi,8.002,22.847286,0.034457,0.034606,piecewise,agreed,claude,8.002,22.883,,1727.2,1620.7
+FB-6,1,dr82,trace,9,1853.5,1373,4.0,4.0,,at sigma3 = 9 psi,9.008852,24.700056,0.034431,0.03434,piecewise,agreed,claude,9.009,24.747,,1854.8,1367.6
+FB-6,1,dr82,trace,10,1978.0,1116.5,4.0,4.0,,last point (right end),9.994371,26.589607,0.034431,0.034401,piecewise,agreed,claude,9.994,26.600,,1979.5,1116.2
+FB-6,1,dr82,trace,10,1980.303,1114.617,3.5,3.5,,last point,10.00036,26.611003,0.030588,0.030543,piecewise,one-sided-verified,codex,,,"on the ink of the drawn line, verified on the page by claude's adjudicator; blind adjudication item 023 (Claude's adjudicator: all yes; Codex's: all yes)",,

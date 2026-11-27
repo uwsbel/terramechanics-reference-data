@@ -1,0 +1,27 @@
+{
+  "agent": "claude",
+  "batch": "curves-appc-b3",
+  "date": "2026-10-14",
+  "model": "claude-opus-5-5 (one subagent per figure, launched from a Claude Code session)",
+  "prompt": "BRIEF.md plus a per-figure task naming the workspace and the figure",
+  "evidence_packet": "page images, figures-rows.csv (with the inventory agents' notes columns; see docs/CURVE-READING.md section 1), series.csv, CURVE-READING.md with rule 7, tools/calibrate_axes.py, tools/plot_grid.py",
+  "blindness": "workspace outside the repository; the brief forbids opening the repository, the Codex run folder and other scratchpad folders; filed after the Codex run had finished",
+  "runs": {
+    "FC-5B": {
+      "elapsed_sec": 1833.6,
+      "subagent_tokens": 375717,
+      "tool_uses": 135
+    },
+    "FC-6B": {
+      "elapsed_sec": 1830.8,
+      "subagent_tokens": 389563,
+      "tool_uses": 140
+    },
+    "FC-6C": {
+      "elapsed_sec": 1936.5,
+      "subagent_tokens": 396473,
+      "tool_uses": 153
+    },
+    "FC-6D": {"elapsed_sec": 2814.4, "subagent_tokens": 540144, "tool_uses": 211}
+  }
+}

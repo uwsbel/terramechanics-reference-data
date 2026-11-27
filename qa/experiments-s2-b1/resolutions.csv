@@ -1,0 +1,82 @@
+experiment_id,column,value,status,note
+b68-lpt-052,start_depth_printed_in,1,resolved,Page re-read at 300 dpi (PDF 88): the label LPT No. 52 (Gp 15.4) points to the dotted curve starting at 1 inch. Claude had 52 and 53 swapped. Credit Codex.
+b68-lpt-053,start_depth_printed_in,2,resolved,Page re-read (PDF 88): LPT No. 53 (Gp 15.6) is the solid curve starting at 2 inches. Credit Codex.
+b68-lpt-024,dr_printed,approx 0.96,resolved,Text printed 2-74 gives Dr about 0.96 for the bin-size group that includes LPT 24; caption of Figure 2-42 prints none. Codex included the text value per the rule.
+b68-lpt-024,setup_status,complete,resolved,Bed state (gamma 51.5 pcf and Gp 83 on Figure 2-42; Dr about 0.96 in text 2-74); 4 inch cylinder; 18 by 36 bin (Figure 2-44); 1 in/min. Credit Codex.
+b68-lpt-073,dr_printed,approx 0.97,convention,Caption value of Figure 2-35 is canonical; the group value about 0.96 from text 2-74 stays in notes.
+b68-lpt-074,dr_printed,approx 0.94,convention,Caption value of Figure 2-33 is canonical; the group value about 0.96 from text 2-74 stays in notes.
+b68-lpt-028,priority,2,rule,Protocol rule: no Dr or Gp printed for LPT 28 (only RS Intermediate in the caption); rate-series record. Credit Codex.
+b68-lpt-029,priority,2,rule,Protocol rule: as LPT 28.
+b68-lpt-f2-40-s02,setup_status,complete,resolved,Dr 0.15 and the 36 by 18 bin are in text 2-74; penetrator and rate are on the figure. Credit Codex.
+b68-lpt-f2-40-s03,setup_status,complete,resolved,As s02.
+b68-lpt-f2-40-s04,setup_status,complete,resolved,As s02.
+b68-lpt-f2-36-s04,mcc_relevant,maybe,rule,The dip in the Dr 0.46 curve is attributed by the authors to screeding (placement history); a placement-history effect on response; maybe under the narrow rule.
+b68-lpt-f2-37-s10,mcc_relevant,maybe,rule,Codex flagged the 108 by 36 bin intermediate curves; placement effect possible; maybe under the narrow rule pending the text.
+b68-lpt-f2-37-s11,mcc_relevant,maybe,rule,As s10.
+b68-ds-f2-22-rs,priority,1,rule,Protocol rule: the failure envelope belongs to the shear family used for calibration. Credit Codex.
+b68-tx-p2-49-rs-intermediate,priority,2,rule,Protocol rule: text-only triaxial values without confining pressures cannot be reproduced; interpretation only.
+b68-tx-p2-49-rs-dense,priority,2,rule,As the intermediate row.
+b68-dpt-p2-90-rs-49-beds,priority,2,rule,Protocol rule: bed uniformity statistics are interpretation; the DPT signatures and correlation are the priority-1 items.
+b68-dpt-p2-90-rs-49-beds,gp_printed_g,11.76 plus or minus 0.14,resolved,Codex kept the printed confidence interval; the full printed value is canonical.
+b68-dens-13,unit_weight_printed_pcf,,resolved,Claude wrote the axis range; not a printed value for the test.
+b68-gs-ssd-6-1,kind,sample,convention,A bin sample analyzed for grain size is kind sample.
+b68-gs-ssd-6-1,setup_status,setup_incomplete,resolved,Bed state and sieve geometry are not given with the data sheet.
+b68-dens-f2-17-s01,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s01,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s01,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-dens-f2-17-s02,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s02,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s02,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-dens-f2-17-s03,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s03,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s03,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-dens-f2-17-s04,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s04,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s04,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-dens-f2-17-s05,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s05,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s05,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-dens-f2-17-s06,kind,averaged-series,convention,Each line joins the averaged minimum and maximum density determinations (3 or 4 each); averaged-series rather than summary.
+b68-dens-f2-17-s06,mcc_relevant,yes,rule,State map needed to read the degradation and densification figures; consistent with the figures index (F2-17 yes).
+b68-dens-f2-17-s06,priority,2,rule,Protocol rule and figures index: F2-17 is priority 2 (derivable from min and max density).
+b68-ds-f2-23-rc2,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-ds-f2-23-ps,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-ds-f2-23-rs,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-ds-f2-23-rsm-a,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-ds-f2-23-rsm-b,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-ds-f2-23-ss,kind,derived-series,convention,"Average relationship drawn from identified direct shear tests (Appendix C); derived-series, not a correlation against an index."
+b68-lpt-f2-37-s01,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s02,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s03,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s04,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s05,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s06,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s07,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s08,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s09,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s10,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-37-s11,kind,derived-series,convention,Pressure-parameter curves of Figure 2-37; whether single tests or averages is not stated (text 2-69 covers Figures 2-36 to 2-39); derived-series until the test crosswalk is known.
+b68-lpt-f2-49-s01,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s02,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s03,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s04,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s05,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s06,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s07,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s08,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s09,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-49-s10,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s01,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s02,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s03,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s04,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s05,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s06,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-lpt-f2-50-s07,kind,derived-series,convention,Pressure-parameter reduction of unidentified tests; derived-series.
+b68-dens-f2-17-s05,unit_weight_printed_pcf,max 90.2,resolved,Page re-read at 300 dpi (PDF 61): the minimum endpoint of the fifth line carries no label; only 90.2 is printed. Claude read approx 68 off the axis; not a printed value. Credit Codex.
+b68-lpt-f2-49-s08,penetrator_printed,4 inch footpad,convention,Series numbered in the legend order of the agreed figures index (Dr approx 0.0 4 in FP is the eighth entry; 6 in FP the ninth). Claude had the two swapped in sequence; same two series.
+b68-lpt-f2-49-s09,penetrator_printed,6 inch footpad,convention,See s08.
+b68-smp-ssd-5-1,unit_weight_printed_pcf,64.4 to 75.3,resolved,Page re-read at 300 dpi (PDF 122): inset row 5-1 reads 64.4 and 75.3. Claude shifted the inset table by one row when filing. Credit Codex.
+b68-smp-ssd-5-6,unit_weight_printed_pcf,62.9 to 74.4,resolved,Page re-read (PDF 122): inset row 5-6 reads 62.9 and 74.4. Credit Codex.
+b68-smp-ssd-5-15,unit_weight_printed_pcf,72.9 to 86.2,resolved,Page re-read (PDF 122): inset row 5-15 reads 72.9 and 86.2. Credit Codex.
+b68-smp-ssd-5-23,unit_weight_printed_pcf,74.3 to 87.3,resolved,Page re-read (PDF 122): inset row 5-23 reads 74.3 and 87.3. Credit Codex.

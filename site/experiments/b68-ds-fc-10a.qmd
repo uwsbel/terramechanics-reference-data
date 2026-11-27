@@ -1,0 +1,73 @@
+---
+title: "Direct shear of PS soil, PS Loose"
+record: "b68-ds-fc-10a"
+kind: "derived-series"
+test-type: "Direct shear"
+family: "PS"
+state: "conflicting evidence"
+printed-label: "PS Loose"
+evidence: "FC-10A;text C-1 (PDF 115)"
+setup: "incomplete"
+record-status: "resolved"
+priority: "2"
+mcc: "no"
+---
+Direct shear test on PS soil; apparatus: direct shear (University of Notre Dame). Recorded: peak shear strength vs normal stress with least-squares line (Univac 1107, CAL-COMP plot).
+
+::: {.callout-note appearance="simple"}
+The numbers below were digitized from the published figure by two readings made separately; they agree within the stated reading bounds at 16 of the 18 points, and the rest were settled against the scan. Student reviewers have looked at 10 of the 18 points on the scan; none has yet been confirmed by two reviewers (see the provenance page). The report labels the soil state differently in two places (Loose). The test setup is incomplete: relative density Dr, specimen height, normal stress, held constant, displacement rate are not reported.
+:::
+
+## Data
+
+![shear strength (peak shear stress) against normal stress, SI units. Error bars are reading bounds (half-widths from the digitization), not standard deviations. Filled markers were agreed by both readings, hollow ones were not.](../img/plots/b68-ds-fc-10a.png){.lightbox}
+
+Peak shear strength (peak shear stress) 221.6 kPa at 205.9 kPa normal stress, the end of the record.
+
+Download: [observations.csv](../files/data/experiments/b68-ds-fc-10a/observations.csv) (18 points: 6 plotted symbols, 9 samples of the drawn curve; columns `x_si`, `y_si` with bounds `x_bound_si`, `y_bound_si`; panel 1: shear strength (peak shear stress) in Pa against normal stress in Pa; the printed-unit values, the pixel position on the scan and the review status of each point are kept in further columns) and [series.json](../files/data/experiments/b68-ds-fc-10a/series.json) (units, conversion factors, how the points were read).
+
+Reading bounds on this figure (how far our reading of the printed figure may be off, not the uncertainty of the test): typical bound 390 Pa in normal stress, 1.4 kPa in shear strength (0.6 percent of the peak). Both independent readings agree within these bounds at 16 of the 18 points; the other 2 were settled against the scan (read by one reader and verified by the other, or decided between two readings). [Check the digitized points against the scan](../figures/index.qmd#check-fc-10a).
+
+## Reproduce this test
+
+Every value a simulator needs, with the printed value it was converted from and where it is printed. Fields the report does not give are marked; a few rows state our own observation and say so.
+
+| group | quantity | value | as printed | where |
+| --- | --- | --- | --- | --- |
+| material | soil family | PS | PS | FC-10A |
+| material | gradation | *not yet extracted* |  | F2-14 average curve for the family; individual analyses in Vol. II Appendix A |
+| state | relative density Dr | *not reported* |  | FC-10A |
+| state | unit weight | 4069 N/m^3 (bulk density 414.9 kg/m^3) | 25.90 pcf | FC-10A |
+| state | minimum and maximum density of the batch | *not yet extracted* |  | Fig. 2-17; Vol. II Appendix A; degraded values for used soil in Figs. 2-56 to 2-58 |
+| state | moisture | air dried, 0.2 to 0.3 percent by weight (occasionally 0.6) | 0.2 to 0.3% | text 2-103, PDF 128 (applies to all soils) |
+| apparatus | shear box | direct shear (University of Notre Dame) | direct shear (University of Notre Dame) | text 2-40, PDF 65; Fig. 2-20 |
+| apparatus | specimen height | *not reported* |  |  |
+| loading | normal stress, held constant | *not reported* |  | FC-10A legend |
+| loading | displacement rate | *not reported* |  | text 2-40, PDF 65 |
+| loading | gravity | 9.81456 m/s^2, the report's value for Earth, 32.2 ft/s^2, converted exactly; the tests ran in a laboratory on Earth | earth = 32.2 fps² | AM-68-1 Vol. I, glossary, printed 2-2, PDF 27 |
+| measured | channels | peak shear strength vs normal stress with least-squares line (Univac 1107, CAL-COMP plot) |  | FC-10A |
+| measured | dilation zero | *not reported* |  | FC-10A, lower panel |
+| soil strength | friction angle | *not yet extracted* |  | Fig. 2-23 for the family against Dr |
+| soil strength | apparent cohesion | *not reported*: the report declines to use direct-shear apparent cohesion as a descriptor; about 0.1 psi explains the LPT size effects |  | text 2-47, PDF 72 |
+
+## Source pages
+
+FC-10A, *PS Loose*, AM-68-1 Vol. II (NASA CR-92215), printed C-28, PDF 142.
+Text: FC-10A.
+Text: text C-1 (PDF 115).
+
+::: {layout-ncol=2}
+![Vol. II PDF page 142](../img/1968-vol2/p0142.png){.lightbox}
+
+:::
+
+## How to cite
+
+Record `b68-ds-fc-10a` in `data/experiments/index.csv` of this repository, and the source: FC-10A, *PS Loose*, AM-68-1 Vol. II (NASA CR-92215), printed C-28, PDF 142.
+
+<small>Maintainers: the [provenance and review record](../review/b68-ds-fc-10a.qmd) of this record holds the reconciliation of the two readings, the point statuses, the calibration residuals and the audit status.</small>
+
+::: {.generated-note}
+Generated view. Inputs: `data/experiments/index.csv`, `data/experiments/index.json`, `corpus/1968/figures.csv`, `corpus/1968-vol2/figures.csv`, `data/materials/materials.csv`, `data/experiments/<id>/observations.csv`. Regenerate with `python tools/build_site.py`; do not edit this file, fix the inputs.
+:::
+

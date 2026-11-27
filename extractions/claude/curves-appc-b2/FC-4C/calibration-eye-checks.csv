@@ -1,0 +1,13 @@
+figure_id,panel,axis,printed_label,fitted_pixel,eye_pixel,residual_px,where_read,crop
+FC-4C,1,x,50,1061.1,1061.5,0.4,at the bottom frame v=2490,crops/eye/p1-x50.png
+FC-4C,1,x,150,1646.0,1646.5,0.5,at the bottom frame v=2490,crops/eye/p1-x150.png
+FC-4C,1,x,250,2221.3,2221.0,-0.3,at the bottom frame v=2490,crops/eye/p1-x250.png
+FC-4C,1,y,8000,1323.6,1323.0,-0.6,at the left frame u=790,crops/eye/p1-y8000.png
+FC-4C,1,y,4000,1910.0,1909.0,-1.0,at the left frame u=790,crops/eye/p1-y4000.png
+FC-4C,1,y,0,2490.1,2489.5,-0.6,at the left frame u=790,crops/eye/p1-y0.png
+FC-4C,2,x,50,1069.6,1070.0,0.4,at the bottom frame v=3355,crops/eye/p2-x50.png
+FC-4C,2,x,150,1654.0,1654.0,0.0,at the bottom frame v=3355,crops/eye/p2-x150.png
+FC-4C,2,x,250,2230.5,2230.5,0.0,at the bottom frame v=3355,crops/eye/p2-x250.png
+FC-4C,2,y,100,2780.1,2780.0,-0.1,at the left frame u=790,crops/eye/p2-y100.png
+FC-4C,2,y,0,3068.8,3068.0,-0.8,at the left frame u=790,crops/eye/p2-y0.png
+FC-4C,2,y,-100,3354.9,3355.5,0.6,at the left frame u=790,crops/eye/p2-ym100.png

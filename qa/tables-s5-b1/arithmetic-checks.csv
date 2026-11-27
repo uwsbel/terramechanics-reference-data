@@ -1,0 +1,17 @@
+run_number,check,computed,printed,tolerance,verdict
+1,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",115.147 (114.954 to 115.340),114.9,0.05,differs
+2,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",68.393 (68.200 to 68.586),60.5,0.05,differs
+3,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",60.278 (60.085 to 60.472),60.0,0.05,differs
+4,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",117.466 (117.272 to 117.659),117.3,0.05,consistent
+5,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",56.414 (56.221 to 56.608),60.8,0.05,differs
+6,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",117.079 (116.886 to 117.272),117.1,0.05,consistent
+7,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",59.506 (59.312 to 59.699),60.0,0.05,differs
+8,"|V_v| against g tau, g = 32.2 ft/s^2, the report's value for Earth (glossary, printed 2-2, PDF 27)",118.238 (118.045 to 118.432),118.0,0.05,consistent
+1,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",115.054 (114.861 to 115.247),114.9,0.05,consistent
+2,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",68.338 (68.145 to 68.531),60.5,0.05,differs
+3,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",60.230 (60.037 to 60.423),60.0,0.05,consistent
+4,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",117.371 (117.178 to 117.564),117.3,0.05,consistent
+5,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",56.369 (56.176 to 56.562),60.8,0.05,differs
+6,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",116.985 (116.792 to 117.178),117.1,0.05,consistent
+7,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",59.458 (59.265 to 59.651),60.0,0.05,differs
+8,"|V_v| against g tau, g = standard gravity, 9.80665 m/s^2",118.143 (117.950 to 118.336),118.0,0.05,consistent
